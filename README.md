@@ -60,6 +60,10 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76
 - Apifox/OpenAPI 文档：[docs/openapi.json](docs/openapi.json)
 - Apifox 导入说明：[docs/APIFOX.md](docs/APIFOX.md)
 
+国内访问镜像：
+
+- 镜像仓库与 Pages 配置：[docs/MIRRORS.md](docs/MIRRORS.md)
+
 ## 目录结构
 
 ```text

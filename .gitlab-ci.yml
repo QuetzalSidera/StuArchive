@@ -1,0 +1,33 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -R data public/data
+    - cp -R docs public/docs
+    - |
+      cat > public/index.html <<'HTML'
+      <!doctype html>
+      <html lang="zh-CN">
+        <head>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <title>StuArchive API Mirror</title>
+        </head>
+        <body>
+          <h1>StuArchive API Mirror</h1>
+          <ul>
+            <li><a href="./data/index.json">API manifest</a></li>
+            <li><a href="./data/students/lookup.json">Students lookup</a></li>
+            <li><a href="./docs/openapi.json">OpenAPI document</a></li>
+          </ul>
+        </body>
+      </html>
+      HTML
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
