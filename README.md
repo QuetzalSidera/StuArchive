@@ -63,6 +63,7 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76
 国内访问镜像：
 
 - 镜像仓库与 Pages 配置：[docs/MIRRORS.md](docs/MIRRORS.md)
+- GitCode Raw API：https://api.gitcode.com/api/v5/repos/Eternal_hearted/StuArchive/raw/data/index.json
 
 ## 目录结构
 
