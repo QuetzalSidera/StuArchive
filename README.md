@@ -44,11 +44,14 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/index.json
 
 ```text
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json
+https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/1.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76.json
 ```
 
-详情文件需要在同步时使用 `--include-details` 才会生成。
+`lookup.json` 是预生成查询索引，可按 ID、学生姓名、条目名称、标题等别名在客户端快速定位条目。详情文件需要在同步时使用 `--include-details` 才会生成。
+
+同步写出的 `//static.kivo.wiki/...` 静态资源地址会被转换为 `https://static.kivo.wiki/...`，可直接用于图片、封面等资源加载。
 
 完整说明见 [API 文档](docs/API.md) 和 [更新流程](docs/UPDATE.md)。
 
@@ -66,6 +69,7 @@ data/
   meta/                      # API 根信息、统计信息
   students/
     index.json               # 学生集合索引
+    lookup.json              # 按 ID/姓名/别名查询
     pages/1.json             # Kivo 原始分页响应
     76.json                  # 学生详情，需 --include-details
 ```

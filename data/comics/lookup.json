@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0.0",
+  "name": "comics",
+  "description": "Comic collection records.",
+  "generated_at": "2026-06-02T19:30:23Z",
+  "id_key": "id",
+  "source_index": {
+    "path": "comics/index.json",
+    "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json"
+  },
+  "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
+  "total_items": 8,
+  "alias_count": 8,
+  "normalized_alias_count": 8,
+  "by_id": {
+    "8": {
+      "id": 8,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 8,
+        "title": "其他官方漫画",
+        "author": "",
+        "cover": "https://static.kivo.wiki/images/comics/cover/ayZr0In65qSn0rlBth6uZ1yRbDKiwIjk.jpg",
+        "type": "official"
+      },
+      "detail_path": "comics/8.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/8.json"
+    },
+    "7": {
+      "id": 7,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 7,
+        "title": "百花缭乱试胆事件",
+        "author": "Chanseong",
+        "cover": "https://static.kivo.wiki/images/comics/cover/FLcru2PPkd2VGfdvFE9xIRhBYpdMcVh2.jpg",
+        "type": "official"
+      },
+      "detail_path": "comics/7.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/7.json"
+    },
+    "6": {
+      "id": 6,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 6,
+        "title": "晄轮舞台上的捉迷藏",
+        "author": "せるげい",
+        "cover": "https://static.kivo.wiki/images/comics/cover/Fu6q4BHS6DMV9n1NVged5I8ss1v3d4Tc.jpg",
+        "type": "derivative"
+      },
+      "detail_path": "comics/6.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/6.json"
+    },
+    "5": {
+      "id": 5,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 5,
+        "title": "青春记录（あおはるレコード）",
+        "author": "せるげい",
+        "cover": "https://static.kivo.wiki/images/comics/cover/FW0Vb3uWBB6gak9fuAYkyefb0gjxmuQL.png",
+        "type": "official"
+      },
+      "detail_path": "comics/5.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/5.json"
+    },
+    "4": {
+      "id": 4,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 4,
+        "title": "布噜布噜档案②",
+        "author": "※多位作者",
+        "cover": "https://static.kivo.wiki/images/comics/cover/7BTjOY6J9LLy6mTdkorLfnOiNwfult80.png",
+        "type": "official"
+      },
+      "detail_path": "comics/4.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/4.json"
+    },
+    "3": {
+      "id": 3,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 3,
+        "title": "蔚蓝档案！（ぶるーあーかいぶっ！）",
+        "author": "純粋な不純物",
+        "cover": "https://static.kivo.wiki/images/comics/cover/0XgyfwBlWekB04ltO2cSGFB4aaxKtMZ6.png",
+        "type": "official"
+      },
+      "detail_path": "comics/3.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/3.json"
+    },
+    "2": {
+      "id": 2,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 2,
+        "title": "布噜布噜档案①",
+        "author": "totoko、椰子玉米",
+        "cover": "https://static.kivo.wiki/images/comics/cover/icxPBPONaZC96BWNFjpQqg5V4iApNXJp.jpg",
+        "type": "official"
+      },
+      "detail_path": "comics/2.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/2.json"
+    },
+    "1": {
+      "id": 1,
+      "source_path": "comics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/index.json",
+      "item": {
+        "id": 1,
+        "title": "国际服官方四格漫画",
+        "author": "돈미니DONMINI",
+        "cover": "https://static.kivo.wiki/images/comics/cover/9a3UCKOOPSXD5gFAu32YHLW56F63mRCC.png",
+        "type": "official"
+      },
+      "detail_path": "comics/1.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/1.json"
+    }
+  },
+  "by_alias": {
+    "其他官方漫画": [
+      "8"
+    ],
+    "百花缭乱试胆事件": [
+      "7"
+    ],
+    "晄轮舞台上的捉迷藏": [
+      "6"
+    ],
+    "青春记录(あおはるレコード)": [
+      "5"
+    ],
+    "布噜布噜档案2": [
+      "4"
+    ],
+    "蔚蓝档案!(ぶるーあーかいぶっ!)": [
+      "3"
+    ],
+    "布噜布噜档案1": [
+      "2"
+    ],
+    "国际服官方四格漫画": [
+      "1"
+    ]
+  },
+  "by_normalized_alias": {
+    "其他官方漫画": [
+      "8"
+    ],
+    "百花缭乱试胆事件": [
+      "7"
+    ],
+    "晄轮舞台上的捉迷藏": [
+      "6"
+    ],
+    "青春记录(あおはるレコード)": [
+      "5"
+    ],
+    "布噜布噜档案2": [
+      "4"
+    ],
+    "蔚蓝档案!(ぶるーあーかいぶっ!)": [
+      "3"
+    ],
+    "布噜布噜档案1": [
+      "2"
+    ],
+    "国际服官方四格漫画": [
+      "1"
+    ]
+  }
+}

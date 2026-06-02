@@ -54,6 +54,15 @@
 
 5. 确认结构无误后再运行完整同步。
 
+## 仅重建查询索引和 URL 规范化
+
+如果没有重新抓取 Kivo，只需要基于当前 `data/` 重新生成 `lookup.json` 并把 `//static.kivo.wiki/...` 转换为绝对 URL：
+
+```bash
+python3 scripts/postprocess.py
+python3 scripts/validate.py
+```
+
 ## GitHub Raw 生效
 
 推送到 `main` 后，Raw URL 通常会很快更新：

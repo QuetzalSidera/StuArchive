@@ -14,6 +14,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from postprocess import absolutize_urls, build_lookup, lookup_summary
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCES = ROOT / "sources.json"
@@ -34,6 +36,7 @@ def load_json(path: Path) -> JsonObject:
 
 
 def write_json(path: Path, payload: Any) -> None:
+    payload = absolutize_urls(payload)
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp_path = path.with_suffix(path.suffix + ".tmp")
     with tmp_path.open("w", encoding="utf-8") as handle:
@@ -281,9 +284,18 @@ def sync_collection(
         "pages": pages,
         "details": details,
     }
+
+    lookup_rel_path = output_dir / "lookup.json"
+    lookup = build_lookup(config, resource, collection_index, index_rel_path)
+    lookup_info = lookup_summary(config, lookup_rel_path, lookup)
+    collection_index["lookup"] = lookup_info
+    write_json(data_dir / lookup_rel_path, lookup)
     write_json(data_dir / index_rel_path, collection_index)
 
-    print(f"[sync] {name}: pages {page_count}/{max_page}, items {len(items)}, details {len(details)}")
+    print(
+        f"[sync] {name}: pages {page_count}/{max_page}, items {len(items)}, "
+        f"details {len(details)}, aliases {lookup_info['alias_count']}"
+    )
     return {
         "name": name,
         "type": "collection",
@@ -297,6 +309,10 @@ def sync_collection(
         "total_items": len(items),
         "details_synced": len(details),
         "details_available": bool(resource.get("detail_path")),
+        "lookup_path": lookup_info["path"],
+        "lookup_raw_url": lookup_info["raw_url"],
+        "lookup_alias_count": lookup_info["alias_count"],
+        "lookup_normalized_alias_count": lookup_info["normalized_alias_count"],
     }
 
 

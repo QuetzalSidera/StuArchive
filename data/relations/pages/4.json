@@ -8,70 +8,70 @@
         "id": 31,
         "name": "亮闪闪部",
         "name_cn": "",
-        "image": "//static.kivo.wiki/images/relation/lJB2knBgXfKq3uzNjUkielAsh9mr9ECa.png",
+        "image": "https://static.kivo.wiki/images/relation/lJB2knBgXfKq3uzNjUkielAsh9mr9ECa.png",
         "description": "由绮良与绘里香二人建立的，以做自己想做的事为宗旨的社团。\n\n> ※绮良与绘里香此前均为未加入社团的学生，在游戏剧情中显示为「回家部」\n\n![gMzJJYE2z0kdthMIz1rlsU0C7dt9OHwO.jpg](files/3/gMzJJYE2z0kdthMIz1rlsU0C7dt9OHwO.jpg)\n![XZUSGDN7Byz8tt1hONg6KKtUZtHBOYoD.jpg](files/3/XZUSGDN7Byz8tt1hONg6KKtUZtHBOYoD.jpg)\n![f0Anr4rl78kd62o38KVZtYMqyAOfxQom.jpg](files/3/f0Anr4rl78kd62o38KVZtYMqyAOfxQom.jpg)\n![Bbx34EJtDSyxcgmaU1PzQ9yfZK1x01Jm.jpg](files/3/Bbx34EJtDSyxcgmaU1PzQ9yfZK1x01Jm.jpg)\n![P3kOscjPk1SNkAP7oUPsaxivebukBvC3.jpg](files/3/P3kOscjPk1SNkAP7oUPsaxivebukBvC3.jpg)\n\n![kWscvQ2tATVn7SY0OEH0GLGOPQFIfgks.jpg](files/3/kWscvQ2tATVn7SY0OEH0GLGOPQFIfgks.jpg)"
       },
       {
         "id": 32,
         "name": "惩戒委员会",
         "name_cn": "惩戒委员会",
-        "image": "//static.kivo.wiki/images/relation/9OQkO5dQhAZOYgTU5PA7uOsUjzih26rr.png",
+        "image": "https://static.kivo.wiki/images/relation/9OQkO5dQhAZOYgTU5PA7uOsUjzih26rr.png",
         "description": "![惩戒委员会_JP](images/gallery/8/BG_CS_PV_37.jpg)\n![惩戒委员会_CN](images/gallery/1.%E5%89%A7%E6%83%85-%E5%85%B6%E4%BB%96-%E7%AE%80%E4%B8%AD%E6%9C%AC%E5%9C%B0%E5%8C%96/bg_cs_pv_37.jpg)\n出现于过场CG中的格赫娜部名，拥有社团活动室。其余情况一概不明。"
       },
       {
         "id": 33,
         "name": "情报部",
         "name_cn": "情报部",
-        "image": "//static.kivo.wiki/images/relation/qMLeCznVb39RLeTgnLcTsg2yh1KOe3JK.png",
+        "image": "https://static.kivo.wiki/images/relation/qMLeCznVb39RLeTgnLcTsg2yh1KOe3JK.png",
         "description": ""
       },
       {
         "id": 34,
         "name": "研讨会",
         "name_cn": "研讨会",
-        "image": "//static.kivo.wiki/images/relation/yaMkfTZQv8hiRaHDXV9TV26AnUesaDvh.png",
+        "image": "https://static.kivo.wiki/images/relation/yaMkfTZQv8hiRaHDXV9TV26AnUesaDvh.png",
         "description": ""
       },
       {
         "id": 35,
         "name": "C&C",
         "name_cn": "C&C",
-        "image": "//static.kivo.wiki/images/relation/morZKJShZpHZoeEhd5nmCB6lhzI7nGmM.png",
+        "image": "https://static.kivo.wiki/images/relation/morZKJShZpHZoeEhd5nmCB6lhzI7nGmM.png",
         "description": ""
       },
       {
         "id": 36,
         "name": "真理部",
         "name_cn": "真理社",
-        "image": "//static.kivo.wiki/images/relation/Tlp29Wmc9xPId95PjsTJlARucqu3cHfT.png",
+        "image": "https://static.kivo.wiki/images/relation/Tlp29Wmc9xPId95PjsTJlARucqu3cHfT.png",
         "description": "## 关系链图\n\n```mermaid\nflowchart TB\n    %% 节点定义和样式\n    classDef club fill:#ffecb3,stroke:#ff9800,stroke-width:2px\n    classDef person fill:#e3f2fd,stroke:#1976d2,stroke-width:2px\n    classDef event fill:#e8f5e9,stroke:#388e3c,stroke-width:2px\n    classDef truthMember fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px\n\n    %% 社团节点\n    GameDev[\"游戏开发部\"]:::club\n    EngDept[\"工程部\"]:::club\n    GymDept[\"健身部\"]:::club\n    FoodClub[\"美食研究会\"]:::club\n    CandC[\"C&C\"]:::club\n\n    %% 人物节点\n    subgraph TruthMembers[\"【真理部】\"]\n        direction LR\n        Turi[\"小涂 真纪\"]:::truthMember\n        Kogane[\"小钩 晴\"]:::truthMember\n        Otama[\"音濑 小玉\"]:::truthMember\n        Chihiro[\"各务 千寻（副部长）\"]:::truthMember\n    end\n    Mystar[\"明星 日鞠\"]:::person\n\n    %% 事件节点\n    Seminar[\"研讨会\"]:::event\n    RabbitTeam[\"RABBIT小队\"]:::event\n\n    %% 连接关系\n    FoodClub -.->|\"曾咨询\"| Kogane\n    \n    Mystar -->|\"前部长\"| TruthMembers\n    \n    GameDev <===>|\"多次合作\"| EngDept\n    \n    TruthMembers <===>|\"多次合作\"| EngDept\n    TruthMembers -->|\"曾匿名对抗\"| RabbitTeam\n    TruthMembers <--->|\"山中偶遇\"| GymDept\n    TruthMembers <===>|\"伙伴社团\"| GameDev\n    TruthMembers -->|\"协助准备晄轮大祭\"| Seminar\n    \n    CandC <--->|\"曾对抗 现伙伴\"| GameDev\n    TruthMembers <--->|\"曾对抗/合作\"| CandC\n```"
       },
       {
         "id": 37,
         "name": "游戏开发部",
         "name_cn": "游戏开发部",
-        "image": "//static.kivo.wiki/images/relation/q1bsjGP5srgzFwpcxTeXDMkmsgadf4Q5.png",
+        "image": "https://static.kivo.wiki/images/relation/q1bsjGP5srgzFwpcxTeXDMkmsgadf4Q5.png",
         "description": "# 杂项趣闻\n\n:::: center\n!!! question <font size=\"4\">**荣 誉 勋 章**</font>\n![hanamaru_coconut.png](files/19083/lgj4cn7FML4efZeQXT3qrdc0b6jy61g0.png =100x)\n此组织曾在本站开设的投票活动『基沃托斯年度最佳大选』中取得前三名的成绩！\n[2025年](https://kivo.wiki/article/57)：【年度最佳剧情表现】**第1名**![rank1.png](files/19083/LMDEXyZBQ3zQXr1770iyoLWlXNkjTePK.png =50x)\n!!!\n::::\n\n## 部员们的名字由来\n\n有一种假说认为，游戏部全员的名字都与现实中存在的游戏（主要是美少女游戏）制作公司有关。\n- 才羽双子的姓氏「才羽（さいば）」可能来自读音相近的「Cyberworks（サイバーワークス）」。其旗下的「Thinkerbell」和「Wendybell」这两个品牌，官网的主题色颜色正好与桃绿两人立绘的主题色相对应。\n![屏幕截图 2026-05-15 155828.png](files/19083/cHuysDzjoKM9D4CWyqlPUCJgK8jIUjie.png =45%x) ![屏幕截图 2026-05-15 155836.png](files/19083/Pen9xafvIfIjqp3wnxisi5P8wJQeFoEP.png =44%x)\n- 天童爱丽丝这一名字可能NETA了「AliceSoft（アリスソフト）」，通称A社；其姓氏「天童（てんどう）」则与大名鼎鼎的「任天堂（にんてんどう）」读音相近。!!但爱丽丝的主题色却是与索尼Playstation相近的蓝色，而不是任天堂的红色。!!\n- 作为游戏开发社名誉部员的凯伊最初的代号「KEY」也让人联想到同名的知名工作室「KEY（キー）」，通称key社/键社。\n- 花冈柚子同样有同名的工作室「YuzuSoft（ゆずソフト）」，通称柚子社。"
       },
       {
         "id": 38,
         "name": "工程部",
         "name_cn": "工程部",
-        "image": "//static.kivo.wiki/images/relation/UuZX5e5xWmcDFN1irsEhxqYSevGktyEh.png",
+        "image": "https://static.kivo.wiki/images/relation/UuZX5e5xWmcDFN1irsEhxqYSevGktyEh.png",
         "description": ""
       },
       {
         "id": 39,
         "name": "特殊现象调查部",
         "name_cn": "超自然现象调查部",
-        "image": "//static.kivo.wiki/images/relation/WHT6XL1DKtPRXrRPVh31768YqWB1EvNw.png",
+        "image": "https://static.kivo.wiki/images/relation/WHT6XL1DKtPRXrRPVh31768YqWB1EvNw.png",
         "description": ""
       },
       {
         "id": 40,
         "name": "体育训练部",
         "name_cn": "健身部",
-        "image": "//static.kivo.wiki/images/relation/iRb87TF8WF27VKmt7JHfjRnfpYqqTdcD.png",
+        "image": "https://static.kivo.wiki/images/relation/iRb87TF8WF27VKmt7JHfjRnfpYqqTdcD.png",
         "description": ""
       }
     ]

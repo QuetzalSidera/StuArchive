@@ -103,6 +103,71 @@ GET /timeline/index.json
 
 `items` 是所有分页中对应列表字段的合并结果，适合做列表查询和客户端搜索。
 
+### 查询索引
+
+GitHub Raw 是静态文件服务，不能执行真正的服务端查询。StuArchive 为每个集合额外生成 `lookup.json`，用于更方便地按 ID、名称、标题或本地化别名查询：
+
+```text
+GET /students/lookup.json
+GET /items/lookup.json
+GET /schools/lookup.json
+GET /articles/lookup.json
+```
+
+`lookup.json` 形态：
+
+```json
+{
+  "schema_version": "1.0.0",
+  "name": "students",
+  "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
+  "total_items": 474,
+  "alias_count": 5382,
+  "normalized_alias_count": 3693,
+  "by_id": {
+    "76": {
+      "id": 76,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "detail_path": "students/76.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76.json",
+      "item": {}
+    }
+  },
+  "by_alias": {
+    "小鸟游星野": ["76"],
+    "小鳥遊ホシノ": ["76"]
+  },
+  "by_normalized_alias": {
+    "小鸟游星野": ["76"]
+  }
+}
+```
+
+学生集合会自动生成默认中文、简中、日文姓名组合，并结合简中/繁中/日文皮肤名生成别名，包括：
+
+```text
+小鸟游星野
+小鸟游 星野
+星野
+小鳥遊ホシノ
+陆八魔阿露（礼服）
+陸八魔アル（ドレス）
+```
+
+其他集合会使用 `name`、`name_cn`、`name_jp`、`name_zh_tw`、`title`、`title_cn`、`title_jp`、`title_zh_tw`、`label`、`slug`、`original_file_name` 等字段生成别名。
+
+客户端查询示例：
+
+```js
+const base = "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data";
+const lookup = await fetch(`${base}/students/lookup.json`).then((res) => res.json());
+
+const key = "陆八魔阿露（礼服）".normalize("NFKC").trim().replace(/\s+/g, "").toLocaleLowerCase();
+const [id] = lookup.by_normalized_alias[key] ?? [];
+const student = id ? lookup.by_id[id].item : null;
+```
+
 ### 原始分页
 
 每个集合保留 Kivo API 的原始分页响应：
@@ -165,10 +230,30 @@ GET /articles/77.json
 curl -L https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json
 ```
 
+按学生姓名读取查询索引：
+
+```bash
+curl -L https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json
+```
+
 读取星野详情：
 
 ```bash
 curl -L https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76.json
 ```
 
-GitHub Raw 不支持服务端筛选。需要按名称、ID、学校等条件查询时，先读取对应 `index.json`，再在客户端过滤 `items`。
+GitHub Raw 不支持服务端筛选。需要按名称、ID、标题等条件查询时，优先读取对应 `lookup.json`；复杂条件仍可读取 `index.json` 后在客户端过滤 `items`。
+
+## 静态资源 URL
+
+Kivo API 中的协议相对静态资源 URL 会在同步时转换为绝对 URL，便于客户端直接使用：
+
+```text
+//static.kivo.wiki/images/students/.../avatar.png
+```
+
+会保存为：
+
+```text
+https://static.kivo.wiki/images/students/.../avatar.png
+```
