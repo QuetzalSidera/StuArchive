@@ -1,0 +1,51 @@
+name: Sync Kivo Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      include_details:
+        description: "Fetch per-id detail JSON files"
+        required: false
+        default: false
+        type: boolean
+      include_disabled_details:
+        description: "Also fetch details for large resources such as timeline"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Sync data
+        shell: bash
+        run: |
+          args=()
+          if [ "${{ inputs.include_details }}" = "true" ]; then
+            args+=(--include-details)
+          fi
+          if [ "${{ inputs.include_disabled_details }}" = "true" ]; then
+            args+=(--include-disabled-details)
+          fi
+          python scripts/sync.py "${args[@]}"
+          python scripts/validate.py
+      - name: Commit changes
+        shell: bash
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "chore: sync kivo data"
+          git push

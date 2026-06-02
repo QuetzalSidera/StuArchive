@@ -1,0 +1,241 @@
+{
+  "name": "StuArchive",
+  "description": "A static JSON mirror of public Blue Archive data exposed by Kivo Wiki.",
+  "source_site_url": "https://kivo.wiki/",
+  "base_url": "https://api.kivo.wiki/api/v1",
+  "raw_base_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data",
+  "user_agent": "StuArchive/0.1 (+https://github.com/QuetzalSidera/StuArchive)",
+  "timeout_seconds": 30,
+  "request_delay_seconds": 0.1,
+  "license": {
+    "repository": "CC BY-SA 4.0",
+    "repository_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "notice": "Mirrored upstream content keeps its original Kivo, third-party, Nexon, and Yostar notices. See NOTICE.md and LICENSE-DATA.md."
+  },
+  "resources": [
+    {
+      "name": "api-root",
+      "mode": "single",
+      "path": "/",
+      "output": "meta/api-root.json",
+      "description": "Kivo API root/version response."
+    },
+    {
+      "name": "statistics",
+      "mode": "single",
+      "path": "/statistics/index",
+      "output": "meta/statistics.json",
+      "description": "Site-level public counters."
+    },
+    {
+      "name": "current-event",
+      "mode": "single",
+      "path": "/data/event/now",
+      "output": "current/event.json",
+      "description": "Current event window."
+    },
+    {
+      "name": "current-raid",
+      "mode": "single",
+      "path": "/data/raid/now",
+      "output": "current/raid.json",
+      "description": "Current raid window."
+    },
+    {
+      "name": "current-pick-up",
+      "mode": "single",
+      "path": "/data/pick_up/",
+      "output": "current/pick-up.json",
+      "description": "Current pickup banner student IDs."
+    },
+    {
+      "name": "lucky-item",
+      "mode": "single",
+      "path": "/data/lucky_item/",
+      "output": "current/lucky-item.json",
+      "description": "Current lucky item."
+    },
+    {
+      "name": "students-birthday-week",
+      "mode": "single",
+      "path": "/data/students/birthday/week",
+      "output": "current/students-birthday-week.json",
+      "description": "Students with birthdays this week."
+    },
+    {
+      "name": "students",
+      "mode": "paginated",
+      "path": "/data/students/",
+      "output_dir": "students",
+      "list_key": "students",
+      "id_key": "id",
+      "detail_path": "/data/students/{id}",
+      "details_enabled": true,
+      "description": "Student list and per-student profiles."
+    },
+    {
+      "name": "items",
+      "mode": "paginated",
+      "path": "/data/items/",
+      "output_dir": "items",
+      "list_key": "item",
+      "id_key": "id",
+      "detail_path": "/data/items/{id}",
+      "details_enabled": true,
+      "description": "Item and furniture records."
+    },
+    {
+      "name": "equipments",
+      "mode": "paginated",
+      "path": "/data/equipments/",
+      "output_dir": "equipments",
+      "list_key": "equipment",
+      "id_key": "id",
+      "detail_path": "/data/equipments/{id}",
+      "details_enabled": true,
+      "description": "Equipment records."
+    },
+    {
+      "name": "schools",
+      "mode": "paginated",
+      "path": "/data/schools/",
+      "output_dir": "schools",
+      "list_key": "school",
+      "id_key": "id",
+      "detail_path": "/data/schools/{id}",
+      "details_enabled": true,
+      "description": "School and organization pages."
+    },
+    {
+      "name": "models",
+      "mode": "paginated",
+      "path": "/data/models/",
+      "output_dir": "models",
+      "list_key": "model",
+      "id_key": "id",
+      "detail_path": "/data/models/{id}",
+      "details_enabled": true,
+      "description": "3D model metadata."
+    },
+    {
+      "name": "spines",
+      "mode": "paginated",
+      "path": "/data/spines/",
+      "output_dir": "spines",
+      "list_key": "spine",
+      "id_key": "id",
+      "detail_path": "/data/spines/{id}",
+      "details_enabled": true,
+      "description": "Spine asset metadata."
+    },
+    {
+      "name": "relations",
+      "mode": "paginated",
+      "path": "/data/relations/",
+      "output_dir": "relations",
+      "list_key": "relation",
+      "id_key": "id",
+      "detail_path": "/data/relations/{id}",
+      "details_enabled": true,
+      "description": "Character relation and faction records."
+    },
+    {
+      "name": "declare-icons",
+      "mode": "paginated",
+      "path": "/interactive/declares/icons",
+      "output_dir": "interactive/declare-icons",
+      "list_key": "icon",
+      "id_key": "id",
+      "details_enabled": false,
+      "description": "Interactive declare icon metadata."
+    },
+    {
+      "name": "bulletins",
+      "mode": "paginated",
+      "path": "/bulletins/",
+      "output_dir": "bulletins",
+      "list_key": "bulletin",
+      "id_key": "id",
+      "detail_path": "/bulletins/{id}",
+      "details_enabled": true,
+      "description": "Kivo bulletin posts."
+    },
+    {
+      "name": "news",
+      "mode": "paginated",
+      "path": "/news/",
+      "output_dir": "news",
+      "list_key": "news",
+      "id_key": "id",
+      "detail_path": "/news/{id}",
+      "details_enabled": true,
+      "description": "News posts."
+    },
+    {
+      "name": "galleries",
+      "mode": "paginated",
+      "path": "/galleries/",
+      "output_dir": "galleries",
+      "list_key": "gallery",
+      "id_key": "id",
+      "detail_path": "/galleries/{id}",
+      "details_enabled": true,
+      "description": "Gallery indexes and gallery detail metadata."
+    },
+    {
+      "name": "musics",
+      "mode": "paginated",
+      "path": "/musics/",
+      "output_dir": "musics",
+      "list_key": "music",
+      "id_key": "id",
+      "detail_path": "/musics/{id}",
+      "details_enabled": true,
+      "description": "Music metadata."
+    },
+    {
+      "name": "timeline",
+      "mode": "paginated",
+      "path": "/timeline/",
+      "output_dir": "timeline",
+      "list_key": "timeline",
+      "id_key": "id",
+      "detail_path": "/timeline/{id}",
+      "details_enabled": false,
+      "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large."
+    },
+    {
+      "name": "walkthroughs",
+      "mode": "paginated",
+      "path": "/walkthroughs/",
+      "output_dir": "walkthroughs",
+      "list_key": "walkthrough",
+      "id_key": "id",
+      "detail_path": "/walkthroughs/{id}",
+      "details_enabled": true,
+      "description": "Shared walkthrough/team composition records."
+    },
+    {
+      "name": "articles",
+      "mode": "paginated",
+      "path": "/articles/",
+      "output_dir": "articles",
+      "list_key": "article",
+      "id_key": "id",
+      "detail_path": "/articles/{id}",
+      "details_enabled": true,
+      "description": "Article records."
+    },
+    {
+      "name": "comics",
+      "mode": "paginated",
+      "path": "/comics/",
+      "output_dir": "comics",
+      "list_key": "comics",
+      "id_key": "id",
+      "detail_path": "/comics/{id}",
+      "details_enabled": true,
+      "description": "Comic collection records."
+    }
+  ]
+}
