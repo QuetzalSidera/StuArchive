@@ -24,6 +24,12 @@ https://api.gitcode.com/api/v5/repos/Eternal_hearted/StuArchive/raw/data/student
 https://api.gitcode.com/api/v5/repos/Eternal_hearted/StuArchive/raw/docs/openapi.json
 ```
 
+2026-06-03 本地抽测结果：
+
+- 上述三个入口均返回 `200 OK`。
+- 响应 `Content-Type` 为 `application/octet-stream;charset=UTF-8`，不是 `application/json`。
+- 带 `Origin` 请求时会返回 `Access-Control-Allow-Origin`，可用于浏览器端 `fetch`；如调用方强依赖 JSON MIME，优先使用 Pages 镜像或服务端代理。
+
 本地手动推送：
 
 ```bash
