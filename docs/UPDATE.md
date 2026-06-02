@@ -23,7 +23,7 @@
 4. 提交并推送：
 
    ```bash
-   git add sources.json data README.md docs LICENSE LICENSE-DATA.md NOTICE.md scripts main.py
+   git add sources.json data README.md docs LICENSE LICENSE-DATA.md NOTICE.md scripts
    git commit -m "chore: sync kivo data"
    git push origin main
    ```
@@ -46,7 +46,13 @@
    python3 scripts/validate.py
    ```
 
-4. 确认结构无误后再运行完整同步。
+4. 更新 OpenAPI / Apifox 文档：
+
+   ```bash
+   python3 scripts/generate_openapi.py
+   ```
+
+5. 确认结构无误后再运行完整同步。
 
 ## GitHub Raw 生效
 

@@ -52,6 +52,11 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76
 
 完整说明见 [API 文档](docs/API.md) 和 [更新流程](docs/UPDATE.md)。
 
+现代 API 工具导入：
+
+- Apifox/OpenAPI 文档：[docs/openapi.json](docs/openapi.json)
+- Apifox 导入说明：[docs/APIFOX.md](docs/APIFOX.md)
+
 ## 目录结构
 
 ```text

@@ -2,6 +2,26 @@
 
 StuArchive 是静态 JSON 文件集合，不运行服务器。客户端通过 GitHub Raw URL 直接读取 JSON 文件，再在本地进行筛选、缓存或索引。
 
+## OpenAPI / Apifox
+
+本项目提供 OpenAPI 3.1 文档，可导入 Apifox：
+
+```text
+https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/docs/openapi.json
+```
+
+本地文件路径：
+
+```text
+docs/openapi.json
+```
+
+导入说明见 [Apifox 导入指南](APIFOX.md)。当 `sources.json` 新增或调整资源后，运行以下命令重新生成 OpenAPI 文档：
+
+```bash
+python3 scripts/generate_openapi.py
+```
+
 ## 基础地址
 
 ```text
@@ -111,31 +131,31 @@ GET /articles/77.json
 
 ## 资源表
 
-| 名称 | Raw 路径 | 上游路径 | 列表字段 | 详情 |
-| --- | --- | --- | --- | --- |
-| `api-root` | `/meta/api-root.json` | `/` | - | - |
-| `statistics` | `/meta/statistics.json` | `/statistics/index` | - | - |
-| `current-event` | `/current/event.json` | `/data/event/now` | - | - |
-| `current-raid` | `/current/raid.json` | `/data/raid/now` | - | - |
-| `current-pick-up` | `/current/pick-up.json` | `/data/pick_up/` | - | - |
-| `lucky-item` | `/current/lucky-item.json` | `/data/lucky_item/` | - | - |
-| `students-birthday-week` | `/current/students-birthday-week.json` | `/data/students/birthday/week` | - | - |
-| `students` | `/students/index.json` | `/data/students/` | `students` | `/students/{id}.json` |
-| `items` | `/items/index.json` | `/data/items/` | `item` | `/items/{id}.json` |
-| `equipments` | `/equipments/index.json` | `/data/equipments/` | `equipment` | `/equipments/{id}.json` |
-| `schools` | `/schools/index.json` | `/data/schools/` | `school` | `/schools/{id}.json` |
-| `models` | `/models/index.json` | `/data/models/` | `model` | `/models/{id}.json` |
-| `spines` | `/spines/index.json` | `/data/spines/` | `spine` | `/spines/{id}.json` |
-| `relations` | `/relations/index.json` | `/data/relations/` | `relation` | `/relations/{id}.json` |
-| `declare-icons` | `/interactive/declare-icons/index.json` | `/interactive/declares/icons` | `icon` | - |
-| `bulletins` | `/bulletins/index.json` | `/bulletins/` | `bulletin` | `/bulletins/{id}.json` |
-| `news` | `/news/index.json` | `/news/` | `news` | `/news/{id}.json` |
-| `galleries` | `/galleries/index.json` | `/galleries/` | `gallery` | `/galleries/{id}.json` |
-| `musics` | `/musics/index.json` | `/musics/` | `music` | `/musics/{id}.json` |
-| `timeline` | `/timeline/index.json` | `/timeline/` | `timeline` | `/timeline/{id}.json`，默认不抓详情 |
-| `walkthroughs` | `/walkthroughs/index.json` | `/walkthroughs/` | `walkthrough` | `/walkthroughs/{id}.json` |
-| `articles` | `/articles/index.json` | `/articles/` | `article` | `/articles/{id}.json` |
-| `comics` | `/comics/index.json` | `/comics/` | `comics` | `/comics/{id}.json` |
+| 名称                       | Raw 路径                                  | 上游路径                           | 列表字段          | 详情                           |
+|--------------------------|-----------------------------------------|--------------------------------|---------------|------------------------------|
+| `api-root`               | `/meta/api-root.json`                   | `/`                            | -             | -                            |
+| `statistics`             | `/meta/statistics.json`                 | `/statistics/index`            | -             | -                            |
+| `current-event`          | `/current/event.json`                   | `/data/event/now`              | -             | -                            |
+| `current-raid`           | `/current/raid.json`                    | `/data/raid/now`               | -             | -                            |
+| `current-pick-up`        | `/current/pick-up.json`                 | `/data/pick_up/`               | -             | -                            |
+| `lucky-item`             | `/current/lucky-item.json`              | `/data/lucky_item/`            | -             | -                            |
+| `students-birthday-week` | `/current/students-birthday-week.json`  | `/data/students/birthday/week` | -             | -                            |
+| `students`               | `/students/index.json`                  | `/data/students/`              | `students`    | `/students/{id}.json`        |
+| `items`                  | `/items/index.json`                     | `/data/items/`                 | `item`        | `/items/{id}.json`           |
+| `equipments`             | `/equipments/index.json`                | `/data/equipments/`            | `equipment`   | `/equipments/{id}.json`      |
+| `schools`                | `/schools/index.json`                   | `/data/schools/`               | `school`      | `/schools/{id}.json`         |
+| `models`                 | `/models/index.json`                    | `/data/models/`                | `model`       | `/models/{id}.json`          |
+| `spines`                 | `/spines/index.json`                    | `/data/spines/`                | `spine`       | `/spines/{id}.json`          |
+| `relations`              | `/relations/index.json`                 | `/data/relations/`             | `relation`    | `/relations/{id}.json`       |
+| `declare-icons`          | `/interactive/declare-icons/index.json` | `/interactive/declares/icons`  | `icon`        | -                            |
+| `bulletins`              | `/bulletins/index.json`                 | `/bulletins/`                  | `bulletin`    | `/bulletins/{id}.json`       |
+| `news`                   | `/news/index.json`                      | `/news/`                       | `news`        | `/news/{id}.json`            |
+| `galleries`              | `/galleries/index.json`                 | `/galleries/`                  | `gallery`     | `/galleries/{id}.json`       |
+| `musics`                 | `/musics/index.json`                    | `/musics/`                     | `music`       | `/musics/{id}.json`          |
+| `timeline`               | `/timeline/index.json`                  | `/timeline/`                   | `timeline`    | `/timeline/{id}.json`，默认不抓详情 |
+| `walkthroughs`           | `/walkthroughs/index.json`              | `/walkthroughs/`               | `walkthrough` | `/walkthroughs/{id}.json`    |
+| `articles`               | `/articles/index.json`                  | `/articles/`                   | `article`     | `/articles/{id}.json`        |
+| `comics`                 | `/comics/index.json`                    | `/comics/`                     | `comics`      | `/comics/{id}.json`          |
 
 ## 查询示例
 
