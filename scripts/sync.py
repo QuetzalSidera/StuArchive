@@ -15,6 +15,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from logging_utils import get_logger, setup_logging
 from postprocess import absolutize_urls, build_lookup, lookup_summary
 
 
@@ -25,6 +26,7 @@ SCHEMA_VERSION = "1.0.0"
 
 
 JsonObject = dict[str, Any]
+LOGGER = get_logger("sync")
 
 
 def utc_now() -> str:
@@ -87,7 +89,7 @@ def load_previous_resources(data_dir: Path) -> dict[str, JsonObject]:
     try:
         manifest = load_json(manifest_path)
     except Exception as exc:
-        print(f"[sync] warning: cannot load previous manifest for stale fallback: {exc}")
+        LOGGER.warning("cannot load previous manifest for stale fallback: %s", exc)
         return {}
 
     resources = manifest.get("resources", [])
@@ -138,7 +140,7 @@ def fallback_collection_entry(
     try:
         collection = load_json(index_path)
     except Exception as exc:
-        print(f"[sync] warning: cannot load stale collection index {index_rel_path}: {exc}")
+        LOGGER.warning("cannot load stale collection index %s: %s", index_rel_path, exc)
         return None
 
     entry: JsonObject = {
@@ -224,7 +226,7 @@ class KivoClient:
                 last_error = exc
 
             wait_seconds = retry_delay * attempt
-            print(f"[sync] retry {attempt}/{attempts - 1} for {url}: {last_error}; waiting {wait_seconds:.1f}s")
+            LOGGER.warning("retry %s/%s for %s: %s; waiting %.1fs", attempt, attempts - 1, url, last_error, wait_seconds)
             time.sleep(wait_seconds)
         else:
             raise RuntimeError(f"Network error for {url}: {last_error}")
@@ -330,7 +332,7 @@ def sync_details(
             }
         )
         if index % 50 == 0 or index == total:
-            print(f"[sync] {resource['name']}: details {index}/{total}")
+            LOGGER.info("%s: details %s/%s", resource["name"], index, total)
     return detail_entries
 
 
@@ -417,9 +419,14 @@ def sync_collection(
     write_json(data_dir / lookup_rel_path, lookup)
     write_json(data_dir / index_rel_path, collection_index)
 
-    print(
-        f"[sync] {name}: pages {page_count}/{max_page}, items {len(items)}, "
-        f"details {len(details)}, aliases {lookup_info['alias_count']}"
+    LOGGER.info(
+        "%s: pages %s/%s, items %s, details %s, aliases %s",
+        name,
+        page_count,
+        max_page,
+        len(items),
+        len(details),
+        lookup_info["alias_count"],
     )
     return {
         "name": name,
@@ -488,7 +495,7 @@ def sync(args: argparse.Namespace) -> int:
             fallback = fallback_resource_entry(resource, previous_resources, config, data_dir, error, fetched_at)
             if not fallback:
                 raise
-            print(f"[sync] warning: {resource['name']} failed, keeping stale data: {error}")
+            LOGGER.warning("%s failed, keeping stale data: %s", resource["name"], error)
             manifest_resources.append(fallback)
             sync_errors.append(
                 {
@@ -520,8 +527,8 @@ def sync(args: argparse.Namespace) -> int:
         "sync_errors": sync_errors,
     }
     write_json(data_dir / "index.json", manifest)
-    print(f"[sync] wrote {data_dir / 'index.json'}")
-    print(f"[sync] requests: {client.request_count}")
+    LOGGER.info("wrote %s", data_dir / "index.json")
+    LOGGER.info("requests: %s", client.request_count)
     return 0
 
 
@@ -543,11 +550,12 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    setup_logging()
     args = parse_args(sys.argv[1:] if argv is None else argv)
     try:
         return sync(args)
     except Exception as exc:
-        print(f"[sync] error: {exc}", file=sys.stderr)
+        LOGGER.error("%s", exc)
         return 1
 
 

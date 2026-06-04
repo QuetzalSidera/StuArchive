@@ -9,6 +9,8 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from logging_utils import get_logger, setup_logging
+
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / "sources.json"
@@ -16,6 +18,7 @@ OUTPUT = ROOT / "docs" / "openapi.json"
 
 
 JsonObject = dict[str, Any]
+LOGGER = get_logger("openapi")
 
 
 def load_json(path: Path) -> JsonObject:
@@ -324,9 +327,10 @@ def build_spec(config: JsonObject) -> JsonObject:
 
 
 def main() -> int:
+    setup_logging()
     config = load_json(SOURCES)
     write_json(OUTPUT, build_spec(config))
-    print(f"[openapi] wrote {OUTPUT}")
+    LOGGER.info("wrote %s", OUTPUT)
     return 0
 
 

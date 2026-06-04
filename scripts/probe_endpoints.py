@@ -11,9 +11,12 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+from logging_utils import get_logger, setup_logging
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCES = ROOT / "sources.json"
+LOGGER = get_logger("probe")
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -54,6 +57,7 @@ def probe(url: str, user_agent: str, timeout: float) -> tuple[int, str, str]:
 
 
 def main(argv: list[str] | None = None) -> int:
+    setup_logging()
     parser = argparse.ArgumentParser(description="Probe Kivo API endpoints.")
     parser.add_argument("paths", nargs="*", help="Endpoint paths or full URLs to probe.")
     parser.add_argument("--sources", type=Path, default=DEFAULT_SOURCES, help="Path to sources.json.")
@@ -65,10 +69,10 @@ def main(argv: list[str] | None = None) -> int:
         try:
             status, content_type, snippet = probe(url, config.get("user_agent", "StuArchiveProbe/0.1"), config.get("timeout_seconds", 15))
         except Exception as exc:
-            print(f"{path}\tERR\t{type(exc).__name__}: {exc}")
+            LOGGER.error("%s\tERR\t%s: %s", path, type(exc).__name__, exc)
             continue
         snippet = snippet.replace("\n", " ")[:160]
-        print(f"{path}\t{status}\t{content_type}\t{snippet}")
+        LOGGER.info("%s\t%s\t%s\t%s", path, status, content_type, snippet)
     return 0
 
 

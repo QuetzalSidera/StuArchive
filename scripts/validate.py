@@ -10,10 +10,13 @@ import sys
 from pathlib import Path
 from typing import Any
 
+from logging_utils import get_logger, setup_logging
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DATA_DIR = ROOT / "data"
 STATIC_PROTOCOL_RELATIVE_RE = re.compile(r"(?<!:)//static\.kivo\.wiki/")
+LOGGER = get_logger("validate")
 
 
 def load_json(path: Path) -> Any:
@@ -41,12 +44,12 @@ def find_protocol_relative_static_urls(value: Any, path: str = "$") -> list[str]
 
 def validate(data_dir: Path) -> int:
     if not data_dir.exists():
-        print(f"[validate] missing data directory: {data_dir}", file=sys.stderr)
+        LOGGER.error("missing data directory: %s", data_dir)
         return 1
 
     json_files = sorted(data_dir.rglob("*.json"))
     if not json_files:
-        print(f"[validate] no JSON files found under {data_dir}", file=sys.stderr)
+        LOGGER.error("no JSON files found under %s", data_dir)
         return 1
 
     errors: list[str] = []
@@ -98,10 +101,10 @@ def validate(data_dir: Path) -> int:
 
     if errors:
         for error in errors:
-            print(f"[validate] {error}", file=sys.stderr)
+            LOGGER.error("%s", error)
         return 1
 
-    print(f"[validate] OK: {len(json_files)} JSON files")
+    LOGGER.info("OK: %s JSON files", len(json_files))
     return 0
 
 
@@ -112,6 +115,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    setup_logging()
     args = parse_args(sys.argv[1:] if argv is None else argv)
     return validate(args.data_dir)
 

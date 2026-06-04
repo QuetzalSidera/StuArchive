@@ -11,6 +11,8 @@ import unicodedata
 from pathlib import Path
 from typing import Any
 
+from logging_utils import get_logger, setup_logging
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCES = ROOT / "sources.json"
@@ -36,6 +38,7 @@ GENERIC_ALIAS_FIELDS = (
 
 
 JsonObject = dict[str, Any]
+LOGGER = get_logger("postprocess")
 
 
 def load_json(path: Path) -> Any:
@@ -308,12 +311,14 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 
 
 def main(argv: list[str] | None = None) -> int:
+    setup_logging()
     args = parse_args(sys.argv[1:] if argv is None else argv)
     config = load_json(args.sources)
     result = postprocess_data(config, args.data_dir)
-    print(
-        "[postprocess] normalized "
-        f"{result['normalized_files']} file(s), wrote {result['lookup_count']} lookup index(es)"
+    LOGGER.info(
+        "normalized %s file(s), wrote %s lookup index(es)",
+        result["normalized_files"],
+        result["lookup_count"],
     )
     return 0
 
