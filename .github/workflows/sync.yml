@@ -32,6 +32,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: sync-kivo-data-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ${{ github.event.inputs.runner || vars.SYNC_RUNNER || 'ubuntu-latest' }}
@@ -72,13 +76,17 @@ jobs:
         if: steps.sync_data.outputs.sync_skipped != 'true'
         shell: bash
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git rebase --autostash origin/main
+          python scripts/validate.py
+
           if git diff --quiet -- data; then
             echo "No data changes."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
           sync_time="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git commit -m "chore: auto sync kivo data ${sync_time}"
-          git push
+          git push origin HEAD:main
