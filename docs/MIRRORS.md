@@ -88,10 +88,13 @@ https://oauth2:<jihulab-token>@jihulab.com/<namespace>/<project>.git
 https://<gitcode-username>:<gitcode-token>@gitcode.com/<owner>/<repo>.git
 ```
 
-推送逻辑在 `.github/workflows/mirror.yml` 中，触发条件：
+推送逻辑有两处：
 
-- `main` 分支有新提交时自动同步到镜像仓库。
+- `.github/workflows/mirror.yml`：普通 `main` 分支 push 或手动运行 `Mirror Repositories` 时同步镜像。
+- `.github/workflows/sync.yml`：每日自动同步如果生成并推送了新的数据提交，会在同一个 workflow 内继续推送镜像。
 - 也可以手动运行 `Mirror Repositories` workflow。
+
+注意：GitHub Actions 使用 `GITHUB_TOKEN` 推送的提交不会再触发另一个 `on: push` workflow。因此自动同步不能只依赖 `mirror.yml` 的 push 触发器，必须在 `sync.yml` 内直接执行镜像推送。
 
 ## 配置 Pages
 

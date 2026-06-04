@@ -76,6 +76,7 @@ jobs:
           python scripts/validate.py
           echo "sync_skipped=false" >> "${GITHUB_OUTPUT}"
       - name: Commit changes
+        id: commit_changes
         if: steps.sync_data.outputs.sync_skipped != 'true'
         shell: bash
         run: |
@@ -87,9 +88,35 @@ jobs:
 
           if git diff --quiet -- data; then
             echo "No data changes."
+            echo "committed=false" >> "${GITHUB_OUTPUT}"
             exit 0
           fi
           git add data
           sync_time="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git commit -m "chore: auto sync kivo data ${sync_time}"
           git push origin HEAD:main
+          echo "committed=true" >> "${GITHUB_OUTPUT}"
+      - name: Push configured mirrors
+        if: steps.commit_changes.outputs.committed == 'true'
+        shell: bash
+        env:
+          MIRROR_PUSH_URLS: ${{ secrets.MIRROR_PUSH_URLS }}
+        run: |
+          if [ -z "${MIRROR_PUSH_URLS}" ]; then
+            echo "No mirror remotes configured."
+            exit 0
+          fi
+
+          mirror_index=0
+          while IFS= read -r mirror_url; do
+            if [ -z "${mirror_url}" ] || [[ "${mirror_url}" == \#* ]]; then
+              continue
+            fi
+
+            mirror_index=$((mirror_index + 1))
+            remote_name="mirror-${mirror_index}"
+            echo "Pushing ${remote_name}"
+            git remote add "${remote_name}" "${mirror_url}"
+            git push "${remote_name}" HEAD:main
+            git remote remove "${remote_name}"
+          done <<< "${MIRROR_PUSH_URLS}"
