@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 537,
+    "max_page": 539,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
       "ContentImprovements": 393,
       "Double": 872,
       "Event": 486,
-      "Gacha": 763,
-      "Live": 77,
+      "Gacha": 767,
+      "Live": 79,
       "MainStory": 120,
       "Maintenance": 422,
-      "MiniBattle": 188,
+      "MiniBattle": 189,
       "Other": 677,
       "OtherStory": 59,
-      "OutsideGames": 816,
+      "OutsideGames": 822,
       "Raid": 242,
       "Trivia": 29,
       "WebEvent": 129
     },
     "timeline": [
+      {
+        "id": 5292,
+        "line_type": "Globle",
+        "title": "国际服热补丁修复",
+        "image": "https://static.kivo.wiki/images/timeline/Af1CONCqafJEejRF4EYAy5REEKU1qUTT.jpg",
+        "body_summary": "[4/8 Data Patch Notice] We will be having a quick data patch (hotfix) on 4/8 (Wed). The game will be",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2041744330088677576",
+        "start_time": 1775628300,
+        "end_time": 1775628300
+      },
       {
         "id": 5298,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2041453290765107265",
         "start_time": 1775541600,
         "end_time": 1775541600
-      },
-      {
-        "id": 5296,
-        "line_type": "Globle",
-        "title": "国际服活动常驻化「The Academy Club Story: A Pair's Final Adventure」",
-        "image": "https://static.kivo.wiki/images/timeline/Nf61rixAyUwBZGcluVBBaS2xqrG8O2kp.jpg",
-        "body_summary": "[Immortalized Event Notice] The Event Story, The Academy Club Story: A Pair's Final Adventure, has b",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2041421970349400178",
-        "start_time": 1775541600,
-        "end_time": 1775541600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780428794,
+  "time": 1780610708,
   "version": "1.0.0-beta.43"
 }

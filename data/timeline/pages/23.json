@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 537,
+    "max_page": 539,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
       "ContentImprovements": 393,
       "Double": 872,
       "Event": 486,
-      "Gacha": 763,
-      "Live": 77,
+      "Gacha": 767,
+      "Live": 79,
       "MainStory": 120,
       "Maintenance": 422,
-      "MiniBattle": 188,
+      "MiniBattle": 189,
       "Other": 677,
       "OtherStory": 59,
-      "OutsideGames": 816,
+      "OutsideGames": 822,
       "Raid": 242,
       "Trivia": 29,
       "WebEvent": 129
     },
     "timeline": [
+      {
+        "id": 5273,
+        "line_type": "JP",
+        "title": "课程表2倍#42 & 学院交流会2倍#42",
+        "image": "https://static.kivo.wiki/images/timeline/bS6GVAPKsTgXeYEvgpa02mz805rnF8UP.jpg",
+        "body_summary": "【キャンペーン予告】 4月1日(水)4:00より、「スケジュール」、「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 4月1日(水)4:00 ～ 4月8日(水)3:",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2038451955262263536",
+        "start_time": 1774987200,
+        "end_time": 1775591999
+      },
       {
         "id": 5281,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2037428154160337044",
         "start_time": 1774922400,
         "end_time": 1775527140
-      },
-      {
-        "id": 5247,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Our superstar, reisa is here! 」&「Medicine knows no boarders! 」",
-        "image": "https://static.kivo.wiki/images/timeline/qbNmVz11zP4wrbRyRxT2pdm4YTfBCA5z.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 3/31 (Tue)! 💌Pick-Up S",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2037431930069643628",
-        "start_time": 1774922400,
-        "end_time": 1775527140
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780428795,
+  "time": 1780610708,
   "version": "1.0.0-beta.43"
 }

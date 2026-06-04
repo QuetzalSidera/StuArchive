@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 537,
+    "max_page": 539,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
       "ContentImprovements": 393,
       "Double": 872,
       "Event": 486,
-      "Gacha": 763,
-      "Live": 77,
+      "Gacha": 767,
+      "Live": 79,
       "MainStory": 120,
       "Maintenance": 422,
-      "MiniBattle": 188,
+      "MiniBattle": 189,
       "Other": 677,
       "OtherStory": 59,
-      "OutsideGames": 816,
+      "OutsideGames": 822,
       "Raid": 242,
       "Trivia": 29,
       "WebEvent": 129
     },
     "timeline": [
+      {
+        "id": 5233,
+        "line_type": "Globle",
+        "title": "国际服学院交流会2倍 #37",
+        "image": "https://static.kivo.wiki/images/timeline/otCTVoHHBypaaICpBArSOxHwUkywMgfG.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 3/23 (Mon), Scrimmage reward will be doubled! Don't miss out",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2035252568834941113",
+        "start_time": 1774292400,
+        "end_time": 1774897199
+      },
+      {
+        "id": 5232,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍 #38",
+        "image": "https://static.kivo.wiki/images/timeline/eNsE9QclCcIzUDhTejRAO155GIZvV6XK.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 3/23 (Mon), Lesson reward will be doubled! Don't miss out on",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2035250057218286004",
+        "start_time": 1774292400,
+        "end_time": 1774897199
+      },
       {
         "id": 5230,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2034891119788794077",
         "start_time": 1774032838,
         "end_time": 1774205638
-      },
-      {
-        "id": 5226,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-03-20",
-        "image": "https://static.kivo.wiki/images/timeline/nCvI5qJ9bWkoDCLBGqbI5HEL6I59nDal.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2034872823710458233",
-        "start_time": 1774012556,
-        "end_time": 1774271756
-      },
-      {
-        "id": 5214,
-        "line_type": "CN",
-        "title": "总力战 比纳 • 街区战 #3",
-        "image": "https://static.kivo.wiki/images/timeline/602xsZPNSTmdGxZElqzeExJkAZdiUFno.png",
-        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前正在基沃托斯各地出没。 比纳是神名十文字的第3个先知，在阿拜多斯的沙漠地区首次被发现。 比纳来到这里的目的尚不明确，但可以肯定的是",
-        "type": "Raid",
-        "url": "www.bilibili.com/opus/1180963107768369155?spm_id_from=333.1365.0.0",
-        "start_time": 1773900000,
-        "end_time": 1774468740
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780428795,
+  "time": 1780610709,
   "version": "1.0.0-beta.43"
 }
