@@ -15,19 +15,33 @@ on:
         required: false
         default: false
         type: boolean
+      runner:
+        description: "Runner label for this run"
+        required: false
+        default: "ubuntu-latest"
+        type: choice
+        options:
+          - ubuntu-latest
+          - self-hosted
+      fail_on_sync_error:
+        description: "Fail the workflow instead of warning when Kivo sync cannot be reached"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
 
 jobs:
   sync:
-    runs-on: ubuntu-latest
+    runs-on: ${{ github.event.inputs.runner || vars.SYNC_RUNNER || 'ubuntu-latest' }}
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Sync data
+        id: sync_data
         shell: bash
         run: |
           args=()
@@ -37,9 +51,25 @@ jobs:
           if [ "${{ inputs.include_disabled_details }}" = "true" ]; then
             args+=(--include-disabled-details)
           fi
+
+          set +e
           python scripts/sync.py "${args[@]}"
+          sync_exit=$?
+          set -e
+
+          if [ "${sync_exit}" -ne 0 ]; then
+            echo "sync_skipped=true" >> "${GITHUB_OUTPUT}"
+            echo "::warning::Kivo sync failed with exit code ${sync_exit}. This is often caused by Kivo rejecting or timing out GitHub-hosted runner traffic. Skipping commit."
+            if [ "${{ github.event.inputs.fail_on_sync_error }}" = "true" ]; then
+              exit "${sync_exit}"
+            fi
+            exit 0
+          fi
+
           python scripts/validate.py
+          echo "sync_skipped=false" >> "${GITHUB_OUTPUT}"
       - name: Commit changes
+        if: steps.sync_data.outputs.sync_skipped != 'true'
         shell: bash
         run: |
           if git diff --quiet -- data; then

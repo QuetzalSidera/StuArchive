@@ -28,6 +28,27 @@
    git push origin main
    ```
 
+## 定时同步与 Runner
+
+GitHub-hosted runner 可能被 Kivo API 限速、拒绝或出现跨境网络超时。如果本地或国内机器可以稳定访问 Kivo，推荐使用 GitHub self-hosted runner 执行同步。
+
+手动运行 `Sync Kivo Data` workflow 时，可以选择：
+
+```text
+runner = self-hosted
+```
+
+要让每日定时同步默认使用 self-hosted runner，在 GitHub 仓库中配置变量：
+
+```text
+Settings -> Secrets and variables -> Actions -> Variables -> New repository variable
+
+Name: SYNC_RUNNER
+Value: self-hosted
+```
+
+如果不配置 `SYNC_RUNNER`，定时任务默认使用 `ubuntu-latest`。当 GitHub-hosted runner 无法访问 Kivo 时，workflow 会记录 warning 并跳过提交，避免每天因为上游网络策略标红。手动排查时可启用 `fail_on_sync_error` 让同步失败直接标红。
+
 ## 添加或调整端点
 
 1. 先探测端点是否返回 JSON：
