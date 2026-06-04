@@ -100,6 +100,8 @@ Raw CDN 可能存在短时间缓存。对外使用时建议客户端带本地缓
 
 `timeout_seconds`、`request_retries`、`request_retry_delay_seconds` 用于控制单次请求超时和失败重试。GitHub Actions 上的公网访问偶尔会出现 read timeout，默认配置会重试后再判定失败。
 
+`current-*` 等实时单页端点可能因为 Kivo 上游后端超时返回 504 或长期无响应。同步脚本会对这类端点使用更短的资源级 timeout；若本地已有旧文件，会复用旧数据继续同步其他资源，并在 `data/index.json` 中通过 `stale`、`sync_error`、`sync_errors` 标记该资源。
+
 `timeline` 的详情默认关闭。如确实需要：
 
 ```bash

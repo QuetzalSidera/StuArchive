@@ -5,8 +5,8 @@
   "base_url": "https://api.kivo.wiki/api/v1",
   "raw_base_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data",
   "user_agent": "StuArchive/0.1 (+https://github.com/QuetzalSidera/StuArchive)",
-  "timeout_seconds": 60,
-  "request_retries": 3,
+  "timeout_seconds": 25,
+  "request_retries": 2,
   "request_retry_delay_seconds": 3,
   "request_delay_seconds": 0.1,
   "license": {
@@ -34,6 +34,8 @@
       "mode": "single",
       "path": "/data/event/now",
       "output": "current/event.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
       "description": "Current event window."
     },
     {
@@ -41,6 +43,8 @@
       "mode": "single",
       "path": "/data/raid/now",
       "output": "current/raid.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
       "description": "Current raid window."
     },
     {
@@ -48,6 +52,8 @@
       "mode": "single",
       "path": "/data/pick_up/",
       "output": "current/pick-up.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
       "description": "Current pickup banner student IDs."
     },
     {
@@ -55,6 +61,8 @@
       "mode": "single",
       "path": "/data/lucky_item/",
       "output": "current/lucky-item.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
       "description": "Current lucky item."
     },
     {
@@ -62,6 +70,8 @@
       "mode": "single",
       "path": "/data/students/birthday/week",
       "output": "current/students-birthday-week.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
       "description": "Students with birthdays this week."
     },
     {

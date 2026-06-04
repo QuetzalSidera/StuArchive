@@ -79,6 +79,110 @@ def raw_url(config: JsonObject, rel_path: Path) -> str:
     return f"{base}/{rel_path.as_posix()}" if base else rel_path.as_posix()
 
 
+def load_previous_resources(data_dir: Path) -> dict[str, JsonObject]:
+    manifest_path = data_dir / "index.json"
+    if not manifest_path.exists():
+        return {}
+
+    try:
+        manifest = load_json(manifest_path)
+    except Exception as exc:
+        print(f"[sync] warning: cannot load previous manifest for stale fallback: {exc}")
+        return {}
+
+    resources = manifest.get("resources", [])
+    if not isinstance(resources, list):
+        return {}
+    return {resource["name"]: resource for resource in resources if isinstance(resource, dict) and "name" in resource}
+
+
+def mark_stale(entry: JsonObject, error: str, attempted_at: str) -> JsonObject:
+    stale_entry = dict(entry)
+    stale_entry["stale"] = True
+    stale_entry["sync_error"] = error
+    stale_entry["sync_attempted_at"] = attempted_at
+    return stale_entry
+
+
+def fallback_single_entry(resource: JsonObject, config: JsonObject, data_dir: Path, error: str, attempted_at: str) -> JsonObject | None:
+    rel_path = safe_relative_path(resource["output"])
+    if not (data_dir / rel_path).exists():
+        return None
+    return mark_stale(
+        {
+            "name": resource["name"],
+            "type": "single",
+            "description": resource.get("description", ""),
+            "upstream_url": build_url(config["base_url"], resource["path"]),
+            "path": rel_path.as_posix(),
+            "raw_url": raw_url(config, rel_path),
+        },
+        error,
+        attempted_at,
+    )
+
+
+def fallback_collection_entry(
+    resource: JsonObject,
+    config: JsonObject,
+    data_dir: Path,
+    error: str,
+    attempted_at: str,
+) -> JsonObject | None:
+    output_dir = safe_relative_path(resource.get("output_dir", resource["name"]))
+    index_rel_path = output_dir / "index.json"
+    index_path = data_dir / index_rel_path
+    if not index_path.exists():
+        return None
+
+    try:
+        collection = load_json(index_path)
+    except Exception as exc:
+        print(f"[sync] warning: cannot load stale collection index {index_rel_path}: {exc}")
+        return None
+
+    entry: JsonObject = {
+        "name": resource["name"],
+        "type": "collection",
+        "description": resource.get("description", ""),
+        "upstream_url": build_url(config["base_url"], resource["path"]),
+        "path": index_rel_path.as_posix(),
+        "raw_url": raw_url(config, index_rel_path),
+        "list_key": resource["list_key"],
+        "max_page": collection.get("max_page", 0),
+        "synced_pages": collection.get("synced_pages", 0),
+        "total_items": collection.get("total_items", 0),
+        "details_synced": collection.get("details_synced", 0),
+        "details_available": bool(resource.get("detail_path")),
+    }
+
+    lookup = collection.get("lookup", {})
+    if isinstance(lookup, dict) and lookup.get("path"):
+        entry["lookup_path"] = lookup.get("path")
+        entry["lookup_raw_url"] = lookup.get("raw_url")
+        entry["lookup_alias_count"] = lookup.get("alias_count", 0)
+        entry["lookup_normalized_alias_count"] = lookup.get("normalized_alias_count", 0)
+
+    return mark_stale(entry, error, attempted_at)
+
+
+def fallback_resource_entry(
+    resource: JsonObject,
+    previous_resources: dict[str, JsonObject],
+    config: JsonObject,
+    data_dir: Path,
+    error: str,
+    attempted_at: str,
+) -> JsonObject | None:
+    previous_entry = previous_resources.get(resource["name"])
+    if previous_entry:
+        return mark_stale(previous_entry, error, attempted_at)
+
+    if resource.get("mode", "single") == "paginated":
+        return fallback_collection_entry(resource, config, data_dir, error, attempted_at)
+    return fallback_single_entry(resource, config, data_dir, error, attempted_at)
+
+
 class KivoClient:
     def __init__(self, config: JsonObject, delay: float | None = None) -> None:
         self.base_url = config["base_url"]
@@ -89,9 +193,12 @@ class KivoClient:
         self.delay = float(config.get("request_delay_seconds", 0.1) if delay is None else delay)
         self.request_count = 0
 
-    def get(self, path: str) -> tuple[JsonObject, str]:
+    def get(self, path: str, resource: JsonObject | None = None) -> tuple[JsonObject, str]:
         url = build_url(self.base_url, path)
-        attempts = max(1, self.retries + 1)
+        timeout = float(resource.get("timeout_seconds", self.timeout)) if resource else self.timeout
+        retries = int(resource.get("request_retries", self.retries)) if resource else self.retries
+        retry_delay = float(resource.get("request_retry_delay_seconds", self.retry_delay)) if resource else self.retry_delay
+        attempts = max(1, retries + 1)
         last_error: Exception | None = None
 
         for attempt in range(1, attempts + 1):
@@ -103,7 +210,7 @@ class KivoClient:
                 },
             )
             try:
-                with urllib.request.urlopen(req, timeout=self.timeout) as response:
+                with urllib.request.urlopen(req, timeout=timeout) as response:
                     body = response.read()
                 break
             except urllib.error.HTTPError as exc:
@@ -116,7 +223,7 @@ class KivoClient:
                     raise RuntimeError(f"Network error for {url}: {exc}") from exc
                 last_error = exc
 
-            wait_seconds = self.retry_delay * attempt
+            wait_seconds = retry_delay * attempt
             print(f"[sync] retry {attempt}/{attempts - 1} for {url}: {last_error}; waiting {wait_seconds:.1f}s")
             time.sleep(wait_seconds)
         else:
@@ -153,7 +260,7 @@ def sync_single(
     data_dir: Path,
     fetched_at: str,
 ) -> JsonObject:
-    payload, url = client.get(resource["path"])
+    payload, url = client.get(resource["path"], resource)
     ensure_success(payload, url)
     rel_path = safe_relative_path(resource["output"])
     write_json(data_dir / rel_path, payload)
@@ -210,7 +317,7 @@ def sync_details(
     for index, value in enumerate(ids_to_fetch, start=1):
         quoted_id = urllib.parse.quote(str(value), safe="")
         detail_path = detail_path_template.format(id=quoted_id)
-        payload, url = client.get(detail_path)
+        payload, url = client.get(detail_path, resource)
         ensure_success(payload, url)
         rel_path = output_dir / f"{file_stem(value)}.json"
         write_json(data_dir / rel_path, payload)
@@ -243,7 +350,7 @@ def sync_collection(
     list_key = resource["list_key"]
     page_param = resource.get("page_param", "page")
     first_path = add_query_param(resource["path"], page_param, 1)
-    first_payload, first_url = client.get(first_path)
+    first_payload, first_url = client.get(first_path, resource)
     ensure_success(first_payload, first_url)
     first_data = get_data(first_payload, first_url)
     max_page = int(first_data.get("max_page", 1))
@@ -257,7 +364,7 @@ def sync_collection(
             payload = first_payload
             url = first_url
         else:
-            payload, url = client.get(add_query_param(resource["path"], page_param, page))
+            payload, url = client.get(add_query_param(resource["path"], page_param, page), resource)
             ensure_success(payload, url)
 
         page_items = list_items(payload, list_key, url)
@@ -351,28 +458,46 @@ def sync(args: argparse.Namespace) -> int:
     fetched_at = utc_now()
     client = KivoClient(config, delay=args.delay)
     names = set(args.resource) if args.resource else None
+    previous_resources = load_previous_resources(data_dir)
     manifest_resources: list[JsonObject] = []
+    sync_errors: list[JsonObject] = []
 
     for resource in selected_resources(config, names):
         mode = resource.get("mode", "single")
-        if mode == "single":
-            manifest_resources.append(sync_single(resource, client, config, data_dir, fetched_at))
-        elif mode == "paginated":
-            manifest_resources.append(
-                sync_collection(
-                    resource,
-                    client,
-                    config,
-                    data_dir,
-                    fetched_at,
-                    include_details=args.include_details,
-                    include_disabled_details=args.include_disabled_details,
-                    max_pages=args.max_pages,
-                    details_limit=args.details_limit,
+        try:
+            if mode == "single":
+                manifest_resources.append(sync_single(resource, client, config, data_dir, fetched_at))
+            elif mode == "paginated":
+                manifest_resources.append(
+                    sync_collection(
+                        resource,
+                        client,
+                        config,
+                        data_dir,
+                        fetched_at,
+                        include_details=args.include_details,
+                        include_disabled_details=args.include_disabled_details,
+                        max_pages=args.max_pages,
+                        details_limit=args.details_limit,
+                    )
                 )
+            else:
+                raise RuntimeError(f"Unsupported resource mode for {resource['name']}: {mode}")
+        except Exception as exc:
+            error = str(exc)
+            fallback = fallback_resource_entry(resource, previous_resources, config, data_dir, error, fetched_at)
+            if not fallback:
+                raise
+            print(f"[sync] warning: {resource['name']} failed, keeping stale data: {error}")
+            manifest_resources.append(fallback)
+            sync_errors.append(
+                {
+                    "name": resource["name"],
+                    "path": resource.get("path"),
+                    "error": error,
+                    "kept_stale": True,
+                }
             )
-        else:
-            raise RuntimeError(f"Unsupported resource mode for {resource['name']}: {mode}")
 
     manifest = {
         "schema_version": SCHEMA_VERSION,
@@ -392,6 +517,7 @@ def sync(args: argparse.Namespace) -> int:
         },
         "resources": manifest_resources,
         "request_count": client.request_count,
+        "sync_errors": sync_errors,
     }
     write_json(data_dir / "index.json", manifest)
     print(f"[sync] wrote {data_dir / 'index.json'}")
