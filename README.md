@@ -1,6 +1,6 @@
 # StuArchive
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey.svg)](LICENSE)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Data Source: Kivo Wiki](https://img.shields.io/badge/data%20source-Kivo%20Wiki-blue.svg)](https://kivo.wiki/)
 [![Sync: Daily](https://img.shields.io/badge/sync-daily-green.svg)](.github/workflows/sync.yml)
 
@@ -15,11 +15,11 @@ StuArchive 是 **Kivo Wiki 公开《蔚蓝档案》JSON 数据的非官方静态
 - 查询索引：为集合生成 `lookup.json`，支持按 ID、学生姓名、条目名称、标题和本地化别名定位数据。
 - 学生页面级资料：生成 `students/profiles/{id}.json`，聚合学生详情、学校、关系、技能、装备、素材、礼物、家具、语音和鉴赏等常用字段。
 - 每日自动同步：GitHub Actions 每天定时同步 Kivo 数据，并将更新推送到配置的镜像仓库。
-- 许可显式：仓库原创脚本、文档和索引结构使用 CC BY-SA 4.0；镜像内容保留 Kivo、第三方、Nexon 和 Yostar 的原始声明。
+- 许可显式：仓库原创脚本、文档和索引结构使用 CC BY-NC-SA 4.0；镜像内容保留 Kivo、第三方、Nexon 和 Yostar 的原始声明。
 
 ## 许可与来源
 
-本仓库原创的脚本、文档、索引结构使用 [CC BY-SA 4.0](LICENSE)。镜像数据中的上游内容保留其原始来源、署名和许可要求；《蔚蓝档案》官方素材相关权利属于其权利方，本项目只镜像 JSON 中出现的素材 URL。
+本仓库原创的脚本、文档、索引结构使用 [CC BY-NC-SA 4.0](LICENSE)。镜像数据中的上游内容保留其原始来源、署名和许可要求；《蔚蓝档案》官方素材相关权利属于其权利方，本项目只镜像 JSON 中出现的素材 URL。
 
 详见 [LICENSE](LICENSE)、[LICENSE-DATA.md](LICENSE-DATA.md) 和 [NOTICE.md](NOTICE.md)。
 
@@ -34,7 +34,7 @@ Kivo Wiki Blue Archive static JSON mirror with Raw API lookup indexes and daily 
 建议 Topics：
 
 ```text
-blue-archive, kivo-wiki, raw-api, json-api, static-api, cc-by-sa-4-0
+blue-archive, kivo-wiki, raw-api, json-api, static-api, cc-by-nc-sa-4-0
 ```
 
 ## 快速开始

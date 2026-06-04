@@ -200,8 +200,8 @@ def build_spec(config: JsonObject) -> JsonObject:
                 "This OpenAPI document is intended for Apifox or other OpenAPI-compatible tools."
             ),
             "license": {
-                "name": config.get("license", {}).get("repository", "CC BY-SA 4.0"),
-                "url": config.get("license", {}).get("repository_url", "https://creativecommons.org/licenses/by-sa/4.0/"),
+                "name": config.get("license", {}).get("repository", "CC BY-NC-SA 4.0"),
+                "url": config.get("license", {}).get("repository_url", "https://creativecommons.org/licenses/by-nc-sa/4.0/"),
             },
         },
         "servers": [

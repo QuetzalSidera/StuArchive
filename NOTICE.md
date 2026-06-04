@@ -18,4 +18,4 @@ Attribution:
 
 License caution:
 
-Kivo's public license text distinguishes between site-original content, network or third-party references, translated content, site mascot materials, articles, and official Blue Archive assets. This repository therefore uses CC BY-SA 4.0 for its own work while preserving upstream license boundaries for mirrored data.
+Kivo's public license text distinguishes between site-original content, network or third-party references, translated content, site mascot materials, articles, and official Blue Archive assets. This repository therefore uses CC BY-NC-SA 4.0 for its own work while preserving upstream license boundaries for mirrored data.
