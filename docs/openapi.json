@@ -320,52 +320,8 @@
           "Single resources"
         ],
         "summary": "lucky-item",
-        "description": "Current JP lucky item. Kept as the legacy current lucky item path.\n\nUpstream path: `/data/lucky_item/?server=jp`.",
+        "description": "Current lucky item.\n\nUpstream path: `/data/lucky_item/`.",
         "operationId": "get_lucky_item",
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/KivoEnvelope"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/current/lucky-items/jp.json": {
-      "get": {
-        "tags": [
-          "Single resources"
-        ],
-        "summary": "lucky-item-jp",
-        "description": "Current JP lucky item.\n\nUpstream path: `/data/lucky_item/?server=jp`.",
-        "operationId": "get_lucky_item_jp",
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/KivoEnvelope"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "/current/lucky-items/cn.json": {
-      "get": {
-        "tags": [
-          "Single resources"
-        ],
-        "summary": "lucky-item-cn",
-        "description": "Current CN lucky item.\n\nUpstream path: `/data/lucky_item/?server=cn`.",
-        "operationId": "get_lucky_item_cn",
         "responses": {
           "200": {
             "description": "OK",

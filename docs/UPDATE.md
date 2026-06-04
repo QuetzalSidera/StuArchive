@@ -84,7 +84,7 @@ sudo ./svc.sh uninstall
 
 每日定时同步默认会传入 `--include-details`，为 `sources.json` 中 `details_enabled=true` 的集合生成 `{id}.json` 详情文件，例如 `students/76.json`、`items/1396.json`。同步结束后会运行后处理，额外生成学生页面级聚合资料 `students/profiles/{id}.json`，并在 `students/lookup.json` 中写入 `profile_path` / `profile_raw_url`。`timeline` 这类标记为 `details_enabled=false` 的超大集合仍不会默认抓取详情，需要手动传入 `--include-disabled-details`。
 
-当前活动、总力战、招募和幸运物品会同步 JP/CN 分服文件，同时保留旧的默认路径：
+当前活动、总力战和招募会同步 JP/CN 分服文件，同时保留旧的默认路径。幸运物品不区分服务器，只保留单一文件：
 
 ```text
 current/event.json
@@ -97,8 +97,6 @@ current/pick-up.json
 current/pick-ups/jp.json
 current/pick-ups/cn.json
 current/lucky-item.json
-current/lucky-items/jp.json
-current/lucky-items/cn.json
 ```
 
 ## 添加或调整端点

@@ -61,8 +61,6 @@ GET /current/pick-up.json
 GET /current/pick-ups/jp.json
 GET /current/pick-ups/cn.json
 GET /current/lucky-item.json
-GET /current/lucky-items/jp.json
-GET /current/lucky-items/cn.json
 GET /current/students-birthday-week.json
 ```
 
@@ -233,9 +231,7 @@ GET /students/profiles/353.json
 | `current-pick-up`        | `/current/pick-up.json`                 | `/data/pick_up/?server=jp`     | -             | -                            |
 | `current-pick-up-jp`     | `/current/pick-ups/jp.json`             | `/data/pick_up/?server=jp`     | -             | -                            |
 | `current-pick-up-cn`     | `/current/pick-ups/cn.json`             | `/data/pick_up/?server=cn`     | -             | -                            |
-| `lucky-item`             | `/current/lucky-item.json`              | `/data/lucky_item/?server=jp`  | -             | -                            |
-| `lucky-item-jp`          | `/current/lucky-items/jp.json`          | `/data/lucky_item/?server=jp`  | -             | -                            |
-| `lucky-item-cn`          | `/current/lucky-items/cn.json`          | `/data/lucky_item/?server=cn`  | -             | -                            |
+| `lucky-item`             | `/current/lucky-item.json`              | `/data/lucky_item/`            | -             | -                            |
 | `students-birthday-week` | `/current/students-birthday-week.json`  | `/data/students/birthday/week` | -             | -                            |
 | `students`               | `/students/index.json`                  | `/data/students/`              | `students`    | `/students/{id}.json`        |
 | `items`                  | `/items/index.json`                     | `/data/items/`                 | `item`        | `/items/{id}.json`           |

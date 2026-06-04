@@ -113,29 +113,11 @@
     {
       "name": "lucky-item",
       "mode": "single",
-      "path": "/data/lucky_item/?server=jp",
+      "path": "/data/lucky_item/",
       "output": "current/lucky-item.json",
       "timeout_seconds": 12,
       "request_retries": 1,
-      "description": "Current JP lucky item. Kept as the legacy current lucky item path."
-    },
-    {
-      "name": "lucky-item-jp",
-      "mode": "single",
-      "path": "/data/lucky_item/?server=jp",
-      "output": "current/lucky-items/jp.json",
-      "timeout_seconds": 12,
-      "request_retries": 1,
-      "description": "Current JP lucky item."
-    },
-    {
-      "name": "lucky-item-cn",
-      "mode": "single",
-      "path": "/data/lucky_item/?server=cn",
-      "output": "current/lucky-items/cn.json",
-      "timeout_seconds": 12,
-      "request_retries": 1,
-      "description": "Current CN lucky item."
+      "description": "Current lucky item."
     },
     {
       "name": "students-birthday-week",
