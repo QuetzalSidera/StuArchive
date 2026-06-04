@@ -23,19 +23,6 @@ StuArchive 是 **Kivo Wiki 公开《蔚蓝档案》JSON 数据的非官方静态
 
 详见 [LICENSE](LICENSE)、[LICENSE-DATA.md](LICENSE-DATA.md) 和 [NOTICE.md](NOTICE.md)。
 
-## GitHub 介绍
-
-仓库 About / Description 建议使用：
-
-```text
-Kivo Wiki Blue Archive static JSON mirror with Raw API lookup indexes and daily automated sync.
-```
-
-建议 Topics：
-
-```text
-blue-archive, kivo-wiki, raw-api, json-api, static-api, cc-by-nc-sa-4-0
-```
 
 ## 快速开始
 
