@@ -47,6 +47,39 @@ Name: SYNC_RUNNER
 Value: self-hosted
 ```
 
+推荐用普通用户长期运行 self-hosted runner，不要直接用 `root` 运行 runner 或 `pip`。以下以 `gha-runner` 用户和 `/opt/actions-runner/stuarchive` 目录为例：
+
+```bash
+sudo useradd --create-home --shell /bin/bash gha-runner
+sudo mkdir -p /opt/actions-runner/stuarchive
+sudo chown -R gha-runner:gha-runner /opt/actions-runner/stuarchive
+sudo -iu gha-runner
+cd /opt/actions-runner/stuarchive
+```
+
+然后按照 GitHub 仓库页面提供的 self-hosted runner 安装命令下载并解压 runner，再用普通用户执行 `config.sh`：
+
+```bash
+./config.sh --url https://github.com/QuetzalSidera/StuArchive --token <RUNNER_TOKEN> --name stuarchive-sync --labels self-hosted,linux,stuarchive --work _work
+exit
+```
+
+测试成功后，在 runner 目录中安装为系统服务。服务仍会以 `gha-runner` 普通用户运行：
+
+```bash
+cd /opt/actions-runner/stuarchive
+sudo ./svc.sh install gha-runner
+sudo ./svc.sh start
+sudo ./svc.sh status
+```
+
+如果之前已经用 `root` 安装过 runner 服务，先在旧 runner 目录停止并卸载旧服务，再按上面的普通用户方式重新配置：
+
+```bash
+sudo ./svc.sh stop
+sudo ./svc.sh uninstall
+```
+
 如果不配置 `SYNC_RUNNER`，定时任务默认使用 `ubuntu-latest`。当 GitHub-hosted runner 无法访问 Kivo 时，workflow 会记录 warning 并跳过提交，避免每天因为上游网络策略标红。手动排查时可启用 `fail_on_sync_error` 让同步失败直接标红。
 
 ## 添加或调整端点
