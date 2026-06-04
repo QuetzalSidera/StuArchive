@@ -5,7 +5,9 @@
   "base_url": "https://api.kivo.wiki/api/v1",
   "raw_base_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data",
   "user_agent": "StuArchive/0.1 (+https://github.com/QuetzalSidera/StuArchive)",
-  "timeout_seconds": 30,
+  "timeout_seconds": 60,
+  "request_retries": 3,
+  "request_retry_delay_seconds": 3,
   "request_delay_seconds": 0.1,
   "license": {
     "repository": "CC BY-SA 4.0",

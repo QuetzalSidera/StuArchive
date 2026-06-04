@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import socket
 import sys
 import time
 import urllib.error
@@ -83,26 +84,43 @@ class KivoClient:
         self.base_url = config["base_url"]
         self.user_agent = config.get("user_agent", "StuArchive/0.1")
         self.timeout = float(config.get("timeout_seconds", 30))
+        self.retries = int(config.get("request_retries", 3))
+        self.retry_delay = float(config.get("request_retry_delay_seconds", 2))
         self.delay = float(config.get("request_delay_seconds", 0.1) if delay is None else delay)
         self.request_count = 0
 
     def get(self, path: str) -> tuple[JsonObject, str]:
         url = build_url(self.base_url, path)
-        req = urllib.request.Request(
-            url,
-            headers={
-                "Accept": "application/json",
-                "User-Agent": self.user_agent,
-            },
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=self.timeout) as response:
-                body = response.read()
-        except urllib.error.HTTPError as exc:
-            body = exc.read().decode("utf-8", "replace")
-            raise RuntimeError(f"HTTP {exc.code} for {url}: {body[:200]}") from exc
-        except urllib.error.URLError as exc:
-            raise RuntimeError(f"Network error for {url}: {exc}") from exc
+        attempts = max(1, self.retries + 1)
+        last_error: Exception | None = None
+
+        for attempt in range(1, attempts + 1):
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "Accept": "application/json",
+                    "User-Agent": self.user_agent,
+                },
+            )
+            try:
+                with urllib.request.urlopen(req, timeout=self.timeout) as response:
+                    body = response.read()
+                break
+            except urllib.error.HTTPError as exc:
+                body = exc.read().decode("utf-8", "replace")
+                if exc.code < 500 or attempt == attempts:
+                    raise RuntimeError(f"HTTP {exc.code} for {url}: {body[:200]}") from exc
+                last_error = exc
+            except (TimeoutError, socket.timeout, urllib.error.URLError) as exc:
+                if attempt == attempts:
+                    raise RuntimeError(f"Network error for {url}: {exc}") from exc
+                last_error = exc
+
+            wait_seconds = self.retry_delay * attempt
+            print(f"[sync] retry {attempt}/{attempts - 1} for {url}: {last_error}; waiting {wait_seconds:.1f}s")
+            time.sleep(wait_seconds)
+        else:
+            raise RuntimeError(f"Network error for {url}: {last_error}")
 
         self.request_count += 1
         if self.delay > 0:

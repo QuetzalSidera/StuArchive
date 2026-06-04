@@ -77,6 +77,8 @@ Raw CDN 可能存在短时间缓存。对外使用时建议客户端带本地缓
 
 `sources.json` 中的 `request_delay_seconds` 用于控制请求间隔。完整详情同步会产生大量请求，建议保留合理延迟，不要并发抓取。
 
+`timeout_seconds`、`request_retries`、`request_retry_delay_seconds` 用于控制单次请求超时和失败重试。GitHub Actions 上的公网访问偶尔会出现 read timeout，默认配置会重试后再判定失败。
+
 `timeline` 的详情默认关闭。如确实需要：
 
 ```bash
