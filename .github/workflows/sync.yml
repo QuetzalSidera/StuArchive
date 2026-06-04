@@ -8,7 +8,7 @@ on:
       include_details:
         description: "Fetch per-id detail JSON files"
         required: false
-        default: false
+        default: true
         type: boolean
       include_disabled_details:
         description: "Also fetch details for large resources such as timeline"
@@ -48,11 +48,14 @@ jobs:
         id: sync_data
         shell: bash
         run: |
+          git fetch origin main
+          git rebase origin/main
+
           args=()
-          if [ "${{ inputs.include_details }}" = "true" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event.inputs.include_details }}" = "true" ]; then
             args+=(--include-details)
           fi
-          if [ "${{ inputs.include_disabled_details }}" = "true" ]; then
+          if [ "${{ github.event.inputs.include_disabled_details }}" = "true" ]; then
             args+=(--include-disabled-details)
           fi
 

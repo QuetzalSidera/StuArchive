@@ -32,38 +32,110 @@
     {
       "name": "current-event",
       "mode": "single",
-      "path": "/data/event/now",
+      "path": "/data/event/now?server=jp",
       "output": "current/event.json",
       "timeout_seconds": 12,
       "request_retries": 1,
-      "description": "Current event window."
+      "description": "Current JP event window. Kept as the legacy current event path."
+    },
+    {
+      "name": "current-event-jp",
+      "mode": "single",
+      "path": "/data/event/now?server=jp",
+      "output": "current/events/jp.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current JP event window."
+    },
+    {
+      "name": "current-event-cn",
+      "mode": "single",
+      "path": "/data/event/now?server=cn",
+      "output": "current/events/cn.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current CN event window."
     },
     {
       "name": "current-raid",
       "mode": "single",
-      "path": "/data/raid/now",
+      "path": "/data/raid/now?server=jp",
       "output": "current/raid.json",
       "timeout_seconds": 12,
       "request_retries": 1,
-      "description": "Current raid window."
+      "description": "Current JP raid window. Kept as the legacy current raid path."
+    },
+    {
+      "name": "current-raid-jp",
+      "mode": "single",
+      "path": "/data/raid/now?server=jp",
+      "output": "current/raids/jp.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current JP raid window."
+    },
+    {
+      "name": "current-raid-cn",
+      "mode": "single",
+      "path": "/data/raid/now?server=cn",
+      "output": "current/raids/cn.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current CN raid window."
     },
     {
       "name": "current-pick-up",
       "mode": "single",
-      "path": "/data/pick_up/",
+      "path": "/data/pick_up/?server=jp",
       "output": "current/pick-up.json",
       "timeout_seconds": 12,
       "request_retries": 1,
-      "description": "Current pickup banner student IDs."
+      "description": "Current JP pickup banner student IDs. Kept as the legacy current pickup path."
+    },
+    {
+      "name": "current-pick-up-jp",
+      "mode": "single",
+      "path": "/data/pick_up/?server=jp",
+      "output": "current/pick-ups/jp.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current JP pickup banner student IDs."
+    },
+    {
+      "name": "current-pick-up-cn",
+      "mode": "single",
+      "path": "/data/pick_up/?server=cn",
+      "output": "current/pick-ups/cn.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current CN pickup banner student IDs."
     },
     {
       "name": "lucky-item",
       "mode": "single",
-      "path": "/data/lucky_item/",
+      "path": "/data/lucky_item/?server=jp",
       "output": "current/lucky-item.json",
       "timeout_seconds": 12,
       "request_retries": 1,
-      "description": "Current lucky item."
+      "description": "Current JP lucky item. Kept as the legacy current lucky item path."
+    },
+    {
+      "name": "lucky-item-jp",
+      "mode": "single",
+      "path": "/data/lucky_item/?server=jp",
+      "output": "current/lucky-items/jp.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current JP lucky item."
+    },
+    {
+      "name": "lucky-item-cn",
+      "mode": "single",
+      "path": "/data/lucky_item/?server=cn",
+      "output": "current/lucky-items/cn.json",
+      "timeout_seconds": 12,
+      "request_retries": 1,
+      "description": "Current CN lucky item."
     },
     {
       "name": "students-birthday-week",

@@ -52,9 +52,17 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/index.json
 GET /meta/api-root.json
 GET /meta/statistics.json
 GET /current/event.json
+GET /current/events/jp.json
+GET /current/events/cn.json
 GET /current/raid.json
+GET /current/raids/jp.json
+GET /current/raids/cn.json
 GET /current/pick-up.json
+GET /current/pick-ups/jp.json
+GET /current/pick-ups/cn.json
 GET /current/lucky-item.json
+GET /current/lucky-items/jp.json
+GET /current/lucky-items/cn.json
 GET /current/students-birthday-week.json
 ```
 
@@ -165,8 +173,11 @@ const lookup = await fetch(`${base}/students/lookup.json`).then((res) => res.jso
 
 const key = "陆八魔阿露（礼服）".normalize("NFKC").trim().replace(/\s+/g, "").toLocaleLowerCase();
 const [id] = lookup.by_normalized_alias[key] ?? [];
-const student = id ? lookup.by_id[id].item : null;
+const summary = id ? lookup.by_id[id].item : null;
+const detail = id ? await fetch(`${base}/${lookup.by_id[id].detail_path}`).then((res) => res.json()) : null;
 ```
+
+`lookup.by_id[id].item` 保存列表摘要，适合快速展示搜索结果；完整资料读取 `detail_path` 或 `detail_raw_url`，例如学生技能、语音、图集、档案、武器和培养材料等字段。
 
 ### 原始分页
 
@@ -183,7 +194,7 @@ GET /timeline/pages/1.json
 
 ### 条目详情
 
-详情文件只有在同步时使用 `--include-details` 才会生成：
+详情文件保存 Kivo API 的原始详情响应。每日自动同步默认会生成详情文件；本地手动同步时需要使用 `--include-details`：
 
 ```text
 GET /students/76.json
@@ -192,18 +203,24 @@ GET /schools/1.json
 GET /articles/77.json
 ```
 
-详情文件保存 Kivo API 的原始详情响应。
-
 ## 资源表
 
 | 名称                       | Raw 路径                                  | 上游路径                           | 列表字段          | 详情                           |
 |--------------------------|-----------------------------------------|--------------------------------|---------------|------------------------------|
 | `api-root`               | `/meta/api-root.json`                   | `/`                            | -             | -                            |
 | `statistics`             | `/meta/statistics.json`                 | `/statistics/index`            | -             | -                            |
-| `current-event`          | `/current/event.json`                   | `/data/event/now`              | -             | -                            |
-| `current-raid`           | `/current/raid.json`                    | `/data/raid/now`               | -             | -                            |
-| `current-pick-up`        | `/current/pick-up.json`                 | `/data/pick_up/`               | -             | -                            |
-| `lucky-item`             | `/current/lucky-item.json`              | `/data/lucky_item/`            | -             | -                            |
+| `current-event`          | `/current/event.json`                   | `/data/event/now?server=jp`    | -             | -                            |
+| `current-event-jp`       | `/current/events/jp.json`               | `/data/event/now?server=jp`    | -             | -                            |
+| `current-event-cn`       | `/current/events/cn.json`               | `/data/event/now?server=cn`    | -             | -                            |
+| `current-raid`           | `/current/raid.json`                    | `/data/raid/now?server=jp`     | -             | -                            |
+| `current-raid-jp`        | `/current/raids/jp.json`                | `/data/raid/now?server=jp`     | -             | -                            |
+| `current-raid-cn`        | `/current/raids/cn.json`                | `/data/raid/now?server=cn`     | -             | -                            |
+| `current-pick-up`        | `/current/pick-up.json`                 | `/data/pick_up/?server=jp`     | -             | -                            |
+| `current-pick-up-jp`     | `/current/pick-ups/jp.json`             | `/data/pick_up/?server=jp`     | -             | -                            |
+| `current-pick-up-cn`     | `/current/pick-ups/cn.json`             | `/data/pick_up/?server=cn`     | -             | -                            |
+| `lucky-item`             | `/current/lucky-item.json`              | `/data/lucky_item/?server=jp`  | -             | -                            |
+| `lucky-item-jp`          | `/current/lucky-items/jp.json`          | `/data/lucky_item/?server=jp`  | -             | -                            |
+| `lucky-item-cn`          | `/current/lucky-items/cn.json`          | `/data/lucky_item/?server=cn`  | -             | -                            |
 | `students-birthday-week` | `/current/students-birthday-week.json`  | `/data/students/birthday/week` | -             | -                            |
 | `students`               | `/students/index.json`                  | `/data/students/`              | `students`    | `/students/{id}.json`        |
 | `items`                  | `/items/index.json`                     | `/data/items/`                 | `item`        | `/items/{id}.json`           |

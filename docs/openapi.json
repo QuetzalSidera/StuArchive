@@ -118,8 +118,52 @@
           "Single resources"
         ],
         "summary": "current-event",
-        "description": "Current event window.\n\nUpstream path: `/data/event/now`.",
+        "description": "Current JP event window. Kept as the legacy current event path.\n\nUpstream path: `/data/event/now?server=jp`.",
         "operationId": "get_current_event",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/events/jp.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "current-event-jp",
+        "description": "Current JP event window.\n\nUpstream path: `/data/event/now?server=jp`.",
+        "operationId": "get_current_event_jp",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/events/cn.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "current-event-cn",
+        "description": "Current CN event window.\n\nUpstream path: `/data/event/now?server=cn`.",
+        "operationId": "get_current_event_cn",
         "responses": {
           "200": {
             "description": "OK",
@@ -140,8 +184,52 @@
           "Single resources"
         ],
         "summary": "current-raid",
-        "description": "Current raid window.\n\nUpstream path: `/data/raid/now`.",
+        "description": "Current JP raid window. Kept as the legacy current raid path.\n\nUpstream path: `/data/raid/now?server=jp`.",
         "operationId": "get_current_raid",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/raids/jp.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "current-raid-jp",
+        "description": "Current JP raid window.\n\nUpstream path: `/data/raid/now?server=jp`.",
+        "operationId": "get_current_raid_jp",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/raids/cn.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "current-raid-cn",
+        "description": "Current CN raid window.\n\nUpstream path: `/data/raid/now?server=cn`.",
+        "operationId": "get_current_raid_cn",
         "responses": {
           "200": {
             "description": "OK",
@@ -162,8 +250,52 @@
           "Single resources"
         ],
         "summary": "current-pick-up",
-        "description": "Current pickup banner student IDs.\n\nUpstream path: `/data/pick_up/`.",
+        "description": "Current JP pickup banner student IDs. Kept as the legacy current pickup path.\n\nUpstream path: `/data/pick_up/?server=jp`.",
         "operationId": "get_current_pick_up",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/pick-ups/jp.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "current-pick-up-jp",
+        "description": "Current JP pickup banner student IDs.\n\nUpstream path: `/data/pick_up/?server=jp`.",
+        "operationId": "get_current_pick_up_jp",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/pick-ups/cn.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "current-pick-up-cn",
+        "description": "Current CN pickup banner student IDs.\n\nUpstream path: `/data/pick_up/?server=cn`.",
+        "operationId": "get_current_pick_up_cn",
         "responses": {
           "200": {
             "description": "OK",
@@ -184,8 +316,52 @@
           "Single resources"
         ],
         "summary": "lucky-item",
-        "description": "Current lucky item.\n\nUpstream path: `/data/lucky_item/`.",
+        "description": "Current JP lucky item. Kept as the legacy current lucky item path.\n\nUpstream path: `/data/lucky_item/?server=jp`.",
         "operationId": "get_lucky_item",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/lucky-items/jp.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "lucky-item-jp",
+        "description": "Current JP lucky item.\n\nUpstream path: `/data/lucky_item/?server=jp`.",
+        "operationId": "get_lucky_item_jp",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/current/lucky-items/cn.json": {
+      "get": {
+        "tags": [
+          "Single resources"
+        ],
+        "summary": "lucky-item-cn",
+        "description": "Current CN lucky item.\n\nUpstream path: `/data/lucky_item/?server=cn`.",
+        "operationId": "get_lucky_item_cn",
         "responses": {
           "200": {
             "description": "OK",

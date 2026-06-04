@@ -82,6 +82,25 @@ sudo ./svc.sh uninstall
 
 如果不配置 `SYNC_RUNNER`，定时任务默认使用 `ubuntu-latest`。当 GitHub-hosted runner 无法访问 Kivo 时，workflow 会记录 warning 并跳过提交，避免每天因为上游网络策略标红。手动排查时可启用 `fail_on_sync_error` 让同步失败直接标红。
 
+每日定时同步默认会传入 `--include-details`，为 `sources.json` 中 `details_enabled=true` 的集合生成 `{id}.json` 详情文件，例如 `students/76.json`、`items/1396.json`。`timeline` 这类标记为 `details_enabled=false` 的超大集合仍不会默认抓取详情，需要手动传入 `--include-disabled-details`。
+
+当前活动、总力战、招募和幸运物品会同步 JP/CN 分服文件，同时保留旧的默认路径：
+
+```text
+current/event.json
+current/events/jp.json
+current/events/cn.json
+current/raid.json
+current/raids/jp.json
+current/raids/cn.json
+current/pick-up.json
+current/pick-ups/jp.json
+current/pick-ups/cn.json
+current/lucky-item.json
+current/lucky-items/jp.json
+current/lucky-items/cn.json
+```
+
 ## 添加或调整端点
 
 1. 先探测端点是否返回 JSON：

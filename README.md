@@ -47,9 +47,11 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/in
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/1.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76.json
+https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json
+https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json
 ```
 
-`lookup.json` 是预生成查询索引，可按 ID、学生姓名、条目名称、标题等别名在客户端快速定位条目。详情文件需要在同步时使用 `--include-details` 才会生成。
+`lookup.json` 是预生成查询索引，可按 ID、学生姓名、条目名称、标题等别名在客户端快速定位条目，并提供对应 `detail_path` / `detail_raw_url`。每日自动同步会默认生成详情文件；本地手动同步需要传入 `--include-details`。
 
 同步写出的 `//static.kivo.wiki/...` 静态资源地址会被转换为 `https://static.kivo.wiki/...`，可直接用于图片、封面等资源加载。
 

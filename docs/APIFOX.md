@@ -37,8 +37,9 @@ OpenAPI 文档按以下标签分组：
 
 - GitHub Raw 是静态文件服务，不支持服务端搜索、排序、过滤或 POST。
 - 要按 ID、学生姓名、条目名称、标题等条件查询，优先请求集合 `lookup.json`，再通过 `by_id`、`by_alias` 或 `by_normalized_alias` 定位条目。
+- `lookup.by_id[id].item` 是列表摘要；完整资料读取同一条目里的 `detail_path` 或 `detail_raw_url`。
 - 复杂条件查询仍可请求集合 `index.json`，再在客户端过滤 `items`。
-- 详情文件需要运行 `python3 scripts/sync.py --include-details` 后才会生成。
+- 每日自动同步默认会生成详情文件；本地手动同步需要运行 `python3 scripts/sync.py --include-details`。
 - `timeline` 详情默认关闭；需要时运行 `python3 scripts/sync.py --resource timeline --include-details --include-disabled-details`。
 - OpenAPI 文档由 `scripts/generate_openapi.py` 从 `sources.json` 生成。
 - Kivo 的 `//static.kivo.wiki/...` 静态资源地址会被同步脚本保存为 `https://static.kivo.wiki/...`。
