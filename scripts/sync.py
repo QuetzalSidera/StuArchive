@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import Any
 
 from logging_utils import get_logger, setup_logging
-from postprocess import absolutize_urls, build_lookup, lookup_summary
+from postprocess import absolutize_urls, build_lookup, lookup_summary, postprocess_data
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -527,7 +527,14 @@ def sync(args: argparse.Namespace) -> int:
         "sync_errors": sync_errors,
     }
     write_json(data_dir / "index.json", manifest)
+    postprocess_result = postprocess_data(config, data_dir)
     LOGGER.info("wrote %s", data_dir / "index.json")
+    LOGGER.info(
+        "postprocess: normalized %s file(s), wrote %s lookup index(es), wrote %s student profile(s)",
+        postprocess_result["normalized_files"],
+        postprocess_result["lookup_count"],
+        postprocess_result["student_profile_count"],
+    )
     LOGGER.info("requests: %s", client.request_count)
     return 0
 

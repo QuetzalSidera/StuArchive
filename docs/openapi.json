@@ -43,6 +43,10 @@
     {
       "name": "Details",
       "description": "Per-id detail files generated when detail sync is enabled."
+    },
+    {
+      "name": "Profiles",
+      "description": "Page-level derived JSON files with resolved references."
     }
   ],
   "paths": {
@@ -484,6 +488,55 @@
               "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/KivoEnvelope"
+                }
+              }
+            }
+          }
+        },
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/Id"
+          }
+        ]
+      }
+    },
+    "/students/profiles/index.json": {
+      "get": {
+        "tags": [
+          "Profiles"
+        ],
+        "summary": "students profile index",
+        "description": "Index of page-level student profile files. Profiles are generated from student details and resolve common references such as school, relation, equipment, items, gifts, and furniture.",
+        "operationId": "get_students_profiles_index",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProfileIndex"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/students/profiles/{id}.json": {
+      "get": {
+        "tags": [
+          "Profiles"
+        ],
+        "summary": "students profile",
+        "description": "Page-level student profile with resolved references. Use this when a client needs a single JSON close to the Kivo student page: intro, names, implementation status, skills, equipment, weapon, base stats, gifts, furniture, gallery, and voice metadata.",
+        "operationId": "get_students_profile",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/StudentProfile"
                 }
               }
             }
@@ -2069,6 +2122,15 @@
           "lookup": {
             "$ref": "#/components/schemas/AnyJson"
           },
+          "profile_index": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "profiles": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/AnyJson"
+            }
+          },
           "items": {
             "type": "array",
             "items": {
@@ -2105,6 +2167,13 @@
             "type": "string"
           },
           "detail_raw_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "profile_path": {
+            "type": "string"
+          },
+          "profile_raw_url": {
             "type": "string",
             "format": "uri"
           },
@@ -2171,6 +2240,84 @@
                 "type": "string"
               }
             }
+          }
+        }
+      },
+      "ProfileIndex": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "schema_version": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "generated_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "total_items": {
+            "type": "integer"
+          },
+          "profiles": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/AnyJson"
+            }
+          }
+        }
+      },
+      "StudentProfile": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "schema_version": {
+            "type": "string"
+          },
+          "profile_type": {
+            "type": "string"
+          },
+          "generated_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id": {},
+          "display_name": {
+            "type": "string"
+          },
+          "names": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "skin": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "intro": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "profile": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "affiliation": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "implementation": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "assets": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "combat": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "preferences": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "media": {
+            "$ref": "#/components/schemas/AnyJson"
+          },
+          "source": {
+            "$ref": "#/components/schemas/AnyJson"
           }
         }
       }

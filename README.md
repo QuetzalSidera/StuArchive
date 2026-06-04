@@ -47,13 +47,16 @@ https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/in
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/1.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/76.json
+https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/76.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json
 https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json
 ```
 
-`lookup.json` 是预生成查询索引，可按 ID、学生姓名、条目名称、标题等别名在客户端快速定位条目，并提供对应 `detail_path` / `detail_raw_url`。每日自动同步会默认生成详情文件；本地手动同步需要传入 `--include-details`。
+`lookup.json` 是预生成查询索引，可按 ID、学生姓名、条目名称、标题等别名在客户端快速定位条目，并提供对应 `detail_path` / `detail_raw_url` 与学生 `profile_path` / `profile_raw_url`。每日自动同步会默认生成详情文件和学生页面级资料；本地手动同步需要传入 `--include-details`。
 
-同步写出的 `//static.kivo.wiki/...` 静态资源地址会被转换为 `https://static.kivo.wiki/...`，可直接用于图片、封面等资源加载。
+`students/{id}.json` 保存 Kivo 原始详情响应；`students/profiles/{id}.json` 是 StuArchive 生成的页面级聚合资料，会解析学校、关系、装备、养成素材、礼物、家具等常见引用，适合客户端直接展示学生详情页。
+
+同步写出的 `//static.kivo.wiki/...` 静态资源地址会被转换为 `https://static.kivo.wiki/...`。页面 Markdown 中的 `files/...` / `/files/...` 资源也会转换为 `https://kivo.wiki/files/...`，可直接用于图片、封面等资源加载。
 
 完整说明见 [API 文档](docs/API.md) 和 [更新流程](docs/UPDATE.md)。
 
@@ -79,6 +82,7 @@ data/
     lookup.json              # 按 ID/姓名/别名查询
     pages/1.json             # Kivo 原始分页响应
     76.json                  # 学生详情，需 --include-details
+    profiles/76.json         # 学生页面级聚合资料
 ```
 
 ## 许可与来源

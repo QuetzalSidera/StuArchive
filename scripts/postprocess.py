@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 import re
 import sys
@@ -20,6 +21,7 @@ DEFAULT_DATA_DIR = ROOT / "data"
 SCHEMA_VERSION = "1.0.0"
 
 STATIC_URL_RE = re.compile(r"(?<!:)//static\.kivo\.wiki/")
+KIVO_FILES_RE = re.compile(r"(^|[\s\(\[\"'])/?files/")
 WHITESPACE_RE = re.compile(r"\s+")
 
 GENERIC_ALIAS_FIELDS = (
@@ -75,7 +77,8 @@ def file_stem(value: Any) -> str:
 
 def absolutize_urls(value: Any) -> Any:
     if isinstance(value, str):
-        return STATIC_URL_RE.sub("https://static.kivo.wiki/", value)
+        text = STATIC_URL_RE.sub("https://static.kivo.wiki/", value)
+        return KIVO_FILES_RE.sub(r"\1https://kivo.wiki/files/", text)
     if isinstance(value, list):
         return [absolutize_urls(item) for item in value]
     if isinstance(value, dict):
@@ -176,6 +179,298 @@ def detail_rel_path(resource: JsonObject, item_id: Any) -> str | None:
     return (output_dir / f"{file_stem(item_id)}.json").as_posix()
 
 
+def student_profile_rel_path(item_id: Any) -> str:
+    return (Path("students") / "profiles" / f"{file_stem(item_id)}.json").as_posix()
+
+
+def kivo_data(payload: Any) -> JsonObject:
+    if isinstance(payload, dict) and isinstance(payload.get("data"), dict):
+        return payload["data"]
+    return payload if isinstance(payload, dict) else {}
+
+
+def full_name(family: Any, given: Any) -> str | None:
+    family_text = clean_text(family)
+    given_text = clean_text(given)
+    if family_text and given_text:
+        return f"{family_text} {given_text}"
+    return given_text or family_text
+
+
+def display_student_name(student: JsonObject) -> str:
+    name = (
+        full_name(student.get("family_name_cn"), student.get("given_name_cn"))
+        or full_name(student.get("family_name"), student.get("given_name"))
+        or full_name(student.get("family_name_jp"), student.get("given_name_jp"))
+        or str(student.get("id", ""))
+    )
+    skin = clean_text(student.get("skin_cn") or student.get("skin") or student.get("skin_jp"))
+    return f"{name}（{skin}）" if skin else name
+
+
+class ReferenceData:
+    def __init__(self, config: JsonObject, data_dir: Path) -> None:
+        self.config = config
+        self.data_dir = data_dir
+        self.summary_cache: dict[str, dict[str, JsonObject]] = {}
+        self.detail_cache: dict[tuple[str, str], JsonObject | None] = {}
+
+    def summaries(self, collection: str) -> dict[str, JsonObject]:
+        if collection in self.summary_cache:
+            return self.summary_cache[collection]
+
+        index_path = self.data_dir / collection / "index.json"
+        summaries: dict[str, JsonObject] = {}
+        if index_path.exists():
+            payload = load_json(index_path)
+            for item in payload.get("items", []):
+                if isinstance(item, dict) and "id" in item:
+                    summaries[str(item["id"])] = item
+        self.summary_cache[collection] = summaries
+        return summaries
+
+    def detail(self, collection: str, item_id: Any) -> JsonObject | None:
+        item_key = str(item_id)
+        cache_key = (collection, item_key)
+        if cache_key in self.detail_cache:
+            return self.detail_cache[cache_key]
+
+        detail_path = self.data_dir / collection / f"{file_stem(item_id)}.json"
+        if not detail_path.exists():
+            self.detail_cache[cache_key] = None
+            return None
+
+        detail = kivo_data(load_json(detail_path))
+        self.detail_cache[cache_key] = detail
+        return detail
+
+    def resolve(self, collection: str, item_id: Any) -> JsonObject | None:
+        if item_id is None:
+            return None
+
+        detail = self.detail(collection, item_id)
+        summary = self.summaries(collection).get(str(item_id))
+        record = detail or summary
+        if not isinstance(record, dict):
+            return {"id": item_id}
+
+        resolved = copy.deepcopy(record)
+        if collection == "schools":
+            resolved = {
+                key: resolved.get(key)
+                for key in ("id", "name", "name_cn", "logo", "preview_image")
+                if key in resolved
+            }
+        elif collection == "relations":
+            resolved = {
+                key: resolved.get(key)
+                for key in ("id", "name", "name_cn", "image", "description")
+                if key in resolved
+            }
+        elif collection == "equipments":
+            resolved.pop("students", None)
+        elif collection == "items":
+            gift = resolved.get("gift")
+            if isinstance(gift, dict):
+                gift.pop("students", None)
+            furniture = resolved.get("furniture")
+            if isinstance(furniture, dict):
+                furniture.pop("students", None)
+
+        rel_path = Path(collection) / f"{file_stem(item_id)}.json"
+        if (self.data_dir / rel_path).exists():
+            resolved["detail_path"] = rel_path.as_posix()
+            resolved["detail_raw_url"] = raw_url(self.config, rel_path)
+        else:
+            index_rel_path = Path(collection) / "index.json"
+            resolved["source_path"] = index_rel_path.as_posix()
+            resolved["source_raw_url"] = raw_url(self.config, index_rel_path)
+
+        return resolved
+
+
+def resolve_list(refs: ReferenceData, collection: str, values: Any) -> list[JsonObject]:
+    if not isinstance(values, list):
+        return []
+    resolved = []
+    for value in values:
+        item = refs.resolve(collection, value)
+        if item:
+            resolved.append(item)
+    return resolved
+
+
+def build_student_profile(
+    config: JsonObject,
+    data_dir: Path,
+    detail_path: Path,
+    generated_at: Any,
+    refs: ReferenceData,
+) -> JsonObject | None:
+    detail_payload = load_json(detail_path)
+    student = kivo_data(detail_payload)
+    student_id = student.get("id")
+    if student_id is None:
+        return None
+
+    character_datas = student.get("character_datas")
+    character_data = character_datas[0] if isinstance(character_datas, list) and character_datas else {}
+    if not isinstance(character_data, dict):
+        character_data = {}
+
+    gift_entries = []
+    for gift in student.get("gift_data", []) if isinstance(student.get("gift_data"), list) else []:
+        if not isinstance(gift, dict):
+            continue
+        gift_entries.append(
+            {
+                "id": gift.get("id"),
+                "favorability": gift.get("favorability"),
+                "item": refs.resolve("items", gift.get("id")),
+            }
+        )
+
+    furniture_entries = []
+    for item_id in student.get("furniture", []) if isinstance(student.get("furniture"), list) else []:
+        item = refs.resolve("items", item_id)
+        if item:
+            furniture_entries.append(item)
+
+    equipment_ids = character_data.get("equipment", [])
+    material_ids = character_data.get("cultivate_material", [])
+
+    source_rel_path = Path("students") / detail_path.name
+    return {
+        "schema_version": SCHEMA_VERSION,
+        "profile_type": "student",
+        "generated_at": generated_at,
+        "id": student_id,
+        "display_name": display_student_name(student),
+        "names": {
+            "default": full_name(student.get("family_name"), student.get("given_name")),
+            "cn": full_name(student.get("family_name_cn"), student.get("given_name_cn")),
+            "jp": full_name(student.get("family_name_jp"), student.get("given_name_jp")),
+            "en": full_name(student.get("family_name_en"), student.get("given_name_en")),
+            "kr": full_name(student.get("family_name_kr"), student.get("given_name_kr")),
+            "zh_tw": full_name(student.get("family_name_zh_tw"), student.get("given_name_zh_tw")),
+            "family_name": student.get("family_name"),
+            "given_name": student.get("given_name"),
+            "family_name_cn": student.get("family_name_cn"),
+            "given_name_cn": student.get("given_name_cn"),
+            "family_name_jp": student.get("family_name_jp"),
+            "given_name_jp": student.get("given_name_jp"),
+            "family_name_en": student.get("family_name_en"),
+            "given_name_en": student.get("given_name_en"),
+            "family_name_kr": student.get("family_name_kr"),
+            "given_name_kr": student.get("given_name_kr"),
+            "family_name_zh_tw": student.get("family_name_zh_tw"),
+            "given_name_zh_tw": student.get("given_name_zh_tw"),
+        },
+        "skin": {
+            "default": student.get("skin"),
+            "cn": student.get("skin_cn"),
+            "jp": student.get("skin_jp"),
+            "zh_tw": student.get("skin_zh_tw"),
+            "skins": student.get("skin_list", []),
+        },
+        "intro": {
+            "default": student.get("introduction"),
+            "cn": student.get("introduction_cn"),
+            "momo_talk_signature": student.get("momo_talk_signature"),
+            "more": student.get("more"),
+        },
+        "profile": {
+            "age": student.get("age"),
+            "grade": student.get("grade"),
+            "height": student.get("height"),
+            "birthday": student.get("birthday"),
+            "hobby": student.get("hobby"),
+            "designer": student.get("designer"),
+            "illustrator": student.get("illustrator"),
+            "character_voice": student.get("character_voice"),
+            "character_voice_cn": student.get("character_voice_cn"),
+            "nick_name": student.get("nick_name"),
+            "body_shape": student.get("body_shape"),
+        },
+        "affiliation": {
+            "school": refs.resolve("schools", student.get("school")),
+            "main_relation": refs.resolve("relations", student.get("main_relation")),
+            "relations": resolve_list(refs, "relations", student.get("relation")),
+        },
+        "implementation": {
+            "jp": {"installed": student.get("is_install"), "release_date": student.get("release_date")},
+            "global": {"installed": student.get("is_install_global"), "release_date": student.get("release_date_global")},
+            "cn": {"installed": student.get("is_install_cn"), "release_date": student.get("release_date_cn")},
+            "is_npc": student.get("is_npc"),
+            "show_list": student.get("show_list"),
+            "special_appearance": student.get("special_appearance"),
+        },
+        "assets": {
+            "avatar": student.get("avatar"),
+            "sd_model_image": student.get("sd_model_image"),
+            "recollection_lobby_image": student.get("recollection_lobby_image"),
+            "voice_play_icon": student.get("voice_play_icon"),
+            "voice_pause_icon": student.get("voice_pause_icon"),
+            "spine_ids": student.get("spine", []),
+            "model_ids": student.get("model", []),
+        },
+        "combat": {
+            "character_id": character_data.get("character_id"),
+            "dev_name": character_data.get("dev_name"),
+            "weapon_type": student.get("weapon_type"),
+            "role": character_data.get("type"),
+            "combat_style": character_data.get("combat_style"),
+            "battlefield_position": character_data.get("battlefield_position"),
+            "team_position": character_data.get("team_position"),
+            "attack_attribute": character_data.get("attack_attribute"),
+            "defensive_attributes": character_data.get("defensive_attributes"),
+            "rarity": character_data.get("rarity"),
+            "limited": character_data.get("limited"),
+            "is_groupc_control": character_data.get("is_groupc_control"),
+            "adaptability": {
+                "outdoor": character_data.get("outdoor_adaptability"),
+                "indoor": character_data.get("indoor_adaptability"),
+                "street": character_data.get("street_adaptability"),
+            },
+            "basic": character_data.get("basic", []),
+            "skills": character_data.get("skill", {}),
+            "weapon": character_data.get("weapons", {}),
+            "equipment": resolve_list(refs, "equipments", equipment_ids),
+            "favorite_equipment": refs.resolve("equipments", character_data.get("favorite_equipment")),
+            "cultivate_materials": resolve_list(refs, "items", material_ids),
+        },
+        "preferences": {
+            "gifts": gift_entries,
+            "furniture": furniture_entries,
+        },
+        "media": {
+            "gallery": student.get("gallery", []),
+            "voice": student.get("voice", []),
+            "voice_cn": student.get("voice_cn", []),
+            "voice_kr": student.get("voice_kr", []),
+        },
+        "source": {
+            "detail_path": source_rel_path.as_posix(),
+            "detail_raw_url": raw_url(config, source_rel_path),
+            "upstream_time": detail_payload.get("time") if isinstance(detail_payload, dict) else None,
+            "updated_at": student.get("updated_at"),
+            "created_at": student.get("created_at"),
+        },
+    }
+
+
+def update_manifest_student_profiles(manifest: JsonObject, summary: JsonObject) -> bool:
+    updated = False
+    for resource in manifest.get("resources", []):
+        if resource.get("name") != "students" or resource.get("type") != "collection":
+            continue
+        resource["profile_index_path"] = summary["path"]
+        resource["profile_index_raw_url"] = summary["raw_url"]
+        resource["profiles_synced"] = summary["total_items"]
+        updated = True
+    return updated
+
+
 def build_lookup(
     config: JsonObject,
     resource: JsonObject,
@@ -188,6 +483,11 @@ def build_lookup(
     by_id: dict[str, JsonObject] = {}
     by_alias: dict[str, list[str]] = {}
     by_normalized_alias: dict[str, list[str]] = {}
+    profiles_by_id = {
+        str(profile["id"]): profile
+        for profile in collection_index.get("profiles", [])
+        if isinstance(profile, dict) and "id" in profile
+    }
 
     for item in items:
         if not isinstance(item, dict) or id_key not in item:
@@ -206,6 +506,11 @@ def build_lookup(
         if detail_path:
             entry["detail_path"] = detail_path
             entry["detail_raw_url"] = raw_url(config, detail_path)
+
+        profile_entry = profiles_by_id.get(item_id_key)
+        if profile_entry:
+            entry["profile_path"] = profile_entry.get("path")
+            entry["profile_raw_url"] = profile_entry.get("raw_url")
 
         by_id[item_id_key] = entry
 
@@ -258,6 +563,53 @@ def update_manifest_lookup(manifest: JsonObject, resource_name: str, summary: Js
     return updated
 
 
+def build_student_profiles(config: JsonObject, data_dir: Path, collection_index: JsonObject) -> JsonObject:
+    students_dir = data_dir / "students"
+    profiles_dir = students_dir / "profiles"
+    generated_at = collection_index.get("generated_at")
+    refs = ReferenceData(config, data_dir)
+    profile_entries: list[JsonObject] = []
+
+    for detail_path in sorted(students_dir.glob("*.json")):
+        if detail_path.name in {"index.json", "lookup.json"}:
+            continue
+
+        profile = build_student_profile(config, data_dir, detail_path, generated_at, refs)
+        if not profile:
+            continue
+
+        item_id = profile["id"]
+        rel_path = Path(student_profile_rel_path(item_id))
+        write_json(data_dir / rel_path, profile)
+        profile_entries.append(
+            {
+                "id": item_id,
+                "path": rel_path.as_posix(),
+                "raw_url": raw_url(config, rel_path),
+            }
+        )
+
+    profile_index_rel_path = Path("students") / "profiles" / "index.json"
+    profile_index = {
+        "schema_version": SCHEMA_VERSION,
+        "name": "student-profiles",
+        "description": "Student page-level profiles with resolved school, relation, equipment, item, gift, and furniture references.",
+        "generated_at": generated_at,
+        "total_items": len(profile_entries),
+        "profiles": profile_entries,
+    }
+    profiles_dir.mkdir(parents=True, exist_ok=True)
+    write_json(data_dir / profile_index_rel_path, profile_index)
+
+    collection_index["profiles"] = profile_entries
+    collection_index["profile_index"] = {
+        "path": profile_index_rel_path.as_posix(),
+        "raw_url": raw_url(config, profile_index_rel_path),
+        "total_items": len(profile_entries),
+    }
+    return collection_index["profile_index"]
+
+
 def postprocess_data(config: JsonObject, data_dir: Path) -> JsonObject:
     normalized_files = 0
     for path in sorted(data_dir.rglob("*.json")):
@@ -282,6 +634,10 @@ def postprocess_data(config: JsonObject, data_dir: Path) -> JsonObject:
             continue
 
         collection_index = load_json(index_path)
+        profile_summary = None
+        if resource.get("name") == "students":
+            profile_summary = build_student_profiles(config, data_dir, collection_index)
+
         lookup = build_lookup(config, resource, collection_index, index_rel_path)
         lookup_rel_path = output_dir / "lookup.json"
         summary = lookup_summary(config, lookup_rel_path, lookup)
@@ -293,6 +649,8 @@ def postprocess_data(config: JsonObject, data_dir: Path) -> JsonObject:
 
         if manifest is not None:
             update_manifest_lookup(manifest, resource["name"], summary)
+            if profile_summary is not None:
+                update_manifest_student_profiles(manifest, profile_summary)
 
     if manifest is not None:
         write_json(manifest_path, manifest)
@@ -300,6 +658,11 @@ def postprocess_data(config: JsonObject, data_dir: Path) -> JsonObject:
     return {
         "normalized_files": normalized_files,
         "lookup_count": lookup_count,
+        "student_profile_count": (
+            load_json(data_dir / "students" / "profiles" / "index.json").get("total_items", 0)
+            if (data_dir / "students" / "profiles" / "index.json").exists()
+            else 0
+        ),
     }
 
 
@@ -316,9 +679,10 @@ def main(argv: list[str] | None = None) -> int:
     config = load_json(args.sources)
     result = postprocess_data(config, args.data_dir)
     LOGGER.info(
-        "normalized %s file(s), wrote %s lookup index(es)",
+        "normalized %s file(s), wrote %s lookup index(es), wrote %s student profile(s)",
         result["normalized_files"],
         result["lookup_count"],
+        result["student_profile_count"],
     )
     return 0
 

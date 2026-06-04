@@ -140,6 +140,36 @@ def add_collection(paths: JsonObject, resource: JsonObject) -> None:
         detail_operation["parameters"] = [{"$ref": "#/components/parameters/Id"}]
         paths[detail_path] = {"get": detail_operation}
 
+    if resource.get("name") == "students":
+        profile_index_path = f"/{output_dir}/profiles/index.json"
+        paths[profile_index_path] = {
+            "get": get_operation(
+                summary="students profile index",
+                description=(
+                    "Index of page-level student profile files. Profiles are generated from student details "
+                    "and resolve common references such as school, relation, equipment, items, gifts, and furniture."
+                ),
+                tag="Profiles",
+                operation_id=clean_operation_id("get", resource["name"], "profiles", "index"),
+                schema_ref="#/components/schemas/ProfileIndex",
+            )
+        }
+
+        profile_path = f"/{output_dir}/profiles/{{id}}.json"
+        profile_operation = get_operation(
+            summary="students profile",
+            description=(
+                "Page-level student profile with resolved references. Use this when a client needs a single JSON "
+                "close to the Kivo student page: intro, names, implementation status, skills, equipment, weapon, "
+                "base stats, gifts, furniture, gallery, and voice metadata."
+            ),
+            tag="Profiles",
+            operation_id=clean_operation_id("get", resource["name"], "profile"),
+            schema_ref="#/components/schemas/StudentProfile",
+        )
+        profile_operation["parameters"] = [{"$ref": "#/components/parameters/Id"}]
+        paths[profile_path] = {"get": profile_operation}
+
 
 def build_spec(config: JsonObject) -> JsonObject:
     paths: JsonObject = {
@@ -191,6 +221,7 @@ def build_spec(config: JsonObject) -> JsonObject:
             {"name": "Lookup indexes", "description": "Precomputed static lookup indexes for IDs and aliases."},
             {"name": "Original pages", "description": "Original paginated Kivo API responses."},
             {"name": "Details", "description": "Per-id detail files generated when detail sync is enabled."},
+            {"name": "Profiles", "description": "Page-level derived JSON files with resolved references."},
         ],
         "paths": paths,
         "components": {
@@ -261,6 +292,11 @@ def build_spec(config: JsonObject) -> JsonObject:
                         "total_items": {"type": "integer"},
                         "details_synced": {"type": "integer"},
                         "lookup": {"$ref": "#/components/schemas/AnyJson"},
+                        "profile_index": {"$ref": "#/components/schemas/AnyJson"},
+                        "profiles": {
+                            "type": "array",
+                            "items": {"$ref": "#/components/schemas/AnyJson"},
+                        },
                         "items": {
                             "type": "array",
                             "items": {"$ref": "#/components/schemas/AnyJson"},
@@ -284,6 +320,8 @@ def build_spec(config: JsonObject) -> JsonObject:
                         "source_raw_url": {"type": "string", "format": "uri"},
                         "detail_path": {"type": "string"},
                         "detail_raw_url": {"type": "string", "format": "uri"},
+                        "profile_path": {"type": "string"},
+                        "profile_raw_url": {"type": "string", "format": "uri"},
                         "item": {"$ref": "#/components/schemas/AnyJson"},
                     },
                 },
@@ -319,6 +357,42 @@ def build_spec(config: JsonObject) -> JsonObject:
                                 "items": {"type": "string"},
                             },
                         },
+                    },
+                },
+                "ProfileIndex": {
+                    "type": "object",
+                    "additionalProperties": True,
+                    "properties": {
+                        "schema_version": {"type": "string"},
+                        "name": {"type": "string"},
+                        "generated_at": {"type": "string", "format": "date-time"},
+                        "total_items": {"type": "integer"},
+                        "profiles": {
+                            "type": "array",
+                            "items": {"$ref": "#/components/schemas/AnyJson"},
+                        },
+                    },
+                },
+                "StudentProfile": {
+                    "type": "object",
+                    "additionalProperties": True,
+                    "properties": {
+                        "schema_version": {"type": "string"},
+                        "profile_type": {"type": "string"},
+                        "generated_at": {"type": "string", "format": "date-time"},
+                        "id": {},
+                        "display_name": {"type": "string"},
+                        "names": {"$ref": "#/components/schemas/AnyJson"},
+                        "skin": {"$ref": "#/components/schemas/AnyJson"},
+                        "intro": {"$ref": "#/components/schemas/AnyJson"},
+                        "profile": {"$ref": "#/components/schemas/AnyJson"},
+                        "affiliation": {"$ref": "#/components/schemas/AnyJson"},
+                        "implementation": {"$ref": "#/components/schemas/AnyJson"},
+                        "assets": {"$ref": "#/components/schemas/AnyJson"},
+                        "combat": {"$ref": "#/components/schemas/AnyJson"},
+                        "preferences": {"$ref": "#/components/schemas/AnyJson"},
+                        "media": {"$ref": "#/components/schemas/AnyJson"},
+                        "source": {"$ref": "#/components/schemas/AnyJson"},
                     },
                 },
             },

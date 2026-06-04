@@ -32,14 +32,16 @@ OpenAPI 文档按以下标签分组：
 - `Lookup indexes`：预生成查询索引，如 `/students/lookup.json`
 - `Original pages`：原始分页响应，如 `/students/pages/{page}.json`
 - `Details`：按 ID 的详情文件，如 `/students/{id}.json`
+- `Profiles`：页面级聚合资料，如 `/students/profiles/{id}.json`
 
 ## 使用注意
 
 - GitHub Raw 是静态文件服务，不支持服务端搜索、排序、过滤或 POST。
 - 要按 ID、学生姓名、条目名称、标题等条件查询，优先请求集合 `lookup.json`，再通过 `by_id`、`by_alias` 或 `by_normalized_alias` 定位条目。
-- `lookup.by_id[id].item` 是列表摘要；完整资料读取同一条目里的 `detail_path` 或 `detail_raw_url`。
+- `lookup.by_id[id].item` 是列表摘要；Kivo 原始详情读取同一条目里的 `detail_path` 或 `detail_raw_url`。
+- 学生条目还提供 `profile_path` / `profile_raw_url`，可直接读取解析过学校、关系、装备、素材、礼物和家具的页面级资料。
 - 复杂条件查询仍可请求集合 `index.json`，再在客户端过滤 `items`。
-- 每日自动同步默认会生成详情文件；本地手动同步需要运行 `python3 scripts/sync.py --include-details`。
+- 每日自动同步默认会生成详情文件和学生 profile；本地手动同步需要运行 `python3 scripts/sync.py --include-details`。
 - `timeline` 详情默认关闭；需要时运行 `python3 scripts/sync.py --resource timeline --include-details --include-disabled-details`。
 - OpenAPI 文档由 `scripts/generate_openapi.py` 从 `sources.json` 生成。
-- Kivo 的 `//static.kivo.wiki/...` 静态资源地址会被同步脚本保存为 `https://static.kivo.wiki/...`。
+- Kivo 的 `//static.kivo.wiki/...` 静态资源地址会被同步脚本保存为 `https://static.kivo.wiki/...`；页面 Markdown 中的 `files/...` / `/files/...` 会保存为 `https://kivo.wiki/files/...`。

@@ -94,10 +94,21 @@ def validate(data_dir: Path) -> int:
                     lookup_path = lookup.get("path")
                     if lookup_path and not (data_dir / lookup_path).exists():
                         errors.append(f"{rel_path}: missing lookup file {lookup_path}")
+                    profile_index = collection.get("profile_index", {})
+                    profile_index_path = profile_index.get("path")
+                    if profile_index_path and not (data_dir / profile_index_path).exists():
+                        errors.append(f"{rel_path}: missing profile index file {profile_index_path}")
+                    for profile in collection.get("profiles", []):
+                        profile_path = profile.get("path")
+                        if profile_path and not (data_dir / profile_path).exists():
+                            errors.append(f"{rel_path}: missing profile file {profile_path}")
 
             lookup_path = resource.get("lookup_path")
             if lookup_path and not (data_dir / lookup_path).exists():
                 errors.append(f"manifest resource missing lookup file: {lookup_path}")
+            profile_index_path = resource.get("profile_index_path")
+            if profile_index_path and not (data_dir / profile_index_path).exists():
+                errors.append(f"manifest resource missing profile index file: {profile_index_path}")
 
     if errors:
         for error in errors:

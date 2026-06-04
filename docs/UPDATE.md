@@ -82,7 +82,7 @@ sudo ./svc.sh uninstall
 
 如果不配置 `SYNC_RUNNER`，定时任务默认使用 `ubuntu-latest`。当 GitHub-hosted runner 无法访问 Kivo 时，workflow 会记录 warning 并跳过提交，避免每天因为上游网络策略标红。手动排查时可启用 `fail_on_sync_error` 让同步失败直接标红。
 
-每日定时同步默认会传入 `--include-details`，为 `sources.json` 中 `details_enabled=true` 的集合生成 `{id}.json` 详情文件，例如 `students/76.json`、`items/1396.json`。`timeline` 这类标记为 `details_enabled=false` 的超大集合仍不会默认抓取详情，需要手动传入 `--include-disabled-details`。
+每日定时同步默认会传入 `--include-details`，为 `sources.json` 中 `details_enabled=true` 的集合生成 `{id}.json` 详情文件，例如 `students/76.json`、`items/1396.json`。同步结束后会运行后处理，额外生成学生页面级聚合资料 `students/profiles/{id}.json`，并在 `students/lookup.json` 中写入 `profile_path` / `profile_raw_url`。`timeline` 这类标记为 `details_enabled=false` 的超大集合仍不会默认抓取详情，需要手动传入 `--include-disabled-details`。
 
 当前活动、总力战、招募和幸运物品会同步 JP/CN 分服文件，同时保留旧的默认路径：
 
@@ -129,12 +129,14 @@ current/lucky-items/cn.json
 
 ## 仅重建查询索引和 URL 规范化
 
-如果没有重新抓取 Kivo，只需要基于当前 `data/` 重新生成 `lookup.json` 并把 `//static.kivo.wiki/...` 转换为绝对 URL：
+如果没有重新抓取 Kivo，只需要基于当前 `data/` 重新生成 `lookup.json`，并把 `//static.kivo.wiki/...`、页面 Markdown 中的 `files/...` / `/files/...` 转换为绝对 URL：
 
 ```bash
 python3 scripts/postprocess.py
 python3 scripts/validate.py
 ```
+
+`postprocess.py` 也会重建学生 profile。只有当 `data/students/{id}.json` 详情文件已经存在时，才会生成对应的 `data/students/profiles/{id}.json`。
 
 ## GitHub Raw 生效
 
