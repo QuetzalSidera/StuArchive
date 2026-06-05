@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1040,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/qjE67hfNwzUi1k3szBjSk5UOyoV6nW7j.png",
+    "rarity": 4,
+    "name": "图书馆的古典座椅",
+    "description": "平衡了座椅舒适度和怀旧感的绝妙图书馆座椅。所有读书人都梦寐以求的椅子。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 167,
+          "skin": "",
+          "family_name": "秋泉",
+          "given_name": "红叶",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%A7%8B%E6%B3%89%20%E7%BA%A2%E5%8F%B6/original/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615143,
+  "version": "1.0.0-beta.43"
+}

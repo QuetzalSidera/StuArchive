@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 374,
+  "display_name": "「雷帝」",
+  "names": {
+    "default": "「雷帝」",
+    "cn": null,
+    "jp": "「雷帝」",
+    "en": "Tyrant Emperor",
+    "kr": "<뇌제>",
+    "zh_tw": "「雷帝」",
+    "family_name": "",
+    "given_name": "「雷帝」",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "",
+    "given_name_jp": "「雷帝」",
+    "family_name_en": "",
+    "given_name_en": "Tyrant Emperor",
+    "family_name_kr": "",
+    "given_name_kr": "<뇌제>",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": "「雷帝」"
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 374,
+        "avatar": "https://static.kivo.wiki/images/students/%20%E3%80%8C%E9%9B%B7%E5%B8%9D%E3%80%8D/original/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "格赫娜出身的天才战略家、发明家、政治家，被称作格赫娜的暴君，真名不详，毕业之后离开了基沃托斯，目前一切都是谜。",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": "出自Vol1.3，相关情报如下：\n\n- 列车炮シェマタ的设计出自雷帝之手\n![dwoEZlUKHAu7GJdCy8neqxU6H5PYCxBu.png](https://kivo.wiki/files/3/dwoEZlUKHAu7GJdCy8neqxU6H5PYCxBu.png)\n![EdLnMWi0DqrxDCBu1uHEH91ykAvsX6CD.png](https://kivo.wiki/files/3/EdLnMWi0DqrxDCBu1uHEH91ykAvsX6CD.png)\n\n- 两年前，雷帝曾使基沃托斯陷入混沌之中，被称作格赫娜的暴君\n![njLMwOmRKpGQSn1Q8F53s9yWbqIoUyfZ.png](https://kivo.wiki/files/3/njLMwOmRKpGQSn1Q8F53s9yWbqIoUyfZ.png)\n\n\n- 雷帝目前已经毕业，并离开了基沃托斯\n![l2ZeqirL41Ce36NpnQMZX67hIpFVWxyY.png](https://kivo.wiki/files/3/l2ZeqirL41Ce36NpnQMZX67hIpFVWxyY.png)\n\n\n- 联邦会长的伊甸条约，实际上也与雷帝有关\n![WidrfcHVFEa2wxkQJwXXhrR0U0jMrznP.png](https://kivo.wiki/files/3/WidrfcHVFEa2wxkQJwXXhrR0U0jMrznP.png)\n\n"
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": ""
+  },
+  "affiliation": {
+    "school": {
+      "id": 3,
+      "name": "格赫娜学园",
+      "name_cn": "歌赫娜学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E6%A0%BC%E8%B5%AB%E5%A8%9C%E5%AD%A6%E5%9B%AD_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E6%A0%BC%E8%B5%AB%E5%A8%9C%E5%AD%A6%E5%9B%AD_preview.png",
+      "detail_path": "schools/3.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/3.json"
+    },
+    "main_relation": {
+      "id": 0
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": true,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%20%E3%80%8C%E9%9B%B7%E5%B8%9D%E3%80%8D/original/avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [],
+    "model_ids": []
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/374.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/374.json",
+    "upstream_time": 1780614652,
+    "updated_at": 1733718570,
+    "created_at": 1718775834
+  }
+}

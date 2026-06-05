@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1441,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/oFx0lx5nTUMnylrCF3yRkLCaomrwQzyn.png",
+    "rarity": 4,
+    "name": "木人椿",
+    "description": "用于锻炼拳法的设备。稍有分心就可能会被反击，还请小心使用。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 271,
+          "skin": "",
+          "family_name": "鹿山",
+          "given_name": "丽情",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%B9%BF%E5%B1%B1%20%E4%B8%BD%E6%83%85/original/avatar.png"
+        },
+        {
+          "id": 389,
+          "skin": "旗袍",
+          "family_name": "池仓",
+          "given_name": "玛丽娜",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%B1%A0%E4%BB%93%20%E7%8E%9B%E4%B8%BD%E5%A8%9C/%E6%97%97%E8%A2%8D/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615100,
+  "version": "1.0.0-beta.43"
+}

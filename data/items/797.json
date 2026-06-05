@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 797,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/MI6xSHRFXk3hXHO7hMcmtYAimU9QJ45t.png",
+    "rarity": 3,
+    "name": "挂着开襟毛衣的阿比多斯教室课桌",
+    "description": "挂着黄色开襟毛衣的课桌。温和的气氛之上，总感觉还有一种尊贵的气质。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 120,
+      "students": [
+        {
+          "id": 78,
+          "skin": "",
+          "family_name": "十六夜",
+          "given_name": "野宫",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%8D%81%E5%85%AD%E5%A4%9C%20%E9%87%8E%E5%AE%AB/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615043,
+  "version": "1.0.0-beta.43"
+}

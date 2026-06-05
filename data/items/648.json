@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 648,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/STdCWiMkrXbKY0Wzbibx8H90wD02iLbd.png",
+    "rarity": 4,
+    "name": "大运动会应援台",
+    "description": "很适合应援的大运动会应援台。充满了为努力比赛的学生加油的热情。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 51,
+          "skin": "应援团",
+          "family_name": "猫冢",
+          "given_name": "响",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%8C%AB%E5%A1%9A%20%E5%93%8D/avatar.png"
+        },
+        {
+          "id": 53,
+          "skin": "应援团",
+          "family_name": "白石",
+          "given_name": "歌原",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E7%9F%B3%20%E6%AD%8C%E5%8E%9F/%E5%BA%94%E6%8F%B4%E5%9B%A2/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615004,
+  "version": "1.0.0-beta.43"
+}

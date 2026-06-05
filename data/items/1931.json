@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1931,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/pxwx7e2q9cue1JJJJuAsGNCMnki28y9p.png",
+    "rarity": 4,
+    "name": "瓦尔基里射击训练场",
+    "description": "瓦尔基里警察学校的射击训练设施。<br> 为了守护市民的安全，瓦尔基里的学生们日以继夜地挥洒汗水进行训练。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 100,
+          "skin": "",
+          "family_name": "中务",
+          "given_name": "桐乃",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%B8%AD%E5%8A%A1%20%E6%A1%90%E4%B9%83/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615153,
+  "version": "1.0.0-beta.43"
+}

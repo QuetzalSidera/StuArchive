@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 930,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/ED9x7IPbX1ElFD7cXJLw6uyfgyz9hAte.png",
+    "rarity": 4,
+    "name": "审讯室的桌子",
+    "description": "女武神警察学校审讯室里会设置的一般桌子。审讯有时严厉，有时温和。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 144,
+          "skin": "",
+          "family_name": "尾刃",
+          "given_name": "叶渚",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%B0%BE%E5%88%83%20%E5%8F%B6%E6%B8%9A/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615132,
+  "version": "1.0.0-beta.43"
+}

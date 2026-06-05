@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 531,
+  "display_name": "土生 蓟（和服）",
+  "names": {
+    "default": "土生 蓟",
+    "cn": null,
+    "jp": "土生 アザミ",
+    "en": "Habu Azami",
+    "kr": "하부 아자미",
+    "zh_tw": null,
+    "family_name": "土生",
+    "given_name": "蓟",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "土生",
+    "given_name_jp": "アザミ",
+    "family_name_en": "Habu",
+    "given_name_en": "Azami",
+    "family_name_kr": "하부",
+    "given_name_kr": "아자미",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "和服",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 530,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/original/CH0276_spr_00.png",
+        "skin": "",
+        "skin_cn": ""
+      },
+      {
+        "id": 531,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/CH0289_spr_00.png",
+        "skin": "和服",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "花鸟风月部的怪谈家，第一次出现在老师面前时的形态。\n\n※ 暂时无法明确其哪个形态为原形态。",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": "Large"
+  },
+  "affiliation": {
+    "school": {
+      "id": 9,
+      "name": "百鬼夜行联合学园",
+      "name_cn": "百鬼夜行联合学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E8%81%94%E5%90%88%E5%AD%A6%E5%9B%AD_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E8%81%94%E5%90%88%E5%AD%A6%E5%9B%AD_preview.png",
+      "detail_path": "schools/9.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/9.json"
+    },
+    "main_relation": {
+      "id": 93,
+      "name": "花鸟风月部",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/lwA6hcVXIkZx93ZTkMw42SABppvkqJ7I.png",
+      "description": "# 杂项趣闻\n\n:::: center\n!!! question <font size=\"4\">**荣 誉 勋 章**</font>\n![hanamaru_coconut.png](https://kivo.wiki/files/19083/lgj4cn7FML4efZeQXT3qrdc0b6jy61g0.png =100x)\n此组织曾在本站开设的投票活动『基沃托斯年度最佳大选』中取得前三名的成绩！\n[2025年](https://kivo.wiki/article/57)：【年度最佳敌对角色】**第3名**![rank3.png](https://kivo.wiki/files/19083/ZISQ0bfnce5Bj1nzKXXRpkh7fdPIPhnp.png =50x)\n!!!\n::::",
+      "detail_path": "relations/93.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/93.json"
+    },
+    "relations": [
+      {
+        "id": 72,
+        "name": "百花缭乱纷争调停委员会",
+        "name_cn": "百花缭乱纠纷调解委员会",
+        "image": "https://static.kivo.wiki/images/relation/zZhitUYUVW5AOcXdUGTjGCN6rRYkcWL5.png",
+        "description": "",
+        "detail_path": "relations/72.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/72.json"
+      }
+    ]
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/CH0289_spr_00.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1291
+    ],
+    "model_ids": [
+      509
+    ]
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "CH0289",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_20.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_Idle_01.png",
+          "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0289_spr_Eye_Close_01.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/531.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/531.json",
+    "upstream_time": 1780614630,
+    "updated_at": 1769525159,
+    "created_at": 1747829311
+  }
+}

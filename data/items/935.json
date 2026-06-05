@@ -1,0 +1,46 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 935,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/Poyy3GQtg2Q17B1YEcHqqeqfhIg0wouS.png",
+    "rarity": 4,
+    "name": "大教堂的长椅",
+    "description": "这把椅子能帮助你坐下后发挥虔诚的心灵。适合用于早晚的祈祷",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 26,
+          "skin": "",
+          "family_name": "若叶",
+          "given_name": "日向",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%8B%A5%E5%8F%B6%20%E6%97%A5%E5%90%91/avatar.png"
+        },
+        {
+          "id": 99,
+          "skin": "",
+          "family_name": "伊落",
+          "given_name": "玛丽",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%90%BD%20%E7%8E%9B%E4%B8%BD/avatar.png"
+        },
+        {
+          "id": 203,
+          "skin": "",
+          "family_name": "歌住",
+          "given_name": "樱子",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%AD%8C%E4%BD%8F%20%E6%A8%B1%E5%AD%90/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614995,
+  "version": "1.0.0-beta.43"
+}

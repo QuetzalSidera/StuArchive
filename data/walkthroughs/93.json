@@ -1,0 +1,104 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 93,
+    "user": {
+      "id": 17913,
+      "user_name": "Nod6EPDB",
+      "introduction": "In the name of Kane（走错片场）",
+      "avatar": "https://static.kivo.wiki/images/avatar/17913/JIKCxYWXRl3GuVF4frrNyEM2C67pzhqs.png"
+    },
+    "title": "棒球活动 挑战3 逃课打法",
+    "server": "Global",
+    "game_mode": "Event",
+    "enemy_defensive_attributes": "Light",
+    "level_terrain": "Street",
+    "video": "",
+    "introduce": "说明一下这个队形：\n首先突击人员 只能 有一名 并且在二号位（从左往右） 而且射程必须是450\n这里放未花是因为在所有射程450的生徒中她是闪避率最高的（练度不够闪避帮忙）\n然后后排必须有一个 COST为3 的掩体制造者（后排，战星不行，她会开掩体送死）\n开场看扫荡者跑到莱依附近时放掩体让扫荡者卡死无法前进\n有需要可以放芹娜帮忙防止唯一那个突击人员倒下\n但无论如何后排必须两个人，防止扫荡者穿过莱依\n不建议使用体香的EX，会位移导致扫荡者继续前进（她自己的普通技能就能套盾，不要等普通技能）\n要是未花撑不住的话 拉炮 泉奈 尼禄 都是可行的替代品\n该战法日服出现了 现在国寄服还能用\n\n（最终参考分数为实际用时，单位为秒）",
+    "team": [
+      {
+        "student": [
+          {
+            "student_id": 1,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 0,
+            "favorability": 10,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 91,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 0,
+            "favorability": 10,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 56,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 0,
+            "favorability": 10,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          }
+        ],
+        "initial_skills": [],
+        "timeline": []
+      }
+    ],
+    "reference_score": 73,
+    "state": 0,
+    "declare_uuid": "50d40c97-45a3-44f0-bec7-31f839bc2812",
+    "favorite_num": 1,
+    "created_at": 1756369164,
+    "updated_at": 1756372650
+  },
+  "message": "获取配队方案成功",
+  "success": true,
+  "time": 1780617654,
+  "version": "1.0.0-beta.43"
+}

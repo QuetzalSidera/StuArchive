@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 644,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/2p56yryWSySJYutCSNYeT48PsM34Nhiz.png",
+    "rarity": 4,
+    "name": "大运动会吃面包赛跑用支架",
+    "description": "吊着美味甜甜圈的大运动会甜甜圈支架。爱吃美食的学生应该会想参加比赛吧？",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 60,
+          "skin": "体操服",
+          "family_name": "羽川",
+          "given_name": "莲见",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E5%B7%9D%20%E8%8E%B2%E8%A7%81/%E4%BD%93%E8%82%B2%E6%9C%8D/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614997,
+  "version": "1.0.0-beta.43"
+}

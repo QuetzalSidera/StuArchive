@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1074,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/UcYufTKtbNBGSvTugRwMrlAh3szQlUBH.png",
+    "rarity": 4,
+    "name": "经典沙发桌套装",
+    "description": "适合慢慢交谈的沙发桌套装。对话在优雅的氛围中热烈起来。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 345,
+          "skin": "礼服",
+          "family_name": "天雨",
+          "given_name": "亚子",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A9%E9%9B%A8%20%E4%BA%9A%E5%AD%90/%E7%A4%BC%E6%9C%8D/avatar.png"
+        },
+        {
+          "id": 346,
+          "skin": "礼服",
+          "family_name": "空崎",
+          "given_name": "日奈",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%A9%BA%E5%B4%8E%20%E6%97%A5%E5%A5%88/%E7%A4%BC%E6%9C%8D/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615078,
+  "version": "1.0.0-beta.43"
+}

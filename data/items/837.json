@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 837,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/sKxEcbG5rLwjOgNHbPHzBlpSTGO53M3m.png",
+    "rarity": 4,
+    "name": "格斗游戏机",
+    "description": "可以享受激烈格斗游戏的2人用游戏机。真想马上玩。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 108,
+          "skin": "",
+          "family_name": "天童",
+          "given_name": "爱丽丝",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A9%E7%AB%A5%20%E7%88%B1%E4%B8%BD%E4%B8%9D/avatar.png"
+        },
+        {
+          "id": 213,
+          "skin": "",
+          "family_name": "美甘",
+          "given_name": "妮禄",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615023,
+  "version": "1.0.0-beta.43"
+}

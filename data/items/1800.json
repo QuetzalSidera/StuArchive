@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1800,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/1aZEsgkbNviB6R5xSDmJBD3NCym4GAIF.png",
+    "rarity": 4,
+    "name": "艺术家的处女作",
+    "description": "某位媒体艺术家的处女作。虽然本人觉得有些尴尬，但投入其中的热情令人敬佩。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 560,
+          "skin": "",
+          "family_name": "若狭",
+          "given_name": "冬",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%8B%A5%E7%8B%AD%20%E5%86%AC%E4%BC%98/original/Student_Portrait_CH0318_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615188,
+  "version": "1.0.0-beta.43"
+}

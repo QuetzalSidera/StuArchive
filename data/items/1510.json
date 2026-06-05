@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1510,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/Dh9vkFJR16rye4kR0QLXB0CQryeTO8Fi.png",
+    "rarity": 4,
+    "name": "万魔殿的告示板",
+    "description": "可以确认万魔殿的活动的告示板。由书记千明管理。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 347,
+          "skin": "",
+          "family_name": "元宫",
+          "given_name": "千明",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/original/Student_Portrait_CH0238_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615155,
+  "version": "1.0.0-beta.43"
+}

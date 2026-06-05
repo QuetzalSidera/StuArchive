@@ -1,0 +1,36 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 116,
+    "name": "阿比多斯公立第一中学",
+    "name_cn": "",
+    "image": "https://static.kivo.wiki/images/relation/fTfBaxA5cXNEAull9JQPc8wO3yM8Q5gP.png",
+    "description": "阿比多斯的公立初中。是芹香、绫音初中所读的学校。",
+    "filter_whitelist": [
+      83,
+      85
+    ],
+    "main_students": null,
+    "secondary_students": [
+      {
+        "id": 83,
+        "skin": "",
+        "family_name": "黑见",
+        "given_name": "芹香",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99/avatar.png"
+      },
+      {
+        "id": 85,
+        "skin": "",
+        "family_name": "奥空",
+        "given_name": "绫音",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%A5%A5%E7%A9%BA%20%E7%BB%AB%E9%9F%B3/avatar.png"
+      }
+    ]
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615856,
+  "version": "1.0.0-beta.43"
+}

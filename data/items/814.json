@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 814,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/qA3RjWPsh5zQr497K4W0LfSAT0uD2Rfu.png",
+    "rarity": 4,
+    "name": "阿比多斯教室的自行车",
+    "description": "活跃的主人用来骑行的自行车。从自行车上可以同时感受到活力和冷静。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 87,
+          "skin": "骑行服",
+          "family_name": "砂狼",
+          "given_name": "白子",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E5%8D%95%E8%BD%A6/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614967,
+  "version": "1.0.0-beta.43"
+}

@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1932,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/xqDIvQ6mj27YLOKXvAL8Gln3I3ITt5lc.png",
+    "rarity": 4,
+    "name": "饰品展示柜",
+    "description": "吸引学生们目光的、装满可爱饰品的展示柜。在这里一定能找到心仪的那一件。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 159,
+          "skin": "",
+          "family_name": "旗见",
+          "given_name": "绘里香",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/Student_Portrait_erika_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614853,
+  "version": "1.0.0-beta.43"
+}

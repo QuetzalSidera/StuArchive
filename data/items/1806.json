@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1806,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/z1VxNeHuLgTthjBRdpG7UYAXtbhLSaGp.png",
+    "rarity": 4,
+    "name": "闲置物品箱",
+    "description": "用于放置不再需要的物品的箱子。只要是来访夏莱的学生都可以使用。不要贪心，怀着感恩的心去用吧。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 563,
+          "skin": "魔法",
+          "family_name": "守月",
+          "given_name": "铃美",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%AE%88%E6%9C%88%20%E9%93%83%E7%BE%8E/%E9%AD%94%E6%B3%95/Student_Portrait_CH0325_Collection.png"
+        },
+        {
+          "id": 565,
+          "skin": "魔法",
+          "family_name": "宇泽",
+          "given_name": "玲纱",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/Student_Portrait_CH0326_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615063,
+  "version": "1.0.0-beta.43"
+}

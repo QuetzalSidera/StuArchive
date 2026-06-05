@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1685,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/CS75w3ycdkwIpDgi16AoFxDNkSLC8LB6.png",
+    "rarity": 4,
+    "name": "打西瓜套装",
+    "description": "使用普通的西瓜进行的简单游戏。不过，就和那种事一样好玩。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 541,
+          "skin": "泳装",
+          "family_name": "羽川",
+          "given_name": "莲见",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E5%B7%9D%20%E8%8E%B2%E8%A7%81/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0291_Collection.png"
+        },
+        {
+          "id": 542,
+          "skin": "泳装",
+          "family_name": "仲正",
+          "given_name": "一花",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%BB%B2%E6%AD%A3%20%E4%B8%80%E8%8A%B1/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0292_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614994,
+  "version": "1.0.0-beta.43"
+}

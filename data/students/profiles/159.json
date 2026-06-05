@@ -1,0 +1,1757 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 159,
+  "display_name": "旗见 绘梨香",
+  "names": {
+    "default": "旗见 绘里香",
+    "cn": "旗见 绘梨香",
+    "jp": "旗見 エリカ",
+    "en": "hatami erika",
+    "kr": "하타미 에리카",
+    "zh_tw": "旗見 繪里香",
+    "family_name": "旗见",
+    "given_name": "绘里香",
+    "family_name_cn": "旗见",
+    "given_name_cn": "绘梨香",
+    "family_name_jp": "旗見",
+    "given_name_jp": "エリカ",
+    "family_name_en": "hatami",
+    "given_name_en": "erika",
+    "family_name_kr": "하타미",
+    "given_name_kr": "에리카",
+    "family_name_zh_tw": "旗見",
+    "given_name_zh_tw": "繪里香"
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 159,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/Student_Portrait_erika_Collection.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "格黑娜学园所属，有着温柔性格的女高中生。\n\n与她理智、冷酷的外表截然相反，十分擅长社交，有着和谁都能打成一片的温柔性格。现在，她正和自己无可替代的好闺蜜绮良一起，每天到处寻找着好玩的事情。\n\n> 抱歉抱歉，让你久等了？",
+    "cn": "",
+    "momo_talk_signature": "(• - •)",
+    "more": "# 官方图集\n## 卡池Banner\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n|やってこYour take on!|暂无 |暂无 |暂无\n|![5798BE51DF26576FC4EA072E42443080.jpg](https://kivo.wiki/files/4954/VNFTvr1BzuhvBQkPLa6L8HvTwWPYGj3g.jpg =450x)|暂无|暂无 |暂无\n\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n|![7CA1B5B1AF5A1A3BD8EF509F7B576697.jpg](https://kivo.wiki/files/4954/7ShCF7AmPkN0DEqrCuhO1SIPu1iO2TQj.jpg =450x)|暂无|暂无|暂无\n\n\n## SD动画\n\n| EX技能 | 咖啡厅触摸 | 家具互动:[饰品展示柜](https://kivo.wiki/data/item/1932) |\n| :---: | :---: | :---: |\n|![Erika_ex.gif](https://kivo.wiki/files/4954/jfPrEQRym2hBoVi9ekHMaP9GMA0Db9Rx.gif)|暂无|暂无\n\n\n## 设定集\n\n::::center\n\n![Vol2-62.jpg](https://kivo.wiki/files/17010/e6clkS21psSQVvshslfs4vR0Y9DKda5z.jpg =450x)\n\n![ブルーアーカイブ オフィシャルアートワークス_ 3 - 203.png](https://kivo.wiki/files/17010/GsJhJGw3JPsLr9NhDMuqXmY8gMcri5cp.png =450x)\n\n::::\n\n# CBT时期立绘\n:::: center\n![erika_waifu2x_2x_2n_jpg.png](https://kivo.wiki/files/3/erika_waifu2x_2x_2n_jpg.png =450x)\n\n::::\n\n# CBT时期SD模型图片\n:::: center\n![sd_model.png](https://kivo.wiki/files/4954/HG5yDF9Y1NgrMNpV11Of4iLeXfQY8TnD.png =450x)\n\n\n::::"
+  },
+  "profile": {
+    "age": 16,
+    "grade": "二年生",
+    "height": 166,
+    "birthday": "02-01",
+    "hobby": "逛街，收集购物宣传小册子",
+    "designer": "sabet",
+    "illustrator": "DoReMi",
+    "character_voice": "中野彩麻",
+    "character_voice_cn": "",
+    "nick_name": "艾丽卡",
+    "body_shape": "Medium"
+  },
+  "affiliation": {
+    "school": {
+      "id": 3,
+      "name": "格赫娜学园",
+      "name_cn": "歌赫娜学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E6%A0%BC%E8%B5%AB%E5%A8%9C%E5%AD%A6%E5%9B%AD_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E6%A0%BC%E8%B5%AB%E5%A8%9C%E5%AD%A6%E5%9B%AD_preview.png",
+      "detail_path": "schools/3.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/3.json"
+    },
+    "main_relation": {
+      "id": 31,
+      "name": "亮闪闪部",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/lJB2knBgXfKq3uzNjUkielAsh9mr9ECa.png",
+      "description": "由绮良与绘里香二人建立的，以做自己想做的事为宗旨的社团。\n\n> ※绮良与绘里香此前均为未加入社团的学生，在游戏剧情中显示为「回家部」\n\n![gMzJJYE2z0kdthMIz1rlsU0C7dt9OHwO.jpg](https://kivo.wiki/files/3/gMzJJYE2z0kdthMIz1rlsU0C7dt9OHwO.jpg)\n![XZUSGDN7Byz8tt1hONg6KKtUZtHBOYoD.jpg](https://kivo.wiki/files/3/XZUSGDN7Byz8tt1hONg6KKtUZtHBOYoD.jpg)\n![f0Anr4rl78kd62o38KVZtYMqyAOfxQom.jpg](https://kivo.wiki/files/3/f0Anr4rl78kd62o38KVZtYMqyAOfxQom.jpg)\n![Bbx34EJtDSyxcgmaU1PzQ9yfZK1x01Jm.jpg](https://kivo.wiki/files/3/Bbx34EJtDSyxcgmaU1PzQ9yfZK1x01Jm.jpg)\n![P3kOscjPk1SNkAP7oUPsaxivebukBvC3.jpg](https://kivo.wiki/files/3/P3kOscjPk1SNkAP7oUPsaxivebukBvC3.jpg)\n\n![kWscvQ2tATVn7SY0OEH0GLGOPQFIfgks.jpg](https://kivo.wiki/files/3/kWscvQ2tATVn7SY0OEH0GLGOPQFIfgks.jpg)",
+      "detail_path": "relations/31.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/31.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": true,
+      "release_date": "2026-05-20"
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": true
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/Student_Portrait_erika_Collection.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/EnemyInfo_CH0076.png",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/erika_home_Idle_01_8.4159.jpg",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1626,
+      589,
+      1628
+    ],
+    "model_ids": [
+      128,
+      424
+    ]
+  },
+  "combat": {
+    "character_id": 20058,
+    "dev_name": "CH0076",
+    "weapon_type": "SG",
+    "role": "Support",
+    "combat_style": "default",
+    "battlefield_position": "SPECIAL",
+    "team_position": "BACK",
+    "attack_attribute": "Vibration",
+    "defensive_attributes": "Light",
+    "rarity": 3,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "B",
+      "indoor": "D",
+      "street": "S"
+    },
+    "basic": [
+      {
+        "max_hp": 3327,
+        "attack": 295,
+        "defense": 99,
+        "healing": 1985,
+        "accuracy": 524,
+        "evasion": 190,
+        "crit": 262,
+        "crit_res": 100,
+        "crit_dmg": 2,
+        "crit_dmg_res": 0.5,
+        "stability": 2185,
+        "range": 1000,
+        "cc_power": 100,
+        "cc_res": 100,
+        "recovery_boost": 1,
+        "mag_count": 1
+      }
+    ],
+    "skills": {
+      "ex_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_icon/3NlSxMo1r25NLhqt04pO4P5ofbZ1iA0v.png",
+          "title": "决定就要这个吧！",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_preview/TMAivsvrjOv5ReAqxJkW0A3vDI4ZPOUL.mp4",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 3,
+              "describe": "解除我方1人的1个负面效果，回复治疗力147%的生命值，并获得与解除负面效果数量相当的“钥匙扣”（“钥匙扣”最多重复获得3个）"
+            },
+            {
+              "cost": 3,
+              "describe": "解除我方1人的1个负面效果，回复治疗力169%的生命值，并获得与解除负面效果数量相当的“钥匙扣”（“钥匙扣”最多重复获得3个）"
+            },
+            {
+              "cost": 3,
+              "describe": "解除我方1人的2个负面效果，回复治疗力213%的生命值，并获得与解除负面效果数量相当的“钥匙扣”（“钥匙扣”最多重复获得3个）"
+            },
+            {
+              "cost": 3,
+              "describe": "解除我方1人的2个负面效果，回复治疗力235%的生命值，并获得与解除负面效果数量相当的“钥匙扣”（“钥匙扣”最多重复获得3个）"
+            },
+            {
+              "cost": 3,
+              "describe": "解除我方1人的3个负面效果，回复治疗力279%的生命值，并获得与解除负面效果数量相当的“钥匙扣”（“钥匙扣”最多重复获得3个）"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_icon/wCJP4vKynBSSp3JRn3CKMpMONK01OqYK.png",
+          "title": "CBT时期流出动画",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_preview/upvNndMoVO2o0k5DbTWHcEDwq17sqgcT.mp4",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "具体不明"
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_icon/6KlKDTJvDrCWt4YW7Vv4xwE0gnZ5STWo.png",
+          "title": "来，这个给你",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": " 获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生13.4%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生14.1%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生14.8%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生17.5%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生18.1%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生18.8%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生21.5%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生22.2%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生22.9%暴击伤害（持续33秒）（冷却时间8秒）。"
+            },
+            {
+              "cost": 1,
+              "describe": "获得3个“钥匙扣”时，消费所有\"钥匙扣\"增加我方突击学生25.6%暴击伤害（持续33秒）（冷却时间8秒）。"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_icon/YStv3rjA4Y9yoNXcpGHDAYyNpiIYtgq9.png",
+          "title": "请用创口贴",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "治疗力增加14%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加14.7%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加15.4%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加18.2%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加18.9%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加19.6%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加22.4%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加23.1%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加23.8%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加26.6%。"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_icon/OZnqniIBkAnA3JPCFVYon72kH3xyZB2q.png",
+          "title": "闪闪发光☆的感觉？",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加12.7%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加13.4%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加14%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加16.5%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加17.2%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加17.8%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加20.4%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加21%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加21.7%。"
+            },
+            {
+              "cost": 1,
+              "describe": "我方输出角色暴击伤害增加24.2%。"
+            }
+          ]
+        }
+      ]
+    },
+    "weapon": {
+      "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/Weapon_Icon_erika.png",
+      "name": "青年豹",
+      "name_cn": "",
+      "description": "绘里香随身携带的霰弹枪。<br> 在保养上十分认真。华丽的豹纹定制枪身，无论在哪都极为引人注目。",
+      "description_cn": "",
+      "info": [
+        {
+          "title": "无",
+          "description": "无"
+        },
+        {
+          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
+          "description": "「请用创口贴」变为「请用创口贴+」"
+        },
+        {
+          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 街道地形适应性 S → SS",
+          "description": "在街道地形造成1.3倍伤害，处于掩体掩护状态时掩护成功率增加75%，攻击时无视掩体概率增加75%。"
+        },
+        {
+          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 COST上限增加",
+          "description": "学生在队伍内时，COST上限增加0.5。"
+        }
+      ],
+      "skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/skill_icon/XWTBYKusV6CMk6al6D4gC88jEaBOikt5.png",
+          "title": "请用创口贴+",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "治疗力增加676/治疗力增加14%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加710/治疗力增加14.7%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加744/治疗力增加15.4%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加879/治疗力增加18.2%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加913/治疗力增加18.9%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加946/治疗力增加19.6%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加1081/治疗力增加22.4%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加1115/治疗力增加23.1%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加1149/治疗力增加23.8%。"
+            },
+            {
+              "cost": 1,
+              "describe": "治疗力增加1284/治疗力增加26.6%。"
+            }
+          ]
+        }
+      ]
+    },
+    "equipment": [
+      {
+        "id": 9,
+        "name": "鞋子",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
+          },
+          {
+            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
+          },
+          {
+            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
+          },
+          {
+            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
+          },
+          {
+            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
+          },
+          {
+            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
+          },
+          {
+            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
+          },
+          {
+            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
+          },
+          {
+            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
+          },
+          {
+            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
+          }
+        ],
+        "detail_path": "equipments/9.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
+      },
+      {
+        "id": 10,
+        "name": "背包",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "防水运动包\n“薮猫”制作的防水运动包。采用了防水材质，因此可以放心带到河边或者海边。\n最大生命值 +375%~600",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/y89UnQvJkxj3Xe2s8ouKTYPvwnBBFiKR.png"
+          },
+          {
+            "description": "防寒斜挎包\n“玛纳斯卢”制作的防寒斜挎包。因增加了一层厚厚的内衬，保温性能较好，可以放些便当或者饮料。\n最大生命值 +750~975",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/NnhBY7CaSbDggCJZdeoODsfiwTc95r7C.png"
+          },
+          {
+            "description": "佩洛洛背包\n背包上印着超大的佩洛洛。背包收纳空间较大，因此即使不是佩洛洛爱好者也很喜欢这个背包。\n最大生命值 +1125~1350",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/H6baebA7TdXBIuj2fvcK3cgrTbJhTk88.png"
+          },
+          {
+            "description": "藏蓝书包\n根据圣三一的规定制作的藏蓝书包。因其简洁且高级的设计，在其他地区人气也很高。\n最大生命值 +1500~1875 \n防御力 +500~1000",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/g4Gf2SovXAqkhZPxvurBokk0v9c045Z3.png"
+          },
+          {
+            "description": "战术双肩包\n“风山”公司特制的箱式书包，加强了功能性和收纳性。在携带很多副武器的人之中广受好评。\n最大生命值 +2500~3500 \n防御力 +1000~1100",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/65U8abhsSrVEXVSi5ORD5A4ivWdB5rmW.png"
+          },
+          {
+            "description": "恶魔之翼挎包\n画着巨大恶魔之翼的挎包。设计简约，很适合搭配休闲风格的服装。\n最大生命值 +3750~5500 \n防御力 +1100~1200",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/PLVTMUavoMGBg8oXg49v26f16xFGrNqi.png"
+          },
+          {
+            "description": "街头包\n休闲款设计，更加强调实用性的街头包。收纳空间大，很受学员们欢迎。\n最大生命值 +5700~7500 \n防御力 +1200~1300",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/F07rs08ZqJmgWeAchWKp9HHFjLmSlR9c.png"
+          },
+          {
+            "description": "蝴蝶图案单肩包\n画有巨大蝴蝶的单肩包。因为材质轻盈，所以带去旅行也不会有负担。\n最大生命值 +7700~9500 \n防御力 +1300~1400",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/SsipMkNSmg8FbDgllNnlWNNqL8OvABEf.png"
+          },
+          {
+            "description": "斜挎式防水袋\n用防水材质制成的单肩包，适合存放容易受潮的电子产品。\n最大生命值 +10000~12000 \n防御力 +1400~1600\n最大生命值 +2%~5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/JTsP3tSp5MU2NhoUaLRnYzdT1kt9igYN.png"
+          },
+          {
+            "description": "金属背包\n内置电池的防弹合金背包。足以抵挡全自动步枪射击，非常适合存放电子设备。\n最大生命值 +12500~14000\n防御力 +1600~1700\n最大生命值 +5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/aDgtjZGipzJRwFO19x5WJchnyOFfU0d4.png"
+          }
+        ],
+        "detail_path": "equipments/10.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/10.json"
+      },
+      {
+        "id": 4,
+        "name": "项链",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "蓝牙项链可以测量佩戴者的体温和心率的蓝牙项链。可以通过项链轻易掌握运动量，因此对减肥的人来说是必需品。\n治愈力 +5%～8% \n群控强化 +5%～8%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/9zKgkfY0zasweMLP4Li03ah3EODDBgL9.png"
+          },
+          {
+            "description": "雪花吊坠\n有雪花形状装饰的银色吊坠。一直盯着雪花看久了，就感觉身体凉飕飕的。\n治愈力 +10%～13% \n群控强化 +10%～13%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/elkZ1muS8RmdNeEITUlTLXSWWvrvxH7k.png"
+          },
+          {
+            "description": "尼古拉挂坠盒\n挂坠盒的形状是MomoFriends的吉祥物尼古拉先生。按一下鼻子，就会出现可以放照片的空间。\n治愈力 +15%～18% \n群控强化 +15%～18%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/aoJT7hR1siAyILVg2UVhgkMYtOTGh29r.png"
+          },
+          {
+            "description": "十字架颈链\n奢侈品牌“维罗妮卡”推出的十字架装饰颈链。简洁但不失干练的设计赢得了诸多人气。\n治愈力 +20%～25% \n群控强化 +20%～25%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/fp9xPk2nHgKyr81WCNempfvxQPjFqMYu.png"
+          },
+          {
+            "description": "身份牌\n刻有学员编号和名字的身份牌。是可以展现出个性的新款饰品，非常受女生欢迎。\n治愈力 +26%～28% \n群控强化 +26%～28% \n攻击力 +2.5%～4%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/3gil9moLFHbl1adSNgvKQRMsUcHwZMDz.png"
+          },
+          {
+            "description": "朋克项圈\n带着尖刺的朋克风项圈。尾端很尖锐，戴上去会很难点头。\n治愈力 +29%～32% \n群控强化 +29%～32%\n攻击力 +4.5%%～6%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/L41EcgulL3UHE64NO8o2fzNfQjXFLS5y.png"
+          },
+          {
+            "description": "锁扣项链\n用锁扣打造的项链。叮叮当当的声音听起来很悦耳，不过也有人认为触感太过冰冷。\n治愈力 +33%～35% \n群控强化 +33%～35% \n攻击力 +6.5%～8%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/pwAjKpzimsDAwMI5ElS5NR2St6LwUm5R.png"
+          },
+          {
+            "description": "绿叶项链\n现代时尚品牌“罗蕾莱”推出的项链。据说被光芒照射的话，叶子会散发隐约的光泽。\n治愈力 +36%～38%\n群控强化力 +36%～38%\n攻击力 +8.5%～10%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/PvvlRVDcdd7aZFSXTTwZ9IRRn6lbv4A4.png"
+          },
+          {
+            "description": "呼吸器固定装置\n潜水员用来固定呼吸调节器的项链形固定装置。【哈耳庇厄】的固定装置因其沉稳的色调与设计，经常被用于时尚搭配。\n治愈力 +39%~40%\n群控强化力 +38%～40%\n攻击力 +11%~14%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Qcc9o4fMqCGv1uI4WIvRpNXk399DC5xR.png"
+          },
+          {
+            "description": "存储器项链\n伪装成装饰品的带存储设备的项链。虽然外表华丽，但里面说不定存着什么秘密数据。\n治愈力+41%～42%\n群控强化力+38%\n攻击力+15%～18%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/HInlegDTlKHVGBM1BbWu5uM9vhGgmXiv.png"
+          }
+        ],
+        "detail_path": "equipments/4.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/4.json"
+      }
+    ],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": [
+      {
+        "id": 77,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/2YuUol1u3sTXaMtYcF8akSMhOOLRdpii.png",
+        "rarity": 1,
+        "name": "基础技术笔记（格黑娜） ",
+        "description": "归纳格黑娜学园战术核心的秘法笔记。 ",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/77.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/77.json"
+      },
+      {
+        "id": 80,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tTYEsxZO9ImKBDlpoYpDhtbRT57kGDRf.png",
+        "rarity": 2,
+        "name": "一般技术笔记（格黑娜）",
+        "description": "归纳格黑娜学园战术核心的秘法笔记。 ",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/80.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/80.json"
+      },
+      {
+        "id": 81,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T6ZV5d8s8DFRqBwTuokC9qBj46MVUsvr.png",
+        "rarity": 3,
+        "name": "高级技术笔记（格黑娜） ",
+        "description": "归纳格黑娜学园战术核心的秘法笔记。 ",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/81.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/81.json"
+      },
+      {
+        "id": 82,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Jrf7Mf9YjSBGGf4tLgQsb0r4KDj8bK8U.png",
+        "rarity": 4,
+        "name": "最高级技术笔记（格黑娜） ",
+        "description": "归纳格黑娜学园战术核心的秘法笔记。 ",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/82.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/82.json"
+      },
+      {
+        "id": 158,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XrNvqtH8PbDXzvHH4nK4WsYIp2RhUmXM.png",
+        "rarity": 1,
+        "name": "基础战术教育BD（格黑娜）",
+        "description": "把格黑娜学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/158.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/158.json"
+      },
+      {
+        "id": 160,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VyzqmgBm2COPMaUnUpTpELaHVTnnsVft.png",
+        "rarity": 2,
+        "name": "一般战术教育BD（格黑娜）",
+        "description": "把格黑娜学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/160.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/160.json"
+      },
+      {
+        "id": 163,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0fjo82K2zOOIkwwSX30mbsjEESyZR09p.png",
+        "rarity": 3,
+        "name": "高级战术教育BD（格黑娜）",
+        "description": "把格黑娜学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/163.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/163.json"
+      },
+      {
+        "id": 165,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/3aMlwWNlnFAa0o4nC4VktKmi1CzlriKg.png",
+        "rarity": 4,
+        "name": "最高级战术教育BD（格黑娜）",
+        "description": "把格黑娜学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/165.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/165.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
+      },
+      {
+        "id": 444,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/m2CM7AGMNUzvW0OqLBwrkmy4SGJk4rWx.png",
+        "rarity": 1,
+        "name": "图腾柱碎片",
+        "description": "图腾柱的碎片。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/444.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/444.json"
+      },
+      {
+        "id": 445,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DBw7Q8lg0h5xq7BwRC6t4XuLqIdND5za.png",
+        "rarity": 2,
+        "name": "破损的图腾柱",
+        "description": "严重破损、外观难辨的图腾柱。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/445.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/445.json"
+      },
+      {
+        "id": 446,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/paDDKvxJfQtkqlS3Kh40ISc05hwUAMJp.png",
+        "rarity": 3,
+        "name": "修复的图腾柱",
+        "description": "拼凑碎片修复的图腾柱。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/446.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/446.json"
+      },
+      {
+        "id": 447,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/j2PYLSdjq81yxbjQTYA1R25lZKSfFw3y.png",
+        "rarity": 4,
+        "name": "完整的图腾柱",
+        "description": "状态完好的图腾柱。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/447.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/447.json"
+      },
+      {
+        "id": 438,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/333W1ZGYp3GouT6G79HNtQ9aUMLxc8Bm.png",
+        "rarity": 3,
+        "name": "编辑过的伏尼契手稿",
+        "description": "在毁损的部分加上注释的编辑过的伏尼契手稿。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/438.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/438.json"
+      },
+      {
+        "id": 437,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/dR4G9IS1sZceLFh4hNSWq8GXFOQuR1ra.png",
+        "rarity": 2,
+        "name": "毁损的伏尼契手稿",
+        "description": "破烂不堪，被涂毁损的伏尼契手稿。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/437.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/437.json"
+      },
+      {
+        "id": 435,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VGnqg4nBK39TZGZBXryzn7mNW1LHDadU.png",
+        "rarity": 1,
+        "name": "伏尼契手稿书页",
+        "description": "从书上撕下的伏尼契手稿的书页。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/435.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/435.json"
+      }
+    ]
+  },
+  "preferences": {
+    "gifts": [
+      {
+        "id": 52,
+        "favorability": 40,
+        "item": {
+          "id": 52,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/kjje3FAwZLHPxuTbblkRSEQTpNTMh5Lm.png",
+          "rarity": 3,
+          "name": "刺绣手帕",
+          "description": "朴素的刺绣散发淡雅美感的手帕。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/52.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/52.json"
+        }
+      },
+      {
+        "id": 131,
+        "favorability": 240,
+        "item": {
+          "id": 131,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/SbZuTNtLZHkb5Oczvh8G45YcsDnPLT00.png",
+          "rarity": 4,
+          "name": "时髦梳子",
+          "description": "高级感的时髦设计的便携式梳子。送礼用的人气商品。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/131.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/131.json"
+        }
+      },
+      {
+        "id": 17,
+        "favorability": 40,
+        "item": {
+          "id": 17,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/BAL2NMc09N9HxonVDbzDwIRQiYvK6wcA.png",
+          "rarity": 3,
+          "name": "樱桃玫瑰唇彩",
+          "description": "柔和、鲜明的色彩达成和谐的唇彩，大受喜欢打扮的女性欢迎的爆红商品。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/17.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/17.json"
+        }
+      },
+      {
+        "id": 27,
+        "favorability": 40,
+        "item": {
+          "id": 27,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/4h2Ee9jrMufCHxw64kdg4VIVveReud6G.png",
+          "rarity": 3,
+          "name": "让肌肤清透的BB霜",
+          "description": "高级化妆品制造商「诗缪艾拉」发售的热门商品。能让肌肤晶莹剔透、明亮动人的BB霜。可以更自然地紧贴在肌肤上，打造健康好肤色。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/27.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/27.json"
+        }
+      },
+      {
+        "id": 31,
+        "favorability": 40,
+        "item": {
+          "id": 31,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/WfGqa0HMhAHcWZQWL8lKOptcr8z6iHph.png",
+          "rarity": 3,
+          "name": "军事3重伪装用粉底霜",
+          "description": "高级化妆品制造商「诗缪艾拉」发售的人气商品。渗透肌肤的舒适感！需要的时候可随地伪装！请随地体验专属于自己的伪装！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/31.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/31.json"
+        }
+      },
+      {
+        "id": 85,
+        "favorability": 180,
+        "item": {
+          "id": 85,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/HsHkJxpY3MkarcGIEtwe4ifEJdKoXSTr.png",
+          "rarity": 4,
+          "name": "莎姆艾菈「The·Beyond」",
+          "description": "高级化妆品公司「Samuela」贩售的最高级香水。 以「试着喷一次就将可爱穿上身吧」的广告标语而著名的超级无敌人气商品，为旷世天才调香师「The·Beyond」制作的Samuela12杰作之一。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/85.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/85.json"
+        }
+      },
+      {
+        "id": 271,
+        "favorability": 40,
+        "item": {
+          "id": 271,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/9OEWneXtxzqxbpLbESoNCiD80KG5pakn.png",
+          "rarity": 3,
+          "name": "禁忌之恋 ~不被允许的恋情才更加美好~",
+          "description": "最近人气恋爱小说作者「恋爱鲤鱼」的最新作！ 无法实现的禁忌之恋，令人魂牵梦萦的话题作品！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/271.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/271.json"
+        }
+      },
+      {
+        "id": 272,
+        "favorability": 40,
+        "item": {
+          "id": 272,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/9NZLTowSBpL2FWKP1wIr3jN0UX7vifED.png",
+          "rarity": 3,
+          "name": "游戏杂志 『HIT GIRLS 』",
+          "description": "不放过任何琐碎的情报。 收录基沃托斯最新游戏发售消息、经典游戏攻略、游戏周边发售等消息的游戏杂志。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/272.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/272.json"
+        }
+      },
+      {
+        "id": 54,
+        "favorability": 40,
+        "item": {
+          "id": 54,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/dMD9ViN9PFCEPXsTp4wA28xcUSrpD9s7.png",
+          "rarity": 3,
+          "name": "<枪、可爱、青春>",
+          "description": "枪、可爱、青春。追溯基沃托斯大众文化的起源 ，分析其根源的今天最佳畅销之作。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/54.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/54.json"
+        }
+      },
+      {
+        "id": 61,
+        "favorability": 40,
+        "item": {
+          "id": 61,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/sauesdlFSZRVOeA2TfjwqGm57nvchdC9.png",
+          "rarity": 3,
+          "name": "超绝兔子侦探~被烟雾遮掩的温泉滑倒事件~",
+          "description": "绝不错过如果察觉事件的征兆就会竖起的纯白耳朵！超绝兔子侦探系列第3篇！ 这次的舞台是温泉！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/61.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/61.json"
+        }
+      },
+      {
+        "id": 86,
+        "favorability": 40,
+        "item": {
+          "id": 86,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/HsRWKopwYT2TYit7Cq69Ma6oypqxtIDV.png",
+          "rarity": 3,
+          "name": "古典诗集",
+          "description": "古意盎然的古典诗集。 古典文学的古雅就在你手中。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/86.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/86.json"
+        }
+      },
+      {
+        "id": 55,
+        "favorability": 40,
+        "item": {
+          "id": 55,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/by7J8xMfqmduv27IeK1nKurFoNfOetNn.png",
+          "rarity": 3,
+          "name": "百科辞典",
+          "description": "从绑吐司袋的「那个」到装在便当里的那片「草」的名字。 让你感到好奇的一切都在这里。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/55.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/55.json"
+        }
+      },
+      {
+        "id": 79,
+        "favorability": 180,
+        "item": {
+          "id": 79,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/Xz7rTAfL2NSKWeKBtqVEWDWnx5rURwf5.png",
+          "rarity": 4,
+          "name": "街头混混系列第1本",
+          "description": "以「对我们来说只有义气和胆识！」的台词闻名的热议话题之作，街头混混系列第1本。因为主角出乎意料地可爱的感想，所以全集都好评贩售中。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/79.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/79.json"
+        }
+      },
+      {
+        "id": 78,
+        "favorability": 60,
+        "item": {
+          "id": 78,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/tZf3GHPrCXg7EQIhmh6JvEYlaWpC5A4c.png",
+          "rarity": 3,
+          "name": "绑着蝴蝶结的熊娃娃",
+          "description": "虽然普通但却很讨喜的熊娃娃。 在喜欢可爱小物的学生之间是非常有名的精品。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/78.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/78.json"
+        }
+      }
+    ],
+    "furniture": [
+      {
+        "id": 1932,
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/xqDIvQ6mj27YLOKXvAL8Gln3I3ITt5lc.png",
+        "rarity": 4,
+        "name": "饰品展示柜",
+        "description": "吸引学生们目光的、装满可爱饰品的展示柜。在这里一定能找到心仪的那一件。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 350
+        },
+        "detail_path": "items/1932.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1932.json"
+      }
+    ]
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_20.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_21.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_22.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_23.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/erika_spr_Idle_01.png"
+        ]
+      },
+      {
+        "title": "CBT旧绘废案差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_02.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_01.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_05.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_00.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_04.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_03.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_06.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/gallery/CBT%E6%97%A7%E7%BB%98%E5%BA%9F%E6%A1%88%E5%B7%AE%E5%88%86/Erika_CBT_99.png"
+        ]
+      },
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/ERIKA.jpg",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/Vol2-62.jpg",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%20%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9_%203%20-%20203.png",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/5798BE51DF26576FC4EA072E42443080.jpg",
+          "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/7CA1B5B1AF5A1A3BD8EF509F7B576697.jpg"
+        ]
+      }
+    ],
+    "voice": [
+      {
+        "description": "CBT_Erika_Cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/A4Prowo1m5YKxV2kgyRs7AUdcWSOz1HF.wav"
+      },
+      {
+        "description": "CBT_Erika_Cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/KS2RH0bZkY808AvwCPo5fSExCX0vRMqG.wav"
+      },
+      {
+        "description": "CBT_Erika_Cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/sGIYeQcXhZJfisQ6uBV1bIDaxIkKCQr8.wav"
+      },
+      {
+        "description": "CBT_Erika_ExSkill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/3OGpNGYcBsdMTkftZPNO2P5elwhc9Ucs.wav"
+      },
+      {
+        "description": "CBT_Erika_ExSkill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/Bv1EzSd4Xp82VwJP4LmY2z5VHnYsTRKZ.wav"
+      },
+      {
+        "description": "CBT_Erika_ExSkill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/tydyISIqYuxqEu4PoO7aAOmyKOrjwZBo.wav"
+      },
+      {
+        "description": "CBT_Erika_ExSkill_Level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/zMSelPrY8PnzZKrWZUO3sOlYY4bFC61o.wav"
+      },
+      {
+        "description": "CBT_Erika_ExSkill_Level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/WlcyHRWyb8NWq1H1dXE2H3D26lTpcAmJ.wav"
+      },
+      {
+        "description": "CBT_Erika_ExSkill_Level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/jRsqgTep0lnIOgZps0vYY7DC6sbBo4K7.wav"
+      },
+      {
+        "description": "CBT_Erika_ExWeapon_Get",
+        "category": "growup",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/SZ9yVbYU2hPVVwKRrasXX60Sxqdn3Bs4.wav"
+      },
+      {
+        "description": "erika_cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "わ、結構人いるんだね。いつもこうなのかな？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "erika_cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "先生と一緒にやったら楽しそう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "erika_cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "これって先生の趣味なのかな？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "erika_cafe_monolog_4",
+        "category": "cafe",
+        "text": "",
+        "text_original": "（これ、誰のなんだろ？）",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "erika_cafe_monolog_5",
+        "category": "cafe",
+        "text": "",
+        "text_original": "ん……？なんか視線を感じる。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_cafe_monolog_5.ogg"
+      },
+      {
+        "description": "erika_commonskill",
+        "category": "battle",
+        "text": "",
+        "text_original": "もうちょっと頑張れる？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_commonskill.ogg"
+      },
+      {
+        "description": "erika_eventlobby_1",
+        "category": "event",
+        "text": "",
+        "text_original": "うちの生徒ってあんまり落ち着きないから大変だよね……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_eventlobby_1.ogg"
+      },
+      {
+        "description": "erika_eventlobby_2",
+        "category": "event",
+        "text": "",
+        "text_original": "これで大丈夫、かな……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_eventlobby_2.ogg"
+      },
+      {
+        "description": "erika_eventlobby_3",
+        "category": "event",
+        "text": "",
+        "text_original": "げ……どうすんのさアレ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_eventlobby_3.ogg"
+      },
+      {
+        "description": "erika_eventlobby_4",
+        "category": "event",
+        "text": "",
+        "text_original": "色々あったけど、楽しかったなぁ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_eventlobby_4.ogg"
+      },
+      {
+        "description": "erika_eventlogin_1",
+        "category": "event",
+        "text": "",
+        "text_original": "賑やかだよね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_eventlogin_1.ogg"
+      },
+      {
+        "description": "erika_eventlogin_2",
+        "category": "event",
+        "text": "",
+        "text_original": "やっほ、先生。ちょうど探してたんだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_eventlogin_2.ogg"
+      },
+      {
+        "description": "erika_exskill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "何があるかな…………ん。これにしよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exskill_1.ogg"
+      },
+      {
+        "description": "erika_exskill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "ん～……あっ……これ可愛い！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exskill_2.ogg"
+      },
+      {
+        "description": "erika_exskill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "ふんふんふん～ん？これは買い、だね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exskill_3.ogg"
+      },
+      {
+        "description": "erika_exskill_level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "はい、あげる。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exskill_level_1.ogg"
+      },
+      {
+        "description": "erika_exskill_level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "よかったらもらってって。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exskill_level_2.ogg"
+      },
+      {
+        "description": "erika_exskill_level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "プレゼントだよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exskill_level_3.ogg"
+      },
+      {
+        "description": "erika_exweapon_get",
+        "category": "growup",
+        "text": "",
+        "text_original": "あれ、私の好み覚えててくれたんだ？あははっ、いつもありがとね。そしたら……なにかお礼、しないとね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_exweapon_get.ogg"
+      },
+      {
+        "description": "erika_formation_in_1",
+        "category": "formation",
+        "text": "",
+        "text_original": "ん、今日はいい感じ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_formation_in_1.ogg"
+      },
+      {
+        "description": "erika_formation_in_2",
+        "category": "formation",
+        "text": "",
+        "text_original": "一緒に行くの？オッケー。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_formation_in_2.ogg"
+      },
+      {
+        "description": "erika_formation_select",
+        "category": "formation",
+        "text": "",
+        "text_original": "わぁっ！？ちょっと先生……はぁ、先に言ってよね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_formation_select.ogg"
+      },
+      {
+        "description": "erika_gachaget",
+        "category": "growup",
+        "text": "",
+        "text_original": "やっほ。ゲヘナ学園2年、旗見エリカ。よろしくね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_gachaget.ogg"
+      },
+      {
+        "description": "erika_growup_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "ん……いい気分。元気チャージ、みたいな？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_growup_1.ogg"
+      },
+      {
+        "description": "erika_growup_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "不思議だね。力が湧いてくる気がする～",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_growup_2.ogg"
+      },
+      {
+        "description": "erika_growup_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "ねえ先生……それ、またやってほしいな。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_growup_3.ogg"
+      },
+      {
+        "description": "erika_growup_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "なんか中毒性あるんだよね……ちょっと危ないかも。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_growup_4.ogg"
+      },
+      {
+        "description": "erika_lobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "今日の当番は私だよ。何かあったらいつでも言って。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_1_1.ogg"
+      },
+      {
+        "description": "erika_lobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生って、仕事頑張ってるよね。あんまそうは見えないけど。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_2_1.ogg"
+      },
+      {
+        "description": "erika_lobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ふふっ……頑張ってる大人ってカッコいいな～って、思っただけ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_2_2.ogg"
+      },
+      {
+        "description": "erika_lobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生が「先生」を続けてるのってどうして？なんか、気になって……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_3_1.ogg"
+      },
+      {
+        "description": "erika_lobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "守るべきものがあるから、か……ふうん。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_3_2.ogg"
+      },
+      {
+        "description": "erika_lobby_3_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "じゃあ私のことも……守ってくれる？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_3_3.ogg"
+      },
+      {
+        "description": "erika_lobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "こっちの書類は終わったよ。結構キツかったー！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_4_1.ogg"
+      },
+      {
+        "description": "erika_lobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まぁ、先生の役に立ってるならいいんだけどさ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_4_2.ogg"
+      },
+      {
+        "description": "erika_lobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ん？レオパード柄？好きだよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_5_1.ogg"
+      },
+      {
+        "description": "erika_lobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "銃以外にも色々レオパード柄で揃えたりしてるくらいにはね♪",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_5_2.ogg"
+      },
+      {
+        "description": "erika_lobby_5_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "他に持ってるレオパード柄の私物？ふふっ……教えてあーげない♪",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_lobby_5_3.ogg"
+      },
+      {
+        "description": "erika_login_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "やっほ、先生♪待ってたよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_login_1.ogg"
+      },
+      {
+        "description": "erika_login_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "おかえり！会いたかった。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_login_2_1.ogg"
+      },
+      {
+        "description": "erika_login_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "（ちょっと待って……私今なんて？）",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_login_2_2.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ようこそ、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ここが、私だけの秘密基地――",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "一人の時間が欲しい時に、来る場所。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_2_1.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ふふっ、でも秘密基地っていうには、ちょっと広いかも。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_2_2.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……なんか、先生に共有したかったんだよね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_3_1.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私がいつも見ている景色とか……感じてる空気、とか。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_3_2.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "理由を聞かれてもなんとなく、しか言えないんだけど……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_4_1.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そうだね……秘密の場所を教えるのって、特別の証だからさ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_4_2.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_4_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生は、私の特別な人ってこと。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_4_3.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……ふふっ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_5_1.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ここは静かでしょ？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_5_2.ogg"
+      },
+      {
+        "description": "erika_memoriallobby_5_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まあでも……私の心は、ちょっと騒がしいんだけどね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_memoriallobby_5_3.ogg"
+      },
+      {
+        "description": "erika_relationship_up_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "最近先生とよく会うかも？なんでだろね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_relationship_up_1.ogg"
+      },
+      {
+        "description": "erika_relationship_up_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "なんかいっぱいくれるじゃん。嬉しいけど……もらってばっかはなぁ。先生は欲しいもの、ある？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_relationship_up_2.ogg"
+      },
+      {
+        "description": "erika_relationship_up_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "んー……クセになりそ。あんまり甘やかさないでよ？困っちゃう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_relationship_up_3.ogg"
+      },
+      {
+        "description": "erika_relationship_up_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "ほんとさ……先生が甘やかすからダメになっちゃいそ。……もう。私ばっかドキドキさせられてる気がするんだけど？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_relationship_up_4.ogg"
+      },
+      {
+        "description": "erika_season_birthday_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "えっ……私の誕生日、覚えてたの？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_birthday_1.ogg"
+      },
+      {
+        "description": "erika_season_birthday_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生って本当に罪づくりな人だよね。……期待、させちゃってどうする気？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_birthday_2.ogg"
+      },
+      {
+        "description": "erika_season_birthday_player",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生、お誕生日おめでと～！世界の誰よりも幸せな日でありますよーに！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_birthday_player.ogg"
+      },
+      {
+        "description": "erika_season_halloween_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ガオーッ！お菓子くれなきゃ食べちゃうぞ！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_halloween_1.ogg"
+      },
+      {
+        "description": "erika_season_halloween_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ほら、食べられないように頑張って。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_halloween_2.ogg"
+      },
+      {
+        "description": "erika_season_newyear",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あけましておめでとう、先生！今年もいっぱい思い出作ろうね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_newyear.ogg"
+      },
+      {
+        "description": "erika_season_xmas_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "クリスマスっていい日だよね。雰囲気がワクワクするっていうか、ドキドキするっていうか……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_xmas_1.ogg"
+      },
+      {
+        "description": "erika_season_xmas_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "特別な日って感じ……一緒にいるだけで、ね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_season_xmas_2.ogg"
+      },
+      {
+        "description": "erika_Title",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ブルーアーカイブ！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/jp/erika_Title.ogg"
+      }
+    ],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/159.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/159.json",
+    "upstream_time": 1780614579,
+    "updated_at": 1779279155,
+    "created_at": 1685630595
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 224,
+  "display_name": "钢盔团成员B",
+  "names": {
+    "default": "钢盔团成员B",
+    "cn": null,
+    "jp": "helmetdan_black1",
+    "en": null,
+    "kr": null,
+    "zh_tw": null,
+    "family_name": "",
+    "given_name": "钢盔团成员B",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "",
+    "given_name_jp": "helmetdan_black1",
+    "family_name_en": "",
+    "given_name_en": "",
+    "family_name_kr": "",
+    "given_name_kr": "",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 224,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%A4%B4%E7%9B%94%E5%9B%A2%E5%AD%A6%E7%94%9F-%E9%BB%91/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "DoReMi",
+    "illustrator": "DoReMi",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": "Medium"
+  },
+  "affiliation": {
+    "school": {
+      "id": 17,
+      "name": "不良少女们",
+      "name_cn": "",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_preview.png",
+      "detail_path": "schools/17.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/17.json"
+    },
+    "main_relation": {
+      "id": 74,
+      "name": "钢盔团",
+      "name_cn": "头盔团",
+      "image": "https://static.kivo.wiki/images/relation/b9Vl0Vd76nQN6IL7A62tEadoOmo9t3U8.png",
+      "description": "",
+      "detail_path": "relations/74.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/74.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": true,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%A4%B4%E7%9B%94%E5%9B%A2%E5%AD%A6%E7%94%9F-%E9%BB%91/avatar.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E5%A4%B4%E7%9B%94%E5%9B%A2%E5%AD%A6%E7%94%9F-%E9%BB%91/sd_model.png",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      275
+    ],
+    "model_ids": null
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/224.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/224.json",
+    "upstream_time": 1780614668,
+    "updated_at": 1757771517,
+    "created_at": 1685778249
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 931,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/e2ERTNCdNUkC23BjcamOR4fPhkQfKYq7.png",
+    "rarity": 4,
+    "name": "木制工作台",
+    "description": "什么都能马上制作出来的木制工作台。开始制作后，总感觉时间过得飞快。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 166,
+          "skin": "",
+          "family_name": "安守",
+          "given_name": "实梨",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%AE%89%E5%AE%88%20%E6%9C%AA%E4%B9%83%E9%87%8C/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615101,
+  "version": "1.0.0-beta.43"
+}

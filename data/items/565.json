@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 565,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/OIhzDNxm7qtAIix22J94frc4aJdNM7Ei.png",
+    "rarity": 2,
+    "name": "落地窗",
+    "description": "营造开放感的落地窗。一边享用咖啡，一边悠闲地观赏咖啡厅前的景色！",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 50,
+      "students": [
+        {
+          "id": 33,
+          "skin": "",
+          "family_name": "戒野",
+          "given_name": "美咲",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%88%92%E9%87%8E%20%E7%BE%8E%E5%92%B2/avatar.png"
+        },
+        {
+          "id": 36,
+          "skin": "",
+          "family_name": "锭前",
+          "given_name": "纱织",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%94%AD%E5%89%8D%20%E7%BA%B1%E7%BB%87/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615096,
+  "version": "1.0.0-beta.43"
+}

@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1076,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/h11E7iTNgCWEBaSZIhJt3khllECAKA3j.png",
+    "rarity": 4,
+    "name": "最高级职员用办公桌",
+    "description": "能从现代风的设计中感受到威压感的职员办公桌。从中感受到了力量与权威！",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 350,
+          "skin": "礼服",
+          "family_name": "陆八魔",
+          "given_name": "阿露",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2/%E7%A4%BC%E6%9C%8D/avatar.png"
+        },
+        {
+          "id": 351,
+          "skin": "礼服",
+          "family_name": "鬼方",
+          "given_name": "佳代子",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%96%B9%20%E4%BD%B3%E4%BB%A3%E5%AD%90/%E7%A4%BC%E6%9C%8D/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615221,
+  "version": "1.0.0-beta.43"
+}

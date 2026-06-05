@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 385,
+  "display_name": "栗浜 明美",
+  "names": {
+    "default": "栗滨 明美",
+    "cn": "栗浜 明美",
+    "jp": "栗浜 アケミ",
+    "en": "Kurihama Akemi",
+    "kr": "쿠리하마 아케미",
+    "zh_tw": "栗濱 明美",
+    "family_name": "栗滨",
+    "given_name": "明美",
+    "family_name_cn": "栗浜",
+    "given_name_cn": "明美",
+    "family_name_jp": "栗浜",
+    "given_name_jp": "アケミ",
+    "family_name_en": "Kurihama",
+    "given_name_en": "Akemi",
+    "family_name_kr": "쿠리하마",
+    "given_name_kr": "아케미",
+    "family_name_zh_tw": "栗濱",
+    "given_name_zh_tw": "明美"
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 385,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/%E5%A7%90%E8%B4%B5.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": "# 裙子印字\n「威　血　婆　云　乃　悪　上　沙　魔」\n　い　ち　ば　ん　の　お　嬢　さ　ま\n\n「天　下　無　敵　須　怪　婆　云」\n　天　下　無　敵　ス　ケ　バ　ン\n\n「我　絶　死　覇　火　我　異　威　々」\n　わ　た　し　は　か　わ　い　い　～\n\n# 伊丽莎白\n明美使用一挺没有脚架的 M2HB 机枪进行战斗，并称其为 “伊丽莎白” 。\n\n![SB9H17TTcaoyoiDfsKMHianlsAz9NS1O.jpg](https://kivo.wiki/files/10355/SB9H17TTcaoyoiDfsKMHianlsAz9NS1O.jpg)\n\n\n> 明美\n> 哼哼，正好。\n> 不过，这次我要一个人战斗。\n> 一直以来你们付出的努力，我很感谢。\n> 哼哼。就让我和伊丽莎白来当你们的对手！\n> 好了，该上了！　\n>\n> ...\n>\n> 明美\n> 诶，我的伊丽莎白……！\n>\n> （那柄武器，原来叫那个名字啊……）\n>\n>—— 威威字幕君翻译，Sheside Outside (BV1ex4y1s7Ab) 第八话 传说中的女番长"
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "姐贵",
+    "body_shape": "Large"
+  },
+  "affiliation": {
+    "school": {
+      "id": 17,
+      "name": "不良少女们",
+      "name_cn": "",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_preview.png",
+      "detail_path": "schools/17.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/17.json"
+    },
+    "main_relation": {
+      "id": 66,
+      "name": "七囚人",
+      "name_cn": "七囚人",
+      "image": "https://static.kivo.wiki/images/relation/CfO4SgU44k3BDbP9ROCLUNPmiaL95R2d.png",
+      "description": "",
+      "detail_path": "relations/66.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/66.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/%E5%A7%90%E8%B4%B5.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/EnemyInfo_CH0265_Enemy.png",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1267
+    ],
+    "model_ids": [
+      173,
+      342
+    ]
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "CH0265",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0265_spr_04.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/385.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/385.json",
+    "upstream_time": 1780614438,
+    "updated_at": 1771484913,
+    "created_at": 1721662972
+  }
+}

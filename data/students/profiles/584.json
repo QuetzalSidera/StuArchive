@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 584,
+  "display_name": "Blancat",
+  "names": {
+    "default": "Blancat",
+    "cn": null,
+    "jp": null,
+    "en": null,
+    "kr": null,
+    "zh_tw": null,
+    "family_name": "",
+    "given_name": "Blancat",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "",
+    "given_name_jp": "",
+    "family_name_en": "",
+    "given_name_en": "",
+    "family_name_kr": "",
+    "given_name_kr": "",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 584,
+        "avatar": "https://static.kivo.wiki/images/students/%20Blancat/original/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": ""
+  },
+  "affiliation": {
+    "school": {
+      "id": 30,
+      "name": "制作组相关",
+      "name_cn": "",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%88%B6%E4%BD%9C%E7%BB%84%E7%9B%B8%E5%85%B3_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%88%B6%E4%BD%9C%E7%BB%84%E7%9B%B8%E5%85%B3_preview.png",
+      "detail_path": "schools/30.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/30.json"
+    },
+    "main_relation": {
+      "id": 131,
+      "name": "角色设计师（内部）",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/1UcHt4OPyPZzM7P4LUwD4rP7yq4JilZ9.png",
+      "description": "# 角色设计师（内部）\nMX Studio内部的人物概念设计师。\n许多设计师同时担任了原画一职，但有以下成员仅负责了设计，未负责原画：\n- ミモザ\n- Vinoker\n- 春夏冬ゆう\n- sabet\n- 桧野ひなこ\n- maruchi\n- 二色こぺ\n- Crab D\n- 本田ロアロ\n- Owa",
+      "detail_path": "relations/131.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/131.json"
+    },
+    "relations": [
+      {
+        "id": 132,
+        "name": "角色原画师（内部）",
+        "name_cn": "",
+        "image": "https://static.kivo.wiki/images/relation/ULSaMQMPzgyxNk6S9GxKPDl3XOTAWsyX.png",
+        "description": "",
+        "detail_path": "relations/132.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/132.json"
+      }
+    ]
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%20Blancat/original/avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [],
+    "model_ids": []
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/584.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/584.json",
+    "upstream_time": 1780614648,
+    "updated_at": 1772978966,
+    "created_at": 1772978859
+  }
+}

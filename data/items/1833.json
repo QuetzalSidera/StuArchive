@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1833,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/uykrKd0WY3g2IGBobyZZWn1J1KEuiDNK.png",
+    "rarity": 4,
+    "name": "游戏开发部的空间",
+    "description": "游戏开发部设立的、大家可以聚集并自由活动的空间。好像偶尔能看到她们在这里玩。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 571,
+          "skin": "临战",
+          "family_name": "调月",
+          "given_name": "莉音",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%B0%83%E6%9C%88%20%E8%8E%89%E9%9F%B3/%E4%B8%B4%E6%88%98/Student_Portrait_CH0331_Collection.png"
+        },
+        {
+          "id": 573,
+          "skin": "临战",
+          "family_name": "飞鸟马",
+          "given_name": "时",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%A3%9E%E9%B8%9F%E9%A9%AC%20%E6%97%B6/%E4%B8%B4%E6%88%98/Student_Portrait_CH0333_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614733,
+  "version": "1.0.0-beta.43"
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 240,
+  "display_name": "凯撒 总裁",
+  "names": {
+    "default": "凯撒 总裁",
+    "cn": "凯撒 总裁",
+    "jp": "カイザー プレジデント",
+    "en": "Kaiser President",
+    "kr": "카이저 프레지던트",
+    "zh_tw": "凱薩 總裁",
+    "family_name": "凯撒",
+    "given_name": "总裁",
+    "family_name_cn": "凯撒",
+    "given_name_cn": "总裁",
+    "family_name_jp": "カイザー",
+    "given_name_jp": "プレジデント",
+    "family_name_en": "Kaiser",
+    "given_name_en": "President",
+    "family_name_kr": "카이저",
+    "given_name_kr": "프레지던트",
+    "family_name_zh_tw": "凱薩",
+    "given_name_zh_tw": "總裁"
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 240,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%87%AF%E6%92%92%E4%B8%BB%E7%AE%A1/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "kokosando",
+    "illustrator": "kokosando",
+    "character_voice": "",
+    "character_voice_cn": "森中人",
+    "nick_name": "",
+    "body_shape": "Large"
+  },
+  "affiliation": {
+    "school": {
+      "id": 19,
+      "name": "凯撒集团",
+      "name_cn": "凯撒集团",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%87%AF%E6%92%92%E9%9B%86%E5%9B%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%87%AF%E6%92%92%E9%9B%86%E5%9B%A2_preview.png",
+      "detail_path": "schools/19.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/19.json"
+    },
+    "main_relation": {
+      "id": 0
+    },
+    "relations": [
+      {
+        "id": 43,
+        "name": "fox",
+        "name_cn": "FOX小队",
+        "image": "https://static.kivo.wiki/images/relation/CUiW728CM3dzoHbELz4QGoFpRTEqhyW6.png",
+        "description": "",
+        "detail_path": "relations/43.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/43.json"
+      },
+      {
+        "id": 44,
+        "name": "rabbit",
+        "name_cn": "RABBIT小队",
+        "image": "https://static.kivo.wiki/images/relation/YophULXZ1y8fryUhi5W0Lg0r4VIE0yre.png",
+        "description": "",
+        "detail_path": "relations/44.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/44.json"
+      },
+      {
+        "id": 70,
+        "name": "凯撒PMC",
+        "name_cn": "凯萨PMC",
+        "image": "https://static.kivo.wiki/images/relation/AGmGxk66LvoXypukJ4nouFqh7EdB4i8g.png",
+        "description": "",
+        "detail_path": "relations/70.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/70.json"
+      }
+    ]
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": true,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%87%AF%E6%92%92%E4%B8%BB%E7%AE%A1/avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      130
+    ],
+    "model_ids": null
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E5%87%AF%E6%92%92%20%E6%80%BB%E8%A3%81/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/Vol2-90.jpg"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/240.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/240.json",
+    "upstream_time": 1780614677,
+    "updated_at": 1752502191,
+    "created_at": 1685801516
+  }
+}

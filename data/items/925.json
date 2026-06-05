@@ -1,0 +1,46 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 925,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/XOGCvNbOhydbTyuBrYWfpSpmglhcKoG4.png",
+    "rarity": 4,
+    "name": "茶话会茶桌",
+    "description": "有着华丽设计的茶话会茶桌。与美丽的外观有所差别的是，也会用来讨论严肃的话题。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 1,
+          "skin": "",
+          "family_name": "圣园",
+          "given_name": "未花",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%9C%A3%E5%9B%AD%E6%9C%AA%E8%8A%B1/avatar.png"
+        },
+        {
+          "id": 25,
+          "skin": "",
+          "family_name": "桐藤",
+          "given_name": "渚",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%A1%90%E8%97%A4%20%E6%B8%9A/avatar.png"
+        },
+        {
+          "id": 43,
+          "skin": "",
+          "family_name": "百合园",
+          "given_name": "圣娅",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%99%BE%E5%90%88%E5%9B%AD%20%E5%9C%A3%E5%A8%85/original/Student_Portrait_CH0070_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614402,
+  "version": "1.0.0-beta.43"
+}

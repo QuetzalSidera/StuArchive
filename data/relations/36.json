@@ -1,0 +1,125 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 36,
+    "name": "真理部",
+    "name_cn": "真理社",
+    "image": "https://static.kivo.wiki/images/relation/Tlp29Wmc9xPId95PjsTJlARucqu3cHfT.png",
+    "description": "## 关系链图\n\n```mermaid\nflowchart TB\n    %% 节点定义和样式\n    classDef club fill:#ffecb3,stroke:#ff9800,stroke-width:2px\n    classDef person fill:#e3f2fd,stroke:#1976d2,stroke-width:2px\n    classDef event fill:#e8f5e9,stroke:#388e3c,stroke-width:2px\n    classDef truthMember fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px\n\n    %% 社团节点\n    GameDev[\"游戏开发部\"]:::club\n    EngDept[\"工程部\"]:::club\n    GymDept[\"健身部\"]:::club\n    FoodClub[\"美食研究会\"]:::club\n    CandC[\"C&C\"]:::club\n\n    %% 人物节点\n    subgraph TruthMembers[\"【真理部】\"]\n        direction LR\n        Turi[\"小涂 真纪\"]:::truthMember\n        Kogane[\"小钩 晴\"]:::truthMember\n        Otama[\"音濑 小玉\"]:::truthMember\n        Chihiro[\"各务 千寻（副部长）\"]:::truthMember\n    end\n    Mystar[\"明星 日鞠\"]:::person\n\n    %% 事件节点\n    Seminar[\"研讨会\"]:::event\n    RabbitTeam[\"RABBIT小队\"]:::event\n\n    %% 连接关系\n    FoodClub -.->|\"曾咨询\"| Kogane\n    \n    Mystar -->|\"前部长\"| TruthMembers\n    \n    GameDev <===>|\"多次合作\"| EngDept\n    \n    TruthMembers <===>|\"多次合作\"| EngDept\n    TruthMembers -->|\"曾匿名对抗\"| RabbitTeam\n    TruthMembers <--->|\"山中偶遇\"| GymDept\n    TruthMembers <===>|\"伙伴社团\"| GameDev\n    TruthMembers -->|\"协助准备晄轮大祭\"| Seminar\n    \n    CandC <--->|\"曾对抗 现伙伴\"| GameDev\n    TruthMembers <--->|\"曾对抗/合作\"| CandC\n```",
+    "filter_whitelist": [],
+    "main_students": [
+      {
+        "id": 20,
+        "skin": "",
+        "family_name": "各务",
+        "given_name": "千寻",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%90%84%E5%8A%A1%E5%8D%83%E5%AF%BB/avatar.png"
+      },
+      {
+        "id": 160,
+        "skin": "",
+        "family_name": "小钩",
+        "given_name": "晴",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/avatar.png"
+      },
+      {
+        "id": 182,
+        "skin": "",
+        "family_name": "小涂",
+        "given_name": "真纪",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/avatar.png"
+      },
+      {
+        "id": 212,
+        "skin": "",
+        "family_name": "音濑",
+        "given_name": "小玉",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%9F%B3%E6%BF%91%20%E5%B0%8F%E7%8E%89/avatar.png"
+      },
+      {
+        "id": 340,
+        "skin": "露营",
+        "family_name": "小钩",
+        "given_name": "晴",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/%E9%9C%B2%E8%90%A5/avatar.png"
+      },
+      {
+        "id": 341,
+        "skin": "露营",
+        "family_name": "音濑",
+        "given_name": "小玉",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%9F%B3%E6%BF%91%20%E5%B0%8F%E7%8E%89/%E9%9C%B2%E8%90%A5/avatar.png"
+      },
+      {
+        "id": 343,
+        "skin": "露营",
+        "family_name": "小涂",
+        "given_name": "真纪",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/Student_Portrait_CH0235_Collection.png"
+      },
+      {
+        "id": 344,
+        "skin": "露营",
+        "family_name": "各务",
+        "given_name": "千寻",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%90%84%E5%8A%A1%20%E5%8D%83%E5%AF%BB/%E9%9C%B2%E8%90%A5/avatar.png"
+      },
+      {
+        "id": 507,
+        "skin": "睡衣",
+        "family_name": "小钩",
+        "given_name": "晴",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/%E7%9D%A1%E8%A1%A3/hare.png"
+      },
+      {
+        "id": 509,
+        "skin": "睡衣",
+        "family_name": "小涂",
+        "given_name": "真纪",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E7%9D%A1%E8%A1%A3/maki.png"
+      },
+      {
+        "id": 510,
+        "skin": "睡衣",
+        "family_name": "各务",
+        "given_name": "千寻",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%90%84%E5%8A%A1%20%E5%8D%83%E5%AF%BB/%E7%9D%A1%E8%A1%A3/chihiro.png"
+      },
+      {
+        "id": 511,
+        "skin": "睡衣",
+        "family_name": "音濑",
+        "given_name": "小玉",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%9F%B3%E6%BF%91%20%E5%B0%8F%E7%8E%89/%E7%9D%A1%E8%A1%A3/kotama.png"
+      }
+    ],
+    "secondary_students": [
+      {
+        "id": 62,
+        "skin": "",
+        "family_name": "明星",
+        "given_name": "日鞠",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%98%8E%E6%98%9F%20%E6%97%A5%E9%9E%A0/avatar.png"
+      },
+      {
+        "id": 342,
+        "skin": "",
+        "family_name": "野正",
+        "given_name": "莱依",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%87%8E%E6%AD%A3%20%E8%8E%B1%E4%BE%9D/original/Student_Portrait_CH0245_Collection.png"
+      },
+      {
+        "id": 572,
+        "skin": "临战",
+        "family_name": "明星",
+        "given_name": "日鞠",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%98%8E%E6%98%9F%20%E6%97%A5%E9%9E%A0/%E4%B8%B4%E6%88%98/Student_Portrait_CH0332_Collection.png"
+      }
+    ]
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615835,
+  "version": "1.0.0-beta.43"
+}

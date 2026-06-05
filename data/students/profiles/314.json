@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 314,
+  "display_name": "列车乘务员C",
+  "names": {
+    "default": "列车乘务员C",
+    "cn": null,
+    "jp": "Hpbar_Portrait_AttendantBoss_Highlander_HG",
+    "en": null,
+    "kr": null,
+    "zh_tw": null,
+    "family_name": "",
+    "given_name": "列车乘务员C",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "",
+    "given_name_jp": "Hpbar_Portrait_AttendantBoss_Highlander_HG",
+    "family_name_en": "",
+    "given_name_en": "",
+    "family_name_kr": "",
+    "given_name_kr": "",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 314,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%88%97%E8%BD%A6%E4%B9%98%E5%8A%A1%E5%91%98D/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": ""
+  },
+  "affiliation": {
+    "school": {
+      "id": 24,
+      "name": "海兰德铁道学园",
+      "name_cn": "海兰德铁道学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E6%B5%B7%E5%85%B0%E5%BE%B7%E9%93%81%E9%81%93%E5%AD%A6%E9%99%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E6%B5%B7%E5%85%B0%E5%BE%B7%E9%93%81%E9%81%93%E5%AD%A6%E9%99%A2_preview.png",
+      "detail_path": "schools/24.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/24.json"
+    },
+    "main_relation": {
+      "id": 0
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": true,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%88%97%E8%BD%A6%E4%B9%98%E5%8A%A1%E5%91%98D/avatar.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E5%88%97%E8%BD%A6%E4%B9%98%E5%8A%A1%E5%91%98D/sd_model.png",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [],
+    "model_ids": []
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/314.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/314.json",
+    "upstream_time": 1780614686,
+    "updated_at": 1759560128,
+    "created_at": 1697024949
+  }
+}

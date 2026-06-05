@@ -1,0 +1,46 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1464,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/5a19QsIzRFTlviqsrk9b1HLETg8oLOnV.png",
+    "rarity": 4,
+    "name": "Live舞台",
+    "description": "为圣三一偶像组合“Antique Seraphim”而建的特别舞台。可以欣赏到三位偶像的珍贵身影。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 500,
+      "students": [
+        {
+          "id": 498,
+          "skin": "偶像",
+          "family_name": "伊落",
+          "given_name": "玛丽",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%90%BD%20%E7%8E%9B%E4%B8%BD/%E5%81%B6%E5%83%8F/Student_Portrait_CH0273_Collection.png"
+        },
+        {
+          "id": 499,
+          "skin": "偶像",
+          "family_name": "歌住",
+          "given_name": "樱子",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%AD%8C%E4%BD%8F%20%E6%A8%B1%E5%AD%90/%E5%81%B6%E5%83%8F/Student_Portrait_CH0274_Collection.png"
+        },
+        {
+          "id": 500,
+          "skin": "偶像",
+          "family_name": "苍森",
+          "given_name": "美弥",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%8B%8D%E6%A3%AE%20%E7%BE%8E%E5%BC%A5/%E5%81%B6%E5%83%8F/Student_Portrait_CH0275_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614532,
+  "version": "1.0.0-beta.43"
+}

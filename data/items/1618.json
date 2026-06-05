@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1618,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/hTbutADmGvixIQVU1izV8wy886sBKS3b.png",
+    "rarity": 4,
+    "name": "海兰德自动检票机",
+    "description": "由于会有人跳过检票闸机逃票，因此必须车上检票。据说闸机还时常被不良学生的踢打，故障频发。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 525,
+          "skin": "",
+          "family_name": "内海",
+          "given_name": "青叶",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%86%85%E6%B5%B7%20%E9%9D%92%E5%8F%B6/original/Student_Portrait_CH0288_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615057,
+  "version": "1.0.0-beta.43"
+}

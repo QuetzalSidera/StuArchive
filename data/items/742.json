@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 742,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/d5nIxGy8qGIy7yNC8z35jmhjIiTMm6eY.png",
+    "rarity": 3,
+    "name": "万圣节南瓜吧台",
+    "description": "陈列着万圣节甜点的吧台。用南瓜制作的甜点看起来真美味。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 120,
+      "students": [
+        {
+          "id": 10,
+          "skin": "",
+          "family_name": "栗村",
+          "given_name": "爱莉",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%9D%91%20%E7%88%B1%E8%8E%89/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615156,
+  "version": "1.0.0-beta.43"
+}

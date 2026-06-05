@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 587,
+  "display_name": "羽咋 翼",
+  "names": {
+    "default": "羽咋 翼",
+    "cn": null,
+    "jp": "羽咋 ツバサ",
+    "en": "Hanemoto Tsubasa",
+    "kr": "하네모토 츠바사",
+    "zh_tw": null,
+    "family_name": "羽咋",
+    "given_name": "翼",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "羽咋",
+    "given_name_jp": "ツバサ",
+    "family_name_en": "Hanemoto",
+    "given_name_en": "Tsubasa",
+    "family_name_kr": "하네모토",
+    "given_name_kr": "츠바사",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 587,
+        "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E5%92%8B%20%E7%BF%BC/original/%E5%9B%BE%E5%B1%82%201.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": "Small"
+  },
+  "affiliation": {
+    "school": {
+      "id": 4,
+      "name": "千禧科学学院",
+      "name_cn": "千禧年科技学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%8D%83%E7%A6%A7%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%8D%83%E7%A6%A7%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2_preview.png",
+      "detail_path": "schools/4.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/4.json"
+    },
+    "main_relation": {
+      "id": 147,
+      "name": "Mo超自然现象研究所",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/JyyzZQFAaOgKLIIPFyw1RFmzipINwt5h.png",
+      "description": "羽咋翼开设的网络频道，人气不高，成员1人，内容主要是各种超自然现象和直播探索废墟。",
+      "detail_path": "relations/147.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/147.json"
+    },
+    "relations": [
+      {
+        "id": 135,
+        "name": "伪科学部",
+        "name_cn": "",
+        "image": "https://static.kivo.wiki/images/relation/29T5PhMXJAN1sV2OG9RVMLAsmagAWTal.png",
+        "description": "原文：疑似科学部\n出自四周年活动",
+        "detail_path": "relations/135.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/135.json"
+      }
+    ]
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E5%92%8B%20%E7%BF%BC/original/%E5%9B%BE%E5%B1%82%201.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1502
+    ],
+    "model_ids": []
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "CH0351",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_23.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_Idle_01.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_27.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_Eye_Close_01.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_99.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_22.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_25.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_26.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_16.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_24.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_18.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_20.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_21.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_19.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_15.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_12.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_13.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_14.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_17.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_06.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_07.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_08.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_09.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_10.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_02.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_03.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_11.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_05.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_00.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_04.png",
+          "https://static.kivo.wiki/images/students/%20%E7%BF%BC/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0351_spr_01.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/587.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/587.json",
+    "upstream_time": 1780614600,
+    "updated_at": 1775633633,
+    "created_at": 1773834872
+  }
+}

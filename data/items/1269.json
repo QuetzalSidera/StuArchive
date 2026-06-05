@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1269,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/zBS0dnTA3WfLDWHbkwWTE8iw1OSHK9VI.png",
+    "rarity": 4,
+    "name": "咖啡馆用大床",
+    "description": "不论对于女仆还是玩家来说，床都十分重要。倒不如应该说是必需品......收到如上意见而添加的家具。至于场所和情况到底合不合适，那是留到之后再考虑的事情。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 30,
+          "skin": "女仆",
+          "family_name": "才羽",
+          "given_name": "桃井",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%89%8D%E7%BE%BD%20%E6%A1%83%E4%BA%95/%E5%A5%B3%E4%BB%86/avatar.png"
+        },
+        {
+          "id": 31,
+          "skin": "女仆",
+          "family_name": "才羽",
+          "given_name": "绿",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%89%8D%E7%BE%BD%20%E7%BB%BF/%E5%A5%B3%E4%BB%86/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615082,
+  "version": "1.0.0-beta.43"
+}

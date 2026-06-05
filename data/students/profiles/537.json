@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 537,
+  "display_name": "御稜 名草（泳装）",
+  "names": {
+    "default": "御稜 名草",
+    "cn": "御稜 名草",
+    "jp": "御稜 ナグサ",
+    "en": "Goryou Nagusa",
+    "kr": "고료 나구사",
+    "zh_tw": "御棱 名草",
+    "family_name": "御稜",
+    "given_name": "名草",
+    "family_name_cn": "御稜",
+    "given_name_cn": "名草",
+    "family_name_jp": "御稜",
+    "given_name_jp": "ナグサ",
+    "family_name_en": "Goryou",
+    "given_name_en": "Nagusa",
+    "family_name_kr": "고료",
+    "given_name_kr": "나구사",
+    "family_name_zh_tw": "御棱",
+    "given_name_zh_tw": "名草"
+  },
+  "skin": {
+    "default": "泳装",
+    "cn": "泳装",
+    "jp": "水着",
+    "zh_tw": "泳裝",
+    "skins": [
+      {
+        "id": 254,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/original/Student_Portrait_CH0222_Collection.png",
+        "skin": "",
+        "skin_cn": ""
+      },
+      {
+        "id": 537,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/CH0303_avatar.png",
+        "skin": "泳装",
+        "skin_cn": "泳装"
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 17,
+    "grade": "三年生",
+    "height": 161,
+    "birthday": "12-07",
+    "hobby": "冥想、读书",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "佐仓薰",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": "Medium"
+  },
+  "affiliation": {
+    "school": {
+      "id": 9,
+      "name": "百鬼夜行联合学园",
+      "name_cn": "百鬼夜行联合学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E8%81%94%E5%90%88%E5%AD%A6%E5%9B%AD_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E7%99%BE%E9%AC%BC%E5%A4%9C%E8%A1%8C%E8%81%94%E5%90%88%E5%AD%A6%E5%9B%AD_preview.png",
+      "detail_path": "schools/9.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/9.json"
+    },
+    "main_relation": {
+      "id": 72,
+      "name": "百花缭乱纷争调停委员会",
+      "name_cn": "百花缭乱纠纷调解委员会",
+      "image": "https://static.kivo.wiki/images/relation/zZhitUYUVW5AOcXdUGTjGCN6rRYkcWL5.png",
+      "description": "",
+      "detail_path": "relations/72.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/72.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/CH0303_avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1304
+    ],
+    "model_ids": [
+      203
+    ]
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "CH0303",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_Eye_Close_01.png",
+          "https://static.kivo.wiki/images/students/%E5%BE%A1%E7%A8%9C%20%E5%90%8D%E8%8D%89/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0303_spr_Idle_01.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/537.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/537.json",
+    "upstream_time": 1780614619,
+    "updated_at": 1769515537,
+    "created_at": 1750858515
+  }
+}

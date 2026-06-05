@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 561,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/MXhkpblLBq1NXTOiepP5pl6WatNTM1Qf.png",
+    "rarity": 2,
+    "name": "配色双人椅",
+    "description": "可2人使用的双人椅。最大的优点是即使久坐依然舒适。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 50,
+      "students": [
+        {
+          "id": 63,
+          "skin": "",
+          "family_name": "合欢垣",
+          "given_name": "吹雪",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%90%88%E6%AC%A2%E5%9E%A3%20%E5%90%B9%E9%9B%AA/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615107,
+  "version": "1.0.0-beta.43"
+}

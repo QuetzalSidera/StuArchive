@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 283,
+  "display_name": "瓦尔基里学生A（泳装）",
+  "names": {
+    "default": "瓦尔基里学生A",
+    "cn": null,
+    "jp": "NP0134_spr",
+    "en": null,
+    "kr": null,
+    "zh_tw": null,
+    "family_name": "",
+    "given_name": "瓦尔基里学生A",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "",
+    "given_name_jp": "NP0134_spr",
+    "family_name_en": "",
+    "given_name_en": "",
+    "family_name_kr": "",
+    "given_name_kr": "",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "泳装",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 200,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E4%B8%80%E8%88%AC%E5%AD%A6%E7%94%9FA/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      },
+      {
+        "id": 283,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E4%B8%80%E8%88%AC%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/avatar.png",
+        "skin": "泳装",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": "# 官方图集\n## 设定集\n\n:::: center\n\n![](images/students/%20%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%20%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9_%203%20-%20076.png =600x)\n\n::::\n"
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "9ml",
+    "illustrator": "9ml",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": "Medium"
+  },
+  "affiliation": {
+    "school": {
+      "id": 8,
+      "name": "瓦尔基里警察学校",
+      "name_cn": "瓦尔基丽警员学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E8%AD%A6%E5%AF%9F%E5%AD%A6%E6%A0%A1_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E8%AD%A6%E5%AF%9F%E5%AD%A6%E6%A0%A1_preview.png",
+      "detail_path": "schools/8.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/8.json"
+    },
+    "main_relation": {
+      "id": 0
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": true,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%A5%B3%E6%AD%A6%E7%A5%9E%E4%B8%80%E8%88%AC%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1511
+    ],
+    "model_ids": null
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "NP0134",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0134_spr_09.png"
+        ]
+      },
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%20%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C%E5%AD%A6%E7%94%9FA/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%20%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A2%E3%83%BC%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9_%203%20-%20076.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/283.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/283.json",
+    "upstream_time": 1780614658,
+    "updated_at": 1774186321,
+    "created_at": 1687352663
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 920,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/gIT5jWhydFiREDPLlTsP7nPD07X1jGN5.png",
+    "rarity": 3,
+    "name": "艳彩自动贩卖机",
+    "description": "贩售多种零食的自动贩卖机。不知不觉就会发现自己在投硬币。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 120,
+      "students": [
+        {
+          "id": 62,
+          "skin": "",
+          "family_name": "明星",
+          "given_name": "日鞠",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%98%8E%E6%98%9F%20%E6%97%A5%E9%9E%A0/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615175,
+  "version": "1.0.0-beta.43"
+}

@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 304,
+  "display_name": "凛华",
+  "names": {
+    "default": "凛华",
+    "cn": null,
+    "jp": "リンカ",
+    "en": "Rinka",
+    "kr": null,
+    "zh_tw": null,
+    "family_name": "",
+    "given_name": "凛华",
+    "family_name_cn": "",
+    "given_name_cn": "",
+    "family_name_jp": "",
+    "given_name_jp": "リンカ",
+    "family_name_en": "",
+    "given_name_en": "Rinka",
+    "family_name_kr": "",
+    "given_name_kr": "",
+    "family_name_zh_tw": "",
+    "given_name_zh_tw": ""
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 304,
+        "avatar": "https://static.kivo.wiki/images/students/%E5%87%9B%E5%8D%8E/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "瞬在咖啡厅中的对话中提及的人名，目前还一切都是谜\n推测也是梅花园所属\n日服描述为「リンカ」\n详情见下方更多资料中的截图",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": "![U7brSwRbyyVsMoRwhDiNUlNWGl87HvYR.png](https://kivo.wiki/files/3/U7brSwRbyyVsMoRwhDiNUlNWGl87HvYR.png)"
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "",
+    "nick_name": "铃夏",
+    "body_shape": ""
+  },
+  "affiliation": {
+    "school": {
+      "id": 7,
+      "name": "山海经高级中学",
+      "name_cn": "山海经高等学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6_preview.png",
+      "detail_path": "schools/7.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/7.json"
+    },
+    "main_relation": {
+      "id": 51,
+      "name": "梅花园",
+      "name_cn": "梅花园",
+      "image": "https://static.kivo.wiki/images/relation/sgnQ0MX7mNnMXl4wQBixGfuHvCBH1qAm.png",
+      "description": "",
+      "detail_path": "relations/51.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/51.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E5%87%9B%E5%8D%8E/avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [],
+    "model_ids": null
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/304.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/304.json",
+    "upstream_time": 1780614612,
+    "updated_at": 1728543937,
+    "created_at": 1692088539
+  }
+}

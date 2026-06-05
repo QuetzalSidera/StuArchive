@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1145,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/Rnpl4LZE7x9VVN7abgB1BsMDyepmuF2G.png",
+    "rarity": 4,
+    "name": "基础电子琴",
+    "description": "忠于基本的电子琴。演出开始时，在扎实的基础之上还能见识到其华丽的一面。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 369,
+          "skin": "乐队",
+          "family_name": "栗村",
+          "given_name": "爱莉",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%9D%91%20%E7%88%B1%E8%8E%89/%E4%B9%90%E9%98%9F/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615073,
+  "version": "1.0.0-beta.43"
+}

@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1037,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/HfPgHViNORVqHz0g9ouWjRhudXXnQJqV.png",
+    "rarity": 4,
+    "name": "冰淇淋桌子",
+    "description": "摆放着甜美的冰淇淋的冰淇淋桌。一口下去，夏天就融化了。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 299,
+          "skin": "泳装",
+          "family_name": "下江",
+          "given_name": "小春",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%B8%8B%E6%B1%9F%20%E5%B0%8F%E6%98%A5/%E6%B3%B3%E8%A3%85/avatar.png"
+        },
+        {
+          "id": 300,
+          "skin": "泳装",
+          "family_name": "浦和",
+          "given_name": "花子",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%B5%A6%E5%92%8C%20%E8%8A%B1%E5%AD%90/%E6%B3%B3%E8%A3%85/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614981,
+  "version": "1.0.0-beta.43"
+}

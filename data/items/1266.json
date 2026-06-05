@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1266,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/4BR4Xb652SxpcPQOvlzYzTeEQUkjpF6B.png",
+    "rarity": 4,
+    "name": "自拍亭",
+    "description": "吸引着正值青春的学生们目光的自拍亭。提供了许多装扮。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 163,
+          "skin": "",
+          "family_name": "夜樱",
+          "given_name": "绮良",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%A4%9C%E6%A8%B1%20%E7%BB%AE%E8%89%AF/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615219,
+  "version": "1.0.0-beta.43"
+}

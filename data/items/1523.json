@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1523,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/2MXeUrJJ2YfYNT8zjXpuwTd5o17LD5xF.png",
+    "rarity": 4,
+    "name": "双人千禧课桌",
+    "description": "双人用书桌。专注力也会翻倍！……才怪。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 512,
+          "skin": "制服",
+          "family_name": "一之濑",
+          "given_name": "明日奈",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E6%A0%A1%E6%9C%8D/Student_Portrait_CH0281_Collection.png"
+        },
+        {
+          "id": 513,
+          "skin": "制服",
+          "family_name": "角楯",
+          "given_name": "花凛",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E6%A0%A1%E6%9C%8D/Student_Portrait_CH0282_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615139,
+  "version": "1.0.0-beta.43"
+}

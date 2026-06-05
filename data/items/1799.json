@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1799,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/61RU6fJZuPP3S22GekIaOeGrJpySqaMh.png",
+    "rarity": 4,
+    "name": "雕刻的作业台",
+    "description": "放着雕刻品的作业台。虽然外表看起来粗糙，但用来创作精致的艺术品没有问题。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 561,
+          "skin": "",
+          "family_name": "薄叶",
+          "given_name": "律",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%96%84%E5%8F%B6%20%E5%BE%8B/original/Student_Portrait_CH0319_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614710,
+  "version": "1.0.0-beta.43"
+}

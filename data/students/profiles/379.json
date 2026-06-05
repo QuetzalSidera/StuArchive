@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-04T23:08:44Z",
+  "id": 379,
+  "display_name": "河驹风 兰舞（泳装）",
+  "names": {
+    "default": "河驹风 兰舞",
+    "cn": "河驹风 兰舞",
+    "jp": "河駒風 ラブ",
+    "en": "Komakaze Rabu",
+    "kr": "코마카제 라브",
+    "zh_tw": "河驹风 良舞",
+    "family_name": "河驹风",
+    "given_name": "兰舞",
+    "family_name_cn": "河驹风",
+    "given_name_cn": "兰舞",
+    "family_name_jp": "河駒風",
+    "given_name_jp": "ラブ",
+    "family_name_en": "Komakaze",
+    "given_name_en": "Rabu",
+    "family_name_kr": "코마카제",
+    "given_name_kr": "라브",
+    "family_name_zh_tw": "河驹风",
+    "given_name_zh_tw": "良舞"
+  },
+  "skin": {
+    "default": "泳装",
+    "cn": "泳装",
+    "jp": "水着",
+    "zh_tw": "泳裝",
+    "skins": [
+      {
+        "id": 134,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/original/%E8%A7%92%E8%89%B2%E5%A4%B4%E5%83%8F_CH0166_Collection.png",
+        "skin": "",
+        "skin_cn": ""
+      },
+      {
+        "id": 379,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/avatar.png",
+        "skin": "泳装",
+        "skin_cn": "泳装"
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "",
+    "height": 1,
+    "birthday": null,
+    "hobby": "",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "",
+    "character_voice_cn": "木子橙",
+    "nick_name": "",
+    "body_shape": "Medium"
+  },
+  "affiliation": {
+    "school": {
+      "id": 17,
+      "name": "不良少女们",
+      "name_cn": "",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_preview.png",
+      "detail_path": "schools/17.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/17.json"
+    },
+    "main_relation": {
+      "id": 74,
+      "name": "钢盔团",
+      "name_cn": "头盔团",
+      "image": "https://static.kivo.wiki/images/relation/b9Vl0Vd76nQN6IL7A62tEadoOmo9t3U8.png",
+      "description": "",
+      "detail_path": "relations/74.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/74.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": false,
+      "release_date": null
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/avatar.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1281
+    ],
+    "model_ids": []
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "CH0279",
+    "weapon_type": "",
+    "role": "",
+    "combat_style": "default",
+    "battlefield_position": "",
+    "team_position": "",
+    "attack_attribute": "",
+    "defensive_attributes": "",
+    "rarity": 0,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [],
+      "passive_skill": []
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_00_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_09_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_04_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_06_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_02_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_03_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_08_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_05_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_10_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_12_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_13_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_07_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_01_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_15_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_14_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_11_waifu2x_1x_3n_png.png",
+          "https://static.kivo.wiki/images/students/%E6%B2%B3%E9%A9%B9%E9%A3%8E%20%E5%85%B0%E8%88%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0279_spr_99_waifu2x_1x_3n_png.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/379.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/379.json",
+    "upstream_time": 1780614643,
+    "updated_at": 1769514510,
+    "created_at": 1719403860
+  }
+}

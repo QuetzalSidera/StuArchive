@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1017,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/GwpyKkxwVjHnItFcPSTVcwTpJSu38FTP.png",
+    "rarity": 4,
+    "name": "游戏开发部的储物柜",
+    "description": "守护游戏开发部部室的储物柜。评价说内部感觉十分舒适。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 81,
+          "skin": "",
+          "family_name": "花冈",
+          "given_name": "柚子",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%8A%B1%E5%86%88%20%E6%9F%9A%E5%AD%90/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615194,
+  "version": "1.0.0-beta.43"
+}

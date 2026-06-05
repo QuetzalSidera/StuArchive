@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 801,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/7Uf6oWq8gwaLs2YdTqDTlDAh5fFqrdSj.png",
+    "rarity": 3,
+    "name": "放着缎带和手套的阿比多斯教室课桌",
+    "description": "桌子上放着缎带和手套。这张桌子的主人似乎可以托付重要的事情。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 120,
+      "students": [
+        {
+          "id": 83,
+          "skin": "",
+          "family_name": "黑见",
+          "given_name": "芹香",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615014,
+  "version": "1.0.0-beta.43"
+}

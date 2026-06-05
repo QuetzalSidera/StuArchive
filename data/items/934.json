@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 934,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/IE4pyywOz8siFB9Kc1joaXE07u5dqXdn.png",
+    "rarity": 4,
+    "name": "日本扁柏疗愈组合泡澡桶",
+    "description": "以日本扁柏制成的泡澡桶。将全身浸淫于扁柏香气及暖呼呼的温泉水中吧！",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 227,
+          "skin": "温泉",
+          "family_name": "间宵",
+          "given_name": "时雨",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%97%B4%E5%AE%B5%20%E6%97%B6%E9%9B%A8/%E6%B8%A9%E6%B3%89/avatar.png"
+        },
+        {
+          "id": 229,
+          "skin": "",
+          "family_name": "下仓",
+          "given_name": "惠",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780615122,
+  "version": "1.0.0-beta.43"
+}

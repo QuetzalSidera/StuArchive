@@ -1,0 +1,602 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 96,
+    "user": {
+      "id": 11513,
+      "user_name": "SuiFengXiaoTao",
+      "introduction": "カヨコのこと大好きだ！",
+      "avatar": "https://static.kivo.wiki/images/avatar/11513/biU21mDurS5oj28Cf4OVimPXS37b4OJH.png"
+    },
+    "title": "新总力イェソド低练过tm记录",
+    "server": "Japan",
+    "game_mode": "Raid",
+    "enemy_defensive_attributes": "Elastic",
+    "level_terrain": "Street",
+    "video": "https://static.kivo.wiki/videos/walkthrough/11513/ZjteKShLI4Ba36ZQgk6DZ3rp5A1WVQdw.mp4",
+    "introduce": "拼尽全力艰难战胜，新boss设计的还是挺不错的，在特定机制下有五花八门的配队均能打过，而不是死磕某个配队，少一个对策就直接过不了。\n大狐狸和沫花均只有s1，因此摸出了p1一队心奈爱玛双奶队，二队泳装茶话队的过法：选择一队借沫花主刀，二队自出打补刀；p2则是常规一刀队+补刀队，究其原因依然是练度不够，只有肘叔满练，甚至诺亚80级都没有，装备更是没眼看，扛都扛不住一巴掌，故而选择用冬泳怪哥代替玛丽的盾，也因此无法在一刀内完成；补刀队则是看血量不多了选择直接打本体强吃（整活），可以看到也是有高额减伤来防偷鸡（可惜还是被我偷了-v-）。\n本次仅记录，就不发参考练度了，看个乐就行。",
+    "team": [
+      {
+        "student": [
+          {
+            "student_id": 4,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 7,
+            "skill_level": [
+              5,
+              7,
+              10,
+              7
+            ],
+            "equipment_level": [
+              1,
+              1,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 25
+          },
+          {
+            "student_id": 11,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 24,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              9,
+              9,
+              2
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 25,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 545,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 50,
+            "favorability": 100,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 25,
+            "attack_talent_level": 25,
+            "healing_talent_level": 25
+          },
+          {
+            "student_id": 498,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 23,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              9,
+              4,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 25
+          },
+          {
+            "student_id": 61,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 40,
+            "favorability": 26,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 133,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 40,
+            "favorability": 19,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          }
+        ],
+        "initial_skills": [
+          4,
+          133
+        ],
+        "timeline": []
+      },
+      {
+        "student": [
+          {
+            "student_id": 545,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 19,
+            "skill_level": [
+              5,
+              7,
+              7,
+              7
+            ],
+            "equipment_level": [
+              10,
+              5,
+              9
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 25,
+            "attack_talent_level": 25,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 543,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 12,
+            "skill_level": [
+              5,
+              7,
+              7,
+              1
+            ],
+            "equipment_level": [
+              6,
+              9,
+              5
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 35,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 20,
+            "skill_level": [
+              5,
+              7,
+              1,
+              1
+            ],
+            "equipment_level": [
+              9,
+              9,
+              9
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 25
+          },
+          {
+            "student_id": 43,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 18,
+            "skill_level": [
+              5,
+              7,
+              4,
+              4
+            ],
+            "equipment_level": [
+              7,
+              4,
+              8
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 544,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 40,
+            "favorability": 15,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 62,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 40,
+            "favorability": 21,
+            "skill_level": [
+              5,
+              1,
+              10,
+              10
+            ],
+            "equipment_level": [
+              9,
+              6,
+              3
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          }
+        ],
+        "initial_skills": [
+          545,
+          35,
+          43
+        ],
+        "timeline": []
+      },
+      {
+        "student": [
+          {
+            "student_id": 28,
+            "level": 74,
+            "star_level": 4,
+            "weapon_level": 0,
+            "favorability": 17,
+            "skill_level": [
+              5,
+              7,
+              7,
+              7
+            ],
+            "equipment_level": [
+              10,
+              4,
+              1
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 563,
+            "level": 85,
+            "star_level": 3,
+            "weapon_level": 0,
+            "favorability": 4,
+            "skill_level": [
+              5,
+              1,
+              1,
+              10
+            ],
+            "equipment_level": [
+              1,
+              9,
+              1
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 373,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 40,
+            "favorability": 23,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              9,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 25,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 134,
+            "level": 85,
+            "star_level": 4,
+            "weapon_level": 0,
+            "favorability": 8,
+            "skill_level": [
+              3,
+              4,
+              4,
+              4
+            ],
+            "equipment_level": [
+              4,
+              4,
+              4
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 334,
+            "level": 85,
+            "star_level": 3,
+            "weapon_level": 0,
+            "favorability": 11,
+            "skill_level": [
+              5,
+              10,
+              7,
+              10
+            ],
+            "equipment_level": [
+              1,
+              8,
+              5
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 99,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 1,
+            "favorability": 24,
+            "skill_level": [
+              3,
+              10,
+              1,
+              4
+            ],
+            "equipment_level": [
+              1,
+              9,
+              5,
+              2
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          }
+        ],
+        "initial_skills": [
+          28,
+          563,
+          134
+        ],
+        "timeline": []
+      },
+      {
+        "student": [
+          {
+            "student_id": 46,
+            "level": 90,
+            "star_level": 4,
+            "weapon_level": 0,
+            "favorability": 18,
+            "skill_level": [
+              5,
+              7,
+              7,
+              7
+            ],
+            "equipment_level": [
+              9,
+              9,
+              9
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 93,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 50,
+            "favorability": 19,
+            "skill_level": [
+              5,
+              7,
+              7,
+              7
+            ],
+            "equipment_level": [
+              10,
+              9,
+              4
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 157,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 50,
+            "favorability": 19,
+            "skill_level": [
+              5,
+              7,
+              1,
+              4
+            ],
+            "equipment_level": [
+              10,
+              4,
+              1
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 25
+          },
+          {
+            "student_id": 54,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 17,
+            "skill_level": [
+              5,
+              7,
+              7,
+              7
+            ],
+            "equipment_level": [
+              7,
+              9,
+              8
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 58,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 30,
+            "favorability": 17,
+            "skill_level": [
+              5,
+              10,
+              10,
+              10
+            ],
+            "equipment_level": [
+              10,
+              10,
+              10
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          },
+          {
+            "student_id": 185,
+            "level": 90,
+            "star_level": 5,
+            "weapon_level": 50,
+            "favorability": 23,
+            "skill_level": [
+              3,
+              4,
+              4,
+              7
+            ],
+            "equipment_level": [
+              1,
+              4,
+              6,
+              2
+            ],
+            "character_data_index": 0,
+            "max_hp_talent_level": 0,
+            "attack_talent_level": 0,
+            "healing_talent_level": 0
+          }
+        ],
+        "initial_skills": [
+          46,
+          54,
+          58
+        ],
+        "timeline": []
+      }
+    ],
+    "reference_score": 38832640,
+    "state": 0,
+    "declare_uuid": "dcbb650e-e9d1-48ba-b9f3-7db54d46d090",
+    "favorite_num": 0,
+    "created_at": 1762309975,
+    "updated_at": 1762323042
+  },
+  "message": "获取配队方案成功",
+  "success": true,
+  "time": 1780617653,
+  "version": "1.0.0-beta.43"
+}

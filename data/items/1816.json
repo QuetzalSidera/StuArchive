@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 1816,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/Qpaqu1s0ChVD32KQeP0SWrabXcrcSjJf.png",
+    "rarity": 4,
+    "name": "贩卖用的桌子",
+    "description": "用于对各种各样的“书”进行贩卖和交换......一眼看上去平平无奇，实际上并非如此。如果看到cosplay装扮的摊主，还请保持礼仪友好交流。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 350,
+      "students": [
+        {
+          "id": 308,
+          "skin": "",
+          "family_name": "三善",
+          "given_name": "贵音",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%B8%89%E5%96%84%20%E8%B4%B5%E9%9F%B3/original/Student_Portrait_CH0229_Collection.png"
+        },
+        {
+          "id": 309,
+          "skin": "",
+          "family_name": "荒槙",
+          "given_name": "八云",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%8D%92%E6%A7%99%20%E5%85%AB%E4%BA%91/original/Student_Portrait_CH0228_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614671,
+  "version": "1.0.0-beta.43"
+}

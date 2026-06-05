@@ -7,13 +7,13 @@
     "api_path": "/comics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/comics/"
   },
-  "generated_at": "2026-06-04T22:02:28Z",
+  "generated_at": "2026-06-04T23:08:44Z",
   "list_key": "comics",
   "id_key": "id",
   "max_page": 1,
   "synced_pages": 1,
   "total_items": 8,
-  "details_synced": 0,
+  "details_synced": 8,
   "details_enabled": true,
   "items": [
     {
@@ -82,7 +82,56 @@
       "item_count": 8
     }
   ],
-  "details": [],
+  "details": [
+    {
+      "id": 8,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/8",
+      "path": "comics/8.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/8.json"
+    },
+    {
+      "id": 7,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/7",
+      "path": "comics/7.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/7.json"
+    },
+    {
+      "id": 6,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/6",
+      "path": "comics/6.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/6.json"
+    },
+    {
+      "id": 5,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/5",
+      "path": "comics/5.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/5.json"
+    },
+    {
+      "id": 4,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/4",
+      "path": "comics/4.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/4.json"
+    },
+    {
+      "id": 3,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/3",
+      "path": "comics/3.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/3.json"
+    },
+    {
+      "id": 2,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/2",
+      "path": "comics/2.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/2.json"
+    },
+    {
+      "id": 1,
+      "upstream_url": "https://api.kivo.wiki/api/v1/comics/1",
+      "path": "comics/1.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/1.json"
+    }
+  ],
   "lookup": {
     "path": "comics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/comics/lookup.json",

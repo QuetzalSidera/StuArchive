@@ -1,0 +1,32 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 910,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/WDbQZP1DdByN4Ao2HJJX1SBdVZ1q7otW.png",
+    "rarity": 2,
+    "name": "白色简约沙发",
+    "description": "摆放着枕头的简单沙发。高弹性填充物能让学生的身体舒适放松。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 50,
+      "students": [
+        {
+          "id": 26,
+          "skin": "",
+          "family_name": "若叶",
+          "given_name": "日向",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%8B%A5%E5%8F%B6%20%E6%97%A5%E5%90%91/avatar.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1780614972,
+  "version": "1.0.0-beta.43"
+}
