@@ -7,15 +7,48 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-06-05T19:53:27Z",
+  "generated_at": "2026-06-06T19:21:45Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 539,
   "synced_pages": 539,
-  "total_items": 5381,
+  "total_items": 5386,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
+    {
+      "id": 5531,
+      "line_type": "JP",
+      "title": "活动「百ヨリ出ズル一輪ノ～いざ尋常に、水上勝負～」复刻",
+      "image": "https://static.kivo.wiki/images/timeline/mMYV8ltPkyYPrWjRMKyOYe8b4KQvCYnD.png",
+      "body_summary": "【イベント復刻開催予告】 先生！期間限定イベント「百ヨリ出ズル一輪ノ～いざ尋常に、水上勝負～」の復刻開催が決定です！ 百鬼夜行の夏の風物詩「百夜水上祭」に参加すべく、海岸を訪れた百花繚乱の皆さんが贈る",
+      "type": "Event",
+      "url": "x.com/Blue_ArchiveJP/status/2063169177985470567",
+      "start_time": 1781067600,
+      "end_time": 1781067600
+    },
+    {
+      "id": 5530,
+      "line_type": "JP",
+      "title": "5周年纪念演出「ブルアカ5th Anniversary DJふぇす！つあー☆」",
+      "image": "https://static.kivo.wiki/images/timeline/owDXlvXzyX6IbjMcasbsCVQZ5uICuwAd.png",
+      "body_summary": "【5thアニバーサリー】 「ブルアカ5th Anniversary DJふぇす！つあー☆」 チケットの2次抽選申込の受付は 明後日、6/7(日)23:59までです！ #ブルアカ #ブルアカDJふぇすつ",
+      "type": "OutsideGames",
+      "url": "x.com/Blue_ArchiveJP/status/2062836838973456433",
+      "start_time": 1780653600,
+      "end_time": 1780847940
+    },
+    {
+      "id": 5529,
+      "line_type": "JP",
+      "title": "総力戦「市街地戦・ドラム缶ガニ」にて確認中の不具合",
+      "image": "https://static.kivo.wiki/images/timeline/h3387bfRyNem767dyAEzdahNzjNQAhLA.png",
+      "body_summary": "2026年6月5日(金) 25:35追記 いつも「ブルーアーカイブ」をご利用いただき、誠にありがとうございます。 総力戦「市街地戦・ドラム缶ガニ」における本不具合については、本日行われたアップデートに",
+      "type": "Maintenance",
+      "url": "bluearchive.jp/news/newsJump/663",
+      "start_time": 1780605840,
+      "end_time": 1780605840
+    },
     {
       "id": 5482,
       "line_type": "JP",
@@ -26,6 +59,17 @@
       "url": "x.com/Blue_ArchiveJP/status/2058125569834045729",
       "start_time": 1780455600,
       "end_time": 1781035199
+    },
+    {
+      "id": 5528,
+      "line_type": "JP",
+      "title": "特别依赖2倍#68",
+      "image": "https://static.kivo.wiki/images/timeline/mKUZmlBuggitfgz9J9ptykszdpWaCvwt.png",
+      "body_summary": "【キャンペーン予告】 2026年6月3日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年6月3日(水) 4:00 ～ 2026年6月1",
+      "type": "Double",
+      "url": "x.com/Blue_ArchiveJP/status/2061644439265886399",
+      "start_time": 1780430400,
+      "end_time": 1781035140
     },
     {
       "id": 5454,
@@ -70,6 +114,17 @@
       "url": "x.com/Blue_ArchiveJP/status/2060964494625669149",
       "start_time": 1780326322,
       "end_time": 1780326322
+    },
+    {
+      "id": 5527,
+      "line_type": "JP",
+      "title": "学生生日日历-2026年6月",
+      "image": "https://static.kivo.wiki/images/timeline/0OruuAgO7TDhgA0ZIxAel9IiB9oXHOoJ.png",
+      "body_summary": "【カレンダー】 先生、2026年6月の誕生日カレンダーをご用意しました！ ぜひお役立てください！ 梅雨の時期となり、最近は雨の日と晴れの日で寒暖差が激しいですが、先生の体調は問題ないですか？ もう少し",
+      "type": "OutsideGames",
+      "url": "x.com/Blue_ArchiveJP/status/2061282188877058298",
+      "start_time": 1780282800,
+      "end_time": 1780282800
     },
     {
       "id": 5507,
@@ -62980,15 +63035,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=539",
       "path": "timeline/pages/539.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/539.json",
-      "item_count": 1
+      "item_count": 6
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5348,
-    "normalized_alias_count": 5341,
-    "total_items": 5381
+    "alias_count": 5353,
+    "normalized_alias_count": 5346,
+    "total_items": 5386
   }
 }
