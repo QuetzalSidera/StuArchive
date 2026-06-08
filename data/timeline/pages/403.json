@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1469,
-        "line_type": "Globle",
-        "title": "国际服主线Final. 第一章主页公开",
-        "image": "https://static.kivo.wiki/images/timeline/QNU5bm41svKyR39kZdR4THa3p9QUfYRn.jpg",
-        "body_summary": "Sensei, the special webpage for Part 1 Final Episode of the Main Story is available now! Follow the ",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1679387091472613381",
-        "start_time": 1689232020,
-        "end_time": 1689232020
-      },
-      {
-        "id": 1907,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编第一期",
-        "image": "https://static.kivo.wiki/images/timeline/obZZ6hUWesKDegWL6Qyo9Ak8QSTkyBRr.png",
-        "body_summary": "www.youtube.com/watch?v=PnqVozs72ag",
-        "type": "Live",
-        "url": "www.youtube.com/watch?v=PnqVozs72ag",
-        "start_time": 1689177600,
-        "end_time": 1689177600
-      },
       {
         "id": 721,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/EN_BlueArchive/status/1677607202646028289",
         "start_time": 1689040857,
         "end_time": 1690250397
+      },
+      {
+        "id": 1463,
+        "line_type": "Globle",
+        "title": "国际服卡池「Go forth with faith and honor in your heart! Medicine knows no borders!」",
+        "image": "https://static.kivo.wiki/images/timeline/owjVKHYAqOcjlMldbJIGC7tZTJzvILWV.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 7/11 (Tue)! Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1677603428543987712",
+        "start_time": 1689040857,
+        "end_time": 1690250397
+      },
+      {
+        "id": 1461,
+        "line_type": "Globle",
+        "title": "国际服例行维护42",
+        "image": "",
+        "body_summary": "[7/11 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 7/11 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1677243556535173123",
+        "start_time": 1689040820,
+        "end_time": 1689062420
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867616,
+  "time": 1780957714,
   "version": "1.0.0-beta.43"
 }

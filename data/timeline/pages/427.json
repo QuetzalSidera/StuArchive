@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 613,
-        "line_type": "JP",
-        "title": "向导活动常驻化",
-        "image": "https://static.kivo.wiki/images/timeline/7ITBj1PcmrT6aWz52RdCjpANAVu16nlq.jpg",
-        "body_summary": "【ガイドミッション常設化】 メンテナンス終了後、過去開催されたガイドミッション全てが復刻し、常設化されます。 過去の進行状況から再スタート可能ですので、まだ未達成の先生は様々な育成素材や「青輝石」の獲",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1638375478456385536?s=20",
-        "start_time": 1679486691,
-        "end_time": 1679486691
-      },
-      {
-        "id": 612,
-        "line_type": "JP",
-        "title": "例行维护65",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/22(水) 11:00 〜 19:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1638057908037636097?s=20",
-        "start_time": 1679486541,
-        "end_time": 1679486541
-      },
       {
         "id": 611,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/EN_BlueArchive/status/1637018503285964800",
         "start_time": 1679364035,
         "end_time": 1679968775
+      },
+      {
+        "id": 1357,
+        "line_type": "Globle",
+        "title": "国际服卡池「P—Please don't call me kokona without my title! I'm not just some little kid, you know?!」",
+        "image": "https://static.kivo.wiki/images/timeline/zwWpdsb7txabslmmECww4I1NM03Z9a6h.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 3/21 (Tue)! Pick Up Student: 3",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1637015991384256513",
+        "start_time": 1679364035,
+        "end_time": 1679968775
+      },
+      {
+        "id": 1354,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习7",
+        "image": "https://static.kivo.wiki/images/timeline/zH4uFl55QV5reSxERA3kXVIjYDUC7j8e.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Shooting Drill) has opened, at 02:00 AM on ",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1637997457983373313",
+        "start_time": 1679364003,
+        "end_time": 1679943543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867643,
+  "time": 1780957743,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1004,
-        "line_type": "Globle",
-        "title": "国际服卡池「If I come across anything unseemly, I'll get rid of every bit of it!」",
-        "image": "https://static.kivo.wiki/images/timeline/WwMiXag7WMZEDT5GL8rxpGKdHvHmcCoI.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 2/8 (Tue)! Target Pick-Up Stud",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1489886588632854528",
-        "start_time": 1644303601,
-        "end_time": 1644289201
-      },
-      {
-        "id": 1003,
-        "line_type": "Globle",
-        "title": "国际服卡池「... What do I worry about? Being too average I guess ...?」",
-        "image": "https://static.kivo.wiki/images/timeline/5JsBYvPYNnm6kljIpccXqIcqmLjugjUZ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 2/8 (Tue)! Target Pick-Up Stud",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1489886523541508096",
-        "start_time": 1644303600,
-        "end_time": 1645498800
-      },
       {
         "id": 1002,
         "line_type": "Globle",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1484501568854855685",
         "start_time": 1643792440,
         "end_time": 1644332440
+      },
+      {
+        "id": 252,
+        "line_type": "JP",
+        "title": "任务normal3倍 #2",
+        "image": "https://static.kivo.wiki/images/timeline/AYO3PdqZqI4mI8s5ltEKRlqVsotKYqed.jpg",
+        "body_summary": "【キャンペーン予告】 2月2日(水)04:00から、「任務(Normal)」の報酬量が3倍になるキャンペーンが開催されます！ 1stアニバーサリー記念のこのお得なチャンス！ぜひ生徒さんの装備や、装備の",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1488437090547208194",
+        "start_time": 1643745600,
+        "end_time": 1644091199
+      },
+      {
+        "id": 1001,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁6",
+        "image": "",
+        "body_summary": "[2/1(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the in",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1488395985101352961",
+        "start_time": 1643725020,
+        "end_time": 1643725020
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867723,
+  "time": 1780957828,
   "version": "1.0.0-beta.43"
 }

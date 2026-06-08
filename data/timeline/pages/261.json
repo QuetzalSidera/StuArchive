@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 2872,
-        "line_type": "JP",
-        "title": "违规账号封禁36",
-        "image": "https://static.kivo.wiki/images/timeline/rimzYWkgJjKKFbvbW3NlwiGdHSLQgO32.jpg",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1815552463233220984",
-        "start_time": 1721656800,
-        "end_time": 1721656800
-      },
-      {
-        "id": 2871,
-        "line_type": "JP",
-        "title": "炸服38",
-        "image": "https://static.kivo.wiki/images/timeline/54h0sJu02PFN1CPtisFT5BEpUJ8DWel8.png",
-        "body_summary": "维护开始 【緊急メンテナンス】 先ほどお知らせした「接続不安定について」の現状をご報告させていただきます。 ゲームへの正常なアクセス復旧のため 7月22日　20時33分より 緊急メンテナンスを開始いた",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1815350677994099121",
-        "start_time": 1721647980,
-        "end_time": 1722261540
-      },
       {
         "id": 2862,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=2607184",
         "start_time": 1721638800,
         "end_time": 1721638800
+      },
+      {
+        "id": 2865,
+        "line_type": "JP",
+        "title": "例行维护99",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.8GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 7/22(月) 11",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1815008838938218549",
+        "start_time": 1721617200,
+        "end_time": 1721646000
+      },
+      {
+        "id": 5006,
+        "line_type": "JP",
+        "title": "指名手配3倍#12 课程表3倍#10 学院交流会3倍#10",
+        "image": "https://static.kivo.wiki/images/timeline/Pys5WS9zP2aSLXley00dCfdLGDXvaO6o.png",
+        "body_summary": "【新情報⑫】 そして3.5周年を記念して、「ドロップ量3倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わ",
+        "type": "Double",
+        "url": "x.com/i/status/1814999283944321435",
+        "start_time": 1721592000,
+        "end_time": 1722369599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867455,
+  "time": 1780957540,
   "version": "1.0.0-beta.43"
 }

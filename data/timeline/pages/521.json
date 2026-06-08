@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 176,
-        "line_type": "JP",
-        "title": "市街地戦・ヒエロニムス2",
-        "image": "https://static.kivo.wiki/images/timeline/h3OiRJvJmLDJGi5hKsW3rY8zhQ72EYem.jpg",
-        "body_summary": "【総力戦予告】 先生、大変です！ 先日退けたはずの「市街地戦・ヒエロニムス」が、9月23日(木)に緊急襲来の情報が入りました！ 今回短期決戦のため、報酬の受け取り期間はいつもより短いので、集計後の取り",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1439439377558503425",
-        "start_time": 1632391200,
-        "end_time": 1632671999
-      },
-      {
-        "id": 180,
-        "line_type": "JP",
-        "title": "例行维护24",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/23(木) 12:00 〜 18:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1440556545285058560",
-        "start_time": 1632369600,
-        "end_time": 1632391200
-      },
       {
         "id": 177,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1435792602444427271",
         "start_time": 1631160000,
         "end_time": 1631181600
+      },
+      {
+        "id": 170,
+        "line_type": "JP",
+        "title": "特别依赖2倍#8",
+        "image": "https://static.kivo.wiki/images/timeline/b4rbrhITdutPkW1FSWMojCExOhVIBlLu.jpg",
+        "body_summary": "【キャンペーン予告】 「特別依頼」において「レポート」と「クレジット」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 2021/09/9(木)04:00 ~ 2021/09/",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1434788753680191494",
+        "start_time": 1631131200,
+        "end_time": 1631735999
+      },
+      {
+        "id": 830,
+        "line_type": "Globle",
+        "title": "国际服阿比多斯贺图",
+        "image": "",
+        "body_summary": "That wraps up the Abydos student's intros! Here's a new wallpaper to celebrate! Why not set the Coun",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1433724195700158487",
+        "start_time": 1630661460,
+        "end_time": 1630661460
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867747,
+  "time": 1780957857,
   "version": "1.0.0-beta.43"
 }

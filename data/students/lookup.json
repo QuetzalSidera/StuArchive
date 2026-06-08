@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-06-07T19:21:29Z",
+  "generated_at": "2026-06-08T20:13:39Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 474,
-  "alias_count": 5382,
-  "normalized_alias_count": 3693,
+  "total_items": 472,
+  "alias_count": 5381,
+  "normalized_alias_count": 3692,
   "by_id": {
     "76": {
       "id": 76,
@@ -8013,81 +8013,6 @@
       "profile_path": "students/profiles/315.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/315.json"
     },
-    "584": {
-      "id": 584,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 584,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "Blancat",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20Blancat/original/avatar.png",
-        "school": 30,
-        "main_relation": 131
-      },
-      "detail_path": "students/584.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/584.json",
-      "profile_path": "students/profiles/584.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/584.json"
-    },
-    "586": {
-      "id": 586,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 586,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "Jehyun",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20Jehyun/original/avatar.png",
-        "school": 30,
-        "main_relation": 131
-      },
-      "detail_path": "students/586.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/586.json",
-      "profile_path": "students/profiles/586.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/586.json"
-    },
-    "585": {
-      "id": 585,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 585,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "ramuri",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20ramuri/original/avatar.png",
-        "school": 30,
-        "main_relation": 131
-      },
-      "detail_path": "students/585.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/585.json",
-      "profile_path": "students/profiles/585.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/585.json"
-    },
     "202": {
       "id": 202,
       "source_path": "students/index.json",
@@ -11437,6 +11362,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/307.json",
       "profile_path": "students/profiles/307.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/307.json"
+    },
+    "597": {
+      "id": 597,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 597,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "油桶蟹",
+        "family_name_jp": "",
+        "given_name_jp": "ドラム缶油桶ガ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E6%B2%B9%E6%A1%B6%E8%9F%B9/original/drumbarka.png",
+        "school": 23,
+        "main_relation": 0
+      },
+      "detail_path": "students/597.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/597.json",
+      "profile_path": "students/profiles/597.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/597.json"
     },
     "313": {
       "id": 313,
@@ -27784,15 +27734,6 @@
     "美琴": [
       "315"
     ],
-    "Blancat": [
-      "584"
-    ],
-    "Jehyun": [
-      "586"
-    ],
-    "ramuri": [
-      "585"
-    ],
     "佩洛洛": [
       "202"
     ],
@@ -28843,6 +28784,12 @@
     ],
     "ペロロジラ": [
       "307"
+    ],
+    "油桶蟹": [
+      "597"
+    ],
+    "ドラム缶油桶ガ": [
+      "597"
     ],
     "列车乘务员A": [
       "313"
@@ -39586,15 +39533,6 @@
     "美琴": [
       "315"
     ],
-    "blancat": [
-      "584"
-    ],
-    "jehyun": [
-      "586"
-    ],
-    "ramuri": [
-      "585"
-    ],
     "佩洛洛": [
       "202"
     ],
@@ -40549,6 +40487,12 @@
     ],
     "ペロロジラ": [
       "307"
+    ],
+    "油桶蟹": [
+      "597"
+    ],
+    "ドラム缶油桶ガ": [
+      "597"
     ],
     "列车乘务员a": [
       "313"

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 4554,
-        "line_type": "CN",
-        "title": "星野中秋特别PV【秋星曜野，桂月垂光】",
-        "image": "https://static.kivo.wiki/images/timeline/F5BvgiKnL3bbGE8K0ArX6bp4ccrDFmXK.jpg",
-        "body_summary": "分玉盘酥饵，邀先生赏灯，此间星野正含眸。 https://www.bilibili.com/video/BV1PNnRzcEEC/",
-        "type": "OutsideGames",
-        "url": "www.bilibili.com/video/BV1yNn3z3EjS",
-        "start_time": 1758879010,
-        "end_time": 1758879010
-      },
-      {
-        "id": 4524,
-        "line_type": "CN",
-        "title": "限时复刻招募【无声话语，仿似残荷】＆【无私相助，一曲赞歌】＆【无伪信仰，甘甜果实】",
-        "image": "https://static.kivo.wiki/images/timeline/1Jz53xyy8gnjSDADzzeU0Aeqb3kk0kth.png",
-        "body_summary": "限时复刻招募活动即将开启，请老师不要错过哦！ ■ 招募时间 09月25日 14:00 ~ 10月02日 13:59 ■ 招募内容 • 限时复刻招募【无声话语，仿似残荷】 在本次招募中，3★成员“忧”招",
-        "type": "Gacha",
-        "url": "www.bilibili.com/opus/1115652117066940422?spm_id_from=333.1387.0.0",
-        "start_time": 1758798013,
-        "end_time": 1759399200
-      },
       {
         "id": 4527,
         "line_type": "CN",
@@ -131,11 +109,33 @@
         "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3149584",
         "start_time": 1758693600,
         "end_time": 1758700800
+      },
+      {
+        "id": 4531,
+        "line_type": "JP",
+        "title": "例行维护 #128",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/24(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1970367691241463975",
+        "start_time": 1758682800,
+        "end_time": 1758711600
+      },
+      {
+        "id": 4492,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战：Tiphareth #1",
+        "image": "https://static.kivo.wiki/images/timeline/AWGjprsMBBXcdj8CxiXRSSVGCRzA7jjr.jpg",
+        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - Tiphareth (Defense Type: Elastic Arm",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1968608437497118813",
+        "start_time": 1758682761,
+        "end_time": 1760410761
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867269,
+  "time": 1780957341,
   "version": "1.0.0-beta.43"
 }

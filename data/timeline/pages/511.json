@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 240,
-        "line_type": "JP",
-        "title": "圣诞转推活动",
-        "image": "",
-        "body_summary": "【#クリスマスボックス 第1弾】 先生！ チェリノさんとトモエさんがクリスマスプレゼントを用意してくれたみたいです！🎄 @BlueArchiveJP をフォロー&RTすると、リプライで抽選結果がすぐ届",
-        "type": "WebEvent",
-        "url": "twitter.com/i/status/1467871457661227008",
-        "start_time": 1638376200,
-        "end_time": 1640361599
-      },
-      {
-        "id": 216,
-        "line_type": "JP",
-        "title": "炸服16",
-        "image": "",
-        "body_summary": "【緊急メンテナンス】 ただいまゲームにログインできない不具合が発生しているため、緊急メンテナンスを実施しております。 なお、緊急メンテナンスの終了時刻は、判明次第改めてお知らせいたします。 皆様に多大",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1465884188511404035",
-        "start_time": 1638332580,
-        "end_time": 1638367200
-      },
       {
         "id": 958,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/EN_BlueArchive/status/1464173333235355677",
         "start_time": 1638176400,
         "end_time": 1639450800
+      },
+      {
+        "id": 856,
+        "line_type": "Globle",
+        "title": "国际服卡池 泉奈，静子",
+        "image": "https://static.kivo.wiki/images/timeline/mquuPwLKt6JWwkeny6JnoZFs2v9oFsCQ.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 11/29 (Mon)! Target Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1464172078337347592",
+        "start_time": 1638176400,
+        "end_time": 1639450800
+      },
+      {
+        "id": 854,
+        "line_type": "Globle",
+        "title": "国际服总力战 Shiro & Kuro（Urban）1",
+        "image": "https://static.kivo.wiki/images/timeline/I6vSMAh27jQgzkVhN4qJJVLhjEQmLVY0.png",
+        "body_summary": "[Total Assault Preview] Total Assault - Shiro & Kuro (Urban Warfare) will be held on 11/29 (Mon)! Fo",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1463779492883742724",
+        "start_time": 1638176400,
+        "end_time": 1638802800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867736,
+  "time": 1780957843,
   "version": "1.0.0-beta.43"
 }

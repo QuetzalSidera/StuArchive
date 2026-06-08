@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 468,
-        "line_type": "JP",
-        "title": "晄轮大祭项目推特活动：仮装レース",
-        "image": "",
-        "body_summary": "【#晄輪大祭仮装レース】 先生！ 今回の晄輪大祭の種目は「仮装レース」です！ どのような仮装が出てくるんでしょうか。 楽しみです！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルアカ 【#晄",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1580755272041218048",
-        "start_time": 1665720000,
-        "end_time": 1665720000
-      },
-      {
-        "id": 466,
-        "line_type": "JP",
-        "title": "回忆大厅追加：明日奈",
-        "image": "https://static.kivo.wiki/images/timeline/IoEyOVVM6UvMez8hThIhq3EbO5n142Bi.jpg",
-        "body_summary": "【メモリアルロビー】 メンテナンス終了後より、アスナさんのメモリアルロビーが実装されます！ メモリアルロビー実装に合わせて絆ストーリーも新たに1話追加されますので、ぜひアスナさんとの楽しいひと時をお過",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1580090943277268992",
-        "start_time": 1665565200,
-        "end_time": 1665565200
-      },
       {
         "id": 464,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1578218555664785409",
         "start_time": 1665115200,
         "end_time": 1665115200
+      },
+      {
+        "id": 1206,
+        "line_type": "Globle",
+        "title": "国际服合成机制介绍",
+        "image": "https://static.kivo.wiki/images/timeline/LnUqib5B3ls23g7vg4ZtEau3Nd68Zphd.jpg",
+        "body_summary": "[Craft Update Notice] 10/4 (Tue) Update will add a new 'Material Fusion' feature in the Crafting Cha",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1577976963817385987",
+        "start_time": 1665054007,
+        "end_time": 1665054007
+      },
+      {
+        "id": 1205,
+        "line_type": "Globle",
+        "title": "国际服炸服8",
+        "image": "",
+        "body_summary": "[Emergency Maintenance Notice] Emergency maintenance is on the way to resolve an issue. Maintenance ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1577946834479108096",
+        "start_time": 1665046809,
+        "end_time": 1665052209
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867679,
+  "time": 1780957781,
   "version": "1.0.0-beta.43"
 }

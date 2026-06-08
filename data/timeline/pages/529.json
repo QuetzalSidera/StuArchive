@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 101,
-        "line_type": "JP",
-        "title": "屋外戦・ビナー",
-        "image": "https://static.kivo.wiki/images/timeline/rd4xoJr7956qYaadJbRWHWqcpzDfmj9h.jpg",
-        "body_summary": "【予告】 「屋外戦・ビナー」がまもなく開催されます！ 新難易度「EXTREME」も解放され、腕試しには持って来いですし、また順位に応じて「ビナー(屋外戦)のトロフィー」も獲得できます！ 先生、ぜひ頑張",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1402188932968636417",
-        "start_time": 1623124800,
-        "end_time": 1623859199
-      },
-      {
-        "id": 945,
-        "line_type": "JP",
-        "title": "总力战扫荡、战术对抗战跳过最后一分钟等功能追加",
-        "image": "",
-        "body_summary": "【総力戦】 ・「ロビー」画面、および「お仕事」画面に「総力戦オープン」の通知が表示されるように調整。 ・掃討機能の追加 ※1日1回、特定の難易度をクリアすると当該難易度の残り回数は掃討可能になります。",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622116800,
-        "end_time": 1622116800
-      },
       {
         "id": 944,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/blue_archivejp/status/1397100400520568837?s=46&t=JCAusYy30IlDEGpeUVCB0g",
         "start_time": 1622082624,
         "end_time": 1622082624
+      },
+      {
+        "id": 1803,
+        "line_type": "JP",
+        "title": "指名手配2倍#4",
+        "image": "https://static.kivo.wiki/images/timeline/YzfcPLSbyg1gZ2Eg6kgL9enWZi2fM3cX.png",
+        "body_summary": "（8）育成キャンペーン「指名手配ドロップ量2倍」開催 開催期間：2021年05月27日（木）04:00 〜 2021年06月03日（木）03:59 開催期間中、「指名手配」の報酬アイテムのドロップ量が",
+        "type": "Double",
+        "url": "bluearchive.jp/news/newsJump/129",
+        "start_time": 1622059228,
+        "end_time": 1622663968
+      },
+      {
+        "id": 1812,
+        "line_type": "JP",
+        "title": "特别依赖2倍#5",
+        "image": "https://static.kivo.wiki/images/timeline/ttgxeNFpG9jwD8R4Qs7lWyCEa52UNaq2.png",
+        "body_summary": "（7）育成キャンペーン「特別依頼報酬2倍UP」開催 開催期間：2021年05月27日（木）04:00〜 2021年06月10日（木）03:59 開催期間中、「特別依頼」の報酬アイテムのドロップ量が2倍",
+        "type": "Double",
+        "url": "bluearchive.jp/news/newsJump/129",
+        "start_time": 1622059209,
+        "end_time": 1623268749
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867756,
+  "time": 1780957868,
   "version": "1.0.0-beta.43"
 }

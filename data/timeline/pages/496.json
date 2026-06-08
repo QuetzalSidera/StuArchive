@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 279,
-        "line_type": "JP",
-        "title": "例行维护38",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/9(水) 11:00 〜 17:00前後 ▼詳細 https://b",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1501075250670235648",
-        "start_time": 1646794800,
-        "end_time": 1646816400
-      },
-      {
-        "id": 274,
-        "line_type": "JP",
-        "title": "课程表2倍#1 & 学院交流会2倍#1",
-        "image": "https://static.kivo.wiki/images/timeline/Rxj6vmfIhyfrExr2oXc5U3Ly2lXxE2wH.jpg",
-        "body_summary": "【キャンペーン予告】 3月9日(水)04:00より、「スケジュール」「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ 生徒さんや固有武器の育成素材をたくさん獲得できるチャンスですの",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1499218472550555653",
-        "start_time": 1646769600,
-        "end_time": 1647374399
-      },
       {
         "id": 1044,
         "line_type": "Globle",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1497496939247529985",
         "start_time": 1646164800,
         "end_time": 1646769599
+      },
+      {
+        "id": 1018,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍5",
+        "image": "",
+        "body_summary": "[Double Drop Campaign Preview] From 2/28 (Mon), the amount of rewards dropped in Bounty will be doub",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1497859055934746624",
+        "start_time": 1646074800,
+        "end_time": 1646679597
+      },
+      {
+        "id": 921,
+        "line_type": "JP",
+        "title": "过场插图追加2",
+        "image": "https://static.kivo.wiki/images/timeline/7tkDwrtMzwXzX1arbypu3rHB7ufirOtd.png",
+        "body_summary": "本日はローディングイラスト集後半を公開します！ 2日間に分けて生徒さん達の様々な一面を描いたローディングイラストを公開してきましたが、先生のイチ推しイラストはどちらですか？ これからもをどんどん新たに",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1497043797762805761",
+        "start_time": 1645793085,
+        "end_time": 1645793085
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867719,
+  "time": 1780957823,
   "version": "1.0.0-beta.43"
 }

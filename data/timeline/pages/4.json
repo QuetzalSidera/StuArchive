@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 5454,
-        "line_type": "Globle",
-        "title": "国际服参展Anime Expo 2026",
-        "image": "https://static.kivo.wiki/images/timeline/372AfIPUGOJ8ocvn6Zr8YWhydf8TYoKM.jpg",
-        "body_summary": "Sensei, we are back at Anime Expo! Blue Archive is returning to AX 2026 with a booth, panel session,",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2055317288664850670",
-        "start_time": 1780329600,
-        "end_time": 1780847999
-      },
-      {
-        "id": 5513,
-        "line_type": "Globle",
-        "title": "国际服特别依赖3倍 #15",
-        "image": "https://static.kivo.wiki/images/timeline/hSvNvR5XzlX8EU6vVhiZMsJ94CQMpS5B.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 6/1 (Mon), Commissions rewards will be tripled! Don't miss o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2060620977650692494",
-        "start_time": 1780327796,
-        "end_time": 1780932596
-      },
       {
         "id": 5512,
         "line_type": "Globle",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/2060171774885798162",
         "start_time": 1780025970,
         "end_time": 1780047570
+      },
+      {
+        "id": 5508,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒 #15",
+        "image": "https://static.kivo.wiki/images/timeline/2L2vVkhxdBkmx3mRqjruorlCH2BnYwOq.png",
+        "body_summary": "【制約解除決戦・開催】 先生、制約解除決戦「セトの憤怒」が開催中です。 今回の防御タイプは「特殊装甲」となります。 敵である「セトの憤怒」は、自身のパッシブスキル「黎明を喰らう暴風」で生徒さんのEXス",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2059847259542691954",
+        "start_time": 1779977999,
+        "end_time": 1782310799
+      },
+      {
+        "id": 5498,
+        "line_type": "CN",
+        "title": "【千禧年之塔休息室】咖啡厅套装更新",
+        "image": "https://static.kivo.wiki/images/timeline/20VqgpOQbBWzQesg1JIqodCkhdRISQhD.jpg",
+        "body_summary": "#蔚蓝档案﻿#蔚蓝档案[超话] 全新咖啡厅套装【千禧年之塔休息室】即将更新！ 能原汁原味感受千禧年氛围的休息区家具。欢迎来到尖端科技的学院！ 新家具总计60种，可通过【制造】、【家具自选箱】等方式获取",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/R1kT9Dj25",
+        "start_time": 1779962400,
+        "end_time": 1779962400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867165,
+  "time": 1780957232,
   "version": "1.0.0-beta.43"
 }

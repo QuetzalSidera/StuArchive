@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 112,
-        "line_type": "JP",
-        "title": "卡池「ひたむきな愛で紡いで」",
-        "image": "https://static.kivo.wiki/images/timeline/ezHYpVuytCBPikfGf8mEFEpqt2brn5vX.jpg",
-        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「ひたむきな愛で紡いで」がまもなく開催されます！ 🔷開催期間 2021年6月24日(木) メンテナンス後 ~ 2021年6月30日(水)メンテナン",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1407609647595282437",
-        "start_time": 1624528800,
-        "end_time": 1625025600
-      },
-      {
-        "id": 110,
-        "line_type": "JP",
-        "title": "屋内戦・ヒエロニムス 緊急襲来",
-        "image": "https://static.kivo.wiki/images/timeline/rEUOcwhsbkOVX1NnwwOYbbxVO02URKDE.jpg",
-        "body_summary": "【総力戦予告】 先生、大変です！先日退けたはずの「ヒエロニムス」が再び現れました！！ 今回は緊急襲来により短期決戦です！ いつもとは違いますので、注意してください！ 「屋内戦・ヒエロニムス」6月24日",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1405737560404480006",
-        "start_time": 1624528800,
-        "end_time": 1624809599
-      },
       {
         "id": 113,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1402173828088827909",
         "start_time": 1623268800,
         "end_time": 1623873599
+      },
+      {
+        "id": 101,
+        "line_type": "JP",
+        "title": "屋外戦・ビナー",
+        "image": "https://static.kivo.wiki/images/timeline/rd4xoJr7956qYaadJbRWHWqcpzDfmj9h.jpg",
+        "body_summary": "【予告】 「屋外戦・ビナー」がまもなく開催されます！ 新難易度「EXTREME」も解放され、腕試しには持って来いですし、また順位に応じて「ビナー(屋外戦)のトロフィー」も獲得できます！ 先生、ぜひ頑張",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1402188932968636417",
+        "start_time": 1623124800,
+        "end_time": 1623859199
+      },
+      {
+        "id": 945,
+        "line_type": "JP",
+        "title": "总力战扫荡、战术对抗战跳过最后一分钟等功能追加",
+        "image": "",
+        "body_summary": "【総力戦】 ・「ロビー」画面、および「お仕事」画面に「総力戦オープン」の通知が表示されるように調整。 ・掃討機能の追加 ※1日1回、特定の難易度をクリアすると当該難易度の残り回数は掃討可能になります。",
+        "type": "ContentImprovements",
+        "url": "bluearchive.jp/news/newsJump/129",
+        "start_time": 1622116800,
+        "end_time": 1622116800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867754,
+  "time": 1780957866,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1348,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Head Prefect Hina's Summer Break!」",
-        "image": "https://static.kivo.wiki/images/timeline/RCUNJ6tEirJ7zEkJhbR5H4TaKorGKg5j.jpg",
-        "body_summary": "[Event Preview] Summer has come again to Kivotos. Join in on the Gehenna Prefect Team's Grueling Sum",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1634086687314771968",
-        "start_time": 1678780807,
-        "end_time": 1679364007
-      },
-      {
-        "id": 1349,
-        "line_type": "Globle",
-        "title": "国际服例行维护34",
-        "image": "",
-        "body_summary": "[3/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 3/14 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1634131985416302592",
-        "start_time": 1678759215,
-        "end_time": 1678780815
-      },
       {
         "id": 1350,
         "line_type": "Globle",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/1632969364420046848?s=20",
         "start_time": 1678275937,
         "end_time": 1679485537
+      },
+      {
+        "id": 600,
+        "line_type": "JP",
+        "title": "指名手配2倍#24",
+        "image": "https://static.kivo.wiki/images/timeline/e2JwCYR19KBXh0yfMmQpLM74Qx3OWBup.jpg",
+        "body_summary": "【キャンペーン予告】 3月8日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ オーパーツにBD、技術ノートと、生徒さん達の育成に必要な素材をこの機会に集めて",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1631942650004926465?s=20",
+        "start_time": 1678275778,
+        "end_time": 1678880578
+      },
+      {
+        "id": 599,
+        "line_type": "JP",
+        "title": "联合火力演习13",
+        "image": "https://static.kivo.wiki/images/timeline/jJdWv6Ll4SqM0eae24RXp6YbE5S8AtIV.jpg",
+        "body_summary": "【合同火力演習・予告】 3月8日(水)メンテナンス終了後、合同火力演習「射撃演習」が開始されます！ 今回の特殊ルールでは敵のHPが増加する代わりに、生徒さん達のスキルによる敵への各持続ダメージ効果に、",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1631927509708341248?s=20",
+        "start_time": 1678275707,
+        "end_time": 1678823987
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867645,
+  "time": 1780957745,
   "version": "1.0.0-beta.43"
 }

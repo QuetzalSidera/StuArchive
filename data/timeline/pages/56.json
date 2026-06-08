@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 4961,
-        "line_type": "JP",
-        "title": "例行维护 #134",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 1/20(火) 11:00 〜 19:00前後 ▼詳細 https://bluearc",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2013423785911951705",
-        "start_time": 1768906165,
-        "end_time": 1768906165
-      },
-      {
-        "id": 4971,
-        "line_type": "Globle",
-        "title": "国际服例行维护#102",
-        "image": "https://static.kivo.wiki/images/timeline/VYt6YKzJp7ENkrMDIN59AKPcQjEj5ptB.jpg",
-        "body_summary": "[1/20(Tue) Temporary Maintenace Notice] To improve game stability and performance, a temporary maint",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2013486452433395859",
-        "start_time": 1768888800,
-        "end_time": 1768892400
-      },
       {
         "id": 5000,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/2012793208200376809",
         "start_time": 1768878000,
         "end_time": 1769655599
+      },
+      {
+        "id": 4944,
+        "line_type": "JP",
+        "title": "限定卡池「世界の合理を統べるもの」&「世界の真理に触れるもの」",
+        "image": "https://static.kivo.wiki/images/timeline/ai95m1uboZ3Lqj7WnG3fmZ6T1mgI866R.jpg",
+        "body_summary": "【新情報④】 続いてはこちら！ 「1日1回無料10回募集キャンペーン」と合わせて、期間限定ピックアップ募集「世界の合理を統べるもの」＆「世界の真理に触れるもの」が開催されます！ 🔷開催期間 2026年",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2012781240160788780",
+        "start_time": 1768878000,
+        "end_time": 1769655599
+      },
+      {
+        "id": 4942,
+        "line_type": "JP",
+        "title": "主线剧情Ex. 「デカグラマトン」篇第3章「不離一体の空」Part2更新",
+        "image": "https://static.kivo.wiki/images/timeline/N8NU6elKHPoXgPPjbBiIe7nMixk13o8p.jpg",
+        "body_summary": "【新情報⑧】 さらにさらに、1月20日(火)メンテナンス後には、Ex.「デカグラマトン」編 第3章「不離一体の空」Part2が、 そして1月29日(木) メンテナンス後には、「不離一体の空」Part3",
+        "type": "MainStory",
+        "url": "x.com/Blue_ArchiveJP/status/2012794854481473863",
+        "start_time": 1768878000,
+        "end_time": 1768878000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867222,
+  "time": 1780957292,
   "version": "1.0.0-beta.43"
 }

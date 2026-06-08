@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1803,
-        "line_type": "JP",
-        "title": "指名手配2倍#4",
-        "image": "https://static.kivo.wiki/images/timeline/YzfcPLSbyg1gZ2Eg6kgL9enWZi2fM3cX.png",
-        "body_summary": "（8）育成キャンペーン「指名手配ドロップ量2倍」開催 開催期間：2021年05月27日（木）04:00 〜 2021年06月03日（木）03:59 開催期間中、「指名手配」の報酬アイテムのドロップ量が",
-        "type": "Double",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622059228,
-        "end_time": 1622663968
-      },
-      {
-        "id": 1812,
-        "line_type": "JP",
-        "title": "特别依赖2倍#5",
-        "image": "https://static.kivo.wiki/images/timeline/ttgxeNFpG9jwD8R4Qs7lWyCEa52UNaq2.png",
-        "body_summary": "（7）育成キャンペーン「特別依頼報酬2倍UP」開催 開催期間：2021年05月27日（木）04:00〜 2021年06月10日（木）03:59 開催期間中、「特別依頼」の報酬アイテムのドロップ量が2倍",
-        "type": "Double",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622059209,
-        "end_time": 1623268749
-      },
       {
         "id": 1819,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/blue_archivejp/status/1391664582662397953?s=46&t=JCAusYy30IlDEGpeUVCB0g",
         "start_time": 1620871559,
         "end_time": 1621476359
+      },
+      {
+        "id": 128,
+        "line_type": "JP",
+        "title": "炸服10",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 現在発生している接続問題の修正を行うため、23:10より緊急メンテナンスを実施いたします。 ▼メンテナンス期間 5/12(水) 23:10 〜 5/13（木）8:00 なお、本件",
+        "type": "Maintenance",
+        "url": "x.com/blue_archivejp/status/1392479480799657986?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1620785713,
+        "end_time": 1620872113
+      },
+      {
+        "id": 126,
+        "line_type": "JP",
+        "title": "便利屋68小动画",
+        "image": "",
+        "body_summary": "【#便利屋68アニメ】 「貯めろ！アウトローポイント！」へのご参加ありがとうございました！ アルさんも予算確保ができたようです。 どこから確保してきたんでしょうか？？ 今後も便利屋68にご期待ください",
+        "type": "OutsideGames",
+        "url": "x.com/blue_archivejp/status/1391996492433346564?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1620699036,
+        "end_time": 1620699036
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867757,
+  "time": 1780957869,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1463,
-        "line_type": "Globle",
-        "title": "国际服卡池「Go forth with faith and honor in your heart! Medicine knows no borders!」",
-        "image": "https://static.kivo.wiki/images/timeline/owjVKHYAqOcjlMldbJIGC7tZTJzvILWV.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 7/11 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1677603428543987712",
-        "start_time": 1689040857,
-        "end_time": 1690250397
-      },
-      {
-        "id": 1461,
-        "line_type": "Globle",
-        "title": "国际服例行维护42",
-        "image": "",
-        "body_summary": "[7/11 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 7/11 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1677243556535173123",
-        "start_time": 1689040820,
-        "end_time": 1689062420
-      },
       {
         "id": 1462,
         "line_type": "Globle",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1674251794229379072",
         "start_time": 1688549280,
         "end_time": 1688549280
+      },
+      {
+        "id": 718,
+        "line_type": "JP",
+        "title": "例行维护72（延长）",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/5(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1676108656444837888",
+        "start_time": 1688526000,
+        "end_time": 1688549280
+      },
+      {
+        "id": 713,
+        "line_type": "JP",
+        "title": "任务Normal2倍#27",
+        "image": "https://static.kivo.wiki/images/timeline/1GmLhfTnMNB9ThiR6Zeige9fkjXYCJ8A.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが、7/5(水)より開催します！ ▼開催期間 7/5(水)4:00 〜 7/12(水)3:59 「装備設計図」な",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1675338818210402304",
+        "start_time": 1688500800,
+        "end_time": 1689105599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867617,
+  "time": 1780957716,
   "version": "1.0.0-beta.43"
 }

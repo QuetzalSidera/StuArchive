@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 5156,
-        "line_type": "JP",
-        "title": "联合火力演习 #49",
-        "image": "https://static.kivo.wiki/images/timeline/zPdGiRg4mgLCAa5O0uSsUmN3mcCO4V9V.jpg",
-        "body_summary": "【合同火力演習・予告】 2月25日(水)11:00より、合同火力演習「射撃演習」が開幕します！ 今回の演習では、特殊ルールにより「AR」か「SR」の武器を使用する生徒さんに基礎熟練度が加算されるそうな",
-        "type": "MiniBattle",
-        "url": "x.com/Blue_ArchiveJP/status/2025406091824431467",
-        "start_time": 1771988400,
-        "end_time": 1772567999
-      },
-      {
-        "id": 5171,
-        "line_type": "JP",
-        "title": "特别依赖2倍#65",
-        "image": "https://static.kivo.wiki/images/timeline/IVFjdunkFj5DPC4QkbBdjZYZL2ZJ8MdE.jpg",
-        "body_summary": "【キャンペーン予告】 2月25日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔹開催期間 2026年2月25日(水)4:00 ～ 2026年3月4日(水)",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2025768502418984972",
-        "start_time": 1771963200,
-        "end_time": 1772567999
-      },
       {
         "id": 5130,
         "line_type": "CN",
@@ -131,11 +109,33 @@
         "url": "x.com/EN_BlueArchive/status/2025105708656541988",
         "start_time": 1771873200,
         "end_time": 1772477999
+      },
+      {
+        "id": 5143,
+        "line_type": "Globle",
+        "title": "国际服课程表双倍 #37",
+        "image": "https://static.kivo.wiki/images/timeline/eom3Nc8Z4JskbR4l2bZFBbpeqWjLZgn2.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 2/23 (Mon), Lesson reward will be doubled! Don't miss out on",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2025103191977984082",
+        "start_time": 1771873200,
+        "end_time": 1772477999
+      },
+      {
+        "id": 5145,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习 #44",
+        "image": "https://static.kivo.wiki/images/timeline/T23XzUOqvzsyBhKGTnxvewj46S1vgewG.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Defense Drill) has opened 2/24 (Tue) After ",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2026192872136122819",
+        "start_time": 1771872171,
+        "end_time": 1772520171
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867201,
+  "time": 1780957270,
   "version": "1.0.0-beta.43"
 }

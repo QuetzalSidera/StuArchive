@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 2702,
-        "line_type": "JP",
-        "title": "卡池「司令室より監視員、スライダーに急行を」、「監視員、了解。ドーナッツアイス食べたらね」",
-        "image": "https://static.kivo.wiki/images/timeline/FpObh18zUNWfuA9rUwsb0s0CqjcRVl14.jpg",
-        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「司令室より監視員、スライダーに急行を」&「監視員、了解。ドーナッツアイス食べたらね」を開催します！ 詳細については、下記URLよりご確認ください",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/1805475314858131671",
-        "start_time": 1719399600,
-        "end_time": 1720580399
-      },
-      {
-        "id": 2701,
-        "line_type": "JP",
-        "title": "活动「Say-Bing!」",
-        "image": "https://static.kivo.wiki/images/timeline/9TTZY55j7qvp3AMElfihvpIUtbROpq3t.jpg",
-        "body_summary": "【新情報 ①】 6月26日(水)メンテナンス後、新イベント「Say-Bing!」が開催されます。 今回のイベントでは、生徒「キリノ（水着）」さんをイベント報酬としてお迎えできます♪ 詳しい遊び方や報酬",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1804833214458130854",
-        "start_time": 1719399600,
-        "end_time": 1720580399
-      },
       {
         "id": 2775,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/EN_BlueArchive/status/1805477627605794950",
         "start_time": 1719295207,
         "end_time": 1719295207
+      },
+      {
+        "id": 2721,
+        "line_type": "Globle",
+        "title": "国际服例行维护63",
+        "image": "",
+        "body_summary": "[6/25 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 6/25 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1804076806678405148",
+        "start_time": 1719280800,
+        "end_time": 1719295200
+      },
+      {
+        "id": 2722,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍28",
+        "image": "https://static.kivo.wiki/images/timeline/32mxzMCRWQYEdRa1RH8MLRfxrnFfsiyh.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 6/24 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1804408987930026390",
+        "start_time": 1719255630,
+        "end_time": 1719860430
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867467,
+  "time": 1780957553,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 769,
-        "line_type": "JP",
-        "title": "任务Normal2倍#28",
-        "image": "https://static.kivo.wiki/images/timeline/3xp7DIPfjWzi8QFMZ2dxYIsUxAuzKcsB.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが、9/13(水)より開催します！ ▼開催期間 9/13(水)4:00 〜 9/17(日)3:59 生徒さんの成",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1701430721058107901",
-        "start_time": 1694548800,
-        "end_time": 1694894399
-      },
-      {
-        "id": 1522,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习13",
-        "image": "https://static.kivo.wiki/images/timeline/FKFk8nVGlbgTYkNLBmw0XrSKxhr2MkkX.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Shooting Drill) has opened 9/12 (Tue) 2:00 ",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1701490830392103166",
-        "start_time": 1694484021,
-        "end_time": 1695063621
-      },
       {
         "id": 1675,
         "line_type": "CN",
@@ -131,11 +109,33 @@
         "url": "www.bilibili.com/opus/839193659998994468?spm_id_from=333.999.0.0",
         "start_time": 1694228400,
         "end_time": 1694267111
+      },
+      {
+        "id": 763,
+        "line_type": "JP",
+        "title": "白子小剧场延期",
+        "image": "",
+        "body_summary": "【ショート動画の延期に関するご報告】 毎週月曜日に投稿しているショート動画「ん、先生、ちょっと時間もらうね」につきまして、制作状況の遅延の為、次回の投稿を延期とさせていただきます。 次回の投稿予定日は",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1700026454149624081",
+        "start_time": 1694156460,
+        "end_time": 1694156460
+      },
+      {
+        "id": 1666,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍1",
+        "image": "https://static.kivo.wiki/images/timeline/2PPFj867j1JmAey3lKWNhPuCXD2LIIS5.png",
+        "body_summary": "【任务（普通难度）】掉落量3倍即将开启！请不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【任务（普通难度）】掉落量3倍 ■ 活动时间 09月07日 04:00 ",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/837338234110345220",
+        "start_time": 1694030400,
+        "end_time": 1694375999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867593,
+  "time": 1780957691,
   "version": "1.0.0-beta.43"
 }

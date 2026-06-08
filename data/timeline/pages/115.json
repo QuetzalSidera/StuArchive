@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 4343,
-        "line_type": "JP",
-        "title": "例行维护 #125",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 ただいま、定期メンテナンスを実施しております。 メンテナンス中はゲームをご利用いただくことができませんので、ご注意ください。 終了時間は17:00前後を予定しております。 ▼詳細",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1952912605582156106",
-        "start_time": 1754463076,
-        "end_time": 1754463076
-      },
-      {
-        "id": 4342,
-        "line_type": "JP",
-        "title": "活动「Say-Bing!」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/4eG2ysR1VtXqaBsGWvOAyOZcemHLBXvG.png",
-        "body_summary": "【イベント】「Say-Bing!」紹介 2025-8-5(火) 【イベント概要】 ▼開催期間 2025年8月6日(水) メンテナンス後 ~ 2025年8月13日(水) 10:59 ▼報酬交換期間 20",
-        "type": "Event",
-        "url": "bluearchive.jp/news/newsJump/577",
-        "start_time": 1754462695,
-        "end_time": 1755067495
-      },
       {
         "id": 4340,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/EN_BlueArchive/status/1951179842885460292",
         "start_time": 1754359200,
         "end_time": 1755568799
+      },
+      {
+        "id": 4316,
+        "line_type": "Globle",
+        "title": "国际服卡池「Fashion's not important in emergencies.」",
+        "image": "https://static.kivo.wiki/images/timeline/yrJpsoAfDlr8dhyWpCgx6M0E5zxRBfx2.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 8/5 (Tue)! 💌Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/1951176073254731781",
+        "start_time": 1754359200,
+        "end_time": 1755568799
+      },
+      {
+        "id": 4315,
+        "line_type": "Globle",
+        "title": "国际服活动「Pandemic Hazard: Miraculous Pancake」",
+        "image": "https://static.kivo.wiki/images/timeline/OujywApgbzGbr3NSb7345b2T5hOKDSZO.jpg",
+        "body_summary": "['Pandemic Hazard: Miraculous Pancake' Preview] Juri made pancakes at her part-time job! Surprisingl",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/1951160974138024005",
+        "start_time": 1754359200,
+        "end_time": 1755568799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867288,
+  "time": 1780957364,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1046,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁7",
-        "image": "",
-        "body_summary": "[3/15(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1503621014852235267",
-        "start_time": 1647326205,
-        "end_time": 1647326205
-      },
-      {
-        "id": 1042,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍4 hard2倍4",
-        "image": "",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1502932478352191491",
-        "start_time": 1647284435,
-        "end_time": 1647889175
-      },
       {
         "id": 283,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1499580747027398659",
         "start_time": 1646816400,
         "end_time": 1647359999
+      },
+      {
+        "id": 279,
+        "line_type": "JP",
+        "title": "例行维护38",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/9(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1501075250670235648",
+        "start_time": 1646794800,
+        "end_time": 1646816400
+      },
+      {
+        "id": 274,
+        "line_type": "JP",
+        "title": "课程表2倍#1 & 学院交流会2倍#1",
+        "image": "https://static.kivo.wiki/images/timeline/Rxj6vmfIhyfrExr2oXc5U3Ly2lXxE2wH.jpg",
+        "body_summary": "【キャンペーン予告】 3月9日(水)04:00より、「スケジュール」「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ 生徒さんや固有武器の育成素材をたくさん獲得できるチャンスですの",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1499218472550555653",
+        "start_time": 1646769600,
+        "end_time": 1647374399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867718,
+  "time": 1780957822,
   "version": "1.0.0-beta.43"
 }

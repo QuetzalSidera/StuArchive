@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1081,
-        "line_type": "Globle",
-        "title": " 国际服「Playing Tag at Neverland」活动PV公开",
-        "image": "",
-        "body_summary": "[Event Update Notice] The \"Playing Tag at Neverland\" event has started! Log in and see how Shun sudd",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1516310880446734338",
-        "start_time": 1650351691,
-        "end_time": 1650351691
-      },
-      {
-        "id": 1078,
-        "line_type": "Globle",
-        "title": "国际服卡池「Welcome Sensei, to My secret lab!」",
-        "image": "https://static.kivo.wiki/images/timeline/K1U3RvqwM1lULGE3HKAOZRWkKN4XeYnc.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 4/19 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1515253664394321924",
-        "start_time": 1650351655,
-        "end_time": 1651546855
-      },
       {
         "id": 1076,
         "line_type": "Globle",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/1513351424838868992?s=20",
         "start_time": 1649858419,
         "end_time": 1650463219
+      },
+      {
+        "id": 1074,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍5 hard2倍5",
+        "image": "https://static.kivo.wiki/images/timeline/Fj0xdAPPrZ7OkX1qCkme1t2qqwVtJTQi.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1513079340782612486",
+        "start_time": 1649703627,
+        "end_time": 1650308367
+      },
+      {
+        "id": 315,
+        "line_type": "JP",
+        "title": "任务Hard2倍#13",
+        "image": "https://static.kivo.wiki/images/timeline/UtrtDRglvTORo5u5Wxone8k9uFVOTGvU.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼期間 4月10日(日) 04:00 〜 4月13日(水) 03:59 キャンペーン期間中生徒さ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1512626474171662342?s=20",
+        "start_time": 1649599131,
+        "end_time": 1649858331
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867711,
+  "time": 1780957815,
   "version": "1.0.0-beta.43"
 }

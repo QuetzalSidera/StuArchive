@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 19,
-        "line_type": "JP",
-        "title": "首次直播",
-        "image": "https://static.kivo.wiki/images/timeline/tAMVpCqkKjSQuUZpWHRaalvQ2ctirjwS.png",
-        "body_summary": "【ブルアカ初の生放送】 1/25（月）20時～「着任前説明会～特別生放送～」配信決定！ 先生、待っていてくださいね！ ▼出演者（順不同・敬称略） #小原好美 #小倉唯 #大橋彩香 #三浦千幸 ▼視聴ペ",
-        "type": "Live",
-        "url": "twitter.com/Blue_ArchiveJP/status/1351409102430240768",
-        "start_time": 1611576000,
-        "end_time": 1611582120
-      },
-      {
-        "id": 20,
-        "line_type": "JP",
-        "title": "动画PV公开",
-        "image": "",
-        "body_summary": "【アニメPV公開】 先ほど生放送にてご紹介した ブルーアーカイブのアニメPVを公開しました！ 何気ない日常で、ほんの少しの奇跡を見つける物語 アニメーション制作：Yostar Pictures #ブル",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1353690746134511616",
-        "start_time": 1611538863,
-        "end_time": 1635558063
-      },
       {
         "id": 18,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/1292732439542943744?s=20",
         "start_time": 1597159054,
         "end_time": 1597159054
+      },
+      {
+        "id": 12,
+        "line_type": "JP",
+        "title": "CBT大蛇",
+        "image": "",
+        "body_summary": "【レイド紹介】 先生、ビナーがアビドス砂漠地帯で観測されました！ キヴォトスに出没する、謎の脅威のひとつです！先生、急いでください！ レイドバトル「デカグラマトン-ビナー」は任務3-1をクリアすると参",
+        "type": "Raid",
+        "url": "x.com/blue_archivejp/status/1291947336583622656?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1596847481,
+        "end_time": 1597020281
+      },
+      {
+        "id": 993,
+        "line_type": "JP",
+        "title": "话题趣闻 - 花凛的回忆大厅CG在各群聊中扩散",
+        "image": "https://static.kivo.wiki/images/timeline/DcUnyYWoh9RBgnmeV9V4UGRmUXR7oB1p.png",
+        "body_summary": "随着日服CBT测试的开始，一部分游戏截图也在网络中流传。而其中传播最广的则是花凛的回忆大厅CG，一时间各QQ群聊都在互相询问“这是什么游戏？”",
+        "type": "Trivia",
+        "url": "",
+        "start_time": 1596715202,
+        "end_time": 1596715202
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867768,
+  "time": 1780957882,
   "version": "1.0.0-beta.43"
 }

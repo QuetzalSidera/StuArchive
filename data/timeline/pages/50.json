@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 4997,
-        "line_type": "CN",
-        "title": "庆典招募【此处即为永远的彼方】",
-        "image": "https://static.kivo.wiki/images/timeline/CCJ1jqIVzbJddVuquKEmdb9NmlTVbxhD.png",
-        "body_summary": "\"欢迎连接【什亭之箱】，老师。\" 庆典招募【此处即为永远的彼方】即将开启！在本次招募中，全新3★限定成员\"白子✱恐怖\"登场，且招募概率得到提升！ ■ 招募时间 01月29日 维护结束后 ~ 02月05",
-        "type": "Gacha",
-        "url": "bluearchive-cn.com/news/1680",
-        "start_time": 1769698861,
-        "end_time": 1770303661
-      },
-      {
-        "id": 5025,
-        "line_type": "JP",
-        "title": "例行维护 #135",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 ただいま、定期メンテナンスを実施しております。 メンテナンス中はゲームをご利用いただくことができませんので、ご注意ください。 終了時間は17:00前後を予定しております。 ▼詳細",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2016692967571149231",
-        "start_time": 1769698800,
-        "end_time": 1769720400
-      },
       {
         "id": 4996,
         "line_type": "CN",
@@ -131,11 +109,33 @@
         "url": "www.bilibili.com/opus/1160924540528754728?spm_id_from=333.1365.0.0",
         "start_time": 1769697127,
         "end_time": 1770906727
+      },
+      {
+        "id": 5051,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》特别PV【色彩流转，本真未改】",
+        "image": "https://static.kivo.wiki/images/timeline/pJpYx935sMGiHcR5doPNkzFxyaUGJYsn.jpg",
+        "body_summary": "《蔚蓝档案》特别PV【色彩流转，本真未改】 以忆系心，以爱为锚。不论时空怎样偏移，你仍然是「你」。 蔚蓝档案的微博视频​",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/Qpnujgsoy",
+        "start_time": 1769680800,
+        "end_time": 4102415999
+      },
+      {
+        "id": 5039,
+        "line_type": "JP",
+        "title": " 指名手配3倍 #19 任务normal3倍 #17 任务hard3倍 #17",
+        "image": "https://static.kivo.wiki/images/timeline/B5PIeWopctUNuNWR2ufKB9MUd98tVT3k.jpg",
+        "body_summary": "【キャンペーン予告】 1月29日(木)4:00より、「指名手配」、「任務(Normal)」、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 🔹開催期間 1月29日(木)",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2016346669793869855",
+        "start_time": 1769677200,
+        "end_time": 1770281999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867216,
+  "time": 1780957285,
   "version": "1.0.0-beta.43"
 }

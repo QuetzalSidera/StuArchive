@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 95,
-        "line_type": "JP",
-        "title": "追加月三、新任教师礼包",
-        "image": "",
-        "body_summary": "【新情報③】 あ、もう一枚書類がありました。 なるほど、どうやら4月29日から、購入できる商品が増えるみたいですね！ 新任の先生用のちょっとお手軽なパッケージと、月に何回か割引のパッケージを買えるよう",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1385505418202386433?s=20",
-        "start_time": 1619701174,
-        "end_time": 1619701174
-      },
-      {
-        "id": 94,
-        "line_type": "JP",
-        "title": "降井",
-        "image": "",
-        "body_summary": "【新情報②】 それから、この書類に「よろしくね」というメモが貼られていたので言ってしまうのですが…次のピックアップから生徒さんの呼び出しに必要な「呼び出しポイント」が、何と「300」から「200」にな",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1385503969502392324?s=20",
-        "start_time": 1619701004,
-        "end_time": 1619701004
-      },
       {
         "id": 93,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/1382669311005708289?s=20",
         "start_time": 1618489781,
         "end_time": 1618489781
+      },
+      {
+        "id": 85,
+        "line_type": "JP",
+        "title": "例行维护11",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/15(木) 12:00 〜 18:00 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1382197112826318854?s=20",
+        "start_time": 1618489539,
+        "end_time": 1618489539
+      },
+      {
+        "id": 84,
+        "line_type": "JP",
+        "title": "任务Normal2倍#2",
+        "image": "https://static.kivo.wiki/images/timeline/KkPuclmPj5diHlYPdZ1dqRR7CKUhcdTa.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 4月15日(木)04:00〜4月19日(月)03:59 せっかくの機会ですのでぜ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1381457325190303746?s=20",
+        "start_time": 1618489375,
+        "end_time": 1618834975
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867759,
+  "time": 1780957871,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 4008,
-        "line_type": "JP",
-        "title": "主线剧情Vol.5「百花繚乱」編 第2章「孤独に花を咲かせんとする君へ」前篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/u1Zcnwiv1snSuhCyd1UJnSwgKrmGS5ti.jpg",
-        "body_summary": "【新情報②】 メインストーリーVol.5 「百花繚乱」編 第2章「孤独に花を咲かせんとする君へ」開幕決定です！ 実装日時などの詳細情報はこちらの画像にてご確認ください！",
-        "type": "MainStory",
-        "url": "x.com/Blue_ArchiveJP/status/1924055638696694190",
-        "start_time": 1747821600,
-        "end_time": 1747821600
-      },
-      {
-        "id": 4007,
-        "line_type": "JP",
-        "title": "卡池「乙女よ 忘れたまふことなかれ」&「あさき夢みし 隔てな」",
-        "image": "https://static.kivo.wiki/images/timeline/eIUH2yZKY0iZJ7FJJJTpsNl2slV2cwKc.jpg",
-        "body_summary": "【新情報①】 ピックアップ募集「乙女よ 忘れたまふことなかれ」、「あさき夢みし 隔てな」が開催されます。 🔷開催期間 5/21(水) メンテナンス後 ~ 6/4(水) 10:59",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/1924053876170522665",
-        "start_time": 1747821600,
-        "end_time": 1749005999
-      },
       {
         "id": 4034,
         "line_type": "JP",
@@ -131,11 +109,33 @@
         "url": "x.com/Blue_ArchiveJP/status/1924065368068559240",
         "start_time": 1747571460,
         "end_time": 1747571460
+      },
+      {
+        "id": 4002,
+        "line_type": "JP",
+        "title": "直播「ブルアカらいぶ！みに♪」",
+        "image": "https://static.kivo.wiki/images/timeline/OfwQrIiLRvBI5vA4kMwv0qQA0krGXrm1.png",
+        "body_summary": "【生放送】 5/18(日)19時～ 「ブルアカらいぶ！みに♪」配信決定！ ▼出演者 #坂巻学 #後藤彩佐 #赤羽根健治 ▼視聴ページ https://youtube.com/live/wUZfbIAA",
+        "type": "Live",
+        "url": "x.com/Blue_ArchiveJP/status/1921867960248930700",
+        "start_time": 1747555571,
+        "end_time": 1747555571
+      },
+      {
+        "id": 4023,
+        "line_type": "CN",
+        "title": "炸服#12（3倍掉落活动未按时生效）",
+        "image": "https://static.kivo.wiki/images/timeline/YtcZMjxe3XYpMVlScqdxmHPEtiayQuU8.gif",
+        "body_summary": "“欢迎连接什亭之箱，老师。” 我们收到部分老师发来关于【特别委托】-【信用回收】道具掉落量3倍活动未按时正常生效，并开展了相关问题的核实工作，并已于09:45进行修复，老师们可以正常进行刷取。 对于0",
+        "type": "Maintenance",
+        "url": "weibo.com/6011443154/PrUeFvNS8",
+        "start_time": 1747532700,
+        "end_time": 1747532700
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867322,
+  "time": 1780957405,
   "version": "1.0.0-beta.43"
 }

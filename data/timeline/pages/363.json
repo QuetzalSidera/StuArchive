@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 541,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -12,38 +12,16 @@
       "Gacha": 771,
       "Live": 80,
       "MainStory": 122,
-      "Maintenance": 424,
+      "Maintenance": 423,
       "MiniBattle": 190,
       "Other": 679,
       "OtherStory": 59,
-      "OutsideGames": 825,
+      "OutsideGames": 824,
       "Raid": 243,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
-      {
-        "id": 1621,
-        "line_type": "CN",
-        "title": "战术对抗赛BUG修复",
-        "image": "https://static.kivo.wiki/images/timeline/iqYP0DCjxMIa3jUcaqTIVB2VDxQSoLdq.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈战术对抗赛中出现“部分成员释放技能时位移方向异常”、“胜负结果显示不一致”的问题，在得知该情况后我们已紧急开展核实、修复计划。 经核实，“胜负",
-        "type": "Maintenance",
-        "url": "b23.tv/RvjLq21",
-        "start_time": 1699546200,
-        "end_time": 1699549800
-      },
-      {
-        "id": 1939,
-        "line_type": "CN",
-        "title": "特别委托3倍2",
-        "image": "https://static.kivo.wiki/images/timeline/al0JuzKkoPr7d0Wa21loLVO3WT7B1IUW.jpg",
-        "body_summary": "【特别委托】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【特别委托】掉落量3倍 ■ 活动时间 11月09日 04:00 ~ ",
-        "type": "Double",
-        "url": "weibo.com/6011443154/NrjLRxdxQ",
-        "start_time": 1699530479,
-        "end_time": 1731757679
-      },
       {
         "id": 1953,
         "line_type": "CN",
@@ -131,11 +109,33 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1720682331542085774",
         "start_time": 1699448934,
         "end_time": 1699448934
+      },
+      {
+        "id": 929,
+        "line_type": "JP",
+        "title": "例行维护82",
+        "image": "",
+        "body_summary": "【定期メンテナンス】 ただいま、メンテナンスが終了しました! お礼として下記特別手当をメールにて配布いたします。 メンテ協力のお礼 ・青輝石 × 720 ▼詳細 https://bluearchive",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1722162078700679398",
+        "start_time": 1699448843,
+        "end_time": 1699448843
+      },
+      {
+        "id": 928,
+        "line_type": "JP",
+        "title": "战术对抗战S6开幕",
+        "image": "",
+        "body_summary": "【戦術対抗戦・新シーズン開幕】 メンテナンス終了後より、戦術対抗戦の新シーズンを開幕いたします！ 新シーズン開幕に伴い、現在の順位がリセットされる他、地形も「屋内」へと変更されます。 今回、先生はどの",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1722086848867205543",
+        "start_time": 1699448755,
+        "end_time": 1699448755
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1780867568,
+  "time": 1780957666,
   "version": "1.0.0-beta.43"
 }
