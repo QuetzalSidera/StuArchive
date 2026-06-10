@@ -7,13 +7,13 @@
     "api_path": "/data/spines/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/"
   },
-  "generated_at": "2026-06-09T20:06:31Z",
+  "generated_at": "2026-06-10T20:29:05Z",
   "list_key": "spine",
   "id_key": "id",
   "max_page": 158,
   "synced_pages": 158,
-  "total_items": 1577,
-  "details_synced": 1577,
+  "total_items": 1578,
+  "details_synced": 1578,
   "details_enabled": true,
   "items": [
     {
@@ -9477,6 +9477,12 @@
       "name": "citizen_borot2_spr_HD",
       "remark": "初始立绘",
       "type": "spr"
+    },
+    {
+      "id": 1698,
+      "name": "CH0303_home",
+      "remark": "",
+      "type": "home"
     }
   ],
   "pages": [
@@ -10584,7 +10590,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/?page=158",
       "path": "spines/pages/158.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/158.json",
-      "item_count": 7
+      "item_count": 8
     }
   ],
   "details": [
@@ -20049,13 +20055,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1697",
       "path": "spines/1697.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1697.json"
+    },
+    {
+      "id": 1698,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1698",
+      "path": "spines/1698.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1698.json"
     }
   ],
   "lookup": {
     "path": "spines/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/lookup.json",
-    "alias_count": 1574,
-    "normalized_alias_count": 1574,
-    "total_items": 1577
+    "alias_count": 1575,
+    "normalized_alias_count": 1575,
+    "total_items": 1578
   }
 }

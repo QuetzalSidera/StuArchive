@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 571,
+        "line_type": "JP",
+        "title": "2周年声优寄语",
+        "image": "https://static.kivo.wiki/images/timeline/hPAOvSVAfByf6lSgFzUTu3M9S0w8XbzM.png",
+        "body_summary": "【2周年コメント①】 先生！ブルーアーカイブ2周年を記念して、 #涼本あきほ さん #夏吉ゆうこ さん #本渡楓 さん #東山奈央 さん からお祝いコメントをいただきました！ ▼動画はこちら http",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1619621370207371264",
+        "start_time": 1674986400,
+        "end_time": 1675504800
+      },
       {
         "id": 570,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1618073705393033217",
         "start_time": 1674558000,
         "end_time": 1674558000
-      },
-      {
-        "id": 563,
-        "line_type": "JP",
-        "title": "2周年登录奖励",
-        "image": "https://static.kivo.wiki/images/timeline/TwhpFv0Sr1hEhkqwuJWKgDAsS9M4X8Vr.jpg",
-        "body_summary": "【お知らせ】 メンテナンス終了後より「2nd ANNIVERSARY ログインボーナス」が開催されます！ 開催期間中、毎日のログインで家具モーション付き限定家具「ティーパーティーテーブル」の他、「10",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1617764227858706433",
-        "start_time": 1674558000,
-        "end_time": 1677034799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043804,
+  "time": 1781130906,
   "version": "1.0.0-beta.43"
 }

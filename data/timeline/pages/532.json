@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 94,
+        "line_type": "JP",
+        "title": "降井",
+        "image": "",
+        "body_summary": "【新情報②】 それから、この書類に「よろしくね」というメモが貼られていたので言ってしまうのですが…次のピックアップから生徒さんの呼び出しに必要な「呼び出しポイント」が、何と「300」から「200」にな",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1385503969502392324?s=20",
+        "start_time": 1619701004,
+        "end_time": 1619701004
+      },
       {
         "id": 93,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1382197112826318854?s=20",
         "start_time": 1618489539,
         "end_time": 1618489539
-      },
-      {
-        "id": 84,
-        "line_type": "JP",
-        "title": "任务Normal2倍#2",
-        "image": "https://static.kivo.wiki/images/timeline/KkPuclmPj5diHlYPdZ1dqRR7CKUhcdTa.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 4月15日(木)04:00〜4月19日(月)03:59 せっかくの機会ですのでぜ",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1381457325190303746?s=20",
-        "start_time": 1618489375,
-        "end_time": 1618834975
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043921,
+  "time": 1781131014,
   "version": "1.0.0-beta.43"
 }

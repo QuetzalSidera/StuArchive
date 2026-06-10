@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5036,
+        "line_type": "Globle",
+        "title": "国际服任务Hard2倍 #42",
+        "image": "https://static.kivo.wiki/images/timeline/FhEjNxrnSfw0K6WxsKBEC4URy054bvRR.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2017495563223048558",
+        "start_time": 1770058800,
+        "end_time": 1770663599
+      },
       {
         "id": 5035,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2017206156385804728",
         "start_time": 1769821200,
         "end_time": 1769821200
-      },
-      {
-        "id": 5174,
-        "line_type": "JP",
-        "title": "5周年倒计时贺图",
-        "image": "https://static.kivo.wiki/images/timeline/AsTB0Kggs9aqoxQDfGYhwforb94pXoJp.jpg",
-        "body_summary": "【5周年お祝いイラスト①】 本日から5th Anniversaryを記念して、様々な方からいただいたお祝いイラスト5枚を公開していきます！ 第1弾は玩具店老板( @Bushiyulu )先生からいただ",
-        "type": "OutsideGames",
-        "url": "",
-        "start_time": 1769785272,
-        "end_time": 1770130872
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043324,
+  "time": 1781130467,
   "version": "1.0.0-beta.43"
 }

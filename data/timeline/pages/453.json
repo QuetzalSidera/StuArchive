@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1247,
+        "line_type": "Globle",
+        "title": "国际服例行维护26",
+        "image": "",
+        "body_summary": "[11/15 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/15 ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1591989304326332416",
+        "start_time": 1668477648,
+        "end_time": 1668495648
+      },
       {
         "id": 1222,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1589090380804341761",
         "start_time": 1667937600,
         "end_time": 1668542399
-      },
-      {
-        "id": 1241,
-        "line_type": "Globle",
-        "title": "国际服主线关卡开放：Area18",
-        "image": "https://static.kivo.wiki/images/timeline/0YeEC7OARkQtlLc6hhhxXFbeLm91arMu.jpg",
-        "body_summary": "[New Mission Available Notice] Check out Mission Area 18 in the 11/8 (Tue) update. Acquire Advanced ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1590267956944052227",
-        "start_time": 1667898059,
-        "end_time": 1667898059
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043824,
+  "time": 1781130924,
   "version": "1.0.0-beta.43"
 }

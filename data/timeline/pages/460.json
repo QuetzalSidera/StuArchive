@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 466,
+        "line_type": "JP",
+        "title": "回忆大厅追加：明日奈",
+        "image": "https://static.kivo.wiki/images/timeline/IoEyOVVM6UvMez8hThIhq3EbO5n142Bi.jpg",
+        "body_summary": "【メモリアルロビー】 メンテナンス終了後より、アスナさんのメモリアルロビーが実装されます！ メモリアルロビー実装に合わせて絆ストーリーも新たに1話追加されますので、ぜひアスナさんとの楽しいひと時をお過",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1580090943277268992",
+        "start_time": 1665565200,
+        "end_time": 1665565200
+      },
       {
         "id": 464,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1577976963817385987",
         "start_time": 1665054007,
         "end_time": 1665054007
-      },
-      {
-        "id": 1205,
-        "line_type": "Globle",
-        "title": "国际服炸服8",
-        "image": "",
-        "body_summary": "[Emergency Maintenance Notice] Emergency maintenance is on the way to resolve an issue. Maintenance ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1577946834479108096",
-        "start_time": 1665046809,
-        "end_time": 1665052209
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043832,
+  "time": 1781130931,
   "version": "1.0.0-beta.43"
 }

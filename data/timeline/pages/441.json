@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1305,
+        "line_type": "Globle",
+        "title": "国际服关于联合作战的介绍",
+        "image": "https://static.kivo.wiki/images/timeline/i7rOjz5dlKQJYe537CyYSBd1WKWXNC9i.jpg",
+        "body_summary": "[Allied Operation Guide] Complete battles via Allied Operations to deal damage to the boss's Total H",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1615997620660408320",
+        "start_time": 1674118829,
+        "end_time": 1674118829
+      },
       {
         "id": 1303,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1614517871526248449",
         "start_time": 1673942404,
         "end_time": 1674500344
-      },
-      {
-        "id": 1301,
-        "line_type": "Globle",
-        "title": "国际服「Abydos Resort Restoration Task Force」活动PV公开",
-        "image": "",
-        "body_summary": "[Update Notice] The Abydos Resort Restoration Task Force event is here! Can the Task Force protect t",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1615251449906176001",
-        "start_time": 1673940900,
-        "end_time": 1673940900
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043808,
+  "time": 1781130910,
   "version": "1.0.0-beta.43"
 }

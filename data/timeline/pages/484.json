@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 348,
+        "line_type": "JP",
+        "title": "主线关卡开放：Area19",
+        "image": "https://static.kivo.wiki/images/timeline/cKcGhtagy62IwbRF3PZeDRCqkDEc1bWd.jpg",
+        "body_summary": "【エリア解放予告】 「任務 Area19」がメンテナンス後より解放されます！ 「Area19」では新たに「T7装備」が獲得できるほか、「任務 Hard」19-3では一定確率でイズナさんの「神名文字」が",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1529024465010839553?s=20",
+        "start_time": 1653390000,
+        "end_time": 1653390000
+      },
       {
         "id": 1106,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1524313365073432576",
         "start_time": 1652770825,
         "end_time": 1653317965
-      },
-      {
-        "id": 1104,
-        "line_type": "Globle",
-        "title": "国际服网页活动「Send a MOMO TALK to cheer on THE BUNNY CHASERS!」",
-        "image": "https://static.kivo.wiki/images/timeline/gXx6N4gT3ismY2irpSSTV0tmBSRwZO1c.jpg",
-        "body_summary": "The first merch bundle of Blue Archive 0.5-Year Anniversary Festival Celebration is out now! Will yo",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1526431065149124608",
-        "start_time": 1652764532,
-        "end_time": 1652764532
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043862,
+  "time": 1781130959,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3135,
+        "line_type": "CN",
+        "title": "官方频道金秋专属福利",
+        "image": "https://static.kivo.wiki/images/timeline/c7HgDzpaenGQlGX4H4tvvscqyljgDY2O.jpg",
+        "body_summary": "老师！《蔚蓝档案》官方频道金秋专属福利活动现已开启！ 前往活动页即可参与限时签到活动，获取丰富养成素材~ ■ 活动时间 2024年09月26日 至 2024年10月16日 23:59 ■ 活动入口 前",
+        "type": "WebEvent",
+        "url": "weibo.com/6011443154/OyLsfmyCQ",
+        "start_time": 1727280000,
+        "end_time": 1729094340
+      },
       {
         "id": 3126,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1838445348496289840",
         "start_time": 1727172000,
         "end_time": 1727172000
-      },
-      {
-        "id": 3202,
-        "line_type": "Globle",
-        "title": "国际服「Rowdy and Cheery」活动PV公开",
-        "image": "",
-        "body_summary": "[Event Story Update Notice] The \"Rowdy and Cheery\" Event Story has begun! The Gehenna students embar",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/1838447557057614280",
-        "start_time": 1727155020,
-        "end_time": 1727155020
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043554,
+  "time": 1781130678,
   "version": "1.0.0-beta.43"
 }

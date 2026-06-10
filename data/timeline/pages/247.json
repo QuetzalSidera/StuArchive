@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3005,
+        "line_type": "Globle",
+        "title": "国际服例行维护67",
+        "image": "",
+        "body_summary": "[8/20 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/20 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1824370515169120477",
+        "start_time": 1724119202,
+        "end_time": 1724137202
+      },
       {
         "id": 3006,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/973",
         "start_time": 1723701659,
         "end_time": 1724292000
-      },
-      {
-        "id": 2961,
-        "line_type": "CN",
-        "title": "限时招募【明朝和煦，梅香满园】 & 限时招募【全年无休 沉迷研啾！】 & 限时招募【守护，终将化作未来】",
-        "image": "https://static.kivo.wiki/images/timeline/g9ZF1FaGgB1dBRSgVtVRByx1yH9YUHLw.jpg",
-        "body_summary": "限时招募活动即将开启，请老师不要错过哦！ ■ 招募时间 08月15日 14:00 ~ 08月22日 维护开始前 ■ 招募内容 • 限时招募【明朝和煦，梅香满园】 在本次招募中，3★成员“瞬”的招募概率",
-        "type": "Gacha",
-        "url": "weibo.com/6011443154/OrD7ApImE",
-        "start_time": 1723701618,
-        "end_time": 1724292018
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043569,
+  "time": 1781130691,
   "version": "1.0.0-beta.43"
 }

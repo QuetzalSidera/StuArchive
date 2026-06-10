@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1067,
+        "line_type": "Globle",
+        "title": "国际服愚人节特别礼物",
+        "image": "https://static.kivo.wiki/images/timeline/n3KcERpMLsQ60MuRF283qzutBrzVBYWQ.jpg",
+        "body_summary": "[Schale's April Fools Special Gift] Peroperopero! What a pero-worthy prank! 3 cheers for our idols! ",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1509731024011411456",
+        "start_time": 1648782900,
+        "end_time": 1648782900
+      },
       {
         "id": 1060,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1506590807947563009",
         "start_time": 1648037760,
         "end_time": 1648037760
-      },
-      {
-        "id": 292,
-        "line_type": "JP",
-        "title": "引导任务「シャーレの任務ガイド」",
-        "image": "https://static.kivo.wiki/images/timeline/kALPEJZaoV6hE2OJNyHTulD7skN3wkYb.jpg",
-        "body_summary": "【ガイドミッション】 今回のメンテナンス後、イベントミッション「シャーレの任務ガイド」が開始します。 期間中ミッションクリアで、育成素材やサキさんのモーション付きの家具などの報酬が獲得できるほか、イベ",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1506526420050509827",
-        "start_time": 1648033200,
-        "end_time": 1650470399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043871,
+  "time": 1781130968,
   "version": "1.0.0-beta.43"
 }

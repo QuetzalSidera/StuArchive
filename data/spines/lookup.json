@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-06-09T20:06:31Z",
+  "generated_at": "2026-06-10T20:29:05Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1577,
-  "alias_count": 1574,
-  "normalized_alias_count": 1574,
+  "total_items": 1578,
+  "alias_count": 1575,
+  "normalized_alias_count": 1575,
   "by_id": {
     "1": {
       "id": 1,
@@ -20513,6 +20513,19 @@
       },
       "detail_path": "spines/1697.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1697.json"
+    },
+    "1698": {
+      "id": 1698,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1698,
+        "name": "CH0303_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1698.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1698.json"
     }
   },
   "by_alias": {
@@ -25240,6 +25253,9 @@
     ],
     "citizen_borot2_spr_HD": [
       "1697"
+    ],
+    "CH0303_home": [
+      "1698"
     ]
   },
   "by_normalized_alias": {
@@ -29967,6 +29983,9 @@
     ],
     "citizen_borot2_spr_hd": [
       "1697"
+    ],
+    "ch0303_home": [
+      "1698"
     ]
   }
 }

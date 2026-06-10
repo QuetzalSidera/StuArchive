@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2966,
+        "line_type": "Globle",
+        "title": "国际服例行维护66",
+        "image": "",
+        "body_summary": "[8/6 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/6 (Tue). 🗓️Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1819297095247106106",
+        "start_time": 1722909604,
+        "end_time": 1722927604
+      },
       {
         "id": 2904,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1819569396479938693",
         "start_time": 1722711600,
         "end_time": 1722970799
-      },
-      {
-        "id": 2947,
-        "line_type": "CN",
-        "title": "玛丽（体操服）好感提升异常问题补偿方案",
-        "image": "https://static.kivo.wiki/images/timeline/oIlkDLJmwXDtbY7W5eXVd7AvRJPCTBWu.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们已于 08月03日 14:00 进行一次在线更新，重新登录游戏即可获取最新的更新资源。 以下是本次在线更新的详细内容： ■ 更新时间 08月03日 14:00 ■",
-        "type": "Other",
-        "url": "weibo.com/6011443154/OqCzDANi3",
-        "start_time": 1722703617,
-        "end_time": 1722703617
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043575,
+  "time": 1781130697,
   "version": "1.0.0-beta.43"
 }

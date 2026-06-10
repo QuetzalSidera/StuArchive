@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 450,
+        "line_type": "JP",
+        "title": "Area20开放",
+        "image": "https://static.kivo.wiki/images/timeline/LVJFVdy6O49sX8f9k2OHGc5VGWkB4L72.jpg",
+        "body_summary": "【エリア解放予告】 メンテナンス終了後、「任務 Area20」が開放されます！ 「Area20」では新たな「T7装備」が獲得できる他、「任務 Hard」20-3では一定確率でイオリさんの「神名文字」が",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1575002401614213121",
+        "start_time": 1664362800,
+        "end_time": 1664362800
+      },
       {
         "id": 449,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1574579579401826305",
         "start_time": 1664244039,
         "end_time": 1664244039
-      },
-      {
-        "id": 1195,
-        "line_type": "Globle",
-        "title": "国际服任务normal3倍2 hard3倍2",
-        "image": "https://static.kivo.wiki/images/timeline/UtT5ZCN7gS0pvXIhBAMV0LFF44iuoC2p.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions will be tripled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1573930301256077315",
-        "start_time": 1664218836,
-        "end_time": 1664823576
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043836,
+  "time": 1781130935,
   "version": "1.0.0-beta.43"
 }

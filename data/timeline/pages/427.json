@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 612,
+        "line_type": "JP",
+        "title": "例行维护65",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/22(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1638057908037636097?s=20",
+        "start_time": 1679486541,
+        "end_time": 1679486541
+      },
       {
         "id": 611,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1637015991384256513",
         "start_time": 1679364035,
         "end_time": 1679968775
-      },
-      {
-        "id": 1354,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习7",
-        "image": "https://static.kivo.wiki/images/timeline/zH4uFl55QV5reSxERA3kXVIjYDUC7j8e.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Shooting Drill) has opened, at 02:00 AM on ",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1637997457983373313",
-        "start_time": 1679364003,
-        "end_time": 1679943543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043791,
+  "time": 1781130894,
   "version": "1.0.0-beta.43"
 }

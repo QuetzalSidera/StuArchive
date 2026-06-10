@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 274,
+        "line_type": "JP",
+        "title": "课程表2倍#1 & 学院交流会2倍#1",
+        "image": "https://static.kivo.wiki/images/timeline/Rxj6vmfIhyfrExr2oXc5U3Ly2lXxE2wH.jpg",
+        "body_summary": "【キャンペーン予告】 3月9日(水)04:00より、「スケジュール」「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ 生徒さんや固有武器の育成素材をたくさん獲得できるチャンスですの",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1499218472550555653",
+        "start_time": 1646769600,
+        "end_time": 1647374399
+      },
       {
         "id": 1044,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1497859055934746624",
         "start_time": 1646074800,
         "end_time": 1646679597
-      },
-      {
-        "id": 921,
-        "line_type": "JP",
-        "title": "过场插图追加2",
-        "image": "https://static.kivo.wiki/images/timeline/7tkDwrtMzwXzX1arbypu3rHB7ufirOtd.png",
-        "body_summary": "本日はローディングイラスト集後半を公開します！ 2日間に分けて生徒さん達の様々な一面を描いたローディングイラストを公開してきましたが、先生のイチ推しイラストはどちらですか？ これからもをどんどん新たに",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1497043797762805761",
-        "start_time": 1645793085,
-        "end_time": 1645793085
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043877,
+  "time": 1781130972,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2722,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍28",
+        "image": "https://static.kivo.wiki/images/timeline/32mxzMCRWQYEdRa1RH8MLRfxrnFfsiyh.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 6/24 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1804408987930026390",
+        "start_time": 1719255630,
+        "end_time": 1719860430
+      },
       {
         "id": 2780,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1804856500440956994",
         "start_time": 1719106680,
         "end_time": 1719106680
-      },
-      {
-        "id": 4170,
-        "line_type": "Other",
-        "title": "2024年基沃托斯古书馆建设报告",
-        "image": "https://static.kivo.wiki/images/timeline/3lNZqRHymw94mqj6fYIhqW2CgfTBXF1U.jpg",
-        "body_summary": "网址：https://kivo.wiki/ 　　一年前的今天，古书馆迎来了一次彻底的翻新，从旧站中重生。如果说10月26日是古书馆的「Birthday」，那么今天便是古书馆的「Rebirthday」。",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/945324024188108837",
-        "start_time": 1718983116,
-        "end_time": 1718983116
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043602,
+  "time": 1781130721,
   "version": "1.0.0-beta.43"
 }

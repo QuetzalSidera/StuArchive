@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1093,
+        "line_type": "Globle",
+        "title": "国际服「Bunny Chasers on Board」活动青辉石礼物",
+        "image": "https://static.kivo.wiki/images/timeline/RwkTch8AdNBwot0eglO6xkrKAJySF1FJ.jpg",
+        "body_summary": "[Bunny Chasers on Board Celebration Gift] Sensei, Schale prepared a celebration gift for the new eve",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1521400416889671680",
+        "start_time": 1651564834,
+        "end_time": 1651564834
+      },
       {
         "id": 1091,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1517065632751427584?s=20",
         "start_time": 1651068590,
         "end_time": 1651673390
-      },
-      {
-        "id": 1085,
-        "line_type": "Globle",
-        "title": "国际服巴哈姆特获奖特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/XewBUctrWJRCh1Hce4vpujSJioXxiu13.jpg",
-        "body_summary": "[Bahamut Award Celebratory Special Gift] We won a bronze award in Taiwan’s biggest game website, Bah",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1518783171323596801",
-        "start_time": 1650941133,
-        "end_time": 1650941133
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043865,
+  "time": 1781130962,
   "version": "1.0.0-beta.43"
 }

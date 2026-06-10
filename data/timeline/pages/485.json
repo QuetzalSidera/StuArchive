@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1104,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Send a MOMO TALK to cheer on THE BUNNY CHASERS!」",
+        "image": "https://static.kivo.wiki/images/timeline/gXx6N4gT3ismY2irpSSTV0tmBSRwZO1c.jpg",
+        "body_summary": "The first merch bundle of Blue Archive 0.5-Year Anniversary Festival Celebration is out now! Will yo",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1526431065149124608",
+        "start_time": 1652764532,
+        "end_time": 1652764532
+      },
       {
         "id": 1103,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1523226329898164224?s=20",
         "start_time": 1652282920,
         "end_time": 1652887720
-      },
-      {
-        "id": 331,
-        "line_type": "JP",
-        "title": "社团剧情「忍術研究部」追加",
-        "image": "https://static.kivo.wiki/images/timeline/YgQhQXW4qlylBwdkQb8zI5gT1WmM06Y1.jpg",
-        "body_summary": "【サブストーリー】 5月11日(水)メンテナンス後より、日々のサークル活動での日常を描いたサブストーリー「忍術研究部」が新たに追加されますので、ぜひお楽しみください♪ ※サブストーリー解放のためには「",
-        "type": "OtherStory",
-        "url": "x.com/Blue_ArchiveJP/status/1523135822681501696?s=20",
-        "start_time": 1652282811,
-        "end_time": 1652282811
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043863,
+  "time": 1781130960,
   "version": "1.0.0-beta.43"
 }

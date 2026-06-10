@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4146,
+        "line_type": "JP",
+        "title": "活动「百ヨリ出ズル一輪ノ　〜いざ尋常に、水上勝負〜」动画PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/oeeDqCBNfrdDmZDbjM34FPi4OSO5tSaS.jpg",
+        "body_summary": "【イベントアニメPV公開】 先生！ 新イベントのアニメPVが公開されました！ 百鬼夜行のお祭り「百夜水上祭」が開催されるようです！ 私も一緒に海で遊びたいです！ アニメーション制作：Yostar Pi",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1936398614848581894",
+        "start_time": 1750511940,
+        "end_time": 1750511940
+      },
       {
         "id": 4147,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1448",
         "start_time": 1750336842,
         "end_time": 1750336842
-      },
-      {
-        "id": 4117,
-        "line_type": "CN",
-        "title": "【购物中心】咖啡厅套装更新",
-        "image": "https://static.kivo.wiki/images/timeline/tdfSZDOlubEjvSkAnUKg1iX3Nw131hnZ.jpg",
-        "body_summary": "全新咖啡厅套装【购物中心】即将更新！ 新家具总计46种，可通过【制造】、【家具自选箱】等方式获取！ ■ 套装更新时间 06月19日 维护结束后 ※【购物中心】家具套装具体信息可通过官网或游戏内公告查看",
-        "type": "ContentImprovements",
-        "url": "bluearchive-cn.com/news/1449",
-        "start_time": 1750336507,
-        "end_time": 1750336507
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043432,
+  "time": 1781130565,
   "version": "1.0.0-beta.43"
 }

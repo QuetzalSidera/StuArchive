@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4045,
+        "line_type": "Globle",
+        "title": "国际服学院交流会2倍 #28",
+        "image": "https://static.kivo.wiki/images/timeline/wrJ0LbCMwTNpwdu2ifgLCbbLSKqZ5O8e.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 5/26 (Mon), Scrimmage reward will be doubled! Don't miss out",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1926173947902431685",
+        "start_time": 1748341931,
+        "end_time": 1748946731
+      },
       {
         "id": 4044,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1420",
         "start_time": 1748084400,
         "end_time": 1749121140
-      },
-      {
-        "id": 4029,
-        "line_type": "CN",
-        "title": "限时复刻网页活动【优香的无尽飞跃】",
-        "image": "https://static.kivo.wiki/images/timeline/fc2w1NOBmzgU2jYQtWZr1ac0aA9h0lZT.png",
-        "body_summary": "限时复刻网页活动【优香的无尽飞跃】即将开启！ ■ 活动时间 2025年05月24日 14:00 ~ 06月05日 03:59 ■ 活动规则 • 游戏过程中，老师需要操作优香进行飞跃，飞跃距离越远，最终",
-        "type": "WebEvent",
-        "url": "www.bilibili.com/opus/1069745788617228290?spm_id_from=333.1387.0.0",
-        "start_time": 1748084400,
-        "end_time": 1749085140
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043442,
+  "time": 1781130575,
   "version": "1.0.0-beta.43"
 }

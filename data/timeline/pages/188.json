@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3589,
+        "line_type": "Globle",
+        "title": "国际服活动「Sheside outside」",
+        "image": "https://static.kivo.wiki/images/timeline/oz0pacGDyHmUC03ublGpj8TlocYtpIIM.jpg",
+        "body_summary": "['Sheside outside' Event Notice] Sensei, the 'Sheside outside' event is now live! How about heading ",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/1882342506115027341",
+        "start_time": 1737626400,
+        "end_time": 1738807200
+      },
       {
         "id": 3588,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/PaSDVcKdB",
         "start_time": 1737601200,
         "end_time": 1737601200
-      },
-      {
-        "id": 3594,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #77",
-        "image": "",
-        "body_summary": "[1/23 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 1/23 (Thu). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1881265414526640299",
-        "start_time": 1737597600,
-        "end_time": 1737619200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043497,
+  "time": 1781130624,
   "version": "1.0.0-beta.43"
 }

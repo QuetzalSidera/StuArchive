@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4826,
+        "line_type": "CN",
+        "title": "任务（困难难度）2倍 #22",
+        "image": "https://static.kivo.wiki/images/timeline/BzBZwktqI6ZHjEIDSgjzLyN6YjGRBpXD.jpg",
+        "body_summary": "【任务（困难难度）】道具掉落量2倍 ■ 活动时间： • 01月05日 04:00 ~ 01月08日 03:59 活动期间，完成【任务（困难难度）】时，获得的道具掉落奖励数量变为2倍。",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/1147194356862550018",
+        "start_time": 1767540382,
+        "end_time": 1767799582
+      },
       {
         "id": 4875,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1152435934946394153?spm_id_from=333.1387.0.0",
         "start_time": 1767265200,
         "end_time": 1767265200
-      },
-      {
-        "id": 4877,
-        "line_type": "CN",
-        "title": "活动【不忍之心】常驻化更新",
-        "image": "https://static.kivo.wiki/images/timeline/frcVmqRsNJ3P7aAWloPtJTXCIUSeZnwq.png",
-        "body_summary": "老师！活动【不忍之心】现已常驻化更新！ 忍术研究部为了被认定为正式社团，和老师一起接受了委托，帮助举办百鬼夜行和歌赫娜的学院交流会。 她们究竟能不能解决一路上遇到的各种难题，成为正式社团呢？",
-        "type": "Event",
-        "url": "www.bilibili.com/opus/1152807020164808728?spm_id_from=333.1387.0.0",
-        "start_time": 1767265200,
-        "end_time": 1767265200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043341,
+  "time": 1781130482,
   "version": "1.0.0-beta.43"
 }

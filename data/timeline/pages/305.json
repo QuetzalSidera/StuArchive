@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2426,
+        "line_type": "CN",
+        "title": "例行维护14",
+        "image": "https://static.kivo.wiki/images/timeline/yXe7djdV182cKxf9H42zLGkZ0NDDW373.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月04日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405019104414400858",
+        "start_time": 1712210435,
+        "end_time": 1712224835
+      },
       {
         "id": 2406,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1773590918274408699",
         "start_time": 1712048459,
         "end_time": 1713232799
-      },
-      {
-        "id": 2370,
-        "line_type": "Globle",
-        "title": "国际服卡池「Wa ha ha ha ha!! Embrace a life of hot springs development! You'll learn to love it!」",
-        "image": "https://static.kivo.wiki/images/timeline/kUASVf8AXYsM4kNGSiNB3rYB9gok2aAv.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 4/2 (Tue)! Pick-Up Student: 3★",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1773594688907284897",
-        "start_time": 1712048445,
-        "end_time": 1713232785
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043641,
+  "time": 1781130756,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5233,
+        "line_type": "Globle",
+        "title": "国际服学院交流会2倍 #37",
+        "image": "https://static.kivo.wiki/images/timeline/otCTVoHHBypaaICpBArSOxHwUkywMgfG.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 3/23 (Mon), Scrimmage reward will be doubled! Don't miss out",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2035252568834941113",
+        "start_time": 1774292400,
+        "end_time": 1774897199
+      },
       {
         "id": 5232,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2034891119788794077",
         "start_time": 1774032838,
         "end_time": 1774205638
-      },
-      {
-        "id": 5226,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-03-20",
-        "image": "https://static.kivo.wiki/images/timeline/nCvI5qJ9bWkoDCLBGqbI5HEL6I59nDal.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2034872823710458233",
-        "start_time": 1774012556,
-        "end_time": 1774271756
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043301,
+  "time": 1781130445,
   "version": "1.0.0-beta.43"
 }

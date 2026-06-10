@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3651,
+        "line_type": "JP",
+        "title": "大决战：屋内戦・グレゴリオ #2",
+        "image": "https://static.kivo.wiki/images/timeline/Pka172gaY5pYEAQHoFGFV1hoTHc9Fgq3.jpg",
+        "body_summary": "【大決戦予告】 2月12日(水)11:00より、大決戦「屋内戦・グレゴリオ」を開催します！ パイプオルガンに、弱体状態、それに聖歌隊まで、1つずつ冷静に対処していきましょう！ #ブルアカ",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/1888135966965244411",
+        "start_time": 1739329200,
+        "end_time": 1739908799
+      },
       {
         "id": 3655,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1887788818134352128",
         "start_time": 1738922400,
         "end_time": 1738922400
-      },
-      {
-        "id": 3734,
-        "line_type": "CN",
-        "title": "玲纱家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/DquIfNS1XVUQwiCgWLUcMvTXrTtLEjuW.png",
-        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 02月06日 14:00 ■ 互动更新 • 玲纱 & 原木阳台桌子 没有多余装",
-        "type": "ContentImprovements",
-        "url": "weibo.com/6011443154/PcTWS8gKi",
-        "start_time": 1738821647,
-        "end_time": 1738821647
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043488,
+  "time": 1781130616,
   "version": "1.0.0-beta.43"
 }

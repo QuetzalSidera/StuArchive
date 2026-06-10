@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1891,
+        "line_type": "JP",
+        "title": "特别依赖2倍#40",
+        "image": "https://static.kivo.wiki/images/timeline/axfEmCeMVV8UcaGWo0o96kY8LnRq9hQa.jpg",
+        "body_summary": "【キャンペーン予告】 1/10(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2024/1/10(水)4:00 ~ 2024/1/17(水)3:",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1744283076220633271",
+        "start_time": 1704826800,
+        "end_time": 1705431599
+      },
       {
         "id": 2007,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1744133058775720075",
         "start_time": 1704668400,
         "end_time": 1704668400
-      },
-      {
-        "id": 1870,
-        "line_type": "JP",
-        "title": "和纱小剧场第1期",
-        "image": "https://static.kivo.wiki/images/timeline/jprDg84uJVDVpEF5nirPMSyaVhbI5CLE.png",
-        "body_summary": "【#今週もお疲れさまです】 先生、お疲れ様です♪ 先生、今週もお疲れ様でした！ 今みたいな時間を華金、って言うんでしょうか！ あれ？こんな時間にだれかいらっしゃったみたいですよ…？ ▼動画はこちら h",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1743227089082601905",
-        "start_time": 1704413100,
-        "end_time": 1704413100
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043686,
+  "time": 1781130798,
   "version": "1.0.0-beta.43"
 }

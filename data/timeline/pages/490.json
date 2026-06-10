@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 315,
+        "line_type": "JP",
+        "title": "任务Hard2倍#13",
+        "image": "https://static.kivo.wiki/images/timeline/UtrtDRglvTORo5u5Wxone8k9uFVOTGvU.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼期間 4月10日(日) 04:00 〜 4月13日(水) 03:59 キャンペーン期間中生徒さ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1512626474171662342?s=20",
+        "start_time": 1649599131,
+        "end_time": 1649858331
+      },
       {
         "id": 314,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1511629795708211202",
         "start_time": 1649139625,
         "end_time": 1649139625
-      },
-      {
-        "id": 1069,
-        "line_type": "Globle",
-        "title": "国际服卡池「Would like to go with me? It's only 2,000 meters above sea level.」",
-        "image": "https://static.kivo.wiki/images/timeline/zO1EPg1jO0fpdsqJVXNQSiFut7M5tINe.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 4/5 (Tue)! Target Pick Up Stud",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1510180258678394884",
-        "start_time": 1649139600,
-        "end_time": 1650337200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043869,
+  "time": 1781130966,
   "version": "1.0.0-beta.43"
 }

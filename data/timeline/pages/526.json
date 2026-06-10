@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 966,
+        "line_type": "JP",
+        "title": "LINE表情包 Vol.1",
+        "image": "https://static.kivo.wiki/images/timeline/LFJ9GG8KcixPyl01kaBJTflW0J24NeCH.jpg",
+        "body_summary": "【新情報 ②】 「ブルーアーカイブ LINEスタンプ VOL.1」および「対策委員会 テーマのライン着せ替え」が販売決定です！ おなじみの生徒さんたちがかわいいスタンプや着せ替えになって登場しますので",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1418902236906786821",
+        "start_time": 1627315200,
+        "end_time": 1627315200
+      },
       {
         "id": 138,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1415552229281452039",
         "start_time": 1626328920,
         "end_time": 1626328920
-      },
-      {
-        "id": 122,
-        "line_type": "JP",
-        "title": "例行维护19",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/15(木) 12:00 〜 18:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1415113829495631872",
-        "start_time": 1626321600,
-        "end_time": 1626343200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043913,
+  "time": 1781131007,
   "version": "1.0.0-beta.43"
 }

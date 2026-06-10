@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3779,
+        "line_type": "CN",
+        "title": "总力战 霍德 • 室内战",
+        "image": "https://static.kivo.wiki/images/timeline/Jgf21JPQSgUklZpGRg94xfMNHcRAE1yA.jpg",
+        "body_summary": "霍德原本是千禧年自管区通讯网的AI处理器，收到不明AI攻击后，开始宣称自己是神名十文字的第8个先知。 如果这个集结千禧年技术精华的运算系统持续失控，千禧年自管区的安全将失去保障。 ■ 活动时间 • 赛",
+        "type": "Raid",
+        "url": "weibo.com/6011443154/Pi1JggUN5",
+        "start_time": 1741932000,
+        "end_time": 1742414400
+      },
       {
         "id": 3782,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1899324516620472472",
         "start_time": 1741770000,
         "end_time": 1742353199
-      },
-      {
-        "id": 5067,
-        "line_type": "JP",
-        "title": "联合火力演习 #37",
-        "image": "https://static.kivo.wiki/images/timeline/wCB8zVgdg3S34LdgLJbWmqaiana8H4hQ.png",
-        "body_summary": "（3）キヴォトス合同火力演習「護衛演習」開催 ▼開催期間 2025年3月12日(水) メンテナンス後 ～ 2025年3月19日(水) 3:59 ▼挑戦回数のリセット時間 イベント開催期間中の毎日 4:",
-        "type": "MiniBattle",
-        "url": "bluearchive.jp/news/newsJump/533",
-        "start_time": 1741748400,
-        "end_time": 1742327999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043475,
+  "time": 1781130605,
   "version": "1.0.0-beta.43"
 }

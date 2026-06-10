@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4680,
+        "line_type": "JP",
+        "title": "活动「隠されし遺産を求めて ～トリニティの課外活動～」常驻化",
+        "image": "https://static.kivo.wiki/images/timeline/41JyW2MoF4fcvRfjXdrsDMp4P6gzsrHh.jpg",
+        "body_summary": "【イベント常設化・予告】 11/12(水)11:00より、期間限定イベント「隠されし遺産を求めて ～トリニティの課外活動～」が常設化されます！ 無人島を舞台とした、ウイさん達のドタバタ遺跡探索記がこれ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1986706084934095090",
+        "start_time": 1762912800,
+        "end_time": 1762912800
+      },
       {
         "id": 4702,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1986737893860077774",
         "start_time": 1762510200,
         "end_time": 1762510200
-      },
-      {
-        "id": 4665,
-        "line_type": "CN",
-        "title": "桃（女仆）&绿（女仆）家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/d0XnORh56BVl72QSoEzgqE6yESiAAfhX.png",
-        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 11月06日 维护结束后 ■ 互动更新 • 桃（女仆）&咖啡厅用床铺 复古可爱",
-        "type": "ContentImprovements",
-        "url": "weibo.com/6011443154/QbX87F3um",
-        "start_time": 1762423200,
-        "end_time": 1762423200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043366,
+  "time": 1781130505,
   "version": "1.0.0-beta.43"
 }

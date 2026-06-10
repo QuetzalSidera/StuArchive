@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4476,
+        "line_type": "CN",
+        "title": "大决战：回转者（野外）",
+        "image": "https://static.kivo.wiki/images/timeline/qPSVxAcLcchyp4FWHRKFaFnb8c0ucJpc.png",
+        "body_summary": "回转者的秘密武器神秘登场，阻断了通往基地的路线。 回转者投入了至今为止掠夺到手的资金和技术，正在这里制造巨型合体机器人【回转 FX Mk.0】。 虽然这个机器人看起来很酷，但考虑到回转者一直以来的恶行",
+        "type": "BigRaid",
+        "url": "bluearchive-cn.com/news/1546",
+        "start_time": 1757901693,
+        "end_time": 1758506493
+      },
       {
         "id": 4452,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1957037942813397089",
         "start_time": 1757473200,
         "end_time": 1758052800
-      },
-      {
-        "id": 4481,
-        "line_type": "CN",
-        "title": "佳代子主题PV：宴会共犯",
-        "image": "https://static.kivo.wiki/images/timeline/UrrQABruxZW92iE0E9Us9UyPDRE5MjVn.png",
-        "body_summary": "放下那些繁文缛节，与她一起“逃走”吧。",
-        "type": "OutsideGames",
-        "url": "www.bilibili.com/opus/1110964235411652613?spm_id_from=333.1365.0.0",
-        "start_time": 1757470039,
-        "end_time": 1757470039
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043390,
+  "time": 1781130527,
   "version": "1.0.0-beta.43"
 }

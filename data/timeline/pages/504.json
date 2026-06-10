@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 906,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁5",
+        "image": "",
+        "body_summary": "[1/18(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1483337824598642688",
+        "start_time": 1642490220,
+        "end_time": 1642490220
+      },
       {
         "id": 251,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1479739905358114819",
         "start_time": 1641891600,
         "end_time": 1643079600
-      },
-      {
-        "id": 901,
-        "line_type": "Globle",
-        "title": "国际服卡池「Starting today... you're my master, Sensei.」",
-        "image": "https://static.kivo.wiki/images/timeline/yJtE5FSV5R3xJuM6MmdZIMhJgNR6de5x.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 1/11 (Tue)! Target Pick-Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1479739657185341444",
-        "start_time": 1641891600,
-        "end_time": 1643079600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043886,
+  "time": 1781130982,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1032,
+        "line_type": "JP",
+        "title": "市街地戦・クロカゲ1",
+        "image": "https://static.kivo.wiki/images/timeline/3kctt5QqDfDmdEzGsNk4FgJWxxdX0uVU.png",
+        "body_summary": "【総力戦・予告】 11月29日(水)11:00より、新総力戦「市街地戦・クロカゲ」が開幕します！ 突如として百鬼夜行の街へと顕現した怪物、「猫鬼クロカゲ」…。 初の「弾力装甲」のBOSSはどうな攻撃パ",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1728247778114199707",
+        "start_time": 1701248106,
+        "end_time": 1701852906
+      },
       {
         "id": 1035,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1729380060677963986",
         "start_time": 1701151255,
         "end_time": 1701151255
-      },
-      {
-        "id": 2194,
-        "line_type": "CN",
-        "title": "封禁公示说明8",
-        "image": "https://static.kivo.wiki/images/timeline/1s3ShNpccLEqPNroGwsTzUfsMaejCxQO.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证各位老师的游戏体验与账号安全，联邦理事会将会一直严厉打击任何以不正当手段破坏游戏公平性的行为，绝不容忍任何外挂、非法第三方工具在基沃托斯出现。致力于为老师提供绿",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/385",
-        "start_time": 1701144059,
-        "end_time": 1701144059
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043704,
+  "time": 1781130813,
   "version": "1.0.0-beta.43"
 }

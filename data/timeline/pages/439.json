@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 563,
+        "line_type": "JP",
+        "title": "2周年登录奖励",
+        "image": "https://static.kivo.wiki/images/timeline/TwhpFv0Sr1hEhkqwuJWKgDAsS9M4X8Vr.jpg",
+        "body_summary": "【お知らせ】 メンテナンス終了後より「2nd ANNIVERSARY ログインボーナス」が開催されます！ 開催期間中、毎日のログインで家具モーション付き限定家具「ティーパーティーテーブル」の他、「10",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1617764227858706433",
+        "start_time": 1674558000,
+        "end_time": 1677034799
+      },
       {
         "id": 561,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1617297431816716291",
         "start_time": 1674432300,
         "end_time": 1674432300
-      },
-      {
-        "id": 557,
-        "line_type": "JP",
-        "title": "单曲「LA LA RUN!」网络发行",
-        "image": "https://static.kivo.wiki/images/timeline/AcAkpaM02JDzjVMUyGXFRY0I0cjFhHdJ.png",
-        "body_summary": "【サブスク配信開始】 こちらの三名の生徒さんが歌うオリジナル曲！ 「LA LA RUN!」が各種音楽サービスで販売・配信開始いたしました！ 是非聞いてみてください！ ▼各種音楽サービスはこちら！ ht",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1617180410445795330",
-        "start_time": 1674404400,
-        "end_time": 1674404400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043805,
+  "time": 1781130908,
   "version": "1.0.0-beta.43"
 }

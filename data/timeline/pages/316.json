@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2282,
+        "line_type": "CN",
+        "title": "学院交流会3倍2",
+        "image": "https://static.kivo.wiki/images/timeline/BLCRKEFiwviOQpWM7oxPGAj0VPJVuLpJ.jpg",
+        "body_summary": "#蔚蓝档案 【学院交流会】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【学院交流会】道具掉落量3倍 ■ 活动时间 03月14",
+        "type": "Double",
+        "url": "weibo.com/6011443154/O4uclirqc",
+        "start_time": 1710360042,
+        "end_time": 1710964782
+      },
       {
         "id": 2266,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1767454317395718431",
         "start_time": 1710226809,
         "end_time": 1710986349
-      },
-      {
-        "id": 2270,
-        "line_type": "Globle",
-        "title": "国际服例行维护56",
-        "image": "",
-        "body_summary": "[3/12 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 3/12 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1766026068371345635",
-        "start_time": 1710208828,
-        "end_time": 1710226828
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043654,
+  "time": 1781130769,
   "version": "1.0.0-beta.43"
 }

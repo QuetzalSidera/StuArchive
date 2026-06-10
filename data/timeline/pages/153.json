@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3944,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #83",
+        "image": "https://static.kivo.wiki/images/timeline/BiC8EEo2Zgir61Inm6a4E5CQXoJai1qB.jpg",
+        "body_summary": "[4/29 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/29 (Tue). Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1915692259275649479",
+        "start_time": 1745892000,
+        "end_time": 1745906400
+      },
       {
         "id": 3946,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/KR_BlueArchive/status/1911283207414104550",
         "start_time": 1745546400,
         "end_time": 1746792000
-      },
-      {
-        "id": 3945,
-        "line_type": "Globle",
-        "title": "国际服新专辑「Twinkle☆Magic」MV公开特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/mUQa0nV7SiB0zuVLqnW8irXtEZ5Pm2w5.jpg",
-        "body_summary": "[‘Twinkle☆Magic’ MV Release – Special Reward Notice] Sensei, the 'Twinkle☆Magic' MV is now available",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/1915709872630386888",
-        "start_time": 1745532600,
-        "end_time": 1746154740
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043453,
+  "time": 1781130585,
   "version": "1.0.0-beta.43"
 }

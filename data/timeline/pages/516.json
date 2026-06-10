@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 840,
+        "line_type": "Globle",
+        "title": "国际服开服时间公布",
+        "image": "https://static.kivo.wiki/images/timeline/qWrwKau7gVbevdZYIRx1rd71CS4tGZY2.jpg",
+        "body_summary": "[Blue Archive 11/08/2021 (Mon) Grand Opening!] Announcing the long-awaited official release date of ",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1455359003265945603",
+        "start_time": 1635819600,
+        "end_time": 1635819600
+      },
       {
         "id": 201,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1450066316816097280",
         "start_time": 1635336000,
         "end_time": 1635336000
-      },
-      {
-        "id": 975,
-        "line_type": "JP",
-        "title": "「学院交流会」实装",
-        "image": "https://static.kivo.wiki/images/timeline/PMT5msIDc79PeMeY5CxqzPqx1NMu4hB3.png",
-        "body_summary": "【新情報 ⑧】 10月27日(水)メンテナンス後、新常設コンテンツ「学園交流会」が開催です！ 学園交流会では、トリニティ、ゲヘナ、そしてミレニアムの生徒たちとのバトルが繰り広げられます！ また、先ほど",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1450065522540703745",
-        "start_time": 1635336000,
-        "end_time": 1635336000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043901,
+  "time": 1781130996,
   "version": "1.0.0-beta.43"
 }

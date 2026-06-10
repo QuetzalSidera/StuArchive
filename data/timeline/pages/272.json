@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2701,
+        "line_type": "JP",
+        "title": "活动「Say-Bing!」",
+        "image": "https://static.kivo.wiki/images/timeline/9TTZY55j7qvp3AMElfihvpIUtbROpq3t.jpg",
+        "body_summary": "【新情報 ①】 6月26日(水)メンテナンス後、新イベント「Say-Bing!」が開催されます。 今回のイベントでは、生徒「キリノ（水着）」さんをイベント報酬としてお迎えできます♪ 詳しい遊び方や報酬",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1804833214458130854",
+        "start_time": 1719399600,
+        "end_time": 1720580399
+      },
       {
         "id": 2775,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1804076806678405148",
         "start_time": 1719280800,
         "end_time": 1719295200
-      },
-      {
-        "id": 2722,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍28",
-        "image": "https://static.kivo.wiki/images/timeline/32mxzMCRWQYEdRa1RH8MLRfxrnFfsiyh.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 6/24 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1804408987930026390",
-        "start_time": 1719255630,
-        "end_time": 1719860430
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043600,
+  "time": 1781130720,
   "version": "1.0.0-beta.43"
 }

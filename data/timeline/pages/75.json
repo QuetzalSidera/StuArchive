@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4761,
+        "line_type": "CN",
+        "title": "例行维护 #49",
+        "image": "https://static.kivo.wiki/images/timeline/rpsuLuuYRxT1kwfE4p7NhNMaytMd3CtV.gif",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月04日14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405239828861288642",
+        "start_time": 1764828000,
+        "end_time": 1764842400
+      },
       {
         "id": 4756,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1995330566993121366",
         "start_time": 1764705600,
         "end_time": 1765310399
-      },
-      {
-        "id": 4747,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁 #52",
-        "image": "",
-        "body_summary": "[12/2 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1995797898689478833",
-        "start_time": 1764670260,
-        "end_time": 1764670260
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043357,
+  "time": 1781130497,
   "version": "1.0.0-beta.43"
 }

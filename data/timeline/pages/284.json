@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2601,
+        "line_type": "JP",
+        "title": "爱用品追加：爱丽丝（女仆）",
+        "image": "https://static.kivo.wiki/images/timeline/gbiAMJZ0rqOBRwzA9hK2xi0WRwb1RXLb.jpg",
+        "body_summary": "【愛用品】 メンテナンス後、「アリス(メイド)」さんの「愛用品」が追加されます。 「愛用品」の追加により、「アリス(メイド)」さんの絆ストーリーも1話追加されますので、ぜひお楽しみください！ #ブルア",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1793114991241166905",
+        "start_time": 1716375600,
+        "end_time": 1716375600
+      },
       {
         "id": 2599,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1791347929296617550",
         "start_time": 1716271205,
         "end_time": 1716861545
-      },
-      {
-        "id": 2620,
-        "line_type": "CN",
-        "title": "封禁公示说明20",
-        "image": "https://static.kivo.wiki/images/timeline/P61d1K39wYlZjJm5doh5H2fb42ye7QwD.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证各位老师的游戏体验与账号安全，联邦理事会将会一直严厉打击任何以不正当手段破坏游戏公平性的行为，绝不容忍任何外挂、非法第三方工具在基沃托斯出现。致力于为老师提供绿",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/793",
-        "start_time": 1716264013,
-        "end_time": 1716264013
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043616,
+  "time": 1781130733,
   "version": "1.0.0-beta.43"
 }

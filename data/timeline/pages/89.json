@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4582,
+        "line_type": "JP",
+        "title": "活动「魔法少女ヘヴィキャリバー～エラの野望と正義の資格～」",
+        "image": "https://static.kivo.wiki/images/timeline/NZtYwKwRZrUQCqL6x5AqYScX2kBPBu29.jpg",
+        "body_summary": "【新情報②】 続きましてはこちら！ 10月22日(水)メンテナンス後、新イベント「魔法少女ヘヴィキャリバー～エラの野望と正義の資格～」が開催されます。 今回のイベントでは、生徒「ラブ」さんをイベント報",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1979507586966909277",
+        "start_time": 1761102000,
+        "end_time": 1762311599
+      },
       {
         "id": 4580,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1980533476282757374",
         "start_time": 1761026400,
         "end_time": 1762221599
-      },
-      {
-        "id": 4619,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.5 第二章 Part1 更新",
-        "image": "https://static.kivo.wiki/images/timeline/ThpHwMGpTKBsgMzMRorgCnFCXgtS45rJ.jpg",
-        "body_summary": "[Main Story Update Notice] The Main Story Vol. 5, Hyakkaryouran Chapter 2: \"To You, Who's Trying to ",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/1980530239001489503",
-        "start_time": 1761026400,
-        "end_time": 1761026400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043375,
+  "time": 1781130513,
   "version": "1.0.0-beta.43"
 }

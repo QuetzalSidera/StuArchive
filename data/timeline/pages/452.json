@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1252,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Arrived at the objective. Let's go straight to the next mission.」&「Cute swimsuits are justice... I'll keep that in mind.」",
+        "image": "https://static.kivo.wiki/images/timeline/BaKKQZ4jOmbj9s1ZjUM4P2D5qokvtyyp.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] Rerun Unique Pick Up Recruitments will begin on 11/22 (Tue)! Target Pi",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1593894347925344256",
+        "start_time": 1668910218,
+        "end_time": 1669601418
+      },
       {
         "id": 1249,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1590962532595933185",
         "start_time": 1668495732,
         "end_time": 1668495732
-      },
-      {
-        "id": 1247,
-        "line_type": "Globle",
-        "title": "国际服例行维护26",
-        "image": "",
-        "body_summary": "[11/15 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/15 ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1591989304326332416",
-        "start_time": 1668477648,
-        "end_time": 1668495648
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043823,
+  "time": 1781130922,
   "version": "1.0.0-beta.43"
 }

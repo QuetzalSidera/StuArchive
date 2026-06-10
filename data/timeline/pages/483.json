@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 350,
+        "line_type": "JP",
+        "title": "违规账号封禁10",
+        "image": "https://static.kivo.wiki/images/timeline/1o4FQLWXUleCAgTFoWYDCIpcoXS96jp7.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご確",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/1529058397949411328?s=20",
+        "start_time": 1653407799,
+        "end_time": 1653407799
+      },
       {
         "id": 349,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1526397424230895616?s=20",
         "start_time": 1653406883,
         "end_time": 1653406883
-      },
-      {
-        "id": 348,
-        "line_type": "JP",
-        "title": "主线关卡开放：Area19",
-        "image": "https://static.kivo.wiki/images/timeline/cKcGhtagy62IwbRF3PZeDRCqkDEc1bWd.jpg",
-        "body_summary": "【エリア解放予告】 「任務 Area19」がメンテナンス後より解放されます！ 「Area19」では新たに「T7装備」が獲得できるほか、「任務 Hard」19-3では一定確率でイズナさんの「神名文字」が",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1529024465010839553?s=20",
-        "start_time": 1653390000,
-        "end_time": 1653390000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043861,
+  "time": 1781130958,
   "version": "1.0.0-beta.43"
 }

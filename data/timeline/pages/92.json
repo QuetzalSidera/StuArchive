@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4595,
+        "line_type": "CN",
+        "title": "活动【与联邦理事会一起 沙勒总决算】 #6",
+        "image": "https://static.kivo.wiki/images/timeline/Tzb7FTGuMTMAj4ssT99xAU75XjQywjhS.jpg",
+        "body_summary": "【与联邦理事会一起 沙勒总决算】活动预告 ■ 活动时间 • 活动持续时间：10月16日 04:00 ~ 10月30日 13:59 • 商店兑换时间：10月16日 04:00 ~ 11月06日 13:5",
+        "type": "Event",
+        "url": "weibo.com/6011443154/Q9drbACJM",
+        "start_time": 1760558400,
+        "end_time": 1761803999
+      },
       {
         "id": 4543,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1976543218990006593",
         "start_time": 1760403600,
         "end_time": 1761008399
-      },
-      {
-        "id": 4572,
-        "line_type": "Globle",
-        "title": "国际服大决战Shiro & Kuro (Indoor) #3",
-        "image": "https://static.kivo.wiki/images/timeline/jllsJYbNuIAuHmr7SBnDYxUUEJcq6Uc1.jpg",
-        "body_summary": "[Grand Assault Preview] The Grand Assault - Shiro & Kuro (Indoor Warfare) will start on 10/14 (Tue)!",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/1975818445137596909",
-        "start_time": 1760403600,
-        "end_time": 1760983199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043378,
+  "time": 1781130516,
   "version": "1.0.0-beta.43"
 }

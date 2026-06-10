@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4971,
+        "line_type": "Globle",
+        "title": "国际服例行维护#102",
+        "image": "https://static.kivo.wiki/images/timeline/VYt6YKzJp7ENkrMDIN59AKPcQjEj5ptB.jpg",
+        "body_summary": "[1/20(Tue) Temporary Maintenace Notice] To improve game stability and performance, a temporary maint",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2013486452433395859",
+        "start_time": 1768888800,
+        "end_time": 1768892400
+      },
       {
         "id": 5000,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2012781240160788780",
         "start_time": 1768878000,
         "end_time": 1769655599
-      },
-      {
-        "id": 4942,
-        "line_type": "JP",
-        "title": "主线剧情Ex. 「デカグラマトン」篇第3章「不離一体の空」Part2更新",
-        "image": "https://static.kivo.wiki/images/timeline/N8NU6elKHPoXgPPjbBiIe7nMixk13o8p.jpg",
-        "body_summary": "【新情報⑧】 さらにさらに、1月20日(火)メンテナンス後には、Ex.「デカグラマトン」編 第3章「不離一体の空」Part2が、 そして1月29日(木) メンテナンス後には、「不離一体の空」Part3",
-        "type": "MainStory",
-        "url": "x.com/Blue_ArchiveJP/status/2012794854481473863",
-        "start_time": 1768878000,
-        "end_time": 1768878000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043334,
+  "time": 1781130475,
   "version": "1.0.0-beta.43"
 }

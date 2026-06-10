@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-06-09T20:06:31Z",
+  "generated_at": "2026-06-10T20:29:05Z",
   "list_key": "item",
   "id_key": "id",
   "max_page": 191,
   "synced_pages": 191,
-  "total_items": 1904,
-  "details_synced": 1904,
+  "total_items": 1905,
+  "details_synced": 1905,
   "details_enabled": true,
   "items": [
     {
@@ -7927,6 +7927,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/HREC9FcWux6GOchmVPAeHBxcULUrdZkn.png",
       "rarity": 4,
       "description": "用MOMO好友泳圈组合布置的大型泳池。和MOMO好友一起开心的玩乐吧！"
+    },
+    {
+      "id": 1981,
+      "name": "藏有冰川的冰箱",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/8PqPuQFJG78HlYrVfdQHOVL7cZzyzzXg.png",
+      "rarity": 4,
+      "description": "装满了冷饮的冰箱。打开之后千万记得把门关上。"
     },
     {
       "id": 1041,
@@ -16585,7 +16593,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=191",
       "path": "items/pages/191.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/191.json",
-      "item_count": 4
+      "item_count": 5
     }
   ],
   "details": [
@@ -22524,6 +22532,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/721.json"
     },
     {
+      "id": 1981,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1981",
+      "path": "items/1981.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1981.json"
+    },
+    {
       "id": 1041,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1041",
       "path": "items/1041.json",
@@ -28017,8 +28031,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1872,
-    "normalized_alias_count": 1872,
-    "total_items": 1904
+    "alias_count": 1873,
+    "normalized_alias_count": 1873,
+    "total_items": 1905
   }
 }

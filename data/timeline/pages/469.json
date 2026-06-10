@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 417,
+        "line_type": "JP",
+        "title": "社团剧情追加：「RABBIT小隊」",
+        "image": "https://static.kivo.wiki/images/timeline/eWvZeQ10rhb4dsVZRKtWxHDg0dc96BPJ.jpg",
+        "body_summary": "【サブストーリー】 メンテナンス終了後より、各サークルでの活動内容を描いた「サブストーリー」にて新しく「RABBIT小隊」の物語が追加されます！ ぜひ生徒さん達の日常をお楽しみください♪ ※該当のサブ",
+        "type": "OtherStory",
+        "url": "twitter.com/Blue_ArchiveJP/status/1562333941788717057",
+        "start_time": 1661338800,
+        "end_time": 1661338800
+      },
       {
         "id": 412,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1561966466638888960",
         "start_time": 1661236828,
         "end_time": 1661236828
-      },
-      {
-        "id": 1163,
-        "line_type": "Globle",
-        "title": "国际服例行维护21",
-        "image": "",
-        "body_summary": "[8/23 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/23 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1561548715164217345",
-        "start_time": 1661223628,
-        "end_time": 1661238028
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043844,
+  "time": 1781130942,
   "version": "1.0.0-beta.43"
 }

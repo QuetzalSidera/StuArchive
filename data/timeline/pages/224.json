@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3256,
+        "line_type": "JP",
+        "title": "例行维护 #105",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.5GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 10/23(水) 1",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1848605337651482951",
+        "start_time": 1729652400,
+        "end_time": 1729681200
+      },
       {
         "id": 3216,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1848594257692778691",
         "start_time": 1729574193,
         "end_time": 1729574193
-      },
-      {
-        "id": 3221,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #71",
-        "image": "",
-        "body_summary": "[10/22 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/22 (Tue). 🗓️Main",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1847200958528500012",
-        "start_time": 1729562430,
-        "end_time": 1729580430
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043541,
+  "time": 1781130665,
   "version": "1.0.0-beta.43"
 }

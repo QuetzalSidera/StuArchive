@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 331,
+        "line_type": "JP",
+        "title": "社团剧情「忍術研究部」追加",
+        "image": "https://static.kivo.wiki/images/timeline/YgQhQXW4qlylBwdkQb8zI5gT1WmM06Y1.jpg",
+        "body_summary": "【サブストーリー】 5月11日(水)メンテナンス後より、日々のサークル活動での日常を描いたサブストーリー「忍術研究部」が新たに追加されますので、ぜひお楽しみください♪ ※サブストーリー解放のためには「",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/1523135822681501696?s=20",
+        "start_time": 1652282811,
+        "end_time": 1652282811
+      },
       {
         "id": 1096,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1521399374747627520",
         "start_time": 1651564838,
         "end_time": 1651564838
-      },
-      {
-        "id": 1093,
-        "line_type": "Globle",
-        "title": "国际服「Bunny Chasers on Board」活动青辉石礼物",
-        "image": "https://static.kivo.wiki/images/timeline/RwkTch8AdNBwot0eglO6xkrKAJySF1FJ.jpg",
-        "body_summary": "[Bunny Chasers on Board Celebration Gift] Sensei, Schale prepared a celebration gift for the new eve",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1521400416889671680",
-        "start_time": 1651564834,
-        "end_time": 1651564834
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043864,
+  "time": 1781130961,
   "version": "1.0.0-beta.43"
 }

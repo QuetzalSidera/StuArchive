@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3230,
+        "line_type": "JP",
+        "title": "联合火力演习 #33",
+        "image": "https://static.kivo.wiki/images/timeline/Pscfj9ladsJW7v7D3P4asFi8MsP0ugTH.jpg",
+        "body_summary": "【新情報 ⑦】 11月6日(水)メンテナンス後より、合同火力演習「護衛演習」が開始されます！ 今回開催される「護衛演習」の地形は屋内戦で、防御タイプは軽装備となります！ ▼開催期間 2024/11/6",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1847968780582064473",
+        "start_time": 1730883600,
+        "end_time": 1731441599
+      },
       {
         "id": 3271,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1853731748401828289",
         "start_time": 1730799060,
         "end_time": 1730799060
-      },
-      {
-        "id": 4635,
-        "line_type": "Globle",
-        "title": "国际服战术对抗赛S7开幕",
-        "image": "https://static.kivo.wiki/images/timeline/OzozG2wfoCkls1cSGaSejZtpTRhffPHf.jpg",
-        "body_summary": "[11/5 Update Notice] 11/5 (Tue) scheduled maintenance has ended. ➡️Update Details: https://forum.nex",
-        "type": "ContentImprovements",
-        "url": "x.com/EN_BlueArchive/status/1853719525579207031",
-        "start_time": 1730772000,
-        "end_time": 1730772000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043535,
+  "time": 1781130659,
   "version": "1.0.0-beta.43"
 }

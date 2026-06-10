@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 84,
+        "line_type": "JP",
+        "title": "任务Normal2倍#2",
+        "image": "https://static.kivo.wiki/images/timeline/KkPuclmPj5diHlYPdZ1dqRR7CKUhcdTa.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 4月15日(木)04:00〜4月19日(月)03:59 せっかくの機会ですのでぜ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1381457325190303746?s=20",
+        "start_time": 1618489375,
+        "end_time": 1618834975
+      },
       {
         "id": 83,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1377103973786607625?s=20",
         "start_time": 1617185931,
         "end_time": 1617185931
-      },
-      {
-        "id": 79,
-        "line_type": "JP",
-        "title": "咖啡厅招待券更新",
-        "image": "",
-        "body_summary": "【TIPS - カフェ招待システム】 今回のアップデート後から、カフェに「招待」の機能が追加されました！ 「招待券」を使用することで、任意の生徒さん(※募集済み)をカフェに招待することができます！ こ",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1375719271804727299?s=20",
-        "start_time": 1616840919,
-        "end_time": 1616840919
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043922,
+  "time": 1781131015,
   "version": "1.0.0-beta.43"
 }

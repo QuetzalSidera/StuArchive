@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 52,
+        "line_type": "JP",
+        "title": "総力戦・BETA版：ビナー",
+        "image": "https://static.kivo.wiki/images/timeline/M1KMOKD3WYo6gnisd8uNNpWjlXOcM8Ue.jpg",
+        "body_summary": "【予告】 キヴォトスに出現する謎の脅威の一つ、「ビナー」がアビドスに出没しました！ 先生！被害が広がる前に、ご対応をお願いいたします！ 「総力戦・BETA版」 2月15日開催予定です！ ※「デカグラマ",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1360438557198807041",
+        "start_time": 1613332800,
+        "end_time": 1613332800
+      },
       {
         "id": 58,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1358295328047337473",
         "start_time": 1612682100,
         "end_time": 1612713599
-      },
-      {
-        "id": 27,
-        "line_type": "JP",
-        "title": "首次达成App Store人气第一",
-        "image": "https://static.kivo.wiki/images/timeline/gSBhX1Mkn1tJy3ZJLMR82gOQA0YA1NLJ.jpg",
-        "body_summary": "【🎉✨AppStore人気無料ランキング1位獲得✨🎉】 GooglePlayに続き、AppStore人気無料ゲームアプリランキングでも1位を獲得しました！ これを記念して、すべての先生方へさらに「青輝",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1357934954189971457",
-        "start_time": 1612589255,
-        "end_time": 1612589255
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043928,
+  "time": 1781131021,
   "version": "1.0.0-beta.43"
 }

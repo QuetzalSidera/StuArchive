@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 592,
+        "line_type": "JP",
+        "title": "关注数突破60万",
+        "image": "https://static.kivo.wiki/images/timeline/6wj9g8VGBX03IKk0GLr3xeeEKYO4IJYm.jpg",
+        "body_summary": "【フォロワー60万人突破】 先生！ 先日の生放送でご案内したフォロワー60万人突破記念プレゼントは、今回のメンテナンス終了後に配布いたします。 ▼プレゼント内容 「10回募集チケット」1枚 ※到着まで",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1628318710510542848",
+        "start_time": 1676718000,
+        "end_time": 1676718000
+      },
       {
         "id": 587,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1624332411357245441",
         "start_time": 1676358015,
         "end_time": 1677549555
-      },
-      {
-        "id": 1324,
-        "line_type": "Globle",
-        "title": "国际服活动「Special Mission DECAGRAMMATON」3",
-        "image": "https://static.kivo.wiki/images/timeline/MXZJSToVUB7hBRj1Jw2ZmL9PE1Ljr2r2.jpg",
-        "body_summary": "[Event Update Notice] Under pressure from the Decagrammaton, Eimi and Himari set up a new Super Phen",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1625386859579817984",
-        "start_time": 1676355655,
-        "end_time": 1677549595
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043798,
+  "time": 1781130901,
   "version": "1.0.0-beta.43"
 }

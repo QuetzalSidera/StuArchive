@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1578,
+        "line_type": "Globle",
+        "title": "国际服2周年倒计时活动",
+        "image": "https://static.kivo.wiki/images/timeline/kKxZFraz7n5XY8IvhPm4pN2cxYek1BfQ.jpg",
+        "body_summary": "[2-Year Anniversary Countdown Login Event] Sensei! Blue Archive's 2-Year Anniversary is almost here.",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1719942412405973311",
+        "start_time": 1698897021,
+        "end_time": 1699469961
+      },
       {
         "id": 1576,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1718190876197855405",
         "start_time": 1698746419,
         "end_time": 1699927219
-      },
-      {
-        "id": 1566,
-        "line_type": "Globle",
-        "title": "国际服活动「Alabaster Calling Card: Mansion Masquerade and the Essence of Beauty」",
-        "image": "https://static.kivo.wiki/images/timeline/arJMGlAG76zIa1D0m2Fv2KiqYF5azvBH.jpg",
-        "body_summary": "[Event Preview] Alabaster Calling Card: Mansion Masquerade and the Essence of Beauty is coming soon,",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1717798285572759681",
-        "start_time": 1698746417,
-        "end_time": 1699927217
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043716,
+  "time": 1781130825,
   "version": "1.0.0-beta.43"
 }

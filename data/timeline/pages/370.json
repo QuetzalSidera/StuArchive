@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2666,
+        "line_type": "JP",
+        "title": "联动纪念登录奖励「コラボ開催記念ログインボーナス」",
+        "image": "https://static.kivo.wiki/images/timeline/Z0QJILvjiXilan77farf22GRtnyIs037.jpg",
+        "body_summary": "【新情報⑥】 10/24(火)メンテナンス後、「コラボ開催記念ログインボーナス」が実施されます！ 期間中に合計600個の青輝石と、家具モーション付限定家具「モモフレンズのグッズ台」を入手できます。 ぜ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1715343360431702489",
+        "start_time": 1698141649,
+        "end_time": 1699412389
+      },
       {
         "id": 2667,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1715657928760537194",
         "start_time": 1698112803,
         "end_time": 1698717543
-      },
-      {
-        "id": 1560,
-        "line_type": "Globle",
-        "title": "国际服卡池「Allow me to show you Hyakkiyako's impeccable charm, Sensei.」",
-        "image": "https://static.kivo.wiki/images/timeline/naxF0p48pLAPntSGoWiOoZZ0rxpOKwLZ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715654157011440009",
-        "start_time": 1698112803,
-        "end_time": 1698717543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043721,
+  "time": 1781130829,
   "version": "1.0.0-beta.43"
 }

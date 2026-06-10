@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4437,
+        "line_type": "CN",
+        "title": "任务（普通难度）2倍#19",
+        "image": "https://static.kivo.wiki/images/timeline/wPOIoz4jJ0bT5XZurN1klMmhsX5A22OS.jpg",
+        "body_summary": "【任务（普通难度）】道具掉落量2倍 ■ 活动时间： 09月18日 04:00 ~ 09月22日 03:59 ■ 活动内容 活动期间，完成【任务（普通难度）】时，获得的道具掉落奖励数量变为2倍。",
+        "type": "Double",
+        "url": "weibo.com/6011443154/Q1NsDlZrC?pagetype=profilefeed",
+        "start_time": 1758173127,
+        "end_time": 1758518727
+      },
       {
         "id": 4501,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/en_bluearchive/status/1966761263192834421",
         "start_time": 1757919600,
         "end_time": 1758524399
-      },
-      {
-        "id": 4476,
-        "line_type": "CN",
-        "title": "大决战：回转者（野外）",
-        "image": "https://static.kivo.wiki/images/timeline/qPSVxAcLcchyp4FWHRKFaFnb8c0ucJpc.png",
-        "body_summary": "回转者的秘密武器神秘登场，阻断了通往基地的路线。 回转者投入了至今为止掠夺到手的资金和技术，正在这里制造巨型合体机器人【回转 FX Mk.0】。 虽然这个机器人看起来很酷，但考虑到回转者一直以来的恶行",
-        "type": "BigRaid",
-        "url": "bluearchive-cn.com/news/1546",
-        "start_time": 1757901693,
-        "end_time": 1758506493
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043389,
+  "time": 1781130526,
   "version": "1.0.0-beta.43"
 }

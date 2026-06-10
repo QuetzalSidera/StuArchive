@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 354,
+        "line_type": "JP",
+        "title": "市街地戦・KAITEN FX Mk.0 1",
+        "image": "",
+        "body_summary": "【総力戦開催中】 先生！本拠地までの行く手を遮るかのように、カイテンジャーたちの秘密兵器が登場しました！ 合体ロボは確かにロマンですが、これまでの行いを考えると、このまま楽しく見ているというわけには行",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1458283609748819968?s=20",
+        "start_time": 1636473872,
+        "end_time": 1636992272
+      },
       {
         "id": 981,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "",
         "start_time": 1635843654,
         "end_time": 1636327854
-      },
-      {
-        "id": 840,
-        "line_type": "Globle",
-        "title": "国际服开服时间公布",
-        "image": "https://static.kivo.wiki/images/timeline/qWrwKau7gVbevdZYIRx1rd71CS4tGZY2.jpg",
-        "body_summary": "[Blue Archive 11/08/2021 (Mon) Grand Opening!] Announcing the long-awaited official release date of ",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1455359003265945603",
-        "start_time": 1635819600,
-        "end_time": 1635819600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043900,
+  "time": 1781130994,
   "version": "1.0.0-beta.43"
 }

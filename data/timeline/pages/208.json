@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3342,
+        "line_type": "JP",
+        "title": "联合火力演习 #34",
+        "image": "https://static.kivo.wiki/images/timeline/yVLcsCML4F6qUnwQ5NT5X2fuazC866OH.jpg",
+        "body_summary": "【合同火力演習・予告】 12月4日(水)メンテナンス後、合同火力演習「突破演習」が開幕します！ 今回の演習では、爆発タイプの生徒さんがかかしを回復させると追加でHPが回復するようですよ！ #ブルアカ",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1863493907390279698",
+        "start_time": 1733302800,
+        "end_time": 1733885999
+      },
       {
         "id": 3345,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1862391040856248772",
         "start_time": 1733220000,
         "end_time": 1734141600
-      },
-      {
-        "id": 3328,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习 #28",
-        "image": "https://static.kivo.wiki/images/timeline/ssfVxlxXQoLH4HKuX3Bd3I7PpgK3a8Le.jpg",
-        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Defense Drill) will start on 12/3 (Tue)! ➡️Offi",
-        "type": "MiniBattle",
-        "url": "x.com/EN_BlueArchive/status/1861666266064564548",
-        "start_time": 1733220000,
-        "end_time": 1733220000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043522,
+  "time": 1781130647,
   "version": "1.0.0-beta.43"
 }

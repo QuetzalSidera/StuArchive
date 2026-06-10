@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 599,
+        "line_type": "JP",
+        "title": "联合火力演习13",
+        "image": "https://static.kivo.wiki/images/timeline/jJdWv6Ll4SqM0eae24RXp6YbE5S8AtIV.jpg",
+        "body_summary": "【合同火力演習・予告】 3月8日(水)メンテナンス終了後、合同火力演習「射撃演習」が開始されます！ 今回の特殊ルールでは敵のHPが増加する代わりに、生徒さん達のスキルによる敵への各持続ダメージ効果に、",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1631927509708341248?s=20",
+        "start_time": 1678275707,
+        "end_time": 1678823987
+      },
       {
         "id": 598,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1629410874938265602",
         "start_time": 1677567616,
         "end_time": 1678759156
-      },
-      {
-        "id": 1339,
-        "line_type": "Globle",
-        "title": "国际服卡池「It's important I get this out there: I dont't like cats.」",
-        "image": "https://static.kivo.wiki/images/timeline/AL0zUVZvkwTmbrow6KnFT5I8DlQuVvhp.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A New Pick-Up Recruitment starts 2/28 (Tue)! Pick-Up Student: 3★ Kazus",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1629408358280175618",
-        "start_time": 1677567616,
-        "end_time": 1678759156
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043794,
+  "time": 1781130897,
   "version": "1.0.0-beta.43"
 }

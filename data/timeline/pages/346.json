@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1858,
+        "line_type": "JP",
+        "title": "卡池「天体より注ぐ情報の光」&「暁光にとける感情の音」",
+        "image": "https://static.kivo.wiki/images/timeline/QuKJlx3rdOpAPW938ipSOhzKJhwrQLKs.jpg",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「天体より注ぐ情報の光」&「暁光にとける感情の音」が開催されます！ 🔹ピックアップ生徒 ★3 ハレ(キャンプ)(CV:#貝原怜奈) ★3 コタマ(",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1739511465433088203",
+        "start_time": 1703674800,
+        "end_time": 1704855599
+      },
       {
         "id": 1840,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/432",
         "start_time": 1703563426,
         "end_time": 1703563426
-      },
-      {
-        "id": 1987,
-        "line_type": "CN",
-        "title": "阿洛娜的日程笔记（第5期）",
-        "image": "https://static.kivo.wiki/images/timeline/BnfQ5lObwOtZ6BWWbBL7a2LS6gZyaThj.jpg",
-        "body_summary": "“欢迎连接什亭之箱，老师。” 老师，阿洛娜日程笔记又与您见面啦！听说前段时间老师去盐海岸参加了风纪委员会的特别集训？明明是难得的假期却要外出训练，风纪委员们可真辛苦啊。对了对了，真理社的学员们似乎也前",
-        "type": "Other",
-        "url": "www.bilibili.com/read/cv28785969",
-        "start_time": 1703563237,
-        "end_time": 1703563237
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043691,
+  "time": 1781130802,
   "version": "1.0.0-beta.43"
 }

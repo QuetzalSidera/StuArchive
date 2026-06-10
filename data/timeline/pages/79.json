@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4730,
+        "line_type": "CN",
+        "title": "例行维护 #48",
+        "image": "https://static.kivo.wiki/images/timeline/CuOP0COMQATpLxqrvu6MiPQYhlYWoymu.gif",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 11月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405234755380838764",
+        "start_time": 1763618460,
+        "end_time": 1763632860
+      },
       {
         "id": 5013,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1989226796471271486",
         "start_time": 1763442000,
         "end_time": 1764640799
-      },
-      {
-        "id": 4694,
-        "line_type": "Globle",
-        "title": "国际服活动「A Flower Blooms Among the Hundred: Fair and Square Aquatic Showdown」",
-        "image": "https://static.kivo.wiki/images/timeline/m3RhHq2Swtgv9SQfi2AV72L2TajPjLfm.jpg",
-        "body_summary": "[Event Preview] Sensei, the Event Story 'A Flower Blooms Among the Hundred: Fair and Square Aquatic ",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/1989216294751858838",
-        "start_time": 1763442000,
-        "end_time": 1764640799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043362,
+  "time": 1781130501,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4212,
+        "line_type": "Globle",
+        "title": "国际服任务normal3倍 #12",
+        "image": "https://static.kivo.wiki/images/timeline/8CWJ8dfurhj2AQ3W4lKFrL2LTPxRFRNQ.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be tripled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1943928314550530252",
+        "start_time": 1752476400,
+        "end_time": 1752821999
+      },
       {
         "id": 4250,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1942448619409608901",
         "start_time": 1752051600,
         "end_time": 1753153200
-      },
-      {
-        "id": 4173,
-        "line_type": "JP",
-        "title": "活动「夏の特殊作戦!RABBIT小隊と消えたエビの謎」常驻化",
-        "image": "https://static.kivo.wiki/images/timeline/2I5xLhpLwWCo6OPpiOA5wmKzFhipCMLo.jpg",
-        "body_summary": "【イベント常設化・予告】 7/9(水)メンテナンス後より、期間限定イベント「夏の特殊作戦!RABBIT小隊と消えたエビの謎」が常設化されます！ D.U.のお弁当から何故か消えてしまったエビの真相を探る",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1941331873164308697",
-        "start_time": 1752035883,
-        "end_time": 1752035883
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043422,
+  "time": 1781130556,
   "version": "1.0.0-beta.43"
 }

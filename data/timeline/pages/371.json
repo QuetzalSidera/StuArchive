@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1560,
+        "line_type": "Globle",
+        "title": "国际服卡池「Allow me to show you Hyakkiyako's impeccable charm, Sensei.」",
+        "image": "https://static.kivo.wiki/images/timeline/naxF0p48pLAPntSGoWiOoZZ0rxpOKwLZ.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1715654157011440009",
+        "start_time": 1698112803,
+        "end_time": 1698717543
+      },
       {
         "id": 1559,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1715233297880821864",
         "start_time": 1697778472,
         "end_time": 1697778472
-      },
-      {
-        "id": 814,
-        "line_type": "JP",
-        "title": "3周年特设网站开放",
-        "image": "https://static.kivo.wiki/images/timeline/fatsYFU63dq8EgKFZMQd16s7GxiRhnnJ.jpg",
-        "body_summary": "【3rdアニバーサリー】 3周年の特設サイトがオープンしました！ リアルイベント「ブルアカふぇす！」も開催決定です！ 開催日：2024/1/20(土)・21(日) 会場：幕張メッセ 国際展示場 9-1",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1715367792172753114",
-        "start_time": 1697770920,
-        "end_time": 1697770920
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043722,
+  "time": 1781130830,
   "version": "1.0.0-beta.43"
 }

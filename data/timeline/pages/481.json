@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 358,
+        "line_type": "JP",
+        "title": "特殊作战2",
+        "image": "https://static.kivo.wiki/images/timeline/yIZN1zTHQXvI5fcXWY2Sa15QtZ7O7GxN.jpg",
+        "body_summary": "【イベント紹介】 6/8(水)メンテナンス後、不定期開催コンテンツ「特殊作戦」が開始されます！ 予期せぬサイバー攻撃を受けてしまった「特異現象捜査部」ですが、この雪辱を果たすためヒマリさんが新たな行動",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1533282561966804993",
+        "start_time": 1654678800,
+        "end_time": 1655866799
+      },
       {
         "id": 361,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1531563634769338370",
         "start_time": 1653987650,
         "end_time": 1653987650
-      },
-      {
-        "id": 1115,
-        "line_type": "Globle",
-        "title": "国际服「Exclusive Weapon」实装 & T6装备实装 & 等级上限提升至75 & 咖啡厅扩大以及部分功能更新",
-        "image": "https://static.kivo.wiki/images/timeline/FrTJHcOlSVavsUDgUuD5gF1CJ0MdFVq7.jpg",
-        "body_summary": "[Update Summary] I've summarized the key contents of the 5/31 update so that you don't miss out on v",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1532618103493799937",
-        "start_time": 1653987642,
-        "end_time": 1653987642
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043858,
+  "time": 1781130955,
   "version": "1.0.0-beta.43"
 }

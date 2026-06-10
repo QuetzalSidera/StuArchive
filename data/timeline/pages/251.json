@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2985,
+        "line_type": "JP",
+        "title": "活动「学漫同人物語 ～2人が求める最終回～」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/a3kZ8AmmZWBQPuDExwuyqhS7FQc2OHUe.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生、あの名作漫画「ルナ」のことを覚えてますか？ とある理由から幻の最終巻を求めて、レッドウィンター中を探し回ったあの物語を、今一度思い出してみましょう！ 復刻イベント「学漫",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1820294391489352162",
+        "start_time": 1723021200,
+        "end_time": 1723604399
+      },
       {
         "id": 2983,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1820701729933140107",
         "start_time": 1722924039,
         "end_time": 1722924039
-      },
-      {
-        "id": 2966,
-        "line_type": "Globle",
-        "title": "国际服例行维护66",
-        "image": "",
-        "body_summary": "[8/6 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/6 (Tue). 🗓️Maintena",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1819297095247106106",
-        "start_time": 1722909604,
-        "end_time": 1722927604
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043574,
+  "time": 1781130696,
   "version": "1.0.0-beta.43"
 }

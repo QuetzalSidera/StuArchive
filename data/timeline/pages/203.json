@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3452,
+        "line_type": "CN",
+        "title": "例行维护 #29",
+        "image": "https://static.kivo.wiki/images/timeline/HUUq3Jmkif77Es9PwWgHEoD67L4guCmS.gif",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月19日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405112963022585992",
+        "start_time": 1734588000,
+        "end_time": 1734602400
+      },
       {
         "id": 3450,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1868567009107316813",
         "start_time": 1734465600,
         "end_time": 1734983999
-      },
-      {
-        "id": 3481,
-        "line_type": "Globle",
-        "title": " 国际服主线Vol.1 第三章 Part3更新",
-        "image": "https://static.kivo.wiki/images/timeline/J3vaVCW1CmFOO30GsCFzJCtoi0BovsUR.jpg",
-        "body_summary": "[Main Story Announcement] The Main Story Vol. 1 Foreclosure Task Force Chapter 3 Part 3 'Traces of a",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/1867449371777794168",
-        "start_time": 1734411600,
-        "end_time": 1734411600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043515,
+  "time": 1781130641,
   "version": "1.0.0-beta.43"
 }

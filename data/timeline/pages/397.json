@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1487,
+        "line_type": "Globle",
+        "title": "国际服卡池「...Was there an incident? Whenever or wherever you need us, the Public Peace Bureau will be there.」",
+        "image": "https://static.kivo.wiki/images/timeline/oUib87Nvi8ot6dcFMYrNJg1r4meARPGe.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 8/1 (Tue)! Pick-Up Student: 3★",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1685217348062793728",
+        "start_time": 1690855209,
+        "end_time": 1691719149
+      },
       {
         "id": 1486,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1684458604852568071",
         "start_time": 1690527620,
         "end_time": 1692514760
-      },
-      {
-        "id": 1484,
-        "line_type": "Globle",
-        "title": "国际服Discord频道1,000,000成员纪念礼物",
-        "image": "https://static.kivo.wiki/images/timeline/QKPGxnAFai2duBw2ZOxgC3kmIA4WdCjT.jpg",
-        "body_summary": "[100,000 Discord Member Celebration] Sensei, Blue Archive's official Discord has reached 100,000 mem",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1684820990701056000",
-        "start_time": 1690527618,
-        "end_time": 1690527618
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043753,
+  "time": 1781130859,
   "version": "1.0.0-beta.43"
 }

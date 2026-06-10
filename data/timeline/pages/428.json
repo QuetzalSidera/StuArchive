@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1354,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习7",
+        "image": "https://static.kivo.wiki/images/timeline/zH4uFl55QV5reSxERA3kXVIjYDUC7j8e.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Shooting Drill) has opened, at 02:00 AM on ",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1637997457983373313",
+        "start_time": 1679364003,
+        "end_time": 1679943543
+      },
       {
         "id": 1356,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1634086687314771968",
         "start_time": 1678780807,
         "end_time": 1679364007
-      },
-      {
-        "id": 1349,
-        "line_type": "Globle",
-        "title": "国际服例行维护34",
-        "image": "",
-        "body_summary": "[3/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 3/14 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1634131985416302592",
-        "start_time": 1678759215,
-        "end_time": 1678780815
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043792,
+  "time": 1781130895,
   "version": "1.0.0-beta.43"
 }

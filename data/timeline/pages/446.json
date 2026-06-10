@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 528,
+        "line_type": "JP",
+        "title": "优香小剧场最终回",
+        "image": "https://static.kivo.wiki/images/timeline/jzzDg1bpZBrrtw74ZNKW5satm9WS70Ym.png",
+        "body_summary": "【#ちょっとお時間いただけますか】 先生、おはようございます♪ いよいよ第2クールも最終回！ ユウカさんノアさんと毎週おしゃべり出来て楽しかったですね♪ ▼動画はこちら https://youtube",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1607150445503385601",
+        "start_time": 1672012800,
+        "end_time": 1672012800
+      },
       {
         "id": 525,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1602921329702772736",
         "start_time": 1671523210,
         "end_time": 1703617150
-      },
-      {
-        "id": 1276,
-        "line_type": "Globle",
-        "title": "国际服Vol.3 第四章前篇PV公开",
-        "image": "",
-        "body_summary": "[Update Notice] Main Story Vol.3 Eden Treaty Chapter 4 has been updated! Check out episodes 1–10 of ",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1605090622632861696",
-        "start_time": 1671518431,
-        "end_time": 1671518431
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043815,
+  "time": 1781130916,
   "version": "1.0.0-beta.43"
 }

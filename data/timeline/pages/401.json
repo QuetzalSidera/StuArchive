@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 729,
+        "line_type": "JP",
+        "title": "直播「夏のブルアカらいぶ！あっちっちSP」",
+        "image": "https://static.kivo.wiki/images/timeline/snxrgxXIWUWjjOrgYbZqoM1pUxUdKUCj.png",
+        "body_summary": "【2.5thアニバーサリー】 明日7/23(日)17時～ 「夏のブルアカらいぶ！あっちっちSP」放送！ Webでも会場でも、みんなで一緒に2.5周年をお祝いしましょう♪ ▼出演者 #坂巻学 #貝原怜奈",
+        "type": "Live",
+        "url": "twitter.com/Blue_ArchiveJP/status/1682586270420049921",
+        "start_time": 1690102800,
+        "end_time": 1690116338
+      },
       {
         "id": 2693,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1680125150526840834",
         "start_time": 1689710400,
         "end_time": 1690142399
-      },
-      {
-        "id": 936,
-        "line_type": "JP",
-        "title": "联合作战「气垫船」2",
-        "image": "https://static.kivo.wiki/images/timeline/pJXgq5e4u4mw7OG2p9kADo4R4wYRWsU6.jpg",
-        "body_summary": "【連合作戦】 復刻イベント「アビドスリゾート復旧対策委員会」の開催に伴い、本日11:00より「連合作戦」も開始されました！ 参加方法や報酬などの詳細は、下記のお知らせにてご確認ください♪ ▼お知らせ ",
-        "type": "AlliedOperation",
-        "url": "twitter.com/Blue_ArchiveJP/status/1681169826121932801",
-        "start_time": 1689649200,
-        "end_time": 1690167540
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043758,
+  "time": 1781130864,
   "version": "1.0.0-beta.43"
 }

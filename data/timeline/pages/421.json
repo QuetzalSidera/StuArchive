@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 656,
+        "line_type": "JP",
+        "title": "特别依赖2倍#29",
+        "image": "https://static.kivo.wiki/images/timeline/MW3nNwXVSkTfCQ9SGf7Q1GCmBEXGZ6ZU.jpg",
+        "body_summary": "【キャンペーン予告】 4/19(水)より、「特別依頼」において各種「レポート」や「クレジット」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/4/19(水)4:00 ~",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1647887673720442880?s=20",
+        "start_time": 1681878059,
+        "end_time": 1682482859
+      },
       {
         "id": 655,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1644898156495388673?s=20",
         "start_time": 1681272753,
         "end_time": 1681877553
-      },
-      {
-        "id": 652,
-        "line_type": "JP",
-        "title": "屋内戦・ケセド4",
-        "image": "https://static.kivo.wiki/images/timeline/qNHNXt3ft8PHUQIbrFpXVgWgXZG9ZSHi.jpg",
-        "body_summary": "【総力戦・予告】 4月12日(水)11:00より、総力戦「屋内戦・ケセド」が開幕いたします！ 順位に応じて各種「ケセド(屋内戦)のトロフィー」を獲得できますので、生徒さん達と協力してBOSSへと挑みま",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1644535565247979521?s=20",
-        "start_time": 1681272696,
-        "end_time": 1681877496
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043783,
+  "time": 1781130887,
   "version": "1.0.0-beta.43"
 }

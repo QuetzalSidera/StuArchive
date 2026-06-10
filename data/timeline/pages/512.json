@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 854,
+        "line_type": "Globle",
+        "title": "国际服总力战 Shiro & Kuro（Urban）1",
+        "image": "https://static.kivo.wiki/images/timeline/I6vSMAh27jQgzkVhN4qJJVLhjEQmLVY0.png",
+        "body_summary": "[Total Assault Preview] Total Assault - Shiro & Kuro (Urban Warfare) will be held on 11/29 (Mon)! Fo",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1463779492883742724",
+        "start_time": 1638176400,
+        "end_time": 1638802800
+      },
       {
         "id": 853,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "/twitter.com/Blue_ArchiveJP/status/1461182634063962113",
         "start_time": 1637438400,
         "end_time": 1637697599
-      },
-      {
-        "id": 862,
-        "line_type": "Globle",
-        "title": "国际服BGM DJ TAK REMIX_2021 Ver.",
-        "image": "",
-        "body_summary": "[Blue Archive X DJ TAK BGM REMIX8f1LmTU",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1461982648130232326",
-        "start_time": 1637398800,
-        "end_time": 1637398800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043896,
+  "time": 1781130991,
   "version": "1.0.0-beta.43"
 }

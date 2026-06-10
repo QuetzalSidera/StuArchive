@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 404,
+        "line_type": "JP",
+        "title": "主线剧情Vol.3「エデン条約」篇第4章「忘れられた神々のためのキリエ」后篇更新",
+        "image": "https://static.kivo.wiki/images/timeline/9Qtc7rkXKOONX5usWvEHTFInVuaJUX28.jpg",
+        "body_summary": "【メインストーリー追加・予告】 儀式のタイムリミット―日の出が目前に迫る中、サオリとミカの最後の戦いが幕を開ける。 引き金を引く指先が示す夜明けは果たして― Vol.3「エデン条約」編 第4章「忘れら",
+        "type": "MainStory",
+        "url": "twitter.com/Blue_ArchiveJP/status/1554663429784621056",
+        "start_time": 1660035600,
+        "end_time": 1660035600
+      },
       {
         "id": 1159,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1554754230338322432",
         "start_time": 1659988800,
         "end_time": 1660766399
-      },
-      {
-        "id": 1156,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍9",
-        "image": "https://static.kivo.wiki/images/timeline/ItihD4ZrN6RgvbgDKniRN05mBS1OzCHu.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 8/8 (Mon), the amount of rewards dropped in Bounty will be doubl",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1556173298832093185",
-        "start_time": 1659985205,
-        "end_time": 1660589945
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043846,
+  "time": 1781130944,
   "version": "1.0.0-beta.43"
 }

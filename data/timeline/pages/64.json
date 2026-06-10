@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4869,
+        "line_type": "Globle",
+        "title": "年末特别礼物",
+        "image": "https://static.kivo.wiki/images/timeline/F7MkXGC6T8HuxnuHt4YmtvU74U6TDpxQ.jpg",
+        "body_summary": "Sensei, thank you so much for being with Blue Archive throughout 2025! We’ve prepared a special gift",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2006168432891306234",
+        "start_time": 1767155317,
+        "end_time": 1767241717
+      },
       {
         "id": 4841,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2003722310826529026",
         "start_time": 1767060000,
         "end_time": 1767710862
-      },
-      {
-        "id": 4862,
-        "line_type": "Globle",
-        "title": "国际服学院交流会3倍#12",
-        "image": "https://static.kivo.wiki/images/timeline/3g3d9lBQiFOo2DBlEGLd6qcb6q6STUgp.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 12/29 (Mon), Scrimmage reward will be tripled! Don't miss ou",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2004811988040581491",
-        "start_time": 1767034800,
-        "end_time": 1767639599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043344,
+  "time": 1781130484,
   "version": "1.0.0-beta.43"
 }

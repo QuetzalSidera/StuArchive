@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3445,
+        "line_type": "JP",
+        "title": "「絆ダイアローグ Vol.7」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/eANLbBb0B3DdzomG1RovbmisqzW3MunA.jpg",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」の第7弾が配信開始されました！ 今回はセミナーのユウカさん！ ユウカさんの心のうちが覗けるかもしれないこの曲……。 是非、聞いてみてくださいね！ ▼各種",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1870849274352681314",
+        "start_time": 1734883200,
+        "end_time": 1734883200
+      },
       {
         "id": 3444,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/P5B4j4msk",
         "start_time": 1734602400,
         "end_time": 1734602400
-      },
-      {
-        "id": 3452,
-        "line_type": "CN",
-        "title": "例行维护 #29",
-        "image": "https://static.kivo.wiki/images/timeline/HUUq3Jmkif77Es9PwWgHEoD67L4guCmS.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月19日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405112963022585992",
-        "start_time": 1734588000,
-        "end_time": 1734602400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043514,
+  "time": 1781130640,
   "version": "1.0.0-beta.43"
 }

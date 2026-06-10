@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 226,
+        "line_type": "JP",
+        "title": "例行维护31",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/15(水) 12:00 〜 18:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1470634946553614338",
+        "start_time": 1639540800,
+        "end_time": 1639562400
+      },
       {
         "id": 225,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1470589584413458432",
         "start_time": 1639454400,
         "end_time": 1642003199
-      },
-      {
-        "id": 875,
-        "line_type": "Globle",
-        "title": "国际服例行维护3",
-        "image": "",
-        "body_summary": "[12/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 12/14 ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1470226973767217157",
-        "start_time": 1639450800,
-        "end_time": 1639468800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043893,
+  "time": 1781130988,
   "version": "1.0.0-beta.43"
 }

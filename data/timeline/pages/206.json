@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3428,
+        "line_type": "JP",
+        "title": "例行维护 #109（临时）",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 サーバー機器を調整するため、下記の時間に臨時メンテナンスを実施いたします。 ▼実施日時 2024年12月11日(水) 11:00 〜 17:00前後 ▼詳細 https://bl",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1866317030649180472",
+        "start_time": 1733886000,
+        "end_time": 1733907600
+      },
       {
         "id": 3348,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1233",
         "start_time": 1733378400,
         "end_time": 1734573600
-      },
-      {
-        "id": 3419,
-        "line_type": "CN",
-        "title": "限时限定招募【Where there's Toki there's victory】",
-        "image": "https://static.kivo.wiki/images/timeline/27eWfMiowoqt3Z4fPVAeDdvpysXeFcDY.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 限时招募【Where there's Toki there's victory】即将开启！在本次招募中，全新3★限定成员“时”登场，且招募概率得到提升！ ■ 招募时间",
-        "type": "Gacha",
-        "url": "bluearchive-cn.com/news/1232",
-        "start_time": 1733378400,
-        "end_time": 1734573600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043519,
+  "time": 1781130644,
   "version": "1.0.0-beta.43"
 }

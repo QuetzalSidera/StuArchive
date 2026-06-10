@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4925,
+        "line_type": "JP",
+        "title": "任务Hard2倍#51",
+        "image": "https://static.kivo.wiki/images/timeline/WfsaomrL3tGSmKUpRB8mdzVeMdNU1Cm7.jpg",
+        "body_summary": "【キャンペーン予告】 1月7日(水)4:00より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 🔷開催期間 1月7日(水)4:00 ～ 1月14日(水)3:59 ぜひ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2008086741845254527",
+        "start_time": 1767729600,
+        "end_time": 1768334400
+      },
       {
         "id": 4870,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2007951425490538506",
         "start_time": 1767571500,
         "end_time": 1767571500
-      },
-      {
-        "id": 4826,
-        "line_type": "CN",
-        "title": "任务（困难难度）2倍 #22",
-        "image": "https://static.kivo.wiki/images/timeline/BzBZwktqI6ZHjEIDSgjzLyN6YjGRBpXD.jpg",
-        "body_summary": "【任务（困难难度）】道具掉落量2倍 ■ 活动时间： • 01月05日 04:00 ~ 01月08日 03:59 活动期间，完成【任务（困难难度）】时，获得的道具掉落奖励数量变为2倍。",
-        "type": "Double",
-        "url": "www.bilibili.com/opus/1147194356862550018",
-        "start_time": 1767540382,
-        "end_time": 1767799582
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043340,
+  "time": 1781130481,
   "version": "1.0.0-beta.43"
 }

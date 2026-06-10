@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-06-09T20:06:31Z",
+  "generated_at": "2026-06-10T20:29:05Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1904,
-  "alias_count": 1872,
-  "normalized_alias_count": 1872,
+  "total_items": 1905,
+  "alias_count": 1873,
+  "normalized_alias_count": 1873,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -14847,6 +14847,21 @@
       },
       "detail_path": "items/721.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/721.json"
+    },
+    "1981": {
+      "id": 1981,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1981,
+        "name": "藏有冰川的冰箱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/8PqPuQFJG78HlYrVfdQHOVL7cZzyzzXg.png",
+        "rarity": 4,
+        "description": "装满了冷饮的冰箱。打开之后千万记得把门关上。"
+      },
+      "detail_path": "items/1981.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1981.json"
     },
     "1041": {
       "id": 1041,
@@ -31478,6 +31493,9 @@
     "彩色大型泳池": [
       "721"
     ],
+    "藏有冰川的冰箱": [
+      "1981"
+    ],
     "草稿用桌": [
       "1041"
     ],
@@ -37127,6 +37145,9 @@
     ],
     "彩色大型泳池": [
       "721"
+    ],
+    "藏有冰川的冰箱": [
+      "1981"
     ],
     "草稿用桌": [
       "1041"

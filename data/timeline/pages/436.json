@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5176,
+        "line_type": "JP",
+        "title": "2周年回顾PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/aOiozG6rkZvp4lqwqWJ9FJ2RL0I5PqWx.webp",
+        "body_summary": "【振り返り動画公開】 先日の #ブルアカらいぶ2周年SP でご覧いただきました、 1周年から2周年までのブルーアーカイブのイベントをまとめた動画を改めてご紹介します！ 先生！ 3年目もよろしくお願いし",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1621025623023181826",
+        "start_time": 1675321200,
+        "end_time": 1675321200
+      },
       {
         "id": 1902,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1618866400294051846",
         "start_time": 1675152052,
         "end_time": 1676340052
-      },
-      {
-        "id": 1312,
-        "line_type": "Globle",
-        "title": "国际服指名手配3倍4",
-        "image": "https://static.kivo.wiki/images/timeline/nxlBby5TTtWsbWo6zSR2iL95qva5BvvQ.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] From 1/31 (Tue), the amount of rewards dropped in Bounty will be trip",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1619591296338763776",
-        "start_time": 1675152051,
-        "end_time": 1675709991
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043802,
+  "time": 1781130904,
   "version": "1.0.0-beta.43"
 }

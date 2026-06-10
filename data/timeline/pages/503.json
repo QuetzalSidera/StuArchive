@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 911,
+        "line_type": "Globle",
+        "title": "国际服例行维护6",
+        "image": "",
+        "body_summary": "[1/25 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 1/25 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1485447264671723520",
+        "start_time": 1643079600,
+        "end_time": 1643097600
+      },
       {
         "id": 909,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1483272941777346560",
         "start_time": 1642503600,
         "end_time": 1642503600
-      },
-      {
-        "id": 906,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁5",
-        "image": "",
-        "body_summary": "[1/18(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1483337824598642688",
-        "start_time": 1642490220,
-        "end_time": 1642490220
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043885,
+  "time": 1781130981,
   "version": "1.0.0-beta.43"
 }

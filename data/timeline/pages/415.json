@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 640,
+        "line_type": "JP",
+        "title": "屋外戦・KAITEN FX Mk.0 5",
+        "image": "https://static.kivo.wiki/images/timeline/K3NUkqQH3D3RNhyiCTqzGDcY8CeDDGdZ.jpg",
+        "body_summary": "【総力戦・予告】 5月17日(水)11:00から、総力戦「屋外戦・KAITEN FX Mk.0」が開催されます！ 「F.SCT攻略戦」では頼もしい味方だったカイテンジャーの皆さんですが、悪事を働くので",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1658034746679779328",
+        "start_time": 1684292400,
+        "end_time": 1684871999
+      },
       {
         "id": 638,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1655059925696122880",
         "start_time": 1683709200,
         "end_time": 1684267199
-      },
-      {
-        "id": 633,
-        "line_type": "JP",
-        "title": "活动复刻「放課後スイーツ物語 甘い秘密と銃撃戦」",
-        "image": "https://static.kivo.wiki/images/timeline/BX5piPUIZG50WHR8HCITyZYEMbTwjaau.jpg",
-        "body_summary": "【イベント復刻開催予告】 先生！怪盗からの「予告状」のお次は、スーパースター(？)からの「挑戦状」みたいですよ♪ 復刻イベント「放課後スイーツ物語 甘い秘密と銃撃戦」5月10日(水)メンテナンス後に開",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1653972799311200259",
-        "start_time": 1683709200,
-        "end_time": 1684292399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043776,
+  "time": 1781130880,
   "version": "1.0.0-beta.43"
 }

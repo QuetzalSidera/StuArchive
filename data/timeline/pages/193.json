@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3510,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「I'll use all the power I possess to help you.」",
+        "image": "https://static.kivo.wiki/images/timeline/Ym0lSqPQzGCrXi7vV280U98HC5XMpGtk.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 1/16 (Thu)! 💌Pick-Up S",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/1878336106619383866",
+        "start_time": 1736992800,
+        "end_time": 1737597600
+      },
       {
         "id": 3509,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/P9xLH6dyd",
         "start_time": 1736841660,
         "end_time": 1736841660
-      },
-      {
-        "id": 3508,
-        "line_type": "Globle",
-        "title": "国际服大决战Shiro & Kuro (Indoor) #2",
-        "image": "https://static.kivo.wiki/images/timeline/9inIFgt88YyTRK8b2GZMEuk04bolltbe.jpg",
-        "body_summary": "[Grand Assault Preview] The Grand Assault - Shiro & Kuro (Indoor Warfare) will start on 1/14 (Tue)! ",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/1876886555740041692",
-        "start_time": 1736794800,
-        "end_time": 1737399600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043503,
+  "time": 1781130630,
   "version": "1.0.0-beta.43"
 }

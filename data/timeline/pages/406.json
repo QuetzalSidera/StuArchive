@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 708,
+        "line_type": "JP",
+        "title": "大决战BETA：市街地戦・ビナー",
+        "image": "https://static.kivo.wiki/images/timeline/SeGA0BvpBzdT0aKG358EEoofjJDN3Ebx.jpg",
+        "body_summary": "【大決戦(BETA版)予告】 6月28日(水)11:00より、新コンテンツ・大決戦「市街地戦・ビナー」を開催します！ 防御タイプの異なる「ビナー」をそれぞれ倒して「大決戦コイン」を獲得し、「大決戦ショ",
+        "type": "BigRaid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1672801897437351937",
+        "start_time": 1687921200,
+        "end_time": 1688500799
+      },
       {
         "id": 711,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1673612475475046405",
         "start_time": 1687855317,
         "end_time": 1687855317
-      },
-      {
-        "id": 1451,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍18",
-        "image": "https://static.kivo.wiki/images/timeline/OrsdlqAaS6llfxL9xyk1hrPTq8lJ4zsY.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 6/26 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1672499798627213318",
-        "start_time": 1687806056,
-        "end_time": 1688410856
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043765,
+  "time": 1781130870,
   "version": "1.0.0-beta.43"
 }

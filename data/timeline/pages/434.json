@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1324,
+        "line_type": "Globle",
+        "title": "国际服活动「Special Mission DECAGRAMMATON」3",
+        "image": "https://static.kivo.wiki/images/timeline/MXZJSToVUB7hBRj1Jw2ZmL9PE1Ljr2r2.jpg",
+        "body_summary": "[Event Update Notice] Under pressure from the Decagrammaton, Eimi and Himari set up a new Super Phen",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1625386859579817984",
+        "start_time": 1676355655,
+        "end_time": 1677549595
+      },
       {
         "id": 1323,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1623562413022019586",
         "start_time": 1675998000,
         "end_time": 1676019600
-      },
-      {
-        "id": 579,
-        "line_type": "JP",
-        "title": "特别依赖3倍 #7 指名手配3倍 #7",
-        "image": "https://static.kivo.wiki/images/timeline/s1FkwhtS2krihae7sAd9TWFZQNObXsuf.jpg",
-        "body_summary": "【キャンペーン予告】 2月8日(水)4:00より、「特別依頼」ならびに「指名手配」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 2nd Anniversaryを記念したこの特別な機会を、",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1622067694525898755",
-        "start_time": 1675800000,
-        "end_time": 1676404799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043799,
+  "time": 1781130902,
   "version": "1.0.0-beta.43"
 }

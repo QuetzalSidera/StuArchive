@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 921,
+        "line_type": "JP",
+        "title": "过场插图追加2",
+        "image": "https://static.kivo.wiki/images/timeline/7tkDwrtMzwXzX1arbypu3rHB7ufirOtd.png",
+        "body_summary": "本日はローディングイラスト集後半を公開します！ 2日間に分けて生徒さん達の様々な一面を描いたローディングイラストを公開してきましたが、先生のイチ推しイラストはどちらですか？ これからもをどんどん新たに",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1497043797762805761",
+        "start_time": 1645793085,
+        "end_time": 1645793085
+      },
       {
         "id": 271,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1494960767585583107",
         "start_time": 1645516800,
         "end_time": 1646708400
-      },
-      {
-        "id": 1014,
-        "line_type": "Globle",
-        "title": "国际服卡池「Arrived at the objective. Let's go straight to the next mission.」",
-        "image": "https://static.kivo.wiki/images/timeline/DgpHDAi3nEmi8bFqyjQjXlPUGr4wtNCU.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 2/22 (Tue)! Target Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1494960230865661953",
-        "start_time": 1645516800,
-        "end_time": 1646708400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043878,
+  "time": 1781130974,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 936,
+        "line_type": "JP",
+        "title": "联合作战「气垫船」2",
+        "image": "https://static.kivo.wiki/images/timeline/pJXgq5e4u4mw7OG2p9kADo4R4wYRWsU6.jpg",
+        "body_summary": "【連合作戦】 復刻イベント「アビドスリゾート復旧対策委員会」の開催に伴い、本日11:00より「連合作戦」も開始されました！ 参加方法や報酬などの詳細は、下記のお知らせにてご確認ください♪ ▼お知らせ ",
+        "type": "AlliedOperation",
+        "url": "twitter.com/Blue_ArchiveJP/status/1681169826121932801",
+        "start_time": 1689649200,
+        "end_time": 1690167540
+      },
       {
         "id": 1478,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1679387091472613381",
         "start_time": 1689232020,
         "end_time": 1689232020
-      },
-      {
-        "id": 1907,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编第一期",
-        "image": "https://static.kivo.wiki/images/timeline/obZZ6hUWesKDegWL6Qyo9Ak8QSTkyBRr.png",
-        "body_summary": "www.youtube.com/watch?v=PnqVozs72ag",
-        "type": "Live",
-        "url": "www.youtube.com/watch?v=PnqVozs72ag",
-        "start_time": 1689177600,
-        "end_time": 1689177600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043760,
+  "time": 1781130865,
   "version": "1.0.0-beta.43"
 }

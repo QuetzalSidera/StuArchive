@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4402,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 25-08-22",
+        "image": "https://static.kivo.wiki/images/timeline/EdhWZZUkL9VaxvtJrM1ZqGgFpbg1oPCC.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1958801579810988432",
+        "start_time": 1755861511,
+        "end_time": 1755861511
+      },
       {
         "id": 4422,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1958122197559697530",
         "start_time": 1755688240,
         "end_time": 1755688240
-      },
-      {
-        "id": 4400,
-        "line_type": "JP",
-        "title": "例行维护 #126",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 ただいま、定期メンテナンスを実施しております。 メンテナンス中はゲームをご利用いただくことができませんので、ご注意ください。 終了時間は19:00前後を予定しております。 ▼詳細",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1957986064611881226",
-        "start_time": 1755688077,
-        "end_time": 1755688077
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043398,
+  "time": 1781130534,
   "version": "1.0.0-beta.43"
 }

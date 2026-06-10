@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1196,
+        "line_type": "Globle",
+        "title": "国际服活动「The Clumsy Sister and the Magician of the Old Library」",
+        "image": "https://static.kivo.wiki/images/timeline/XNFDwV1hzzkdy06EYUS7CUs09PqYc1sH.jpg",
+        "body_summary": "[Update Preview] Trinity General School will be in the spotlight for the new event! Stay tuned for t",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1575742239883423744",
+        "start_time": 1664870427,
+        "end_time": 1666058427
+      },
       {
         "id": 1208,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1575017497752846336",
         "start_time": 1664362800,
         "end_time": 1664362800
-      },
-      {
-        "id": 450,
-        "line_type": "JP",
-        "title": "Area20开放",
-        "image": "https://static.kivo.wiki/images/timeline/LVJFVdy6O49sX8f9k2OHGc5VGWkB4L72.jpg",
-        "body_summary": "【エリア解放予告】 メンテナンス終了後、「任務 Area20」が開放されます！ 「Area20」では新たな「T7装備」が獲得できる他、「任務 Hard」20-3では一定確率でイオリさんの「神名文字」が",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1575002401614213121",
-        "start_time": 1664362800,
-        "end_time": 1664362800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043835,
+  "time": 1781130934,
   "version": "1.0.0-beta.43"
 }

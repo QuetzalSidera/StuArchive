@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1793,
+        "line_type": "JP",
+        "title": "任务Normal2倍#32",
+        "image": "https://static.kivo.wiki/images/timeline/S17VmjY3F6l0piT1xxeYXIqcEgQ4wf9b.jpg",
+        "body_summary": "【キャンペーン予告】 12/14(木)より「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンを開催します！ ▼開催期間 12/14(木)4:00 〜 12/20(水)3:59 生徒さん",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1734951593597149547",
+        "start_time": 1702497600,
+        "end_time": 1703015999
+      },
       {
         "id": 1792,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1734470640206483765",
         "start_time": 1702346452,
         "end_time": 1703555992
-      },
-      {
-        "id": 1827,
-        "line_type": "Globle",
-        "title": "国际服总力战 Hod (Indoor) 1",
-        "image": "https://static.kivo.wiki/images/timeline/YmYKgoD8Za7SMk3wRGJS6ZqMiNRrXfl9.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Hod (Indoor Warfare) has opened 12/12 (Tue) 2:00 AM ",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1734473156834771390",
-        "start_time": 1702346450,
-        "end_time": 1702929590
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043699,
+  "time": 1781130809,
   "version": "1.0.0-beta.43"
 }

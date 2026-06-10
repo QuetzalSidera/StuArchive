@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3044,
+        "line_type": "JP",
+        "title": "活动「隠されし遺産を求めて ～トリニティの課外活動～」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/aah2LASYtdXbWKVlpTL6qLpScnF2ok1r.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生、トリニティの皆さんと、とある遺跡調査のため、無人島に行ったことを覚えていますか？？ いま一度あの夏を思い出してみましょう！！ 復刻イベント「隠されし遺産を求めて ～トリ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1829444465884619190",
+        "start_time": 1725440400,
+        "end_time": 1726628399
+      },
       {
         "id": 3043,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1829398648754434172",
         "start_time": 1725357600,
         "end_time": 1726513200
-      },
-      {
-        "id": 3049,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习25",
-        "image": "https://static.kivo.wiki/images/timeline/fAMSJwMRUnTsKmnUIQpqWpFQQ36G2AV3.jpg",
-        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Escort Drill) will start on 9/3 (Tue)! ➡️Offici",
-        "type": "MiniBattle",
-        "url": "x.com/EN_BlueArchive/status/1828688970311516501",
-        "start_time": 1725357600,
-        "end_time": 1725962400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043562,
+  "time": 1781130684,
   "version": "1.0.0-beta.43"
 }

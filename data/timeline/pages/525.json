@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1033,
+        "line_type": "JP",
+        "title": "卡池「海統べる寄り添いの月光」&「夏乱す容赦なき太陽」&限定卡池公告",
+        "image": "https://static.kivo.wiki/images/timeline/OsrHQAxxySeiEVYFRMFLZ7b8W06X0qk3.jpg",
+        "body_summary": "【ピックアップ募集・予告】 イベント限定PU募集「海統べる寄り添いの月光」&「夏乱す容赦なき太陽」がまもなく開催です！ 🔷PU生徒 ★3ヒナ(水着) (CV:#広橋涼) ★3イオリ(水着) (CV:#",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1420311070099443713",
+        "start_time": 1627560000,
+        "end_time": 1628740800
+      },
       {
         "id": 969,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1420296102255894534",
         "start_time": 1627531200,
         "end_time": 1627560000
-      },
-      {
-        "id": 966,
-        "line_type": "JP",
-        "title": "LINE表情包 Vol.1",
-        "image": "https://static.kivo.wiki/images/timeline/LFJ9GG8KcixPyl01kaBJTflW0J24NeCH.jpg",
-        "body_summary": "【新情報 ②】 「ブルーアーカイブ LINEスタンプ VOL.1」および「対策委員会 テーマのライン着せ替え」が販売決定です！ おなじみの生徒さんたちがかわいいスタンプや着せ替えになって登場しますので",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1418902236906786821",
-        "start_time": 1627315200,
-        "end_time": 1627315200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043912,
+  "time": 1781131006,
   "version": "1.0.0-beta.43"
 }

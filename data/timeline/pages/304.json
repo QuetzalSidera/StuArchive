@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2401,
+        "line_type": "JP",
+        "title": "文本热更新&活动剧情文本事件的道歉信",
+        "image": "https://static.kivo.wiki/images/timeline/rceGda1GTYivviRJYP3kLC5qPscGXVLR.jpg",
+        "body_summary": "[アップデートの詳細報告] 先ほど、現在開催中のイベント「にぎにぎと　ゆきゆきて」のシナリオテキストをアップデートいたしました。 当該アップデートは、ゲームに再ログインすることで適用されます。 また本",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1776163595577172164",
+        "start_time": 1712308920,
+        "end_time": 1712308920
+      },
       {
         "id": 2407,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/O7njMg7cP",
         "start_time": 1712224800,
         "end_time": 1712519940
-      },
-      {
-        "id": 2426,
-        "line_type": "CN",
-        "title": "例行维护14",
-        "image": "https://static.kivo.wiki/images/timeline/yXe7djdV182cKxf9H42zLGkZ0NDDW373.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月04日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405019104414400858",
-        "start_time": 1712210435,
-        "end_time": 1712224835
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043640,
+  "time": 1781130755,
   "version": "1.0.0-beta.43"
 }

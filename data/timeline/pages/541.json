@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 993,
+        "line_type": "JP",
+        "title": "话题趣闻 - 花凛的回忆大厅CG在各群聊中扩散",
+        "image": "https://static.kivo.wiki/images/timeline/DcUnyYWoh9RBgnmeV9V4UGRmUXR7oB1p.png",
+        "body_summary": "随着日服CBT测试的开始，一部分游戏截图也在网络中流传。而其中传播最广的则是花凛的回忆大厅CG，一时间各QQ群聊都在互相询问“这是什么游戏？”",
+        "type": "Trivia",
+        "url": "",
+        "start_time": 1596715202,
+        "end_time": 1596715202
+      },
       {
         "id": 8,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "",
         "start_time": 1552450570,
         "end_time": 1552450570
-      },
-      {
-        "id": 991,
-        "line_type": "Other",
-        "title": "金用河PD与编剧isakusan的上一个合作项目《魔法图书馆（Qurare-MAGIC LIBRARY）》",
-        "image": "https://static.kivo.wiki/images/timeline/P2LJ90IwhhAnbOMtvDwkI3ujrpsP7O8T.png",
-        "body_summary": "由蔚蓝档案的主要开发人员金用河PD与编剧isakusan过去共同参与开发的手机游戏《魔法图书馆Qurare-MAGIC LIBRARY》，由于该作在运营后期的各种问题，已于2018年6月28日关服。",
-        "type": "Trivia",
-        "url": "namu.wiki/w/%ED%81%90%EB%9D%BC%EB%A0%88:%20%EB%A7%88%EB%B2%95%20%EB%8F%84%EC%84%9C%EA%B4%80",
-        "start_time": 1395030800,
-        "end_time": 1530160400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043932,
+  "time": 1781131025,
   "version": "1.0.0-beta.43"
 }

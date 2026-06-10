@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4724,
+        "line_type": "Globle",
+        "title": "国际服任务Hard2倍 #41",
+        "image": "https://static.kivo.wiki/images/timeline/I84UmmoyPSF0maFkX5ObUkvAZTqH62SQ.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1992128412975059057?s=19",
+        "start_time": 1764010800,
+        "end_time": 1764615599
+      },
       {
         "id": 4750,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/QcqAGa1ou",
         "start_time": 1763627256,
         "end_time": 1764232056
-      },
-      {
-        "id": 4730,
-        "line_type": "CN",
-        "title": "例行维护 #48",
-        "image": "https://static.kivo.wiki/images/timeline/CuOP0COMQATpLxqrvu6MiPQYhlYWoymu.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 11月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405234755380838764",
-        "start_time": 1763618460,
-        "end_time": 1763632860
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043361,
+  "time": 1781130500,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 432,
+        "line_type": "JP",
+        "title": "任务Hard2倍#17",
+        "image": "https://static.kivo.wiki/images/timeline/EWCReaB31rsVPTvCqyuVIHnb7SUF020z.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼期間 9月18日(日)4:00 〜 9月21日(水)3:59 ドロップ2倍により生徒さんの「神",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1570246059896733696",
+        "start_time": 1663444800,
+        "end_time": 1663703999
+      },
       {
         "id": 430,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1568418988337627137",
         "start_time": 1662775209,
         "end_time": 1662775209
-      },
-      {
-        "id": 1186,
-        "line_type": "Globle",
-        "title": "国际服网页活动「Under a Shining Moon, Crimson shade of Hide and Seek」",
-        "image": "https://static.kivo.wiki/images/timeline/Q3gss5hLauoqMc2sW1s0sV6PbTiuSAjP.jpg",
-        "body_summary": "[Under a Shining Moon, Crimson shade of Hide and Seek Event] A new Event has begun! Participate for ",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1567709438747852807",
-        "start_time": 1662606026,
-        "end_time": 1663470026
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043840,
+  "time": 1781130938,
   "version": "1.0.0-beta.43"
 }

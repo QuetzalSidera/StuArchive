@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5239,
+        "line_type": "Globle",
+        "title": "国际服迷你剧情更新「And Yet, the Perfectual Council Goes On」",
+        "image": "https://static.kivo.wiki/images/timeline/bqPfYijWqjawM733J1Hbh8RviNynEXiC.jpg",
+        "body_summary": "",
+        "type": "OtherStory",
+        "url": "x.com/EN_BlueArchive/status/2026162954249654711",
+        "start_time": 1772193540,
+        "end_time": 1772452740
+      },
       {
         "id": 5163,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2025406091824431467",
         "start_time": 1771988400,
         "end_time": 1772567999
-      },
-      {
-        "id": 5171,
-        "line_type": "JP",
-        "title": "特别依赖2倍#65",
-        "image": "https://static.kivo.wiki/images/timeline/IVFjdunkFj5DPC4QkbBdjZYZL2ZJ8MdE.jpg",
-        "body_summary": "【キャンペーン予告】 2月25日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔹開催期間 2026年2月25日(水)4:00 ～ 2026年3月4日(水)",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2025768502418984972",
-        "start_time": 1771963200,
-        "end_time": 1772567999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043310,
+  "time": 1781130453,
   "version": "1.0.0-beta.43"
 }

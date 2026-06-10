@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1234,
+        "line_type": "Globle",
+        "title": "国际服例行维护25",
+        "image": "",
+        "body_summary": "[11/8 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/8 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1589132151215493124",
+        "start_time": 1667872813,
+        "end_time": 1667898013
+      },
       {
         "id": 1238,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1586613877776736256",
         "start_time": 1667242838,
         "end_time": 1667847578
-      },
-      {
-        "id": 485,
-        "line_type": "JP",
-        "title": "障害物競走动画",
-        "image": "https://static.kivo.wiki/images/timeline/u9KRRCx5ybN5RJ1ltXYm68ObaVIrw9w3.png",
-        "body_summary": "【YouTubeプレミア公開】 先生！ 生徒さんが入場してきました！！ さぁどんなレースになるのか！ 先生早く見に行きましょう！ ▼視聴ページ https://youtu.be/ReRoCot6ZKE",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1586311892905201665",
-        "start_time": 1667044800,
-        "end_time": 1667046600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043826,
+  "time": 1781130926,
   "version": "1.0.0-beta.43"
 }

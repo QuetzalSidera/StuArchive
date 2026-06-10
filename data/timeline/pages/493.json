@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 292,
+        "line_type": "JP",
+        "title": "引导任务「シャーレの任務ガイド」",
+        "image": "https://static.kivo.wiki/images/timeline/kALPEJZaoV6hE2OJNyHTulD7skN3wkYb.jpg",
+        "body_summary": "【ガイドミッション】 今回のメンテナンス後、イベントミッション「シャーレの任務ガイド」が開始します。 期間中ミッションクリアで、育成素材やサキさんのモーション付きの家具などの報酬が獲得できるほか、イベ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1506526420050509827",
+        "start_time": 1648033200,
+        "end_time": 1650470399
+      },
       {
         "id": 290,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1506173834805878784",
         "start_time": 1647934200,
         "end_time": 1647934200
-      },
-      {
-        "id": 1051,
-        "line_type": "Globle",
-        "title": "国际服卡池「It's all to protect morality on the beach!」",
-        "image": "https://static.kivo.wiki/images/timeline/rBAYZGgUT3ersaLPLSBVdEl1KRyS1yzw.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 3/22 (Tue)! Target Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1505106824583778305",
-        "start_time": 1647934200,
-        "end_time": 1649127600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043873,
+  "time": 1781130969,
   "version": "1.0.0-beta.43"
 }

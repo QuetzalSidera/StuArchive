@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1527,
+        "line_type": "Globle",
+        "title": "国际服总力战 Binah (Field) 4",
+        "image": "https://static.kivo.wiki/images/timeline/t0sawPk3xc7vgZ65acSnWpY57cu9AAvG.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Binah (Field Warfare) has opened 9/19 (Tue) 2:00 AM ",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1704027542804672725",
+        "start_time": 1695088835,
+        "end_time": 1695668435
+      },
       {
         "id": 1525,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/841256116179435523?spm_id_from=333.999.0.0",
         "start_time": 1694706600,
         "end_time": 1694706601
-      },
-      {
-        "id": 1681,
-        "line_type": "CN",
-        "title": "在线更新3",
-        "image": "https://static.kivo.wiki/images/timeline/Fens0Jt3L0LwCK4ALokOHlzo8DXAI1t5.webp",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们已于 09月14日 20:15 进行一次在线更新，重新登录游戏即可获取最新的更新资源。 以下是本次在线更新的详细内容： ■ 更新时间 09月14日 20:15 ■",
-        "type": "Maintenance",
-        "url": "www.bilibili.com/opus/841196592210903056",
-        "start_time": 1694693700,
-        "end_time": 1694693702
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043734,
+  "time": 1781130841,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1301,
+        "line_type": "Globle",
+        "title": "国际服「Abydos Resort Restoration Task Force」活动PV公开",
+        "image": "",
+        "body_summary": "[Update Notice] The Abydos Resort Restoration Task Force event is here! Can the Task Force protect t",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1615251449906176001",
+        "start_time": 1673940900,
+        "end_time": 1673940900
+      },
       {
         "id": 1885,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1613060666210004993",
         "start_time": 1673422200,
         "end_time": 1673422200
-      },
-      {
-        "id": 543,
-        "line_type": "JP",
-        "title": "例行维护60",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 1/11(水) 11:00 〜 17:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1612690753897234432",
-        "start_time": 1673406000,
-        "end_time": 1673427600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043810,
+  "time": 1781130911,
   "version": "1.0.0-beta.43"
 }

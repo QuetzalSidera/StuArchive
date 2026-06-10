@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5039,
+        "line_type": "JP",
+        "title": " 指名手配3倍 #19 任务normal3倍 #17 任务hard3倍 #17",
+        "image": "https://static.kivo.wiki/images/timeline/B5PIeWopctUNuNWR2ufKB9MUd98tVT3k.jpg",
+        "body_summary": "【キャンペーン予告】 1月29日(木)4:00より、「指名手配」、「任務(Normal)」、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 🔹開催期間 1月29日(木)",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2016346669793869855",
+        "start_time": 1769677200,
+        "end_time": 1770281999
+      },
       {
         "id": 5021,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2016330200276193757",
         "start_time": 1769565600,
         "end_time": 1769565600
-      },
-      {
-        "id": 5023,
-        "line_type": "JP",
-        "title": "5周年纪念「主殿のお傍でニンニンニン」MV公开",
-        "image": "https://static.kivo.wiki/images/timeline/t6WCPfTv5cbTdoNMVrIqFiAS2OpjsQ8w.jpg",
-        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はイズナさんが歌う「主殿のお傍でニンニンニン」です！ ▼動画はこちら https://youtu.be/RkPR",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2016118993183244623",
-        "start_time": 1769562000,
-        "end_time": 1769562000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043328,
+  "time": 1781130470,
   "version": "1.0.0-beta.43"
 }

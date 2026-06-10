@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1492,
+        "line_type": "Globle",
+        "title": "国际服特别依赖3倍6",
+        "image": "https://static.kivo.wiki/images/timeline/QmVOKq9pvaUru0yYoEf2kTXOIGHRzxp4.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 8/7 (Mon), Commissions rewards will be tripled! Don't miss o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1687722605879681025",
+        "start_time": 1691434857,
+        "end_time": 1692039657
+      },
       {
         "id": 1491,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/NcQd57sAa",
         "start_time": 1691031616,
         "end_time": 1691031616
-      },
-      {
-        "id": 1715,
-        "line_type": "CN",
-        "title": "蔚蓝档案公测PV【与你的日常，就是奇迹！】",
-        "image": "",
-        "body_summary": "【蔚蓝档案】公测PV：与你的日常，就是奇迹！ 就是这一天！ 属于我们的奇迹，已经悄悄拉开了序幕哦~[阿洛娜][蔚蓝档案] 《蔚蓝档案》国服主题曲《Blue Canvas》 将于8月4日00：00同步上",
-        "type": "OutsideGames",
-        "url": "t.bilibili.com/825448046653341705",
-        "start_time": 1691028000,
-        "end_time": 1691076658
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043751,
+  "time": 1781130857,
   "version": "1.0.0-beta.43"
 }

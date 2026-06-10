@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5017,
+        "line_type": "CN",
+        "title": "总力战 佩洛洛斯拉 • 野外战 #3",
+        "image": "https://static.kivo.wiki/images/timeline/NXBYpSMiits3kt4Py5353kw5CLdcXkO2.png",
+        "body_summary": "在D.U.的附近海域发现了来历不明的巨大怪兽。 这只怪兽的外形看起来很像很久以前沉入海底的桃桃朋友玩偶。 虽然不知道为什么会发生这种事，但无论如何，必须阻止这只巨大怪兽的进击！ ■ 活动简介 • 总力",
+        "type": "Raid",
+        "url": "bluearchive-cn.com/news/1686",
+        "start_time": 1770271200,
+        "end_time": 1770753600
+      },
       {
         "id": 5015,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2018293326273745257",
         "start_time": 1770080400,
         "end_time": 1770080400
-      },
-      {
-        "id": 5036,
-        "line_type": "Globle",
-        "title": "国际服任务Hard2倍 #42",
-        "image": "https://static.kivo.wiki/images/timeline/FhEjNxrnSfw0K6WxsKBEC4URy054bvRR.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2017495563223048558",
-        "start_time": 1770058800,
-        "end_time": 1770663599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043323,
+  "time": 1781130465,
   "version": "1.0.0-beta.43"
 }

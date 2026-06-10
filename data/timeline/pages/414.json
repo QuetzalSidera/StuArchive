@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1413,
+        "line_type": "Globle",
+        "title": "国际服总力战 Binah (Urban) 3",
+        "image": "https://static.kivo.wiki/images/timeline/0rD3OqtjhTmAzSvsqBj37KB2fpphT9IF.jpg",
+        "body_summary": "[Total Assault Preview] Total Assault: Binah (Urban Warfare) starts 5/23 (Tue)! https://forum.nexon.",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1658729062439989252",
+        "start_time": 1684825200,
+        "end_time": 1685386740
+      },
       {
         "id": 1416,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1658381874807607296",
         "start_time": 1684292400,
         "end_time": 1684897199
-      },
-      {
-        "id": 640,
-        "line_type": "JP",
-        "title": "屋外戦・KAITEN FX Mk.0 5",
-        "image": "https://static.kivo.wiki/images/timeline/K3NUkqQH3D3RNhyiCTqzGDcY8CeDDGdZ.jpg",
-        "body_summary": "【総力戦・予告】 5月17日(水)11:00から、総力戦「屋外戦・KAITEN FX Mk.0」が開催されます！ 「F.SCT攻略戦」では頼もしい味方だったカイテンジャーの皆さんですが、悪事を働くので",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1658034746679779328",
-        "start_time": 1684292400,
-        "end_time": 1684871999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043775,
+  "time": 1781130879,
   "version": "1.0.0-beta.43"
 }

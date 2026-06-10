@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 892,
+        "line_type": "Other",
+        "title": "基沃托斯古书馆一周年 ~Birthday 1ST~",
+        "image": "https://static.kivo.wiki/images/timeline/0da28GZGzFsbDhZrRNQ6WGJc5keYupyp.webp",
+        "body_summary": "今天是基沃托斯古书馆成立的第365天，在这一天迎来了她的第一次生日。 一些新来的老师可能会疑惑，不是6月份才出来吗，怎么就一周年了？实际上古书馆建站的时间是按旧站来算的，也就是2022年10月26日，",
+        "type": "Other",
+        "url": "www.bilibili.com/read/cv27226792/",
+        "start_time": 1698294360,
+        "end_time": 1698294360
+      },
       {
         "id": 2182,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1715341279855628591",
         "start_time": 1698141657,
         "end_time": 1698141657
-      },
-      {
-        "id": 2666,
-        "line_type": "JP",
-        "title": "联动纪念登录奖励「コラボ開催記念ログインボーナス」",
-        "image": "https://static.kivo.wiki/images/timeline/Z0QJILvjiXilan77farf22GRtnyIs037.jpg",
-        "body_summary": "【新情報⑥】 10/24(火)メンテナンス後、「コラボ開催記念ログインボーナス」が実施されます！ 期間中に合計600個の青輝石と、家具モーション付限定家具「モモフレンズのグッズ台」を入手できます。 ぜ",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1715343360431702489",
-        "start_time": 1698141649,
-        "end_time": 1699412389
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043719,
+  "time": 1781130828,
   "version": "1.0.0-beta.43"
 }

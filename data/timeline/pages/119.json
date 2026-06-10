@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4243,
+        "line_type": "JP",
+        "title": "市街地戦・ホド#5",
+        "image": "https://static.kivo.wiki/images/timeline/700I22LRD4x5WPHQolozEU2yFZIDKxFa.jpg",
+        "body_summary": "【新情報⑩】 次は総力戦の情報になります。 総力戦「市街地戦・ホド」の開催が決定しました！ ▼開催期間 2025/7/30(水) 11:00 ~ 8/6(水) 3:59 #ブルアカ #ブルアカらいぶさ",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1946542413042114720?s=19",
+        "start_time": 1753844400,
+        "end_time": 1754423999
+      },
       {
         "id": 4325,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1093758091775705121",
         "start_time": 1753526126,
         "end_time": 1753526126
-      },
-      {
-        "id": 4289,
-        "line_type": "CN",
-        "title": "丹花 伊吹",
-        "image": "https://static.kivo.wiki/images/timeline/uaL8cQa4tKI0SjRGepACTlPulrhJS0KV.png",
-        "body_summary": "//////////档案启封////////// ■ 伊吹 歌赫娜万魔殿的议员，万魔殿的吉祥物少女。她是万魔殿年纪最小的一员，因其独有的诚实和可爱深受众人喜爱。她是个品行端正的孩子，为了不给前辈们添麻",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/1093433392258613253",
-        "start_time": 1753439411,
-        "end_time": 1753439411
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043411,
+  "time": 1781130546,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1437,
+        "line_type": "Globle",
+        "title": "国际服活动「The Cathedral's Merry Christmas: Remedial Knights' Gift'」",
+        "image": "https://static.kivo.wiki/images/timeline/UgTz2BAZxwixTmisesYBipLNkzFaMlYm.jpg",
+        "body_summary": "[Event Preview] The Cathedral's Merry Christmas: Remedial Knights' Gift' Event Story is coming soon!",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1667063985856827394",
+        "start_time": 1686639624,
+        "end_time": 1687831224
+      },
       {
         "id": 1442,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1666339317038596102",
         "start_time": 1686128400,
         "end_time": 1687316399
-      },
-      {
-        "id": 686,
-        "line_type": "JP",
-        "title": "引导任务「週休4日制確保運動ミッション」",
-        "image": "https://static.kivo.wiki/images/timeline/APkehxoWt3rKphPOYixzZ0xWXkWyIla7.jpg",
-        "body_summary": "【ガイドミッション】 メンテナンス後、ガイドミッション「週休4日制確保運動ミッション」が開始されます。 ミッションクリアで、家具モーション付限定家具「木工作業台」を入手できる他、イベントアイテム「工務",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1666324294115409920",
-        "start_time": 1686128400,
-        "end_time": 1688525999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043770,
+  "time": 1781130874,
   "version": "1.0.0-beta.43"
 }

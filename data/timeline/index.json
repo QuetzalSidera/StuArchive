@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-06-09T20:06:31Z",
+  "generated_at": "2026-06-10T20:29:05Z",
   "list_key": "timeline",
   "id_key": "id",
-  "max_page": 541,
-  "synced_pages": 541,
-  "total_items": 5410,
+  "max_page": 542,
+  "synced_pages": 542,
+  "total_items": 5411,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -182,6 +182,17 @@
       "end_time": 1781575154
     },
     {
+      "id": 5551,
+      "line_type": "Globle",
+      "title": "国际服卡池「I am here」",
+      "image": "https://static.kivo.wiki/images/timeline/ppbMILJgn1Y5jvL81uFDTaSrkbI2IGGR.jpg",
+      "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/9 (Tue)! 💌Pick-Up Students: ",
+      "type": "Gacha",
+      "url": "x.com/EN_BlueArchive/status/2062791532152053926",
+      "start_time": 1781012168,
+      "end_time": 1781575148
+    },
+    {
       "id": 5547,
       "line_type": "Globle",
       "title": "国际服联合火力演习#48",
@@ -202,17 +213,6 @@
       "url": "x.com/EN_BlueArchive/status/2062821729043730624",
       "start_time": 1780970554,
       "end_time": 1780981354
-    },
-    {
-      "id": 5551,
-      "line_type": "Globle",
-      "title": "国际服卡池「I am here」",
-      "image": "https://static.kivo.wiki/images/timeline/ppbMILJgn1Y5jvL81uFDTaSrkbI2IGGR.jpg",
-      "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/9 (Tue)! 💌Pick-Up Students: ",
-      "type": "Gacha",
-      "url": "x.com/EN_BlueArchive/status/2062791532152053926",
-      "start_time": 1780839368,
-      "end_time": 1781575148
     },
     {
       "id": 5549,
@@ -268,6 +268,17 @@
       "url": "www.bilibili.com/opus/1209536666201489431",
       "start_time": 1780571254,
       "end_time": 1781176054
+    },
+    {
+      "id": 5558,
+      "line_type": "JP",
+      "title": "话题趣闻 - 睡衣小望",
+      "image": "https://static.kivo.wiki/images/timeline/A4AmV1OkqUaVCjRbEiw1NzfHhZ91BI0r.png",
+      "body_summary": "睡衣小望 2026年6月4日，角川旗下线上抽奖服务「くじ引き堂」发布与蔚蓝档案联动的公告。在联动商品插图中，身着睡衣的望引发了老师们的热切关注。与游戏内原立绘中俏皮可爱的风格大为不同的是，该联动插图中",
+      "type": "Trivia",
+      "url": "kivo.wiki/data/character/366?mode=info",
+      "start_time": 1780542207,
+      "end_time": 1781147007
     },
     {
       "id": 5482,
@@ -63314,14 +63325,21 @@
       "path": "timeline/pages/541.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/541.json",
       "item_count": 10
+    },
+    {
+      "page": 542,
+      "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=542",
+      "path": "timeline/pages/542.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/542.json",
+      "item_count": 1
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5377,
-    "normalized_alias_count": 5370,
-    "total_items": 5410
+    "alias_count": 5378,
+    "normalized_alias_count": 5371,
+    "total_items": 5411
   }
 }

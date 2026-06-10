@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1051,
+        "line_type": "Globle",
+        "title": "国际服卡池「It's all to protect morality on the beach!」",
+        "image": "https://static.kivo.wiki/images/timeline/rBAYZGgUT3ersaLPLSBVdEl1KRyS1yzw.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 3/22 (Tue)! Target Pick",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1505106824583778305",
+        "start_time": 1647934200,
+        "end_time": 1649127600
+      },
       {
         "id": 1049,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1503621014852235267",
         "start_time": 1647326205,
         "end_time": 1647326205
-      },
-      {
-        "id": 1042,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍4 hard2倍4",
-        "image": "",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1502932478352191491",
-        "start_time": 1647284435,
-        "end_time": 1647889175
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043874,
+  "time": 1781130970,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 378,
+        "line_type": "JP",
+        "title": "联合火力演习5",
+        "image": "https://static.kivo.wiki/images/timeline/WhapGgXWHjzF84t3K396S9rxE5HRmiXJ.jpg",
+        "body_summary": "【合同火力演習・予告】 7月6日(水)メンテナンス終了後、合同火力演習「防御演習」が開始されます！ 今回の特殊ルールには「敵にCC効果を作用するたびに、追加ダメージを与える。」などがあるみたいです。他",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1543791741832073217",
+        "start_time": 1657098000,
+        "end_time": 1657655999
+      },
       {
         "id": 2803,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1540620830052212737",
         "start_time": 1656403249,
         "end_time": 1657594849
-      },
-      {
-        "id": 1126,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Field) 2",
-        "image": "https://static.kivo.wiki/images/timeline/8lCXAgTSjf7edMmq9VrKhYIihK2Smf7a.jpg",
-        "body_summary": "[Total Assault Preview] Binah(Field Warfare) will be held on 6/28 (Tue)! Do you have your strategy a",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1539533657068564480",
-        "start_time": 1656403214,
-        "end_time": 1688482754
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043853,
+  "time": 1781130950,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1550,
+        "line_type": "Globle",
+        "title": "国际服活动常驻化「A Revolutionary Ivan Kupala」",
+        "image": "https://static.kivo.wiki/images/timeline/RHS1IutBcx9pxZLQb9ithdGnT03OwIqN.jpg",
+        "body_summary": "[Immortalized Event Notice] The Event Story, A Revolutionary Ivan Kupala, will be immortalized start",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1712732467885666801",
+        "start_time": 1697529609,
+        "end_time": 1697529609
+      },
       {
         "id": 2180,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/851533577782820870",
         "start_time": 1697104800,
         "end_time": 1697104800
-      },
-      {
-        "id": 1646,
-        "line_type": "CN",
-        "title": "网页活动【补习部小课堂】",
-        "image": "https://static.kivo.wiki/images/timeline/FRwGBXrYBRL270OxyI8Ymx613QHtaL7j.jpg",
-        "body_summary": "【补习部小课堂】限时网页活动即将开启！ 和补习部的成员们一起参加随堂小测试，猜猜她们会做出什么回答，看看今天更适宜辅导哪一位成员吧！ ■ 活动时间 10月12日 维护结束后 ~ 11月02日 03:5",
-        "type": "WebEvent",
-        "url": "www.bilibili.com/opus/850435011035267076",
-        "start_time": 1697104800,
-        "end_time": 1698868799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043724,
+  "time": 1781130833,
   "version": "1.0.0-beta.43"
 }

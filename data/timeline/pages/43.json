@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5123,
+        "line_type": "JP",
+        "title": "违规账号封禁 #53",
+        "image": "https://static.kivo.wiki/images/timeline/0vGjvruXAsoFrQ6Bmloa5oqbbZH725Ay.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2021902408998437268",
+        "start_time": 1770868473,
+        "end_time": 1770868473
+      },
       {
         "id": 5122,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2021479317033672848",
         "start_time": 1770800182,
         "end_time": 1773132982
-      },
-      {
-        "id": 5098,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁 #56",
-        "image": "https://static.kivo.wiki/images/timeline/m3gehwCMx0keZGrJtZu7TaJLTD1UERgw.jpg",
-        "body_summary": "[2/10 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/2021159155000545696",
-        "start_time": 1770799695,
-        "end_time": 1770799695
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043318,
+  "time": 1781130461,
   "version": "1.0.0-beta.43"
 }

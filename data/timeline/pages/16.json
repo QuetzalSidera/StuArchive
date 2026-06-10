@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5380,
+        "line_type": "CN",
+        "title": "大决战：比纳 • 街区战 #2",
+        "image": "https://static.kivo.wiki/images/timeline/nQsm1D25VYNBU47NJpwIsx0lWN658Ueu.png",
+        "body_summary": "#蔚蓝档案#​ 神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前正在基沃托斯各地出没。 比纳是神名十文字的第3个先知，在阿拜多斯的沙漠地区首次被发现。 比纳来到这里的目的尚不明确",
+        "type": "BigRaid",
+        "url": "www.bilibili.com/opus/1193951088834772994",
+        "start_time": 1777010400,
+        "end_time": 1777319999
+      },
       {
         "id": 5385,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2045816313982107759/",
         "start_time": 1776765601,
         "end_time": 1776765601
-      },
-      {
-        "id": 5342,
-        "line_type": "JP",
-        "title": "模拟总力战功能追加",
-        "image": "https://static.kivo.wiki/images/timeline/BCxv626iZBfS1jPvNETBnSejF3Pex6hg.png",
-        "body_summary": "【新情報⑱】 4月21日(火)メンテナンス後より、「模擬総力戦」が実装されます！ 「模擬総力戦」では練習として、任意の総力戦ボスに挑戦できます。 ※詳細についてはゲーム内にてご確認ください #ブルアカ",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/2045844378548306420",
-        "start_time": 1776765600,
-        "end_time": 1776765600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043285,
+  "time": 1781130431,
   "version": "1.0.0-beta.43"
 }

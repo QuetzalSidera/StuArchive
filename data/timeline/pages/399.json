@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 740,
+        "line_type": "JP",
+        "title": "App Store人气第一3",
+        "image": "https://static.kivo.wiki/images/timeline/KiZhTsM7bSlL1jYmIHxf6ZUOdeFrBfU4.gif",
+        "body_summary": "【#シャーレ管理事務所】 この度『ブルーアーカイブ』がAppStoreセールスランキング1位を達成しました！ 感謝の気持ちを込めて「10回募集チケットx1」を配布致します！ 今後も先生方の期待に応えら",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1683654532474232832",
+        "start_time": 1690253040,
+        "end_time": 1690253040
+      },
       {
         "id": 1470,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1683059505905688577",
         "start_time": 1690192803,
         "end_time": 1690192803
-      },
-      {
-        "id": 894,
-        "line_type": "JP",
-        "title": "动画官网公开，白子年龄误写为17岁",
-        "image": "https://static.kivo.wiki/images/timeline/AvM7z1EWpAvjNYie4vZ9ihlLLvPcL6u4.png",
-        "body_summary": "在首次公开的动画官网中，白子的年龄写成了17岁，比游戏内的设定要大1岁，在很长一段时间之后才进行修正。",
-        "type": "Trivia",
-        "url": "anime.shochiku.co.jp/bluearchive-anime/",
-        "start_time": 1690184831,
-        "end_time": 1690184831
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043756,
+  "time": 1781130862,
   "version": "1.0.0-beta.43"
 }

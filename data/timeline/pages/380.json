@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1528,
+        "line_type": "Globle",
+        "title": "国际服例行维护47（延长）",
+        "image": "",
+        "body_summary": "[9/26 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/26 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1705144908271567261",
+        "start_time": 1695693644,
+        "end_time": 1695733244
+      },
       {
         "id": 1530,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/250",
         "start_time": 1695096043,
         "end_time": 1695096043
-      },
-      {
-        "id": 1527,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Field) 4",
-        "image": "https://static.kivo.wiki/images/timeline/t0sawPk3xc7vgZ65acSnWpY57cu9AAvG.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Binah (Field Warfare) has opened 9/19 (Tue) 2:00 AM ",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1704027542804672725",
-        "start_time": 1695088835,
-        "end_time": 1695668435
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043733,
+  "time": 1781130840,
   "version": "1.0.0-beta.43"
 }

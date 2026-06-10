@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1868,
+        "line_type": "JP",
+        "title": "白子小剧场最终回",
+        "image": "https://static.kivo.wiki/images/timeline/u8MAUof2UhRJa4BZn73zzhtQlIU9Mx9Y.png",
+        "body_summary": "【#ちょっと時間もらうね】 先生、おはようございます♪ シロコさんがこの企画も今回で終わりと言っているみたいですが、ほんとでしょうか…？ ん…？あれは…？ ▽動画はこちら https://youtub",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1739059628582039790",
+        "start_time": 1703462700,
+        "end_time": 1703462700
+      },
       {
         "id": 1844,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/875560007088734208",
         "start_time": 1703152855,
         "end_time": 1703707195
-      },
-      {
-        "id": 1984,
-        "line_type": "CN",
-        "title": "伊甸园条约篇第2章【无法证明的命题】10~20话更新",
-        "image": "https://static.kivo.wiki/images/timeline/j0iUp8wxe5q0rcWpejMpe4kNqTN0jSMA.jpg",
-        "body_summary": "老师！维护更新已经结束，主线故事VOL.3【伊甸园条约篇】第2章（下）现已更新！ 为纪念本次主线故事章节更新，阿洛娜将赠送全服老师【青辉石*1200】与大量养成素材作为纪念和助力！老师可通过邮箱领取。",
-        "type": "MainStory",
-        "url": "weibo.com/6011443154/NyapipWk5",
-        "start_time": 1703152838,
-        "end_time": 1703152838
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043693,
+  "time": 1781130804,
   "version": "1.0.0-beta.43"
 }

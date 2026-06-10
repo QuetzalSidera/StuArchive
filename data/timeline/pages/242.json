@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3049,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习25",
+        "image": "https://static.kivo.wiki/images/timeline/fAMSJwMRUnTsKmnUIQpqWpFQQ36G2AV3.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Escort Drill) will start on 9/3 (Tue)! ➡️Offici",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1828688970311516501",
+        "start_time": 1725357600,
+        "end_time": 1725962400
+      },
       {
         "id": 3109,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/Ouvuvomnm",
         "start_time": 1724911500,
         "end_time": 1724911500
-      },
-      {
-        "id": 3039,
-        "line_type": "CN",
-        "title": "总力战 切赛德 • 野外战 3",
-        "image": "https://static.kivo.wiki/images/timeline/JiMXondRdHWxP1ZMcITdi88DlrU4OOkR.jpg",
-        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前在基沃托斯各地出没。 切赛德是神名十文字的第4个先知，它已经掌控了千禧年外围的废弃兵工厂的生产系统。 如果切赛德成功生产出无限的兵",
-        "type": "Raid",
-        "url": "weibo.com/6011443154/Ou4Kf59Y0",
-        "start_time": 1724911213,
-        "end_time": 1725479953
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043563,
+  "time": 1781130686,
   "version": "1.0.0-beta.43"
 }

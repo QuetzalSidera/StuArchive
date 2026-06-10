@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3221,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #71",
+        "image": "",
+        "body_summary": "[10/22 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/22 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1847200958528500012",
+        "start_time": 1729562430,
+        "end_time": 1729580430
+      },
       {
         "id": 3225,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1848018838899593389",
         "start_time": 1729440600,
         "end_time": 1729440600
-      },
-      {
-        "id": 3251,
-        "line_type": "JP",
-        "title": "「青春あんさんぶる Vol.7」流媒体发行",
-        "image": "https://static.kivo.wiki/images/timeline/WnjKhTXHu3HgxNCi5ObcVEJ64FRTNhpI.jpg",
-        "body_summary": "【配信開始】 先生！ 「青春あんさんぶるシリーズ」の第7弾が配信開始されました！ 今回はゲヘナ学園の美食研究会の皆さんです！ 曲名は「美食追求の道　～いただきます！～」 美食研究会のモットーがつまって",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1848018084214538251",
-        "start_time": 1729440600,
-        "end_time": 1729440600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043542,
+  "time": 1781130666,
   "version": "1.0.0-beta.43"
 }

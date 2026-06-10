@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 485,
+        "line_type": "JP",
+        "title": "障害物競走动画",
+        "image": "https://static.kivo.wiki/images/timeline/u9KRRCx5ybN5RJ1ltXYm68ObaVIrw9w3.png",
+        "body_summary": "【YouTubeプレミア公開】 先生！ 生徒さんが入場してきました！！ さぁどんなレースになるのか！ 先生早く見に行きましょう！ ▼視聴ページ https://youtu.be/ReRoCot6ZKE",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1586311892905201665",
+        "start_time": 1667044800,
+        "end_time": 1667046600
+      },
       {
         "id": 1227,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1585239727078195200",
         "start_time": 1666789200,
         "end_time": 1666797600
-      },
-      {
-        "id": 480,
-        "line_type": "JP",
-        "title": "违规账号封禁15",
-        "image": "https://static.kivo.wiki/images/timeline/OqvDcl8JIbfXHkDAb5O1uebiu1ng9396.jpg",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご確",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1585232284483215365",
-        "start_time": 1666787400,
-        "end_time": 1666787400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043828,
+  "time": 1781130927,
   "version": "1.0.0-beta.43"
 }

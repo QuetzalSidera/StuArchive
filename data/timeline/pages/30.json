@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5226,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 26-03-20",
+        "image": "https://static.kivo.wiki/images/timeline/nCvI5qJ9bWkoDCLBGqbI5HEL6I59nDal.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2034872823710458233",
+        "start_time": 1774012556,
+        "end_time": 1774271756
+      },
       {
         "id": 5214,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2033453538303778829",
         "start_time": 1773777600,
         "end_time": 1774382399
-      },
-      {
-        "id": 5199,
-        "line_type": "Globle",
-        "title": "国际服总力战：Yesod（Urban）#1",
-        "image": "https://static.kivo.wiki/images/timeline/U1YgdrMfMkDoff49RrDqFouI7sQHuYno.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - Yesod (Urban Warfare) will start on 3/17 (Tue)! ➡️Offici",
-        "type": "Raid",
-        "url": "x.com/EN_BlueArchive/status/2031646568642916414",
-        "start_time": 1773760580,
-        "end_time": 1774365380
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043302,
+  "time": 1781130446,
   "version": "1.0.0-beta.43"
 }

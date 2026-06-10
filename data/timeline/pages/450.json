@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 508,
+        "line_type": "JP",
+        "title": "例行维护57",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/30(水) 11:00 〜 19:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1597470462162120707",
+        "start_time": 1669777200,
+        "end_time": 1669806000
+      },
       {
         "id": 504,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1596058611477753856",
         "start_time": 1669365002,
         "end_time": 1669365002
-      },
-      {
-        "id": 499,
-        "line_type": "JP",
-        "title": "引导任务「要塞都市エリドゥ潜入ミッション」",
-        "image": "https://static.kivo.wiki/images/timeline/EktMQ9yGqLDpW3mVIiZFLFaJpSURVTE4.jpg",
-        "body_summary": "【ガイドミッション】 11/23(水)11:00より、ガイドミッション「要塞都市エリドゥ潜入ミッション」が開始されます。 ミッションクリアで、生徒さんの育成素材やヒマリさんの家具モーション付家具を入手",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1594163705339875331",
-        "start_time": 1669172400,
-        "end_time": 1671591599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043820,
+  "time": 1781130920,
   "version": "1.0.0-beta.43"
 }

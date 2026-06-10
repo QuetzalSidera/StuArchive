@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 830,
+        "line_type": "Globle",
+        "title": "国际服阿比多斯贺图",
+        "image": "",
+        "body_summary": "That wraps up the Abydos student's intros! Here's a new wallpaper to celebrate! Why not set the Coun",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1433724195700158487",
+        "start_time": 1630661460,
+        "end_time": 1630661460
+      },
       {
         "id": 168,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1430862738977288195",
         "start_time": 1629975600,
         "end_time": 1629975600
-      },
-      {
-        "id": 167,
-        "line_type": "JP",
-        "title": "炸服14 含道歉信",
-        "image": "",
-        "body_summary": "【接続が不安定の現象について】 本不具合の復旧に向けて、臨時メンテナンスを実施いたします。 メンテナンスの終了時間及び補填について、進捗があり次第改めてご案内いたします。 ご利用の先生方にはご迷惑をお",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1430858935792144393",
-        "start_time": 1629974700,
-        "end_time": 1630130400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043908,
+  "time": 1781131003,
   "version": "1.0.0-beta.43"
 }

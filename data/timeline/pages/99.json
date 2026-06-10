@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4492,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战：Tiphareth #1",
+        "image": "https://static.kivo.wiki/images/timeline/AWGjprsMBBXcdj8CxiXRSSVGCRzA7jjr.jpg",
+        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - Tiphareth (Defense Type: Elastic Arm",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1968608437497118813",
+        "start_time": 1758682761,
+        "end_time": 1760410761
+      },
       {
         "id": 4530,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1968936848404725803",
         "start_time": 1758598186,
         "end_time": 1759807786
-      },
-      {
-        "id": 4494,
-        "line_type": "Globle",
-        "title": "国际服卡池「Highlander Railroad Academy Tachibana Hikari has arrived!」",
-        "image": "https://static.kivo.wiki/images/timeline/gX2CXEas8Y6qpv7OuA9coB8QhqQtuiLH.jpg",
-        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 9/23 (Tue)! 💌Pic",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1968933074474790938",
-        "start_time": 1758597939,
-        "end_time": 1759807539
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043387,
+  "time": 1781130524,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3507,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习 #29",
+        "image": "https://static.kivo.wiki/images/timeline/ZM9F9ZFrSUQHcqolc2vr54PoJs5RoOgc.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Escort Drill) has opened 1/7 (Tue) 2:00 AM ",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1876524169254605090",
+        "start_time": 1736215200,
+        "end_time": 1736794800
+      },
       {
         "id": 3506,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/P7SQt9bkv",
         "start_time": 1736107200,
         "end_time": 1736366400
-      },
-      {
-        "id": 3544,
-        "line_type": "CN",
-        "title": "同步账号信息错误 & 快速制造异常 等异常集中公告",
-        "image": "https://static.kivo.wiki/images/timeline/k8UTRaF3ZWsuykgUs73a0XOIq8wR7hdO.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈，在登录游戏时显示【同步账号信息时发生错误】，在得知该情况后我们已紧急展开相关问题的核实、修复计划。 该问题已经于 17:05 通过在线更新完",
-        "type": "Other",
-        "url": "weibo.com/6011443154/P7SFhsX6V",
-        "start_time": 1735815600,
-        "end_time": 1735815600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043506,
+  "time": 1781130632,
   "version": "1.0.0-beta.43"
 }

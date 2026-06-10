@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4001,
+        "line_type": "JP",
+        "title": "活动「にぎにぎと ゆきゆきて」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/0QpyCVcnsbv5l7yuKOq2JMxqKQ1Tyv0i.jpg",
+        "body_summary": "【イベント紹介】 5/14(水) 11:00より、復刻イベント「にぎにぎと ゆきゆきて」を開催します！ 復刻に合わせて新たに追加された「フィーナ(ガイド)」さんの家具モーション付き限定家具「テレビデオ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1922170013269819899",
+        "start_time": 1747209378,
+        "end_time": 1747814178
+      },
       {
         "id": 4000,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1922240403446669670",
         "start_time": 1747130416,
         "end_time": 1747130416
-      },
-      {
-        "id": 3936,
-        "line_type": "CN",
-        "title": "任务（困难难度）3倍 #12",
-        "image": "https://static.kivo.wiki/images/timeline/DXizvIvPNV9OQUSLCZHFkg7UjoFlu9HP.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 【掉落量3倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉】道具掉落量3倍 开启时间：04月24日 04:00 ~ 05月01日 03:59 二、【日程、学院交流会】",
-        "type": "Double",
-        "url": "bluearchive-cn.com/news/1397",
-        "start_time": 1746993600,
-        "end_time": 1747252799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043447,
+  "time": 1781130579,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2153,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Keep your wits about you and protect the hygiene of the Red Winter Academy!」2",
+        "image": "https://static.kivo.wiki/images/timeline/kjtgzquOgYePasUgWmuc1CwnoRNY5aUq.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 2/27 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1760914888069636594",
+        "start_time": 1708999249,
+        "end_time": 1709517589
+      },
       {
         "id": 2151,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/O267cpt6p",
         "start_time": 1708768818,
         "end_time": 1708768818
-      },
-      {
-        "id": 2154,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍5",
-        "image": "https://static.kivo.wiki/images/timeline/zz48FBAol4jUc5qKVACzEbm69W5BzlBw.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/23 (Fri)! Don't m",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1760924954386903188",
-        "start_time": 1708714811,
-        "end_time": 1708887551
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043659,
+  "time": 1781130773,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 541,
+    "max_page": 542,
     "type_num": {
       "AlliedOperation": 12,
       "BigRaid": 83,
@@ -18,10 +18,21 @@
       "OtherStory": 59,
       "OutsideGames": 824,
       "Raid": 243,
-      "Trivia": 29,
+      "Trivia": 30,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 79,
+        "line_type": "JP",
+        "title": "咖啡厅招待券更新",
+        "image": "",
+        "body_summary": "【TIPS - カフェ招待システム】 今回のアップデート後から、カフェに「招待」の機能が追加されました！ 「招待券」を使用することで、任意の生徒さん(※募集済み)をカフェに招待することができます！ こ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1375719271804727299?s=20",
+        "start_time": 1616840919,
+        "end_time": 1616840919
+      },
       {
         "id": 68,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1374571700298260480?s=20",
         "start_time": 1616664754,
         "end_time": 1617874354
-      },
-      {
-        "id": 1818,
-        "line_type": "JP",
-        "title": "任务Hard2倍#1",
-        "image": "https://static.kivo.wiki/images/timeline/pEaR8Kp1JV2UDCljS5y8Vlna9VfjmsqQ.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 3月22日(月)04:00〜3月25日(木)03:59 この機会に生徒さんの神名文字",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1372759763927273479",
-        "start_time": 1616356837,
-        "end_time": 1616615977
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781043923,
+  "time": 1781131016,
   "version": "1.0.0-beta.43"
 }
