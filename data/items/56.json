@@ -12,14 +12,6 @@
     "gift": {
       "students": [
         {
-          "id": 133,
-          "skin": "",
-          "family_name": "调月",
-          "given_name": "莉音",
-          "avatar": "https://static.kivo.wiki/images/students/%E8%B0%83%E6%9C%88%20%E8%8E%89%E9%9F%B3/original/Student_Portrait_CH0158_Collection.png",
-          "favorability": 60
-        },
-        {
           "id": 185,
           "skin": "",
           "family_name": "白石",
@@ -33,6 +25,14 @@
           "family_name": "天见",
           "given_name": "和香",
           "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/avatar.png",
+          "favorability": 60
+        },
+        {
+          "id": 133,
+          "skin": "",
+          "family_name": "调月",
+          "given_name": "莉音",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%B0%83%E6%9C%88%20%E8%8E%89%E9%9F%B3/original/Student_Portrait_CH0158_Collection.png",
           "favorability": 60
         },
         {
@@ -60,6 +60,22 @@
           "favorability": 40
         },
         {
+          "id": 565,
+          "skin": "魔法",
+          "family_name": "宇泽",
+          "given_name": "玲纱",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/Student_Portrait_CH0326_Collection.png",
+          "favorability": 40
+        },
+        {
+          "id": 341,
+          "skin": "露营",
+          "family_name": "音濑",
+          "given_name": "小玉",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%9F%B3%E6%BF%91%20%E5%B0%8F%E7%8E%89/%E9%9C%B2%E8%90%A5/avatar.png",
+          "favorability": 40
+        },
+        {
           "id": 366,
           "skin": "",
           "family_name": "橘",
@@ -81,14 +97,6 @@
           "family_name": "浅黄",
           "given_name": "睦月",
           "avatar": "https://static.kivo.wiki/images/students/%E6%B5%85%E9%BB%84%20%E7%9D%A6%E6%9C%88/%E7%A4%BC%E6%9C%8D/Student_Portrait_CH0246_Collection.png",
-          "favorability": 40
-        },
-        {
-          "id": 341,
-          "skin": "露营",
-          "family_name": "音濑",
-          "given_name": "小玉",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%9F%B3%E6%BF%91%20%E5%B0%8F%E7%8E%89/%E9%9C%B2%E8%90%A5/avatar.png",
           "favorability": 40
         },
         {
@@ -129,14 +137,6 @@
           "family_name": "美甘",
           "given_name": "妮禄",
           "avatar": "https://static.kivo.wiki/images/students/%E7%BE%8E%E7%94%98%20%E5%A6%AE%E7%A6%84/%E6%A0%A1%E6%9C%8D/Student_Portrait_CH0280_Collection.png",
-          "favorability": 40
-        },
-        {
-          "id": 565,
-          "skin": "魔法",
-          "family_name": "宇泽",
-          "given_name": "玲纱",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3/Student_Portrait_CH0326_Collection.png",
           "favorability": 40
         },
         {
@@ -260,6 +260,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1781296374,
+  "time": 1781380516,
   "version": "1.0.0-beta.43"
 }
