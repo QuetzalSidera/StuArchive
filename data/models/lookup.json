@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-06-13T19:24:22Z",
+  "generated_at": "2026-06-14T19:25:13Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 516,
-  "alias_count": 516,
-  "normalized_alias_count": 516,
+  "total_items": 521,
+  "alias_count": 521,
+  "normalized_alias_count": 521,
   "by_id": {
     "1": {
       "id": 1,
@@ -6204,6 +6204,66 @@
       },
       "detail_path": "models/533.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/533.json"
+    },
+    "534": {
+      "id": 534,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 534,
+        "name": "CH0303_Body",
+        "type": "body"
+      },
+      "detail_path": "models/534.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/534.json"
+    },
+    "535": {
+      "id": 535,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 535,
+        "name": "EN0022_Original_01_Body",
+        "type": "body"
+      },
+      "detail_path": "models/535.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/535.json"
+    },
+    "536": {
+      "id": 536,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 536,
+        "name": "EN0022_Original_01_Insane_Body",
+        "type": "body"
+      },
+      "detail_path": "models/536.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/536.json"
+    },
+    "537": {
+      "id": 537,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 537,
+        "name": "EN0022_Original_02_Body",
+        "type": "body"
+      },
+      "detail_path": "models/537.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/537.json"
+    },
+    "538": {
+      "id": 538,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 538,
+        "name": "EN0022_Original_02_Insane_Body",
+        "type": "body"
+      },
+      "detail_path": "models/538.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/538.json"
     }
   },
   "by_alias": {
@@ -7754,6 +7814,21 @@
     ],
     "CH0247_Body": [
       "533"
+    ],
+    "CH0303_Body": [
+      "534"
+    ],
+    "EN0022_Original_01_Body": [
+      "535"
+    ],
+    "EN0022_Original_01_Insane_Body": [
+      "536"
+    ],
+    "EN0022_Original_02_Body": [
+      "537"
+    ],
+    "EN0022_Original_02_Insane_Body": [
+      "538"
     ]
   },
   "by_normalized_alias": {
@@ -9304,6 +9379,21 @@
     ],
     "ch0247_body": [
       "533"
+    ],
+    "ch0303_body": [
+      "534"
+    ],
+    "en0022_original_01_body": [
+      "535"
+    ],
+    "en0022_original_01_insane_body": [
+      "536"
+    ],
+    "en0022_original_02_body": [
+      "537"
+    ],
+    "en0022_original_02_insane_body": [
+      "538"
     ]
   }
 }

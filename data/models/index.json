@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-06-13T19:24:22Z",
+  "generated_at": "2026-06-14T19:25:13Z",
   "list_key": "model",
   "id_key": "id",
-  "max_page": 52,
-  "synced_pages": 52,
-  "total_items": 516,
-  "details_synced": 516,
+  "max_page": 53,
+  "synced_pages": 53,
+  "total_items": 521,
+  "details_synced": 521,
   "details_enabled": true,
   "items": [
     {
@@ -2595,6 +2595,31 @@
       "id": 533,
       "name": "CH0247_Body",
       "type": "body"
+    },
+    {
+      "id": 534,
+      "name": "CH0303_Body",
+      "type": "body"
+    },
+    {
+      "id": 535,
+      "name": "EN0022_Original_01_Body",
+      "type": "body"
+    },
+    {
+      "id": 536,
+      "name": "EN0022_Original_01_Insane_Body",
+      "type": "body"
+    },
+    {
+      "id": 537,
+      "name": "EN0022_Original_02_Body",
+      "type": "body"
+    },
+    {
+      "id": 538,
+      "name": "EN0022_Original_02_Insane_Body",
+      "type": "body"
     }
   ],
   "pages": [
@@ -2960,7 +2985,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=52",
       "path": "models/pages/52.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/52.json",
-      "item_count": 6
+      "item_count": 10
+    },
+    {
+      "page": 53,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=53",
+      "path": "models/pages/53.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/53.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -6059,13 +6091,43 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/533",
       "path": "models/533.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/533.json"
+    },
+    {
+      "id": 534,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/534",
+      "path": "models/534.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/534.json"
+    },
+    {
+      "id": 535,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/535",
+      "path": "models/535.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/535.json"
+    },
+    {
+      "id": 536,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/536",
+      "path": "models/536.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/536.json"
+    },
+    {
+      "id": 537,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/537",
+      "path": "models/537.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/537.json"
+    },
+    {
+      "id": 538,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/538",
+      "path": "models/538.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/538.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 516,
-    "normalized_alias_count": 516,
-    "total_items": 516
+    "alias_count": 521,
+    "normalized_alias_count": 521,
+    "total_items": 521
   }
 }
