@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-14T19:25:13Z",
+  "generated_at": "2026-06-15T20:54:30Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5417,
-  "alias_count": 5384,
-  "normalized_alias_count": 5376,
+  "total_items": 5425,
+  "alias_count": 5392,
+  "normalized_alias_count": 5384,
   "by_id": {
     "5542": {
       "id": 5542,
@@ -30,6 +30,24 @@
       },
       "detail_path": "timeline/5542.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5542.json"
+    },
+    "5573": {
+      "id": 5573,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5573,
+        "line_type": "JP",
+        "title": "直播「ブルアカらいぶ！ざ☆すたーとおぶさまー！SP」",
+        "image": "https://static.kivo.wiki/images/timeline/qBVLeHNFt1DnZHKjOs9WGt2wio74mCJf.jpg",
+        "body_summary": "【生放送】 6/20(土)19時～ 「ブルアカらいぶ！ざ☆すたーとおぶさまー！SP」配信決定！ ▼出演者 #坂巻学 #十二稜子 #石飛恵里花 #後藤彩佐 #白砂沙帆 #市来光弘 ※ブルアカ公式Xでの配",
+        "type": "Live",
+        "url": "x.com/Blue_ArchiveJP/status/2066098410290303315",
+        "start_time": 1781953200,
+        "end_time": 1781956800
+      },
+      "detail_path": "timeline/5573.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5573.json"
     },
     "5541": {
       "id": 5541,
@@ -66,6 +84,60 @@
       },
       "detail_path": "timeline/5564.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5564.json"
+    },
+    "5571": {
+      "id": 5571,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5571,
+        "line_type": "JP",
+        "title": "活动「-ive aLIVE!」常驻化",
+        "image": "https://static.kivo.wiki/images/timeline/4ZhmjcFH7dxki0G0BYsUATUekPet72dk.jpg",
+        "body_summary": "【イベント常設化・予告】 6/17(水)11:00より、期間限定イベント「-ive aLIVE!」が常設化されます！ スイーツの女王「フレデリカ・セムラ」を食べるため、学園祭に向けてバンドを結成する事",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2065992940951105987",
+        "start_time": 1781665200,
+        "end_time": 1781665200
+      },
+      "detail_path": "timeline/5571.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5571.json"
+    },
+    "5570": {
+      "id": 5570,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5570,
+        "line_type": "JP",
+        "title": "大决战：屋外戦・ホバークラフト #2",
+        "image": "https://static.kivo.wiki/images/timeline/OHPnbxb2dOpU3BOWI8ZZGA05UDKlMXrs.jpg",
+        "body_summary": "【大決戦・予告】 2026年6月17日(水)11:00より、大決戦「屋外戦・ホバークラフト」が開催されます！ 敵のワカモさんがEXスキル「こうなったら……！」を使用するとミサイル暴走モードに突入し、リ",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2065630663223677071",
+        "start_time": 1781665200,
+        "end_time": 1782244799
+      },
+      "detail_path": "timeline/5570.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5570.json"
+    },
+    "5572": {
+      "id": 5572,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5572,
+        "line_type": "JP",
+        "title": "任务Normal2倍#58",
+        "image": "https://static.kivo.wiki/images/timeline/UAprrPqfQXv3ThqGTwgWVbDjTjuo7IGC.jpg",
+        "body_summary": "【キャンペーン予告】 6月17日(水)4:00より、「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 6月17日(水)4:00 ～ 6月21日(日)3:5",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2066355549902696620",
+        "start_time": 1781640000,
+        "end_time": 1781985599
+      },
+      "detail_path": "timeline/5572.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5572.json"
     },
     "5540": {
       "id": 5540,
@@ -265,6 +337,42 @@
       "detail_path": "timeline/5562.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5562.json"
     },
+    "5569": {
+      "id": 5569,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5569,
+        "line_type": "JP",
+        "title": "联合火力演习#52",
+        "image": "https://static.kivo.wiki/images/timeline/DNznn3Mi5Bb7DhoseohXYzEiV6tTb5SX.jpg",
+        "body_summary": "【合同火力演習・予告】 メンテナンス終了後より、合同火力演習「射撃演習」が開幕します！ 今回の特殊ルールでは「ネロ」の防御力が大幅に増加するようです…。 ただ、他のルールにてスペシャルの生徒さんの与ダ",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2064543728585621846",
+        "start_time": 1781082000,
+        "end_time": 1781639999
+      },
+      "detail_path": "timeline/5569.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5569.json"
+    },
+    "5567": {
+      "id": 5567,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5567,
+        "line_type": "JP",
+        "title": "卡池「夏恋し 百の思い出 花きらり」、卡池「あお海の 百すじの波 みだれ花！」＆「夏おもひ 繚れおもい 乱るるは」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/0AbJg753q1MSJHe5RGXN8kvd63nWkOlQ.jpg",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「夏恋し 百の思い出 花きらり」ならびに、復刻ピックアップ募集「あお海の 百すじの波 みだれ花！」＆「夏おもひ 繚れおもい 乱るるは」が開催されま",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2064210956780200443",
+        "start_time": 1781082000,
+        "end_time": 1781665199
+      },
+      "detail_path": "timeline/5567.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5567.json"
+    },
     "5531": {
       "id": 5531,
       "source_path": "timeline/index.json",
@@ -283,6 +391,24 @@
       "detail_path": "timeline/5531.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5531.json"
     },
+    "5568": {
+      "id": 5568,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5568,
+        "line_type": "JP",
+        "title": "例行维护#144",
+        "image": "https://static.kivo.wiki/images/timeline/uav0PRPNCbUXBkeCIUNLXB2BJn3J6qGR.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/10(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2064226088835027139",
+        "start_time": 1781060400,
+        "end_time": 1781082000
+      },
+      "detail_path": "timeline/5568.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5568.json"
+    },
     "5550": {
       "id": 5550,
       "source_path": "timeline/index.json",
@@ -300,6 +426,24 @@
       },
       "detail_path": "timeline/5550.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5550.json"
+    },
+    "5566": {
+      "id": 5566,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5566,
+        "line_type": "JP",
+        "title": "课程表2倍#43 & 学院交流会2倍#44",
+        "image": "https://static.kivo.wiki/images/timeline/lxmosvzfzQq2eSUxvsixjbnrkcgpZZj3.jpg",
+        "body_summary": "【キャンペーン予告】 6月10日(水)4:00より、「スケジュール」、「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 6月10日(水)4:00 ～ 6月17日(水",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2063818767126393145",
+        "start_time": 1781035200,
+        "end_time": 1781639999
+      },
+      "detail_path": "timeline/5566.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5566.json"
     },
     "5557": {
       "id": 5557,
@@ -97524,11 +97668,23 @@
     "特别委托3倍 #13": [
       "5542"
     ],
+    "直播「ブルアカらいぶ!ざ☆すたーとおぶさまー!SP」": [
+      "5573"
+    ],
     "学院交流会3倍 #15": [
       "5541"
     ],
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
+    ],
+    "活动「-ive aLIVE!」常驻化": [
+      "5571"
+    ],
+    "大决战:屋外戦・ホバークラフト #2": [
+      "5570"
+    ],
+    "任务Normal2倍#58": [
+      "5572"
     ],
     "任务(困难难度)3倍 #16": [
       "5540"
@@ -97563,11 +97719,23 @@
     "例行维护 #58": [
       "5562"
     ],
+    "联合火力演习#52": [
+      "5569"
+    ],
+    "卡池「夏恋し 百の思い出 花きらり」、卡池「あお海の 百すじの波 みだれ花!」&「夏おもひ 繚れおもい 乱るるは」复刻": [
+      "5567"
+    ],
     "活动「百ヨリ出ズル一輪ノ~いざ尋常に、水上勝負~」复刻": [
       "5531"
     ],
+    "例行维护#144": [
+      "5568"
+    ],
     "国际服Arcie小编阿罗娜冬装换装回#36": [
       "5550"
+    ],
+    "课程表2倍#43 & 学院交流会2倍#44": [
+      "5566"
     ],
     "国际服任务Hard 3倍 #17": [
       "5557"
@@ -113711,11 +113879,23 @@
     "特别委托3倍#13": [
       "5542"
     ],
+    "直播「ブルアカらいぶ!ざ☆すたーとおぶさまー!sp」": [
+      "5573"
+    ],
     "学院交流会3倍#15": [
       "5541"
     ],
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
+    ],
+    "活动「-ivealive!」常驻化": [
+      "5571"
+    ],
+    "大决战:屋外戦・ホバークラフト#2": [
+      "5570"
+    ],
+    "任务normal2倍#58": [
+      "5572"
     ],
     "任务(困难难度)3倍#16": [
       "5540"
@@ -113751,11 +113931,23 @@
       "5562",
       "5457"
     ],
+    "联合火力演习#52": [
+      "5569"
+    ],
+    "卡池「夏恋し百の思い出花きらり」、卡池「あお海の百すじの波みだれ花!」&「夏おもひ繚れおもい乱るるは」复刻": [
+      "5567"
+    ],
     "活动「百ヨリ出ズル一輪ノ~いざ尋常に、水上勝負~」复刻": [
       "5531"
     ],
+    "例行维护#144": [
+      "5568"
+    ],
     "国际服arcie小编阿罗娜冬装换装回#36": [
       "5550"
+    ],
+    "课程表2倍#43&学院交流会2倍#44": [
+      "5566"
     ],
     "国际服任务hard3倍#17": [
       "5557"

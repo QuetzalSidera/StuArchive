@@ -2,18 +2,18 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 543,
     "type_num": {
       "AlliedOperation": 12,
-      "BigRaid": 83,
+      "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 882,
-      "Event": 490,
-      "Gacha": 772,
-      "Live": 80,
+      "Double": 884,
+      "Event": 491,
+      "Gacha": 773,
+      "Live": 81,
       "MainStory": 122,
-      "Maintenance": 424,
-      "MiniBattle": 191,
+      "Maintenance": 425,
+      "MiniBattle": 192,
       "Other": 679,
       "OtherStory": 60,
       "OutsideGames": 825,
@@ -22,6 +22,94 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1214,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍9",
+        "image": "https://static.kivo.wiki/images/timeline/SsCYLbQONn6V9o0NuAkv4ekAAG2N8sgN.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/17 (Mon), Commissions rewards will be doubled! Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1581540445837922305",
+        "start_time": 1666033205,
+        "end_time": 1666637945
+      },
+      {
+        "id": 467,
+        "line_type": "JP",
+        "title": "任务Normal2倍#18",
+        "image": "https://static.kivo.wiki/images/timeline/3JmsViobRycPJbOOOCf6VvRt0UwQRnjN.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「任務(Normal)」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 10月16日(日)4:00〜10月23日(日)3:59 「Area20」が開放さ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1580483528508133376",
+        "start_time": 1665864000,
+        "end_time": 1666468799
+      },
+      {
+        "id": 1211,
+        "line_type": "Globle",
+        "title": "国际服活动 Story Recruitment",
+        "image": "https://static.kivo.wiki/images/timeline/Hz9m8gi3RwiMi4U4DwI9sosOyIqZFz7t.jpg",
+        "body_summary": "[Story Recruitment Event] Time spent with Sensei sure does fly by! If you have any special memories ",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1580863536783187968",
+        "start_time": 1665742229,
+        "end_time": 1666001429
+      },
+      {
+        "id": 468,
+        "line_type": "JP",
+        "title": "晄轮大祭项目推特活动：仮装レース",
+        "image": "",
+        "body_summary": "【#晄輪大祭仮装レース】 先生！ 今回の晄輪大祭の種目は「仮装レース」です！ どのような仮装が出てくるんでしょうか。 楽しみです！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルアカ 【#晄",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1580755272041218048",
+        "start_time": 1665720000,
+        "end_time": 1665720000
+      },
+      {
+        "id": 466,
+        "line_type": "JP",
+        "title": "回忆大厅追加：明日奈",
+        "image": "https://static.kivo.wiki/images/timeline/IoEyOVVM6UvMez8hThIhq3EbO5n142Bi.jpg",
+        "body_summary": "【メモリアルロビー】 メンテナンス終了後より、アスナさんのメモリアルロビーが実装されます！ メモリアルロビー実装に合わせて絆ストーリーも新たに1話追加されますので、ぜひアスナさんとの楽しいひと時をお過",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1580090943277268992",
+        "start_time": 1665565200,
+        "end_time": 1665565200
+      },
+      {
+        "id": 464,
+        "line_type": "JP",
+        "title": "卡池「昼下がりのロイヤルフラッシュ」卡池复刻「問答無用のストレートアップ」「着替えたらジャックポットを」「無軌道なハットトリック」",
+        "image": "https://static.kivo.wiki/images/timeline/WVrKoKinxgW9UFhah68uX3bciUJgpRIt.png",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「昼下がりのロイヤルフラッシュ」が開催されます！ 「船上のバニーチェイサー」の復刻に合わせて、期間限定ピックアップ募集2種とピックアップ募集1種も復刻開催い",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1579698379973890049",
+        "start_time": 1665565200,
+        "end_time": 1666148399
+      },
+      {
+        "id": 463,
+        "line_type": "JP",
+        "title": "联合火力演习8",
+        "image": "https://static.kivo.wiki/images/timeline/1kp3huI25KrQeiFxPufCTxOIj5iVxs1W.png",
+        "body_summary": "【合同火力演習・予告】 10月12日(水)メンテナンス終了後、合同火力演習「防御演習」が開始されます！ 今回の特殊ルールには、敵のHPが大幅に減少する代わりに生徒さんのダメージが「1」で固定されるもの",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1579305910131752960",
+        "start_time": 1665565200,
+        "end_time": 1666123199
+      },
+      {
+        "id": 462,
+        "line_type": "JP",
+        "title": "活动复刻「船上のバニーチェイサー」",
+        "image": "https://static.kivo.wiki/images/timeline/taqOG7mv5ido3AyOIvn0nSdwVWdoZPRI.png",
+        "body_summary": "【イベント復刻開催予告】 今年の夏にもお世話になった“あの船”に、また「C&C」の皆さんと一緒に潜入ミッションです！ 復刻イベント「船上のバニーチェイサー」まもなく開催です！ ※詳しい情報は後日発表し",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1578671657094242307",
+        "start_time": 1665565200,
+        "end_time": 1666148399
+      },
       {
         "id": 465,
         "line_type": "JP",
@@ -43,99 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1578596076793499648",
         "start_time": 1665518400,
         "end_time": 1666123199
-      },
-      {
-        "id": 1203,
-        "line_type": "Globle",
-        "title": "国际服总力战 KAITEN FX Mk.0 (Field) 3",
-        "image": "https://static.kivo.wiki/images/timeline/wAbQZSU9eMkYZ0rbtnt4yj1vMOxFe8KH.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - KAITEN FX Mk.0 (Field Warfare) will start on 10/11 (Tue)",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1577554179580493824",
-        "start_time": 1665453641,
-        "end_time": 1666018781
-      },
-      {
-        "id": 1207,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍1",
-        "image": "https://static.kivo.wiki/images/timeline/jLwGl8hWcBcFWAIdYhBoEjQCTtWXozhY.jpg",
-        "body_summary": "[Double Drop Campaign Preview] For 7 days from 10/11 (Mon), rewards dropped in Scrimmages will be do",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1579033929884962817",
-        "start_time": 1665428440,
-        "end_time": 1666033180
-      },
-      {
-        "id": 460,
-        "line_type": "JP",
-        "title": "晄轮大祭项目推特活动：障害物競走",
-        "image": "",
-        "body_summary": "【#晄輪大祭障害物競走】 先生！ 今回の晄輪大祭の種目は「障害物競走」です！ どのような障害物が生徒さんを阻むのか… ドキドキしますね…！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルアカ",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1578218555664785409",
-        "start_time": 1665115200,
-        "end_time": 1665115200
-      },
-      {
-        "id": 1206,
-        "line_type": "Globle",
-        "title": "国际服合成机制介绍",
-        "image": "https://static.kivo.wiki/images/timeline/LnUqib5B3ls23g7vg4ZtEau3Nd68Zphd.jpg",
-        "body_summary": "[Craft Update Notice] 10/4 (Tue) Update will add a new 'Material Fusion' feature in the Crafting Cha",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1577976963817385987",
-        "start_time": 1665054007,
-        "end_time": 1665054007
-      },
-      {
-        "id": 1205,
-        "line_type": "Globle",
-        "title": "国际服炸服8",
-        "image": "",
-        "body_summary": "[Emergency Maintenance Notice] Emergency maintenance is on the way to resolve an issue. Maintenance ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1577946834479108096",
-        "start_time": 1665046809,
-        "end_time": 1665052209
-      },
-      {
-        "id": 1204,
-        "line_type": "Globle",
-        "title": "国际服炸服7",
-        "image": "",
-        "body_summary": "[10/5(Wed) Temporary Maintenance Notice 2] We'll be undergoing temporary maintenance on 10/5 (Wed). ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1577591930061561858",
-        "start_time": 1665003642,
-        "end_time": 1665043242
-      },
-      {
-        "id": 1202,
-        "line_type": "Globle",
-        "title": "国际服炸服6",
-        "image": "",
-        "body_summary": "[10/5(Wed) Temporary Maintenance Notice] We'll be undergoing temporary maintenance on 10/5 (Wed). Ma",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1577233465266749440",
-        "start_time": 1664949613,
-        "end_time": 1664960413
-      },
-      {
-        "id": 458,
-        "line_type": "JP",
-        "title": "市街地戦・シロ＆クロ5",
-        "image": "https://static.kivo.wiki/images/timeline/kHcIPpEpT3kB4N5bZa7DvEReYNpfGMBg.jpg",
-        "body_summary": "【総力戦・予告】 10月5日(水)11:00から、総力戦「市街地戦・シロ＆クロ」が開催されます！ 順位に応じて「シロ＆クロ(市街地戦)のトロフィー」や各種「総力戦コイン」が獲得できるチャンスです！ 上",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1576859706315849728",
-        "start_time": 1664938800,
-        "end_time": 1665518399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781471662,
+  "time": 1781563464,
   "version": "1.0.0-beta.43"
 }

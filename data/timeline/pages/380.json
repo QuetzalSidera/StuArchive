@@ -2,18 +2,18 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 543,
     "type_num": {
       "AlliedOperation": 12,
-      "BigRaid": 83,
+      "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 882,
-      "Event": 490,
-      "Gacha": 772,
-      "Live": 80,
+      "Double": 884,
+      "Event": 491,
+      "Gacha": 773,
+      "Live": 81,
       "MainStory": 122,
-      "Maintenance": 424,
-      "MiniBattle": 191,
+      "Maintenance": 425,
+      "MiniBattle": 192,
       "Other": 679,
       "OtherStory": 60,
       "OutsideGames": 825,
@@ -22,6 +22,94 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 782,
+        "line_type": "JP",
+        "title": "停止关联推特账号",
+        "image": "https://static.kivo.wiki/images/timeline/PYqk5EVxnB0wyzD1kmu5EpT0jxJCrtuV.gif",
+        "body_summary": "【重要なお知らせ】 9/27(水)メンテナンス後、「ブルーアーカイブ」アカウントと「Twitter」アカウントとの新規連携を終了させていただきます。 当分の間は連携済み「Twitter」アカウントでの",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1703968377709195621",
+        "start_time": 1695812400,
+        "end_time": 1695812400
+      },
+      {
+        "id": 1539,
+        "line_type": "Globle",
+        "title": "国际服炸服15",
+        "image": "",
+        "body_summary": "[9/27 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 9/27 (Wed). Pl",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1706937516325273935",
+        "start_time": 1695801635,
+        "end_time": 1695808835
+      },
+      {
+        "id": 790,
+        "line_type": "JP",
+        "title": "例行维护79",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.5GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 9/27(水) 11",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1706549211276468399",
+        "start_time": 1695783600,
+        "end_time": 1695812400
+      },
+      {
+        "id": 1908,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编和服换装回 #5",
+        "image": "https://static.kivo.wiki/images/timeline/2tOMs3nXcuAaCk0Nk5ZbnPzfyTp0jGGk.png",
+        "body_summary": "Sensei! CM Arcie's next live stream is coming real soon next week! As you can see from the preview i",
+        "type": "Live",
+        "url": "twitter.com/EN_BlueArchive/status/1704359736118755786",
+        "start_time": 1695762004,
+        "end_time": 1695762004
+      },
+      {
+        "id": 784,
+        "line_type": "JP",
+        "title": "课程表2倍#17 & 学院交流会2倍#17",
+        "image": "https://static.kivo.wiki/images/timeline/5TBxOg1xWcmML6g3L9CqJ3k7JwNLVIYR.jpg",
+        "body_summary": "【キャンペーン予告】 9/27(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/9/27(水)4:00 ~ 2",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1704329850545402071",
+        "start_time": 1695758400,
+        "end_time": 1696363199
+      },
+      {
+        "id": 1538,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Problem Solver 68 and the Miracle of the Offering Box」",
+        "image": "https://static.kivo.wiki/images/timeline/0VegXUsvUF2sR5uyrodnVaNYVHSwwmLW.jpg",
+        "body_summary": "[Web Event Notice] 'Problem Solver 68 and the Miracle of the Offering Box' Event begins! Log in toda",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1706656871841771688",
+        "start_time": 1695733203,
+        "end_time": 1697507943
+      },
+      {
+        "id": 1537,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「New Year's Rhapsody No. 68」",
+        "image": "https://static.kivo.wiki/images/timeline/m6qxekkP1yVEFu4bb8S5BQtPxjjDtgqc.jpg",
+        "body_summary": "[Event Update Notice] The New Year's Rhapsody No. 68 Event Story is returning! Ring in the New Year ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1706656804388929835",
+        "start_time": 1695733202,
+        "end_time": 1696903142
+      },
+      {
+        "id": 2094,
+        "line_type": "Globle",
+        "title": "国际服主线关卡开放：Area22 & 角色语音鉴赏、咖啡厅预设、活动回顾功能更新 & T8装备更新 & 课程表新增区域「D.U. Shiratori City」 & 指名手配与学院交流会票统一",
+        "image": "https://static.kivo.wiki/images/timeline/wX4QnGkf1KPgxadGVMI5Nj2KmlxFZglJ.jpg",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1706655196879974774",
+        "start_time": 1695722452,
+        "end_time": 1695722452
+      },
       {
         "id": 1535,
         "line_type": "Globle",
@@ -43,99 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1705503518600188095",
         "start_time": 1695718845,
         "end_time": 1696903185
-      },
-      {
-        "id": 1533,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Now, I'll be escorting you, Sensei」",
-        "image": "https://static.kivo.wiki/images/timeline/7pPKyAhdeTxRHUIGg6kzyoh0NoGG8Ru1.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 9/26 (Tu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1705499745098027466",
-        "start_time": 1695718845,
-        "end_time": 1696903185
-      },
-      {
-        "id": 1532,
-        "line_type": "Globle",
-        "title": "国际服卡池「I—I'm sorry. Someone like me... shouldn't be wearing something so pretty...」",
-        "image": "https://static.kivo.wiki/images/timeline/gjEEl9TNYRkMRJ8dOSlgC0HGtj8BRa7d.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/26 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1705495969469747204",
-        "start_time": 1695718845,
-        "end_time": 1696903185
-      },
-      {
-        "id": 1531,
-        "line_type": "Globle",
-        "title": "国际服卡池「This bell... It rings everyday, so it's not very special. But today, it may actually be the best thing ever.」",
-        "image": "https://static.kivo.wiki/images/timeline/T7la573w0LlV05jg9PeTkyxkfojjzmAO.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/26 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1705492202691145889",
-        "start_time": 1695718845,
-        "end_time": 1696903185
-      },
-      {
-        "id": 1536,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁24",
-        "image": "",
-        "body_summary": "[9/26 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1706610151632121859",
-        "start_time": 1695718815,
-        "end_time": 1695718815
-      },
-      {
-        "id": 1528,
-        "line_type": "Globle",
-        "title": "国际服例行维护47（延长）",
-        "image": "",
-        "body_summary": "[9/26 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/26 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1705144908271567261",
-        "start_time": 1695693644,
-        "end_time": 1695733244
-      },
-      {
-        "id": 1530,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍20",
-        "image": "https://static.kivo.wiki/images/timeline/0ebrEdvj28wvYhJ6zPB0Ef6A8b91iYM8.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 9/25 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1705477100029821412",
-        "start_time": 1695668453,
-        "end_time": 1696273253
-      },
-      {
-        "id": 787,
-        "line_type": "JP",
-        "title": "活动「Trip-Trap-Train」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPVを公開します！ トリニティまで列車を使って遺物を運ぶ任務です！ イチカさんと共に頑張りましょうね♪ …って、あれ？ この列車の行き先って…？ ▽高画質版はこちら ht",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1706142054030426168",
-        "start_time": 1695614520,
-        "end_time": 1695614520
-      },
-      {
-        "id": 1687,
-        "line_type": "CN",
-        "title": "白洲梓",
-        "image": "https://static.kivo.wiki/images/timeline/yVxtCzgnZ6midPjq82ilFayTmOutRVg3.jpg",
-        "body_summary": "//////////档案启封////////// ■白洲梓 崔尼蒂补习部的冰冷魔女。 主动离开了曾经的学院，又因某种原因加入了崔尼蒂，目前正在努力习惯新的生活。害怕孤独，却因为不想给人添麻烦而主动远离",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/844868926694228006?spm_id_from=333.999.0.0",
-        "start_time": 1695549720,
-        "end_time": 1695555780
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781471584,
+  "time": 1781563386,
   "version": "1.0.0-beta.43"
 }

@@ -2,18 +2,18 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 543,
     "type_num": {
       "AlliedOperation": 12,
-      "BigRaid": 83,
+      "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 882,
-      "Event": 490,
-      "Gacha": 772,
-      "Live": 80,
+      "Double": 884,
+      "Event": 491,
+      "Gacha": 773,
+      "Live": 81,
       "MainStory": 122,
-      "Maintenance": 424,
-      "MiniBattle": 191,
+      "Maintenance": 425,
+      "MiniBattle": 192,
       "Other": 679,
       "OtherStory": 60,
       "OutsideGames": 825,
@@ -22,6 +22,94 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 873,
+        "line_type": "Globle",
+        "title": "国际服主线Vol.2更新",
+        "image": "https://static.kivo.wiki/images/timeline/kwXSvhikGJvLYhHFZsgLnxGFY46eGQGb.jpg",
+        "body_summary": "[Update Preview] Sensei, a new main story, Clockwork Flower Pavane will be released on 12/14 (Tue)! ",
+        "type": "MainStory",
+        "url": "twitter.com/EN_BlueArchive/status/1469924982775955456",
+        "start_time": 1639468800,
+        "end_time": 1639468800
+      },
+      {
+        "id": 872,
+        "line_type": "Globle",
+        "title": "国际服卡池「You played our game too, right?」",
+        "image": "https://static.kivo.wiki/images/timeline/R4JSfskEdhrjiDZ7rdAZbawc4bj4XrJ4.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 12/14 (Tue)! Target Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1469592797250732040",
+        "start_time": 1639468800,
+        "end_time": 1640660400
+      },
+      {
+        "id": 870,
+        "line_type": "Globle",
+        "title": "国际服总力战 Chesed（Field）1",
+        "image": "https://static.kivo.wiki/images/timeline/HL9XJUrFGmitTntwk23YEH6WL5bC6j8L.jpg",
+        "body_summary": "[Total Assault Preview] Total Assault - Chesed (Field Warfare) will be held on 12/14 (Tue)! It's tim",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1468852326417170433",
+        "start_time": 1639468800,
+        "end_time": 1640012400
+      },
+      {
+        "id": 224,
+        "line_type": "JP",
+        "title": "1周年二创征集",
+        "image": "",
+        "body_summary": "🎉【1周年ファンアート大募集】🎉 先生！マキさんとペロロさんからのお願いが届きました！ #ブルアカ1周年アート のハッシュタグを付けて作品を投稿すると、豪華な賞品がもらえるかもしれません…！ 🔹開催期",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1470589584413458432",
+        "start_time": 1639454400,
+        "end_time": 1642003199
+      },
+      {
+        "id": 875,
+        "line_type": "Globle",
+        "title": "国际服例行维护3",
+        "image": "",
+        "body_summary": "[12/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 12/14 ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1470226973767217157",
+        "start_time": 1639450800,
+        "end_time": 1639468800
+      },
+      {
+        "id": 878,
+        "line_type": "Globle",
+        "title": "国际服引导任务「Daily Quest with Game Development Department」",
+        "image": "https://static.kivo.wiki/images/timeline/rCucRAPy137jTNmbUZyfSV4UfqS3m3JJ.jpg",
+        "body_summary": "[Daily Quest with Game Development Department] Event Missions in celebration of the new main story u",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1471042349849399301",
+        "start_time": 1639422000,
+        "end_time": 1641870000
+      },
+      {
+        "id": 871,
+        "line_type": "Globle",
+        "title": "国际服BGM「Cherry Blossoms」公开",
+        "image": "",
+        "body_summary": "[Blue Archive - BGM Playlist] Theme l Cherry blossoms 🌸 ⬇️Official Youtube⬇️ https://youtu.be/UGXe5x",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1469200206050861062",
+        "start_time": 1639119600,
+        "end_time": 1639119600
+      },
+      {
+        "id": 869,
+        "line_type": "Globle",
+        "title": "国际服开服一个月纪念",
+        "image": "https://static.kivo.wiki/images/timeline/kDObFH5hWx0w8LZ6L5qHYKkAGzahM9ms.jpg",
+        "body_summary": "🎁Launch 1-Month Celebration Gift🎁 We've already been together for a month, Sensei! Thank you so much",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1468777422849933312",
+        "start_time": 1639018800,
+        "end_time": 1639018800
+      },
       {
         "id": 220,
         "line_type": "JP",
@@ -43,99 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1468083405120503808",
         "start_time": 1638936000,
         "end_time": 1638950400
-      },
-      {
-        "id": 868,
-        "line_type": "Globle",
-        "title": "国际服下载量突破300万",
-        "image": "https://static.kivo.wiki/images/timeline/N9Jm8Ya7xYK00WkyC0HXnFMOSEDFkave.jpg",
-        "body_summary": "💎3-Million Downloads Celebration Gift💎 A thank-you gift for all Senseis that helped us reach 3-milli",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1468415036322287617",
-        "start_time": 1638932400,
-        "end_time": 1638932400
-      },
-      {
-        "id": 217,
-        "line_type": "JP",
-        "title": "指名手配2倍#10",
-        "image": "https://static.kivo.wiki/images/timeline/JCGK4MEGJbDhosxCdz8aQoreMsYwwQbX.jpg",
-        "body_summary": "【キャンペーン予告】 12月8日(水)04:00から、「指名手配」における素材のドロップ量が2倍になるキャンペーンが開催されます！ この機会に、生徒さんたちのスキルを成長させてみてはいかがでしょうか？",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1467705629058170880",
-        "start_time": 1638907200,
-        "end_time": 1639511999
-      },
-      {
-        "id": 867,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁2",
-        "image": "",
-        "body_summary": "[12/7(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1468165674107547649",
-        "start_time": 1638872940,
-        "end_time": 1638872940
-      },
-      {
-        "id": 240,
-        "line_type": "JP",
-        "title": "圣诞转推活动",
-        "image": "",
-        "body_summary": "【#クリスマスボックス 第1弾】 先生！ チェリノさんとトモエさんがクリスマスプレゼントを用意してくれたみたいです！🎄 @BlueArchiveJP をフォロー&RTすると、リプライで抽選結果がすぐ届",
-        "type": "WebEvent",
-        "url": "twitter.com/i/status/1467871457661227008",
-        "start_time": 1638376200,
-        "end_time": 1640361599
-      },
-      {
-        "id": 216,
-        "line_type": "JP",
-        "title": "炸服16",
-        "image": "",
-        "body_summary": "【緊急メンテナンス】 ただいまゲームにログインできない不具合が発生しているため、緊急メンテナンスを実施しております。 なお、緊急メンテナンスの終了時刻は、判明次第改めてお知らせいたします。 皆様に多大",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1465884188511404035",
-        "start_time": 1638332580,
-        "end_time": 1638367200
-      },
-      {
-        "id": 958,
-        "line_type": "JP",
-        "title": "家具新系列「伝統的な温泉郷シリーズ」追加",
-        "image": "https://static.kivo.wiki/images/timeline/S7HMnYhZzImdlOFOQmXnpIZIpGSi4NBh.jpg",
-        "body_summary": "家具に新シリーズ「伝統的な温泉郷シリーズ」を追加",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/168",
-        "start_time": 1638273600,
-        "end_time": 1638273600
-      },
-      {
-        "id": 219,
-        "line_type": "JP",
-        "title": "活动「227号温泉郷の運営記録！」",
-        "image": "https://static.kivo.wiki/images/timeline/GF7SkGcvIohDsu5DpkytDv6PUPSQH1cE.jpg",
-        "body_summary": "【イベント紹介】 11/30(火)メンテナンス終了後、新イベント「227号温泉郷の運営記録！」が開催されます！ イベントではトモエさんをお迎えできるほか、カフェで思い出を楽しめる限定家具などの様々な報",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1465199134886219777",
-        "start_time": 1638273600,
-        "end_time": 1702612800
-      },
-      {
-        "id": 214,
-        "line_type": "JP",
-        "title": "卡池「革命と極楽のオートノミー」＆「責務と休息のアンティノミー」",
-        "image": "https://static.kivo.wiki/images/timeline/cIsEFfkdH49r1PBZVrDSusNZF5Vcuqlm.jpg",
-        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「革命と極楽のオートノミー」＆「責務と休息のアンティノミー」がまもなく開催です！ 🔹ピックアップ生徒 ★3 チェリノ(温泉) (CV：#丹下桜) ★3 チナ",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1465184278237822976",
-        "start_time": 1638273600,
-        "end_time": 1639540800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781471712,
+  "time": 1781563515,
   "version": "1.0.0-beta.43"
 }

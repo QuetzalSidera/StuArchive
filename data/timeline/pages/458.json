@@ -2,18 +2,18 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 542,
+    "max_page": 543,
     "type_num": {
       "AlliedOperation": 12,
-      "BigRaid": 83,
+      "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 882,
-      "Event": 490,
-      "Gacha": 772,
-      "Live": 80,
+      "Double": 884,
+      "Event": 491,
+      "Gacha": 773,
+      "Live": 81,
       "MainStory": 122,
-      "Maintenance": 424,
-      "MiniBattle": 191,
+      "Maintenance": 425,
+      "MiniBattle": 192,
       "Other": 679,
       "OtherStory": 60,
       "OutsideGames": 825,
@@ -22,6 +22,94 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 484,
+        "line_type": "JP",
+        "title": "晄轮大祭项目推特活动：かくれんぼ",
+        "image": "",
+        "body_summary": "【#晄輪大祭かくれんぼ】 先生！ 今回の晄輪大祭の種目は「かくれんぼ」です！ 会場全体を使ったこの競技… 皆さんどこに隠れるのでしょうか…！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルア",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1585828712066318338",
+        "start_time": 1666929600,
+        "end_time": 1666929600
+      },
+      {
+        "id": 483,
+        "line_type": "JP",
+        "title": "关注数突破50万",
+        "image": "https://static.kivo.wiki/images/timeline/rkv8K3F7oX9TMIgkqwyZZvLIbze5GMd5.jpg",
+        "body_summary": "【フォロワー50万人突破】 ブルアカの公式Twitterアカウントにて、フォロワーさんが50万人を突破しました。 感謝の気持ちを込めて「10回募集チケット」1枚をプレゼントします。 今後とも『ブルーア",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1585607107331575808",
+        "start_time": 1666833540,
+        "end_time": 1666833540
+      },
+      {
+        "id": 482,
+        "line_type": "JP",
+        "title": "晄轮大祭活动炎上事件道歉信",
+        "image": "https://static.kivo.wiki/images/timeline/LxYXfqhyJLmfP5X1HwlOqzMjYCLXj33S.png",
+        "body_summary": "【お詫び】 この度は多くの先生にご迷惑をおかけしてしまい、大変申し訳ございません。 NexonGames、Yostar両社によるブルーアーカイブ運営チームで議論を行い、本件の対応方針を定めました。 代",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1585331946250391552",
+        "start_time": 1666811160,
+        "end_time": 1666811160
+      },
+      {
+        "id": 481,
+        "line_type": "JP",
+        "title": "炸服24 （砍收益）",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 現在開催中のイベントにおいて、報酬に関する不具合が確認されたため、10/26(水) 21:15より緊急メンテナンスを実施する予定です。 終了時間について、進捗があり次第改めてご案",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1585239727078195200",
+        "start_time": 1666789200,
+        "end_time": 1666797600
+      },
+      {
+        "id": 480,
+        "line_type": "JP",
+        "title": "违规账号封禁15",
+        "image": "https://static.kivo.wiki/images/timeline/OqvDcl8JIbfXHkDAb5O1uebiu1ng9396.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご確",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1585232284483215365",
+        "start_time": 1666787400,
+        "end_time": 1666787400
+      },
+      {
+        "id": 475,
+        "line_type": "JP",
+        "title": "卡池「理性と情熱のEquation」&「憧憬と慈愛のDevotion」",
+        "image": "https://static.kivo.wiki/images/timeline/G7PnrK57KxnZDiZUlC2fij5ITW62sE1o.jpg",
+        "body_summary": "【新情報⑦】 期間限定ピックアップ募集「理性と情熱のEquation」&「憧憬と慈愛のDevotion」がまもなく開催されます 🔷開催期間 2022/10/26(水) メンテナンス後 ~ 2022/1",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1583818176479236098",
+        "start_time": 1666782000,
+        "end_time": 1667962799
+      },
+      {
+        "id": 2670,
+        "line_type": "JP",
+        "title": "爱用品追加：切里诺（温泉）、日向、歌原",
+        "image": "https://static.kivo.wiki/images/timeline/WXrS185lbcPNPiPKuJ7tCcttJtAGk39d.jpg",
+        "body_summary": "【新情報⑭】 10/26(水)メンテナンス後、「チェリノ(温泉)」さん、「ヒナタ」さん、「ウタハ」さんの「愛用品」が実装決定です！ さらに「愛用品」が実装されると共に、上記三名の生徒さんの絆ストーリー",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1583781155027189760",
+        "start_time": 1666778437,
+        "end_time": 1666778437
+      },
+      {
+        "id": 2517,
+        "line_type": "JP",
+        "title": "活动「GetSet,GO！～キヴォトス晄輪大祭～」",
+        "image": "https://static.kivo.wiki/images/timeline/BT1MqyrqPyzQLY65oebph96dPeHmDf2T.jpg",
+        "body_summary": "【新情報⑤】 2022/10/26(水)メンテナンス後、イベント「GetSet,GO！～キヴォトス晄輪大祭～」がいよいよ開催されます！ 準備期間中に色々とバタバタしてしまいましたが、晄輪大祭が本格的に",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1583769500867915777",
+        "start_time": 1666778414,
+        "end_time": 1667959214
+      },
       {
         "id": 890,
         "line_type": "Other",
@@ -43,99 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1584786925252026373",
         "start_time": 1666753200,
         "end_time": 1666782000
-      },
-      {
-        "id": 477,
-        "line_type": "JP",
-        "title": "课程表2倍#8 & 学院交流会2倍#8",
-        "image": "https://static.kivo.wiki/images/timeline/LUBOH8Pm3g0JRO2GEKo1z6htH3s5hD4c.jpg",
-        "body_summary": "【キャンペーン予告】 10/26(水)4:00より、「スケジュール」ならびに「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2022/10/26(水)4:00 ~ 2",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1584469853100208128",
-        "start_time": 1666728000,
-        "end_time": 1667332799
-      },
-      {
-        "id": 1218,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Urban) 2",
-        "image": "https://static.kivo.wiki/images/timeline/ypmVarAaiSEV139SD5CEgdrTM91zau1j.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - Binah (Urban Warfare) will start on 10/25 (Tue)! https:/",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1583276893410918400",
-        "start_time": 1666663237,
-        "end_time": 1667228437
-      },
-      {
-        "id": 1220,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「I'm all ready. Let's go! We've got quests to clear! & I'm the best player around! I'll help you out.」",
-        "image": "https://static.kivo.wiki/images/timeline/TeiQeJIDan1T7jJYjzgjxQ2lb6ZkUUyt.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] Rerun Pick Up Recruitments will begin on 10/25 (Tue)! Target Pick Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1583744982120386560",
-        "start_time": 1666663220,
-        "end_time": 1667268020
-      },
-      {
-        "id": 1219,
-        "line_type": "Globle",
-        "title": "国际服卡池「You must be sensei, I'll be accompanying you starting today.」",
-        "image": "https://static.kivo.wiki/images/timeline/mbNWt4bj632XVJvjqVfolZjakivN3wSU.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitments will begin on 10/25 (Tue)! Target Pick Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1583744978450251782",
-        "start_time": 1666663220,
-        "end_time": 1667268020
-      },
-      {
-        "id": 1221,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍10 hard2倍10",
-        "image": "https://static.kivo.wiki/images/timeline/df1DpF4EwFzXxSEWFOrOSuWgi02JYedE.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1584077160884551680",
-        "start_time": 1666638049,
-        "end_time": 1667242789
-      },
-      {
-        "id": 478,
-        "line_type": "JP",
-        "title": "炸服23",
-        "image": "",
-        "body_summary": "【接続障害】 10月25日1時55分から接続障害が発生しました。 同障害は緊急対応を経て、3時07分にて解消しました。 お詫びとして下記のアイテムをゲーム内メールにて配布いたします。 ▼補填内容 ・青",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1584608232957673472",
-        "start_time": 1666634100,
-        "end_time": 1666638420
-      },
-      {
-        "id": 476,
-        "line_type": "JP",
-        "title": "活动「GetSet,GO！～キヴォトス晄輪大祭～」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPV公開です！ 遂に始まる「晄輪大祭」！ キヴォトス中の学園が一堂に会するビックイベントとあって、やはりただでは終わらないようですが、私達は生徒さん達を応援しましょうね、",
-        "type": "OutsideGames",
-        "url": "/twitter.com/Blue_ArchiveJP/status/1584379314828890112",
-        "start_time": 1666584000,
-        "end_time": 1666584000
-      },
-      {
-        "id": 470,
-        "line_type": "JP",
-        "title": "任务Hard2倍#18",
-        "image": "https://static.kivo.wiki/images/timeline/lDPHalJGcgdTgZUe0x0N0FsyoHOTG0h3.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「任務(Hard)」のドロップ量が2倍になるキャンペーンが開催されます！ 「Area20」も追加され、イオリさん達の「神名文字」が獲得できるチャンスも増えましたので、ぜひ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1581842647928668160",
-        "start_time": 1666468800,
-        "end_time": 1666727999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781471659,
+  "time": 1781563461,
   "version": "1.0.0-beta.43"
 }
