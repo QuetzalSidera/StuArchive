@@ -2,26 +2,114 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 543,
+    "max_page": 544,
     "type_num": {
-      "AlliedOperation": 12,
+      "AlliedOperation": 13,
       "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 884,
-      "Event": 491,
-      "Gacha": 773,
+      "Double": 885,
+      "Event": 492,
+      "Gacha": 775,
       "Live": 81,
       "MainStory": 122,
       "Maintenance": 425,
       "MiniBattle": 192,
-      "Other": 679,
+      "Other": 681,
       "OtherStory": 60,
-      "OutsideGames": 825,
+      "OutsideGames": 826,
       "Raid": 244,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 828,
+        "line_type": "Globle",
+        "title": "国际服首次PV公开",
+        "image": "",
+        "body_summary": "It's finally here: the premiere of Blue Archive's official trailer! I've been looking forward to thi",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1428221889210507267",
+        "start_time": 1629349560,
+        "end_time": 1629349560
+      },
+      {
+        "id": 158,
+        "line_type": "JP",
+        "title": "任务normal3倍 #1",
+        "image": "https://static.kivo.wiki/images/timeline/kMzCXpNveX91qKl9Zugp8CUD8FuM1TPN.jpg",
+        "body_summary": "【キャンペーン予告】 8月19日(木)04:00から、「任務(Normal)」の報酬量が3倍になるキャンペーンが開催されます！ ハーフアニバーサリー記念のお得なこのチャンス！ぜひ生徒さんたちの装備や、",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1427118175821332484",
+        "start_time": 1629316800,
+        "end_time": 1629662399
+      },
+      {
+        "id": 4,
+        "line_type": "Globle",
+        "title": "国际服首次宣发（推文）",
+        "image": "https://static.kivo.wiki/images/timeline/woJgYwfcHfVaeEqGCvylS1Tx7DrfW5b5.jpg",
+        "body_summary": "",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1427875470754738178",
+        "start_time": 1629296169,
+        "end_time": 1629296169
+      },
+      {
+        "id": 827,
+        "line_type": "Globle",
+        "title": "国际服BETA测感谢信",
+        "image": "https://static.kivo.wiki/images/timeline/qMQw5mzhqlvR7Qtn4lHBZOIMUGMaJXV8.jpg",
+        "body_summary": "Sensei, someone sent you a congratulatory letter! I get the sense that whoever sent it has a strong.",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1427883036746543112",
+        "start_time": 1629268800,
+        "end_time": 1629268800
+      },
+      {
+        "id": 157,
+        "line_type": "JP",
+        "title": "炸服13",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 不具合修正のため、下記の時間にて臨時メンテナンスを行います。 また、メンテ中はゲームをご利用するができませんので、ご協力をお願いします。 ▼実施日時 8/13(金) 18:00 ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1426089814059741184",
+        "start_time": 1628848800,
+        "end_time": 1628859600
+      },
+      {
+        "id": 156,
+        "line_type": "JP",
+        "title": "卡池「吹き抜ける風の在り処」",
+        "image": "https://static.kivo.wiki/images/timeline/zaQicqAuwWNKGlgBWSL9gJCeGRPiAPof.jpg",
+        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「吹き抜ける風の在り処」がまもなく開催されます！ 🔷開催期間 2021年8月12日(木) メンテナンス後 ~ 2021年8月26日(木)メンテナン",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1425366648060485640",
+        "start_time": 1628762400,
+        "end_time": 1629950400
+      },
+      {
+        "id": 153,
+        "line_type": "JP",
+        "title": "市街地戦・シロ＆クロ3",
+        "image": "https://static.kivo.wiki/images/timeline/jlrGVISeNzQ75sjBVNFNJ2bMurqoS57d.jpg",
+        "body_summary": "【総力戦予告】 8月12日(木)メンテナンス後、「市街地戦・シロ＆クロ」が開催されます！ 難易度「EXTREME」が解放されてから初の「市街地戦」です！油断せず前回以上の順位を目指して、先生の挑戦をお",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1424249543126765568",
+        "start_time": 1628762400,
+        "end_time": 1629302399
+      },
+      {
+        "id": 155,
+        "line_type": "JP",
+        "title": "例行维护21",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/12(木) 12:00 〜 18:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1425321079778680833",
+        "start_time": 1628740800,
+        "end_time": 1628762400
+      },
       {
         "id": 154,
         "line_type": "JP",
@@ -43,99 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1424203818359611392",
         "start_time": 1628391600,
         "end_time": 1628391600
-      },
-      {
-        "id": 152,
-        "line_type": "JP",
-        "title": "指名手配3倍 #1",
-        "image": "https://static.kivo.wiki/images/timeline/BHr71RGW9PYnGnMhAfMfldM7TtGnRO9U.jpg",
-        "body_summary": "【キャンペーン予告】 ハーフアニバーサリ記念に、8月5日(木)04:00より、「指名手配」における素材のドロップ量が3倍になるキャンペーンが開催です！ ぜひこの機会にたくさんのスキル育成アイデムを集め",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1422044751340072963",
-        "start_time": 1628107200,
-        "end_time": 1628711999
-      },
-      {
-        "id": 970,
-        "line_type": "JP",
-        "title": "等级上限提升至73",
-        "image": "https://static.kivo.wiki/images/timeline/izHawn5mbOTjoNKGoSUtCBa4rk8KXoVD.jpg",
-        "body_summary": "【新情報 ⑫】 先生のレベル上限開放が決定しました！ 7月29日メンテナンス後より現状レベル上限が70から73までに引き上がります！ 先生のレベル上限開放で生徒さんもより強くなりますので、ぜひこの機会",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1418914141859893250",
-        "start_time": 1627560027,
-        "end_time": 1627560027
-      },
-      {
-        "id": 1033,
-        "line_type": "JP",
-        "title": "卡池「海統べる寄り添いの月光」&「夏乱す容赦なき太陽」&限定卡池公告",
-        "image": "https://static.kivo.wiki/images/timeline/OsrHQAxxySeiEVYFRMFLZ7b8W06X0qk3.jpg",
-        "body_summary": "【ピックアップ募集・予告】 イベント限定PU募集「海統べる寄り添いの月光」&「夏乱す容赦なき太陽」がまもなく開催です！ 🔷PU生徒 ★3ヒナ(水着) (CV:#広橋涼) ★3イオリ(水着) (CV:#",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1420311070099443713",
-        "start_time": 1627560000,
-        "end_time": 1628740800
-      },
-      {
-        "id": 969,
-        "line_type": "JP",
-        "title": "家具新系列「サマーリゾートセット」增加",
-        "image": "https://static.kivo.wiki/images/timeline/YG4HLz7TzI7s8Q8QpfMiDz0WeqsSyrdu.jpg",
-        "body_summary": "月29日(木)メンテナンス後、家具に新シリーズ「サマーリゾートセット」が追加されます！ 家具は全部23種で、先ほどのログインボーナス、イベント報酬として各1種、残りの21種類は製造で獲得できます。 真",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1418912217110650881",
-        "start_time": 1627560000,
-        "end_time": 1627560000
-      },
-      {
-        "id": 968,
-        "line_type": "JP",
-        "title": "登录奖励「風紀委員長　夏の合宿訓練　ログインボーナス」",
-        "image": "https://static.kivo.wiki/images/timeline/pRHnONvbXyhFFagpS9KhhU2atL53gwwO.jpg",
-        "body_summary": "【新情報 ⑧】 7月29日(木)メンテナンス後、「風紀委員長　夏の合宿訓練　ログインボーナス」が開催されます！ 合計600個の青輝石やカフェに装飾できる限定家具「夏のデザートセットテーブル」が用意され",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1418910926380703747",
-        "start_time": 1627560000,
-        "end_time": 1630039894
-      },
-      {
-        "id": 950,
-        "line_type": "JP",
-        "title": "社团剧情「梅花園」、「生活安全局」追加",
-        "image": "https://static.kivo.wiki/images/timeline/ttRBZiy4dXw9NcFwNhctdHdyAMrGnQVC.png",
-        "body_summary": "【サブストーリー】 ・梅花園グループシナリオ、2話を新規追加 ・生活安全局グループシナリオ、2話を新規追加",
-        "type": "OtherStory",
-        "url": "bluearchive.jp/news/newsJump/144",
-        "start_time": 1627560000,
-        "end_time": 1627560000
-      },
-      {
-        "id": 949,
-        "line_type": "JP",
-        "title": "咖啡厅招待券换装功能追加",
-        "image": "https://static.kivo.wiki/images/timeline/3JHQZouJZMV1K3mep6AFwhhzcAOw1Fqp.png",
-        "body_summary": "・衣装替え機能を追加 ※カフェに生徒さんを招待する際に、同じ名前の生徒がカフェにいる場合、別衣装の生徒を招待できるような機能を追加しました。",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/140",
-        "start_time": 1627560000,
-        "end_time": 1627560000
-      },
-      {
-        "id": 151,
-        "line_type": "JP",
-        "title": "回忆大厅追加语音：明里、静子、睦月",
-        "image": "",
-        "body_summary": "【メモリアルロビー】 7月29日(木)のアップデートにて、アカリさん、シズコさん、そしてムツキさんのメモリアルロビーにトークモーションが追加されました！ モーション追加により、以前より皆さんますます表",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1421026049308065803",
-        "start_time": 1627560000,
-        "end_time": 1627560000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781563530,
+  "time": 1781649582,
   "version": "1.0.0-beta.43"
 }

@@ -2,26 +2,114 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 543,
+    "max_page": 544,
     "type_num": {
-      "AlliedOperation": 12,
+      "AlliedOperation": 13,
       "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 884,
-      "Event": 491,
-      "Gacha": 773,
+      "Double": 885,
+      "Event": 492,
+      "Gacha": 775,
       "Live": 81,
       "MainStory": 122,
       "Maintenance": 425,
       "MiniBattle": 192,
-      "Other": 679,
+      "Other": 681,
       "OtherStory": 60,
-      "OutsideGames": 825,
+      "OutsideGames": 826,
       "Raid": 244,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 316,
+        "line_type": "JP",
+        "title": "屋内戦・ケセド2",
+        "image": "https://static.kivo.wiki/images/timeline/ILtXArivU13alIlQLbFZfuf1w8KQ0rWc.jpg",
+        "body_summary": "【総力戦・予告】 4月13日(水) 11:00より、「屋内戦・ケセド」が開催されます！ 順位に応じて「ケセド(屋内戦)トロフィー」が獲得できる他、そのトロフィーを「テイラーメイド」にて「トロフィースタ",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1513351424838868992?s=20",
+        "start_time": 1649858419,
+        "end_time": 1650463219
+      },
+      {
+        "id": 1074,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍5 hard2倍5",
+        "image": "https://static.kivo.wiki/images/timeline/Fj0xdAPPrZ7OkX1qCkme1t2qqwVtJTQi.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1513079340782612486",
+        "start_time": 1649703627,
+        "end_time": 1650308367
+      },
+      {
+        "id": 315,
+        "line_type": "JP",
+        "title": "任务Hard2倍#13",
+        "image": "https://static.kivo.wiki/images/timeline/UtrtDRglvTORo5u5Wxone8k9uFVOTGvU.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼期間 4月10日(日) 04:00 〜 4月13日(水) 03:59 キャンペーン期間中生徒さ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1512626474171662342?s=20",
+        "start_time": 1649599131,
+        "end_time": 1649858331
+      },
+      {
+        "id": 314,
+        "line_type": "JP",
+        "title": "偶像阿罗娜",
+        "image": "https://static.kivo.wiki/images/timeline/mdG0w9IFvvP29JNOEYXqGMrLINHs2R93.png",
+        "body_summary": "【動画公開】 私が『キラメクMiLie』のダンスを練習している風景を公開しました！ 是非見てください！先生！ ▼動画はこちらから https://youtube.com/shorts/LXdH-0C_",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1512263972757590020?s=20",
+        "start_time": 1649426251,
+        "end_time": 1649426251
+      },
+      {
+        "id": 313,
+        "line_type": "JP",
+        "title": "引导任务「RABBIT小隊と一緒に過ごすキャンピング用ガイド」",
+        "image": "https://static.kivo.wiki/images/timeline/5WUzBWo2G15SwewIc58l0ASYvWL1bUI6.jpg",
+        "body_summary": "【ガイドミッション】 メンテナンス終了後、イベントミッション「RABBIT小隊と一緒に過ごすキャンピング用ガイド」が開始します。 期間中ミッションクリアで、ミユさんのモーション付きの家具などの報酬が獲",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1511584526731911173?s=20",
+        "start_time": 1649253388,
+        "end_time": 1650462988
+      },
+      {
+        "id": 312,
+        "line_type": "JP",
+        "title": "例行维护40",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/6(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1511222114262536194?s=20",
+        "start_time": 1649253258,
+        "end_time": 1649253258
+      },
+      {
+        "id": 311,
+        "line_type": "JP",
+        "title": "卡池「こちらRABBIT4、証明をこの手に」＆「奮い立つグラジオラス」",
+        "image": "https://static.kivo.wiki/images/timeline/PlVkpSatd6FZIzu0bqtt4pa76VsmZGW6.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「こちらRABBIT4、証明をこの手に」＆「奮い立つグラジオラス」がまもなく開催します！ 🔹ピックアップ生徒 ★3 ミユ(CV：#後藤邑子) ★3 ツルギ(",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1511207039166717952?s=20",
+        "start_time": 1649253072,
+        "end_time": 1650462672
+      },
+      {
+        "id": 937,
+        "line_type": "JP",
+        "title": "主线剧情Vol.4「カルバノグの兎」篇第1章「RABBIT小隊始動！」后篇更新",
+        "image": "https://static.kivo.wiki/images/timeline/GtSiszaYg3icZvo7sU5gQ3DHk6Mn8VRg.jpg",
+        "body_summary": "【メインストーリー追加・予告】 公園での生活を続けるRABBIT小隊。 その裏で渦巻く陰謀と垣間見える先輩達の影。彷徨う彼女達が行くその先には…？ Vol.4「カルバノグの兎」編 第1章「RABBIT",
+        "type": "MainStory",
+        "url": "twitter.com/Blue_ArchiveJP/status/1510180359236775939",
+        "start_time": 1649242800,
+        "end_time": 1649242800
+      },
       {
         "id": 1066,
         "line_type": "JP",
@@ -43,99 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1510452196198203394",
         "start_time": 1649188842,
         "end_time": 1649534382
-      },
-      {
-        "id": 1058,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第一章后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/8Mh8PAONTDmpogILkReKapU1Wb7vA7FW.jpg",
-        "body_summary": "[Update Preview] Sensei, Main Story Vol. 3 Eden Treaty Ep.1 'Make-Up Work Club, Here We Go!' second ",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1509425268326211587",
-        "start_time": 1649139643,
-        "end_time": 1649139643
-      },
-      {
-        "id": 1073,
-        "line_type": "Globle",
-        "title": "国际服主线关卡开放：Area15",
-        "image": "https://static.kivo.wiki/images/timeline/aJA67A7FV6bGBcwU2AUdPdBZSpO7Z6DQ.jpg",
-        "body_summary": "[New Mission Available Notice] Check out Mission Area 15 in the 4/5 (Tue) update. Acquire Advanced S",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1511629795708211202",
-        "start_time": 1649139625,
-        "end_time": 1649139625
-      },
-      {
-        "id": 1069,
-        "line_type": "Globle",
-        "title": "国际服卡池「Would like to go with me? It's only 2,000 meters above sea level.」",
-        "image": "https://static.kivo.wiki/images/timeline/zO1EPg1jO0fpdsqJVXNQSiFut7M5tINe.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 4/5 (Tue)! Target Pick Up Stud",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1510180258678394884",
-        "start_time": 1649139600,
-        "end_time": 1650337200
-      },
-      {
-        "id": 1072,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第一章后篇更新特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/I89kWshkepPyVWgf1zfSKPzzqTwf0U5K.jpg",
-        "body_summary": "[Main Story Update Celebration Special Gift] Sensei, Schale prepared a celebration gift for the Main",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1511228390421979139",
-        "start_time": 1649138407,
-        "end_time": 1649138407
-      },
-      {
-        "id": 1071,
-        "line_type": "Globle",
-        "title": "国际服例行维护11",
-        "image": "",
-        "body_summary": "[Maintenance Notice] We're currently under our 4/5 (Tue) scheduled maintenance, Sensei. The game is ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1511176804194668552",
-        "start_time": 1649127641,
-        "end_time": 1649139641
-      },
-      {
-        "id": 1070,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍6",
-        "image": "https://static.kivo.wiki/images/timeline/jWKQOdKMU8L0YdZ6jPxFBOVqzIo6E3cO.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 4/4 (Mon), the amount of rewards dropped in Commissions will be ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1510512426235564033",
-        "start_time": 1649098842,
-        "end_time": 1649703582
-      },
-      {
-        "id": 1057,
-        "line_type": "Globle",
-        "title": "国际服总力战 Shiro & Kuro (Urban) 2",
-        "image": "https://static.kivo.wiki/images/timeline/IT07RcogJUeIGSqjalfoEaVoCbklSi3w.jpg",
-        "body_summary": "[Total Assault Preview] Shiro & Kuro (Urban Warfare) will be held on 4/5 (Tue)! Do you have your str",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1509062872516734977",
-        "start_time": 1649098805,
-        "end_time": 1649689145
-      },
-      {
-        "id": 1064,
-        "line_type": "JP",
-        "title": "单曲「キラメクMiLieヘ」网络发行",
-        "image": "",
-        "body_summary": "【楽曲情報】 ペロペロペロ～！ イタズラ☆ストレートが贈る 「キラメクMiLieヘ」が4月2日0時より各音楽サービスにて順次配信決定ペロ～！ ライブでは披露されなかったフル版が入ってるペロ～ 楽しみに",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1509744878439198720",
-        "start_time": 1648828846,
-        "end_time": 1648828846
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781563496,
+  "time": 1781649549,
   "version": "1.0.0-beta.43"
 }

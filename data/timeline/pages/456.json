@@ -2,26 +2,114 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 543,
+    "max_page": 544,
     "type_num": {
-      "AlliedOperation": 12,
+      "AlliedOperation": 13,
       "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 884,
-      "Event": 491,
-      "Gacha": 773,
+      "Double": 885,
+      "Event": 492,
+      "Gacha": 775,
       "Live": 81,
       "MainStory": 122,
       "Maintenance": 425,
       "MiniBattle": 192,
-      "Other": 679,
+      "Other": 681,
       "OtherStory": 60,
-      "OutsideGames": 825,
+      "OutsideGames": 826,
       "Raid": 244,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 490,
+        "line_type": "JP",
+        "title": "联合火力演习9",
+        "image": "https://static.kivo.wiki/images/timeline/R65iycN444KtVxIathGbpJwu2Dd9dI1r.jpg",
+        "body_summary": "【合同火力演習・予告】 11月9日(水)11:00より、合同火力演習「突破演習」が開始されます！ 特殊ルールにより、味方のEXスキルやノーマルスキルによるバフ効果が解除される他、敵の防御貫通値も上昇す",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1589543357579075585",
+        "start_time": 1667962800,
+        "end_time": 1668542399
+      },
+      {
+        "id": 489,
+        "line_type": "JP",
+        "title": "任务Normal2倍#19",
+        "image": "https://static.kivo.wiki/images/timeline/OG88vOdjemNgedjk8seowfKDaZ8laBwl.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「任務(Normal)」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 11月9日(水)4:00〜11月16日(水)3:59 たくさん「任務」を行っ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1589090380804341761",
+        "start_time": 1667937600,
+        "end_time": 1668542399
+      },
+      {
+        "id": 1241,
+        "line_type": "Globle",
+        "title": "国际服主线关卡开放：Area18",
+        "image": "https://static.kivo.wiki/images/timeline/0YeEC7OARkQtlLc6hhhxXFbeLm91arMu.jpg",
+        "body_summary": "[New Mission Available Notice] Check out Mission Area 18 in the 11/8 (Tue) update. Acquire Advanced ",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1590267956944052227",
+        "start_time": 1667898059,
+        "end_time": 1667898059
+      },
+      {
+        "id": 1237,
+        "line_type": "Globle",
+        "title": "国际服总力战 Hod (Urban) 2",
+        "image": "https://static.kivo.wiki/images/timeline/ZyU7h9vjNYhRLfeOh3kTt501UO3lDdhW.jpg",
+        "body_summary": "[Total Assault Preview] The Total Assault - Hod (Urban Warfare) will start on 11/8 (Tue)! https://di",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1589135493882556416",
+        "start_time": 1667898056,
+        "end_time": 1668438056
+      },
+      {
+        "id": 1243,
+        "line_type": "Globle",
+        "title": "国际服更新「Expert Permit」",
+        "image": "https://static.kivo.wiki/images/timeline/mcacMZaS5SR36DVe5is8brmWirhYBcHp.jpg",
+        "body_summary": "[Expert Permit Shop Update Notice] You can get the Expert Permits added in the 11/8 update as Daily ",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1590630346021904384",
+        "start_time": 1667898051,
+        "end_time": 1667898051
+      },
+      {
+        "id": 1235,
+        "line_type": "Globle",
+        "title": "国际服卡池「Oh. Ugh... I'm not really ready... Ahhh——!」",
+        "image": "https://static.kivo.wiki/images/timeline/J7SpZqSPAX31PSrFKRuqm4GBvNKbevYJ.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 11/8 (Tue)! Target Pick Up Stu",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1589180791266975744",
+        "start_time": 1667898047,
+        "end_time": 1669082447
+      },
+      {
+        "id": 1236,
+        "line_type": "Globle",
+        "title": "国际服卡池「Th-, This is RABBIT 4, D-Did you call...?」",
+        "image": "https://static.kivo.wiki/images/timeline/QC79RaRbGn9C6Da3S0RmY6CJF57qccVI.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 11/8 (Tue)! Target Pick Up Stu",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1589180869948080133",
+        "start_time": 1667898040,
+        "end_time": 1669082440
+      },
+      {
+        "id": 1239,
+        "line_type": "Globle",
+        "title": "国际服Vol.4 第一章前篇PV公开",
+        "image": "",
+        "body_summary": "[Update Notice] The Main Story, Rabbit of Caerbannog, has been updated! Get to know the new students",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1589905566029303809",
+        "start_time": 1667898027,
+        "end_time": 1667898027
+      },
       {
         "id": 1229,
         "line_type": "Globle",
@@ -43,99 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1586281687805108225",
         "start_time": 1667898026,
         "end_time": 1669082426
-      },
-      {
-        "id": 1224,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.4 第一章前篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/p8sbpk4hK4cyWfq2uV8RPISwOCC8YvBp.jpg",
-        "body_summary": "[Update Preview] 11/1 (Tue), a new Main Story 'Rabbit of Caerbannog' will be revealed! A new academy",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1585889099457650688",
-        "start_time": 1667898012,
-        "end_time": 1667898012
-      },
-      {
-        "id": 1882,
-        "line_type": "Globle",
-        "title": "国际服引导任务「Schale's Guide Mission」、1周年登录奖励、咖啡厅7级开放",
-        "image": "https://static.kivo.wiki/images/timeline/ls0oK6yuFFb1ZUer0cWKTvypDUUOby8j.jpg",
-        "body_summary": "",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1589905676306100225",
-        "start_time": 1667876424,
-        "end_time": 1670295624
-      },
-      {
-        "id": 1234,
-        "line_type": "Globle",
-        "title": "国际服例行维护25",
-        "image": "",
-        "body_summary": "[11/8 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/8 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1589132151215493124",
-        "start_time": 1667872813,
-        "end_time": 1667898013
-      },
-      {
-        "id": 1238,
-        "line_type": "Globle",
-        "title": "国际服课程表3倍#3 & 学院交流会3倍#3 & 指名手配3倍#3 & 特别依赖3倍#3",
-        "image": "https://static.kivo.wiki/images/timeline/76EbTPgY15hJ23bltamVu60TtBowq4Us.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] To celebrate the 1st Anniversary, we're giving triple rewards for Les",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1589165691134828544",
-        "start_time": 1667847634,
-        "end_time": 1668452374
-      },
-      {
-        "id": 488,
-        "line_type": "JP",
-        "title": "晄轮大祭项目推特活动：玉入れ",
-        "image": "",
-        "body_summary": "【#晄輪大祭学園対抗玉入れ】 先生！ 今回の晄輪大祭の種目は「学園対抗玉入れ」です！ 各学園の意地とプライドをかけたこの競技… 果たして勝つのは…！ 下のツイートボタンから誰が勝つか予想しましょう！ ",
-        "type": "WebEvent",
-        "url": "/twitter.com/Blue_ArchiveJP/status/1588365421530337280",
-        "start_time": 1667534400,
-        "end_time": 1667880000
-      },
-      {
-        "id": 924,
-        "line_type": "JP",
-        "title": "总力战扩档1",
-        "image": "https://static.kivo.wiki/images/timeline/9A54syO4Ncnn8dpNW2aJFXwgTaUOt386.png",
-        "body_summary": "2022/11/2(水)11:00より、なんと新しい総力戦「ゴズ」が開催します！ 新ボスを実装すると共に、総力戦のランクボーダーラインが調整され、総力戦のランキング表示難易度のフィルターの機能も追加さ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1583778678638407685",
-        "start_time": 1667393744,
-        "end_time": 1667393744
-      },
-      {
-        "id": 486,
-        "line_type": "JP",
-        "title": "屋内戦・ゴズ1",
-        "image": "https://static.kivo.wiki/images/timeline/ipYziZiildmZW9o71X5gIeHsBWBsWR6r.jpg",
-        "body_summary": "【総力戦・予告】 11月2日(水)11:00より、総力戦「屋内戦・ゴズ」が開催されます！ 遂に始まる新BOSS「ゴズ」のと初戦闘です…！ マジシャンのような見た目同様に、トリッキーな攻撃を仕掛けてくる",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1587006559946964993",
-        "start_time": 1667358000,
-        "end_time": 1667937540
-      },
-      {
-        "id": 487,
-        "line_type": "JP",
-        "title": "指名手配2倍#21",
-        "image": "https://static.kivo.wiki/images/timeline/0ZNnu5t5338KhqKasbZtAmjulyk6eQZm.jpg",
-        "body_summary": "【キャンペーン予告】 11月2日(水)4:00より、「指名手配」での獲得ドロップ量が2倍になるキャンペーンが開催されます！ 生徒さんの育成に必要な「戦術教育BD」や「戦術ノート」、「オーパーツ」をこの",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1587278529342808065",
-        "start_time": 1667332800,
-        "end_time": 1667937599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781563459,
+  "time": 1781649511,
   "version": "1.0.0-beta.43"
 }

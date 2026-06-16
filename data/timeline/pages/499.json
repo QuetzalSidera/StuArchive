@@ -2,26 +2,114 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 543,
+    "max_page": 544,
     "type_num": {
-      "AlliedOperation": 12,
+      "AlliedOperation": 13,
       "BigRaid": 84,
       "ContentImprovements": 394,
-      "Double": 884,
-      "Event": 491,
-      "Gacha": 773,
+      "Double": 885,
+      "Event": 492,
+      "Gacha": 775,
       "Live": 81,
       "MainStory": 122,
       "Maintenance": 425,
       "MiniBattle": 192,
-      "Other": 679,
+      "Other": 681,
       "OtherStory": 60,
-      "OutsideGames": 825,
+      "OutsideGames": 826,
       "Raid": 244,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 272,
+        "line_type": "JP",
+        "title": "特别依赖2倍#15",
+        "image": "https://static.kivo.wiki/images/timeline/M63mDLQQZ3TfwXtsuJjFAI4TxtFJlCwn.jpg",
+        "body_summary": "【キャンペーン予告】 「特別依頼」において「レポート」と「クレジット」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 2022/3/2(水)04:00 ~ 2022/3/9(",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1497496939247529985",
+        "start_time": 1646164800,
+        "end_time": 1646769599
+      },
+      {
+        "id": 1018,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍5",
+        "image": "",
+        "body_summary": "[Double Drop Campaign Preview] From 2/28 (Mon), the amount of rewards dropped in Bounty will be doub",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1497859055934746624",
+        "start_time": 1646074800,
+        "end_time": 1646679597
+      },
+      {
+        "id": 921,
+        "line_type": "JP",
+        "title": "过场插图追加2",
+        "image": "https://static.kivo.wiki/images/timeline/7tkDwrtMzwXzX1arbypu3rHB7ufirOtd.png",
+        "body_summary": "本日はローディングイラスト集後半を公開します！ 2日間に分けて生徒さん達の様々な一面を描いたローディングイラストを公開してきましたが、先生のイチ推しイラストはどちらですか？ これからもをどんどん新たに",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1497043797762805761",
+        "start_time": 1645793085,
+        "end_time": 1645793085
+      },
+      {
+        "id": 271,
+        "line_type": "JP",
+        "title": "违规账号封禁7",
+        "image": "https://static.kivo.wiki/images/timeline/BhEP0DBWOEZrZ1GcuplajulBcfrFvwdY.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご確",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1496439777716948992",
+        "start_time": 1645617600,
+        "end_time": 1645617600
+      },
+      {
+        "id": 270,
+        "line_type": "JP",
+        "title": "テイラーメイド机能追加",
+        "image": "https://static.kivo.wiki/images/timeline/iFQHtsm9TWrf0ZX2jho857EsZf1PFEpG.jpg",
+        "body_summary": "【新機能】 「クラフトチェンバー」の新機能「テイラーメイド」がまもなく実装されます！ 使用方法などを画像にまとめましたので、ぜひご活用ください！ また、新機能を使用する際に必要な新素材もプレゼントしま",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1496379326065176578",
+        "start_time": 1645614000,
+        "end_time": 1645614000
+      },
+      {
+        "id": 268,
+        "line_type": "JP",
+        "title": "卡池「声無き言葉たちの残花」＆「故無き力添えの賛歌」",
+        "image": "https://static.kivo.wiki/images/timeline/1h7usoLxGJrxo9Jau1oJIwNSeYRxrkSP.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「声無き言葉たちの残花」＆「故無き力添えの賛歌」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ウイ(CV：#後藤沙緒里) ★3 ヒナタ(CV：#日高里菜)",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1495986741827620869",
+        "start_time": 1645614000,
+        "end_time": 1646798400
+      },
+      {
+        "id": 264,
+        "line_type": "JP",
+        "title": "活动「どたばたシスターと古書館の魔術師」",
+        "image": "https://static.kivo.wiki/images/timeline/GUD2kTJWsvjxXbARMcDAvhRfiPcw0w9Q.png",
+        "body_summary": "【新イベント予告】 先生！トリニティにて歴史的価値がある「経典」が発見されたみたいですよ！ぜひお披露目会に参加しましょう！ 新イベント「どたばたシスターと古書館の魔術師」まもなく開催です！ ???「私",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1494145101102084096",
+        "start_time": 1645614000,
+        "end_time": 1646798400
+      },
+      {
+        "id": 269,
+        "line_type": "JP",
+        "title": "例行维护37",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/23(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1496001825601830913",
+        "start_time": 1645585200,
+        "end_time": 1645614000
+      },
       {
         "id": 266,
         "line_type": "JP",
@@ -43,99 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1496035782473043973",
         "start_time": 1645517108,
         "end_time": 1645517108
-      },
-      {
-        "id": 1037,
-        "line_type": "Globle",
-        "title": "国际服「夏空的愿望清单」活动PV公开",
-        "image": "",
-        "body_summary": "[Event Notice] Summer Sky's Wishlist Event has finally begun! What lies in wait for Sensei and Trini",
-        "type": "OutsideGames",
-        "url": "twitter.com/i/status/1496032690323472384",
-        "start_time": 1645516920,
-        "end_time": 1645516920
-      },
-      {
-        "id": 1015,
-        "line_type": "Globle",
-        "title": "国际服卡池「Cute swimsuits are justice... I'll keep that in mind.」",
-        "image": "https://static.kivo.wiki/images/timeline/IwP61wlFj3lmaVl38qDAQkUQ6HGoPMTi.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 2/22 (Tue)! Target Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1494960767585583107",
-        "start_time": 1645516800,
-        "end_time": 1646708400
-      },
-      {
-        "id": 1014,
-        "line_type": "Globle",
-        "title": "国际服卡池「Arrived at the objective. Let's go straight to the next mission.」",
-        "image": "https://static.kivo.wiki/images/timeline/DgpHDAi3nEmi8bFqyjQjXlPUGr4wtNCU.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 2/22 (Tue)! Target Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1494960230865661953",
-        "start_time": 1645516800,
-        "end_time": 1646708400
-      },
-      {
-        "id": 1016,
-        "line_type": "Globle",
-        "title": "国际服例行维护8",
-        "image": "",
-        "body_summary": "[2/22 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/22 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1495594127697850369",
-        "start_time": 1645498827,
-        "end_time": 1645516827
-      },
-      {
-        "id": 1013,
-        "line_type": "Globle",
-        "title": "国际服活动「Summer Sky Wishlist」",
-        "image": "https://static.kivo.wiki/images/timeline/ZTffUjSsMoJEHu6wVXwkMXqTj3rdJK9T.jpg",
-        "body_summary": "[New Event Preview] The Summer Sky Wishlist event will finally start on 2/22 (Tue)! What lies in wai",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1494567362216939521",
-        "start_time": 1645470008,
-        "end_time": 1646708408
-      },
-      {
-        "id": 1012,
-        "line_type": "Globle",
-        "title": "国际服总力战 Shiro & Kuro（Indoor）2",
-        "image": "https://static.kivo.wiki/images/timeline/X1IcJVFcwVrXtzSb2hhGFm5HFFw9JT2o.jpg",
-        "body_summary": "[Total Assault Preview] Shiro & Kuro(Indoor Warfare) will be held on 2/22 (Tue)! Discuss your strate",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1494204968991178760",
-        "start_time": 1645470000,
-        "end_time": 1646060340
-      },
-      {
-        "id": 267,
-        "line_type": "JP",
-        "title": "活动「どたばたシスターと古書館の魔術師」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPVを公開します！ トリニティの発掘区域にて発見された1冊の「経典」が巻き起こすドタバタ劇をどうぞお楽しみにしていてください！ 先生、図書館を利用する際はお静かにですよ？",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1495594397215629314",
-        "start_time": 1645416060,
-        "end_time": 1645416060
-      },
-      {
-        "id": 265,
-        "line_type": "JP",
-        "title": "任务hard3倍 #3",
-        "image": "https://static.kivo.wiki/images/timeline/7cgv1J1J9hXnBW3eLpUj7chke7AMDKon.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が3倍になるキャンペーンがまもなく開催されます！ 🔹開催期間 2月20日(日)04:00～2月23日(水)03:59 1stアニバーサリー最後のキ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1494507293362167810",
-        "start_time": 1645300800,
-        "end_time": 1645559999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1781563503,
+  "time": 1781649555,
   "version": "1.0.0-beta.43"
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-15T20:54:30Z",
+  "generated_at": "2026-06-16T20:49:34Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5425,
-  "alias_count": 5392,
-  "normalized_alias_count": 5384,
+  "total_items": 5433,
+  "alias_count": 5400,
+  "normalized_alias_count": 5392,
   "by_id": {
     "5542": {
       "id": 5542,
@@ -139,6 +139,78 @@
       "detail_path": "timeline/5572.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5572.json"
     },
+    "5580": {
+      "id": 5580,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5580,
+        "line_type": "Globle",
+        "title": "国际服特别依赖3倍 #16",
+        "image": "https://static.kivo.wiki/images/timeline/9HDuY7lmk5ZBHAP4tQKkwsifmZvyhWXT.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 6/15 (Mon), Commissions rewards will be tripled! Don't miss ",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2065694407828049949",
+        "start_time": 1781588177,
+        "end_time": 1782192977
+      },
+      "detail_path": "timeline/5580.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5580.json"
+    },
+    "5579": {
+      "id": 5579,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5579,
+        "line_type": "Globle",
+        "title": "国际服学院交流会3倍 #13",
+        "image": "https://static.kivo.wiki/images/timeline/6GxKJ0SqHuVzyOCTaSwSrFOYY2Z9oepz.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 6/15 (Mon), Scrimmage reward will be tripled! Don't miss out",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2065690634984272097",
+        "start_time": 1781587335,
+        "end_time": 1782192135
+      },
+      "detail_path": "timeline/5579.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5579.json"
+    },
+    "5578": {
+      "id": 5578,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5578,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Allow me to pray For Every hour, minute, and second I am awake... I'll pray for you Sensei.」&「Out on the sea, a swimsuit is a must!」",
+        "image": "https://static.kivo.wiki/images/timeline/zuVPjNMYAw4XfZA4AmV5yF7MNTqFC2F3.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 6/16 (Tue)! 💌Pick-Up S",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2065387127794532376",
+        "start_time": 1781587241,
+        "end_time": 1782192041
+      },
+      "detail_path": "timeline/5578.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5578.json"
+    },
+    "5577": {
+      "id": 5577,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5577,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Welcome! I'm ready as I'll ever be!」&「Wa ha ha ha ha!! Embrace a life of hot springs development! You'll learn to love it!」",
+        "image": "https://static.kivo.wiki/images/timeline/YUH0dcw7GWd1lbMFBMixBDL25GiMJFRa.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 6/16 (Tue)! 💌Pick-Up S",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2065387127794532376",
+        "start_time": 1781586823,
+        "end_time": 1782191623
+      },
+      "detail_path": "timeline/5577.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5577.json"
+    },
     "5540": {
       "id": 5540,
       "source_path": "timeline/index.json",
@@ -156,6 +228,24 @@
       },
       "detail_path": "timeline/5540.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5540.json"
+    },
+    "5581": {
+      "id": 5581,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5581,
+        "line_type": "Globle",
+        "title": "国际服活动特别MV「Protocol Supernova」公布",
+        "image": "https://static.kivo.wiki/images/timeline/1npHSk5B2hvyZ9OiyIffVd5kdAySMC1D.jpg",
+        "body_summary": "[Protocol Supernova MV Out Now] Sensei! Aris & Kei's song, 'Protocol Supernova' is now available! Ti",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2066445612858634446",
+        "start_time": 1781501874,
+        "end_time": 1781501874
+      },
+      "detail_path": "timeline/5581.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5581.json"
     },
     "5563": {
       "id": 5563,
@@ -337,6 +427,24 @@
       "detail_path": "timeline/5562.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5562.json"
     },
+    "5576": {
+      "id": 5576,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5576,
+        "line_type": "Globle",
+        "title": "国际服LINE Stickers表情包第三弹上线",
+        "image": "https://static.kivo.wiki/images/timeline/bqXjd3nVbyL0f1kc0MnZzVmO5Jqm7Wzr.jpg",
+        "body_summary": "Sensei, the third official Blue Archive LINE sticker is now available! Meet another side of Kivotos ",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2064890364667085068",
+        "start_time": 1781154721,
+        "end_time": 1781154721
+      },
+      "detail_path": "timeline/5576.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5576.json"
+    },
     "5569": {
       "id": 5569,
       "source_path": "timeline/index.json",
@@ -373,6 +481,24 @@
       "detail_path": "timeline/5567.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5567.json"
     },
+    "5575": {
+      "id": 5575,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5575,
+        "line_type": "Globle",
+        "title": "国际服更新礼物",
+        "image": "https://static.kivo.wiki/images/timeline/4NN2pxalSSjF6YTt0XZHNRcWMO71yn9H.png",
+        "body_summary": "Sensei! A special survey is being held to celebrate the June update! Please share your valuable thou",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2064607244210020384",
+        "start_time": 1781068105,
+        "end_time": 1782104905
+      },
+      "detail_path": "timeline/5575.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5575.json"
+    },
     "5531": {
       "id": 5531,
       "source_path": "timeline/index.json",
@@ -390,6 +516,24 @@
       },
       "detail_path": "timeline/5531.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5531.json"
+    },
+    "5574": {
+      "id": 5574,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5574,
+        "line_type": "Globle",
+        "title": "国际服联合作战「Operational Plan: Steel Continent-Malkuth Battle」",
+        "image": "https://static.kivo.wiki/images/timeline/JBslOEcCeNXbOmoCsXW8omfkf8Ticn2s.jpg",
+        "body_summary": "[Allied Operation Open Notice] Allied Operation (Malkuth Battle) has opened 6/10 (Wed) 2:00 AM! ➡️Of",
+        "type": "AlliedOperation",
+        "url": "x.com/EN_BlueArchive/status/2064603472478040575",
+        "start_time": 1781067583,
+        "end_time": 1782190783
+      },
+      "detail_path": "timeline/5574.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5574.json"
     },
     "5568": {
       "id": 5568,
@@ -512,7 +656,7 @@
         "type": "Gacha",
         "url": "x.com/EN_BlueArchive/status/2062799080867201320",
         "start_time": 1781013049,
-        "end_time": 1780797589
+        "end_time": 1781575189
       },
       "detail_path": "timeline/5553.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5553.json"
@@ -848,7 +992,7 @@
       "item": {
         "id": 5512,
         "line_type": "Globle",
-        "title": "国际服学院交流会3倍#13",
+        "title": "国际服课程表3倍 #16",
         "image": "https://static.kivo.wiki/images/timeline/qlCYb5cdsslSwYbMYHwUp3r6Xq0PGUc6.jpg",
         "body_summary": "[Triple Drop Campaign Preview] Starting 6/1 (Mon), Lesson reward will be tripled! Don't miss out on ",
         "type": "Double",
@@ -97686,8 +97830,23 @@
     "任务Normal2倍#58": [
       "5572"
     ],
+    "国际服特别依赖3倍 #16": [
+      "5580"
+    ],
+    "国际服学院交流会3倍 #13": [
+      "5579"
+    ],
+    "国际服卡池复刻「Allow me to pray For Every hour, minute, and second I am awake... I'll pray for you Sensei.」&「Out on the sea, a swimsuit is a must!」": [
+      "5578"
+    ],
+    "国际服卡池复刻「Welcome! I'm ready as I'll ever be!」&「Wa ha ha ha ha!! Embrace a life of hot springs development! You'll learn to love it!」": [
+      "5577"
+    ],
     "任务(困难难度)3倍 #16": [
       "5540"
+    ],
+    "国际服活动特别MV「Protocol Supernova」公布": [
+      "5581"
     ],
     "总力战:霍德 • 街区战 #5": [
       "5563"
@@ -97719,14 +97878,23 @@
     "例行维护 #58": [
       "5562"
     ],
+    "国际服LINE Stickers表情包第三弹上线": [
+      "5576"
+    ],
     "联合火力演习#52": [
       "5569"
     ],
     "卡池「夏恋し 百の思い出 花きらり」、卡池「あお海の 百すじの波 みだれ花!」&「夏おもひ 繚れおもい 乱るるは」复刻": [
       "5567"
     ],
+    "国际服更新礼物": [
+      "5575"
+    ],
     "活动「百ヨリ出ズル一輪ノ~いざ尋常に、水上勝負~」复刻": [
       "5531"
+    ],
+    "国际服联合作战「Operational Plan: Steel Continent-Malkuth Battle」": [
+      "5574"
     ],
     "例行维护#144": [
       "5568"
@@ -97803,7 +97971,7 @@
     "国际服特别依赖3倍 #15": [
       "5513"
     ],
-    "国际服学院交流会3倍#13": [
+    "国际服课程表3倍 #16": [
       "5512"
     ],
     "商店追加碎片:音葵": [
@@ -113897,8 +114065,23 @@
     "任务normal2倍#58": [
       "5572"
     ],
+    "国际服特别依赖3倍#16": [
+      "5580"
+    ],
+    "国际服学院交流会3倍#13": [
+      "5579"
+    ],
+    "国际服卡池复刻「allowmetoprayforeveryhour,minute,andsecondiamawake...i'llprayforyousensei.」&「outonthesea,aswimsuitisamust!」": [
+      "5578"
+    ],
+    "国际服卡池复刻「welcome!i'mreadyasi'lleverbe!」&「wahahahaha!!embracealifeofhotspringsdevelopment!you'lllearntoloveit!」": [
+      "5577"
+    ],
     "任务(困难难度)3倍#16": [
       "5540"
+    ],
+    "国际服活动特别mv「protocolsupernova」公布": [
+      "5581"
     ],
     "总力战:霍德•街区战#5": [
       "5563"
@@ -113931,14 +114114,23 @@
       "5562",
       "5457"
     ],
+    "国际服linestickers表情包第三弹上线": [
+      "5576"
+    ],
     "联合火力演习#52": [
       "5569"
     ],
     "卡池「夏恋し百の思い出花きらり」、卡池「あお海の百すじの波みだれ花!」&「夏おもひ繚れおもい乱るるは」复刻": [
       "5567"
     ],
+    "国际服更新礼物": [
+      "5575"
+    ],
     "活动「百ヨリ出ズル一輪ノ~いざ尋常に、水上勝負~」复刻": [
       "5531"
+    ],
+    "国际服联合作战「operationalplan:steelcontinent-malkuthbattle」": [
+      "5574"
     ],
     "例行维护#144": [
       "5568"
@@ -114015,7 +114207,7 @@
     "国际服特别依赖3倍#15": [
       "5513"
     ],
-    "国际服学院交流会3倍#13": [
+    "国际服课程表3倍#16": [
       "5512"
     ],
     "商店追加碎片:音葵": [
