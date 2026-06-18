@@ -41,7 +41,7 @@
     "given_name_cn": "真纪",
     "nick_name": "兄弟",
     "introduction": "为应对寒冬换上温暖装束的真理社成员。\n\n虽然对突如其来的登山计划并不积极，但新风景带来的灵感倒也让她乐在其中。不过似乎对无法将这些美景分享到网上而感到有些遗憾。\n\n>哪里有好的画布呢……？",
-    "introduction_cn": "",
+    "introduction_cn": "寒冷的冬日到来，这位真理社成员也换上了温暖的穿着。\n\n虽说她一开始对突如其来的登山活动不太感冒，但看到新的风景，也为她带来了新的灵感，算是不虚此行。然而，不能随时通过网络共享这些感受，让她感到非常遗憾。\n\n> 就没有什么地方适合当画布让我把灵感画下来吗？",
     "momo_talk_signature": "没有网真糟糕！",
     "main_relation": 36,
     "relation": [
@@ -57,14 +57,14 @@
     "character_voice": "三上枝织",
     "character_voice_cn": "金娜",
     "release_date": "2025-02-12",
-    "release_date_cn": null,
+    "release_date_cn": "2026-06-18",
     "release_date_global": "2025-07-22",
     "sd_model_image": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/EnemyInfo_CH0235.png",
     "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/Student_Portrait_CH0235_Collection.png",
     "school": 4,
     "weapon_type": "MG",
     "is_install": true,
-    "is_install_cn": false,
+    "is_install_cn": true,
     "is_install_global": true,
     "is_npc": false,
     "show_list": true,
@@ -568,7 +568,484 @@
         "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/jp/ch0235_formation_select.ogg"
       }
     ],
-    "voice_cn": [],
+    "voice_cn": [
+      {
+        "description": "ch0235_season_midautumn",
+        "category": "lobby",
+        "text": "……自从开始露营，才知道在远离喧嚣的自然中，能看到这么美的满月啊。感觉我的灵感都蠢蠢欲动了，得马上画下来！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_midautumn.ogg"
+      },
+      {
+        "description": "ch0235_season_newyear_1",
+        "category": "lobby",
+        "text": "老师，新年快乐。今晚有空的话，我们光之海岸见吧！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_newyear_1.ogg"
+      },
+      {
+        "description": "ch0235_season_newyear_2",
+        "category": "lobby",
+        "text": "嗯？那是在哪儿……？啊，我忘了说是游戏里的了。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_newyear_2.ogg"
+      },
+      {
+        "description": "ch0235_season_xmas",
+        "category": "lobby",
+        "text": "圣诞快乐，老师！今天好冷啊，我们一起在屋里做圣诞花环吧！要做好多好多，多到能挂满整个沙勒！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_xmas.ogg"
+      },
+      {
+        "description": "ch0235_title",
+        "category": "lobby",
+        "text": "Blue Archive...",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_title.ogg"
+      },
+      {
+        "description": "ch0235_cafe_monolog_1",
+        "category": "cafe",
+        "text": "今天真不想出门……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "ch0235_cafe_monolog_2",
+        "category": "cafe",
+        "text": "啊，我有了个很棒的灵感！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "ch0235_cafe_monolog_5",
+        "category": "cafe",
+        "text": "（这里也能安装BOOM吗？……干脆来挑战一下吧！）",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_cafe_monolog_5.ogg"
+      },
+      {
+        "description": "ch0235_cafe_monolog_3",
+        "category": "cafe",
+        "text": "把之前从千寻前辈那借来的一次性床具铺到这里怎么样？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "ch0235_cafe_monolog_4",
+        "category": "cafe",
+        "text": "这个名字怪怪的WIFI是怎么回事……？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "ch0235_commonskill",
+        "category": "battle",
+        "text": "好好领略一下我的艺术！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_commonskill.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_1_1",
+        "category": "event",
+        "text": "呜呜……年底有好多有趣的节目，可是却没办法看直播……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_1_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_1_2",
+        "category": "event",
+        "text": "千寻前辈也太过分了！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_1_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_2",
+        "category": "event",
+        "text": "啊，那片云……总觉得和服务器的电脑长得有点像呢。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_3_1",
+        "category": "event",
+        "text": "呜呜，双手好久没离开过键盘了，现在感觉好闲啊，受不了了——",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_3_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_3_2",
+        "category": "event",
+        "text": "哎老师，你有没有什么可以用手玩的玩具之类？哪怕是根橡皮筋也好啊！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_3_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_4_1",
+        "category": "event",
+        "text": "原来老师很享受露营啊。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_4_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlobby_4_2",
+        "category": "event",
+        "text": "那，我也努力打起精神吧！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlobby_4_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_1",
+        "category": "event",
+        "text": "好无聊……早知道就带个游戏机来了……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_2",
+        "category": "event",
+        "text": "好想感受到电波……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_season_1",
+        "category": "event",
+        "text": "用大自然当作画布，画点什么吧。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_season_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_season_2_1",
+        "category": "event",
+        "text": "（啊，那幅壁画……我忘记擦掉了。）",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_season_2_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_season_2_2",
+        "category": "event",
+        "text": "（算了，不会有什么事的！）",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_season_2_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_season_end_1",
+        "category": "event",
+        "text": "嗯，真是次不错的经历呢，比想象中好多了。尤其是晚上吃的水煮锅真的超棒的……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_season_end_1.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_season_end_2",
+        "category": "event",
+        "text": "带上手机的话，再来一次也可以。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_season_end_2.ogg"
+      },
+      {
+        "description": "ch0235_eventlogin_season_end_3",
+        "category": "event",
+        "text": "当，当然，不是喜欢上露营了的意思……！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_eventlogin_season_end_3.ogg"
+      },
+      {
+        "description": "ch0235_exskill_1",
+        "category": "battle",
+        "text": "总算……捕捉到信号啦！……呃，呃呃呃……啊呜？！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exskill_1.ogg"
+      },
+      {
+        "description": "ch0235_exskill_2",
+        "category": "battle",
+        "text": "快连上，快连上……有了！哇，哇啊啊！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exskill_2.ogg"
+      },
+      {
+        "description": "ch0235_exskill_3",
+        "category": "battle",
+        "text": "拜托，拜托……哇！诶，诶诶……？！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exskill_3.ogg"
+      },
+      {
+        "description": "ch0235_exskill_level_1",
+        "category": "battle",
+        "text": "呜哇，搞错了……！幸好没伤到。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exskill_level_1.ogg"
+      },
+      {
+        "description": "ch0235_exskill_level_2",
+        "category": "battle",
+        "text": "唔咕咕…………嘿嘿，看到了吗？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exskill_level_2.ogg"
+      },
+      {
+        "description": "ch0235_exskill_level_3",
+        "category": "battle",
+        "text": "呃呀啊啊哈？！成，成功落地……！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exskill_level_3.ogg"
+      },
+      {
+        "description": "ch0235_exweapon_get",
+        "category": "growup",
+        "text": "这把机枪虽然改造得很厉害，但带上登山的话也太重了……是不是该轻装上阵比较好？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_exweapon_get.ogg"
+      },
+      {
+        "description": "ch0235_gachaget",
+        "category": "growup",
+        "text": "呜呜，竟然要去露营……明明是休息日，又要出去吗……？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_gachaget.ogg"
+      },
+      {
+        "description": "ch0235_growup_1",
+        "category": "growup",
+        "text": "感觉露营的本领变强了…………这算是好事吗？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_growup_1.ogg"
+      },
+      {
+        "description": "ch0235_growup_2",
+        "category": "growup",
+        "text": "虽然要走的路还很长，但感觉找到点方向了！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_growup_2.ogg"
+      },
+      {
+        "description": "ch0235_growup_3",
+        "category": "growup",
+        "text": "嗯，这样就能再加把劲儿了！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_growup_3.ogg"
+      },
+      {
+        "description": "ch0235_growup_4",
+        "category": "growup",
+        "text": "噢噢，我有灵感了！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_growup_4.ogg"
+      },
+      {
+        "description": "ch0235_lobby_1_1",
+        "category": "lobby",
+        "text": "涂鸦的时候也经常登上高楼，但感觉登山又是另外一回事。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_1_1.ogg"
+      },
+      {
+        "description": "ch0235_lobby_1_2",
+        "category": "lobby",
+        "text": "没了WIFI，还是会有种一下子失去能量的感觉……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_1_2.ogg"
+      },
+      {
+        "description": "ch0235_lobby_2_1",
+        "category": "lobby",
+        "text": "如果不光是秋天，其他三个季节也有枫叶就好了，这样山上的风景肯定会更多姿多彩的……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_2_1.ogg"
+      },
+      {
+        "description": "ch0235_lobby_2_2",
+        "category": "lobby",
+        "text": "可是正因为枫叶不会在树上停留太久，才更有观赏价值吧？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_2_2.ogg"
+      },
+      {
+        "description": "ch0235_lobby_3_1",
+        "category": "lobby",
+        "text": "是说这条辫子吗？嗯，是我自己编的。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_3_1.ogg"
+      },
+      {
+        "description": "ch0235_lobby_3_2",
+        "category": "lobby",
+        "text": "平时的丸子头扎起来很花时间，休息日就懒得扎了……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_3_2.ogg"
+      },
+      {
+        "description": "ch0235_lobby_4_1",
+        "category": "lobby",
+        "text": "千寻前辈为什么能每天都那么早起床来活动室呢？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_4_1.ogg"
+      },
+      {
+        "description": "ch0235_lobby_4_2",
+        "category": "lobby",
+        "text": "难道……她12点前就睡了吗？！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_4_2.ogg"
+      },
+      {
+        "description": "ch0235_lobby_5_1",
+        "category": "lobby",
+        "text": "涂鸦的材料除了油漆，还有很多种可以用。就像上次画洞穴壁画一样！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_5_1.ogg"
+      },
+      {
+        "description": "ch0235_lobby_5_2",
+        "category": "lobby",
+        "text": "毕竟油漆很难擦除……今后，我得多找些可回收的天然材料。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_lobby_5_2.ogg"
+      },
+      {
+        "description": "ch0235_login_1",
+        "category": "lobby",
+        "text": "啊，老师，你来啦？该不会接下来又要出去吧……？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_login_1.ogg"
+      },
+      {
+        "description": "ch0235_login_2",
+        "category": "lobby",
+        "text": "老师，今天真的很冷对吧？所以我把办公室的电子设备全都打开来取暖了，让它们超负荷运转！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_login_2.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "呜呜，呜呜呜……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "又死在同一个地方了……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_2_1",
+        "category": "lobby",
+        "text": "嗯，没想到手柄还挺难操作的……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_2_1.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_2_2",
+        "category": "lobby",
+        "text": "本来打完最后一个BOSS就可以了，",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_2_2.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_3_1",
+        "category": "lobby",
+        "text": "可是因为现在很难操作，难度也跟着上升了……害我的好胜心莫名燃起来了。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_3_1.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_3_2",
+        "category": "lobby",
+        "text": "而且周围也没有其他可以消遣的东西，所以感觉精力也更加集中在游戏上了。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_3_2.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_3_3",
+        "category": "lobby",
+        "text": "难道，这就是传说中露营的乐趣所在吗？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_3_3.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_4",
+        "category": "lobby",
+        "text": "啊，时间这么快就到了？这下麻烦了……",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_4.ogg"
+      },
+      {
+        "description": "ch0235_memoriallobby_5",
+        "category": "lobby",
+        "text": "老师， 这次真的，真的是最后一次了……再等我一下下！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_memoriallobby_5.ogg"
+      },
+      {
+        "description": "ch0235_relationship_up_1",
+        "category": "growup",
+        "text": "一直以来都很谢谢你，老师。这是我的真心话！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_relationship_up_1.ogg"
+      },
+      {
+        "description": "ch0235_relationship_up_2",
+        "category": "growup",
+        "text": "爬山虽然很辛苦……但如果有老师陪着，就不觉得辛苦啦。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_relationship_up_2.ogg"
+      },
+      {
+        "description": "ch0235_relationship_up_3",
+        "category": "growup",
+        "text": "老师，要不要一起去散步？也不是因为突然转了性子什么的……只是觉得天气不错？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_relationship_up_3.ogg"
+      },
+      {
+        "description": "ch0235_relationship_up_4",
+        "category": "growup",
+        "text": "（咦？好奇怪……刚才老师的样子看起来好耀眼……）",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_relationship_up_4.ogg"
+      },
+      {
+        "description": "ch0235_season_birthday",
+        "category": "lobby",
+        "text": "哇……不知不觉我的生日又到了。嘿嘿，礼物就算啦。毕竟一直受老师各种照顾嘛。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_birthday.ogg"
+      },
+      {
+        "description": "ch0235_season_birthday_player_1",
+        "category": "lobby",
+        "text": "哇，老师！生日快乐！我在沙勒大楼的外墙上画了老师的巨幅肖像画，当做礼物送给老师——",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_birthday_player_1.ogg"
+      },
+      {
+        "description": "ch0235_season_birthday_player_2",
+        "category": "lobby",
+        "text": "啊哈哈，开玩笑，开玩笑的。别那么吃惊好嘛。不过如果有想要的礼物尽管开口，什么都行！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_birthday_player_2.ogg"
+      },
+      {
+        "description": "ch0235_season_chinesenewyear",
+        "category": "lobby",
+        "text": "老师！新年到了！听说今天AR游戏里会刷新叫“年”的怪兽，是限时的哦！我们一起去抓吧！这次可不能忘了给手机充电！",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_chinesenewyear.ogg"
+      },
+      {
+        "description": "ch0235_season_halloween",
+        "category": "lobby",
+        "text": "呀吼！万圣节到啦，老师。今天可是能尽情燃烧想象力和艺术之魂的日子。怎么样？要不要跟我一起燃烧一下艺术之魂？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/cn/ch0235_season_halloween.ogg"
+      }
+    ],
     "voice_kr": [
       {
         "description": "ch0235_cafe_monolog_1",
@@ -1144,7 +1621,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/skill_icon/V6TB11OtMqoJ1VH6561lHt5Qs6BEmRBl.png",
               "title": "还差一点……！",
-              "title_cn": "",
+              "title_cn": "还差一点……！",
               "preview": "https://static.kivo.wiki/videos/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/skill_preview/TuJCPUyILvwhln2Q4vErnu3F6o4jvArO.mp4",
               "max_level": 5,
               "link_student_id": 0,
@@ -1178,7 +1655,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/skill_icon/Le4f3Qu5mIMA6hwwR7tyxcVq7CE4PGuH.png",
               "title": "艺术灵光",
-              "title_cn": "",
+              "title_cn": "艺术的灵光乍现",
               "preview": "",
               "max_level": 10,
               "link_student_id": 0,
@@ -1230,7 +1707,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/skill_icon/ViEXoWIrXES69LSKReCh2BMQr7e2LaYg.png",
               "title": "喧嚣假日",
-              "title_cn": "",
+              "title_cn": "活力四射的假日",
               "preview": "",
               "max_level": 1,
               "link_student_id": 0,
@@ -1282,7 +1759,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/skill_icon/L5YCobmSAA5f9ry5Fjql5Ez1z4KwDvND.png",
               "title": "朝日光辉",
-              "title_cn": "",
+              "title_cn": "日出的光辉",
               "preview": "",
               "max_level": 1,
               "link_student_id": 0,
@@ -1356,9 +1833,9 @@
         "weapons": {
           "icon": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/Weapon_Icon_10007.png",
           "name": "自动喷漆",
-          "name_cn": "",
+          "name_cn": "自动喷漆",
           "description": "真纪在涂鸦时经常使用的通用机枪。<br>虽然带去登山露营有点重，但燃烧的艺术之魂不会挑选场所。",
-          "description_cn": "",
+          "description_cn": "真纪常在涂鸦时使用的重机枪。<br>虽然带去露营爬山会有点重，但艺术之魂的燃烧是不分场合的。",
           "info": [
             {
               "title": "",
@@ -1381,7 +1858,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/skill_icon/brUk8vDkv1KuLKMcQpbeX0mTdVGONYVZ.png",
               "title": "喧嚣假日+",
-              "title_cn": "",
+              "title_cn": "活力四射的假日+",
               "preview": "",
               "max_level": 10,
               "link_student_id": 0,
@@ -1441,10 +1918,10 @@
     "supplementary_uuid": "888f4262-aa2b-4453-8809-65a06bdd1053",
     "supplementary_declare_uuid": "5e365d9a-2310-4ddb-b3eb-800b46b01768",
     "created_at": 1703676690,
-    "updated_at": 1777659994
+    "updated_at": 1781796447
   },
   "message": "OK",
   "success": true,
-  "time": 1781727407,
+  "time": 1781814577,
   "version": "1.0.0-beta.43"
 }
