@@ -2,17 +2,197 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-19T19:48:32Z",
+  "generated_at": "2026-06-20T19:25:02Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5433,
-  "alias_count": 5400,
-  "normalized_alias_count": 5392,
+  "total_items": 5454,
+  "alias_count": 5421,
+  "normalized_alias_count": 5413,
   "by_id": {
+    "5601": {
+      "id": 5601,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5601,
+        "line_type": "JP",
+        "title": "C108悠星参展",
+        "image": "https://static.kivo.wiki/images/timeline/92ZmL5LE5madvOrmw2OdjKHBFyvJJ1Le.jpg",
+        "body_summary": "【新情報 ⑬-その1】https://x.com/Blue.jpg](https://kivo.wiki/files/4954/RRVwJv78DuppKQaAx2HRsLA1staX59Th.jpg) 【新情報 ⑬-その2】https",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2068301226245271917",
+        "start_time": 1786723200,
+        "end_time": 1786895999
+      },
+      "detail_path": "timeline/5601.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5601.json"
+    },
+    "5591": {
+      "id": 5591,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5591,
+        "line_type": "JP",
+        "title": "任务Normal2倍#59",
+        "image": "https://static.kivo.wiki/images/timeline/Sq4syKrTl0Cjfn22Qs3qab9PUIwlkKHK.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1784664000,
+        "end_time": 1785268799
+      },
+      "detail_path": "timeline/5591.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5591.json"
+    },
+    "5590": {
+      "id": 5590,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5590,
+        "line_type": "JP",
+        "title": "任务Hard2倍#57",
+        "image": "https://static.kivo.wiki/images/timeline/Gu5hGyhIFTmlIWUaOsL9um1E7Y2ScrSs.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1784059200,
+        "end_time": 1784663999
+      },
+      "detail_path": "timeline/5590.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5590.json"
+    },
+    "5600": {
+      "id": 5600,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5600,
+        "line_type": "JP",
+        "title": "迷你剧情「薬屋の彷徨い」追加",
+        "image": "https://static.kivo.wiki/images/timeline/8UfSJkszF8d02aMiTaG4iRRNGXLBVQyj.jpg",
+        "body_summary": "【新情報 ⑫】 ミニストーリーに「薬屋の彷徨い」編が追加されます！！ ▼実装日時 7月8日(水) メンテナンス後 #ブルアカ #ブルアカらいぶすたさまSP",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/2068299130930373075",
+        "start_time": 1783519870,
+        "end_time": 1783519870
+      },
+      "detail_path": "timeline/5600.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5600.json"
+    },
+    "5597": {
+      "id": 5597,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5597,
+        "line_type": "JP",
+        "title": "联合火力演习#53",
+        "image": "https://static.kivo.wiki/images/timeline/YOn0aFpgMZtLpzZKKueujCpVjqPo7EV0.jpg",
+        "body_summary": "【新情報 ⑨】 7月8日(水)メンテナンス後より、合同火力演習「突破演習」が開催されます！ ▼開催期間 7月8日(水) メンテナンス後 ～ 7月15日(水) 3:59 #ブルアカ #ブルアカらいぶすた",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2068297491582517312",
+        "start_time": 1783519559,
+        "end_time": 1784059199
+      },
+      "detail_path": "timeline/5597.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5597.json"
+    },
+    "5595": {
+      "id": 5595,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5595,
+        "line_type": "JP",
+        "title": "卡池 「リコレクト募集」#2",
+        "image": "https://static.kivo.wiki/images/timeline/DB2DHXwOU6z6YEoZzoijygCKwZojsJgg.jpg",
+        "body_summary": "【新情報 ⑥】 7月8日(水)メンテナンス後より、「リコレクト募集」が開催されます！ 今回対象の生徒さんはこちらの画像をご覧ください！！ #ブルアカ #ブルアカらいぶすたさまSP",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2068294978166743104",
+        "start_time": 1783479600,
+        "end_time": 1784084399
+      },
+      "detail_path": "timeline/5595.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5595.json"
+    },
+    "5589": {
+      "id": 5589,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5589,
+        "line_type": "JP",
+        "title": "课程表2倍#44",
+        "image": "https://static.kivo.wiki/images/timeline/eYLuTaZtp8SUSr9EujxCMcrfsPkirYJ8.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1783454400,
+        "end_time": 1784059199
+      },
+      "detail_path": "timeline/5589.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5589.json"
+    },
+    "5599": {
+      "id": 5599,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5599,
+        "line_type": "JP",
+        "title": " 屋内戦・グレゴリオ #4",
+        "image": "https://static.kivo.wiki/images/timeline/r2CXySI57PhPjn2q3Eem0otcUBbOdF4Y.jpg",
+        "body_summary": "【新情報 ⑪】 総力戦「グレゴリオ」の開催が決定しました！ 今回開催される「グレゴリオ」の地形は屋内戦！防御タイプは軽装備！ Insane、Torment、Lunaticの攻撃タイプは神秘です！ ▼開",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/2068298483141054968",
+        "start_time": 1782849600,
+        "end_time": 1783454399
+      },
+      "detail_path": "timeline/5599.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5599.json"
+    },
+    "5588": {
+      "id": 5588,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5588,
+        "line_type": "JP",
+        "title": "特别依赖2倍#69 & 学院交流会2倍#45",
+        "image": "https://static.kivo.wiki/images/timeline/WkqQTLt05JQ4T7XLjpHKdHLvyOBAYmGB.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1782849600,
+        "end_time": 1783454399
+      },
+      "detail_path": "timeline/5588.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5588.json"
+    },
+    "5592": {
+      "id": 5592,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5592,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 26-06-27",
+        "image": "https://static.kivo.wiki/images/timeline/4abqwcgtDNCWVhFLW8m8j62xIFOLFoEn.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1782504000,
+        "end_time": 1782676799
+      },
+      "detail_path": "timeline/5592.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5592.json"
+    },
     "5542": {
       "id": 5542,
       "source_path": "timeline/index.json",
@@ -30,6 +210,186 @@
       },
       "detail_path": "timeline/5542.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5542.json"
+    },
+    "5598": {
+      "id": 5598,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5598,
+        "line_type": "JP",
+        "title": " 制约解除决战：Tiphareth #5",
+        "image": "https://static.kivo.wiki/images/timeline/pWWn2uz94bUwsOKRLpNEGJ7hJ9dS4i4T.jpg",
+        "body_summary": "【新情報 ⑩】 制約解除決戦「ティファレト」が開催されます！ 今回開催される「ティファレト」の防御タイプは「弾力装甲」となります！ ▼開催期間 6月25日(木) 11:00 ～ 7月29日(水) 3:",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2068297999256781063",
+        "start_time": 1782356400,
+        "end_time": 1785268799
+      },
+      "detail_path": "timeline/5598.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5598.json"
+    },
+    "5596": {
+      "id": 5596,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5596,
+        "line_type": "JP",
+        "title": "家具锁功能实装",
+        "image": "https://static.kivo.wiki/images/timeline/a1dnbPQJ27bcrpbJP0TZd6EREjWO1Ixn.jpg",
+        "body_summary": "【新情報 ⑧】 6月24日(水)メンテナンス後より、「家具のロック機能」が追加されます！ 所持している家具にロックをかけられる機能で、ロックされた家具は「製造」では表示されなくなります。 ぜひお役立て",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2068297109607248133",
+        "start_time": 1782309857,
+        "end_time": 1782309857
+      },
+      "detail_path": "timeline/5596.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5596.json"
+    },
+    "5594": {
+      "id": 5594,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5594,
+        "line_type": "JP",
+        "title": "爱用品追加：伊吕波、花凛（兔女郎）、绫音",
+        "image": "https://static.kivo.wiki/images/timeline/Y6j3y5FhriUjm6EuvQTc3OsNG0aEi5rk.jpg",
+        "body_summary": "【新情報 ⑦】 6月24日(水)メンテナンス後より、「イロハ」さん、「カリン(バニーガール)」さん、そして「アヤネ」さんの「愛用品」が実装されます！ 「愛用品」が実装されると共に、上記3名の生徒さんの",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2068296399721267352",
+        "start_time": 1782309261,
+        "end_time": 1782309261
+      },
+      "detail_path": "timeline/5594.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5594.json"
+    },
+    "5593": {
+      "id": 5593,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5593,
+        "line_type": "JP",
+        "title": "「LimitedDash募集」功能追加",
+        "image": "https://static.kivo.wiki/images/timeline/ThMiIx1YhyaF9hDVvXwetWkc1kVv5jP7.jpg",
+        "body_summary": "【新情報 ⑤】 6月24日(水)メンテナンス後より、「LimitedDash募集」が追加されます！ LimitedDash募集とは、新規アカウント作成時、または6月24日(水)メンテナンス後以降の初ロ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2068294141378023584",
+        "start_time": 1782308600,
+        "end_time": 1782308600
+      },
+      "detail_path": "timeline/5593.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5593.json"
+    },
+    "5587": {
+      "id": 5587,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5587,
+        "line_type": "JP",
+        "title": "妃咲（泳装）、瞬（泳装）家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/nSsRFSdbCHoMrHw3k5PkJ37XPADvbuv8.jpg",
+        "body_summary": "【新情報 ②】 新規家具モーションが追加されます。 今回の対象生徒さんと対象家具及び実装時間などの詳細情報はこちらの画像にてご確認ください！ #ブルアカ #ブルアカらいぶすたさまSP",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2068291578985402394",
+        "start_time": 1782306713,
+        "end_time": 1782306713
+      },
+      "detail_path": "timeline/5587.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5587.json"
+    },
+    "5585": {
+      "id": 5585,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5585,
+        "line_type": "JP",
+        "title": "活动 「嵐過天晴」",
+        "image": "https://static.kivo.wiki/images/timeline/0hg8td4DAJ8cPWgh9aBX4JWDHepvFm9C.jpg",
+        "body_summary": "【新情報 ①】 6月24日(水)メンテナンス後、新イベント「嵐過天晴」が開催されます。 新イベントに合わせてピックアップ募集「淡きこと水のごとし」＆「夏中に能く身を成すを」の開催が決定しました！ 詳し",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2068290034101539126",
+        "start_time": 1782306226,
+        "end_time": 1783515826
+      },
+      "detail_path": "timeline/5585.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5585.json"
+    },
+    "5584": {
+      "id": 5584,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5584,
+        "line_type": "JP",
+        "title": "卡池「淡きこと水のごとし」＆「夏中に能く身を成すを」",
+        "image": "https://static.kivo.wiki/images/timeline/ioOMrBBEy3f4s8ZiqJqPxiATniAMzsYQ.jpg",
+        "body_summary": "【新情報 ①】 6月24日(水)メンテナンス後、新イベント「嵐過天晴」が開催されます。 新イベントに合わせてピックアップ募集「淡きこと水のごとし」＆「夏中に能く身を成すを」の開催が決定しました！ 詳し",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2068290034101539126",
+        "start_time": 1782305574,
+        "end_time": 1783515174
+      },
+      "detail_path": "timeline/5584.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5584.json"
+    },
+    "5586": {
+      "id": 5586,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5586,
+        "line_type": "JP",
+        "title": "指名手配2倍#58",
+        "image": "https://static.kivo.wiki/images/timeline/GOenSHpzVTtaTNLxOSYQ1ZHb83HaActY.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1782244800,
+        "end_time": 1782849599
+      },
+      "detail_path": "timeline/5586.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5586.json"
+    },
+    "5582": {
+      "id": 5582,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5582,
+        "line_type": "JP",
+        "title": "任务Hard2倍#56",
+        "image": "https://static.kivo.wiki/images/timeline/11QLZMtR9ugLrjtryjvOHadigyfTglYF.jpg",
+        "body_summary": "【キャンペーン予告】 2026年6月21日(日) 4:00より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年6月21日(日) 4:00 ～ 2",
+        "type": "Double",
+        "url": "x.com/i/status/2067902832804856020",
+        "start_time": 1781985600,
+        "end_time": 1782244799
+      },
+      "detail_path": "timeline/5582.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5582.json"
+    },
+    "5602": {
+      "id": 5602,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5602,
+        "line_type": "JP",
+        "title": "Youtube订阅突破90万人",
+        "image": "https://static.kivo.wiki/images/timeline/rFQoqEUZddoOVue3i8rttjH4je0QkhR1.jpg",
+        "body_summary": "【新情報 ⑭】 『ブルーアーカイブ』公式YouTubeチャンネルのチャンネル登録者数が90万人を突破いたしました！ 先生方へ感謝を込めて、感謝の「10回募集チケット ×1」をプレゼントいたします！ ▼",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2068306557834772743",
+        "start_time": 1781965101,
+        "end_time": 1781965101
+      },
+      "detail_path": "timeline/5602.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5602.json"
     },
     "5573": {
       "id": 5573,
@@ -84,6 +444,24 @@
       },
       "detail_path": "timeline/5564.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5564.json"
+    },
+    "5583": {
+      "id": 5583,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5583,
+        "line_type": "JP",
+        "title": " 卡池「Who says you can't be sweet」&「Ain't too proud to rely on!」，卡池「I need to be in romantic」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/yLWAp54oAkDXvYNk8fvRrtCTDKBF2sDi.png",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、期間限定復刻ピックアップ募集「Who says you can't be sweet」＆「Ain't too proud to rely on!」ならびに、復刻ピ",
+        "type": "Gacha",
+        "url": "bluearchive.jp/news/newsJump/668",
+        "start_time": 1781665200,
+        "end_time": 1782269999
+      },
+      "detail_path": "timeline/5583.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5583.json"
     },
     "5571": {
       "id": 5571,
@@ -11774,7 +12152,7 @@
       "item": {
         "id": 4841,
         "line_type": "JP",
-        "title": "成员招募类型增加：「リコレクト募集」",
+        "title": "成员招募类型增加：「リコレクト募集」 & 卡池 「リコレクト募集」#1",
         "image": "https://static.kivo.wiki/images/timeline/WKlMfAjZLK8DG0dyvbs9qgO7ukFWMlNN.jpg",
         "body_summary": "【新情報⑭】 12月31日(水)11:00より、期間限定で「リコレクト募集」が開催されます！ リコレクト募集とは、一部の周年記念期間限定募集で登場した生徒の中から、自分でピックアップ生徒を選ぶことがで",
         "type": "ContentImprovements",
@@ -97809,8 +98187,68 @@
     }
   },
   "by_alias": {
+    "C108悠星参展": [
+      "5601"
+    ],
+    "任务Normal2倍#59": [
+      "5591"
+    ],
+    "任务Hard2倍#57": [
+      "5590"
+    ],
+    "迷你剧情「薬屋の彷徨い」追加": [
+      "5600"
+    ],
+    "联合火力演习#53": [
+      "5597"
+    ],
+    "卡池 「リコレクト募集」#2": [
+      "5595"
+    ],
+    "课程表2倍#44": [
+      "5589"
+    ],
+    "屋内戦・グレゴリオ #4": [
+      "5599"
+    ],
+    "特别依赖2倍#69 & 学院交流会2倍#45": [
+      "5588"
+    ],
+    "老师经验2倍集中通知 26-06-27": [
+      "5592"
+    ],
     "特别委托3倍 #13": [
       "5542"
+    ],
+    "制约解除决战:Tiphareth #5": [
+      "5598"
+    ],
+    "家具锁功能实装": [
+      "5596"
+    ],
+    "爱用品追加:伊吕波、花凛(兔女郎)、绫音": [
+      "5594"
+    ],
+    "「LimitedDash募集」功能追加": [
+      "5593"
+    ],
+    "妃咲(泳装)、瞬(泳装)家具互动更新": [
+      "5587"
+    ],
+    "活动 「嵐過天晴」": [
+      "5585"
+    ],
+    "卡池「淡きこと水のごとし」&「夏中に能く身を成すを」": [
+      "5584"
+    ],
+    "指名手配2倍#58": [
+      "5586"
+    ],
+    "任务Hard2倍#56": [
+      "5582"
+    ],
+    "Youtube订阅突破90万人": [
+      "5602"
     ],
     "直播「ブルアカらいぶ!ざ☆すたーとおぶさまー!SP」": [
       "5573"
@@ -97820,6 +98258,9 @@
     ],
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
+    ],
+    "卡池「Who says you can't be sweet」&「Ain't too proud to rely on!」,卡池「I need to be in romantic」复刻": [
+      "5583"
     ],
     "活动「-ive aLIVE!」常驻化": [
       "5571"
@@ -99770,7 +100211,7 @@
     "年末特别礼物": [
       "4869"
     ],
-    "成员招募类型增加:「リコレクト募集」": [
+    "成员招募类型增加:「リコレクト募集」 & 卡池 「リコレクト募集」#1": [
       "4841"
     ],
     "屋外戦・ホバークラフト #5": [
@@ -114044,8 +114485,68 @@
     ]
   },
   "by_normalized_alias": {
+    "c108悠星参展": [
+      "5601"
+    ],
+    "任务normal2倍#59": [
+      "5591"
+    ],
+    "任务hard2倍#57": [
+      "5590"
+    ],
+    "迷你剧情「薬屋の彷徨い」追加": [
+      "5600"
+    ],
+    "联合火力演习#53": [
+      "5597"
+    ],
+    "卡池「リコレクト募集」#2": [
+      "5595"
+    ],
+    "课程表2倍#44": [
+      "5589"
+    ],
+    "屋内戦・グレゴリオ#4": [
+      "5599"
+    ],
+    "特别依赖2倍#69&学院交流会2倍#45": [
+      "5588"
+    ],
+    "老师经验2倍集中通知26-06-27": [
+      "5592"
+    ],
     "特别委托3倍#13": [
       "5542"
+    ],
+    "制约解除决战:tiphareth#5": [
+      "5598"
+    ],
+    "家具锁功能实装": [
+      "5596"
+    ],
+    "爱用品追加:伊吕波、花凛(兔女郎)、绫音": [
+      "5594"
+    ],
+    "「limiteddash募集」功能追加": [
+      "5593"
+    ],
+    "妃咲(泳装)、瞬(泳装)家具互动更新": [
+      "5587"
+    ],
+    "活动「嵐過天晴」": [
+      "5585"
+    ],
+    "卡池「淡きこと水のごとし」&「夏中に能く身を成すを」": [
+      "5584"
+    ],
+    "指名手配2倍#58": [
+      "5586"
+    ],
+    "任务hard2倍#56": [
+      "5582"
+    ],
+    "youtube订阅突破90万人": [
+      "5602"
     ],
     "直播「ブルアカらいぶ!ざ☆すたーとおぶさまー!sp」": [
       "5573"
@@ -114055,6 +114556,9 @@
     ],
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
+    ],
+    "卡池「whosaysyoucan'tbesweet」&「ain'ttooproudtorelyon!」,卡池「ineedtobeinromantic」复刻": [
+      "5583"
     ],
     "活动「-ivealive!」常驻化": [
       "5571"
@@ -116004,7 +116508,7 @@
     "年末特别礼物": [
       "4869"
     ],
-    "成员招募类型增加:「リコレクト募集」": [
+    "成员招募类型增加:「リコレクト募集」&卡池「リコレクト募集」#1": [
       "4841"
     ],
     "屋外戦・ホバークラフト#5": [

@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-20T19:25:02Z",
+  "id": 598,
+  "display_name": "春原 瞬（泳装）",
+  "names": {
+    "default": "春原 瞬",
+    "cn": "春原 瞬",
+    "jp": "春原 シュン",
+    "en": "Sunohara Shun",
+    "kr": "스노하라 슌",
+    "zh_tw": "春原 旬",
+    "family_name": "春原",
+    "given_name": "瞬",
+    "family_name_cn": "春原",
+    "given_name_cn": "瞬",
+    "family_name_jp": "春原",
+    "given_name_jp": " シュン",
+    "family_name_en": "Sunohara",
+    "given_name_en": "Shun",
+    "family_name_kr": "스노하라",
+    "given_name_kr": "슌",
+    "family_name_zh_tw": "春原",
+    "given_name_zh_tw": "旬"
+  },
+  "skin": {
+    "default": "泳装 ",
+    "cn": "泳装",
+    "jp": "水着",
+    "zh_tw": "泳裝",
+    "skins": [
+      {
+        "id": 90,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      },
+      {
+        "id": 109,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E5%B9%BC%E5%A5%B3/avatar.png",
+        "skin": "幼女",
+        "skin_cn": "小"
+      },
+      {
+        "id": 598,
+        "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/D6DD0C85219194E7ED3AD022F5AACC9F.jpg",
+        "skin": "泳装 ",
+        "skin_cn": "泳装"
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 1,
+    "grade": "三年生",
+    "height": 174,
+    "birthday": "02-05",
+    "hobby": "陪小朋友玩",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "伊藤静",
+    "character_voice_cn": "秦紫翼",
+    "nick_name": "  ",
+    "body_shape": "Large"
+  },
+  "affiliation": {
+    "school": {
+      "id": 7,
+      "name": "山海经高级中学",
+      "name_cn": "山海经高等学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6_preview.png",
+      "detail_path": "schools/7.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/7.json"
+    },
+    "main_relation": {
+      "id": 51,
+      "name": "梅花园",
+      "name_cn": "梅花园",
+      "image": "https://static.kivo.wiki/images/relation/sgnQ0MX7mNnMXl4wQBixGfuHvCBH1qAm.png",
+      "description": "",
+      "detail_path": "relations/51.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/51.json"
+    },
+    "relations": [
+      {
+        "id": 50,
+        "name": "炼丹术研究会",
+        "name_cn": "炼丹研究会",
+        "image": "https://static.kivo.wiki/images/relation/nNeImBEJ2ERLAFXDnMdqditUF9kV2yV8.png",
+        "description": "",
+        "detail_path": "relations/50.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/50.json"
+      }
+    ]
+  },
+  "implementation": {
+    "jp": {
+      "installed": true,
+      "release_date": "2026-06-24"
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": true
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/D6DD0C85219194E7ED3AD022F5AACC9F.jpg",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [],
+    "model_ids": [
+      85
+    ]
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "SR",
+    "role": "Dealer",
+    "combat_style": "瞬（泳装）",
+    "battlefield_position": "STRIKER",
+    "team_position": "BACK",
+    "attack_attribute": "Vibration",
+    "defensive_attributes": "Light",
+    "rarity": 3,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/tvbPtZhL8TS2Ov17ZzgrD5ZddGDIFsdJ.png",
+          "title": "到家之前都算旅游哦",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_preview/PKLexZvYhoAxLOF0nsmsjnPdyYQEKouE.mp4",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 3,
+              "describe": "对1名敌人造成攻击力x%的伤害<br>获得「花蕾」（持续一定时间），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/XYJShOrAeblA8EwWCu2za1cj8Y9p6oCD.png",
+          "title": "要好好听话哦？",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 3,
+              "describe": "对1名敌人造成攻击力x%的伤害（持有「花蕾」时可以消耗）"
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/bhv1OTLjQhW5HyPQo9HjgFziZLdkpPyZ.png",
+          "title": "不行哦？",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "每经过一定时间，对1名敌人造成攻击力x%的伤害"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/fGlfqTlsyF8vux93Qz5lNm1dKOIII3Jp.png",
+          "title": "度假中的教官",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "攻击力增加"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/Be24JRqerA0BZPZXXGE3ccqCaBaUtDKv.png",
+          "title": "梅花园的教诲",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "获得「花蕾」时及其后每经过一定时间，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加伤害（持续一定时间）"
+            }
+          ]
+        }
+      ]
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLQK0gfaIAEAgS8.jpg",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLQK0gZa0AAl6NG.jpg",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/Screenshot%202026-06-20%2021-21-42.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/Screenshot%202026-06-20%2021-21-59.png"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/598.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/598.json",
+    "upstream_time": 1781983802,
+    "updated_at": 1781962442,
+    "created_at": 1781956894
+  }
+}

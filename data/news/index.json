@@ -7,21 +7,15 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-06-19T19:48:32Z",
+  "generated_at": "2026-06-20T19:25:02Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 8,
   "synced_pages": 8,
-  "total_items": 80,
-  "details_synced": 80,
+  "total_items": 79,
+  "details_synced": 79,
   "details_enabled": true,
   "items": [
-    {
-      "id": 139,
-      "title": "[广告] 6.19 - 深圳蔚蓝档案only【课后闲时】",
-      "image": "https://static.kivo.wiki/images/news/9Ha6pZydpb2EKZ8a6FSCnttaKK5ZymEk.png",
-      "url": ""
-    },
     {
       "id": 138,
       "title": "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日",
@@ -552,16 +546,10 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=8",
       "path": "news/pages/8.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/8.json",
-      "item_count": 10
+      "item_count": 9
     }
   ],
   "details": [
-    {
-      "id": 139,
-      "upstream_url": "https://api.kivo.wiki/api/v1/news/139",
-      "path": "news/139.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/139.json"
-    },
     {
       "id": 138,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/138",
@@ -1040,8 +1028,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 80,
-    "normalized_alias_count": 80,
-    "total_items": 80
+    "alias_count": 79,
+    "normalized_alias_count": 79,
+    "total_items": 79
   }
 }

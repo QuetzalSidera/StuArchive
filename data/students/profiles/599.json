@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-06-20T19:25:02Z",
+  "id": 599,
+  "display_name": "龙华 妃咲（泳装）",
+  "names": {
+    "default": "龙华 妃咲",
+    "cn": "龙华 妃咲",
+    "jp": "竜華 キサキ",
+    "en": "Ryuuge Kisaki",
+    "kr": "류우게 키사키",
+    "zh_tw": "龍華 妃姬",
+    "family_name": "龙华",
+    "given_name": "妃咲",
+    "family_name_cn": "龙华",
+    "given_name_cn": "妃咲",
+    "family_name_jp": "竜華",
+    "given_name_jp": "キサキ",
+    "family_name_en": "Ryuuge",
+    "given_name_en": "Kisaki",
+    "family_name_kr": "류우게",
+    "given_name_kr": "키사키",
+    "family_name_zh_tw": "龍華",
+    "given_name_zh_tw": "妃姬"
+  },
+  "skin": {
+    "default": "泳装",
+    "cn": "泳装",
+    "jp": "水着",
+    "zh_tw": "泳裝",
+    "skins": [
+      {
+        "id": 61,
+        "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/original/avatar.png",
+        "skin": "",
+        "skin_cn": ""
+      },
+      {
+        "id": 599,
+        "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/ksk.png",
+        "skin": "泳装",
+        "skin_cn": "泳装"
+      }
+    ]
+  },
+  "intro": {
+    "default": "",
+    "cn": "",
+    "momo_talk_signature": "",
+    "more": ""
+  },
+  "profile": {
+    "age": 17,
+    "grade": "三年生",
+    "height": 142,
+    "birthday": "02-19",
+    "hobby": "茶道、密行",
+    "designer": "",
+    "illustrator": "",
+    "character_voice": "相坂优歌",
+    "character_voice_cn": "醋醋",
+    "nick_name": " ",
+    "body_shape": "Small"
+  },
+  "affiliation": {
+    "school": {
+      "id": 7,
+      "name": "山海经高级中学",
+      "name_cn": "山海经高等学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E5%B1%B1%E6%B5%B7%E7%BB%8F%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6_preview.png",
+      "detail_path": "schools/7.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/7.json"
+    },
+    "main_relation": {
+      "id": 49,
+      "name": "玄龙门",
+      "name_cn": "玄龙门",
+      "image": "https://static.kivo.wiki/images/relation/IVC2lCxORaInpeIalnbfIGPxfX180NVM.png",
+      "description": "",
+      "detail_path": "relations/49.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/49.json"
+    },
+    "relations": [
+      {
+        "id": 52,
+        "name": "玄武商会",
+        "name_cn": "玄武商会",
+        "image": "https://static.kivo.wiki/images/relation/cbM9qL1FaiyCyl0beReEX1Pz7pdRqTub.png",
+        "description": "",
+        "detail_path": "relations/52.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/52.json"
+      },
+      {
+        "id": 67,
+        "name": "黑龟组",
+        "name_cn": "黑龟组",
+        "image": "https://static.kivo.wiki/images/relation/hzoDZIKrkK8Fz1Gy24OikgTwjprgpDL0.png",
+        "description": "",
+        "detail_path": "relations/67.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/67.json"
+      }
+    ]
+  },
+  "implementation": {
+    "jp": {
+      "installed": true,
+      "release_date": "2026-06-24"
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/ksk.png",
+    "sd_model_image": "",
+    "recollection_lobby_image": "",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [],
+    "model_ids": [
+      180
+    ]
+  },
+  "combat": {
+    "character_id": 0,
+    "dev_name": "",
+    "weapon_type": "SMG",
+    "role": "Support",
+    "combat_style": "default",
+    "battlefield_position": "STRIKER",
+    "team_position": "BACK",
+    "attack_attribute": "Vibration",
+    "defensive_attributes": "Elastic",
+    "rarity": 3,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "",
+      "indoor": "",
+      "street": ""
+    },
+    "basic": [
+      {
+        "max_hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "healing": 0,
+        "accuracy": 0,
+        "evasion": 0,
+        "crit": 0,
+        "crit_res": 0,
+        "crit_dmg": 0,
+        "crit_dmg_res": 0,
+        "stability": 0,
+        "range": 0,
+        "cc_power": 0,
+        "cc_res": 0,
+        "recovery_boost": 0,
+        "mag_count": 0
+      }
+    ],
+    "skills": {
+      "ex_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/skill_icon/MbB2GS7agIlUpRP0SI9yghnoIM9uYYa2.png",
+          "title": "宣言：本日休业",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/skill_preview/6AyjQpb62Yy1rICvHMYLGsPQdWed3Qzq.mp4",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 2,
+              "describe": "在除自身外的STRIKER（突击）学生中，使其中最近的三名我方学生的EX技能COST减少（使用EX技能一次）<br>自身的COST恢复力增加（一定时间内）<br>自身接下来两次的EX技能变更为「实行：万岁体操」"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/skill_icon/cgUA1BAbCVTb1BYswivqCOcIp4qHUlQo.png",
+          "title": "实行：万岁体操",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 0,
+              "describe": "自身的COST恢复力增加（一定时间内）"
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/skill_icon/Ou88c3Y3twBRdBLgM9KX734jjz8NLC3h.png",
+          "title": "决定：强制执行",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "每经过一定时间，使一名敌人的暴击抵抗率减少<br>造成一定比例攻击力的伤害"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/skill_icon/zUoR7cafZisCrFbCFTaehFIek3XtOyCe.png",
+          "title": "视察：现场调查",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "普通攻击的射程与生命值增加"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/skill_icon/cYj6yhnWfMpwg197ADbYWMNpBPRt4LAZ.png",
+          "title": "疗养：英气回复",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "我方成功暴击一定次数时，为自身恢复一定比例治愈力的生命值"
+            }
+          ]
+        }
+      ]
+    },
+    "weapon": {
+      "icon": "",
+      "name": "",
+      "name_cn": "",
+      "description": "",
+      "description_cn": "",
+      "info": [],
+      "skill": []
+    },
+    "equipment": [],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": []
+  },
+  "preferences": {
+    "gifts": [],
+    "furniture": []
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLQK0f-aMAAVhUs.jpg",
+          "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/e2fea0c9-70aa-4f51-b760-1f3ffa45cbe0.jpg"
+        ]
+      }
+    ],
+    "voice": [],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/599.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/599.json",
+    "upstream_time": 1781983880,
+    "updated_at": 1781964183,
+    "created_at": 1781961908
+  }
+}

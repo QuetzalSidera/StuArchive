@@ -2,30 +2,17 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-06-19T19:48:32Z",
+  "generated_at": "2026-06-20T19:25:02Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 80,
-  "alias_count": 80,
-  "normalized_alias_count": 80,
+  "total_items": 79,
+  "alias_count": 79,
+  "normalized_alias_count": 79,
   "by_id": {
-    "139": {
-      "id": 139,
-      "source_path": "news/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
-      "item": {
-        "id": 139,
-        "title": "[广告] 6.19 - 深圳蔚蓝档案only【课后闲时】",
-        "image": "https://static.kivo.wiki/images/news/9Ha6pZydpb2EKZ8a6FSCnttaKK5ZymEk.png",
-        "url": ""
-      },
-      "detail_path": "news/139.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/139.json"
-    },
     "138": {
       "id": 138,
       "source_path": "news/index.json",
@@ -1055,9 +1042,6 @@
     }
   },
   "by_alias": {
-    "[广告] 6.19 - 深圳蔚蓝档案only【课后闲时】": [
-      "139"
-    ],
     "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日": [
       "138"
     ],
@@ -1297,9 +1281,6 @@
     ]
   },
   "by_normalized_alias": {
-    "[广告]6.19-深圳蔚蓝档案only【课后闲时】": [
-      "139"
-    ],
     "主线剧情第2部ex.「ロア追跡」篇第2章公开-5月27日": [
       "138"
     ],

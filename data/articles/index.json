@@ -7,15 +7,24 @@
     "api_path": "/articles/",
     "upstream_url": "https://api.kivo.wiki/api/v1/articles/"
   },
-  "generated_at": "2026-06-19T19:48:32Z",
+  "generated_at": "2026-06-20T19:25:02Z",
   "list_key": "article",
   "id_key": "id",
-  "max_page": 5,
-  "synced_pages": 5,
-  "total_items": 50,
-  "details_synced": 50,
+  "max_page": 6,
+  "synced_pages": 6,
+  "total_items": 51,
+  "details_synced": 51,
   "details_enabled": true,
   "items": [
+    {
+      "id": 80,
+      "title": "2026年基沃托斯古书馆建设报告【KivoWiki】",
+      "cover": "https://static.kivo.wiki/images/article/cover/eOuYI6zoxSbhBByoNot9QHtcVYy3xkUR.png",
+      "state": 0,
+      "summary": "古书馆主站： https://kivo.wiki/ --- 【往期建设报告】 2023~2024年度建设报告： https://www.bilibili.com/opus/94532402418810",
+      "created_at": 1781798079,
+      "updated_at": 1781976256
+    },
     {
       "id": 77,
       "title": "主线剧情第2部游戏内SNS发帖合集",
@@ -120,9 +129,9 @@
       "title": "《蔚蓝档案》中的游戏影视彩蛋考据汇总",
       "cover": "https://static.kivo.wiki/images/article/cover/8RjBoUkGSSV7jWfxEBrHI9QVDvvPAeV9.png",
       "state": 0,
-      "summary": "本文主要对蔚蓝档案游戏内关于现实的虚拟或实体游戏影视方面的彩蛋进行推测汇总，分为实体和虚拟两部分，出场顺序大致按剧情主次顺序排列。 --- --- 目录 [[toc]] 一、实体 Fly Statio",
+      "summary": "本文主要对蔚蓝档案游戏内关于现实的虚拟或实体游戏影视方面的彩蛋进行推测汇总，分为实体和虚拟两部分，出场顺序大致按剧情主次顺序排列。 --- 三、参考资料百度百科.[2025-8-24].维基百科.[2",
       "created_at": 1755965875,
-      "updated_at": 1774525894
+      "updated_at": 1781946787
     },
     {
       "id": 53,
@@ -502,9 +511,22 @@
       "path": "articles/pages/5.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/pages/5.json",
       "item_count": 10
+    },
+    {
+      "page": 6,
+      "upstream_url": "https://api.kivo.wiki/api/v1/articles/?page=6",
+      "path": "articles/pages/6.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/pages/6.json",
+      "item_count": 1
     }
   ],
   "details": [
+    {
+      "id": 80,
+      "upstream_url": "https://api.kivo.wiki/api/v1/articles/80",
+      "path": "articles/80.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/80.json"
+    },
     {
       "id": 77,
       "upstream_url": "https://api.kivo.wiki/api/v1/articles/77",
@@ -809,8 +831,8 @@
   "lookup": {
     "path": "articles/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/lookup.json",
-    "alias_count": 50,
-    "normalized_alias_count": 50,
-    "total_items": 50
+    "alias_count": 51,
+    "normalized_alias_count": 51,
+    "total_items": 51
   }
 }

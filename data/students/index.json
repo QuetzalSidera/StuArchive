@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-06-19T19:48:32Z",
+  "generated_at": "2026-06-20T19:25:02Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 48,
   "synced_pages": 48,
-  "total_items": 472,
-  "details_synced": 472,
+  "total_items": 474,
+  "details_synced": 474,
   "details_enabled": true,
   "items": [
     {
@@ -3409,6 +3409,22 @@
       "main_relation": 49
     },
     {
+      "id": 599,
+      "skin": "泳装",
+      "skin_jp": "水着",
+      "skin_cn": "泳装",
+      "skin_zh_tw": "泳裝",
+      "family_name": "龙华",
+      "given_name": "妃咲",
+      "family_name_jp": "竜華",
+      "given_name_jp": "キサキ",
+      "family_name_cn": "龙华",
+      "given_name_cn": "妃咲",
+      "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/ksk.png",
+      "school": 7,
+      "main_relation": 49
+    },
+    {
       "id": 4,
       "skin": "",
       "skin_jp": "",
@@ -3485,6 +3501,22 @@
       "family_name_cn": "春原",
       "given_name_cn": "瞬",
       "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E5%B9%BC%E5%A5%B3/avatar.png",
+      "school": 7,
+      "main_relation": 51
+    },
+    {
+      "id": 598,
+      "skin": "泳装 ",
+      "skin_jp": "水着",
+      "skin_cn": "泳装",
+      "skin_zh_tw": "泳裝",
+      "family_name": "春原",
+      "given_name": "瞬",
+      "family_name_jp": "春原",
+      "given_name_jp": " シュン",
+      "family_name_cn": "春原",
+      "given_name_cn": "瞬",
+      "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/D6DD0C85219194E7ED3AD022F5AACC9F.jpg",
       "school": 7,
       "main_relation": 51
     },
@@ -7904,7 +7936,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=48",
       "path": "students/pages/48.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/48.json",
-      "item_count": 2
+      "item_count": 4
     }
   ],
   "details": [
@@ -9181,6 +9213,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/61.json"
     },
     {
+      "id": 599,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/599",
+      "path": "students/599.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/599.json"
+    },
+    {
       "id": 4,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/4",
       "path": "students/4.json",
@@ -9209,6 +9247,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/109",
       "path": "students/109.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/109.json"
+    },
+    {
+      "id": 598,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/598",
+      "path": "students/598.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/598.json"
     },
     {
       "id": 88,
@@ -10744,9 +10788,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5381,
-    "normalized_alias_count": 3692,
-    "total_items": 472
+    "alias_count": 5435,
+    "normalized_alias_count": 3728,
+    "total_items": 474
   },
   "profiles": [
     {
@@ -12905,6 +12949,16 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/597.json"
     },
     {
+      "id": 598,
+      "path": "students/profiles/598.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/598.json"
+    },
+    {
+      "id": 599,
+      "path": "students/profiles/599.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/599.json"
+    },
+    {
       "id": 6,
       "path": "students/profiles/6.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/6.json"
@@ -13128,6 +13182,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 475
+    "total_items": 477
   }
 }
