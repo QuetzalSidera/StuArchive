@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-06-20T19:25:02Z",
+  "generated_at": "2026-06-21T19:28:32Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 546,
   "synced_pages": 546,
-  "total_items": 5454,
+  "total_items": 5459,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -226,6 +226,17 @@
       "end_time": 1782849599
     },
     {
+      "id": 5603,
+      "line_type": "Other",
+      "title": "2026年基沃托斯古书馆建设报告",
+      "image": "https://static.kivo.wiki/images/timeline/XQpneNv8UD0dDErm1MujsuSuk5qjeVcf.png",
+      "body_summary": "古书馆主站： https://kivo.wiki/ --- 【往期建设报告】 2023~2024年度建设报告： https://www.bilibili.com/opus/94532402418810",
+      "type": "Other",
+      "url": "www.bilibili.com/opus/1216185281965719699",
+      "start_time": 1782022016,
+      "end_time": 1782022016
+    },
+    {
       "id": 5582,
       "line_type": "JP",
       "title": "任务Hard2倍#56",
@@ -268,6 +279,50 @@
       "url": "www.bilibili.com/opus/1209613975577165860",
       "start_time": 1781782642,
       "end_time": 1782387442
+    },
+    {
+      "id": 5607,
+      "line_type": "CN",
+      "title": "真纪（露营）家具互动更新",
+      "image": "https://static.kivo.wiki/images/timeline/DPzdS2Ppj9CzUkBG2oDL9Bm1UyC0NPPH.gif",
+      "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 06月18日 14:00后 ■ 互动更新 • 真纪（露营） & 军事露营展板 ",
+      "type": "ContentImprovements",
+      "url": "weibo.com/6011443154/R4e0AyN3Q",
+      "start_time": 1781762400,
+      "end_time": 4102410951
+    },
+    {
+      "id": 5606,
+      "line_type": "CN",
+      "title": "限时复刻招募【从天体倾注的信息之光】&【曙光中融化的感情之音】&【激荡预想的可用性】",
+      "image": "https://static.kivo.wiki/images/timeline/nLhdhwBTEMrYRwDgvE7sNO34mm1VFE3c.jpg",
+      "body_summary": "#蔚蓝档案﻿#蔚蓝档案[超话] 限时复刻招募活动即将开启，请老师不要错过哦！ ■ 招募时间 06月18日 14:00 ~ 07月02日 13:59 ■ 招募内容 • 限时复刻招募【从天体倾注的信息之光",
+      "type": "Gacha",
+      "url": "weibo.com/6011443154/R4mg26JbN",
+      "start_time": 1781762400,
+      "end_time": 1782971999
+    },
+    {
+      "id": 5605,
+      "line_type": "CN",
+      "title": "迷你故事剧情更新：【一段2月19日的记录】",
+      "image": "https://static.kivo.wiki/images/timeline/swTUrx557aFaFLMcTPCTXYwJASBbccZL.jpg",
+      "body_summary": "全新迷你故事剧情“一段2月19日的记录”、即将于06月18日 14:00后更新！ 说来也巧，日奈与妃咲的生日，正好是同一天。 于是，风纪委员会与玄龙门各自准备着生日派对…… ■ 剧情开放 《一段2月1",
+      "type": "OtherStory",
+      "url": "weibo.com/6011443154/R4vGwm8EY",
+      "start_time": 1781762400,
+      "end_time": 4102415999
+    },
+    {
+      "id": 5604,
+      "line_type": "CN",
+      "title": "【综合战术测试·射击测试】 #11",
+      "image": "https://static.kivo.wiki/images/timeline/Zv9JUw9lGbqjeIJjiCtNQbFenurnxe1k.jpg",
+      "body_summary": "【综合战术测试·射击测试】即将开启！ ■ 活动简介 • 综合战术测试是使用3支不同的队伍完成战术测试的一项挑战活动。 • 综合战术测试有4种类型（射击/防御/突破/护卫），将轮流开放，不同类型的挑战机",
+      "type": "MiniBattle",
+      "url": "weibo.com/6011443154/R4wRAj4OU",
+      "start_time": 1781762400,
+      "end_time": 1782331199
     },
     {
       "id": 5564,
@@ -63832,15 +63887,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=546",
       "path": "timeline/pages/546.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/546.json",
-      "item_count": 4
+      "item_count": 9
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5421,
-    "normalized_alias_count": 5413,
-    "total_items": 5454
+    "alias_count": 5426,
+    "normalized_alias_count": 5418,
+    "total_items": 5459
   }
 }

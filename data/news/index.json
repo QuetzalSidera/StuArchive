@@ -7,15 +7,21 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-06-20T19:25:02Z",
+  "generated_at": "2026-06-21T19:28:32Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 8,
   "synced_pages": 8,
-  "total_items": 79,
-  "details_synced": 79,
+  "total_items": 80,
+  "details_synced": 80,
   "details_enabled": true,
   "items": [
+    {
+      "id": 140,
+      "title": "2026年基沃托斯古书馆建设报告",
+      "image": "https://static.kivo.wiki/images/news/zDooYx9FtVTabe4eQMRVkDh4nL39xsKM.png",
+      "url": "www.bilibili.com/opus/1216185281965719699"
+    },
     {
       "id": 138,
       "title": "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日",
@@ -546,10 +552,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=8",
       "path": "news/pages/8.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/8.json",
-      "item_count": 9
+      "item_count": 10
     }
   ],
   "details": [
+    {
+      "id": 140,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/140",
+      "path": "news/140.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/140.json"
+    },
     {
       "id": 138,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/138",
@@ -1028,8 +1040,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 79,
-    "normalized_alias_count": 79,
-    "total_items": 79
+    "alias_count": 80,
+    "normalized_alias_count": 80,
+    "total_items": 80
   }
 }

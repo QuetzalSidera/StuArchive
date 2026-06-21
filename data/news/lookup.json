@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-06-20T19:25:02Z",
+  "generated_at": "2026-06-21T19:28:32Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 79,
-  "alias_count": 79,
-  "normalized_alias_count": 79,
+  "total_items": 80,
+  "alias_count": 80,
+  "normalized_alias_count": 80,
   "by_id": {
+    "140": {
+      "id": 140,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 140,
+        "title": "2026年基沃托斯古书馆建设报告",
+        "image": "https://static.kivo.wiki/images/news/zDooYx9FtVTabe4eQMRVkDh4nL39xsKM.png",
+        "url": "www.bilibili.com/opus/1216185281965719699"
+      },
+      "detail_path": "news/140.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/140.json"
+    },
     "138": {
       "id": 138,
       "source_path": "news/index.json",
@@ -1042,6 +1055,9 @@
     }
   },
   "by_alias": {
+    "2026年基沃托斯古书馆建设报告": [
+      "140"
+    ],
     "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日": [
       "138"
     ],
@@ -1281,6 +1297,9 @@
     ]
   },
   "by_normalized_alias": {
+    "2026年基沃托斯古书馆建设报告": [
+      "140"
+    ],
     "主线剧情第2部ex.「ロア追跡」篇第2章公开-5月27日": [
       "138"
     ],
