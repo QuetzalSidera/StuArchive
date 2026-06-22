@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 546,
+    "max_page": 547,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -16,12 +16,56 @@
       "MiniBattle": 195,
       "Other": 683,
       "OtherStory": 62,
-      "OutsideGames": 827,
+      "OutsideGames": 831,
       "Raid": 245,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 380,
+        "line_type": "JP",
+        "title": "任务Normal2倍#16",
+        "image": "https://static.kivo.wiki/images/timeline/f6yYIs7gJWKjXxnHOrT2s8UjnnZDyyfe.jpg",
+        "body_summary": "【キャンペーン予告】 7月10日(日)4:00から、「任務(Normal)」でのドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 7月10日(日)4:00～7月17日(日)3:59 生徒",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1545603749866921985",
+        "start_time": 1657396800,
+        "end_time": 1658001599
+      },
+      {
+        "id": 369,
+        "line_type": "JP",
+        "title": "特殊作战3",
+        "image": "https://static.kivo.wiki/images/timeline/bpZEZjMR5OJxPfHBAl3O9pLjwstFxJSK.jpg",
+        "body_summary": "【イベント紹介】 7/6(水)メンテナンス後、不定期開催コンテンツ「特殊作戦」が開始されます！ 無事「ビナー」のデータを回収することができた「特異現象捜査部」が次に目指すのはミレニアム近郊の「廃墟」。",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1541979865301168128",
+        "start_time": 1657105200,
+        "end_time": 1658285999
+      },
+      {
+        "id": 378,
+        "line_type": "JP",
+        "title": "联合火力演习5",
+        "image": "https://static.kivo.wiki/images/timeline/WhapGgXWHjzF84t3K396S9rxE5HRmiXJ.jpg",
+        "body_summary": "【合同火力演習・予告】 7月6日(水)メンテナンス終了後、合同火力演習「防御演習」が開始されます！ 今回の特殊ルールには「敵にCC効果を作用するたびに、追加ダメージを与える。」などがあるみたいです。他",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1543791741832073217",
+        "start_time": 1657098000,
+        "end_time": 1657655999
+      },
+      {
+        "id": 2803,
+        "line_type": "JP",
+        "title": "卡池「積み重ねる誓いの翼」＆「積み上げる尽力の翼」",
+        "image": "https://static.kivo.wiki/images/timeline/oj2MX1wJq5n3Xy45LuOWMzlljmoSWk9v.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「積み重ねる誓いの翼」＆「積み上げる尽力の翼」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ホシノ(CV:#花守ゆみり) ★3 ヒナ(CV:#広橋涼) 🔹",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1544184342846799872",
+        "start_time": 1657088448,
+        "end_time": 1658298048
+      },
       {
         "id": 379,
         "line_type": "JP",
@@ -87,55 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1541617583257882624",
         "start_time": 1656446400,
         "end_time": 1657051199
-      },
-      {
-        "id": 1132,
-        "line_type": "Globle",
-        "title": "国际服签到活动「Schale's Hot Springs Materials Daily Supply」",
-        "image": "https://static.kivo.wiki/images/timeline/4GPa4W4gY6FzSC0umyRU7C04XoVV4x1U.jpg",
-        "body_summary": "[Schale's Hot Springs Materials Daily Supply] Schale's Daily supplies will be sent from 03:00 AM (UT",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1541982285632745473",
-        "start_time": 1656442854,
-        "end_time": 1657479594
-      },
-      {
-        "id": 1128,
-        "line_type": "Globle",
-        "title": "国际服卡池「I promise you a perfect day in which not even a minute is wasted.」",
-        "image": "https://static.kivo.wiki/images/timeline/OV5oWT5qX16WhZxpaoxkK478sALSkDR4.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 6/28 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1540620830052212737",
-        "start_time": 1656403249,
-        "end_time": 1657594849
-      },
-      {
-        "id": 1126,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Field) 2",
-        "image": "https://static.kivo.wiki/images/timeline/8lCXAgTSjf7edMmq9VrKhYIihK2Smf7a.jpg",
-        "body_summary": "[Total Assault Preview] Binah(Field Warfare) will be held on 6/28 (Tue)! Do you have your strategy a",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1539533657068564480",
-        "start_time": 1656403214,
-        "end_time": 1688482754
-      },
-      {
-        "id": 1130,
-        "line_type": "Globle",
-        "title": "国际服例行维护17",
-        "image": "",
-        "body_summary": "[6/28 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 6/28 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1541255001888231426",
-        "start_time": 1656385221,
-        "end_time": 1656403221
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782077195,
+  "time": 1782166652,
   "version": "1.0.0-beta.43"
 }

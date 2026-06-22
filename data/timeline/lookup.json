@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-21T19:28:32Z",
+  "generated_at": "2026-06-22T20:46:55Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5459,
-  "alias_count": 5426,
-  "normalized_alias_count": 5418,
+  "total_items": 5463,
+  "alias_count": 5430,
+  "normalized_alias_count": 5422,
   "by_id": {
     "5601": {
       "id": 5601,
@@ -391,6 +391,60 @@
       "detail_path": "timeline/5582.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5582.json"
     },
+    "5610": {
+      "id": 5610,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5610,
+        "line_type": "JP",
+        "title": "「絆ダイアロー vol.25」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/pzM3SwOWs8x6TJP3ErJE8KZzImH4e9l0.jpg",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」の第25弾が配信開始されました！ 今回は忍術研究部のツクヨさん！ ツクヨさんのように優しく、心が安らぐ曲です！ 是非お聞きください！",
+        "type": "OutsideGames",
+        "url": "x.com/i/status/2068351415664177624",
+        "start_time": 1781971980,
+        "end_time": 1781971980
+      },
+      "detail_path": "timeline/5610.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5610.json"
+    },
+    "5609": {
+      "id": 5609,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5609,
+        "line_type": "JP",
+        "title": "「絆ダイアロー vol.24」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/CztGfpMP7H7tDsrDfYV2CudNNs9nQJEh.jpg",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」の第24弾が配信開始されました！ 今回は便利屋68のハルカさん！ 雑草を育てている時のハルカさんのように、穏やかでゆったりとした曲です！ 是非お聞きくだ",
+        "type": "OutsideGames",
+        "url": "x.com/i/status/2068350157096394820",
+        "start_time": 1781971680,
+        "end_time": 1781971680
+      },
+      "detail_path": "timeline/5609.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5609.json"
+    },
+    "5608": {
+      "id": 5608,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5608,
+        "line_type": "JP",
+        "title": "「青春あんさんぶる vol.18」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/MUV4f6A547NBVkeZsww5D4iKx9bySvlT.jpg",
+        "body_summary": "【配信開始】 先生！ 「青春あんさんぶるシリーズ」の第18弾が配信開始されました！ 今回は百鬼夜行連合学院、お祭り運営委員会のみなさんです！ 曲名は「笑顔お祭りわっしょい！」です！ みなさん息ぴったり",
+        "type": "OutsideGames",
+        "url": "x.com/i/status/2068349280356811006",
+        "start_time": 1781971440,
+        "end_time": 1781971440
+      },
+      "detail_path": "timeline/5608.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5608.json"
+    },
     "5602": {
       "id": 5602,
       "source_path": "timeline/index.json",
@@ -542,7 +596,7 @@
       "item": {
         "id": 5583,
         "line_type": "JP",
-        "title": " 卡池「Who says you can't be sweet」&「Ain't too proud to rely on!」，卡池「I need to be in romantic」复刻",
+        "title": " 限定卡池「Who says you can't be sweet」&「Ain't too proud to rely on!」复刻、卡池「I need to be in romantic」复刻",
         "image": "https://static.kivo.wiki/images/timeline/yLWAp54oAkDXvYNk8fvRrtCTDKBF2sDi.png",
         "body_summary": "【ピックアップ募集・予告】 まもなく、期間限定復刻ピックアップ募集「Who says you can't be sweet」＆「Ain't too proud to rely on!」ならびに、復刻ピ",
         "type": "Gacha",
@@ -714,6 +768,24 @@
       },
       "detail_path": "timeline/5581.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5581.json"
+    },
+    "5611": {
+      "id": 5611,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5611,
+        "line_type": "JP",
+        "title": "万魔殿小剧场 #24",
+        "image": "https://static.kivo.wiki/images/timeline/FiYxx5iLPHkIEXSZ9gU94Vwm7L1Yk4iK.jpg",
+        "body_summary": "【#ちょっとお時間貰いますね】 先生、おはようございます♪ サツキさんがどこか物憂げな感じです…… 一体どうしたんでしょうか？ #ブルアカ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2066295871264952546",
+        "start_time": 1781481900,
+        "end_time": 1781481900
+      },
+      "detail_path": "timeline/5611.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5611.json"
     },
     "5563": {
       "id": 5563,
@@ -98340,6 +98412,15 @@
     "任务Hard2倍#56": [
       "5582"
     ],
+    "「絆ダイアロー vol.25」流媒体发行": [
+      "5610"
+    ],
+    "「絆ダイアロー vol.24」流媒体发行": [
+      "5609"
+    ],
+    "「青春あんさんぶる vol.18」流媒体发行": [
+      "5608"
+    ],
     "Youtube订阅突破90万人": [
       "5602"
     ],
@@ -98364,7 +98445,7 @@
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
     ],
-    "卡池「Who says you can't be sweet」&「Ain't too proud to rely on!」,卡池「I need to be in romantic」复刻": [
+    "限定卡池「Who says you can't be sweet」&「Ain't too proud to rely on!」复刻、卡池「I need to be in romantic」复刻": [
       "5583"
     ],
     "活动「-ive aLIVE!」常驻化": [
@@ -98393,6 +98474,9 @@
     ],
     "国际服活动特别MV「Protocol Supernova」公布": [
       "5581"
+    ],
+    "万魔殿小剧场 #24": [
+      "5611"
     ],
     "总力战:霍德 • 街区战 #5": [
       "5563"
@@ -114653,6 +114737,15 @@
     "任务hard2倍#56": [
       "5582"
     ],
+    "「絆ダイアローvol.25」流媒体发行": [
+      "5610"
+    ],
+    "「絆ダイアローvol.24」流媒体发行": [
+      "5609"
+    ],
+    "「青春あんさんぶるvol.18」流媒体发行": [
+      "5608"
+    ],
     "youtube订阅突破90万人": [
       "5602"
     ],
@@ -114677,7 +114770,7 @@
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
     ],
-    "卡池「whosaysyoucan'tbesweet」&「ain'ttooproudtorelyon!」,卡池「ineedtobeinromantic」复刻": [
+    "限定卡池「whosaysyoucan'tbesweet」&「ain'ttooproudtorelyon!」复刻、卡池「ineedtobeinromantic」复刻": [
       "5583"
     ],
     "活动「-ivealive!」常驻化": [
@@ -114706,6 +114799,9 @@
     ],
     "国际服活动特别mv「protocolsupernova」公布": [
       "5581"
+    ],
+    "万魔殿小剧场#24": [
+      "5611"
     ],
     "总力战:霍德•街区战#5": [
       "5563"

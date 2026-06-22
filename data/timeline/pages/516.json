@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 546,
+    "max_page": 547,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -16,12 +16,56 @@
       "MiniBattle": 195,
       "Other": 683,
       "OtherStory": 62,
-      "OutsideGames": 827,
+      "OutsideGames": 831,
       "Raid": 245,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 867,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁2",
+        "image": "",
+        "body_summary": "[12/7(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1468165674107547649",
+        "start_time": 1638872940,
+        "end_time": 1638872940
+      },
+      {
+        "id": 240,
+        "line_type": "JP",
+        "title": "圣诞转推活动",
+        "image": "",
+        "body_summary": "【#クリスマスボックス 第1弾】 先生！ チェリノさんとトモエさんがクリスマスプレゼントを用意してくれたみたいです！🎄 @BlueArchiveJP をフォロー&RTすると、リプライで抽選結果がすぐ届",
+        "type": "WebEvent",
+        "url": "twitter.com/i/status/1467871457661227008",
+        "start_time": 1638376200,
+        "end_time": 1640361599
+      },
+      {
+        "id": 216,
+        "line_type": "JP",
+        "title": "炸服16",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 ただいまゲームにログインできない不具合が発生しているため、緊急メンテナンスを実施しております。 なお、緊急メンテナンスの終了時刻は、判明次第改めてお知らせいたします。 皆様に多大",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1465884188511404035",
+        "start_time": 1638332580,
+        "end_time": 1638367200
+      },
+      {
+        "id": 958,
+        "line_type": "JP",
+        "title": "家具新系列「伝統的な温泉郷シリーズ」追加",
+        "image": "https://static.kivo.wiki/images/timeline/S7HMnYhZzImdlOFOQmXnpIZIpGSi4NBh.jpg",
+        "body_summary": "家具に新シリーズ「伝統的な温泉郷シリーズ」を追加",
+        "type": "ContentImprovements",
+        "url": "bluearchive.jp/news/newsJump/168",
+        "start_time": 1638273600,
+        "end_time": 1638273600
+      },
       {
         "id": 219,
         "line_type": "JP",
@@ -87,55 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1465247974758305801",
         "start_time": 1638177300,
         "end_time": 1638177300
-      },
-      {
-        "id": 857,
-        "line_type": "Globle",
-        "title": "国际服卡池 晴奈",
-        "image": "https://static.kivo.wiki/images/timeline/nnCYY4AFqzcXhIkH7WG91d3uKSa4Tpbx.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview 2] A new Pick-Up Recruitment will begin on 11/29 (Mon)! Target Pick-Up ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1464173333235355677",
-        "start_time": 1638176400,
-        "end_time": 1639450800
-      },
-      {
-        "id": 856,
-        "line_type": "Globle",
-        "title": "国际服卡池 泉奈，静子",
-        "image": "https://static.kivo.wiki/images/timeline/mquuPwLKt6JWwkeny6JnoZFs2v9oFsCQ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 11/29 (Mon)! Target Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1464172078337347592",
-        "start_time": 1638176400,
-        "end_time": 1639450800
-      },
-      {
-        "id": 854,
-        "line_type": "Globle",
-        "title": "国际服总力战 Shiro & Kuro（Urban）1",
-        "image": "https://static.kivo.wiki/images/timeline/I6vSMAh27jQgzkVhN4qJJVLhjEQmLVY0.png",
-        "body_summary": "[Total Assault Preview] Total Assault - Shiro & Kuro (Urban Warfare) will be held on 11/29 (Mon)! Fo",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1463779492883742724",
-        "start_time": 1638176400,
-        "end_time": 1638802800
-      },
-      {
-        "id": 853,
-        "line_type": "Globle",
-        "title": "国际服活动「Cherry Blossom Festival Commotion」",
-        "image": "https://static.kivo.wiki/images/timeline/mbFlMvVhFfKCckVaZApNNexdGRDIubgq.jpg",
-        "body_summary": "[New Event Preview] Blue Archive's first event will be arriving on 11/29 (Mon)! A commotion surround",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1463764393284493313",
-        "start_time": 1638176400,
-        "end_time": 1639450800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782077233,
+  "time": 1782166679,
   "version": "1.0.0-beta.43"
 }

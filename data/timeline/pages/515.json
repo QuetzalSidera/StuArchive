@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 546,
+    "max_page": 547,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -16,12 +16,56 @@
       "MiniBattle": 195,
       "Other": 683,
       "OtherStory": 62,
-      "OutsideGames": 827,
+      "OutsideGames": 831,
       "Raid": 245,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 870,
+        "line_type": "Globle",
+        "title": "国际服总力战 Chesed（Field）1",
+        "image": "https://static.kivo.wiki/images/timeline/HL9XJUrFGmitTntwk23YEH6WL5bC6j8L.jpg",
+        "body_summary": "[Total Assault Preview] Total Assault - Chesed (Field Warfare) will be held on 12/14 (Tue)! It's tim",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1468852326417170433",
+        "start_time": 1639468800,
+        "end_time": 1640012400
+      },
+      {
+        "id": 224,
+        "line_type": "JP",
+        "title": "1周年二创征集",
+        "image": "",
+        "body_summary": "🎉【1周年ファンアート大募集】🎉 先生！マキさんとペロロさんからのお願いが届きました！ #ブルアカ1周年アート のハッシュタグを付けて作品を投稿すると、豪華な賞品がもらえるかもしれません…！ 🔹開催期",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1470589584413458432",
+        "start_time": 1639454400,
+        "end_time": 1642003199
+      },
+      {
+        "id": 875,
+        "line_type": "Globle",
+        "title": "国际服例行维护3",
+        "image": "",
+        "body_summary": "[12/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 12/14 ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1470226973767217157",
+        "start_time": 1639450800,
+        "end_time": 1639468800
+      },
+      {
+        "id": 878,
+        "line_type": "Globle",
+        "title": "国际服引导任务「Daily Quest with Game Development Department」",
+        "image": "https://static.kivo.wiki/images/timeline/rCucRAPy137jTNmbUZyfSV4UfqS3m3JJ.jpg",
+        "body_summary": "[Daily Quest with Game Development Department] Event Missions in celebration of the new main story u",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1471042349849399301",
+        "start_time": 1639422000,
+        "end_time": 1641870000
+      },
       {
         "id": 871,
         "line_type": "Globle",
@@ -87,55 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1467705629058170880",
         "start_time": 1638907200,
         "end_time": 1639511999
-      },
-      {
-        "id": 867,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁2",
-        "image": "",
-        "body_summary": "[12/7(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1468165674107547649",
-        "start_time": 1638872940,
-        "end_time": 1638872940
-      },
-      {
-        "id": 240,
-        "line_type": "JP",
-        "title": "圣诞转推活动",
-        "image": "",
-        "body_summary": "【#クリスマスボックス 第1弾】 先生！ チェリノさんとトモエさんがクリスマスプレゼントを用意してくれたみたいです！🎄 @BlueArchiveJP をフォロー&RTすると、リプライで抽選結果がすぐ届",
-        "type": "WebEvent",
-        "url": "twitter.com/i/status/1467871457661227008",
-        "start_time": 1638376200,
-        "end_time": 1640361599
-      },
-      {
-        "id": 216,
-        "line_type": "JP",
-        "title": "炸服16",
-        "image": "",
-        "body_summary": "【緊急メンテナンス】 ただいまゲームにログインできない不具合が発生しているため、緊急メンテナンスを実施しております。 なお、緊急メンテナンスの終了時刻は、判明次第改めてお知らせいたします。 皆様に多大",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1465884188511404035",
-        "start_time": 1638332580,
-        "end_time": 1638367200
-      },
-      {
-        "id": 958,
-        "line_type": "JP",
-        "title": "家具新系列「伝統的な温泉郷シリーズ」追加",
-        "image": "https://static.kivo.wiki/images/timeline/S7HMnYhZzImdlOFOQmXnpIZIpGSi4NBh.jpg",
-        "body_summary": "家具に新シリーズ「伝統的な温泉郷シリーズ」を追加",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/168",
-        "start_time": 1638273600,
-        "end_time": 1638273600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782077232,
+  "time": 1782166679,
   "version": "1.0.0-beta.43"
 }

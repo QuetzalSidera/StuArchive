@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 546,
+    "max_page": 547,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -16,12 +16,56 @@
       "MiniBattle": 195,
       "Other": 683,
       "OtherStory": 62,
-      "OutsideGames": 827,
+      "OutsideGames": 831,
       "Raid": 245,
       "Trivia": 29,
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 114,
+        "line_type": "JP",
+        "title": "活动「夏空のウィッシュリスト」",
+        "image": "https://static.kivo.wiki/images/timeline/4nByxsruODwdb4kofbINcfssMlvwyI73.jpg",
+        "body_summary": "【新イベント予告】 先生！暑い夏の季節がやってきました！ 夏と言えば海！海と言えば水着です！！ ブルーアーカイブ 新イベント「夏空のウィッシュリスト」開催します！ ???「派手に遊ぶとするかぁ……！」",
+        "type": "Event",
+        "url": "/twitter.com/Blue_ArchiveJP/status/1408002221686476802",
+        "start_time": 1625047200,
+        "end_time": 1626321600
+      },
+      {
+        "id": 112,
+        "line_type": "JP",
+        "title": "卡池「ひたむきな愛で紡いで」",
+        "image": "https://static.kivo.wiki/images/timeline/ezHYpVuytCBPikfGf8mEFEpqt2brn5vX.jpg",
+        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「ひたむきな愛で紡いで」がまもなく開催されます！ 🔷開催期間 2021年6月24日(木) メンテナンス後 ~ 2021年6月30日(水)メンテナン",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1407609647595282437",
+        "start_time": 1624528800,
+        "end_time": 1625025600
+      },
+      {
+        "id": 110,
+        "line_type": "JP",
+        "title": "屋内戦・ヒエロニムス 緊急襲来",
+        "image": "https://static.kivo.wiki/images/timeline/rEUOcwhsbkOVX1NnwwOYbbxVO02URKDE.jpg",
+        "body_summary": "【総力戦予告】 先生、大変です！先日退けたはずの「ヒエロニムス」が再び現れました！！ 今回は緊急襲来により短期決戦です！ いつもとは違いますので、注意してください！ 「屋内戦・ヒエロニムス」6月24日",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1405737560404480006",
+        "start_time": 1624528800,
+        "end_time": 1624809599
+      },
+      {
+        "id": 113,
+        "line_type": "JP",
+        "title": "例行维护17",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/24(木) 12:00 〜 18:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1407564125434044416",
+        "start_time": 1624507200,
+        "end_time": 1624528800
+      },
       {
         "id": 111,
         "line_type": "JP",
@@ -87,55 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1402490912710664196",
         "start_time": 1623297600,
         "end_time": 1623319200
-      },
-      {
-        "id": 106,
-        "line_type": "JP",
-        "title": "指名手配2倍#5",
-        "image": "https://static.kivo.wiki/images/timeline/gtlm5t7cAw26Q25xQR7rV5QWNJHvde6Q.jpg",
-        "body_summary": "【キャンペーン予告】 6月10日(木)04:00から、「指名手配」における素材のドロップ量が2倍になるキャンペーンが開催されます！ この機会に、生徒さんたちのスキルを成長させてみてはいかがでしょうか？",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1402173828088827909",
-        "start_time": 1623268800,
-        "end_time": 1623873599
-      },
-      {
-        "id": 101,
-        "line_type": "JP",
-        "title": "屋外戦・ビナー",
-        "image": "https://static.kivo.wiki/images/timeline/rd4xoJr7956qYaadJbRWHWqcpzDfmj9h.jpg",
-        "body_summary": "【予告】 「屋外戦・ビナー」がまもなく開催されます！ 新難易度「EXTREME」も解放され、腕試しには持って来いですし、また順位に応じて「ビナー(屋外戦)のトロフィー」も獲得できます！ 先生、ぜひ頑張",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1402188932968636417",
-        "start_time": 1623124800,
-        "end_time": 1623859199
-      },
-      {
-        "id": 945,
-        "line_type": "JP",
-        "title": "总力战扫荡、战术对抗战跳过最后一分钟等功能追加",
-        "image": "",
-        "body_summary": "【総力戦】 ・「ロビー」画面、および「お仕事」画面に「総力戦オープン」の通知が表示されるように調整。 ・掃討機能の追加 ※1日1回、特定の難易度をクリアすると当該難易度の残り回数は掃討可能になります。",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622116800,
-        "end_time": 1622116800
-      },
-      {
-        "id": 944,
-        "line_type": "JP",
-        "title": "日程区域「ミレニアム・スタディーエリア 」追加，区域等级上限提升至12，建筑等级上限提升至6",
-        "image": "https://static.kivo.wiki/images/timeline/iccMfAi3MN9qsPeXSs1r8xtBcZejsZHW.png",
-        "body_summary": "・ 新規ロケーション「ミレニアム・スタディーエリア 」を追加 ※ ミレニアム生徒を10人以上お迎えると、こちらのロケーションがオープンされます ・ロケーションランクの上限を10から12までに解放 ・各",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622116800,
-        "end_time": 1622116800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782077250,
+  "time": 1782166693,
   "version": "1.0.0-beta.43"
 }
