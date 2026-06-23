@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-06-22T20:46:55Z",
+  "generated_at": "2026-06-23T20:03:00Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
@@ -13,6 +13,19 @@
   "alias_count": 80,
   "normalized_alias_count": 80,
   "by_id": {
+    "141": {
+      "id": 141,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 141,
+        "title": "[广告] 福州蔚蓝档室ONLY3.0·霓波余晖-7月18日",
+        "image": "https://static.kivo.wiki/images/news/Ss8sdZl0tOKWgnz8pIepwshKSFLgEai7.jpg",
+        "url": ""
+      },
+      "detail_path": "news/141.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/141.json"
+    },
     "140": {
       "id": 140,
       "source_path": "news/index.json",
@@ -38,19 +51,6 @@
       },
       "detail_path": "news/138.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/138.json"
-    },
-    "137": {
-      "id": 137,
-      "source_path": "news/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
-      "item": {
-        "id": 137,
-        "title": "[广告] 6月20日 - 长春蔚蓝档案ONLY3.0·因梦而聚",
-        "image": "https://static.kivo.wiki/images/news/JhyWgyVyvw7KarzY2cQ4SU75vcae8MIv.jpg",
-        "url": ""
-      },
-      "detail_path": "news/137.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/137.json"
     },
     "136": {
       "id": 136,
@@ -1055,14 +1055,14 @@
     }
   },
   "by_alias": {
+    "[广告] 福州蔚蓝档室ONLY3.0·霓波余晖-7月18日": [
+      "141"
+    ],
     "2026年基沃托斯古书馆建设报告": [
       "140"
     ],
     "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日": [
       "138"
-    ],
-    "[广告] 6月20日 - 长春蔚蓝档案ONLY3.0·因梦而聚": [
-      "137"
     ],
     "[广告] 6月27日-武汉蔚蓝档案only 楚韵龙华": [
       "136"
@@ -1297,14 +1297,14 @@
     ]
   },
   "by_normalized_alias": {
+    "[广告]福州蔚蓝档室only3.0·霓波余晖-7月18日": [
+      "141"
+    ],
     "2026年基沃托斯古书馆建设报告": [
       "140"
     ],
     "主线剧情第2部ex.「ロア追跡」篇第2章公开-5月27日": [
       "138"
-    ],
-    "[广告]6月20日-长春蔚蓝档案only3.0·因梦而聚": [
-      "137"
     ],
     "[广告]6月27日-武汉蔚蓝档案only楚韵龙华": [
       "136"

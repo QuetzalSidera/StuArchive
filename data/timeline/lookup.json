@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-22T20:46:55Z",
+  "generated_at": "2026-06-23T20:03:00Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5463,
-  "alias_count": 5430,
-  "normalized_alias_count": 5422,
+  "total_items": 5469,
+  "alias_count": 5436,
+  "normalized_alias_count": 5428,
   "by_id": {
     "5601": {
       "id": 5601,
@@ -337,6 +337,24 @@
       "detail_path": "timeline/5584.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5584.json"
     },
+    "5613": {
+      "id": 5613,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5613,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战：赛特之怒 #14",
+        "image": "https://static.kivo.wiki/images/timeline/xt0V9bXhNohmbucyqo19OleLQ4wSeUMN.jpg",
+        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - The Fury of Set (Defense Type: Speci",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2067502578384912739",
+        "start_time": 1782266400,
+        "end_time": 1784573999
+      },
+      "detail_path": "timeline/5613.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5613.json"
+    },
     "5586": {
       "id": 5586,
       "source_path": "timeline/index.json",
@@ -354,6 +372,60 @@
       },
       "detail_path": "timeline/5586.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5586.json"
+    },
+    "5614": {
+      "id": 5614,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5614,
+        "line_type": "Globle",
+        "title": "国际服主线Vol.EX 第三章 Part4更新",
+        "image": "https://static.kivo.wiki/images/timeline/8M1q0539tKxkX45Xx8m2NIF9WRrtfMMV.jpg",
+        "body_summary": "[Main Story Announcement] Main Story Ex. Decagrammaton Ch.3 「The Sky of Unity」 Part.4 is coming soon",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2067850059652456675",
+        "start_time": 1782198000,
+        "end_time": 1782198000
+      },
+      "detail_path": "timeline/5614.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5614.json"
+    },
+    "5616": {
+      "id": 5616,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5616,
+        "line_type": "Globle",
+        "title": "国际服例行维护#113",
+        "image": "https://static.kivo.wiki/images/timeline/XnIPN1ApzJ2EplfNdjxe30WchORayOnV.jpg",
+        "body_summary": "[6/23 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 6/23 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2067896615793573974",
+        "start_time": 1782180000,
+        "end_time": 1782198000
+      },
+      "detail_path": "timeline/5616.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5616.json"
+    },
+    "5617": {
+      "id": 5617,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5617,
+        "line_type": "Globle",
+        "title": "国际服任务Normal2倍 #49",
+        "image": "https://static.kivo.wiki/images/timeline/SbW8eiFd8nOEJQqx6pGHkVfR2mmhxBts.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2068227349116494051",
+        "start_time": 1782154800,
+        "end_time": 1782759599
+      },
+      "detail_path": "timeline/5617.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5617.json"
     },
     "5603": {
       "id": 5603,
@@ -480,6 +552,24 @@
       },
       "detail_path": "timeline/5573.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5573.json"
+    },
+    "5615": {
+      "id": 5615,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5615,
+        "line_type": "Globle",
+        "title": " 国际服老师双倍经验 #42",
+        "image": "https://static.kivo.wiki/images/timeline/HJb79wrT9nIMEJPrlCeet4xYJrFjG0tU.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 6/19 (Fri)! Don't m",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2067872510285156812",
+        "start_time": 1781895600,
+        "end_time": 1782068399
+      },
+      "detail_path": "timeline/5615.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5615.json"
     },
     "5541": {
       "id": 5541,
@@ -660,6 +750,24 @@
       },
       "detail_path": "timeline/5572.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5572.json"
+    },
+    "5612": {
+      "id": 5612,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5612,
+        "line_type": "Globle",
+        "title": "国际服活动常驻化「Trip_Trap_Train」",
+        "image": "https://static.kivo.wiki/images/timeline/oarpNjutBXYBwsFV1VTHpeulrCzs29st.jpg",
+        "body_summary": "[Immortalized Event Notice] The Event Story, TripTrain, has been immortalized today, so you can play",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2066777798513987642",
+        "start_time": 1781593200,
+        "end_time": 1781586000
+      },
+      "detail_path": "timeline/5612.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5612.json"
     },
     "5580": {
       "id": 5580,
@@ -3445,8 +3553,8 @@
         "body_summary": "[Final Restriction Release Opening Notice] Final Restriction Release: The Fury of Set (Defense Type:",
         "type": "MiniBattle",
         "url": "x.com/EN_BlueArchive/status/2049383179388142046",
-        "start_time": 1777469042,
-        "end_time": 1777209842
+        "start_time": 1777428000,
+        "end_time": 1779735599
       },
       "detail_path": "timeline/5364.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5364.json"
@@ -98403,8 +98511,20 @@
     "卡池「淡きこと水のごとし」&「夏中に能く身を成すを」": [
       "5584"
     ],
+    "国际服制约解除作战:赛特之怒 #14": [
+      "5613"
+    ],
     "指名手配2倍#58": [
       "5586"
+    ],
+    "国际服主线Vol.EX 第三章 Part4更新": [
+      "5614"
+    ],
+    "国际服例行维护#113": [
+      "5616"
+    ],
+    "国际服任务Normal2倍 #49": [
+      "5617"
     ],
     "2026年基沃托斯古书馆建设报告": [
       "5603"
@@ -98426,6 +98546,9 @@
     ],
     "直播「ブルアカらいぶ!ざ☆すたーとおぶさまー!SP」": [
       "5573"
+    ],
+    "国际服老师双倍经验 #42": [
+      "5615"
     ],
     "学院交流会3倍 #15": [
       "5541"
@@ -98456,6 +98579,9 @@
     ],
     "任务Normal2倍#58": [
       "5572"
+    ],
+    "国际服活动常驻化「Trip_Trap_Train」": [
+      "5612"
     ],
     "国际服特别依赖3倍 #16": [
       "5580"
@@ -114728,8 +114854,20 @@
     "卡池「淡きこと水のごとし」&「夏中に能く身を成すを」": [
       "5584"
     ],
+    "国际服制约解除作战:赛特之怒#14": [
+      "5613"
+    ],
     "指名手配2倍#58": [
       "5586"
+    ],
+    "国际服主线vol.ex第三章part4更新": [
+      "5614"
+    ],
+    "国际服例行维护#113": [
+      "5616"
+    ],
+    "国际服任务normal2倍#49": [
+      "5617"
     ],
     "2026年基沃托斯古书馆建设报告": [
       "5603"
@@ -114751,6 +114889,9 @@
     ],
     "直播「ブルアカらいぶ!ざ☆すたーとおぶさまー!sp」": [
       "5573"
+    ],
+    "国际服老师双倍经验#42": [
+      "5615"
     ],
     "学院交流会3倍#15": [
       "5541"
@@ -114781,6 +114922,9 @@
     ],
     "任务normal2倍#58": [
       "5572"
+    ],
+    "国际服活动常驻化「trip_trap_train」": [
+      "5612"
     ],
     "国际服特别依赖3倍#16": [
       "5580"

@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-06-22T20:46:55Z",
+  "generated_at": "2026-06-23T20:03:00Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 925,
-  "alias_count": 1227,
-  "normalized_alias_count": 1227,
+  "alias_count": 1228,
+  "normalized_alias_count": 1228,
   "by_id": {
     "1": {
       "id": 1,
@@ -12087,7 +12087,7 @@
         "cover": "",
         "author": "",
         "album": "游戏内曲目",
-        "use": "",
+        "use": "耶索德",
         "original_file_name": "Theme_332"
       },
       "detail_path": "musics/774.json",
@@ -14579,11 +14579,11 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 930,
-        "title": "Theme_343",
+        "title": "Metal Armored Crab",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
-        "use": "",
+        "use": "钢桶蟹、剧情",
         "original_file_name": "Theme_343"
       },
       "detail_path": "musics/930.json",
@@ -14597,9 +14597,9 @@
         "id": 931,
         "title": "Theme_343_Chorus",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
-        "use": "",
+        "use": "钢桶蟹",
         "original_file_name": "Theme_343_Chorus"
       },
       "detail_path": "musics/931.json",
@@ -14613,9 +14613,9 @@
         "id": 932,
         "title": "Theme_343_Verse",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
-        "use": "",
+        "use": "钢桶蟹、剧情",
         "original_file_name": "Theme_343_Verse"
       },
       "detail_path": "musics/932.json",
@@ -18452,6 +18452,9 @@
     "Theme_269_Title": [
       "929"
     ],
+    "Metal Armored Crab": [
+      "930"
+    ],
     "Theme_343": [
       "930"
     ],
@@ -22135,6 +22138,9 @@
     ],
     "theme_269_title": [
       "929"
+    ],
+    "metalarmoredcrab": [
+      "930"
     ],
     "theme_343": [
       "930"
