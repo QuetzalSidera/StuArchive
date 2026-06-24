@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
+      {
+        "id": 325,
+        "name": "特制新年福袋",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SzyuB557fdZnwH5YrJMxD7LbziTgpX13.png",
+        "rarity": 1,
+        "description": "正月期间黑龟组所准备的正月用福袋。开封前完全猜不到里面有什么的惊喜道具。内容物出乎意料地充实。"
+      },
+      {
+        "id": 90,
+        "name": "天使巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tGW5JE3m3cqtSCS5cIG9JEFut29jDm1b.png",
+        "rarity": 1,
+        "description": "连锁便利商店<天使 24>自家品牌的巧克力。因为小空的失误造成大量进货，但在老师的协助下成功完售。"
+      },
+      {
+        "id": 247,
+        "name": "甜点优惠券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FHSQoOetvBIkNiq5ZcXaamhqfLyMANJs.png",
+        "rarity": 1,
+        "description": "著名甜点店发放的甜点优惠券根据收集的数量，可以兑换的甜点皆不同。"
+      },
       {
         "id": 230,
         "name": "甜蜜的干杯",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/FzvrnI3mbst28jcpGge3YO1jcOQBgVj5.png",
         "rarity": 1,
         "description": "可以固定骰子的点数的票券。选择4点后会消耗此券。"
-      },
-      {
-        "id": 1337,
-        "name": "骰子5点固定券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/NOd1t2jkeuG4kVgZzYQpaig5jywAzFMt.png",
-        "rarity": 1,
-        "description": "可以固定骰子的点数的票券。选择5点后会消耗此券。"
-      },
-      {
-        "id": 1338,
-        "name": "骰子6点固定券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/IcxUXmDPysHONKZMvygr3JIdhkOKbg1N.png",
-        "rarity": 1,
-        "description": "可以固定骰子的点数的票券。选择6点后会消耗此券。"
-      },
-      {
-        "id": 1332,
-        "name": "骰子固定券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lrR1cDjIlEAvcyZFxFkcnRtjN3VzMIdH.png",
-        "rarity": 1,
-        "description": "可以固定骰子的点数的票券。谁也不知道会是固定为几点的券。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245773,
+  "time": 1782331023,
   "version": "1.0.0-beta.43"
 }

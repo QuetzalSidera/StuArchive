@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
+      {
+        "id": 425,
+        "name": "以太结晶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/7ePxOziD6D7KabB9WxzgkxXDaENoWNxm.png",
+        "rarity": 3,
+        "description": "仅收集纯粹的乙太提炼成结晶形态的乙太结晶。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 426,
+        "name": "以太精髓",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/J2sp2RWa2SIx0RkY8gkJcerMwqT8yL4x.png",
+        "rarity": 4,
+        "description": "仅收集纯度最高的强烈乙太制成的乙太精髓。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 424,
+        "name": "以太碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VLvO1SnsxPLSwIqBaUS1SeRHtYj71A9u.png",
+        "rarity": 2,
+        "description": "压缩乙太粉末制成的固态乙太碎片。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 526,
+        "name": "艺术字发卡设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/5Ty0USV4lTmybHTWqaMTllUffDCEIwhz.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 1100,
         "name": "议长准备的最高级巧克力喷泉",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/lwJFRWJx6Ek07MR0gU5UdVaC5tgCnmNX.png",
         "rarity": 1,
         "description": "百鬼夜行的传统茶室百夜堂的畅销甜点。柔软浓厚的香甜确实无敌。"
-      },
-      {
-        "id": 30,
-        "name": "樱花巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/vNvrVyHuHE9ZK5QyJ7AEainHS95ThkxS.png",
-        "rarity": 1,
-        "description": "弥守所准备的樱花形手工巧克力。即使不会读心术，吃上一口想必也能感受到她的心意吧。"
-      },
-      {
-        "id": 125,
-        "name": "勇士的巧克力（道具）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/KDdB4Y6zrwLeXj6NQBCBLCSIXLjQ1RoG.png",
-        "rarity": 1,
-        "description": "柚子和老师一起玩的RPG游戏中赠送的期间限定巧克力道具。服用后可以稍微恢复玩家的体力。"
-      },
-      {
-        "id": 1813,
-        "name": "游乐园门票",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/26rqMN8iDafCFojv9mP5jskfr67IFQxe.png",
-        "rarity": 1,
-        "description": "游乐园的入场票券。没有它就无法入园——这是理所当然的事。"
-      },
-      {
-        "id": 467,
-        "name": "游戏开发部系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/EQkuUz35iHWdeMm8dyEbQY5hQHr0Zaj4.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个游戏开发部系列家具的抽选箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245787,
+  "time": 1782331036,
   "version": "1.0.0-beta.43"
 }

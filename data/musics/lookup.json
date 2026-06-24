@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 925,
-  "alias_count": 1228,
-  "normalized_alias_count": 1228,
+  "total_items": 926,
+  "alias_count": 1229,
+  "normalized_alias_count": 1229,
   "by_id": {
     "1": {
       "id": 1,
@@ -14812,6 +14812,22 @@
       },
       "detail_path": "musics/944.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/944.json"
+    },
+    "945": {
+      "id": 945,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 945,
+        "title": "Theme_347",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_347"
+      },
+      "detail_path": "musics/945.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/945.json"
     }
   },
   "by_alias": {
@@ -18499,6 +18515,9 @@
     ],
     "Dialogue Vol.25「背伸びの先に咲く花」": [
       "944"
+    ],
+    "Theme_347": [
+      "945"
     ]
   },
   "by_normalized_alias": {
@@ -22186,6 +22205,9 @@
     ],
     "dialoguevol.25「背伸びの先に咲く花」": [
       "944"
+    ],
+    "theme_347": [
+      "945"
     ]
   }
 }

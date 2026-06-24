@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1905,
-  "alias_count": 1873,
-  "normalized_alias_count": 1873,
+  "total_items": 1911,
+  "alias_count": 1879,
+  "normalized_alias_count": 1879,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -7288,6 +7288,21 @@
       "detail_path": "items/1349.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1349.json"
     },
+    "1986": {
+      "id": 1986,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1986,
+        "name": "设施入场券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6SoZcO0ZULgylDwxRHEP2SIXKYcJwp0T.png",
+        "rarity": 1,
+        "description": "用于进入观光设施的入场券。团购有优惠。"
+      },
+      "detail_path": "items/1986.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1986.json"
+    },
     "169": {
       "id": 169,
       "source_path": "items/index.json",
@@ -7632,6 +7647,21 @@
       },
       "detail_path": "items/1903.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1903.json"
+    },
+    "1985": {
+      "id": 1985,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1985,
+        "name": "视察计划书",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/3pl3AQd8jDd1nRdBLwYTtsYZK2YWdwyd.png",
+        "rarity": 1,
+        "description": "对于行政手续来说资料是不可或缺的。就算是冠以视察之名的旅游也不例外……"
+      },
+      "detail_path": "items/1985.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1985.json"
     },
     "1592": {
       "id": 1592,
@@ -8022,6 +8052,21 @@
       },
       "detail_path": "items/1444.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1444.json"
+    },
+    "1987": {
+      "id": 1987,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1987,
+        "name": "特产点心",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Q7WY8JMYmUzFql2rQr931ZHywSScnR4C.png",
+        "rarity": 1,
+        "description": "特产点心。大家一起吃的话会很美味。"
+      },
+      "detail_path": "items/1987.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1987.json"
     },
     "1364": {
       "id": 1364,
@@ -9042,6 +9087,21 @@
       },
       "detail_path": "items/166.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/166.json"
+    },
+    "1984": {
+      "id": 1984,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1984,
+        "name": "相片卡收藏集",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pkZ5TRwMaJ6YQKMCVHygx9j6RdMg3K59.png",
+        "rarity": 1,
+        "description": "拿上照片的话，好像就能做成纪念用的相片卡收藏集。从1等奖到无奖，试着集齐吧。"
+      },
+      "detail_path": "items/1984.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1984.json"
     },
     "89": {
       "id": 89,
@@ -14622,6 +14682,21 @@
       },
       "detail_path": "items/1267.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1267.json"
+    },
+    "1983": {
+      "id": 1983,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1983,
+        "name": "别具风味的桥与池",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/NqerHTARYxXSGUEKhyuGLo6B3vs1I9iy.png",
+        "rarity": 4,
+        "description": "以古风为特点的人造水池。或许偶尔能在这见到小朋友。"
+      },
+      "detail_path": "items/1983.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1983.json"
     },
     "707": {
       "id": 707,
@@ -21432,6 +21507,21 @@
       },
       "detail_path": "items/1236.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1236.json"
+    },
+    "1982": {
+      "id": 1982,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1982,
+        "name": "模型泳池",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Y0WYMXAulr8SUB1hI5Mizp7QeH550dKt.png",
+        "rarity": 4,
+        "description": "将见过一次就再也难以忘记的美景复现出来的泳池。随时可以享受休假。"
+      },
+      "detail_path": "items/1982.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1982.json"
     },
     "1746": {
       "id": 1746,
@@ -30013,6 +30103,9 @@
     "设备零件": [
       "1349"
     ],
+    "设施入场券": [
+      "1986"
+    ],
     "社长的顶级巧克力": [
       "169"
     ],
@@ -30081,6 +30174,9 @@
     ],
     "市售(?)的巧克力": [
       "1903"
+    ],
+    "视察计划书": [
+      "1985"
     ],
     "试吃用松饼": [
       "1592"
@@ -30159,6 +30255,9 @@
     ],
     "特产的人偶": [
       "1444"
+    ],
+    "特产点心": [
+      "1987"
     ],
     "特惠券册": [
       "1364"
@@ -30363,6 +30462,9 @@
     ],
     "献给你一口的休息时间": [
       "166"
+    ],
+    "相片卡收藏集": [
+      "1984"
     ],
     "香甜巧克力薯片": [
       "89"
@@ -31447,6 +31549,9 @@
     ],
     "便利屋68乐队舞台": [
       "1267"
+    ],
+    "别具风味的桥与池": [
+      "1983"
     ],
     "缤纷饮料吧": [
       "707"
@@ -32809,6 +32914,9 @@
     ],
     "名著书架": [
       "1236"
+    ],
+    "模型泳池": [
+      "1982"
     ],
     "魔法绒毯和风扇": [
       "1746"
@@ -35666,6 +35774,9 @@
     "设备零件": [
       "1349"
     ],
+    "设施入场券": [
+      "1986"
+    ],
     "社长的顶级巧克力": [
       "169"
     ],
@@ -35734,6 +35845,9 @@
     ],
     "市售(?)的巧克力": [
       "1903"
+    ],
+    "视察计划书": [
+      "1985"
     ],
     "试吃用松饼": [
       "1592"
@@ -35812,6 +35926,9 @@
     ],
     "特产的人偶": [
       "1444"
+    ],
+    "特产点心": [
+      "1987"
     ],
     "特惠券册": [
       "1364"
@@ -36016,6 +36133,9 @@
     ],
     "献给你一口的休息时间": [
       "166"
+    ],
+    "相片卡收藏集": [
+      "1984"
     ],
     "香甜巧克力薯片": [
       "89"
@@ -37100,6 +37220,9 @@
     ],
     "便利屋68乐队舞台": [
       "1267"
+    ],
+    "别具风味的桥与池": [
+      "1983"
     ],
     "缤纷饮料吧": [
       "707"
@@ -38462,6 +38585,9 @@
     ],
     "名著书架": [
       "1236"
+    ],
+    "模型泳池": [
+      "1982"
     ],
     "魔法绒毯和风扇": [
       "1746"

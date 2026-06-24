@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
+      {
+        "id": 587,
+        "name": "钛金属击锤",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/euK272DPIPDabHU4uo38iSu5T1A8S7NT.png",
+        "rarity": 4,
+        "description": "扣动板机时将力量传至击针的零件，以钛合金制作而成，更加轻盈坚固。用于强化固有武器。  用于强化 AR、GL、RL 类型武器时提供 1.5 倍经验"
+      },
+      {
+        "id": 595,
+        "name": "钛金属击针",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/YjsEvn9iRd2EaTtHfiPjomniGeffs7Fo.png",
+        "rarity": 4,
+        "description": "用来撞击并引燃弹丸雷管的金属棒，以钛合金制作而成，更加轻盈坚固。用于强化固有武器。  用于强化任何类型武器时提供 1.5 倍经验"
+      },
       {
         "id": 591,
         "name": "钛金属枪管",
@@ -37,6 +53,14 @@
         "description": "以某位伟人的形状制作的交流会限定的人偶。也许是因为想要的学生很多，回收率似乎出乎意料地低..."
       },
       {
+        "id": 1987,
+        "name": "特产点心",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Q7WY8JMYmUzFql2rQr931ZHywSScnR4C.png",
+        "rarity": 1,
+        "description": "特产点心。大家一起吃的话会很美味。"
+      },
+      {
         "id": 1364,
         "name": "特惠券册",
         "type": "default",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/C3u4NFn5bA9x6I0UnOvqSzNUkdRKFVUx.png",
         "rarity": 1,
         "description": "只在情人节推出的匠师甜甜圈特制巧克力炸甜甜圈。撒上特制糖针，增添香甜口味。"
-      },
-      {
-        "id": 325,
-        "name": "特制新年福袋",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/SzyuB557fdZnwH5YrJMxD7LbziTgpX13.png",
-        "rarity": 1,
-        "description": "正月期间黑龟组所准备的正月用福袋。开封前完全猜不到里面有什么的惊喜道具。内容物出乎意料地充实。"
-      },
-      {
-        "id": 90,
-        "name": "天使巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/tGW5JE3m3cqtSCS5cIG9JEFut29jDm1b.png",
-        "rarity": 1,
-        "description": "连锁便利商店<天使 24>自家品牌的巧克力。因为小空的失误造成大量进货，但在老师的协助下成功完售。"
-      },
-      {
-        "id": 247,
-        "name": "甜点优惠券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/FHSQoOetvBIkNiq5ZcXaamhqfLyMANJs.png",
-        "rarity": 1,
-        "description": "著名甜点店发放的甜点优惠券根据收集的数量，可以兑换的甜点皆不同。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245772,
+  "time": 1782331022,
   "version": "1.0.0-beta.43"
 }

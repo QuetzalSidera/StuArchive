@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "id": 137,
   "display_name": "角楯 花凛（邦妮）",
   "names": {
@@ -636,7 +636,19 @@
       }
     ],
     "favorite_equipment": {
-      "id": 0
+      "id": 81,
+      "name": "黑色渔网袜",
+      "name_cn": "",
+      "is_favorite": true,
+      "info": [
+        {
+          "description": "市售的渔网袜。<br>\n回忆寄于令人意外的事物上。",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/3wz3QANdGKqDKH2HEkpSRWnWcQdXO1SC.png"
+        }
+      ],
+      "detail_path": "equipments/81.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/81.json"
     },
     "cultivate_materials": [
       {
@@ -2907,8 +2919,8 @@
   "source": {
     "detail_path": "students/137.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/137.json",
-    "upstream_time": 1782245392,
-    "updated_at": 1777309834,
+    "upstream_time": 1782330636,
+    "updated_at": 1782302580,
     "created_at": 1685501311
   }
 }

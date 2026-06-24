@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
+      {
+        "id": 1817,
+        "name": "文化书籍的样刊",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/5B9cujueH5GXFGnY6gTYjHcGsIoVJFol.png",
+        "rarity": 1,
+        "description": "象征着文化交流的书籍的样本。健全的文化交流是很重要的。在奇怪的误解扩散之前，早点去回收吧。"
+      },
+      {
+        "id": 1896,
+        "name": "文学提拉米苏",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/JghShubpVWps3g2lyIo9hGpfaMpA3oil.png",
+        "rarity": 1,
+        "description": "冷藏食用风味更佳的提拉米苏。在冷藏期间进行的交流，或许才是最甜的。"
+      },
+      {
+        "id": 181,
+        "name": "问题儿童悔过书",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/WpmlnWpfOICob51Cm6i7lsT4KQnygMrV.png",
+        "rarity": 1,
+        "description": "負責情人節巡邏工作的老師制服問題兒童後收到的悔過書。內容出乎意料地紮實。"
+      },
       {
         "id": 408,
         "name": "沃普赛克铁块",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/NphGBU4Q7nL1h4fcs6dKB20y2S9PILTC.png",
         "rarity": 1,
         "description": "启动工艺室的合成物质功能时所需的楔石。"
-      },
-      {
-        "id": 576,
-        "name": "下级强化石",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/N1MXMZVfrZMf5YVwZP6kLDxB59M55r1r.png",
-        "rarity": 1,
-        "description": "可强化装备的神秘强化石"
-      },
-      {
-        "id": 396,
-        "name": "下级制造用原料",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/PX1fU5mgxJ10hGQ7OiKfniKSr5ipSYb5.png",
-        "rarity": 1,
-        "description": "用于制造的主原料"
-      },
-      {
-        "id": 243,
-        "name": "夏日用忍法图鉴卷轴",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/tB58daVrl9C8uSaD2MyJD2mK8Xni5dfu.png",
-        "rarity": 1,
-        "description": "写有许多能在夏日使用的各种忍法（创作）的卷轴。大多都与会在夏天发生的安全事故有关。对忍者来说，也是安全第一！"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245778,
+  "time": 1782331027,
   "version": "1.0.0-beta.43"
 }

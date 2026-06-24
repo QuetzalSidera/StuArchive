@@ -22,7 +22,7 @@
       },
       {
         "id": 598,
-        "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/D6DD0C85219194E7ED3AD022F5AACC9F.jpg",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/Student_Portrait_CH0355_Collection.png",
         "skin": "泳装 ",
         "skin_cn": "泳装"
       }
@@ -40,9 +40,9 @@
     "family_name_cn": "春原",
     "given_name_cn": "瞬",
     "nick_name": "  ",
-    "introduction": "",
+    "introduction": "为迎接夏天而换上泳装的山海经高级中学所属，培育支持部「梅花园」的教官。\n\n不知道为什么和老师一起带队。比平时更从容，散发出成熟的气息。在那背后，或许隐藏着和平时不同的一面。\n\n>如果发生什么了，请来找我哦？",
     "introduction_cn": "",
-    "momo_talk_signature": "",
+    "momo_talk_signature": "请小心水边",
     "main_relation": 51,
     "relation": [
       50
@@ -52,15 +52,15 @@
     "height": 174,
     "birthday": "02-05",
     "hobby": "陪小朋友玩",
-    "designer": "",
-    "illustrator": "",
+    "designer": "Yadoru",
+    "illustrator": "Yadoru",
     "character_voice": "伊藤静",
     "character_voice_cn": "秦紫翼",
     "release_date": "2026-06-24",
     "release_date_cn": null,
     "release_date_global": null,
-    "sd_model_image": "",
-    "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/D6DD0C85219194E7ED3AD022F5AACC9F.jpg",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/EnemyInfo_CH0355_01.png",
+    "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/Student_Portrait_CH0355_Collection.png",
     "school": 7,
     "weapon_type": "SR",
     "is_install": true,
@@ -70,34 +70,992 @@
     "show_list": true,
     "body_shape": "Large",
     "special_appearance": true,
-    "more": "",
-    "recollection_lobby_image": "",
-    "spine": [],
+    "more": "# 官方图集\n\n## 卡池Banner\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| 夏中に能く身を成すを | 暂无 | 暂无 | 暂无 |\n| ![](images/students/春原%20瞬/泳装%20/gallery/官方图集/HLeTMOVa8AAX4i_.jpg =450x) | 暂无 |暂无 |暂无 |\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| ![](images/students/春原%20瞬/泳装%20/gallery/官方图集/HLTyRuLbcAAqFsF.jpg =450x) | 暂无 | 暂无 | 暂无 |\n\n## SD动画\n| EX技能动画 | 咖啡厅触摸 | 家具互动:[模型泳池](https://kivo.wiki/data/item/1982) |\n| :---: | :---: | :---: |\n| 暂无 | 暂无 | 暂无 |",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/CH0355_home_Idle_01_1.403.jpg",
+    "spine": [
+      1700,
+      1709
+    ],
     "model": [
       85
     ],
     "voice_play_icon": "",
     "voice_pause_icon": "",
-    "voice": [],
+    "voice": [
+      {
+        "description": "ch0355_battle_buffed_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ありがとうございます。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_buffed_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_buffself_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_buffself_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_covered_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "少し隠れます。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_covered_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_damage_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_damage_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_damage_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_damage_2.ogg"
+      },
+      {
+        "description": "ch0355_battle_damage_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_damage_3.ogg"
+      },
+      {
+        "description": "ch0355_battle_defense_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "もうちょっと頑張らないといけませんよ？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_defense_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "足元にはちゃんと気をつけるんですよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_in_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "はぐれないようついてきてくださいね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_in_2.ogg"
+      },
+      {
+        "description": "ch0355_battle_move_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "次は何が待っているのでしょう？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_move_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_move_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "あそこですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_move_2.ogg"
+      },
+      {
+        "description": "ch0355_battle_recovery_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ふうっ。助かりました。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_recovery_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_retire",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_retire.ogg"
+      },
+      {
+        "description": "ch0355_battle_shout_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_shout_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_shout_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_shout_2.ogg"
+      },
+      {
+        "description": "ch0355_battle_shout_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_shout_3.ogg"
+      },
+      {
+        "description": "ch0355_battle_tacticalaction_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "あちらへ移動しましょうか。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_tacticalaction_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ええ、とても良い日でした。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_victory_1.ogg"
+      },
+      {
+        "description": "ch0355_battle_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "みなさんと遊ぶことができて……楽しかったです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_battle_victory_2.ogg"
+      },
+      {
+        "description": "ch0355_cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "あら……素敵な場所ですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "ch0355_cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "このお茶……お肌に良さそうです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "ch0355_cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "（ここって水着姿で来ても、大丈夫だったのでしょうか……）",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "ch0355_cafe_monolog_4",
+        "category": "cafe",
+        "text": "",
+        "text_original": "うう……肩が凝ってしまいそう……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "ch0355_cafe_monolog_5",
+        "category": "cafe",
+        "text": "",
+        "text_original": "とても快適すぎて……ずっとここにいたいです……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_cafe_monolog_5.ogg"
+      },
+      {
+        "description": "ch0355_commonskill",
+        "category": "battle",
+        "text": "",
+        "text_original": "あらまあ……ふふっ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_commonskill.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "準備運動はしっかりしましたか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_1_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "水に入る時は、足からゆっくり水をかけて温度に慣らしてから入るんですよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_1_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "はい、私はここにいますよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_2_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "もしも寒いようでしたら……温めてあげますからね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_2_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_3_1",
+        "category": "event",
+        "text": "",
+        "text_original": "わっ、そこはダメです、先生……っ！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_3_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_3_2",
+        "category": "event",
+        "text": "",
+        "text_original": "っ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_3_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_3_3",
+        "category": "event",
+        "text": "",
+        "text_original": "少しだけ、ですよ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_3_3.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_4_1",
+        "category": "event",
+        "text": "",
+        "text_original": "もう！先生ったら……めっ、です！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_4_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlobby_4_2",
+        "category": "event",
+        "text": "",
+        "text_original": "二人きりになってからにしましょうね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlobby_4_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "秘境に到着……ふふっ、いかがですか、先生？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_1_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "私ですか？なんだか新鮮で、楽しいですよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_1_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "後でお時間よろしいでしょうか……？いえ、大したことではありません。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_2_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ただ……先生と二人で、ここを見て回りたくて。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_2_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_season_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "先生と皆さんと一緒に旅行に来られて……。とてもうれしいです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_season_1_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_season_1_2_a",
+        "category": "event",
+        "text": "",
+        "text_original": "きっと、私はこの日を忘れません、ずっと……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_season_1_2_a.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_season_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "子供というのは、とても純粋です。私たちが思っている以上に色んなことを受け取っていて。だから、導いてあげないといけないんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_season_2_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_season_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "先生が私たちに対して、そう思ってくださるように。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_season_2_2.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_season_end_1",
+        "category": "event",
+        "text": "",
+        "text_original": "お疲れさまでした、先生。ええ……本当に。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_season_end_1.ogg"
+      },
+      {
+        "description": "ch0355_eventlogin_season_end_2",
+        "category": "event",
+        "text": "",
+        "text_original": "その……よかったら、今から一緒に……。本当の旅行を楽しみませんか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventlogin_season_end_2.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "その……先生のお時間は、もちろん先生のものですが……。一部だけでも……ほんの少し、でもいいので。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_1_1.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "一緒に過ごせたら、と思う時があるんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_1_2.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "たまにそそっかしすぎると言われることがあるのですが……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_2_1.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "それが功を奏す時もあるんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_2_2.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_2_3",
+        "category": "event",
+        "text": "",
+        "text_original": "ふふっ。ええ。こうやって一緒にいる時間が、作れましたから。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_2_3.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_day_end",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_day_end.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_get_1",
+        "category": "event",
+        "text": "",
+        "text_original": "先生、よかったらフルーツを頂きませんか？休憩がてら……はい、どうぞ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_get_1.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_get_2",
+        "category": "event",
+        "text": "",
+        "text_original": "お疲れさまでした。あちらの方で色々と準備してくださっているみたいですよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_get_2.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_login_1",
+        "category": "event",
+        "text": "",
+        "text_original": "一応、これも査察の一環なんです。今日のスケジュールを見ていきましょうか。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_login_1.ogg"
+      },
+      {
+        "description": "ch0355_eventmission_login_2",
+        "category": "event",
+        "text": "",
+        "text_original": "査察対象がこんな綺麗な渓谷だなんて……。なんだか、楽しみですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_eventmission_login_2.ogg"
+      },
+      {
+        "description": "ch0355_exskill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ふふっ。あら？問題解決、ですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exskill_1.ogg"
+      },
+      {
+        "description": "ch0355_exskill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "楽しいです。あっ？続けましょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exskill_2.ogg"
+      },
+      {
+        "description": "ch0355_exskill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "ひゃっ！あれは……？うふふ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exskill_3.ogg"
+      },
+      {
+        "description": "ch0355_exskill_level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "あら、あら。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exskill_level_1.ogg"
+      },
+      {
+        "description": "ch0355_exskill_level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "気をつけるんですよ？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exskill_level_2.ogg"
+      },
+      {
+        "description": "ch0355_exskill_level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "何かありましたか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exskill_level_3.ogg"
+      },
+      {
+        "description": "ch0355_exweapon_get",
+        "category": "growup",
+        "text": "",
+        "text_original": "こんな風にバカンスに出かけていると、ついつい気が緩んでしまうもの。ですが、そういう時こそ気を引き締めないといけませんよ？規則を守らないと、メッですからね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_exweapon_get.ogg"
+      },
+      {
+        "description": "ch0355_formation_in_1",
+        "category": "formation",
+        "text": "",
+        "text_original": "怪我に気をつけて遊びましょうね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_formation_in_1.ogg"
+      },
+      {
+        "description": "ch0355_formation_in_2",
+        "category": "formation",
+        "text": "",
+        "text_original": "何かあったら、すぐに言うんですよ？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_formation_in_2.ogg"
+      },
+      {
+        "description": "ch0355_formation_select",
+        "category": "formation",
+        "text": "",
+        "text_original": "あら……高い高い、してくださるんですか？ふふっ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_formation_select.ogg"
+      },
+      {
+        "description": "ch0355_formchange",
+        "category": "other",
+        "text": "",
+        "text_original": "あら、少々お待ちくださいね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_formchange.ogg"
+      },
+      {
+        "description": "ch0355_gachaget",
+        "category": "growup",
+        "text": "",
+        "text_original": "準備体操はしましたか？ちゃんとしないとメッですよ？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_gachaget.ogg"
+      },
+      {
+        "description": "ch0355_growup_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "子どもたちの成長を見守っていると、とても心が温かくなるんです。えっ？先生も同じ気持ちで私のことを……？も、もう……ありがとうございます。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_growup_1.ogg"
+      },
+      {
+        "description": "ch0355_growup_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "成長を続けようと努力することは、大切です。ですから、私も……こうして、先生が見守ってくださることがとても嬉しいんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_growup_2.ogg"
+      },
+      {
+        "description": "ch0355_growup_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "私でもまだ成長できるのでしょうか……？その……私も、他の子みたいに甘えたくなってしまいます。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_growup_3.ogg"
+      },
+      {
+        "description": "ch0355_growup_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "梅花園の教官は……子供たちを見守る立場にあります。だから……こんな風に自分が生徒の立場になるのは、なんだか照れくさいですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_growup_4.ogg"
+      },
+      {
+        "description": "ch0355_lobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "暑いと何も考えられなくなってしまいますよね……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_1_1.ogg"
+      },
+      {
+        "description": "ch0355_lobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "夏休みの計画……既に決まっていますか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_1_2.ogg"
+      },
+      {
+        "description": "ch0355_lobby_1_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "もしよろしければ……こっそり、教えてください。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_1_3.ogg"
+      },
+      {
+        "description": "ch0355_lobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私は今、教官ではありません。そして、水着を着て、シャーレにいます。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_2_1.ogg"
+      },
+      {
+        "description": "ch0355_lobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "その……つまり……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_2_2.ogg"
+      },
+      {
+        "description": "ch0355_lobby_2_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ただの先生と生徒として、普段とは違う接し方ができるのではないかな、なんて……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_2_3.ogg"
+      },
+      {
+        "description": "ch0355_lobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "楽しい時間はあっという間。ですから、どの瞬間も大切にしないといけません。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_3_1.ogg"
+      },
+      {
+        "description": "ch0355_lobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私にとっては……今この瞬間が、そうなんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_3_2.ogg"
+      },
+      {
+        "description": "ch0355_lobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "もしも、願いが叶うのなら……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_4_1.ogg"
+      },
+      {
+        "description": "ch0355_lobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生と色々なところに、行ってみたいと思っていまして。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_4_2.ogg"
+      },
+      {
+        "description": "ch0355_lobby_4_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "プール、渓谷、海……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_4_3.ogg"
+      },
+      {
+        "description": "ch0355_lobby_4_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生は、どこに行きたいですか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_4_4.ogg"
+      },
+      {
+        "description": "ch0355_lobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "水遊びって、結構体力を使ってしまいますよね？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_5_1.ogg"
+      },
+      {
+        "description": "ch0355_lobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "でも、水に入るのは好きなんです。なんだか、身体が軽くなる感じがして……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_5_2.ogg"
+      },
+      {
+        "description": "ch0355_lobby_5_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生もいつか一緒に……遊びませんか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_lobby_5_3.ogg"
+      },
+      {
+        "description": "ch0355_login_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "おかえりなさい、先生。水遊びにします？ご飯にします？それとも……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_login_1_1.ogg"
+      },
+      {
+        "description": "ch0355_login_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "なんでもお伝え下さい。一緒に楽しみましょう？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_login_1_2.ogg"
+      },
+      {
+        "description": "ch0355_login_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "こんにちは、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_login_2_1.ogg"
+      },
+      {
+        "description": "ch0355_login_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ふふっ。ええ、今日は水着で来てみました。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_login_2_2.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "えっ、ひゃああ！？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "せ、先生！？これは、その……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そ、そういえば……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_2_1.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "サヤさんが、少し不安定になるかもと仰っていましたが……っまさか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_2_2.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "せ、先生が謝る必要はありません……！と、というか……あの……えっと。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_3_1.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "わ、私はどうしたら……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_3_2.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ダメです！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_4_1.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そ、その……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_4_2.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_4_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そこに立っていただいてもいいですか？隠れるので……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_4_3.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私……大丈夫、ですから。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_5_1.ogg"
+      },
+      {
+        "description": "ch0355_memoriallobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生、でしたら……もう少しこのまま、でも……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_memoriallobby_5_2.ogg"
+      },
+      {
+        "description": "ch0355_relationship_up_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "トロピカルフルーツをご用意しました。なにか食べたいものはありますか？全部、先生の分ですからお好きなものをどうぞ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_relationship_up_1.ogg"
+      },
+      {
+        "description": "ch0355_relationship_up_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "もしも、私と二人きりになれたとしたら……。先生は何をしたいですか？私……やりたいことが、あるんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_relationship_up_2.ogg"
+      },
+      {
+        "description": "ch0355_relationship_up_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "夏といえども油断してはいけません。夏風邪が一番怖いんですからね。先生が風邪を引いてしまった時は……私が看病してさしあげますけど",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_relationship_up_3.ogg"
+      },
+      {
+        "description": "ch0355_relationship_up_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "思い出とは、楽しくて、美しくて……。時に、物寂しく感じるものでもあります。美しいままであってほしいと、願っているのですけどね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_relationship_up_4.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "お祝いの言葉……ありがとうございます、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_1.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "その……もし、よろしければ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_2.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "今日一日……私を。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_3.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "「いいこいいこ」してくださりませんか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_4.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_player_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "お誕生日おめでとうございます、先生。うふふ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_player_1.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_player_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "今日という日を頑張っている先生をいいこいいこ、してあげます。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_player_2.ogg"
+      },
+      {
+        "description": "ch0355_season_birthday_player_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "はい、どうぞ。こちらへいらっしゃってください。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_birthday_player_3.ogg"
+      },
+      {
+        "description": "ch0355_season_halloween_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "山海経でも梅花園でも、最近ハロウィーンがどんな日なのか広まってきたんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_halloween_1.ogg"
+      },
+      {
+        "description": "ch0355_season_halloween_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "なので、みんな仮装して飴をねだるんですよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_halloween_2.ogg"
+      },
+      {
+        "description": "ch0355_season_halloween_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ほら、先生も。トリック・オア・トリート、です。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_halloween_3.ogg"
+      },
+      {
+        "description": "ch0355_season_newyear_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あら、年が明けましたね。あけましておめでとうございます。先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_newyear_1.ogg"
+      },
+      {
+        "description": "ch0355_season_newyear_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "本当に……時間が過ぎるのは、早いのですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_newyear_2.ogg"
+      },
+      {
+        "description": "ch0355_season_xmas_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "クリスマスですね……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_xmas_1.ogg"
+      },
+      {
+        "description": "ch0355_season_xmas_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "この時期になると梅花園では――",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_xmas_2.ogg"
+      },
+      {
+        "description": "ch0355_season_xmas_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "みんな自分がいい子だ、と主張し始めるんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_xmas_3.ogg"
+      },
+      {
+        "description": "ch0355_season_xmas_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ええ、みんないい子なんですけどね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_season_xmas_4.ogg"
+      },
+      {
+        "description": "ch0355_tactic_defeat_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_tactic_defeat_1.ogg"
+      },
+      {
+        "description": "ch0355_tactic_defeat_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_tactic_defeat_2.ogg"
+      },
+      {
+        "description": "ch0355_tactic_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "大丈夫です、私がついていますから。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_tactic_in_1.ogg"
+      },
+      {
+        "description": "ch0355_tactic_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "私を信じてください。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_tactic_in_2.ogg"
+      },
+      {
+        "description": "ch0355_tactic_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "さあ、みなさん。ちゃんとついてきてくださいね？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_tactic_victory_1.ogg"
+      },
+      {
+        "description": "ch0355_tactic_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "あまり慌てないでくださいね～",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/ch0355_tactic_victory_2.ogg"
+      },
+      {
+        "description": "CH0355_Title",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ブルー、アーカイブ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/jp/CH0355_Title.ogg"
+      }
+    ],
     "voice_cn": [],
     "voice_kr": [],
     "gallery": [
       {
         "title": "官方图集",
         "images": [
-          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLQK0gfaIAEAgS8.jpg",
           "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLQK0gZa0AAl6NG.jpg",
-          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/Screenshot%202026-06-20%2021-21-42.png",
-          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/Screenshot%202026-06-20%2021-21-59.png"
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLeTMOVa8AAX4i_.jpg",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLfKfAXbMAAUCeE.jpg",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HLTyRuLbcAAqFsF.jpg"
+        ]
+      },
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_20.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_21.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_22.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_23.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_24.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_25.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_26.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0355_spr_Idle_01.png"
         ]
       }
     ],
-    "gift_data": null,
-    "furniture": null,
+    "gift_data": [
+      {
+        "id": 68,
+        "favorability": 60
+      },
+      {
+        "id": 17,
+        "favorability": 40
+      },
+      {
+        "id": 27,
+        "favorability": 40
+      },
+      {
+        "id": 31,
+        "favorability": 40
+      },
+      {
+        "id": 85,
+        "favorability": 180
+      },
+      {
+        "id": 91,
+        "favorability": 60
+      },
+      {
+        "id": 141,
+        "favorability": 240
+      }
+    ],
+    "furniture": [
+      1982
+    ],
     "character_datas": [
       {
-        "character_id": 0,
-        "dev_name": "",
+        "character_id": 10143,
+        "dev_name": "CH0355_01",
         "combat_style": "瞬（泳装）",
         "type": "Dealer",
         "attack_attribute": "Vibration",
@@ -107,11 +1065,31 @@
         "battlefield_position": "STRIKER",
         "rarity": 3,
         "limited": false,
-        "outdoor_adaptability": "",
-        "indoor_adaptability": "",
-        "street_adaptability": "",
-        "equipment": null,
-        "cultivate_material": [],
+        "outdoor_adaptability": "S",
+        "indoor_adaptability": "D",
+        "street_adaptability": "B",
+        "equipment": [
+          7,
+          6,
+          3
+        ],
+        "cultivate_material": [
+          13,
+          14,
+          16,
+          18,
+          21,
+          23,
+          24,
+          26,
+          364,
+          365,
+          366,
+          367,
+          419,
+          420,
+          421
+        ],
         "favorite_equipment": 0,
         "skill": {
           "ex_skill": [
@@ -127,7 +1105,23 @@
               "info": [
                 {
                   "cost": 3,
-                  "describe": "对1名敌人造成攻击力x%的伤害<br>获得「花蕾」（持续一定时间），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
+                  "describe": "对1名敌人造成攻击力629%的伤害<br>获得「花蕾」（持续9秒），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力723%的伤害<br>获得「花蕾」（持续9秒），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力912%的伤害<br>获得「花蕾」（持续9秒），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力1006%的伤害<br>获得「花蕾」（持续9秒），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力1195%的伤害<br>获得「花蕾」（持续9秒），立刻再次装填EX技能1次<br>持有「花蕾」期间，「到家之前都算旅游哦」变更为「要好好听话哦？」<br>「花蕾」清除时，EX技能卡移动到队列的末尾"
                 }
               ]
             },
@@ -143,7 +1137,23 @@
               "info": [
                 {
                   "cost": 3,
-                  "describe": "对1名敌人造成攻击力x%的伤害（持有「花蕾」时可以消耗）"
+                  "describe": "对1名敌人造成攻击力730%的伤害（持有「花蕾」时可以消耗）"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力839%的伤害（持有「花蕾」时可以消耗）"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力1058%的伤害（持有「花蕾」时可以消耗）"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力1168%的伤害（持有「花蕾」时可以消耗）"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力1387%的伤害（持有「花蕾」时可以消耗）"
                 }
               ]
             }
@@ -160,8 +1170,44 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
-                  "describe": "每经过一定时间，对1名敌人造成攻击力x%的伤害"
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力444%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力466%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力488%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力533%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力555%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力577%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力622%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力644%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力666%的伤害"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每经过40秒，对1名敌人造成攻击力711%的伤害"
                 }
               ]
             },
@@ -176,8 +1222,44 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
-                  "describe": "攻击力增加"
+                  "cost": 0,
+                  "describe": "攻击力增加14%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加14.7%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加15.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加18.2%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加18.9%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加19.6%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加22.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加23.1%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加23.8%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加26.6%"
                 }
               ]
             },
@@ -192,8 +1274,44 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
-                  "describe": "获得「花蕾」时及其后每经过一定时间，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加伤害（持续一定时间）"
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加9.8%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加10.2%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加10.7%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加12.7%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加13.2%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加13.7%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加15.6%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加16.1%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加16.6%伤害（持续3s）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "获得「花蕾」时及其后每经过3s，「花蕾」发生变化（最大3阶段）<br>使用EX技能「要好好听话哦？」时，消耗「花蕾」，根据「花蕾」的阶段增加18.6%伤害（持续3s）"
                 }
               ]
             }
@@ -201,75 +1319,52 @@
         },
         "basic": [
           {
-            "max_hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "healing": 0,
-            "accuracy": 0,
-            "evasion": 0,
-            "crit": 0,
-            "crit_res": 0,
-            "crit_dmg": 0,
-            "crit_dmg_res": 0,
-            "stability": 0,
-            "range": 0,
-            "cc_power": 0,
-            "cc_res": 0,
-            "recovery_boost": 0,
-            "mag_count": 0
+            "max_hp": 2499,
+            "attack": 365,
+            "defense": 19,
+            "healing": 1658,
+            "accuracy": 907,
+            "evasion": 198,
+            "crit": 201,
+            "crit_res": 100,
+            "crit_dmg": 2,
+            "crit_dmg_res": 0.5,
+            "stability": 1980,
+            "range": 750,
+            "cc_power": 100,
+            "cc_res": 100,
+            "recovery_boost": 1,
+            "mag_count": 10
           }
         ],
         "weapons": {
-          "icon": "",
-          "name": "",
+          "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/Weapon_Icon_10011.png",
+          "name": "爱之鞭",
           "name_cn": "",
-          "description": "",
+          "description": "瞬所使用的狙击步枪。<br>成长有时就是伴随痛苦的。",
           "description_cn": "",
-          "info": [],
-          "skill": []
-        }
-      },
-      {
-        "character_id": 0,
-        "dev_name": "",
-        "combat_style": "雪玲（泳装）",
-        "type": "Dealer",
-        "attack_attribute": "Vibration",
-        "defensive_attributes": "Light",
-        "is_groupc_control": false,
-        "team_position": "BACK",
-        "battlefield_position": "STRIKER",
-        "rarity": 3,
-        "limited": false,
-        "outdoor_adaptability": "",
-        "indoor_adaptability": "",
-        "street_adaptability": "",
-        "equipment": null,
-        "cultivate_material": [],
-        "favorite_equipment": 0,
-        "skill": {
-          "ex_skill": [
+          "info": [
             {
-              "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/rkHn5I9dhMIwPyxogw551VaQWFhZ6Yd3.png",
-              "title": "请抱抱我！",
-              "title_cn": "",
-              "preview": "https://static.kivo.wiki/videos/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_preview/ZwRRPChTgAdUQZGH9CJHuOPPrkXKDbN9.mp4",
-              "max_level": 5,
-              "link_student_id": 0,
-              "is_passive_skill": false,
-              "derived_skills": [],
-              "info": [
-                {
-                  "cost": 1,
-                  "describe": "对1名敌人造成攻击力x%的伤害<br>使用时，本场战斗中「请抱抱我！」的伤害减少一定值（最多重复3次）"
-                }
-              ]
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
+              "description": "「度假中的教官」变为「度假中的教官+」"
+            },
+            {
+              "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 室外适应性 S->SS",
+              "description": "在室外地形造成1.3倍伤害，处于掩体掩护状态时掩护成功率增加75%，攻击时无视掩体概率增加75%。"
+            },
+            {
+              "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 振动克制伤害增加",
+              "description": "攻击类型为振动的克制伤害增加10%。"
             }
           ],
-          "passive_skill": [
+          "skill": [
             {
-              "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/Y65PWN8UhzzPFcWkQ8eIHJFWH5tUPD8R.png",
-              "title": "必须集中！",
+              "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/nLFas0JbcaZ9R8XdpPRAstJLJTwtruDy.png",
+              "title": "度假中的教官+",
               "title_cn": "",
               "preview": "",
               "max_level": 10,
@@ -278,73 +1373,48 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
-                  "describe": "战斗开始时，编队中每有1名我方学生，获得一定量的EX技能COST（最多6人）（每场战斗1次）<br>但除自身以外，部队内存在其他在战斗开始时获得COST的学生时，该技能无法获得技能COST。"
-                }
-              ]
-            },
-            {
-              "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/SsaULGFc2N30WbNXkwAdXcbn2UrcdvUN.png",
-              "title": "孩子力量",
-              "title_cn": "",
-              "preview": "",
-              "max_level": 10,
-              "link_student_id": 0,
-              "is_passive_skill": true,
-              "derived_skills": [],
-              "info": [
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加26%，攻击力增加14%"
+                },
                 {
-                  "cost": 1,
-                  "describe": "暴击值增加"
-                }
-              ]
-            },
-            {
-              "icon": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E7%9E%AC/%E6%B3%B3%E8%A3%85%20/skill_icon/9jKVNrvFm0BzLehYrqxlYoNfiIFiItdi.png",
-              "title": "享受度假",
-              "title_cn": "",
-              "preview": "",
-              "max_level": 10,
-              "link_student_id": 0,
-              "is_passive_skill": true,
-              "derived_skills": [],
-              "info": [
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加27.3%，攻击力增加14.7%"
+                },
                 {
-                  "cost": 1,
-                  "describe": "使用EX技能时，震动属性克制倍率增加"
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加28.6%，攻击力增加15.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加33.8%，攻击力增加18.2%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加35.1%，攻击力增加18.9%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加36.4%，攻击力增加19.6%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加41.6%，攻击力增加22.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加42.9%，攻击力增加23.1%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加44.2%，攻击力增加23.8%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击类型为振动的克制伤害增加49.4%，攻击力增加26.6%"
                 }
               ]
             }
           ]
-        },
-        "basic": [
-          {
-            "max_hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "healing": 0,
-            "accuracy": 0,
-            "evasion": 0,
-            "crit": 0,
-            "crit_res": 0,
-            "crit_dmg": 0,
-            "crit_dmg_res": 0,
-            "stability": 0,
-            "range": 0,
-            "cc_power": 0,
-            "cc_res": 0,
-            "recovery_boost": 0,
-            "mag_count": 0
-          }
-        ],
-        "weapons": {
-          "icon": "",
-          "name": "",
-          "name_cn": "",
-          "description": "",
-          "description_cn": "",
-          "info": [],
-          "skill": []
         }
       }
     ],
@@ -355,10 +1425,10 @@
     "supplementary_uuid": "bb075c31-ea11-41f6-859a-4f4b3ed27696",
     "supplementary_declare_uuid": "fdf413ef-d083-4c7f-bba2-cde50c6d4147",
     "created_at": 1781956894,
-    "updated_at": 1781962442
+    "updated_at": 1782319813
   },
   "message": "OK",
   "success": true,
-  "time": 1782245444,
+  "time": 1782330690,
   "version": "1.0.0-beta.43"
 }

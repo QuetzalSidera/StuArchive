@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
       {
         "id": 1062,
@@ -45,6 +45,14 @@
         "description": "修理千禧废墟的设备用的零件。可在废墟各处找到，收集后可使设备重新运转。"
       },
       {
+        "id": 1986,
+        "name": "设施入场券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6SoZcO0ZULgylDwxRHEP2SIXKYcJwp0T.png",
+        "rarity": 1,
+        "description": "用于进入观光设施的入场券。团购有优惠。"
+      },
+      {
         "id": 169,
         "name": "社长的顶级巧克力",
         "type": "default",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/CnBonsYWpIfJrCkWghRz9fqpQ9cAN2qf.png",
         "rarity": 1,
         "description": "虽然进行了一定程度上的分析，但尚未做到完全解明。用途是无限大的。"
-      },
-      {
-        "id": 1913,
-        "name": "神秘线材",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/qsghofkfcJYo2T0EAsqI7bYlkVL7sWB2.png",
-        "rarity": 1,
-        "description": "把电子设备放在一起就会无限增加的用途不明的线材。用不到的就收起来吧。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245768,
+  "time": 1782331017,
   "version": "1.0.0-beta.43"
 }

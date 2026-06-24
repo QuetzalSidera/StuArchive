@@ -7,13 +7,13 @@
     "api_path": "/data/equipments/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/"
   },
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "list_key": "equipment",
   "id_key": "id",
   "max_page": 8,
   "synced_pages": 8,
-  "total_items": 72,
-  "details_synced": 72,
+  "total_items": 75,
+  "details_synced": 75,
   "details_enabled": true,
   "items": [
     {
@@ -519,6 +519,27 @@
       "name_cn": "",
       "is_favorite": true,
       "icon": "https://static.kivo.wiki/images/equipment/icon/xIPC02LYuiKnDZ1r1Q7LJUyGfVhAzqoT.png"
+    },
+    {
+      "id": 81,
+      "name": "黑色渔网袜",
+      "name_cn": "",
+      "is_favorite": true,
+      "icon": "https://static.kivo.wiki/images/equipment/icon/3wz3QANdGKqDKH2HEkpSRWnWcQdXO1SC.png"
+    },
+    {
+      "id": 82,
+      "name": "普通的文库本",
+      "name_cn": "",
+      "is_favorite": true,
+      "icon": "https://static.kivo.wiki/images/equipment/icon/UInBc0pjDGCkYWsTt1smqDDx2tJ4HioK.png"
+    },
+    {
+      "id": 83,
+      "name": "花形发夹",
+      "name_cn": "",
+      "is_favorite": true,
+      "icon": "https://static.kivo.wiki/images/equipment/icon/4w70Me5eODEjh4CDRffvpcXGglL5TaKb.png"
     }
   ],
   "pages": [
@@ -576,7 +597,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/?page=8",
       "path": "equipments/pages/8.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/pages/8.json",
-      "item_count": 2
+      "item_count": 5
     }
   ],
   "details": [
@@ -1011,13 +1032,31 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/80",
       "path": "equipments/80.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/80.json"
+    },
+    {
+      "id": 81,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/81",
+      "path": "equipments/81.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/81.json"
+    },
+    {
+      "id": 82,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/82",
+      "path": "equipments/82.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/82.json"
+    },
+    {
+      "id": 83,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/83",
+      "path": "equipments/83.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/83.json"
     }
   ],
   "lookup": {
     "path": "equipments/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/lookup.json",
-    "alias_count": 73,
-    "normalized_alias_count": 73,
-    "total_items": 72
+    "alias_count": 76,
+    "normalized_alias_count": 76,
+    "total_items": 75
   }
 }

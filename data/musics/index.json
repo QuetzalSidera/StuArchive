@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 93,
   "synced_pages": 93,
-  "total_items": 925,
-  "details_synced": 925,
+  "total_items": 926,
+  "details_synced": 926,
   "details_enabled": true,
   "items": [
     {
@@ -8340,6 +8340,15 @@
       "album": "絆ダイアローグ Vol.25 「ツクヨ」",
       "use": "专辑曲目",
       "original_file_name": ""
+    },
+    {
+      "id": 945,
+      "title": "Theme_347",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_347"
     }
   ],
   "pages": [
@@ -8992,7 +9001,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=93",
       "path": "musics/pages/93.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/93.json",
-      "item_count": 5
+      "item_count": 6
     }
   ],
   "details": [
@@ -14545,13 +14554,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/944",
       "path": "musics/944.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/944.json"
+    },
+    {
+      "id": 945,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/945",
+      "path": "musics/945.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/945.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1228,
-    "normalized_alias_count": 1228,
-    "total_items": 925
+    "alias_count": 1229,
+    "normalized_alias_count": 1229,
+    "total_items": 926
   }
 }

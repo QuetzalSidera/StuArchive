@@ -2,8 +2,56 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
+      {
+        "id": 1023,
+        "name": "新鲜鱼箱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/SpRGHSzFfr4D6mwdxNJ8ceXaJgjQGSon.png",
+        "rarity": 4,
+        "description": "装了满满的鱼的鱼箱。如果不小心把它拿起来，鱼可能会逃走哦！"
+      },
+      {
+        "id": 698,
+        "name": "汹涌波浪横幅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/rk4cYX8cZWfYxJiATmxxQPKcy7chXtct.png",
+        "rarity": 3,
+        "description": "画着汹涌波浪的横幅。加强了大海的凉爽。"
+      },
+      {
+        "id": 1558,
+        "name": "休息室长椅·A型",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/jQyAqR512NSCu6zFnMX8Os1eLMtlKFnC.png",
+        "rarity": 3,
+        "description": "呈A字形状的长椅。配有柔软的坐垫，坐上去很舒服。"
+      },
+      {
+        "id": 1537,
+        "name": "休息室的显示屏",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/CJzWVMopgQ0yXHmpx6uaVr7UuPpF2FNJ.png",
+        "rarity": 2,
+        "description": "为造访休息室的学生提供信息的显示器。可以进行触屏操作。"
+      },
+      {
+        "id": 1562,
+        "name": "休息室地图显示屏",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/EavGbc9EnBEjSIJcv08sVYFGRevuQLWs.png",
+        "rarity": 3,
+        "description": "显示着千禧塔休息室地图的显示屏。有想去的地方就在这里确认一下吧！"
+      },
+      {
+        "id": 1578,
+        "name": "休息室引导机器人",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/fwaGRgCNk26xrTRexhLtiqsO4aiSxD57.png",
+        "rarity": 4,
+        "description": "休息室内引路的机器人。因为面板上会显示感情丰富的表情，在学生当中很有人气。"
+      },
       {
         "id": 1577,
         "name": "休息室引导无人机",
@@ -35,59 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/kegAM6LBTV6cEzx1C9yNVt4Yp7K6I7hs.png",
         "rarity": 4,
         "description": "玄龙门代代相传的宝座。尽管外观相当华丽，可坐在上面的感觉很难说是舒服的。"
-      },
-      {
-        "id": 1690,
-        "name": "雪花白大理石图案地毯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/cX5tSJPiHwnxDtHcJ5jEXR7cYG2d8e2Y.png",
-        "rarity": 2,
-        "description": "模仿高级大理石图案的地毯，工艺精湛，与真品难以区分。"
-      },
-      {
-        "id": 767,
-        "name": "雪花花纹渐层背景",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/o9UfUe5B3UxnWq52eemTYDpRWXkqb9kk.png",
-        "rarity": 4,
-        "description": "呼应着冬日氛围的雪花花纹渐层背景。看似冰冷却带给人一股温暖的感受。"
-      },
-      {
-        "id": 1306,
-        "name": "演出大屏幕",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/PsSHaYPjslYnneZcrVhBCsODhEMncXPC.png",
-        "rarity": 4,
-        "description": "映出舞台的大屏幕。在远处也能清晰看见。"
-      },
-      {
-        "id": 1295,
-        "name": "演出音箱组",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/x8UtYDcPkFR3mapflaBa3Qddg1FGUHfe.png",
-        "rarity": 3,
-        "description": "让观众狂热起来的高功率音箱。乃震撼心脏的声之源。"
-      },
-      {
-        "id": 1442,
-        "name": "演讲桌",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/XCBFTIy6xEUQOPbyXVUCPglUfSUQFCnA.png",
-        "rarity": 4,
-        "description": "放有演讲所需要的扇子与话筒等物品的小桌子。设计高档，作为室内装饰很受欢迎。"
-      },
-      {
-        "id": 920,
-        "name": "艳彩自动贩卖机",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/gIT5jWhydFiREDPLlTsP7nPD07X1jGN5.png",
-        "rarity": 3,
-        "description": "贩售多种零食的自动贩卖机。不知不觉就会发现自己在投硬币。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245884,
+  "time": 1782331139,
   "version": "1.0.0-beta.43"
 }

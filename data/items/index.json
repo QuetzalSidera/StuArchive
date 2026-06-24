@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "list_key": "item",
   "id_key": "id",
-  "max_page": 191,
-  "synced_pages": 191,
-  "total_items": 1905,
-  "details_synced": 1905,
+  "max_page": 192,
+  "synced_pages": 192,
+  "total_items": 1911,
+  "details_synced": 1911,
   "details_enabled": true,
   "items": [
     {
@@ -3897,6 +3897,14 @@
       "description": "修理千禧废墟的设备用的零件。可在废墟各处找到，收集后可使设备重新运转。"
     },
     {
+      "id": 1986,
+      "name": "设施入场券",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/6SoZcO0ZULgylDwxRHEP2SIXKYcJwp0T.png",
+      "rarity": 1,
+      "description": "用于进入观光设施的入场券。团购有优惠。"
+    },
+    {
       "id": 169,
       "name": "社长的顶级巧克力",
       "type": "default",
@@ -4079,6 +4087,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/xhA0jsqiEgtvtCya9f5mazfmcHuRiAtm.png",
       "rarity": 1,
       "description": "凯伊称是从店里买来的巧克力。 有时即使事情和真相不同，装作没有发现也是有必要的。"
+    },
+    {
+      "id": 1985,
+      "name": "视察计划书",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/3pl3AQd8jDd1nRdBLwYTtsYZK2YWdwyd.png",
+      "rarity": 1,
+      "description": "对于行政手续来说资料是不可或缺的。就算是冠以视察之名的旅游也不例外……"
     },
     {
       "id": 1592,
@@ -4287,6 +4303,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/IPzB9VKSqcuepitQyJg8CfYejDzPu5Nt.png",
       "rarity": 1,
       "description": "以某位伟人的形状制作的交流会限定的人偶。也许是因为想要的学生很多，回收率似乎出乎意料地低..."
+    },
+    {
+      "id": 1987,
+      "name": "特产点心",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/Q7WY8JMYmUzFql2rQr931ZHywSScnR4C.png",
+      "rarity": 1,
+      "description": "特产点心。大家一起吃的话会很美味。"
     },
     {
       "id": 1364,
@@ -4831,6 +4855,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/sJsYowMbVXbLBp1uY3zuZE74skfZ2DUp.png",
       "rarity": 1,
       "description": "亚子严选食材亲手制作而成的巧克力。就如同秘书一样的贴心，有意识地打造出让便于人无意识间入口的巧克力。"
+    },
+    {
+      "id": 1984,
+      "name": "相片卡收藏集",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/pkZ5TRwMaJ6YQKMCVHygx9j6RdMg3K59.png",
+      "rarity": 1,
+      "description": "拿上照片的话，好像就能做成纪念用的相片卡收藏集。从1等奖到无奖，试着集齐吧。"
     },
     {
       "id": 89,
@@ -7807,6 +7839,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/mmWxWvRezJeO12XajDu9YaeemBHEZZDO.png",
       "rarity": 4,
       "description": "Rock＆Bad!便利屋68！凸显法外之徒们欢快身姿、便利屋68的乐队舞台。"
+    },
+    {
+      "id": 1983,
+      "name": "别具风味的桥与池",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/NqerHTARYxXSGUEKhyuGLo6B3vs1I9iy.png",
+      "rarity": 4,
+      "description": "以古风为特点的人造水池。或许偶尔能在这见到小朋友。"
     },
     {
       "id": 707,
@@ -11439,6 +11479,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/YwyLHR3ak7huIrL7ihdaalKyg5l8iam9.png",
       "rarity": 3,
       "description": "给这优雅宴会会场再增一份点缀的书架。塞满了格赫娜学生推荐的名著。"
+    },
+    {
+      "id": 1982,
+      "name": "模型泳池",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/Y0WYMXAulr8SUB1hI5Mizp7QeH550dKt.png",
+      "rarity": 4,
+      "description": "将见过一次就再也难以忘记的美景复现出来的泳池。随时可以享受休假。"
     },
     {
       "id": 1746,
@@ -16593,7 +16641,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=191",
       "path": "items/pages/191.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/191.json",
-      "item_count": 5
+      "item_count": 10
+    },
+    {
+      "page": 192,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=192",
+      "path": "items/pages/192.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/192.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -19508,6 +19563,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1349.json"
     },
     {
+      "id": 1986,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1986",
+      "path": "items/1986.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1986.json"
+    },
+    {
       "id": 169,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/169",
       "path": "items/169.json",
@@ -19644,6 +19705,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1903",
       "path": "items/1903.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1903.json"
+    },
+    {
+      "id": 1985,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1985",
+      "path": "items/1985.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1985.json"
     },
     {
       "id": 1592,
@@ -19800,6 +19867,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1444",
       "path": "items/1444.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1444.json"
+    },
+    {
+      "id": 1987,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1987",
+      "path": "items/1987.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1987.json"
     },
     {
       "id": 1364,
@@ -20208,6 +20281,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/166",
       "path": "items/166.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/166.json"
+    },
+    {
+      "id": 1984,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1984",
+      "path": "items/1984.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1984.json"
     },
     {
       "id": 89,
@@ -22440,6 +22519,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1267",
       "path": "items/1267.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1267.json"
+    },
+    {
+      "id": 1983,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1983",
+      "path": "items/1983.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1983.json"
     },
     {
       "id": 707,
@@ -25164,6 +25249,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1236",
       "path": "items/1236.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1236.json"
+    },
+    {
+      "id": 1982,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1982",
+      "path": "items/1982.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1982.json"
     },
     {
       "id": 1746,
@@ -28031,8 +28122,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1873,
-    "normalized_alias_count": 1873,
-    "total_items": 1905
+    "alias_count": 1879,
+    "normalized_alias_count": 1879,
+    "total_items": 1911
   }
 }

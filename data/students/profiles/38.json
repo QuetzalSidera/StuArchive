@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-06-23T20:03:00Z",
+  "generated_at": "2026-06-24T19:44:32Z",
   "id": 38,
   "display_name": "枣 伊吕波",
   "names": {
@@ -694,7 +694,19 @@
       }
     ],
     "favorite_equipment": {
-      "id": 0
+      "id": 82,
+      "name": "普通的文库本",
+      "name_cn": "",
+      "is_favorite": true,
+      "info": [
+        {
+          "description": "非常普通的文库本。<br>\n既不是初版也不是收藏版，就只是普通的一本书。<br>\n好像从某天开始飘着咖啡的香气。\n",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/UInBc0pjDGCkYWsTt1smqDDx2tJ4HioK.png"
+        }
+      ],
+      "detail_path": "equipments/82.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/82.json"
     },
     "cultivate_materials": [
       {
@@ -2568,8 +2580,8 @@
   "source": {
     "detail_path": "students/38.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/38.json",
-    "upstream_time": 1782245216,
-    "updated_at": 1777310602,
+    "upstream_time": 1782330297,
+    "updated_at": 1782302554,
     "created_at": 1684641679
   }
 }

@@ -2,8 +2,56 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 191,
+    "max_page": 192,
     "item": [
+      {
+        "id": 1010,
+        "name": "游戏开发部标志的背景",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/u31dwMSNKnpWLVRwKULZ45sjiMoZI6C8.png",
+        "rarity": 3,
+        "description": "描绘了游戏开发部重点的背景。可以营造游戏开发部独特的气氛。"
+      },
+      {
+        "id": 996,
+        "name": "游戏开发部的LED灯板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/rHtnQDUoDp9yonrwzBVPDM5Cq65Mvk5Y.png",
+        "rarity": 2,
+        "description": "显示着游戏开发部标志的灯板。给人怀旧的感觉。"
+      },
+      {
+        "id": 1015,
+        "name": "游戏开发部的白板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/em25ONYQaG41i0DxcVP42ZXShpbD2aN1.png",
+        "rarity": 4,
+        "description": "记录了重要内容的白板。可以看到所有部员的涂鸦。"
+      },
+      {
+        "id": 982,
+        "name": "游戏开发部的白色凳子",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/yBDLKFINKxhkVhTRkIeNKxWqpoq8r0QJ.png",
+        "rarity": 2,
+        "description": "填充了棉絮的白色凳子。非常柔软，即使长时间坐着也不会感到疲劳。"
+      },
+      {
+        "id": 999,
+        "name": "游戏开发部的壁挂空调",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/kdpNqiHckRa1KuixSAS5foKHPYr7NoDa.png",
+        "rarity": 2,
+        "description": "能感受到凉爽风的壁挂空调。炎热夏天的必备物品。"
+      },
+      {
+        "id": 994,
+        "name": "游戏开发部的标志牌",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/wPXUq8bq9TkqUBxiylu7XgV9xOi8Y9O6.png",
+        "rarity": 2,
+        "description": "刻有游戏开发部标志的标志牌。这里是游戏开发部的部室！"
+      },
       {
         "id": 985,
         "name": "游戏开发部的部室门",
@@ -35,59 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/VJGwYDbMOZeZuAxKbxLfPpBXdtrC96ls.png",
         "rarity": 4,
         "description": "放置游戏用品的可爱地毯。熊形的地毯营造出了可爱的气氛。"
-      },
-      {
-        "id": 1007,
-        "name": "游戏开发部的粉色毛绒玩偶熊",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/lRelt3R2YnyM8O8XSTa2uoewoRyJauXA.png",
-        "rarity": 3,
-        "description": "可以营造可爱气氛的粉色玩偶熊。给人一种可爱的气氛。"
-      },
-      {
-        "id": 1011,
-        "name": "游戏开发部的个人收纳柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/w0Cha3eF1yloOl8P8MfMQlJHaI2YPkCU.png",
-        "rarity": 4,
-        "description": "收纳了游戏开发部的部员们的东西的收纳柜。展现了部员的个性。"
-      },
-      {
-        "id": 984,
-        "name": "游戏开发部的红色坐垫",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/zLUgKtD6DEod34HU0UZDTQejJoRk8zxU.png",
-        "rarity": 2,
-        "description": "带有方形图案的红色棉絮坐垫。适合任何空间。"
-      },
-      {
-        "id": 998,
-        "name": "游戏开发部的画框",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/fJO3VM1zWWhPBod91KHAXTVL9CJcnTtR.png",
-        "rarity": 2,
-        "description": "可以看到游戏内一幕的画框。能感受到大作的气息！"
-      },
-      {
-        "id": 991,
-        "name": "游戏开发部的计划板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/4ISlbdvsxPOSC7hkoclPGU9zp2i6FGj6.png",
-        "rarity": 2,
-        "description": "游戏开发部的计划板。每天一定要确认！"
-      },
-      {
-        "id": 1833,
-        "name": "游戏开发部的空间",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/uykrKd0WY3g2IGBobyZZWn1J1KEuiDNK.png",
-        "rarity": 4,
-        "description": "游戏开发部设立的、大家可以聚集并自由活动的空间。好像偶尔能看到她们在这里玩。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782245892,
+  "time": 1782331146,
   "version": "1.0.0-beta.43"
 }
