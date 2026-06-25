@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-06-24T19:44:32Z",
+  "generated_at": "2026-06-25T19:59:02Z",
   "id": 85,
   "display_name": "奥空 绫音",
   "names": {
@@ -660,9 +660,14 @@
       "is_favorite": true,
       "info": [
         {
-          "description": "绫音一直戴着的发夹。<br>\n好像特别中意其朴素的那一部分。",
+          "description": "绫音一直戴着的发夹。\n好像特别中意其朴素的那一点。\n - T1\n恢复率 +2000",
           "description_cn": "",
           "icon": "https://static.kivo.wiki/images/equipment/icon/4w70Me5eODEjh4CDRffvpcXGglL5TaKb.png"
+        },
+        {
+          "description": "绫音一直戴着的发夹。\n好像特别中意其朴素的那一点。\n - T1\n恢复率 +2000\n - T2\n「学习支援+」\n每经过30秒，我方STRIKER（突击）学生的暴击抵抗值增加33.3%（持续20秒），施加「救援物资」状态（每场战斗1次）。\n持有「救援物资」的我方的生命值降至45%以下时，消耗对象的「救援物资」并施加治疗力118%的恢复。",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/Qaq7WQ87i3DbL498kUNCf8GW6OC7Wsge.png"
         }
       ],
       "detail_path": "equipments/83.json",
@@ -3291,7 +3296,7 @@
   "source": {
     "detail_path": "students/85.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/85.json",
-    "upstream_time": 1782330400,
+    "upstream_time": 1782417688,
     "updated_at": 1782302536,
     "created_at": 1685117752
   }

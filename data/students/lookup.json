@@ -2,15 +2,15 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-06-24T19:44:32Z",
+  "generated_at": "2026-06-25T19:59:02Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 481,
-  "alias_count": 5535,
+  "total_items": 480,
+  "alias_count": 5537,
   "normalized_alias_count": 3798,
   "by_id": {
     "76": {
@@ -5188,31 +5188,6 @@
       "profile_path": "students/profiles/308.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/308.json"
     },
-    "519": {
-      "id": 519,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 519,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "「香主」",
-        "family_name_jp": "",
-        "given_name_jp": "香主",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E3%80%8C%E9%A6%99%E4%B8%BB%E3%80%8D/original/Common2.png",
-        "school": 7,
-        "main_relation": 136
-      },
-      "detail_path": "students/519.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/519.json",
-      "profile_path": "students/profiles/519.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/519.json"
-    },
     "271": {
       "id": 271,
       "source_path": "students/index.json",
@@ -5298,9 +5273,9 @@
         "skin_jp": "",
         "skin_cn": "",
         "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "叶惠",
-        "family_name_jp": "",
+        "family_name": "宫内",
+        "given_name": "叶",
+        "family_name_jp": "宮内",
         "given_name_jp": "カナエ",
         "family_name_cn": "",
         "given_name_cn": "",
@@ -5331,7 +5306,7 @@
         "given_name_cn": "",
         "avatar": "https://static.kivo.wiki/images/students/%20%E5%92%8C%E7%BE%8E/original/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-24%20204828.png",
         "school": 7,
-        "main_relation": 0
+        "main_relation": 152
       },
       "detail_path": "students/601.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/601.json",
@@ -5569,7 +5544,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
       "item": {
         "id": 598,
-        "skin": "泳装 ",
+        "skin": "泳装",
         "skin_jp": "水着",
         "skin_cn": "泳装",
         "skin_zh_tw": "泳裝",
@@ -5656,7 +5631,7 @@
         "given_name_cn": "",
         "avatar": "https://static.kivo.wiki/images/students/%20%E7%BF%A0%E5%AD%90/original/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-24%20205046.png",
         "school": 7,
-        "main_relation": 0
+        "main_relation": 152
       },
       "detail_path": "students/600.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/600.json",
@@ -5731,7 +5706,7 @@
         "given_name_cn": "",
         "avatar": "https://static.kivo.wiki/images/students/%20%E9%98%B3%E5%AD%90/original/367.png",
         "school": 7,
-        "main_relation": 0
+        "main_relation": 152
       },
       "detail_path": "students/602.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/602.json",
@@ -23801,12 +23776,6 @@
     "タカネ": [
       "308"
     ],
-    "「香主」": [
-      "519"
-    ],
-    "香主": [
-      "519"
-    ],
     "鹿山丽情": [
       "271"
     ],
@@ -23849,7 +23818,19 @@
     "ミナ": [
       "131"
     ],
-    "叶惠": [
+    "宫内叶": [
+      "605"
+    ],
+    "宫内 叶": [
+      "605"
+    ],
+    "叶": [
+      "605"
+    ],
+    "宮内カナエ": [
+      "605"
+    ],
+    "宮内 カナエ": [
       "605"
     ],
     "カナエ": [
@@ -37452,12 +37433,6 @@
     "タカネ": [
       "308"
     ],
-    "「香主」": [
-      "519"
-    ],
-    "香主": [
-      "519"
-    ],
     "鹿山丽情": [
       "271"
     ],
@@ -37488,7 +37463,13 @@
     "ミナ": [
       "131"
     ],
-    "叶惠": [
+    "宫内叶": [
+      "605"
+    ],
+    "叶": [
+      "605"
+    ],
+    "宮内カナエ": [
       "605"
     ],
     "カナエ": [

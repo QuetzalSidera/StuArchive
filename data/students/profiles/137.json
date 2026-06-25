@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-06-24T19:44:32Z",
+  "generated_at": "2026-06-25T19:59:02Z",
   "id": 137,
   "display_name": "角楯 花凛（邦妮）",
   "names": {
@@ -642,9 +642,14 @@
       "is_favorite": true,
       "info": [
         {
-          "description": "市售的渔网袜。<br>\n回忆寄于令人意外的事物上。",
+          "description": "市售的渔网袜。\n回忆寄于令人意外的事物上。\n - T1 \n暴击伤害+2000",
           "description_cn": "",
           "icon": "https://static.kivo.wiki/images/equipment/icon/3wz3QANdGKqDKH2HEkpSRWnWcQdXO1SC.png"
+        },
+        {
+          "description": "市售的渔网袜。\n回忆寄于令人意外的事物上。\n - T1 \n暴击伤害+2000\n - T2\n「广域射击，开始+」\n每经过25秒，攻击类型为神秘的克制伤害增加28.4%（持续18秒）\n对圆形范围内的敌人造成攻击力262%的伤害（此攻击无视敌人44%的防御力）",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/rJv6tLgMPsHRWAkjRp0tC6biSWGyM5uf.png"
         }
       ],
       "detail_path": "equipments/81.json",
@@ -2919,7 +2924,7 @@
   "source": {
     "detail_path": "students/137.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/137.json",
-    "upstream_time": 1782330636,
+    "upstream_time": 1782417938,
     "updated_at": 1782302580,
     "created_at": 1685501311
   }

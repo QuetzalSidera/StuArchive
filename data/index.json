@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "StuArchive",
   "description": "A static JSON mirror of public Blue Archive data exposed by Kivo Wiki.",
-  "generated_at": "2026-06-24T19:44:32Z",
+  "generated_at": "2026-06-25T19:59:02Z",
   "generator": "scripts/sync.py",
   "source": {
     "site": "https://kivo.wiki/",
@@ -26,7 +26,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/",
       "path": "meta/api-root.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/api-root.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "statistics",
@@ -35,7 +35,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/statistics/index",
       "path": "meta/statistics.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/statistics.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-event",
@@ -44,7 +44,10 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/event.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/event.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-24T19:44:32Z",
+      "stale": true,
+      "sync_error": "Network error for https://api.kivo.wiki/api/v1/data/event/now?server=jp: The read operation timed out",
+      "sync_attempted_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-event-jp",
@@ -53,7 +56,10 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/events/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/jp.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-24T19:44:32Z",
+      "stale": true,
+      "sync_error": "Network error for https://api.kivo.wiki/api/v1/data/event/now?server=jp: The read operation timed out",
+      "sync_attempted_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-event-cn",
@@ -62,7 +68,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=cn",
       "path": "current/events/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-raid",
@@ -71,7 +77,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raid.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raid.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-raid-jp",
@@ -80,7 +86,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raids/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/jp.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-raid-cn",
@@ -89,7 +95,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=cn",
       "path": "current/raids/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/cn.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-pick-up",
@@ -100,8 +106,8 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-up.json",
       "fetched_at": "2026-06-22T20:46:55Z",
       "stale": true,
-      "sync_error": "Network error for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: The read operation timed out",
-      "sync_attempted_at": "2026-06-24T19:44:32Z"
+      "sync_error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"当前暂无卡池信息\",\"success\":false,\"time\":1782417614,\"version\":\"1.0.0-beta.43\"}",
+      "sync_attempted_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-pick-up-jp",
@@ -112,8 +118,8 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json",
       "fetched_at": "2026-06-22T20:46:55Z",
       "stale": true,
-      "sync_error": "Network error for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: The read operation timed out",
-      "sync_attempted_at": "2026-06-24T19:44:32Z"
+      "sync_error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"当前暂无卡池信息\",\"success\":false,\"time\":1782417620,\"version\":\"1.0.0-beta.43\"}",
+      "sync_attempted_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "current-pick-up-cn",
@@ -122,7 +128,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=cn",
       "path": "current/pick-ups/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/cn.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "lucky-item",
@@ -131,7 +137,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/lucky_item/",
       "path": "current/lucky-item.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/lucky-item.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "students-birthday-week",
@@ -140,7 +146,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/birthday/week",
       "path": "current/students-birthday-week.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/students-birthday-week.json",
-      "fetched_at": "2026-06-24T19:44:32Z"
+      "fetched_at": "2026-06-25T19:59:02Z"
     },
     {
       "name": "students",
@@ -150,14 +156,14 @@
       "path": "students/index.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
       "list_key": "students",
-      "max_page": 49,
-      "synced_pages": 49,
-      "total_items": 481,
-      "details_synced": 481,
+      "max_page": 48,
+      "synced_pages": 48,
+      "total_items": 480,
+      "details_synced": 480,
       "details_available": true,
       "lookup_path": "students/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-      "lookup_alias_count": 5535,
+      "lookup_alias_count": 5537,
       "lookup_normalized_alias_count": 3798,
       "profile_index_path": "students/profiles/index.json",
       "profile_index_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
@@ -434,18 +440,30 @@
       "lookup_normalized_alias_count": 8
     }
   ],
-  "request_count": 7155,
+  "request_count": 7151,
   "sync_errors": [
+    {
+      "name": "current-event",
+      "path": "/data/event/now?server=jp",
+      "error": "Network error for https://api.kivo.wiki/api/v1/data/event/now?server=jp: The read operation timed out",
+      "kept_stale": true
+    },
+    {
+      "name": "current-event-jp",
+      "path": "/data/event/now?server=jp",
+      "error": "Network error for https://api.kivo.wiki/api/v1/data/event/now?server=jp: The read operation timed out",
+      "kept_stale": true
+    },
     {
       "name": "current-pick-up",
       "path": "/data/pick_up/?server=jp",
-      "error": "Network error for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: The read operation timed out",
+      "error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"当前暂无卡池信息\",\"success\":false,\"time\":1782417614,\"version\":\"1.0.0-beta.43\"}",
       "kept_stale": true
     },
     {
       "name": "current-pick-up-jp",
       "path": "/data/pick_up/?server=jp",
-      "error": "Network error for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: The read operation timed out",
+      "error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"当前暂无卡池信息\",\"success\":false,\"time\":1782417620,\"version\":\"1.0.0-beta.43\"}",
       "kept_stale": true
     }
   ]
