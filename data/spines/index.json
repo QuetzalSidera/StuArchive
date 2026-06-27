@@ -7,13 +7,13 @@
     "api_path": "/data/spines/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/"
   },
-  "generated_at": "2026-06-26T19:45:37Z",
+  "generated_at": "2026-06-27T19:19:07Z",
   "list_key": "spine",
   "id_key": "id",
-  "max_page": 159,
-  "synced_pages": 159,
-  "total_items": 1590,
-  "details_synced": 1590,
+  "max_page": 160,
+  "synced_pages": 160,
+  "total_items": 1591,
+  "details_synced": 1591,
   "details_enabled": true,
   "items": [
     {
@@ -9555,6 +9555,12 @@
       "name": "CH0356_home",
       "remark": "",
       "type": "home"
+    },
+    {
+      "id": 1711,
+      "name": "NP0216_spr_CN",
+      "remark": "国服",
+      "type": "spr"
     }
   ],
   "pages": [
@@ -10670,6 +10676,13 @@
       "path": "spines/pages/159.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/159.json",
       "item_count": 10
+    },
+    {
+      "page": 160,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/?page=160",
+      "path": "spines/pages/160.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/160.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -20212,13 +20225,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1710",
       "path": "spines/1710.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1710.json"
+    },
+    {
+      "id": 1711,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1711",
+      "path": "spines/1711.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1711.json"
     }
   ],
   "lookup": {
     "path": "spines/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/lookup.json",
-    "alias_count": 1587,
-    "normalized_alias_count": 1587,
-    "total_items": 1590
+    "alias_count": 1588,
+    "normalized_alias_count": 1588,
+    "total_items": 1591
   }
 }

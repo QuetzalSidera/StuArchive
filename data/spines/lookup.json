@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-06-26T19:45:37Z",
+  "generated_at": "2026-06-27T19:19:07Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1590,
-  "alias_count": 1587,
-  "normalized_alias_count": 1587,
+  "total_items": 1591,
+  "alias_count": 1588,
+  "normalized_alias_count": 1588,
   "by_id": {
     "1": {
       "id": 1,
@@ -20682,6 +20682,19 @@
       },
       "detail_path": "spines/1710.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1710.json"
+    },
+    "1711": {
+      "id": 1711,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1711,
+        "name": "NP0216_spr_CN",
+        "remark": "国服",
+        "type": "spr"
+      },
+      "detail_path": "spines/1711.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1711.json"
     }
   },
   "by_alias": {
@@ -25448,6 +25461,9 @@
     ],
     "CH0356_home": [
       "1710"
+    ],
+    "NP0216_spr_CN": [
+      "1711"
     ]
   },
   "by_normalized_alias": {
@@ -30214,6 +30230,9 @@
     ],
     "ch0356_home": [
       "1710"
+    ],
+    "np0216_spr_cn": [
+      "1711"
     ]
   }
 }
