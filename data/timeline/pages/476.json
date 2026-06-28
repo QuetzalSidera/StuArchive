@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1163,
+        "line_type": "Globle",
+        "title": "国际服例行维护21",
+        "image": "",
+        "body_summary": "[8/23 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/23 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1561548715164217345",
+        "start_time": 1661223628,
+        "end_time": 1661238028
+      },
+      {
+        "id": 1164,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍8",
+        "image": "https://static.kivo.wiki/images/timeline/yrAml8rI3kIktB53PwAmNptW3qE5GwJD.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 8/22(Mon), the amount of rewards dropped in Commissions will be ",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1561578915931602945",
+        "start_time": 1661194807,
+        "end_time": 1661713147
+      },
       {
         "id": 414,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1555750768728502272",
         "start_time": 1660035600,
         "end_time": 1660679999
-      },
-      {
-        "id": 404,
-        "line_type": "JP",
-        "title": "主线剧情Vol.3「エデン条約」篇第4章「忘れられた神々のためのキリエ」后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/9Qtc7rkXKOONX5usWvEHTFInVuaJUX28.jpg",
-        "body_summary": "【メインストーリー追加・予告】 儀式のタイムリミット―日の出が目前に迫る中、サオリとミカの最後の戦いが幕を開ける。 引き金を引く指先が示す夜明けは果たして― Vol.3「エデン条約」編 第4章「忘れら",
-        "type": "MainStory",
-        "url": "twitter.com/Blue_ArchiveJP/status/1554663429784621056",
-        "start_time": 1660035600,
-        "end_time": 1660035600
-      },
-      {
-        "id": 1159,
-        "line_type": "Globle",
-        "title": "国际服活动「New Year's Rhapsody No. 68」青辉石礼物",
-        "image": "https://static.kivo.wiki/images/timeline/5Fom1YNOfquL7AMLZBiYM9j7UQOCUWUD.jpg",
-        "body_summary": "[New Year's Rhapsody No. 68 Celebration Gift] Sensei, Schale prepared a celebration gift for the new",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1556900586230108163",
-        "start_time": 1660029006,
-        "end_time": 1660029006
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594498,
+  "time": 1782682662,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3049,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习25",
+        "image": "https://static.kivo.wiki/images/timeline/fAMSJwMRUnTsKmnUIQpqWpFQQ36G2AV3.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Escort Drill) will start on 9/3 (Tue)! ➡️Offici",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1828688970311516501",
+        "start_time": 1725357600,
+        "end_time": 1725962400
+      },
+      {
+        "id": 3109,
+        "line_type": "Globle",
+        "title": "韩服MOM'S TOUCH联动发推活动",
+        "image": "https://static.kivo.wiki/images/timeline/tKBl74Y5xKc39lc5Y8M8s6rd493KPCcW.jpg",
+        "body_summary": "[맘스터치 커뮤니티 이벤트 안내] 선생님, 맘스터치 콜라보를 기념하여 X(트위터) 해시태그 이벤트를 진행합니다! 참여하신 분들 중 추첨을 통해 매주 맘스터치 메뉴를 선물로 드려요.",
+        "type": "WebEvent",
+        "url": "x.com/KR_BlueArchive/status/1830781599270740180",
+        "start_time": 1725336000,
+        "end_time": 1727629200
+      },
       {
         "id": 3108,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/Ouvuvomnm",
         "start_time": 1724911500,
         "end_time": 1724911500
-      },
-      {
-        "id": 3039,
-        "line_type": "CN",
-        "title": "总力战 切赛德 • 野外战 3",
-        "image": "https://static.kivo.wiki/images/timeline/JiMXondRdHWxP1ZMcITdi88DlrU4OOkR.jpg",
-        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前在基沃托斯各地出没。 切赛德是神名十文字的第4个先知，它已经掌控了千禧年外围的废弃兵工厂的生产系统。 如果切赛德成功生产出无限的兵",
-        "type": "Raid",
-        "url": "weibo.com/6011443154/Ou4Kf59Y0",
-        "start_time": 1724911213,
-        "end_time": 1725479953
-      },
-      {
-        "id": 3040,
-        "line_type": "CN",
-        "title": "特别委托3倍7",
-        "image": "https://static.kivo.wiki/images/timeline/9GJJEpL9Ln8zZVp8CMedRzIwfpXPZles.jpg",
-        "body_summary": "【特别委托】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【特别委托】道具掉落量3倍 ■ 活动时间 08月29日 04:00 ",
-        "type": "Double",
-        "url": "weibo.com/6011443154/OueaJC9UL",
-        "start_time": 1724875215,
-        "end_time": 1725479955
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594279,
+  "time": 1782682382,
   "version": "1.0.0-beta.43"
 }

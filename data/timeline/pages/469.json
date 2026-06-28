@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 450,
+        "line_type": "JP",
+        "title": "Area20开放",
+        "image": "https://static.kivo.wiki/images/timeline/LVJFVdy6O49sX8f9k2OHGc5VGWkB4L72.jpg",
+        "body_summary": "【エリア解放予告】 メンテナンス終了後、「任務 Area20」が開放されます！ 「Area20」では新たな「T7装備」が獲得できる他、「任務 Hard」20-3では一定確率でイオリさんの「神名文字」が",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1575002401614213121",
+        "start_time": 1664362800,
+        "end_time": 1664362800
+      },
+      {
+        "id": 449,
+        "line_type": "JP",
+        "title": "登录奖励「晄輪大祭開催記念ログインボーナス」",
+        "image": "https://static.kivo.wiki/images/timeline/ttMNLbELWdJbEnc3aTiNG00xnDOxtEYb.jpg",
+        "body_summary": "【お知らせ】 現在行われているメンテナンス終了後より「晄輪大祭開催記念ログインボーナス」が開催されます！ 開催期間中のログインで最大600個の「青輝石」や、限定家具「大運動会のトロフィー陳列台」が獲得",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1574987292673835009",
+        "start_time": 1664362800,
+        "end_time": 1665543599
+      },
       {
         "id": 446,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1574579579401826305",
         "start_time": 1664244039,
         "end_time": 1664244039
-      },
-      {
-        "id": 1195,
-        "line_type": "Globle",
-        "title": "国际服任务normal3倍2 hard3倍2",
-        "image": "https://static.kivo.wiki/images/timeline/UtT5ZCN7gS0pvXIhBAMV0LFF44iuoC2p.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions will be tripled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1573930301256077315",
-        "start_time": 1664218836,
-        "end_time": 1664823576
-      },
-      {
-        "id": 443,
-        "line_type": "JP",
-        "title": "活动「On your mark ＠ millennium～キヴォトス晄輪大祭～」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPV公開です！ 2年毎に各学園で交互に開催される一大イベント、キヴォトス大運動会、通称「晄輪大祭」。今回ミレニアムで開催だそうですが、直前とはいえ皆さんやけに忙しそうです",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1574232587643461633",
-        "start_time": 1664164800,
-        "end_time": 1664164800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594492,
+  "time": 1782682653,
   "version": "1.0.0-beta.43"
 }

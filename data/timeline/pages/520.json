@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 847,
+        "line_type": "Globle",
+        "title": "国际服卡池 真白",
+        "image": "https://static.kivo.wiki/images/timeline/snKkJn38QfQrXjuNhQdb35rH12RG97NL.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] 3★ Mashiro Pick-Up Recruitment will begin on 11/16 (Tue)! Period: 11/1",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1459445803307601925",
+        "start_time": 1637046000,
+        "end_time": 1638154800
+      },
+      {
+        "id": 846,
+        "line_type": "Globle",
+        "title": "国际服总力战BETA Binah (Field)",
+        "image": "https://static.kivo.wiki/images/timeline/H0d2uzZ4FiB9CBAq5QvEL9FjlItYWmiL.jpg",
+        "body_summary": "[Total Assault · BETA Preview] Total Assault · BETA - Binah (Field Warfare) will be held on 11/16 (T",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1459415737919967236",
+        "start_time": 1637046000,
+        "end_time": 1637593200
+      },
       {
         "id": 859,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1458313475512356864",
         "start_time": 1636524000,
         "end_time": 1636524000
-      },
-      {
-        "id": 354,
-        "line_type": "JP",
-        "title": "市街地戦・KAITEN FX Mk.0 1",
-        "image": "",
-        "body_summary": "【総力戦開催中】 先生！本拠地までの行く手を遮るかのように、カイテンジャーたちの秘密兵器が登場しました！ 合体ロボは確かにロマンですが、これまでの行いを考えると、このまま楽しく見ているというわけには行",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1458283609748819968?s=20",
-        "start_time": 1636473872,
-        "end_time": 1636992272
-      },
-      {
-        "id": 981,
-        "line_type": "JP",
-        "title": "特殊作战「デカグラマトン編」 1",
-        "image": "https://static.kivo.wiki/images/timeline/0ME5hZqSt3HI12dTKRpu2ZZ6Nw8TM02d.jpg",
-        "body_summary": "【新情報 ⑮】 不定期開催の新コンテンツ「特殊作戦」が実装決定です！ メインストーリーで語られなかった部分を紐解く「特殊作戦」ですが、今回の「デカグラマトン編」では、エイミさんの所属「特異現象捜査部」",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1450070929422184450",
-        "start_time": 1636444813,
-        "end_time": 1637726413
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594540,
+  "time": 1782682714,
   "version": "1.0.0-beta.43"
 }

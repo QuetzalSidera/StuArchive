@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1925,
+        "line_type": "JP",
+        "title": "限定卡池「天に仕うはすべて音」&「我等がために宙は鳴る！」卡池复刻「色は隠れど 咲きぬるを」",
+        "image": "https://static.kivo.wiki/images/timeline/yJoCoWB7pRWWkwC1VIhDFt2Phb5NUrJr.jpg",
+        "body_summary": "【新情報③】 期間限定ピックアップ募集「天に仕うはすべて音」、「我等がために宙は鳴る！」、復刻ピックアップ募集「色は隠れど 咲きぬるを」が開催されます。 🔷開催期間 1/24(水) メンテナンス後 ~",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1748974085290500398",
+        "start_time": 1706090436,
+        "end_time": 1706669976
+      },
+      {
+        "id": 2066,
+        "line_type": "JP",
+        "title": "3周年直播转场动画公开",
+        "image": "https://static.kivo.wiki/images/timeline/HVrEfbziy3ScESw9vaLjAfqvvALMPdfN.png",
+        "body_summary": "【3rdアニバーサリー】 先日の「ブルアカふぇす！～3きゅーべりーまっち、先生♪～ スペシャルステージ」でのコーナー紹介を1つにしアップしました。 本配信時は不具合が発生し一部配信できておらず、ご迷惑",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1750073692963668125",
+        "start_time": 1706088600,
+        "end_time": 1706088600
+      },
       {
         "id": 2044,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1748231313528889803",
         "start_time": 1705975225,
         "end_time": 1706579965
-      },
-      {
-        "id": 2027,
-        "line_type": "Globle",
-        "title": "国际服卡池「Take joy in deep sea fishing. I'll share my catch with you, Sensei.」",
-        "image": "https://static.kivo.wiki/images/timeline/VfRos8cEDd10gYRGy4k3J2UdX5GcukVk.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 1/23 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1748223767510430202",
-        "start_time": 1705975223,
-        "end_time": 1706579963
-      },
-      {
-        "id": 2030,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Abydos Resort Restoration Task Force」",
-        "image": "https://static.kivo.wiki/images/timeline/2txNR2XnOZcZ3f1REI0VgtuPpjs8tjHR.jpg",
-        "body_summary": "[Event Preview] Sensei, 'Abydos Resort Restoration Task Force' event is coming back soon! If you mis",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1748238864336953744",
-        "start_time": 1705975221,
-        "end_time": 1706579961
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594370,
+  "time": 1782682496,
   "version": "1.0.0-beta.43"
 }

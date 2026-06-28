@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 713,
+        "line_type": "JP",
+        "title": "任务Normal2倍#27",
+        "image": "https://static.kivo.wiki/images/timeline/1GmLhfTnMNB9ThiR6Zeige9fkjXYCJ8A.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが、7/5(水)より開催します！ ▼開催期間 7/5(水)4:00 〜 7/12(水)3:59 「装備設計図」な",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1675338818210402304",
+        "start_time": 1688500800,
+        "end_time": 1689105599
+      },
+      {
+        "id": 1460,
+        "line_type": "Globle",
+        "title": "国际服总力战 Hieronymus (Indoor) 4",
+        "image": "https://static.kivo.wiki/images/timeline/niyzI7JubG2htMK3BIAIuWHpJlpoCekY.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Hieronymus (Indoor Warfare) has opened 7/4 (Tue) 2:0",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1676123682018586629",
+        "start_time": 1688436010,
+        "end_time": 1689015610
+      },
       {
         "id": 1458,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1673964454172565504",
         "start_time": 1687939252,
         "end_time": 1687939252
-      },
-      {
-        "id": 708,
-        "line_type": "JP",
-        "title": "大决战BETA：市街地戦・ビナー",
-        "image": "https://static.kivo.wiki/images/timeline/SeGA0BvpBzdT0aKG358EEoofjJDN3Ebx.jpg",
-        "body_summary": "【大決戦(BETA版)予告】 6月28日(水)11:00より、新コンテンツ・大決戦「市街地戦・ビナー」を開催します！ 防御タイプの異なる「ビナー」をそれぞれ倒して「大決戦コイン」を獲得し、「大決戦ショ",
-        "type": "BigRaid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1672801897437351937",
-        "start_time": 1687921200,
-        "end_time": 1688500799
-      },
-      {
-        "id": 711,
-        "line_type": "JP",
-        "title": "特别依赖2倍#32",
-        "image": "https://static.kivo.wiki/images/timeline/PZgqnBrlFhg82GioocADgVDleLLI8qIE.jpg",
-        "body_summary": "【キャンペーン予告】 6/28(水)より、「特別依頼」において各種「レポート」や「クレジット」の報酬ドロップ量が2倍になるキャンペーンを開始します！ ▼開催期間 2023/6/28(水)4:00 ~ ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1673526996364820480",
-        "start_time": 1687896000,
-        "end_time": 1688500799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594437,
+  "time": 1782682579,
   "version": "1.0.0-beta.43"
 }

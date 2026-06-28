@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 953,
+        "line_type": "JP",
+        "title": "社团剧情「C&C」追加",
+        "image": "",
+        "body_summary": "【ストーリー】 ・C&Cグループのストーリー1話を新規追加 ・C&Cグループのストーリー紹介ビジュアルに新規イラスト追加",
+        "type": "OtherStory",
+        "url": "bluearchive.jp/news/newsJump/153",
+        "start_time": 1632916800,
+        "end_time": 1632916800
+      },
+      {
+        "id": 182,
+        "line_type": "JP",
+        "title": "屋外戦・KAITEN FX Mk.0 2",
+        "image": "https://static.kivo.wiki/images/timeline/KK3AmjqzpK5AY225TBJjymGGlaC5AiFb.jpg",
+        "body_summary": "【総力戦予告】 まもなく総力戦「屋外戦・KAITEN FX Mk.0」が開催です！ カイテンジャーを退け、順位に応じたトロフィー獲得の為に頑張ってください...！ 「屋外戦・KAITEN FX Mk.",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1442429018846892041",
+        "start_time": 1632916800,
+        "end_time": 1633449599
+      },
       {
         "id": 181,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1439439377558503425",
         "start_time": 1632391200,
         "end_time": 1632671999
-      },
-      {
-        "id": 180,
-        "line_type": "JP",
-        "title": "例行维护24",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/23(木) 12:00 〜 18:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1440556545285058560",
-        "start_time": 1632369600,
-        "end_time": 1632391200
-      },
-      {
-        "id": 177,
-        "line_type": "JP",
-        "title": "特别依赖2倍#9",
-        "image": "https://static.kivo.wiki/images/timeline/GmOxKXehT2wICY3yZ4Tkwz8PXRgyU6Ph.jpg",
-        "body_summary": "【キャンペーン予告】 9/23(木)04:00から「特別依頼」において「レポート」と「クレジット」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2021/09/23(木)04:00",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1439801757794664454",
-        "start_time": 1632340800,
-        "end_time": 1632859199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594546,
+  "time": 1782682721,
   "version": "1.0.0-beta.43"
 }

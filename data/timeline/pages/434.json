@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1354,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习7",
+        "image": "https://static.kivo.wiki/images/timeline/zH4uFl55QV5reSxERA3kXVIjYDUC7j8e.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Shooting Drill) has opened, at 02:00 AM on ",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1637997457983373313",
+        "start_time": 1679364003,
+        "end_time": 1679943543
+      },
+      {
+        "id": 1356,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍13 hard2倍13",
+        "image": "https://static.kivo.wiki/images/timeline/2i5tO6rzjOq16RwbJQoMc21ogrIIQP2i.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1636985792513052672",
+        "start_time": 1679338822,
+        "end_time": 1679943562
+      },
       {
         "id": 609,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1634086687314771968",
         "start_time": 1678780807,
         "end_time": 1679364007
-      },
-      {
-        "id": 1349,
-        "line_type": "Globle",
-        "title": "国际服例行维护34",
-        "image": "",
-        "body_summary": "[3/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 3/14 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1634131985416302592",
-        "start_time": 1678759215,
-        "end_time": 1678780815
-      },
-      {
-        "id": 1350,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍12",
-        "image": "https://static.kivo.wiki/images/timeline/lejFJCfXwxltsfI5oi2rcWaVsiUBQo6l.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 3/13 (Mon), Commissions rewards will be doubled! Don't miss ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1634449078091415554",
-        "start_time": 1678734051,
-        "end_time": 1679338791
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594458,
+  "time": 1782682608,
   "version": "1.0.0-beta.43"
 }

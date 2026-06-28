@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 348,
+        "line_type": "JP",
+        "title": "主线关卡开放：Area19",
+        "image": "https://static.kivo.wiki/images/timeline/cKcGhtagy62IwbRF3PZeDRCqkDEc1bWd.jpg",
+        "body_summary": "【エリア解放予告】 「任務 Area19」がメンテナンス後より解放されます！ 「Area19」では新たに「T7装備」が獲得できるほか、「任務 Hard」19-3では一定確率でイズナさんの「神名文字」が",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1529024465010839553?s=20",
+        "start_time": 1653390000,
+        "end_time": 1653390000
+      },
+      {
+        "id": 1106,
+        "line_type": "Globle",
+        "title": "国际服任务normal3倍1 hard3倍1",
+        "image": "https://static.kivo.wiki/images/timeline/05hRp5s4ChuCOrmK0uy4OgcchA8iegVz.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions will be tripled in celebrat",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1528299631255228418",
+        "start_time": 1653332455,
+        "end_time": 1653937195
+      },
       {
         "id": 353,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1524313365073432576",
         "start_time": 1652770825,
         "end_time": 1653317965
-      },
-      {
-        "id": 1104,
-        "line_type": "Globle",
-        "title": "国际服网页活动「Send a MOMO TALK to cheer on THE BUNNY CHASERS!」",
-        "image": "https://static.kivo.wiki/images/timeline/gXx6N4gT3ismY2irpSSTV0tmBSRwZO1c.jpg",
-        "body_summary": "The first merch bundle of Blue Archive 0.5-Year Anniversary Festival Celebration is out now! Will yo",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1526431065149124608",
-        "start_time": 1652764532,
-        "end_time": 1652764532
-      },
-      {
-        "id": 1103,
-        "line_type": "Globle",
-        "title": "国际服例行维护14",
-        "image": "",
-        "body_summary": "[5/17 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 5/17 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1526034705442807809",
-        "start_time": 1652756401,
-        "end_time": 1652770801
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594511,
+  "time": 1782682678,
   "version": "1.0.0-beta.43"
 }

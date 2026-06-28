@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4724,
+        "line_type": "Globle",
+        "title": "国际服任务Hard2倍 #41",
+        "image": "https://static.kivo.wiki/images/timeline/I84UmmoyPSF0maFkX5ObUkvAZTqH62SQ.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1992128412975059057?s=19",
+        "start_time": 1764010800,
+        "end_time": 1764615599
+      },
+      {
+        "id": 4750,
+        "line_type": "CN",
+        "title": "蔚蓝档案 × 上海同济大学深海探索馆 联动活动将于11月29日正式开启！",
+        "image": "https://static.kivo.wiki/images/timeline/dPYltQXCLB9HcWaql1zmPgRbK64P7bQO.jpg",
+        "body_summary": "蔚蓝档案 × 上海同济大学深海探索馆 联动活动将于11月29日正式开启！ 🐬联动时间🐬 预约开启：2025年11月24日 18:00 场馆开放：2025年11月29日 🐬场馆地点🐬 上海市杨浦区四平路",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/Qf9uUjNu4",
+        "start_time": 1763992716,
+        "end_time": 1764424716
+      },
       {
         "id": 4719,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/QcqAGa1ou",
         "start_time": 1763627256,
         "end_time": 1764232056
-      },
-      {
-        "id": 4730,
-        "line_type": "CN",
-        "title": "例行维护 #48",
-        "image": "https://static.kivo.wiki/images/timeline/CuOP0COMQATpLxqrvu6MiPQYhlYWoymu.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 11月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405234755380838764",
-        "start_time": 1763618460,
-        "end_time": 1763632860
-      },
-      {
-        "id": 5013,
-        "line_type": "JP",
-        "title": " 制约解除决战：Chokmah #6",
-        "image": "",
-        "body_summary": "【制約解除決戦・開催】 先生！キヴォトス極地の火山に「コクマー」が姿を現しました！ 「コクマー」のEXスキル「夜明けを待つ」が発動すると、戦闘が終了するまで火炎放射を浴びることになってしまいます…。 ",
-        "type": "MiniBattle",
-        "url": "x.com/i/status/1991326451644395663",
-        "start_time": 1763582400,
-        "end_time": 1766519999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594124,
+  "time": 1782682184,
   "version": "1.0.0-beta.43"
 }

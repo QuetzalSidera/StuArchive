@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4595,
+        "line_type": "CN",
+        "title": "活动【与联邦理事会一起 沙勒总决算】 #6",
+        "image": "https://static.kivo.wiki/images/timeline/Tzb7FTGuMTMAj4ssT99xAU75XjQywjhS.jpg",
+        "body_summary": "【与联邦理事会一起 沙勒总决算】活动预告 ■ 活动时间 • 活动持续时间：10月16日 04:00 ~ 10月30日 13:59 • 商店兑换时间：10月16日 04:00 ~ 11月06日 13:5",
+        "type": "Event",
+        "url": "weibo.com/6011443154/Q9drbACJM",
+        "start_time": 1760558400,
+        "end_time": 1761803999
+      },
+      {
+        "id": 4543,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍 #13",
+        "image": "https://static.kivo.wiki/images/timeline/aa6z8p9LgZJ79bPWndDgtjGTwqn6SZPm.png",
+        "body_summary": "【任务（普通难度）】道具掉落量3倍 开启时间：10月16日 04:00 ~ 10月20日 03:59 活动期间，完成【任务（普通难度）】时，获得的道具掉落奖励数量变为3倍。",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/1118327022668480566",
+        "start_time": 1760558400,
+        "end_time": 1760903999
+      },
       {
         "id": 4605,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1976543218990006593",
         "start_time": 1760403600,
         "end_time": 1761008399
-      },
-      {
-        "id": 4572,
-        "line_type": "Globle",
-        "title": "国际服大决战Shiro & Kuro (Indoor) #3",
-        "image": "https://static.kivo.wiki/images/timeline/jllsJYbNuIAuHmr7SBnDYxUUEJcq6Uc1.jpg",
-        "body_summary": "[Grand Assault Preview] The Grand Assault - Shiro & Kuro (Indoor Warfare) will start on 10/14 (Tue)!",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/1975818445137596909",
-        "start_time": 1760403600,
-        "end_time": 1760983199
-      },
-      {
-        "id": 4576,
-        "line_type": "Globle",
-        "title": "国际服任务Hard2倍 #39",
-        "image": "https://static.kivo.wiki/images/timeline/rIW3QgzPqUacxSfl8QhOjObMNJoaFWOz.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1976908122615955668",
-        "start_time": 1760382000,
-        "end_time": 1760986800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594137,
+  "time": 1782682201,
   "version": "1.0.0-beta.43"
 }

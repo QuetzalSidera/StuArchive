@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4134,
+        "line_type": "Globle",
+        "title": "蔚蓝档案正式加入 AX2025 专题讨论会！",
+        "image": "https://static.kivo.wiki/images/timeline/tfi8tSApX2JWr8XSgG0enNsw2LsZfeLx.jpg",
+        "body_summary": "📢 Blue Archive Q&A Event – Leading Up to AX2025! We’re thrilled to announce a special Q&A event ahea",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/1935633670943236395",
+        "start_time": 1751522856,
+        "end_time": 1751522856
+      },
+      {
+        "id": 4179,
+        "line_type": "CN",
+        "title": "例行维护 #40",
+        "image": "https://static.kivo.wiki/images/timeline/NOGLoDZpLAau34e1M9Bxk0yAZ760LjxR.gif",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月03日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "bluearchive-cn.com/news/1463",
+        "start_time": 1751522400,
+        "end_time": 1751536800
+      },
       {
         "id": 4185,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1937770163820200200",
         "start_time": 1751335200,
         "end_time": 1751939999
-      },
-      {
-        "id": 4155,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Aris the hero, maid edition, is here to be with you, Master!」2&「We have a huge problem, Sensei. I am bored.」2&「Welcome, Master! I'll become the perfect maid.」&「You're here, Master! I'm bored. Let's play games together!」",
-        "image": "https://static.kivo.wiki/images/timeline/8NckE49ZsiNDx3loVScyxBbVqkOKrL4f.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 7/1 (Tue)! 💌Pick-Up St",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1938496268168479189",
-        "start_time": 1751335200,
-        "end_time": 1751939999
-      },
-      {
-        "id": 4157,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍 #29",
-        "image": "https://static.kivo.wiki/images/timeline/90KQZ61unCRxGfUvaGtE9BTHwEvWU0op.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 6/30 (Mon), Scrimmage reward will be doubled! Don't miss out",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1938857397524566403",
-        "start_time": 1751310000,
-        "end_time": 1751914799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594175,
+  "time": 1782682249,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 945,
+        "line_type": "JP",
+        "title": "总力战扫荡、战术对抗战跳过最后一分钟等功能追加",
+        "image": "",
+        "body_summary": "【総力戦】 ・「ロビー」画面、および「お仕事」画面に「総力戦オープン」の通知が表示されるように調整。 ・掃討機能の追加 ※1日1回、特定の難易度をクリアすると当該難易度の残り回数は掃討可能になります。",
+        "type": "ContentImprovements",
+        "url": "bluearchive.jp/news/newsJump/129",
+        "start_time": 1622116800,
+        "end_time": 1622116800
+      },
+      {
+        "id": 944,
+        "line_type": "JP",
+        "title": "日程区域「ミレニアム・スタディーエリア 」追加，区域等级上限提升至12，建筑等级上限提升至6",
+        "image": "https://static.kivo.wiki/images/timeline/iccMfAi3MN9qsPeXSs1r8xtBcZejsZHW.png",
+        "body_summary": "・ 新規ロケーション「ミレニアム・スタディーエリア 」を追加 ※ ミレニアム生徒を10人以上お迎えると、こちらのロケーションがオープンされます ・ロケーションランクの上限を10から12までに解放 ・各",
+        "type": "ContentImprovements",
+        "url": "bluearchive.jp/news/newsJump/129",
+        "start_time": 1622116800,
+        "end_time": 1622116800
+      },
       {
         "id": 943,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/129",
         "start_time": 1622059228,
         "end_time": 1622663968
-      },
-      {
-        "id": 1812,
-        "line_type": "JP",
-        "title": "特别依赖2倍#5",
-        "image": "https://static.kivo.wiki/images/timeline/ttgxeNFpG9jwD8R4Qs7lWyCEa52UNaq2.png",
-        "body_summary": "（7）育成キャンペーン「特別依頼報酬2倍UP」開催 開催期間：2021年05月27日（木）04:00〜 2021年06月10日（木）03:59 開催期間中、「特別依頼」の報酬アイテムのドロップ量が2倍",
-        "type": "Double",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622059209,
-        "end_time": 1623268749
-      },
-      {
-        "id": 1819,
-        "line_type": "JP",
-        "title": "任务Hard2倍#3",
-        "image": "https://static.kivo.wiki/images/timeline/LlfMrFUw6ASaQBwVjWOczNZ7fk5LRY4Q.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 5月24日(月)04:00〜5月27日(木)03:59 この機会に生徒さんの神名文字",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1395650843274137602",
-        "start_time": 1621800053,
-        "end_time": 1622059193
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594556,
+  "time": 1782682732,
   "version": "1.0.0-beta.43"
 }

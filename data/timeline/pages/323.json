@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2270,
+        "line_type": "Globle",
+        "title": "国际服例行维护56",
+        "image": "",
+        "body_summary": "[3/12 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 3/12 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1766026068371345635",
+        "start_time": 1710208828,
+        "end_time": 1710226828
+      },
+      {
+        "id": 2271,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍24",
+        "image": "https://static.kivo.wiki/images/timeline/3b7femiAjtdoD00MKr9jCQopNqBatdn6.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 3/11 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1766358257885471133",
+        "start_time": 1710183616,
+        "end_time": 1710788356
+      },
       {
         "id": 2272,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1764878880979206592",
         "start_time": 1709715600,
         "end_time": 1710903599
-      },
-      {
-        "id": 2162,
-        "line_type": "JP",
-        "title": "活动「喰積の 前にいささか ～一番勝負～」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/PFeVpztdq2WFEmVT4bqaqRU9JPZvsXAV.jpg",
-        "body_summary": "【復刻イベント予告】 先生、お疲れ様です。 最近も色んな依頼で大忙しですね。 そういえば、前にはハルナさん達に捕まって、協力を頼まれたこともありましたね。 その時のこと思い出してみましょう！ 復刻イベ",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1762765005785821665",
-        "start_time": 1709715600,
-        "end_time": 1710298799
-      },
-      {
-        "id": 2161,
-        "line_type": "JP",
-        "title": "联合火力演习25",
-        "image": "https://static.kivo.wiki/images/timeline/7Dl5fTqSTnyy2xoI0H3SmLrrQTh6sAeB.jpg",
-        "body_summary": "【合同火力演習・予告】 3月6日(水)メンテナンス後、合同火力演習「護衛演習」が開幕します！ 今回の演習では、アバンギャルド君に付与される能力値関連のバフ効果が、そのまま味方生徒さん達に複製されるよう",
-        "type": "MiniBattle",
-        "url": "twitter.com/Blue_ArchiveJP/status/1763762248278020285",
-        "start_time": 1709715600,
-        "end_time": 1710298799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594353,
+  "time": 1782682475,
   "version": "1.0.0-beta.43"
 }

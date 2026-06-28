@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 292,
+        "line_type": "JP",
+        "title": "引导任务「シャーレの任務ガイド」",
+        "image": "https://static.kivo.wiki/images/timeline/kALPEJZaoV6hE2OJNyHTulD7skN3wkYb.jpg",
+        "body_summary": "【ガイドミッション】 今回のメンテナンス後、イベントミッション「シャーレの任務ガイド」が開始します。 期間中ミッションクリアで、育成素材やサキさんのモーション付きの家具などの報酬が獲得できるほか、イベ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1506526420050509827",
+        "start_time": 1648033200,
+        "end_time": 1650470399
+      },
+      {
+        "id": 290,
+        "line_type": "JP",
+        "title": "卡池「こちらRABBIT1、理想をこの眼に」＆「こちらRABBIT2、規範はこの脚に」",
+        "image": "https://static.kivo.wiki/images/timeline/GZJZYS2PiZ6sn8yKKm9MhY4ZtnNO6BJ9.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「こちらRABBIT1、理想をこの眼に」＆「こちらRABBIT2、規範はこの脚に」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ミヤコ(CV：#藤田茜) ",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1506133614215700484",
+        "start_time": 1648033200,
+        "end_time": 1649214000
+      },
       {
         "id": 288,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1506173834805878784",
         "start_time": 1647934200,
         "end_time": 1647934200
-      },
-      {
-        "id": 1051,
-        "line_type": "Globle",
-        "title": "国际服卡池「It's all to protect morality on the beach!」",
-        "image": "https://static.kivo.wiki/images/timeline/rBAYZGgUT3ersaLPLSBVdEl1KRyS1yzw.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 3/22 (Tue)! Target Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1505106824583778305",
-        "start_time": 1647934200,
-        "end_time": 1649127600
-      },
-      {
-        "id": 1049,
-        "line_type": "Globle",
-        "title": "国际服活动「Head Prefect Hina's Summer Break!」",
-        "image": "https://static.kivo.wiki/images/timeline/vVCo5IcrFXYGKJ8hmplU1OwWJfeHNk5i.jpg",
-        "body_summary": "[New Event Preview] The summer of Kivotos continues! Featuring Gehenna's Prefect Team in the new eve",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1504714218301538304",
-        "start_time": 1647934200,
-        "end_time": 1649127600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594520,
+  "time": 1782682689,
   "version": "1.0.0-beta.43"
 }

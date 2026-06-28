@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1801,
+        "line_type": "JP",
+        "title": "圣诞节登录奖励2",
+        "image": "https://static.kivo.wiki/images/timeline/O2vBgP2vvCo5SwGWuRXJGO41MJDCRhH1.jpg",
+        "body_summary": "【リマインド】 現在、最大600個の「青輝石」や、家具モーション付限定家具「暖かなクリスマス暖炉」が獲得できる、「Merry Christmas! アロナの特別プレゼント!」が開催中です！ 今日から始",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1605397841392041984",
+        "start_time": 1671008426,
+        "end_time": 1672167626
+      },
+      {
+        "id": 520,
+        "line_type": "JP",
+        "title": "例行维护58　（提前结束）",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/14(水) 11:00 〜 19:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1602181521875816448",
+        "start_time": 1670986800,
+        "end_time": 1671010200
+      },
       {
         "id": 517,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1598874824541343744",
         "start_time": 1670382000,
         "end_time": 1670382000
-      },
-      {
-        "id": 514,
-        "line_type": "JP",
-        "title": "特别依赖2倍#25",
-        "image": "https://static.kivo.wiki/images/timeline/lObgrEyXEK5NGJees5A2juZmDUieTZif.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「特別依頼」にて報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2022/12/7(水)4:00 ~ 2022/12/14(水)3:59 先生、「レポ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1599599702055714816",
-        "start_time": 1670356800,
-        "end_time": 1670961599
-      },
-      {
-        "id": 1266,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍2",
-        "image": "https://static.kivo.wiki/images/timeline/F5xmKCJrF1vdtbk4QcioC712CAuFrMOL.jpg",
-        "body_summary": "[Double Drop Campaign Preview] For 7 days from 12/6 (Tue), rewards dropped in Scrimmages will be dou",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1599297452674203650",
-        "start_time": 1670292603,
-        "end_time": 1670871543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594477,
+  "time": 1782682634,
   "version": "1.0.0-beta.43"
 }

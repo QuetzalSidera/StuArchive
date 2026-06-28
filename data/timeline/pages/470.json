@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1195,
+        "line_type": "Globle",
+        "title": "国际服任务normal3倍2 hard3倍2",
+        "image": "https://static.kivo.wiki/images/timeline/UtT5ZCN7gS0pvXIhBAMV0LFF44iuoC2p.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions will be tripled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1573930301256077315",
+        "start_time": 1664218836,
+        "end_time": 1664823576
+      },
+      {
+        "id": 443,
+        "line_type": "JP",
+        "title": "活动「On your mark ＠ millennium～キヴォトス晄輪大祭～」PV公开",
+        "image": "",
+        "body_summary": "【イベントPV】 新イベントのPV公開です！ 2年毎に各学園で交互に開催される一大イベント、キヴォトス大運動会、通称「晄輪大祭」。今回ミレニアムで開催だそうですが、直前とはいえ皆さんやけに忙しそうです",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1574232587643461633",
+        "start_time": 1664164800,
+        "end_time": 1664164800
+      },
       {
         "id": 442,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1569883740092116995",
         "start_time": 1663750800,
         "end_time": 1664333999
-      },
-      {
-        "id": 437,
-        "line_type": "JP",
-        "title": "例行维护52",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/21(水)11:00 〜 17:00前後 ▼詳細 https://b",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1572103300627197953",
-        "start_time": 1663729200,
-        "end_time": 1663750800
-      },
-      {
-        "id": 434,
-        "line_type": "JP",
-        "title": "特别依赖2倍#22 & 学院交流会2倍#6",
-        "image": "https://static.kivo.wiki/images/timeline/dlzaumLhF1xlx0NwbRiLua1dPhGLmqng.jpg",
-        "body_summary": "【キャンペーン予告】 9月21日(水)4:00より、「特別依頼」「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ 効率良く必要アイテムを集めることができるこの機会を、ぜひお役立てく",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1571061497589305344",
-        "start_time": 1663704000,
-        "end_time": 1664308799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594493,
+  "time": 1782682654,
   "version": "1.0.0-beta.43"
 }

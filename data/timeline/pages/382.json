@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1544,
+        "line_type": "Globle",
+        "title": "国际服学院交流会2倍11",
+        "image": "https://static.kivo.wiki/images/timeline/NZsvvVYhTRfEbITLDevB4rWBIXp4wxFq.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/9 (Mon), Scrimmage reward will be doubled! Don't miss out",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1710550527875117374",
+        "start_time": 1696878017,
+        "end_time": 1697482817
+      },
+      {
+        "id": 895,
+        "line_type": "JP",
+        "title": "动画官网中，白子的年龄修正回了16岁",
+        "image": "https://static.kivo.wiki/images/timeline/cBVFYNY314QWFbe49H9FwUM53MgumQyN.png",
+        "body_summary": "先前的错误见23年7月24日的事件，下图图一",
+        "type": "Trivia",
+        "url": "anime.shochiku.co.jp/bluearchive-anime/character/sunaokami-shiroko/",
+        "start_time": 1696837987,
+        "end_time": 1696837987
+      },
       {
         "id": 1643,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1708013809330233484",
         "start_time": 1696273224,
         "end_time": 1696877964
-      },
-      {
-        "id": 1696,
-        "line_type": "CN",
-        "title": "任务（困难难度）2倍2",
-        "image": "https://static.kivo.wiki/images/timeline/CgerXA1nRcI99jg7zdb8ZCDgSGny3HpF.png",
-        "body_summary": "#蔚蓝档案 【道具掉落量2倍活动】即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【任务（困难难度）】掉落量2倍 ■ 活动时间 10月02日 04",
-        "type": "Double",
-        "url": "www.bilibili.com/opus/847063775235276935",
-        "start_time": 1696190400,
-        "end_time": 1696449599
-      },
-      {
-        "id": 2171,
-        "line_type": "CN",
-        "title": "【伊甸园条约篇】动画PV：少女们的证明",
-        "image": "",
-        "body_summary": "蔚蓝档案超话 #蔚蓝档案《蔚蓝档案》“伊甸园条约篇”全新动画PV：少女们的证明 “一定要——全员及格！” 视频链接",
-        "type": "OutsideGames",
-        "url": "weibo.com/6011443154/NlEZJq9sP",
-        "start_time": 1696042812,
-        "end_time": 1696042812
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594409,
+  "time": 1782682545,
   "version": "1.0.0-beta.43"
 }

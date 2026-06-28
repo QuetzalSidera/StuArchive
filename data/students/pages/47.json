@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 48,
+    "max_page": 49,
     "students": [
+      {
+        "id": 329,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "戈兹",
+        "family_name_jp": "",
+        "given_name_jp": "ゴズ",
+        "family_name_cn": "",
+        "given_name_cn": "格兹",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%88%88%E5%85%B9/avatar.png",
+        "school": 22,
+        "main_relation": 0
+      },
       {
         "id": 306,
         "skin": "",
@@ -147,27 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E5%AE%88%E5%8D%AB%E6%9C%BA%E5%99%A8%E4%BA%BA/avatar.png",
         "school": 25,
         "main_relation": 0
-      },
-      {
-        "id": 247,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "无名司祭",
-        "family_name_jp": "無名の司祭",
-        "given_name_jp": " ",
-        "family_name_cn": "",
-        "given_name_cn": "无名祭司",
-        "avatar": "https://static.kivo.wiki/images/students/%E6%97%A0%E5%90%8D%E5%8F%B8%E7%A5%AD/avatar.png",
-        "school": 25,
-        "main_relation": 85
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782588053,
+  "time": 1782674425,
   "version": "1.0.0-beta.43"
 }

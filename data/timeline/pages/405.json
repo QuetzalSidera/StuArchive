@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 740,
+        "line_type": "JP",
+        "title": "App Store人气第一3",
+        "image": "https://static.kivo.wiki/images/timeline/KiZhTsM7bSlL1jYmIHxf6ZUOdeFrBfU4.gif",
+        "body_summary": "【#シャーレ管理事務所】 この度『ブルーアーカイブ』がAppStoreセールスランキング1位を達成しました！ 感謝の気持ちを込めて「10回募集チケットx1」を配布致します！ 今後も先生方の期待に応えら",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1683654532474232832",
+        "start_time": 1690253040,
+        "end_time": 1690253040
+      },
+      {
+        "id": 1470,
+        "line_type": "Globle",
+        "title": "国际服例行维护43",
+        "image": "",
+        "body_summary": "[7/25 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 7/25 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1682319503101657090",
+        "start_time": 1690250408,
+        "end_time": 1690282808
+      },
       {
         "id": 1474,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1683059505905688577",
         "start_time": 1690192803,
         "end_time": 1690192803
-      },
-      {
-        "id": 894,
-        "line_type": "JP",
-        "title": "动画官网公开，白子年龄误写为17岁",
-        "image": "https://static.kivo.wiki/images/timeline/AvM7z1EWpAvjNYie4vZ9ihlLLvPcL6u4.png",
-        "body_summary": "在首次公开的动画官网中，白子的年龄写成了17岁，比游戏内的设定要大1岁，在很长一段时间之后才进行修正。",
-        "type": "Trivia",
-        "url": "anime.shochiku.co.jp/bluearchive-anime/",
-        "start_time": 1690184831,
-        "end_time": 1690184831
-      },
-      {
-        "id": 737,
-        "line_type": "JP",
-        "title": "发推活动：夏莱的冰淇淋大作战",
-        "image": "",
-        "body_summary": "【#シャーレのアイス大作戦】 先生！暑い日が続いていますので、生徒さんにアイスの差し入れはいかがでしょうか！ @Blue_ArchiveJP と＃ で生徒さんのお名前と #シャーレのアイス大作戦 をつ",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1683356872768643072",
-        "start_time": 1690182000,
-        "end_time": 1693497599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594431,
+  "time": 1782682572,
   "version": "1.0.0-beta.43"
 }

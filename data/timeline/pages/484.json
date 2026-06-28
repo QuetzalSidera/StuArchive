@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1126,
+        "line_type": "Globle",
+        "title": "国际服总力战 Binah (Field) 2",
+        "image": "https://static.kivo.wiki/images/timeline/8lCXAgTSjf7edMmq9VrKhYIihK2Smf7a.jpg",
+        "body_summary": "[Total Assault Preview] Binah(Field Warfare) will be held on 6/28 (Tue)! Do you have your strategy a",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1539533657068564480",
+        "start_time": 1656403214,
+        "end_time": 1688482754
+      },
+      {
+        "id": 1130,
+        "line_type": "Globle",
+        "title": "国际服例行维护17",
+        "image": "",
+        "body_summary": "[6/28 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 6/28 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1541255001888231426",
+        "start_time": 1656385221,
+        "end_time": 1656403221
+      },
       {
         "id": 1129,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1539125993499410432",
         "start_time": 1655895600,
         "end_time": 1657076400
-      },
-      {
-        "id": 365,
-        "line_type": "JP",
-        "title": "卡池「笑顔よ続け、夏の日に」＆「想いよ開け、夏の夜に」",
-        "image": "https://static.kivo.wiki/images/timeline/8FetZqH9o2oCLOjQtl2kpG3pLfY1yjMi.jpg",
-        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「笑顔よ続け、夏の日に」＆「想いよ開け、夏の夜に」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ノノミ(水着)(CV:#三浦千幸) ★3 ワカモ(水着)(",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1539110903517708290",
-        "start_time": 1655895600,
-        "end_time": 1657076400
-      },
-      {
-        "id": 2520,
-        "line_type": "JP",
-        "title": "活动「アビドスリゾート復旧対策委員会」",
-        "image": "https://static.kivo.wiki/images/timeline/VsNfmQhB6AuCcVSCffx3tZtkwGBz66Kp.jpg",
-        "body_summary": "【新情報③】 6月22日(水)メンテナンス後、新イベント「アビドスリゾート復旧対策委員会」が開催されます！ 今回のイベントでは今までにない新要素が追加されますので、詳しい遊び方や報酬などは、後日公開の",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1537757698758160387",
-        "start_time": 1655892016,
-        "end_time": 1657076356
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594506,
+  "time": 1782682671,
   "version": "1.0.0-beta.43"
 }

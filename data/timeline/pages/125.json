@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4243,
+        "line_type": "JP",
+        "title": "市街地戦・ホド#5",
+        "image": "https://static.kivo.wiki/images/timeline/700I22LRD4x5WPHQolozEU2yFZIDKxFa.jpg",
+        "body_summary": "【新情報⑩】 次は総力戦の情報になります。 総力戦「市街地戦・ホド」の開催が決定しました！ ▼開催期間 2025/7/30(水) 11:00 ~ 8/6(水) 3:59 #ブルアカ #ブルアカらいぶさ",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1946542413042114720?s=19",
+        "start_time": 1753844400,
+        "end_time": 1754423999
+      },
+      {
+        "id": 4325,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》×CoCo都可 联动PV：Co爱特调，蔚蓝心动！",
+        "image": "https://static.kivo.wiki/images/timeline/Rq5ZwnMDw2nB1iVTYB6SGe9zPE7AeKzM.png",
+        "body_summary": "偶，偶尔喝点饮料也没什么吧... 《蔚蓝档案》×CoCo都可联动将于08月02日开启！更多#CoCo蔚蓝档案联动#信息还请老师关注后续官方社媒公告！",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV1pybSzqE7i/",
+        "start_time": 1753840800,
+        "end_time": 1753840800
+      },
       {
         "id": 4303,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/1093758091775705121",
         "start_time": 1753526126,
         "end_time": 1753526126
-      },
-      {
-        "id": 4289,
-        "line_type": "CN",
-        "title": "丹花 伊吹",
-        "image": "https://static.kivo.wiki/images/timeline/uaL8cQa4tKI0SjRGepACTlPulrhJS0KV.png",
-        "body_summary": "//////////档案启封////////// ■ 伊吹 歌赫娜万魔殿的议员，万魔殿的吉祥物少女。她是万魔殿年纪最小的一员，因其独有的诚实和可爱深受众人喜爱。她是个品行端正的孩子，为了不给前辈们添麻",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/1093433392258613253",
-        "start_time": 1753439411,
-        "end_time": 1753439411
-      },
-      {
-        "id": 4297,
-        "line_type": "JP",
-        "title": "学生介绍：诗乃",
-        "image": "https://static.kivo.wiki/images/timeline/5ES3lQ9AMsrCeK7uDQAL2wqqdUyMUbsM.jpg",
-        "body_summary": "【イベント開催中】 本日は「シノンのバトルパス」専用ページ等でリポーターを務めるシノンさんをご紹介します！ 事件の現場に颯爽と現れ、生徒さんの興味を引く事件やゴシップを取材し、その場で発信するクロノス",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1948624256268489107",
-        "start_time": 1753419600,
-        "end_time": 1753419600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594163,
+  "time": 1782682233,
   "version": "1.0.0-beta.43"
 }

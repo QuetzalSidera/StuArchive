@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1042,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍4 hard2倍4",
+        "image": "",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1502932478352191491",
+        "start_time": 1647284435,
+        "end_time": 1647889175
+      },
+      {
+        "id": 283,
+        "line_type": "JP",
+        "title": "白情礼物",
+        "image": "https://static.kivo.wiki/images/timeline/ySY1uO3W3zroc8QRNKw85HkpWJeZ3rRe.jpg",
+        "body_summary": "【#シャーレ管理事務所】 先生！シャーレ管理事務所から連絡が届いたので読みますね。 『アロナや生徒さん達へ「ホワイトデー」のお返しで大忙しな先生に「青輝石 1200個」をお送りします。』 …だそうです",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1503295037014421513",
+        "start_time": 1647252000,
+        "end_time": 1647252000
+      },
       {
         "id": 282,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1501075250670235648",
         "start_time": 1646794800,
         "end_time": 1646816400
-      },
-      {
-        "id": 274,
-        "line_type": "JP",
-        "title": "课程表2倍#1 & 学院交流会2倍#1",
-        "image": "https://static.kivo.wiki/images/timeline/Rxj6vmfIhyfrExr2oXc5U3Ly2lXxE2wH.jpg",
-        "body_summary": "【キャンペーン予告】 3月9日(水)04:00より、「スケジュール」「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ 生徒さんや固有武器の育成素材をたくさん獲得できるチャンスですの",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1499218472550555653",
-        "start_time": 1646769600,
-        "end_time": 1647374399
-      },
-      {
-        "id": 1044,
-        "line_type": "Globle",
-        "title": "国际服活动「Take Care of Crusadie!」",
-        "image": "https://static.kivo.wiki/images/timeline/AGKn1Qog5kOH5RvnIsvlPlidzFrLZAET.jpg",
-        "body_summary": "[Event Notice] Schale's new event―Take Care of Crusadie! is now in progress! 🗓️Period: 3/8 (Tue) Aft",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1501128087345401863",
-        "start_time": 1646746200,
-        "end_time": 1647918000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594522,
+  "time": 1782682692,
   "version": "1.0.0-beta.43"
 }

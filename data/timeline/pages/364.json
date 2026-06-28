@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1633,
+        "line_type": "CN",
+        "title": "梅花园、生活安全局社团剧情更新",
+        "image": "https://static.kivo.wiki/images/timeline/btdSBuaqanGm6ggZF0MXq7kEyvbyBWKe.jpg",
+        "body_summary": "全新社团及其对应的支线剧情将于 11月23日 维护结束后 更新！ 这些故事记录了女生们诙谐幽默但又不失爆发力和深度的青春故事。 ■ 梅花园 全都是乖孩子呢~ 在梅花园和天使们一起度过的幸福日常。 • ",
+        "type": "OtherStory",
+        "url": "b23.tv/PTCjB4Z",
+        "start_time": 1700733600,
+        "end_time": 1700755199
+      },
+      {
+        "id": 1632,
+        "line_type": "CN",
+        "title": "【悬赏通缉】难度I更新",
+        "image": "https://static.kivo.wiki/images/timeline/QgiFXnUfVKleh0vmeoMeC9zAM21h8O5M.jpg",
+        "body_summary": "【悬赏通缉】全新难度将于11月23日维护结束后更新！ 通关【悬赏通缉】各关卡可获得用于成员技能提升的教育光盘、技术笔记和养成素材。 ■ 更新内容 • 悬赏通缉-被袭击的讲堂 难度I • 悬赏通缉-废弃",
+        "type": "ContentImprovements",
+        "url": "b23.tv/1dmQO59",
+        "start_time": 1700733600,
+        "end_time": 1700755199
+      },
       {
         "id": 1631,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "t.co/Jnqgd71uOa",
         "start_time": 1700643154,
         "end_time": 1700643154
-      },
-      {
-        "id": 1029,
-        "line_type": "JP",
-        "title": "对于近期问题较多的情况的补偿",
-        "image": "",
-        "body_summary": "【お詫び】 この度は一連の不具合において、 先生方に多大なご迷惑をおかけいたしましたこと、 重ね重ねお詫び申し上げます。 お詫びに改めて下記のアイテムを補填いたします。 ・青輝石　x1200 ※補填の",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1727273693917970489",
-        "start_time": 1700643043,
-        "end_time": 1700643043
-      },
-      {
-        "id": 1027,
-        "line_type": "JP",
-        "title": "家具互动开关",
-        "image": "",
-        "body_summary": "【「家具モーション」ON/OFF機能】 今回のアップデートにて、「家具モーション」をON/OFFできる機能が追加されます！ また、機能追加に合わせて、ON/OFFの設定を全てリセットするボタンも追加さ",
-        "type": "ContentImprovements",
-        "url": "",
-        "start_time": 1700642815,
-        "end_time": 1700642815
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594392,
+  "time": 1782682524,
   "version": "1.0.0-beta.43"
 }

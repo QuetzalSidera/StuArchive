@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5519,
+        "line_type": "CN",
+        "title": "限定限时招募【黑君有所远虑】",
+        "image": "https://static.kivo.wiki/images/timeline/9d5rShYvPMncbozr5xaqbsjIPnB3YtV6.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【黑君有所远虑】即将开启！在本次招募中，全新3★成员\"妃咲\"登场，且招募概率得到提升！ ■ 招募时间 02月14日 14:00 ~ 02月28日 13:59 ■ ",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1712",
+        "start_time": 1771045251,
+        "end_time": 1772254851
+      },
+      {
+        "id": 5127,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 26-02-13",
+        "image": "https://static.kivo.wiki/images/timeline/Cel9yYk5v82Tt4DJUSfIQWjTpWApexaS.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2022220163819745664",
+        "start_time": 1771042962,
+        "end_time": 1771215762
+      },
       {
         "id": 5128,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2021917205680861376",
         "start_time": 1770868543,
         "end_time": 1770868543
-      },
-      {
-        "id": 5123,
-        "line_type": "JP",
-        "title": "违规账号封禁 #53",
-        "image": "https://static.kivo.wiki/images/timeline/0vGjvruXAsoFrQ6Bmloa5oqbbZH725Ay.jpg",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/2021902408998437268",
-        "start_time": 1770868473,
-        "end_time": 1770868473
-      },
-      {
-        "id": 5122,
-        "line_type": "JP",
-        "title": "例行维护 #136",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 2/12(木) 11:00 〜 19:00前後 ▼詳細 https://bluearc",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2021758681877295605",
-        "start_time": 1770868335,
-        "end_time": 1770868335
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594089,
+  "time": 1782682136,
   "version": "1.0.0-beta.43"
 }

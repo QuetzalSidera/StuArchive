@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 216,
+        "line_type": "JP",
+        "title": "炸服16",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 ただいまゲームにログインできない不具合が発生しているため、緊急メンテナンスを実施しております。 なお、緊急メンテナンスの終了時刻は、判明次第改めてお知らせいたします。 皆様に多大",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1465884188511404035",
+        "start_time": 1638332580,
+        "end_time": 1638367200
+      },
+      {
+        "id": 958,
+        "line_type": "JP",
+        "title": "家具新系列「伝統的な温泉郷シリーズ」追加",
+        "image": "https://static.kivo.wiki/images/timeline/S7HMnYhZzImdlOFOQmXnpIZIpGSi4NBh.jpg",
+        "body_summary": "家具に新シリーズ「伝統的な温泉郷シリーズ」を追加",
+        "type": "ContentImprovements",
+        "url": "bluearchive.jp/news/newsJump/168",
+        "start_time": 1638273600,
+        "end_time": 1638273600
+      },
       {
         "id": 219,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1464172078337347592",
         "start_time": 1638176400,
         "end_time": 1639450800
-      },
-      {
-        "id": 854,
-        "line_type": "Globle",
-        "title": "国际服总力战 Shiro & Kuro（Urban）1",
-        "image": "https://static.kivo.wiki/images/timeline/I6vSMAh27jQgzkVhN4qJJVLhjEQmLVY0.png",
-        "body_summary": "[Total Assault Preview] Total Assault - Shiro & Kuro (Urban Warfare) will be held on 11/29 (Mon)! Fo",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1463779492883742724",
-        "start_time": 1638176400,
-        "end_time": 1638802800
-      },
-      {
-        "id": 853,
-        "line_type": "Globle",
-        "title": "国际服活动「Cherry Blossom Festival Commotion」",
-        "image": "https://static.kivo.wiki/images/timeline/mbFlMvVhFfKCckVaZApNNexdGRDIubgq.jpg",
-        "body_summary": "[New Event Preview] Blue Archive's first event will be arriving on 11/29 (Mon)! A commotion surround",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1463764393284493313",
-        "start_time": 1638176400,
-        "end_time": 1639450800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594537,
+  "time": 1782682711,
   "version": "1.0.0-beta.43"
 }

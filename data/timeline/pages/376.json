@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2666,
+        "line_type": "JP",
+        "title": "联动纪念登录奖励「コラボ開催記念ログインボーナス」",
+        "image": "https://static.kivo.wiki/images/timeline/Z0QJILvjiXilan77farf22GRtnyIs037.jpg",
+        "body_summary": "【新情報⑥】 10/24(火)メンテナンス後、「コラボ開催記念ログインボーナス」が実施されます！ 期間中に合計600個の青輝石と、家具モーション付限定家具「モモフレンズのグッズ台」を入手できます。 ぜ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1715343360431702489",
+        "start_time": 1698141649,
+        "end_time": 1699412389
+      },
+      {
+        "id": 2667,
+        "line_type": "JP",
+        "title": "回忆大厅追加语音：菲娜",
+        "image": "https://static.kivo.wiki/images/timeline/Fajn0sadsTx0DyPRDa9EU6bYOQXLJHrC.jpg",
+        "body_summary": "【新情報⑨】 10/24(火)メンテナンス後、フィーナさんのメモリアルロビーにトークモーションが追加されます！ ぜひ絆シナリオを体験して、よりパワーアップした魅力的な表情やしぐさをご確認ください♪ #",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1548275312332783616",
+        "start_time": 1698141620,
+        "end_time": 1698141620
+      },
       {
         "id": 2668,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1715657928760537194",
         "start_time": 1698112803,
         "end_time": 1698717543
-      },
-      {
-        "id": 1560,
-        "line_type": "Globle",
-        "title": "国际服卡池「Allow me to show you Hyakkiyako's impeccable charm, Sensei.」",
-        "image": "https://static.kivo.wiki/images/timeline/naxF0p48pLAPntSGoWiOoZZ0rxpOKwLZ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715654157011440009",
-        "start_time": 1698112803,
-        "end_time": 1698717543
-      },
-      {
-        "id": 1559,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍11",
-        "image": "https://static.kivo.wiki/images/timeline/YwIt9ioVhKOKcHNDCellC1mMKCZsCzAD.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 10/23 (Mon), Lesson reward will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1715623960338145528",
-        "start_time": 1698087613,
-        "end_time": 1698692353
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594403,
+  "time": 1782682538,
   "version": "1.0.0-beta.43"
 }

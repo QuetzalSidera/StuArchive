@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 993,
+        "line_type": "JP",
+        "title": "话题趣闻 - 花凛的回忆大厅CG在各群聊中扩散",
+        "image": "https://static.kivo.wiki/images/timeline/DcUnyYWoh9RBgnmeV9V4UGRmUXR7oB1p.png",
+        "body_summary": "随着日服CBT测试的开始，一部分游戏截图也在网络中流传。而其中传播最广的则是花凛的回忆大厅CG，一时间各QQ群聊都在互相询问“这是什么游戏？”",
+        "type": "Trivia",
+        "url": "",
+        "start_time": 1596715202,
+        "end_time": 1596715202
+      },
+      {
+        "id": 8,
+        "line_type": "JP",
+        "title": "炸服1",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 現在、ゲームプレイ中に“不明なエラー”と表示され、タイトル画面に戻される不具合を確認しております。 不具合修正のため、只今より臨時メンテナンスを行います。 ご理解、ご協力のほどよ",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1291282035793772545?s=20",
+        "start_time": 1596700800,
+        "end_time": 1596713520
+      },
       {
         "id": 7,
         "line_type": "JP",
@@ -109,22 +131,11 @@
         "url": "",
         "start_time": 1552450570,
         "end_time": 1552450570
-      },
-      {
-        "id": 991,
-        "line_type": "Other",
-        "title": "金用河PD与编剧isakusan的上一个合作项目《魔法图书馆（Qurare-MAGIC LIBRARY）》",
-        "image": "https://static.kivo.wiki/images/timeline/P2LJ90IwhhAnbOMtvDwkI3ujrpsP7O8T.png",
-        "body_summary": "由蔚蓝档案的主要开发人员金用河PD与编剧isakusan过去共同参与开发的手机游戏《魔法图书馆Qurare-MAGIC LIBRARY》，由于该作在运营后期的各种问题，已于2018年6月28日关服。",
-        "type": "Trivia",
-        "url": "namu.wiki/w/%ED%81%90%EB%9D%BC%EB%A0%88:%20%EB%A7%88%EB%B2%95%20%EB%8F%84%EC%84%9C%EA%B4%80",
-        "start_time": 1395030800,
-        "end_time": 1530160400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594568,
+  "time": 1782682746,
   "version": "1.0.0-beta.43"
 }

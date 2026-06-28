@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1276,
+        "line_type": "Globle",
+        "title": "国际服Vol.3 第四章前篇PV公开",
+        "image": "",
+        "body_summary": "[Update Notice] Main Story Vol.3 Eden Treaty Chapter 4 has been updated! Check out episodes 1–10 of ",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1605090622632861696",
+        "start_time": 1671518431,
+        "end_time": 1671518431
+      },
+      {
+        "id": 1888,
+        "line_type": "Globle",
+        "title": "国际服等级上限提升至80，特别依赖难度K更新",
+        "image": "https://static.kivo.wiki/images/timeline/CDHn7ukBDefWbCHMsFOjy6hXFJUI7qZU.jpg",
+        "body_summary": "[11/8 Update Notice] 11/8 (Tue) scheduled maintenance has ended. Update Details: https://m.nexon.com",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1605088107405139970",
+        "start_time": 1671505230,
+        "end_time": 1671505230
+      },
       {
         "id": 1884,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1601139764169961472",
         "start_time": 1671010200,
         "end_time": 1672196399
-      },
-      {
-        "id": 1801,
-        "line_type": "JP",
-        "title": "圣诞节登录奖励2",
-        "image": "https://static.kivo.wiki/images/timeline/O2vBgP2vvCo5SwGWuRXJGO41MJDCRhH1.jpg",
-        "body_summary": "【リマインド】 現在、最大600個の「青輝石」や、家具モーション付限定家具「暖かなクリスマス暖炉」が獲得できる、「Merry Christmas! アロナの特別プレゼント!」が開催中です！ 今日から始",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1605397841392041984",
-        "start_time": 1671008426,
-        "end_time": 1672167626
-      },
-      {
-        "id": 520,
-        "line_type": "JP",
-        "title": "例行维护58　（提前结束）",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/14(水) 11:00 〜 19:00前後 ▼詳細 https:/",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1602181521875816448",
-        "start_time": 1670986800,
-        "end_time": 1671010200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594476,
+  "time": 1782682633,
   "version": "1.0.0-beta.43"
 }

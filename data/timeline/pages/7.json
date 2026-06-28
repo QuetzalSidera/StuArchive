@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5562,
+        "line_type": "CN",
+        "title": "例行维护 #58",
+        "image": "https://static.kivo.wiki/images/timeline/COz7BBjinCiiamjQfqqKbxs74wNPcaQu.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月11日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "www.bluearchive-cn.com/news/1826",
+        "start_time": 1781157600,
+        "end_time": 1781172000
+      },
+      {
+        "id": 5576,
+        "line_type": "Globle",
+        "title": "国际服LINE Stickers表情包第三弹上线",
+        "image": "https://static.kivo.wiki/images/timeline/bqXjd3nVbyL0f1kc0MnZzVmO5Jqm7Wzr.jpg",
+        "body_summary": "Sensei, the third official Blue Archive LINE sticker is now available! Meet another side of Kivotos ",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2064890364667085068",
+        "start_time": 1781154721,
+        "end_time": 1781154721
+      },
       {
         "id": 5569,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2063818767126393145",
         "start_time": 1781035200,
         "end_time": 1781639999
-      },
-      {
-        "id": 5557,
-        "line_type": "Globle",
-        "title": "国际服任务Hard 3倍 #17",
-        "image": "https://static.kivo.wiki/images/timeline/OjHlaE5maewEH8dQs5QIzsweU3k8wwZj.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be tripled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2063161468443594878",
-        "start_time": 1781014134,
-        "end_time": 1781618934
-      },
-      {
-        "id": 5556,
-        "line_type": "Globle",
-        "title": "国际服任务normal3倍 #17",
-        "image": "https://static.kivo.wiki/images/timeline/o319rZySSMVRYKNnXiqX1MDFIznmMSK9.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be tripled. D",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2063157692706005197",
-        "start_time": 1781014041,
-        "end_time": 1781618841
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594048,
+  "time": 1782682083,
   "version": "1.0.0-beta.43"
 }

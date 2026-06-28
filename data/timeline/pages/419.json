@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1427,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Look at this, comrade! All I did was drink milk but now I have an awesome mustache」",
+        "image": "https://static.kivo.wiki/images/timeline/mTgMRpDZy3GeuCmHGzZXaAsKgP8qn8Pp.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 5/30 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1662385654045474822",
+        "start_time": 1685430031,
+        "end_time": 1686016771
+      },
+      {
+        "id": 1424,
+        "line_type": "Globle",
+        "title": "国际服例行维护39",
+        "image": "",
+        "body_summary": "[5/30 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 5/30 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1662021002379898880",
+        "start_time": 1685412003,
+        "end_time": 1685430003
+      },
       {
         "id": 1425,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1659453840654225408",
         "start_time": 1684825239,
         "end_time": 1684825239
-      },
-      {
-        "id": 1413,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Urban) 3",
-        "image": "https://static.kivo.wiki/images/timeline/0rD3OqtjhTmAzSvsqBj37KB2fpphT9IF.jpg",
-        "body_summary": "[Total Assault Preview] Total Assault: Binah (Urban Warfare) starts 5/23 (Tue)! https://forum.nexon.",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1658729062439989252",
-        "start_time": 1684825200,
-        "end_time": 1685386740
-      },
-      {
-        "id": 1416,
-        "line_type": "Globle",
-        "title": "国际服例行维护38",
-        "image": "",
-        "body_summary": "[5/23 Scheduled Maintenance Notice] Sensei, we will be undergoing scheduled maintenance on 5/23 (Tue",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1659484538207367168",
-        "start_time": 1684807364,
-        "end_time": 1684825364
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594444,
+  "time": 1782682589,
   "version": "1.0.0-beta.43"
 }

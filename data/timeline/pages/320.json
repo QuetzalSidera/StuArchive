@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2298,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Spike It! Kivotos Volleyball Tournament」",
+        "image": "https://static.kivo.wiki/images/timeline/g54pybEkQDmJbVD6ckPsR5IbgdKfhlT3.jpg",
+        "body_summary": "[Spike It! Kivotos Volleyball Tournament Notice] The Spike It! Kivotos Volleyball Tournament event i",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1770285257700339742",
+        "start_time": 1710903863,
+        "end_time": 1710903863
+      },
+      {
+        "id": 2309,
+        "line_type": "JP",
+        "title": "卡池复刻「声無き言葉たちの残花」＆「故無き力添えの賛歌」＆「偽りなき信仰の甘果」",
+        "image": "https://static.kivo.wiki/images/timeline/t2yvEu5T7QacTrREi5OP3F5Xa12rZFor.jpg",
+        "body_summary": "【ピックアップ募集・予告】 復刻ピックアップ募集「声無き言葉たちの残花」＆「故無き力添えの賛歌」＆「偽りなき信仰の甘果」がまもなく開催されます！ 詳細については、下記URLよりご確認ください！ 🔹詳細",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1769951971015119225",
+        "start_time": 1710903600,
+        "end_time": 1711508399
+      },
       {
         "id": 2287,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/O58IU64JM",
         "start_time": 1710497408,
         "end_time": 1710497408
-      },
-      {
-        "id": 2290,
-        "line_type": "JP",
-        "title": "日服修改用户协议",
-        "image": "",
-        "body_summary": "【利用規約改定のお知らせ】 この度はより良いサービス提供のため、一部利用規約を改定いたします。 詳細につきましては以下よりご確認ください。 ▼詳細 https://bluearchive.jp/new",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1768563387871727669",
-        "start_time": 1710496920,
-        "end_time": 1710496920
-      },
-      {
-        "id": 2283,
-        "line_type": "CN",
-        "title": "战术对抗赛第三赛季开启",
-        "image": "https://static.kivo.wiki/images/timeline/AzmBL1jwH335497bkj2NU0C7Slf70nbN.jpg",
-        "body_summary": "战术对抗赛第三赛季即将开启！随着新赛季的开启，前一赛季的赛季排名将被重置，新赛季的地形类型将变为【室内战】。 请老师搭配全新的阵容，在新的赛季向着更高的排名进发吧！ ■ 新赛季开启时间 03月14日 ",
-        "type": "ContentImprovements",
-        "url": "weibo.com/6011443154/O4wWP1o6T",
-        "start_time": 1710410456,
-        "end_time": 1710410456
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594350,
+  "time": 1782682472,
   "version": "1.0.0-beta.43"
 }

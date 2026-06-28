@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1666,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍1",
+        "image": "https://static.kivo.wiki/images/timeline/2PPFj867j1JmAey3lKWNhPuCXD2LIIS5.png",
+        "body_summary": "【任务（普通难度）】掉落量3倍即将开启！请不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【任务（普通难度）】掉落量3倍 ■ 活动时间 09月07日 04:00 ",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/837338234110345220",
+        "start_time": 1694030400,
+        "end_time": 1694375999
+      },
+      {
+        "id": 1667,
+        "line_type": "CN",
+        "title": "【神名精髓商店】bug修复",
+        "image": "https://static.kivo.wiki/images/timeline/K14P2TMgKDnzG37e5W6jwurESm7nidV4.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈，特殊情况下在游戏内“神名精髓商店”中购买“成员的神名文字”时，会出现实际消耗的“神名精髓”低于显示的要求数量。在得知该情况后我们已紧急开展核",
+        "type": "Other",
+        "url": "www.bilibili.com/opus/838285776926015521",
+        "start_time": 1694016600,
+        "end_time": 1694016652
+      },
       {
         "id": 760,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1698932710876799161",
         "start_time": 1693900813,
         "end_time": 1693900813
-      },
-      {
-        "id": 1514,
-        "line_type": "Globle",
-        "title": "国际服例行维护46",
-        "image": "",
-        "body_summary": "[9/5 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/5 (Tue",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1697534763668484495",
-        "start_time": 1693879242,
-        "end_time": 1693900842
-      },
-      {
-        "id": 1518,
-        "line_type": "Globle",
-        "title": "国际服卡池「I was waiting for you. Where should we go today?」",
-        "image": "https://static.kivo.wiki/images/timeline/Ee8QTFM2yVA8T5dNyVLkBw5MCiOG2Tla.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/5 (Tue)! Pick-Up Student: 3★",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1697900923136454998",
-        "start_time": 1693879223,
-        "end_time": 1695088823
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594417,
+  "time": 1782682555,
   "version": "1.0.0-beta.43"
 }

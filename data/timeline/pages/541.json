@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1818,
+        "line_type": "JP",
+        "title": "任务Hard2倍#1",
+        "image": "https://static.kivo.wiki/images/timeline/pEaR8Kp1JV2UDCljS5y8Vlna9VfjmsqQ.jpg",
+        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 3月22日(月)04:00〜3月25日(木)03:59 この機会に生徒さんの神名文字",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1372759763927273479",
+        "start_time": 1616356837,
+        "end_time": 1616615977
+      },
+      {
+        "id": 2170,
+        "line_type": "JP",
+        "title": "2nd PV公开",
+        "image": "",
+        "body_summary": "【最新PV公開】 『ブルーアーカイブ』の新しいPVが公開されました！ 今後キヴォトスで起きていく、様々なストーリーにご期待ください！ YouTube版はこちらから https://youtu.be/c",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1372879397384904708",
+        "start_time": 1616154914,
+        "end_time": 1616154914
+      },
       {
         "id": 40,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1368411089868746752?s=20",
         "start_time": 1615453267,
         "end_time": 1616058067
-      },
-      {
-        "id": 37,
-        "line_type": "JP",
-        "title": "主线剧情Vol.1「対策委員会」篇第2章「失ったもの、手放さなかったもの」前篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/6x6hC90kBFMeIRFZjX8NP1ozTnvtxYPq.jpg",
-        "body_summary": "【メインストーリー更新・予告】 対策委員会の退部届……。 一体、どの生徒さんのものなのでしょうか……？ ※メインストーリー「対策委員会編 CHAPTER2」の1話 - 10話は3月11日に更新、11話",
-        "type": "MainStory",
-        "url": "x.com/Blue_ArchiveJP/status/1368865079781859333?s=20",
-        "start_time": 1615453048,
-        "end_time": 1615453048
-      },
-      {
-        "id": 53,
-        "line_type": "JP",
-        "title": "主线Vol.2主视觉图公开",
-        "image": "https://static.kivo.wiki/images/timeline/nNDJdXq2lvzcTiHlrdPeO5fBPJjTZW36.jpg",
-        "body_summary": "【キービジュアル公開】 メインストーリー「時計じかけの花のパヴァーヌ編」の第1章、「レトロチック・ロマン」のキービジュアルを公開しました！ こちらのストーリーは、3月25日に更新です！ 「この夢が、覚",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1373122134503948292?s=20",
-        "start_time": 1615369483,
-        "end_time": 1615369483
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594562,
+  "time": 1782682739,
   "version": "1.0.0-beta.43"
 }

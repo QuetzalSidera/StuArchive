@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1528,
+        "line_type": "Globle",
+        "title": "国际服例行维护47（延长）",
+        "image": "",
+        "body_summary": "[9/26 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/26 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1705144908271567261",
+        "start_time": 1695693644,
+        "end_time": 1695733244
+      },
+      {
+        "id": 1530,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍20",
+        "image": "https://static.kivo.wiki/images/timeline/0ebrEdvj28wvYhJ6zPB0Ef6A8b91iYM8.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 9/25 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1705477100029821412",
+        "start_time": 1695668453,
+        "end_time": 1696273253
+      },
       {
         "id": 787,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "bluearchive-cn.com/news/250",
         "start_time": 1695096043,
         "end_time": 1695096043
-      },
-      {
-        "id": 1527,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Field) 4",
-        "image": "https://static.kivo.wiki/images/timeline/t0sawPk3xc7vgZ65acSnWpY57cu9AAvG.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Binah (Field Warfare) has opened 9/19 (Tue) 2:00 AM ",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1704027542804672725",
-        "start_time": 1695088835,
-        "end_time": 1695668435
-      },
-      {
-        "id": 1525,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「I look forward to working with you in everyday. & If you feel the same, reply with \"Yes.\" Squirrel.」2",
-        "image": "https://static.kivo.wiki/images/timeline/UNVTBUw5sNAOEvKoEilMairBVEIVwrHh.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/19 (Tue)! Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1702974353166524588",
-        "start_time": 1695088809,
-        "end_time": 1695693609
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594413,
+  "time": 1782682550,
   "version": "1.0.0-beta.43"
 }

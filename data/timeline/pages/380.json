@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1646,
+        "line_type": "CN",
+        "title": "网页活动【补习部小课堂】",
+        "image": "https://static.kivo.wiki/images/timeline/FRwGBXrYBRL270OxyI8Ymx613QHtaL7j.jpg",
+        "body_summary": "【补习部小课堂】限时网页活动即将开启！ 和补习部的成员们一起参加随堂小测试，猜猜她们会做出什么回答，看看今天更适宜辅导哪一位成员吧！ ■ 活动时间 10月12日 维护结束后 ~ 11月02日 03:5",
+        "type": "WebEvent",
+        "url": "www.bilibili.com/opus/850435011035267076",
+        "start_time": 1697104800,
+        "end_time": 1698868799
+      },
+      {
+        "id": 1645,
+        "line_type": "CN",
+        "title": "总力战 比纳 • 野外战 2",
+        "image": "https://static.kivo.wiki/images/timeline/HHkK79UC0hwKGlKKL7efWAjJ2tvKWvWi.jpg",
+        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前正在基沃托斯各地出没。 比纳是神名十文字的第3个先知，在阿拜多斯的沙漠地区首次被发现。 比纳来到这里的目的尚不明确，但可以肯定的是",
+        "type": "Raid",
+        "url": "www.bilibili.com/opus/850063380645413008",
+        "start_time": 1697104800,
+        "end_time": 1697659199
+      },
       {
         "id": 1644,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1710852716220862667",
         "start_time": 1697014800,
         "end_time": 1697014800
-      },
-      {
-        "id": 801,
-        "line_type": "JP",
-        "title": "联合火力演习20",
-        "image": "https://static.kivo.wiki/images/timeline/s0qu2MWFJ3KlbUFHluYuTqpAB8AORH0Z.jpg",
-        "body_summary": "【合同火力演習・予告】 10月11日(水)メンテナンス終了後より、合同火力演習「防御演習」を開幕します！ 今回の特殊ルールでは、防御タイプ「弾力装甲」の敵が相手となります。 どの編成で挑むのか、色々考",
-        "type": "MiniBattle",
-        "url": "twitter.com/Blue_ArchiveJP/status/1709856336555704333",
-        "start_time": 1697014800,
-        "end_time": 1697572799
-      },
-      {
-        "id": 807,
-        "line_type": "JP",
-        "title": "例行维护80",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 10/11(水) 11:00 〜 17:00前後 ▼詳細 https:/",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1711622721204097262",
-        "start_time": 1696993200,
-        "end_time": 1697014800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594407,
+  "time": 1782682543,
   "version": "1.0.0-beta.43"
 }

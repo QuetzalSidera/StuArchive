@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3342,
+        "line_type": "JP",
+        "title": "联合火力演习 #34",
+        "image": "https://static.kivo.wiki/images/timeline/yVLcsCML4F6qUnwQ5NT5X2fuazC866OH.jpg",
+        "body_summary": "【合同火力演習・予告】 12月4日(水)メンテナンス後、合同火力演習「突破演習」が開幕します！ 今回の演習では、爆発タイプの生徒さんがかかしを回復させると追加でHPが回復するようですよ！ #ブルアカ",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1863493907390279698",
+        "start_time": 1733302800,
+        "end_time": 1733885999
+      },
+      {
+        "id": 3345,
+        "line_type": "JP",
+        "title": "例行维护 #108",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/4(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1863825667722502558",
+        "start_time": 1733281200,
+        "end_time": 1733302800
+      },
       {
         "id": 3343,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1862391040856248772",
         "start_time": 1733220000,
         "end_time": 1734141600
-      },
-      {
-        "id": 3328,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习 #28",
-        "image": "https://static.kivo.wiki/images/timeline/ssfVxlxXQoLH4HKuX3Bd3I7PpgK3a8Le.jpg",
-        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Defense Drill) will start on 12/3 (Tue)! ➡️Offi",
-        "type": "MiniBattle",
-        "url": "x.com/EN_BlueArchive/status/1861666266064564548",
-        "start_time": 1733220000,
-        "end_time": 1733220000
-      },
-      {
-        "id": 3512,
-        "line_type": "Globle",
-        "title": "索尼X蔚蓝档案 联动WH-1000XM5联动店与典藏包预订开始",
-        "image": "https://static.kivo.wiki/images/timeline/8OEU2yNwYyTPIH3taOHGcoGaqbxUUYvD.png",
-        "body_summary": "[SONY X 블루 아카이브 WH-1000XM5 컬렉션 패키지 출시 사전 안내] 선생님, 12월 9일(월)부터 SONY X 블루 아카이브 WH-1000XM5 컬렉션 패키지가 '카카",
-        "type": "OutsideGames",
-        "url": "x.com/KR_BlueArchive/status/1863844130746753326",
-        "start_time": 1733209200,
-        "end_time": 1733209200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594247,
+  "time": 1782682338,
   "version": "1.0.0-beta.43"
 }

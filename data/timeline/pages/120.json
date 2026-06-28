@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4361,
+        "line_type": "CN",
+        "title": "庆典招募【温柔地奏响天空的方式】",
+        "image": "https://static.kivo.wiki/images/timeline/nFmfHixyZDs7X3PnLwOH2bGCNc8r4RoA.png",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 庆典招募【温柔地奏响天空的方式】即将开启！在本次招募中，全新3★限定成员“日奈（礼服）”登场，且招募概率得到提升！ ■ 招募时间 08月07日 14:00 ~ 08月",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1506",
+        "start_time": 1754546400,
+        "end_time": 1755151140
+      },
+      {
+        "id": 4354,
+        "line_type": "Globle",
+        "title": "国际服炸服 #24",
+        "image": "https://static.kivo.wiki/images/timeline/y5Cqjz9aL9it98DqSBnZ558L5C92F5Qm.jpg",
+        "body_summary": "[8/7(Thu) Temporary Maintenance Notice] There is temporary maintenance scheduled today on 8/7(Thu). ",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1953321966921986152",
+        "start_time": 1754546400,
+        "end_time": 1754550000
+      },
       {
         "id": 4349,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1952912605582156106",
         "start_time": 1754463076,
         "end_time": 1754463076
-      },
-      {
-        "id": 4342,
-        "line_type": "JP",
-        "title": "活动「Say-Bing!」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/4eG2ysR1VtXqaBsGWvOAyOZcemHLBXvG.png",
-        "body_summary": "【イベント】「Say-Bing!」紹介 2025-8-5(火) 【イベント概要】 ▼開催期間 2025年8月6日(水) メンテナンス後 ~ 2025年8月13日(水) 10:59 ▼報酬交換期間 20",
-        "type": "Event",
-        "url": "bluearchive.jp/news/newsJump/577",
-        "start_time": 1754462695,
-        "end_time": 1755067495
-      },
-      {
-        "id": 4340,
-        "line_type": "JP",
-        "title": "卡池「司令室より監視員、スライダーに急行を」&「監視員、了解。ドーナッツアイス食べたらね」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/y5FWuo0u46MT2twj7GwEwEB8U78IqHoy.png",
-        "body_summary": "ピックアップ募集紹介：★3「カンナ(水着)」、★3「フブキ(水着)」 2025-8-5(火) いつも「ブルーアーカイブ」をご利用いただき、誠にありがとうございます。 2025年8月6日(水) メンテナ",
-        "type": "Gacha",
-        "url": "bluearchive.jp/news/newsJump/575",
-        "start_time": 1754461941,
-        "end_time": 1755066741
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594158,
+  "time": 1782682227,
   "version": "1.0.0-beta.43"
 }

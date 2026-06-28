@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2290,
+        "line_type": "JP",
+        "title": "日服修改用户协议",
+        "image": "",
+        "body_summary": "【利用規約改定のお知らせ】 この度はより良いサービス提供のため、一部利用規約を改定いたします。 詳細につきましては以下よりご確認ください。 ▼詳細 https://bluearchive.jp/new",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1768563387871727669",
+        "start_time": 1710496920,
+        "end_time": 1710496920
+      },
+      {
+        "id": 2283,
+        "line_type": "CN",
+        "title": "战术对抗赛第三赛季开启",
+        "image": "https://static.kivo.wiki/images/timeline/AzmBL1jwH335497bkj2NU0C7Slf70nbN.jpg",
+        "body_summary": "战术对抗赛第三赛季即将开启！随着新赛季的开启，前一赛季的赛季排名将被重置，新赛季的地形类型将变为【室内战】。 请老师搭配全新的阵容，在新的赛季向着更高的排名进发吧！ ■ 新赛季开启时间 03月14日 ",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/O4wWP1o6T",
+        "start_time": 1710410456,
+        "end_time": 1710410456
+      },
       {
         "id": 2285,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1767456774544892096",
         "start_time": 1710388845,
         "end_time": 1711944045
-      },
-      {
-        "id": 2282,
-        "line_type": "CN",
-        "title": "学院交流会3倍2",
-        "image": "https://static.kivo.wiki/images/timeline/BLCRKEFiwviOQpWM7oxPGAj0VPJVuLpJ.jpg",
-        "body_summary": "#蔚蓝档案 【学院交流会】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【学院交流会】道具掉落量3倍 ■ 活动时间 03月14",
-        "type": "Double",
-        "url": "weibo.com/6011443154/O4uclirqc",
-        "start_time": 1710360042,
-        "end_time": 1710964782
-      },
-      {
-        "id": 2266,
-        "line_type": "JP",
-        "title": "大决战：市街地戦・ビナー #2",
-        "image": "https://static.kivo.wiki/images/timeline/wsF8LiWrlEY7W6Aw3mXkYJRd9loAvSmt.jpg",
-        "body_summary": "【大決戦・予告】 3月13日(水)11:00より、大決戦「市街地戦・ビナー」を開催します！ 今回難易度「Torment」に挑戦できる防御タイプは「特殊装甲」です！ 普段の防御タイプとは異なるビナーにど",
-        "type": "BigRaid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1766660537386250646",
-        "start_time": 1710298800,
-        "end_time": 1710878399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594351,
+  "time": 1782682473,
   "version": "1.0.0-beta.43"
 }

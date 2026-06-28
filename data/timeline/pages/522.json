@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 840,
+        "line_type": "Globle",
+        "title": "国际服开服时间公布",
+        "image": "https://static.kivo.wiki/images/timeline/qWrwKau7gVbevdZYIRx1rd71CS4tGZY2.jpg",
+        "body_summary": "[Blue Archive 11/08/2021 (Mon) Grand Opening!] Announcing the long-awaited official release date of ",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1455359003265945603",
+        "start_time": 1635819600,
+        "end_time": 1635819600
+      },
+      {
+        "id": 201,
+        "line_type": "JP",
+        "title": "活动「初音ミクのスペシャルライブ in キヴォトス～リハーサル編～」",
+        "image": "https://static.kivo.wiki/images/timeline/WUwtP6dSEcw1y4SlPDSjnnDfoPp7pOos.jpg",
+        "body_summary": "【イベント】 コラボイベント「初音ミクのスペシャルライブ in キヴォトス～リハーサル編～」がいよいよ開催です。 初音ミクさんにピッタリなイベントステージを発表します！ ここでは初音ミクさんが可愛いパ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1455082720036417541",
+        "start_time": 1635750120,
+        "end_time": 1635912000
+      },
       {
         "id": 41,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1450066316816097280",
         "start_time": 1635336000,
         "end_time": 1635336000
-      },
-      {
-        "id": 975,
-        "line_type": "JP",
-        "title": "「学院交流会」实装",
-        "image": "https://static.kivo.wiki/images/timeline/PMT5msIDc79PeMeY5CxqzPqx1NMu4hB3.png",
-        "body_summary": "【新情報 ⑧】 10月27日(水)メンテナンス後、新常設コンテンツ「学園交流会」が開催です！ 学園交流会では、トリニティ、ゲヘナ、そしてミレニアムの生徒たちとのバトルが繰り広げられます！ また、先ほど",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1450065522540703745",
-        "start_time": 1635336000,
-        "end_time": 1635336000
-      },
-      {
-        "id": 974,
-        "line_type": "JP",
-        "title": "「固有武器」实装",
-        "image": "https://static.kivo.wiki/images/timeline/2hacw8kkkkw7KVcAWCGmAEK11vLkXJFA.png",
-        "body_summary": "【新情報 ⑦】 新機能「固有武器」が、10月27日(水)メンテナンス後、すべての生徒さんに実装されます! 固有武器を装備する事で生徒さん達は様々な恩恵を得られる他、武器の一つ一つに名称や解説が記載され",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1450064460723343360",
-        "start_time": 1635336000,
-        "end_time": 1635336000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594542,
+  "time": 1782682717,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 365,
+        "line_type": "JP",
+        "title": "卡池「笑顔よ続け、夏の日に」＆「想いよ開け、夏の夜に」",
+        "image": "https://static.kivo.wiki/images/timeline/8FetZqH9o2oCLOjQtl2kpG3pLfY1yjMi.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「笑顔よ続け、夏の日に」＆「想いよ開け、夏の夜に」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ノノミ(水着)(CV:#三浦千幸) ★3 ワカモ(水着)(",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1539110903517708290",
+        "start_time": 1655895600,
+        "end_time": 1657076400
+      },
+      {
+        "id": 2520,
+        "line_type": "JP",
+        "title": "活动「アビドスリゾート復旧対策委員会」",
+        "image": "https://static.kivo.wiki/images/timeline/VsNfmQhB6AuCcVSCffx3tZtkwGBz66Kp.jpg",
+        "body_summary": "【新情報③】 6月22日(水)メンテナンス後、新イベント「アビドスリゾート復旧対策委員会」が開催されます！ 今回のイベントでは今までにない新要素が追加されますので、詳しい遊び方や報酬などは、後日公開の",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1537757698758160387",
+        "start_time": 1655892016,
+        "end_time": 1657076356
+      },
       {
         "id": 368,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1535139700029153281",
         "start_time": 1655467200,
         "end_time": 1655474400
-      },
-      {
-        "id": 1799,
-        "line_type": "JP",
-        "title": "屋内戦・ヒエロニムス3",
-        "image": "https://static.kivo.wiki/images/timeline/nLbKce8EoINZJD8KauxLrqCxsbx2x9Zp.jpg",
-        "body_summary": "【総力戦・予告】 6月15日(水)11:00より、「屋内戦・ヒエロニムス」が開催されます！ トリニティの古聖堂の地下に突如現れた、正体不明の存在「ヒエロニムス」…。 キヴォトス全土に影響を及ぼす前に、",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1535471943876345856",
-        "start_time": 1655262000,
-        "end_time": 1655838000
-      },
-      {
-        "id": 1118,
-        "line_type": "Globle",
-        "title": "国际服总力战 KAITEN FX Mk.0 (Urban) 1",
-        "image": "https://static.kivo.wiki/images/timeline/7i6DxU1Mat0tvBQ9T1AFV4WUJNvuwYXw.jpg",
-        "body_summary": "[Total Assault Preview] KAITEN FX Mk.0(Urban Warfare) will be held on 6/14 (Tue)! Do you have your s",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1534460222286225409",
-        "start_time": 1655197247,
-        "end_time": 1655737187
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594507,
+  "time": 1782682673,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3600,
+        "line_type": "Globle",
+        "title": "国际服「Sheside Outside」PV转推活动",
+        "image": "https://static.kivo.wiki/images/timeline/s1Cb0oeW3Az2zvnc55MAuchOSr6mrAgM.jpg",
+        "body_summary": "🎉 Blue Archive PV Sharing Event! 🎉 Share the official PV on X (Twitter) or Facebook, and you could w",
+        "type": "WebEvent",
+        "url": "x.com/EN_BlueArchive/status/1882735093363740994",
+        "start_time": 1737714000,
+        "end_time": 1738339200
+      },
+      {
+        "id": 3577,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 25-01-24",
+        "image": "https://static.kivo.wiki/images/timeline/oDF8B5VPedINBbjy8LA0qLaOaR4d0WBn.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1882699993225847190",
+        "start_time": 1737709200,
+        "end_time": 1737709200
+      },
       {
         "id": 3634,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1882342817110147170",
         "start_time": 1737626400,
         "end_time": 1737626400
-      },
-      {
-        "id": 3589,
-        "line_type": "Globle",
-        "title": "国际服活动「Sheside outside」",
-        "image": "https://static.kivo.wiki/images/timeline/oz0pacGDyHmUC03ublGpj8TlocYtpIIM.jpg",
-        "body_summary": "['Sheside outside' Event Notice] Sensei, the 'Sheside outside' event is now live! How about heading ",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/1882342506115027341",
-        "start_time": 1737626400,
-        "end_time": 1738807200
-      },
-      {
-        "id": 3588,
-        "line_type": "Globle",
-        "title": " 国际服卡池复刻「You've been waiting all this time, haven't you? I, Misono Mika, have finally arrived.」",
-        "image": "https://static.kivo.wiki/images/timeline/B929QENyZUZdj8x9KcWALAqfqFz4hFWM.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 1/23 (Th",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1880880373556728243",
-        "start_time": 1737626400,
-        "end_time": 1738202400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594227,
+  "time": 1782682313,
   "version": "1.0.0-beta.43"
 }

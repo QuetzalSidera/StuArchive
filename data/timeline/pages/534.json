@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 110,
+        "line_type": "JP",
+        "title": "屋内戦・ヒエロニムス 緊急襲来",
+        "image": "https://static.kivo.wiki/images/timeline/rEUOcwhsbkOVX1NnwwOYbbxVO02URKDE.jpg",
+        "body_summary": "【総力戦予告】 先生、大変です！先日退けたはずの「ヒエロニムス」が再び現れました！！ 今回は緊急襲来により短期決戦です！ いつもとは違いますので、注意してください！ 「屋内戦・ヒエロニムス」6月24日",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1405737560404480006",
+        "start_time": 1624528800,
+        "end_time": 1624809599
+      },
+      {
+        "id": 113,
+        "line_type": "JP",
+        "title": "例行维护17",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/24(木) 12:00 〜 18:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1407564125434044416",
+        "start_time": 1624507200,
+        "end_time": 1624528800
+      },
       {
         "id": 111,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1402188932968636417",
         "start_time": 1623124800,
         "end_time": 1623859199
-      },
-      {
-        "id": 945,
-        "line_type": "JP",
-        "title": "总力战扫荡、战术对抗战跳过最后一分钟等功能追加",
-        "image": "",
-        "body_summary": "【総力戦】 ・「ロビー」画面、および「お仕事」画面に「総力戦オープン」の通知が表示されるように調整。 ・掃討機能の追加 ※1日1回、特定の難易度をクリアすると当該難易度の残り回数は掃討可能になります。",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622116800,
-        "end_time": 1622116800
-      },
-      {
-        "id": 944,
-        "line_type": "JP",
-        "title": "日程区域「ミレニアム・スタディーエリア 」追加，区域等级上限提升至12，建筑等级上限提升至6",
-        "image": "https://static.kivo.wiki/images/timeline/iccMfAi3MN9qsPeXSs1r8xtBcZejsZHW.png",
-        "body_summary": "・ 新規ロケーション「ミレニアム・スタディーエリア 」を追加 ※ ミレニアム生徒を10人以上お迎えると、こちらのロケーションがオープンされます ・ロケーションランクの上限を10から12までに解放 ・各",
-        "type": "ContentImprovements",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622116800,
-        "end_time": 1622116800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594555,
+  "time": 1782682731,
   "version": "1.0.0-beta.43"
 }

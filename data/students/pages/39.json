@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 48,
+    "max_page": 49,
     "students": [
+      {
+        "id": 17,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "联邦学生会长",
+        "family_name_jp": "",
+        "given_name_jp": "連邦生徒会長",
+        "family_name_cn": "",
+        "given_name_cn": "联邦理事会长",
+        "avatar": "https://static.kivo.wiki/images/students/%E8%81%94%E9%82%A6%E5%AD%A6%E7%94%9F%E4%BC%9A%E9%95%BF/avatar.png",
+        "school": 12,
+        "main_relation": 64
+      },
       {
         "id": 592,
         "skin": "",
@@ -147,27 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E6%AD%A5%E6%9E%AA%E4%B8%8D%E8%89%AF/avatar.png",
         "school": 17,
         "main_relation": 80
-      },
-      {
-        "id": 189,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "不良学生B",
-        "family_name_jp": "",
-        "given_name_jp": "チンピラB",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%86%B2%E9%94%8B%E6%9E%AA%E4%B8%8D%E8%89%AF/avatar.png",
-        "school": 17,
-        "main_relation": 80
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782588045,
+  "time": 1782674414,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1014,
+        "line_type": "Globle",
+        "title": "国际服卡池「Arrived at the objective. Let's go straight to the next mission.」",
+        "image": "https://static.kivo.wiki/images/timeline/DgpHDAi3nEmi8bFqyjQjXlPUGr4wtNCU.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 2/22 (Tue)! Target Pick",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1494960230865661953",
+        "start_time": 1645516800,
+        "end_time": 1646708400
+      },
+      {
+        "id": 1016,
+        "line_type": "Globle",
+        "title": "国际服例行维护8",
+        "image": "",
+        "body_summary": "[2/22 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/22 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1495594127697850369",
+        "start_time": 1645498827,
+        "end_time": 1645516827
+      },
       {
         "id": 1013,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1492332656885137410",
         "start_time": 1644955200,
         "end_time": 1645300799
-      },
-      {
-        "id": 260,
-        "line_type": "JP",
-        "title": "特别依赖3倍 #3",
-        "image": "https://static.kivo.wiki/images/timeline/wuop5yE6BesyRXQCgBv5WZNC1q7Mp33L.jpg",
-        "body_summary": "【キャンペーン予告】 「特別依頼」のドロップ量が3倍になるキャンペーンの第2弾が間もなく開催です！ 1周年記念の「特別依頼」ドロップ量3倍はこれが最後の期間ですので、ぜひ沢山の「レポート」や「クレジッ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1491970684725379072",
-        "start_time": 1644955200,
-        "end_time": 1645559999
-      },
-      {
-        "id": 1010,
-        "line_type": "Globle",
-        "title": "国际服推特投票「补课部最擅长游泳的学生」结果",
-        "image": "https://static.kivo.wiki/images/timeline/q8B06TJAsaphuCSc9IadpfJjzAfDDf5f.jpg",
-        "body_summary": "✨Surprise Poll Results!✨ Announcing the 2/9 – 2/10 Surprise Poll results! (Voting results have been ",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1493482738812260352",
-        "start_time": 1644937837,
-        "end_time": 1644937837
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594525,
+  "time": 1782682695,
   "version": "1.0.0-beta.43"
 }

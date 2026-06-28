@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1505,
+        "line_type": "Globle",
+        "title": "国际服卡池「I PROMISE PERFECT ASSISTANCE.」",
+        "image": "https://static.kivo.wiki/images/timeline/EtnqyG4J6jxR4cOCf1QfHb3Rj8NtfNpA.jpg",
+        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 8/22 (Tue)! Pick",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1692823724188176605",
+        "start_time": 1692691203,
+        "end_time": 1693879143
+      },
+      {
+        "id": 1502,
+        "line_type": "Globle",
+        "title": "国际服例行维护45",
+        "image": "",
+        "body_summary": "[8/22 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/22 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1692461337342025783",
+        "start_time": 1692669656,
+        "end_time": 1692691256
+      },
       {
         "id": 1504,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "bluearchive-cn.com/news/185",
         "start_time": 1692280001,
         "end_time": 1725112001
-      },
-      {
-        "id": 2174,
-        "line_type": "CN",
-        "title": "首次活动开启纪念",
-        "image": "https://static.kivo.wiki/images/timeline/n1qZLIfPZHJtQ5zsa4M7RwaBYXF6poCR.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为纪念首次限时活动的开启，特意准备了连续15天的AP助力！请好好享受活动吧~~ ■ 活动时间 2023年08月17日（周四）活动开启后 ~ 08月31日（周四） ■ ",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/181",
-        "start_time": 1692266416,
-        "end_time": 1693450816
-      },
-      {
-        "id": 2168,
-        "line_type": "CN",
-        "title": "活动【樱花烂漫庆典大骚动】庆典启动资金",
-        "image": "https://static.kivo.wiki/images/timeline/bgXZrSnnmCUaJOIfr9QetwR1rkriCYtj.jpg",
-        "body_summary": "老师！维护更新现已结束，限时活动【樱花烂漫庆典大骚动】开启！ 为纪念本次限时活动开启，现已为全服老师准备了【青辉石*1200】作为庆典启动资金，老师可通过邮箱领取！ ■ 邮件发放时间 08月17日（周",
-        "type": "Event",
-        "url": "weibo.com/6011443154/Nf0QOq8zv",
-        "start_time": 1692259235,
-        "end_time": 1693461575
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594422,
+  "time": 1782682562,
   "version": "1.0.0-beta.43"
 }

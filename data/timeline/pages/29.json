@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5292,
+        "line_type": "Globle",
+        "title": "国际服热补丁修复",
+        "image": "https://static.kivo.wiki/images/timeline/Af1CONCqafJEejRF4EYAy5REEKU1qUTT.jpg",
+        "body_summary": "[4/8 Data Patch Notice] We will be having a quick data patch (hotfix) on 4/8 (Wed). The game will be",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2041744330088677576",
+        "start_time": 1775628300,
+        "end_time": 1775628300
+      },
+      {
+        "id": 5298,
+        "line_type": "Globle",
+        "title": "国际服红冬推特贴集赞小活动 #1",
+        "image": "https://static.kivo.wiki/images/timeline/9ANwgL7WDxqq5Rui1E4viaakhG4hejMZ.jpg",
+        "body_summary": "A peculiar flyer has arrived from Red Winter! Rumor has it that if you spread the flyers being distr",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2041742839311135143",
+        "start_time": 1775624400,
+        "end_time": 1775624400
+      },
       {
         "id": 5278,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2041453290765107265",
         "start_time": 1775541600,
         "end_time": 1775541600
-      },
-      {
-        "id": 5296,
-        "line_type": "Globle",
-        "title": "国际服活动常驻化「The Academy Club Story: A Pair's Final Adventure」",
-        "image": "https://static.kivo.wiki/images/timeline/Nf61rixAyUwBZGcluVBBaS2xqrG8O2kp.jpg",
-        "body_summary": "[Immortalized Event Notice] The Event Story, The Academy Club Story: A Pair's Final Adventure, has b",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2041421970349400178",
-        "start_time": 1775541600,
-        "end_time": 1775541600
-      },
-      {
-        "id": 5295,
-        "line_type": "Globle",
-        "title": "国际服活动 「Winter Sky's Renaissance: Thesis on Cultural Exchange」",
-        "image": "https://static.kivo.wiki/images/timeline/Io4I3FrlSSFMaUqeR8B2P8BQtT99RYHY.jpg",
-        "body_summary": "[Event Update Notice] The Event Story 'Winter Sky's Renaissance: Thesis on Cultural Exchange' is sta",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2041418197078077922",
-        "start_time": 1775541600,
-        "end_time": 1776711540
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594070,
+  "time": 1782682109,
   "version": "1.0.0-beta.43"
 }

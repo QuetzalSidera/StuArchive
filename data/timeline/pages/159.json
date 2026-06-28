@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3944,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #83",
+        "image": "https://static.kivo.wiki/images/timeline/BiC8EEo2Zgir61Inm6a4E5CQXoJai1qB.jpg",
+        "body_summary": "[4/29 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/29 (Tue). Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1915692259275649479",
+        "start_time": 1745892000,
+        "end_time": 1745906400
+      },
+      {
+        "id": 3946,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍 #36",
+        "image": "https://static.kivo.wiki/images/timeline/T14gPMiCnLboRdWsr9yesPueHlf41OV5.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1916024451067506826",
+        "start_time": 1745866800,
+        "end_time": 1746471540
+      },
       {
         "id": 3939,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/KR_BlueArchive/status/1911283207414104550",
         "start_time": 1745546400,
         "end_time": 1746792000
-      },
-      {
-        "id": 3945,
-        "line_type": "Globle",
-        "title": "国际服新专辑「Twinkle☆Magic」MV公开特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/mUQa0nV7SiB0zuVLqnW8irXtEZ5Pm2w5.jpg",
-        "body_summary": "[‘Twinkle☆Magic’ MV Release – Special Reward Notice] Sensei, the 'Twinkle☆Magic' MV is now available",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/1915709872630386888",
-        "start_time": 1745532600,
-        "end_time": 1746154740
-      },
-      {
-        "id": 3903,
-        "line_type": "CN",
-        "title": "限时活动【寻找隐藏的遗产~崔尼蒂的课外活动~】",
-        "image": "https://static.kivo.wiki/images/timeline/ELRVvrd0w49rwYpXHODXIKomUxyXFTWO.jpg",
-        "body_summary": "限时活动【寻找隐藏的遗产\\~崔尼蒂的课外活动~】现已开启！ 偷偷复制姐妹会的经典却被发现的忧，在花子的仲裁下（？）接下了调查遗迹的任务……一场横冲直撞的遗迹探险记在崔尼蒂近海的无人岛上演！ ■ 给老师",
-        "type": "Event",
-        "url": "weibo.com/6011443154/PoL5pm2JA",
-        "start_time": 1745488800,
-        "end_time": 1746856799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594195,
+  "time": 1782682273,
   "version": "1.0.0-beta.43"
 }

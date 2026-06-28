@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4933,
+        "line_type": "CN",
+        "title": "限时复刻活动【学漫同人物语~】",
+        "image": "https://static.kivo.wiki/images/timeline/4vXHhaOnuhS6YBeo11Y8FcJAjQ2WAHXW.png",
+        "body_summary": "让知识解放战线四分五裂的悲剧名作《LUNA》。 为了与红叶和解，也为了知识解放战线的重新团结，芽瑠打算完成未完的《LUNA》…… 究竟在同人之路的前方等待着的会是什么样的结局呢！？ ■ 活动时间 • ",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1665",
+        "start_time": 1769021940,
+        "end_time": 1769651940
+      },
+      {
+        "id": 4965,
+        "line_type": "JP",
+        "title": "5周年纪念「憧れの日々」MV公开",
+        "image": "https://static.kivo.wiki/images/timeline/WY5HSu3Xj5q96H571VGopVEbFaFUKrBO.jpg",
+        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はフウカさんが歌う「憧れの日々」です！ ▼動画はこちら https://youtu.be/kDJ60PreH-s",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2013944671031210379",
+        "start_time": 1769001648,
+        "end_time": 1769001648
+      },
       {
         "id": 4973,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2013423785911951705",
         "start_time": 1768906165,
         "end_time": 1768906165
-      },
-      {
-        "id": 4971,
-        "line_type": "Globle",
-        "title": "国际服例行维护#102",
-        "image": "https://static.kivo.wiki/images/timeline/VYt6YKzJp7ENkrMDIN59AKPcQjEj5ptB.jpg",
-        "body_summary": "[1/20(Tue) Temporary Maintenace Notice] To improve game stability and performance, a temporary maint",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2013486452433395859",
-        "start_time": 1768888800,
-        "end_time": 1768892400
-      },
-      {
-        "id": 5000,
-        "line_type": "JP",
-        "title": "5周年调查问卷",
-        "image": "https://static.kivo.wiki/images/timeline/IySPM24SJezh4j7TmM5rtwhKgeRyeyrG.jpg",
-        "body_summary": "【5th Anniversary】 アップデート終了後、「ブルーアーカイブ 5th Anniversary 特別アンケート」を実施します！ ゲーム内メニュー画面の「アカウント」にある、「アンケート」に",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2013476660251894067",
-        "start_time": 1768885314,
-        "end_time": 1768885314
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594102,
+  "time": 1782682155,
   "version": "1.0.0-beta.43"
 }

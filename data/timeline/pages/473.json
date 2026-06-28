@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1186,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Under a Shining Moon, Crimson shade of Hide and Seek」",
+        "image": "https://static.kivo.wiki/images/timeline/Q3gss5hLauoqMc2sW1s0sV6PbTiuSAjP.jpg",
+        "body_summary": "[Under a Shining Moon, Crimson shade of Hide and Seek Event] A new Event has begun! Participate for ",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1567709438747852807",
+        "start_time": 1662606026,
+        "end_time": 1663470026
+      },
+      {
+        "id": 428,
+        "line_type": "JP",
+        "title": "战术对抗战S4开幕",
+        "image": "https://static.kivo.wiki/images/timeline/0i1Z2oZs8zK0OmoNKiKsIeU6dmfnLsZd.jpg",
+        "body_summary": "【戦術対抗戦・新シーズン開幕】 今回のメンテナンス終了後より、戦術対抗戦の新シーズンが開幕いたします！ 新シーズン開幕に伴い現在の順位がリセットの他、地形も「市街地」へと変更されます。 今シーズンはど",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1567407364399333376",
+        "start_time": 1662541200,
+        "end_time": 1662541200
+      },
       {
         "id": 426,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1565595383723466752",
         "start_time": 1662451220,
         "end_time": 1663642820
-      },
-      {
-        "id": 1175,
-        "line_type": "Globle",
-        "title": "装备统一强化等功能实装",
-        "image": "https://static.kivo.wiki/images/timeline/z2ykFP0HNZsanVzULCxByEzjCKRyXMr5.jpg",
-        "body_summary": "[9/6 Update Notice] 9/6 (Tue) scheduled maintenance has ended. Update Details: https://m.nexon.com/f",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1567060155983974400",
-        "start_time": 1662451207,
-        "end_time": 1662451207
-      },
-      {
-        "id": 1173,
-        "line_type": "Globle",
-        "title": "国际服「Schale's Happy ♡ Valentine Patrol & Wakamo's Silence and Feast」活动PV公开",
-        "image": "",
-        "body_summary": "[Event Notice] Schale's Happy ♡ Valentine Patrol & Wakamo's Silence and Feast has begun! Don’t miss ",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1567060160669175814",
-        "start_time": 1662451205,
-        "end_time": 1662451205
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594495,
+  "time": 1782682658,
   "version": "1.0.0-beta.43"
 }

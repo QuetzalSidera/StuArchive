@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4007,
+        "line_type": "JP",
+        "title": "卡池「乙女よ 忘れたまふことなかれ」&「あさき夢みし 隔てな」",
+        "image": "https://static.kivo.wiki/images/timeline/eIUH2yZKY0iZJ7FJJJTpsNl2slV2cwKc.jpg",
+        "body_summary": "【新情報①】 ピックアップ募集「乙女よ 忘れたまふことなかれ」、「あさき夢みし 隔てな」が開催されます。 🔷開催期間 5/21(水) メンテナンス後 ~ 6/4(水) 10:59",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1924053876170522665",
+        "start_time": 1747821600,
+        "end_time": 1749005999
+      },
+      {
+        "id": 4034,
+        "line_type": "JP",
+        "title": " 例行维护 #120",
+        "image": "",
+        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です。 先生、ご協力のほどお願いいたします！ ▼実施日時 5/21(水) 11:00 〜 19:00前後 ▼詳細 https://bluearc",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1925001151491277088",
+        "start_time": 1747796400,
+        "end_time": 1747825200
+      },
       {
         "id": 4033,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1921867960248930700",
         "start_time": 1747555571,
         "end_time": 1747555571
-      },
-      {
-        "id": 4023,
-        "line_type": "CN",
-        "title": "炸服#12（3倍掉落活动未按时生效）",
-        "image": "https://static.kivo.wiki/images/timeline/YtcZMjxe3XYpMVlScqdxmHPEtiayQuU8.gif",
-        "body_summary": "“欢迎连接什亭之箱，老师。” 我们收到部分老师发来关于【特别委托】-【信用回收】道具掉落量3倍活动未按时正常生效，并开展了相关问题的核实工作，并已于09:45进行修复，老师们可以正常进行刷取。 对于0",
-        "type": "Maintenance",
-        "url": "weibo.com/6011443154/PrUeFvNS8",
-        "start_time": 1747532700,
-        "end_time": 1747532700
-      },
-      {
-        "id": 3979,
-        "line_type": "CN",
-        "title": "蔚蓝档案UtopiaFesti游戏音乐嘉年华",
-        "image": "https://static.kivo.wiki/images/timeline/CcxGiNN1bbHCpAfWSIZ3jFcVj8yRksNG.jpg",
-        "body_summary": "阿洛娜为老师带来UtopiaFesti游戏音乐嘉年华的情报！ ■ 《蔚蓝档案》演出时间 5月17日 16:55起 ■ 演出地点 上海国际赛车场P4-P6 ■ 限定特典 蔚蓝档案×Utopia Fest",
-        "type": "OutsideGames",
-        "url": "weibo.com/6011443154/Ppdz5g7IZ",
-        "start_time": 1747474200,
-        "end_time": 1747476600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594188,
+  "time": 1782682265,
   "version": "1.0.0-beta.43"
 }

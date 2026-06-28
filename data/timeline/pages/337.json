@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2079,
+        "line_type": "CN",
+        "title": "【0.5周年倒计时签到活动】",
+        "image": "https://static.kivo.wiki/images/timeline/G62nIoRNwSuAdSaCFZk5gSsnnGk4rUXl.jpg",
+        "body_summary": "0.5周年倒计时签到活动即将开始！活动期间登录游戏，即可领取大量青辉石奖励！ ■ 活动时间 02月01日 04:00 ~ 02月08日 03:59 ■ 奖励内容 • 02月01日 04:00 ~ 02",
+        "type": "Event",
+        "url": "www.bilibili.com/opus/892258835873398806?spm_id_from=333.999.0.0",
+        "start_time": 1706732439,
+        "end_time": 1707335979
+      },
+      {
+        "id": 2077,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍3",
+        "image": "https://static.kivo.wiki/images/timeline/Zhk7fwSN18KN7j0vb1oXn6LIf7XAcxua.jpg",
+        "body_summary": "【任务（普通难度）】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ ※ 02月01日 维护结束后，将更新【区域17】关卡内容，请",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/891965059859742738",
+        "start_time": 1706731249,
+        "end_time": 1707076789
+      },
       {
         "id": 2324,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1750764252976312413",
         "start_time": 1706605250,
         "end_time": 1707357590
-      },
-      {
-        "id": 2033,
-        "line_type": "Globle",
-        "title": "国际服卡池「Hey, Sensei... I hope you don't mind... I... made you a drink.」",
-        "image": "https://static.kivo.wiki/images/timeline/xbD2pUbx0rxMpe8GmTM7fDDY3UyFveQH.jpg",
-        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 1/30 (Tue)! Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1750760491431993377",
-        "start_time": 1706605237,
-        "end_time": 1707357577
-      },
-      {
-        "id": 2035,
-        "line_type": "Globle",
-        "title": "国际服活动「In Search of Hidden Ruins ~Trinity Extracurriculars~」",
-        "image": "https://static.kivo.wiki/images/timeline/D3G8brMdO1q4nsimS1b73KIbfCZHVbSq.jpg",
-        "body_summary": "[Event Preview] Sensei, the Event Story 'In Search of Hidden Ruins ~Trinity Extracurriculars~' is co",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1750775578419155439",
-        "start_time": 1706605234,
-        "end_time": 1707962374
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594366,
+  "time": 1782682492,
   "version": "1.0.0-beta.43"
 }

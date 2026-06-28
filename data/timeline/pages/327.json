@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2154,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍5",
+        "image": "https://static.kivo.wiki/images/timeline/zz48FBAol4jUc5qKVACzEbm69W5BzlBw.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/23 (Fri)! Don't m",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1760924954386903188",
+        "start_time": 1708714811,
+        "end_time": 1708887551
+      },
+      {
+        "id": 2146,
+        "line_type": "JP",
+        "title": "炸服33（延长）",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 「クイック製造」不具合対応のため、下記の時間に臨時メンテナンスを行います。 ご理解、ご協力のほどよろしくお願いいたします。 ▼実施日時 2024/2/23(金) 14:00 〜 ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1760877242723557861",
+        "start_time": 1708668000,
+        "end_time": 1708682400
+      },
       {
         "id": 2251,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/O1kYolDhf",
         "start_time": 1708545637,
         "end_time": 1709150377
-      },
-      {
-        "id": 2145,
-        "line_type": "JP",
-        "title": "违规账号封禁31",
-        "image": "https://static.kivo.wiki/images/timeline/brRHwYvooGh1n3AbPQPMV9ktMGdZskgd.jpg",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1760258201734553694",
-        "start_time": 1708513200,
-        "end_time": 1708513200
-      },
-      {
-        "id": 2143,
-        "line_type": "JP",
-        "title": "卡池「悪党円舞曲(アウトローワルツァー)」&「美しく明けきメタル」",
-        "image": "https://static.kivo.wiki/images/timeline/Vzgl0gUavdjOqcovn1StveM9ofSTnV4b.jpg",
-        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「悪党円舞曲(アウトローワルツァー)」&「美しく明けきメタル」が開催されます。 🔹ピックアップ生徒 ★3 アル(ドレス)(CV:#近藤玲奈) ★3",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1759806106094932267",
-        "start_time": 1708513200,
-        "end_time": 1709693999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594356,
+  "time": 1782682480,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1196,
+        "line_type": "Globle",
+        "title": "国际服活动「The Clumsy Sister and the Magician of the Old Library」",
+        "image": "https://static.kivo.wiki/images/timeline/XNFDwV1hzzkdy06EYUS7CUs09PqYc1sH.jpg",
+        "body_summary": "[Update Preview] Trinity General School will be in the spotlight for the new event! Stay tuned for t",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1575742239883423744",
+        "start_time": 1664870427,
+        "end_time": 1666058427
+      },
+      {
+        "id": 1208,
+        "line_type": "Globle",
+        "title": "国际服「The Clumsy Sister and the Magician of the Old Library」活动PV公开",
+        "image": "",
+        "body_summary": "[Event Update Notice] There will be a ceremony to announce the discovery of precious scriptures at T",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1577207245930045440",
+        "start_time": 1664870413,
+        "end_time": 1664870413
+      },
       {
         "id": 1199,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1575017497752846336",
         "start_time": 1664362800,
         "end_time": 1664362800
-      },
-      {
-        "id": 450,
-        "line_type": "JP",
-        "title": "Area20开放",
-        "image": "https://static.kivo.wiki/images/timeline/LVJFVdy6O49sX8f9k2OHGc5VGWkB4L72.jpg",
-        "body_summary": "【エリア解放予告】 メンテナンス終了後、「任務 Area20」が開放されます！ 「Area20」では新たな「T7装備」が獲得できる他、「任務 Hard」20-3では一定確率でイオリさんの「神名文字」が",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1575002401614213121",
-        "start_time": 1664362800,
-        "end_time": 1664362800
-      },
-      {
-        "id": 449,
-        "line_type": "JP",
-        "title": "登录奖励「晄輪大祭開催記念ログインボーナス」",
-        "image": "https://static.kivo.wiki/images/timeline/ttMNLbELWdJbEnc3aTiNG00xnDOxtEYb.jpg",
-        "body_summary": "【お知らせ】 現在行われているメンテナンス終了後より「晄輪大祭開催記念ログインボーナス」が開催されます！ 開催期間中のログインで最大600個の「青輝石」や、限定家具「大運動会のトロフィー陳列台」が獲得",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1574987292673835009",
-        "start_time": 1664362800,
-        "end_time": 1665543599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594491,
+  "time": 1782682652,
   "version": "1.0.0-beta.43"
 }

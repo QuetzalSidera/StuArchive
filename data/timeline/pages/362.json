@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1032,
+        "line_type": "JP",
+        "title": "市街地戦・クロカゲ1",
+        "image": "https://static.kivo.wiki/images/timeline/3kctt5QqDfDmdEzGsNk4FgJWxxdX0uVU.png",
+        "body_summary": "【総力戦・予告】 11月29日(水)11:00より、新総力戦「市街地戦・クロカゲ」が開幕します！ 突如として百鬼夜行の街へと顕現した怪物、「猫鬼クロカゲ」…。 初の「弾力装甲」のBOSSはどうな攻撃パ",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1728247778114199707",
+        "start_time": 1701248106,
+        "end_time": 1701852906
+      },
+      {
+        "id": 1035,
+        "line_type": "JP",
+        "title": "任务Hard2倍#30",
+        "image": "https://static.kivo.wiki/images/timeline/E9LYuIe19y5bbg4RqnVeZCy41AI2u5DP.jpg",
+        "body_summary": "【キャンペーン予告】 11/29(水)より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼期間 2023/11/29(水)4:00 ~ 2023/12/6(水)3:",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1729063131203457402",
+        "start_time": 1701201600,
+        "end_time": 1701806399
+      },
       {
         "id": 1034,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1729380060677963986",
         "start_time": 1701151255,
         "end_time": 1701151255
-      },
-      {
-        "id": 2194,
-        "line_type": "CN",
-        "title": "封禁公示说明8",
-        "image": "https://static.kivo.wiki/images/timeline/1s3ShNpccLEqPNroGwsTzUfsMaejCxQO.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证各位老师的游戏体验与账号安全，联邦理事会将会一直严厉打击任何以不正当手段破坏游戏公平性的行为，绝不容忍任何外挂、非法第三方工具在基沃托斯出现。致力于为老师提供绿",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/385",
-        "start_time": 1701144059,
-        "end_time": 1701144059
-      },
-      {
-        "id": 1601,
-        "line_type": "Globle",
-        "title": "国际服例行维护51",
-        "image": "",
-        "body_summary": "[11/28 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 11/28 (Tue). 🗓️Main",
-        "type": "Maintenance",
-        "url": "",
-        "start_time": 1701136815,
-        "end_time": 1701154815
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594390,
+  "time": 1782682521,
   "version": "1.0.0-beta.43"
 }

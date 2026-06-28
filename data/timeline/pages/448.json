@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1301,
+        "line_type": "Globle",
+        "title": "国际服「Abydos Resort Restoration Task Force」活动PV公开",
+        "image": "",
+        "body_summary": "[Update Notice] The Abydos Resort Restoration Task Force event is here! Can the Task Force protect t",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1615251449906176001",
+        "start_time": 1673940900,
+        "end_time": 1673940900
+      },
+      {
+        "id": 1885,
+        "line_type": "Globle",
+        "title": "国际服实装好友系统、3级制造节点、初始技能（发牌）选择、PVP跳过、任务战斗跳过",
+        "image": "https://static.kivo.wiki/images/timeline/itoO8Jl7PjGgzBxNam8XqQi8N2O5wh4L.jpg",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1615246416967831553",
+        "start_time": 1673939746,
+        "end_time": 1673939746
+      },
       {
         "id": 1297,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1613060666210004993",
         "start_time": 1673422200,
         "end_time": 1673422200
-      },
-      {
-        "id": 543,
-        "line_type": "JP",
-        "title": "例行维护60",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 1/11(水) 11:00 〜 17:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1612690753897234432",
-        "start_time": 1673406000,
-        "end_time": 1673427600
-      },
-      {
-        "id": 540,
-        "line_type": "JP",
-        "title": "特别依赖2倍#26",
-        "image": "https://static.kivo.wiki/images/timeline/R1cHdVg8HZBxzL0L8acXZpY7mhF2x9T3.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「特別依頼」において各種「レポート」や「クレジット」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/1/11(水)4:00 ~ 2023/",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1611920799589621760",
-        "start_time": 1673380800,
-        "end_time": 1673899199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594472,
+  "time": 1782682626,
   "version": "1.0.0-beta.43"
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-06-27T19:19:07Z",
+  "generated_at": "2026-06-28T19:18:07Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 480,
-  "alias_count": 5537,
-  "normalized_alias_count": 3798,
+  "total_items": 481,
+  "alias_count": 5539,
+  "normalized_alias_count": 3800,
   "by_id": {
     "76": {
       "id": 76,
@@ -8313,6 +8313,31 @@
       "profile_path": "students/profiles/380.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/380.json"
     },
+    "607": {
+      "id": 607,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 607,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "谢玛塔",
+        "family_name_jp": "",
+        "given_name_jp": "シェマタ",
+        "family_name_cn": "",
+        "given_name_cn": "谢玛塔",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E8%B0%A2%E7%8E%9B%E5%A1%94/original/avatar.png",
+        "school": 1,
+        "main_relation": 0
+      },
+      "detail_path": "students/607.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/607.json",
+      "profile_path": "students/profiles/607.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/607.json"
+    },
     "220": {
       "id": 220,
       "source_path": "students/index.json",
@@ -8528,7 +8553,7 @@
         "family_name_jp": "",
         "given_name_jp": "「雷帝」",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "「雷帝」",
         "avatar": "https://static.kivo.wiki/images/students/%20%E3%80%8C%E9%9B%B7%E5%B8%9D%E3%80%8D/original/avatar.png",
         "school": 3,
         "main_relation": 0
@@ -28456,6 +28481,12 @@
     "星野*恐怖": [
       "380"
     ],
+    "谢玛塔": [
+      "607"
+    ],
+    "シェマタ": [
+      "607"
+    ],
     "修女会成员A": [
       "220"
     ],
@@ -40587,6 +40618,12 @@
     ],
     "星野*恐怖": [
       "380"
+    ],
+    "谢玛塔": [
+      "607"
+    ],
+    "シェマタ": [
+      "607"
     ],
     "修女会成员a": [
       "220"

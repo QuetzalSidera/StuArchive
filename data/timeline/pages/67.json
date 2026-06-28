@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4925,
+        "line_type": "JP",
+        "title": "任务Hard2倍#51",
+        "image": "https://static.kivo.wiki/images/timeline/WfsaomrL3tGSmKUpRB8mdzVeMdNU1Cm7.jpg",
+        "body_summary": "【キャンペーン予告】 1月7日(水)4:00より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 🔷開催期間 1月7日(水)4:00 ～ 1月14日(水)3:59 ぜひ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2008086741845254527",
+        "start_time": 1767729600,
+        "end_time": 1768334400
+      },
+      {
+        "id": 4870,
+        "line_type": "Globle",
+        "title": "国际服大决战 Binah (Urban) #3",
+        "image": "https://static.kivo.wiki/images/timeline/ZtwlO9cHf6xatazMIHhmUPHTc3NhaMAj.jpg",
+        "body_summary": "[Grand Assault Preview] The Grand Assault - Binah (Urban Warfare) will start on 1/6 (Tue)! ➡️Officia",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/2006259026040934878",
+        "start_time": 1767674461,
+        "end_time": 1768279261
+      },
       {
         "id": 4876,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2007951425490538506",
         "start_time": 1767571500,
         "end_time": 1767571500
-      },
-      {
-        "id": 4826,
-        "line_type": "CN",
-        "title": "任务（困难难度）2倍 #22",
-        "image": "https://static.kivo.wiki/images/timeline/BzBZwktqI6ZHjEIDSgjzLyN6YjGRBpXD.jpg",
-        "body_summary": "【任务（困难难度）】道具掉落量2倍 ■ 活动时间： • 01月05日 04:00 ~ 01月08日 03:59 活动期间，完成【任务（困难难度）】时，获得的道具掉落奖励数量变为2倍。",
-        "type": "Double",
-        "url": "www.bilibili.com/opus/1147194356862550018",
-        "start_time": 1767540382,
-        "end_time": 1767799582
-      },
-      {
-        "id": 4875,
-        "line_type": "Globle",
-        "title": "国际服老师双倍经验#35",
-        "image": "https://static.kivo.wiki/images/timeline/FSewit13sNDAboEc0zRWfGQoas4mmVqh.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 1/2 (Fri)! Don't mi",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2006991349162385591",
-        "start_time": 1767380400,
-        "end_time": 1767553200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594108,
+  "time": 1782682163,
   "version": "1.0.0-beta.43"
 }

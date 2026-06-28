@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3508,
+        "line_type": "Globle",
+        "title": "国际服大决战Shiro & Kuro (Indoor) #2",
+        "image": "https://static.kivo.wiki/images/timeline/9inIFgt88YyTRK8b2GZMEuk04bolltbe.jpg",
+        "body_summary": "[Grand Assault Preview] The Grand Assault - Shiro & Kuro (Indoor Warfare) will start on 1/14 (Tue)! ",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/1876886555740041692",
+        "start_time": 1736794800,
+        "end_time": 1737399600
+      },
+      {
+        "id": 5234,
+        "line_type": "JP",
+        "title": "4周年倒计时登录奖励「4周年カウントダウンログインボーナス」",
+        "image": "https://static.kivo.wiki/images/timeline/jkzN83yI36Lf8PWN8L26BskyXuLOvGy6.jpg",
+        "body_summary": "【新情報⑤】 「4周年カウントダウンログインボーナス」が実施されます！ 毎日ログインして、全ての報酬を受け取りましょう！ 開催時期や、報酬などの詳細についてはこちらの画像にてご確認ください！ #ブルア",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1870793037431140474",
+        "start_time": 1736765808,
+        "end_time": 1737370608
+      },
       {
         "id": 3582,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1876101853387379035",
         "start_time": 1736280000,
         "end_time": 1736884799
-      },
-      {
-        "id": 3507,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习 #29",
-        "image": "https://static.kivo.wiki/images/timeline/ZM9F9ZFrSUQHcqolc2vr54PoJs5RoOgc.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Escort Drill) has opened 1/7 (Tue) 2:00 AM ",
-        "type": "MiniBattle",
-        "url": "x.com/EN_BlueArchive/status/1876524169254605090",
-        "start_time": 1736215200,
-        "end_time": 1736794800
-      },
-      {
-        "id": 3506,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Special Summer Mission! RABBIT Squad and the Mystery of the Missing Shrimp」",
-        "image": "https://static.kivo.wiki/images/timeline/u0iy5gGALQYut0ZJ2PKBElcwcw0OBZOy.jpg",
-        "body_summary": "[Event Update Notice] The \"Special Summer Mission! RABBIT Squad and the Mystery of the Missing Shrim",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/1876497742945714507",
-        "start_time": 1736215200,
-        "end_time": 1736992800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594233,
+  "time": 1782682321,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5058,
+        "line_type": "JP",
+        "title": "5周年纪念「記憶と記録の間に」MV公开",
+        "image": "https://static.kivo.wiki/images/timeline/rh5iQUdKQvm2uKpcoyEXDcq1INsGJnvZ.jpg",
+        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はノアさんが歌う「記憶と記録の間に」です！ ▼動画はこちら https://youtu.be/cSLciJc6j",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2020105270421057805",
+        "start_time": 1770512400,
+        "end_time": 1770512400
+      },
+      {
+        "id": 5082,
+        "line_type": "CN",
+        "title": "丽情",
+        "image": "https://static.kivo.wiki/images/timeline/dpR7qMOstFpoAmwsFSrmZUiOsWpdaul7.jpg",
+        "body_summary": "//////////档案启封////////// ■ 丽情 山海经商人联合社团【玄武商会】总店的经理，也是护卫该商会会长的直属警卫员。 身为狂热的功夫爱好者，常会不分场合地模仿某位著名武术家的语录和行",
+        "type": "Other",
+        "url": "weibo.com/6011443154/QqHAicCVG",
+        "start_time": 1770436583,
+        "end_time": 1770436583
+      },
       {
         "id": 5057,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "bluearchive-cn.com/news/1687",
         "start_time": 1770271200,
         "end_time": 1771048799
-      },
-      {
-        "id": 5017,
-        "line_type": "CN",
-        "title": "总力战 佩洛洛斯拉 • 野外战 #3",
-        "image": "https://static.kivo.wiki/images/timeline/NXBYpSMiits3kt4Py5353kw5CLdcXkO2.png",
-        "body_summary": "在D.U.的附近海域发现了来历不明的巨大怪兽。 这只怪兽的外形看起来很像很久以前沉入海底的桃桃朋友玩偶。 虽然不知道为什么会发生这种事，但无论如何，必须阻止这只巨大怪兽的进击！ ■ 活动简介 • 总力",
-        "type": "Raid",
-        "url": "bluearchive-cn.com/news/1686",
-        "start_time": 1770271200,
-        "end_time": 1770753600
-      },
-      {
-        "id": 5015,
-        "line_type": "CN",
-        "title": "日和（泳装）& 纱织（泳装）& 亚津子 (泳装) 家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/lXFAV2nrV3MEbKH7N3gRsVOdpWUBEnO5.png",
-        "body_summary": "\"欢迎连接【什亭之箱】，老师。\" 全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 02月05日 14:00后 ■ 互动更新 •",
-        "type": "ContentImprovements",
-        "url": "bluearchive-cn.com/news/1684",
-        "start_time": 1770271200,
-        "end_time": 1770271200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594093,
+  "time": 1782682142,
   "version": "1.0.0-beta.43"
 }

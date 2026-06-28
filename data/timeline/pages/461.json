@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1234,
+        "line_type": "Globle",
+        "title": "国际服例行维护25",
+        "image": "",
+        "body_summary": "[11/8 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/8 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1589132151215493124",
+        "start_time": 1667872813,
+        "end_time": 1667898013
+      },
+      {
+        "id": 1238,
+        "line_type": "Globle",
+        "title": "国际服课程表3倍#3 & 学院交流会3倍#3 & 指名手配3倍#3 & 特别依赖3倍#3",
+        "image": "https://static.kivo.wiki/images/timeline/76EbTPgY15hJ23bltamVu60TtBowq4Us.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] To celebrate the 1st Anniversary, we're giving triple rewards for Les",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1589165691134828544",
+        "start_time": 1667847634,
+        "end_time": 1668452374
+      },
       {
         "id": 488,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1586613877776736256",
         "start_time": 1667242838,
         "end_time": 1667847578
-      },
-      {
-        "id": 485,
-        "line_type": "JP",
-        "title": "障害物競走动画",
-        "image": "https://static.kivo.wiki/images/timeline/u9KRRCx5ybN5RJ1ltXYm68ObaVIrw9w3.png",
-        "body_summary": "【YouTubeプレミア公開】 先生！ 生徒さんが入場してきました！！ さぁどんなレースになるのか！ 先生早く見に行きましょう！ ▼視聴ページ https://youtu.be/ReRoCot6ZKE",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1586311892905201665",
-        "start_time": 1667044800,
-        "end_time": 1667046600
-      },
-      {
-        "id": 1227,
-        "line_type": "Globle",
-        "title": "国际服一周年3rd PV公开",
-        "image": "",
-        "body_summary": "[Blue Archive - ~1st Anniversary~ 3rd PV] \"Thank you for everything. Sensei.\" #BlueArchive ⬇️Officia",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1585984843317317632",
-        "start_time": 1666963235,
-        "end_time": 1666963235
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594484,
+  "time": 1782682643,
   "version": "1.0.0-beta.43"
 }

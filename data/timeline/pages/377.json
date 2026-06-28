@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1560,
+        "line_type": "Globle",
+        "title": "国际服卡池「Allow me to show you Hyakkiyako's impeccable charm, Sensei.」",
+        "image": "https://static.kivo.wiki/images/timeline/naxF0p48pLAPntSGoWiOoZZ0rxpOKwLZ.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1715654157011440009",
+        "start_time": 1698112803,
+        "end_time": 1698717543
+      },
+      {
+        "id": 1559,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍11",
+        "image": "https://static.kivo.wiki/images/timeline/YwIt9ioVhKOKcHNDCellC1mMKCZsCzAD.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/23 (Mon), Lesson reward will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1715623960338145528",
+        "start_time": 1698087613,
+        "end_time": 1698692353
+      },
       {
         "id": 1658,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1715233297880821864",
         "start_time": 1697778472,
         "end_time": 1697778472
-      },
-      {
-        "id": 814,
-        "line_type": "JP",
-        "title": "3周年特设网站开放",
-        "image": "https://static.kivo.wiki/images/timeline/fatsYFU63dq8EgKFZMQd16s7GxiRhnnJ.jpg",
-        "body_summary": "【3rdアニバーサリー】 3周年の特設サイトがオープンしました！ リアルイベント「ブルアカふぇす！」も開催決定です！ 開催日：2024/1/20(土)・21(日) 会場：幕張メッセ 国際展示場 9-1",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1715367792172753114",
-        "start_time": 1697770920,
-        "end_time": 1697770920
-      },
-      {
-        "id": 813,
-        "line_type": "JP",
-        "title": "任务Hard2倍#28",
-        "image": "https://static.kivo.wiki/images/timeline/pRD7mK8yB9Pdzv21M953sT5oKO5sYJF7.jpg",
-        "body_summary": "【キャンペーン予告】 10/20(金)より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼期間 2023/10/20(金)4:00 ~ 2023/10/24(火)3",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1714476739983032609",
-        "start_time": 1697745600,
-        "end_time": 1698091199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594404,
+  "time": 1782682539,
   "version": "1.0.0-beta.43"
 }

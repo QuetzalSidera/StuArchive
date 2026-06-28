@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5611,
+        "line_type": "JP",
+        "title": "万魔殿小剧场 #24",
+        "image": "https://static.kivo.wiki/images/timeline/FiYxx5iLPHkIEXSZ9gU94Vwm7L1Yk4iK.jpg",
+        "body_summary": "【#ちょっとお時間貰いますね】 先生、おはようございます♪ サツキさんがどこか物憂げな感じです…… 一体どうしたんでしょうか？ #ブルアカ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2066295871264952546",
+        "start_time": 1781481900,
+        "end_time": 1781481900
+      },
+      {
+        "id": 5563,
+        "line_type": "CN",
+        "title": "总力战：霍德 • 街区战 #5",
+        "image": "https://static.kivo.wiki/images/timeline/3LThK71Dl8djonr5HZyAkAOvZACVpTws.jpg",
+        "body_summary": "#蔚蓝档案﻿霍德原本是千禧年自管区通讯网的AI处理器，受到不明AI攻击后，开始宣称自己是神名十文字的第8个先知。 如果这个集结千禧年技术精华的运算系统持续失控，千禧年自管区的安全将失去保障。 ■ 活动",
+        "type": "Raid",
+        "url": "weibo.com/6011443154/R3B7xA7mv",
+        "start_time": 1781330400,
+        "end_time": 1781726399
+      },
       {
         "id": 5560,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/R38Q3l1oq",
         "start_time": 1781172000,
         "end_time": 1781762399
-      },
-      {
-        "id": 5562,
-        "line_type": "CN",
-        "title": "例行维护 #58",
-        "image": "https://static.kivo.wiki/images/timeline/COz7BBjinCiiamjQfqqKbxs74wNPcaQu.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月11日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "www.bluearchive-cn.com/news/1826",
-        "start_time": 1781157600,
-        "end_time": 1781172000
-      },
-      {
-        "id": 5576,
-        "line_type": "Globle",
-        "title": "国际服LINE Stickers表情包第三弹上线",
-        "image": "https://static.kivo.wiki/images/timeline/bqXjd3nVbyL0f1kc0MnZzVmO5Jqm7Wzr.jpg",
-        "body_summary": "Sensei, the third official Blue Archive LINE sticker is now available! Meet another side of Kivotos ",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2064890364667085068",
-        "start_time": 1781154721,
-        "end_time": 1781154721
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594047,
+  "time": 1782682082,
   "version": "1.0.0-beta.43"
 }

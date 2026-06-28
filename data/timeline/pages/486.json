@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1799,
+        "line_type": "JP",
+        "title": "屋内戦・ヒエロニムス3",
+        "image": "https://static.kivo.wiki/images/timeline/nLbKce8EoINZJD8KauxLrqCxsbx2x9Zp.jpg",
+        "body_summary": "【総力戦・予告】 6月15日(水)11:00より、「屋内戦・ヒエロニムス」が開催されます！ トリニティの古聖堂の地下に突如現れた、正体不明の存在「ヒエロニムス」…。 キヴォトス全土に影響を及ぼす前に、",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1535471943876345856",
+        "start_time": 1655262000,
+        "end_time": 1655838000
+      },
+      {
+        "id": 1118,
+        "line_type": "Globle",
+        "title": "国际服总力战 KAITEN FX Mk.0 (Urban) 1",
+        "image": "https://static.kivo.wiki/images/timeline/7i6DxU1Mat0tvBQ9T1AFV4WUJNvuwYXw.jpg",
+        "body_summary": "[Total Assault Preview] KAITEN FX Mk.0(Urban Warfare) will be held on 6/14 (Tue)! Do you have your s",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1534460222286225409",
+        "start_time": 1655197247,
+        "end_time": 1655737187
+      },
       {
         "id": 1120,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1533373139098664962",
         "start_time": 1654678800,
         "end_time": 1655236740
-      },
-      {
-        "id": 358,
-        "line_type": "JP",
-        "title": "特殊作战2",
-        "image": "https://static.kivo.wiki/images/timeline/yIZN1zTHQXvI5fcXWY2Sa15QtZ7O7GxN.jpg",
-        "body_summary": "【イベント紹介】 6/8(水)メンテナンス後、不定期開催コンテンツ「特殊作戦」が開始されます！ 予期せぬサイバー攻撃を受けてしまった「特異現象捜査部」ですが、この雪辱を果たすためヒマリさんが新たな行動",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1533282561966804993",
-        "start_time": 1654678800,
-        "end_time": 1655866799
-      },
-      {
-        "id": 361,
-        "line_type": "JP",
-        "title": "例行维护45",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/8(水) 11:00 〜 17:00前後 ▼詳細 https://b",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1534052578249838597",
-        "start_time": 1654657200,
-        "end_time": 1654678800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594508,
+  "time": 1782682674,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1754,
+        "line_type": "CN",
+        "title": "例行维护2",
+        "image": "https://static.kivo.wiki/images/timeline/AVOfWEvGyariTbv2qzG8iB1BUMvyqQhs.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月31日（周四）14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为",
+        "type": "Maintenance",
+        "url": "www.bilibili.com/read/cv26104676/?spm_id_from=333.999.0.0",
+        "start_time": 1693461606,
+        "end_time": 1693476006
+      },
+      {
+        "id": 796,
+        "line_type": "JP",
+        "title": "特别依赖2倍#34",
+        "image": "https://static.kivo.wiki/images/timeline/DqzyBfpfBDbH3sC4CoDCbuCP2PthiYIr.jpg",
+        "body_summary": "【キャンペーン予告】 8/30(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/8/30(水)4:00 ~ 2023/9/6(水)3:5",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1695995329844477960?s=20",
+        "start_time": 1693400074,
+        "end_time": 1694004874
+      },
       {
         "id": 792,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/833998484736573472?spm_id_from=333.999.0.0",
         "start_time": 1693166428,
         "end_time": 1693425568
-      },
-      {
-        "id": 795,
-        "line_type": "JP",
-        "title": "气垫船小贴士",
-        "image": "",
-        "body_summary": "【総力戦】 先生、今回新総力戦「屋外戦・ホバークラフト」が開催するということで、ナビゲーターのスーパーアロナとプラナちゃんが先生をサポートいたします！ まずはわたしの出番です！こほんっ！ https:",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1695723003659845866?s=20",
-        "start_time": 1693140824,
-        "end_time": 1693140824
-      },
-      {
-        "id": 794,
-        "line_type": "JP",
-        "title": "总力战扩档3",
-        "image": "",
-        "body_summary": "【お知らせ】 現在の各コンテンツへの参加状況を鑑みて、「総力戦」および「大決戦」のランクボーダーラインの調整を行います。 調整後の「プラチナ」、「ゴールド」、「シルバー」それぞれのボーダーライン、なら",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1695647326402945317?s=20",
-        "start_time": 1693140781,
-        "end_time": 1693140781
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594420,
+  "time": 1782682558,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 652,
+        "line_type": "JP",
+        "title": "屋内戦・ケセド4",
+        "image": "https://static.kivo.wiki/images/timeline/qNHNXt3ft8PHUQIbrFpXVgWgXZG9ZSHi.jpg",
+        "body_summary": "【総力戦・予告】 4月12日(水)11:00より、総力戦「屋内戦・ケセド」が開幕いたします！ 順位に応じて各種「ケセド(屋内戦)のトロフィー」を獲得できますので、生徒さん達と協力してBOSSへと挑みま",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1644535565247979521?s=20",
+        "start_time": 1681272696,
+        "end_time": 1681877496
+      },
+      {
+        "id": 1383,
+        "line_type": "Globle",
+        "title": "国际服「Get Set, Go! Kivotos Halo Festival!」活动预约",
+        "image": "https://static.kivo.wiki/images/timeline/lJp5n8hpbK40i4H2cPogv7AHQ5LGZayT.jpg",
+        "body_summary": "Sensei, please come here and help us prepare for the Kivotos Halo Festival! You can pre-register now",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1645985088717348871",
+        "start_time": 1681268401,
+        "end_time": 1682305201
+      },
       {
         "id": 2089,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1645607601131114496",
         "start_time": 1681178437,
         "end_time": 1681196437
-      },
-      {
-        "id": 1496,
-        "line_type": "CN",
-        "title": "国服开服水角色",
-        "image": "https://static.kivo.wiki/images/timeline/oGmL8wJWVljuLlZx8PN3kiabUgLGB6r0.jpg",
-        "body_summary": "//////////档案启封////////// ■砂狼白子 砂狼白子喜欢运动，是阿拜多斯对策委员会的突击队长。 因为沉默寡言、面无表情，所以给人一种很冷漠的印象，但其实是比任何一个人都爱惜阿拜多斯的",
-        "type": "OutsideGames",
-        "url": "",
-        "start_time": 1680924300,
-        "end_time": 1690991999
-      },
-      {
-        "id": 630,
-        "line_type": "JP",
-        "title": "主线关卡开放：Area22",
-        "image": "https://static.kivo.wiki/images/timeline/CKhmiA6V18TjZjmiEsPwQbl6tDNkRuJO.jpg",
-        "body_summary": "【エリア開放予告】 メンテナンス終了後より、「任務 Area22」が開放されます！ 新装備「T8装備」が獲得できる他、「任務 Hard」22-3では一定確率でヒビキさんの「神名文字」が獲得できますので",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1643493803117129731?s=20",
-        "start_time": 1680701231,
-        "end_time": 1680701231
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594453,
+  "time": 1782682600,
   "version": "1.0.0-beta.43"
 }

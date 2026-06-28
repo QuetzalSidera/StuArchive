@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1156,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍9",
+        "image": "https://static.kivo.wiki/images/timeline/ItihD4ZrN6RgvbgDKniRN05mBS1OzCHu.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 8/8 (Mon), the amount of rewards dropped in Bounty will be doubl",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1556173298832093185",
+        "start_time": 1659985205,
+        "end_time": 1660589945
+      },
+      {
+        "id": 403,
+        "line_type": "JP",
+        "title": "卡池复刻「吹き抜ける風の在り処」＆「機械たちは旅立ちの夢を見るか？」",
+        "image": "https://static.kivo.wiki/images/timeline/GqU8TmLB0E2MBsgBTyktXTgsA3aoyZ9h.jpg",
+        "body_summary": "【ピックアップ募集・予告】 復刻ピックアップ募集「吹き抜ける風の在り処」＆「機械たちは旅立ちの夢を見るか？」がまもなく開催されます！ 🔹ピックアップ生徒 ★3 シロコ(ライディング)(CV:#小倉唯)",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1554331189145923585",
+        "start_time": 1659495600,
+        "end_time": 1660013999
+      },
       {
         "id": 401,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1550375093649522690",
         "start_time": 1658818848,
         "end_time": 1658818848
-      },
-      {
-        "id": 1147,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第三章前篇更新特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/xX6o62PVo0fl8XOGSxKPsiBlT1vXQaIp.jpg",
-        "body_summary": "[Main Story Update Celebration Special Gift] Sensei, Schale prepared a celebration gift for the Main",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1551824643765325824",
-        "start_time": 1658818845,
-        "end_time": 1658818845
-      },
-      {
-        "id": 1148,
-        "line_type": "Globle",
-        "title": "国际服战术对抗战S3开幕  & 战术对抗赛可跳过时间缩短",
-        "image": "https://static.kivo.wiki/images/timeline/Wx1nelyziRMDDSvp8RtXzzvFXvOs3k0W.png",
-        "body_summary": "[7/26 Update Notice] 7/26 (Tue) scheduled maintenance has ended. Update Details: https://m.nexon.com",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1551822201396928512",
-        "start_time": 1658818819,
-        "end_time": 1658818819
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594500,
+  "time": 1782682664,
   "version": "1.0.0-beta.43"
 }

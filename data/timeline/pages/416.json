@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1437,
+        "line_type": "Globle",
+        "title": "国际服活动「The Cathedral's Merry Christmas: Remedial Knights' Gift'」",
+        "image": "https://static.kivo.wiki/images/timeline/UgTz2BAZxwixTmisesYBipLNkzFaMlYm.jpg",
+        "body_summary": "[Event Preview] The Cathedral's Merry Christmas: Remedial Knights' Gift' Event Story is coming soon!",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1667063985856827394",
+        "start_time": 1686639624,
+        "end_time": 1687831224
+      },
+      {
+        "id": 1442,
+        "line_type": "Globle",
+        "title": "国际服卡池「Santa Claus Hanae has a Chant of Blessing for Sensei!」",
+        "image": "https://static.kivo.wiki/images/timeline/ssnRPdHip0rFBbYEt0XPPhhS7t7BZ0pT.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/13 (Tue)! Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1667459084197527553",
+        "start_time": 1686639602,
+        "end_time": 1687831202
+      },
       {
         "id": 1441,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1666339317038596102",
         "start_time": 1686128400,
         "end_time": 1687316399
-      },
-      {
-        "id": 686,
-        "line_type": "JP",
-        "title": "引导任务「週休4日制確保運動ミッション」",
-        "image": "https://static.kivo.wiki/images/timeline/APkehxoWt3rKphPOYixzZ0xWXkWyIla7.jpg",
-        "body_summary": "【ガイドミッション】 メンテナンス後、ガイドミッション「週休4日制確保運動ミッション」が開始されます。 ミッションクリアで、家具モーション付限定家具「木工作業台」を入手できる他、イベントアイテム「工務",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1666324294115409920",
-        "start_time": 1686128400,
-        "end_time": 1688525999
-      },
-      {
-        "id": 684,
-        "line_type": "JP",
-        "title": "卡池「工務の道も一歩から」卡池复刻「こちらRABBIT1、理想をこの眼に」＆「こちらRABBIT2、規範はこの脚に」",
-        "image": "https://static.kivo.wiki/images/timeline/zDRDUY52yCJPbmPPAm0d96HL1zefXl9H.jpg",
-        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「工務の道も一歩から」、復刻ピックアップ募集「こちらRABBIT1、理想をこの眼に」＆「こちらRABBIT2、規範はこの脚に」が開催されます！ 詳",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1665946664052621312",
-        "start_time": 1686128400,
-        "end_time": 1686711599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594441,
+  "time": 1782682585,
   "version": "1.0.0-beta.43"
 }

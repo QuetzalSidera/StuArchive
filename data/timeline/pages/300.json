@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2501,
+        "line_type": "Globle",
+        "title": "国际服活动「A certain Scientific Record of Youth」",
+        "image": "https://static.kivo.wiki/images/timeline/EBFwd8ZGqx6RLBII6irvA15zw7rEs4Pq.jpg",
+        "body_summary": "[Event Preview] Some mysterious students claiming to be from another world appeared suddenly in the ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1783752873341227088",
+        "start_time": 1714471218,
+        "end_time": 1715652018
+      },
+      {
+        "id": 2543,
+        "line_type": "Globle",
+        "title": "国际服炸服17",
+        "image": "",
+        "body_summary": "[4/30 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 4/30 (Tue). Pl",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1785199161383776577",
+        "start_time": 1714459664,
+        "end_time": 1714481564
+      },
       {
         "id": 2542,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1781627039080128814",
         "start_time": 1714161602,
         "end_time": 1714420742
-      },
-      {
-        "id": 2504,
-        "line_type": "Globle",
-        "title": "国际服2.5周年直播礼物",
-        "image": "https://static.kivo.wiki/images/timeline/N1P2UtjMidTibNIuxUPQ9ZmU8qLgMBCl.jpg",
-        "body_summary": "[2.5-Year Anniversary - Kivotos Live Special Gift] Schale has prepared a special gift for Sensei who",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1783813784664236095",
-        "start_time": 1714122397,
-        "end_time": 1714122397
-      },
-      {
-        "id": 2502,
-        "line_type": "Globle",
-        "title": "国际服2.5周年直播「Kivotos Live - 2.5-Year Anniversary Live Stream」",
-        "image": "https://static.kivo.wiki/images/timeline/UcWahXm9tgQD4K4jld6OUnyQ3Mxkd7v9.jpg",
-        "body_summary": "[2.5-Year Anniversary Live Stream Notice] Sensei, Blue Archive's 2.5-Year Anniversary Special Live w",
-        "type": "Live",
-        "url": "twitter.com/EN_BlueArchive/status/1783767982046687443",
-        "start_time": 1714118451,
-        "end_time": 1714118451
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594331,
+  "time": 1782682447,
   "version": "1.0.0-beta.43"
 }

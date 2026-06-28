@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 814,
+        "line_type": "JP",
+        "title": "3周年特设网站开放",
+        "image": "https://static.kivo.wiki/images/timeline/fatsYFU63dq8EgKFZMQd16s7GxiRhnnJ.jpg",
+        "body_summary": "【3rdアニバーサリー】 3周年の特設サイトがオープンしました！ リアルイベント「ブルアカふぇす！」も開催決定です！ 開催日：2024/1/20(土)・21(日) 会場：幕張メッセ 国際展示場 9-1",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1715367792172753114",
+        "start_time": 1697770920,
+        "end_time": 1697770920
+      },
+      {
+        "id": 813,
+        "line_type": "JP",
+        "title": "任务Hard2倍#28",
+        "image": "https://static.kivo.wiki/images/timeline/pRD7mK8yB9Pdzv21M953sT5oKO5sYJF7.jpg",
+        "body_summary": "【キャンペーン予告】 10/20(金)より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼期間 2023/10/20(金)4:00 ~ 2023/10/24(火)3",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1714476739983032609",
+        "start_time": 1697745600,
+        "end_time": 1698091199
+      },
       {
         "id": 1652,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1714205807250911591",
         "start_time": 1697529656,
         "end_time": 1698087596
-      },
-      {
-        "id": 1550,
-        "line_type": "Globle",
-        "title": "国际服活动常驻化「A Revolutionary Ivan Kupala」",
-        "image": "https://static.kivo.wiki/images/timeline/RHS1IutBcx9pxZLQb9ithdGnT03OwIqN.jpg",
-        "body_summary": "[Immortalized Event Notice] The Event Story, A Revolutionary Ivan Kupala, will be immortalized start",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1712732467885666801",
-        "start_time": 1697529609,
-        "end_time": 1697529609
-      },
-      {
-        "id": 2180,
-        "line_type": "CN",
-        "title": "封禁公示说明5",
-        "image": "",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证各位老师的游戏体验与账号安全，联邦理事会将会一直严厉打击任何以不正当手段破坏游戏公平性的行为，绝不容忍任何外挂、非法第三方工具在基沃托斯出现。致力于为老师提供绿",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/308",
-        "start_time": 1697515256,
-        "end_time": 1697515256
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594405,
+  "time": 1782682540,
   "version": "1.0.0-beta.43"
 }

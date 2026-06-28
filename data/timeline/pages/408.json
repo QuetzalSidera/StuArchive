@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 936,
+        "line_type": "JP",
+        "title": "联合作战「气垫船」2",
+        "image": "https://static.kivo.wiki/images/timeline/pJXgq5e4u4mw7OG2p9kADo4R4wYRWsU6.jpg",
+        "body_summary": "【連合作戦】 復刻イベント「アビドスリゾート復旧対策委員会」の開催に伴い、本日11:00より「連合作戦」も開始されました！ 参加方法や報酬などの詳細は、下記のお知らせにてご確認ください♪ ▼お知らせ ",
+        "type": "AlliedOperation",
+        "url": "twitter.com/Blue_ArchiveJP/status/1681169826121932801",
+        "start_time": 1689649200,
+        "end_time": 1690167540
+      },
+      {
+        "id": 1478,
+        "line_type": "Globle",
+        "title": "国际服总力战 Shiro & Kuro (Indoor) 4",
+        "image": "https://static.kivo.wiki/images/timeline/SnstR4JaxZq2CM7zbr0xn25X9qRcWuVg.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Shiro & Kuro (Indoor Warfare) has opened 7/18 (Tue) ",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1681197112762183682",
+        "start_time": 1689645630,
+        "end_time": 1690225230
+      },
       {
         "id": 725,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1679387091472613381",
         "start_time": 1689232020,
         "end_time": 1689232020
-      },
-      {
-        "id": 1907,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编第一期",
-        "image": "https://static.kivo.wiki/images/timeline/obZZ6hUWesKDegWL6Qyo9Ak8QSTkyBRr.png",
-        "body_summary": "www.youtube.com/watch?v=PnqVozs72ag",
-        "type": "Live",
-        "url": "www.youtube.com/watch?v=PnqVozs72ag",
-        "start_time": 1689177600,
-        "end_time": 1689177600
-      },
-      {
-        "id": 721,
-        "line_type": "JP",
-        "title": "卡池复刻「吹き抜ける風の在り処」＆「花散らす仮面舞踏会」",
-        "image": "https://static.kivo.wiki/images/timeline/E9cm3je7Odd73ElUqLyt8lQymAM9YTOH.jpg",
-        "body_summary": "【ピックアップ募集・予告】 まもなく、復刻ピックアップ募集「吹き抜ける風の在り処」＆「花散らす仮面舞踏会」が開催されます！ 🔹ピックアップ生徒 ★3 シロコ(ライディング)(CV:#小倉唯) ★3 ア",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1678630244142534656",
-        "start_time": 1689130800,
-        "end_time": 1689562799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594434,
+  "time": 1782682576,
   "version": "1.0.0-beta.43"
 }

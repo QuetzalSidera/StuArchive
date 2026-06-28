@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 437,
+        "line_type": "JP",
+        "title": "例行维护52",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/21(水)11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1572103300627197953",
+        "start_time": 1663729200,
+        "end_time": 1663750800
+      },
+      {
+        "id": 434,
+        "line_type": "JP",
+        "title": "特别依赖2倍#22 & 学院交流会2倍#6",
+        "image": "https://static.kivo.wiki/images/timeline/dlzaumLhF1xlx0NwbRiLua1dPhGLmqng.jpg",
+        "body_summary": "【キャンペーン予告】 9月21日(水)4:00より、「特別依頼」「学園交流会」でのドロップ量が2倍になるキャンペーンが開催されます！ 効率良く必要アイテムを集めることができるこの機会を、ぜひお役立てく",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1571061497589305344",
+        "start_time": 1663704000,
+        "end_time": 1664308799
+      },
       {
         "id": 1179,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1571636435072954368",
         "start_time": 1663545900,
         "end_time": 1663545900
-      },
-      {
-        "id": 432,
-        "line_type": "JP",
-        "title": "任务Hard2倍#17",
-        "image": "https://static.kivo.wiki/images/timeline/EWCReaB31rsVPTvCqyuVIHnb7SUF020z.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼期間 9月18日(日)4:00 〜 9月21日(水)3:59 ドロップ2倍により生徒さんの「神",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1570246059896733696",
-        "start_time": 1663444800,
-        "end_time": 1663703999
-      },
-      {
-        "id": 430,
-        "line_type": "JP",
-        "title": "卡池复刻「ステンドグラスに誘われて」卡池「未来のどけき梅の園」",
-        "image": "https://static.kivo.wiki/images/timeline/aMyEpdm1aVhY7f8V7UddXleIr0Y8YHfO.jpg",
-        "body_summary": "【ピックアップ募集・予告】 復刻ピックアップ募集「ステンドグラスに誘われて」＆ピックアップ募集「未来のどけき梅の園」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ナツ(CV: #長縄まりあ) ★2 ",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1569521349177245696",
-        "start_time": 1663124400,
-        "end_time": 1663729199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594494,
+  "time": 1782682655,
   "version": "1.0.0-beta.43"
 }

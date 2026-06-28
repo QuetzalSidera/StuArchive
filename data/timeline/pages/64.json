@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4935,
+        "line_type": "JP",
+        "title": "ASMR发售：伊吕波、妃咲",
+        "image": "https://static.kivo.wiki/images/timeline/nP1bRssZNLalBBONcBDkBe2HfIaIE0Ky.png",
+        "body_summary": "【#ブルアカASMR】 「ブルーアーカイブ」のASMR作品第9弾がDLsiteにて販売開始されました！ イロハさんは一緒におサボり！ キサキさんは一緒にリフレッシュ！ 体験版もあるので、是非お聞きくだ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2012541017225118185",
+        "start_time": 1768662000,
+        "end_time": 1768662000
+      },
+      {
+        "id": 4934,
+        "line_type": "JP",
+        "title": "直播「ブルアカふぇす！～ごー！ごー！！先生♪～」",
+        "image": "https://static.kivo.wiki/images/timeline/fSzADRICLv3VYIEwZHGr4riXUU2y283K.png",
+        "body_summary": "【5thアニバーサリー】 「ブルアカふぇす！～ごー！ごー！！先生♪～」 いよいよ明日から2日間開催！ 2日間とも10時からステージ生中継も実施しますよ！ 先生、5周年を一緒にお祝いしましょう！ ▼視聴",
+        "type": "Live",
+        "url": "x.com/Blue_ArchiveJP/status/2012102527186350383",
+        "start_time": 1768615200,
+        "end_time": 1768730400
+      },
       {
         "id": 4959,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/i/status/2002336289618866453",
         "start_time": 1768334400,
         "end_time": 1768852799
-      },
-      {
-        "id": 4921,
-        "line_type": "Globle",
-        "title": "国际服卡池「I knew... We'd meet today. Red thread connects us, after all...」",
-        "image": "https://static.kivo.wiki/images/timeline/3jwPsMa2IMagt8fxa01Q4thbr0RULMeM.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 1/13 (Tue)! 💌Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2009524288513077270",
-        "start_time": 1768287600,
-        "end_time": 1769479199
-      },
-      {
-        "id": 4920,
-        "line_type": "Globle",
-        "title": "国际服卡池「It's a magical day, Master!」",
-        "image": "https://static.kivo.wiki/images/timeline/bV12ZF26CYtxBCR7kBwx2OQCb4AexFWD.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 1/13 (Tue)! 💌Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2009520515682017786",
-        "start_time": 1768287600,
-        "end_time": 1769479199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594105,
+  "time": 1782682159,
   "version": "1.0.0-beta.43"
 }

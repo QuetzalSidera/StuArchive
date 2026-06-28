@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 830,
+        "line_type": "Globle",
+        "title": "国际服阿比多斯贺图",
+        "image": "",
+        "body_summary": "That wraps up the Abydos student's intros! Here's a new wallpaper to celebrate! Why not set the Coun",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1433724195700158487",
+        "start_time": 1630661460,
+        "end_time": 1630661460
+      },
+      {
+        "id": 168,
+        "line_type": "JP",
+        "title": "指名手配2倍#7",
+        "image": "https://static.kivo.wiki/images/timeline/gpm5TIwtpm8ToX338dbCewf4KFJLXSUk.jpg",
+        "body_summary": "【キャンペーン予告】 9月2日(木)04:00から、「指名手配」における素材のドロップ量が2倍になるキャンペーンが開催されます！ この機会に、生徒さんたちのスキル成長に必要なアイテムをたくさん集めてみ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1432196902242508802",
+        "start_time": 1630526400,
+        "end_time": 1631131199
+      },
       {
         "id": 995,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1430862738977288195",
         "start_time": 1629975600,
         "end_time": 1629975600
-      },
-      {
-        "id": 167,
-        "line_type": "JP",
-        "title": "炸服14 含道歉信",
-        "image": "",
-        "body_summary": "【接続が不安定の現象について】 本不具合の復旧に向けて、臨時メンテナンスを実施いたします。 メンテナンスの終了時間及び補填について、進捗があり次第改めてご案内いたします。 ご利用の先生方にはご迷惑をお",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1430858935792144393",
-        "start_time": 1629974700,
-        "end_time": 1630130400
-      },
-      {
-        "id": 160,
-        "line_type": "JP",
-        "title": "活动「ネバーランドでつかまえて」",
-        "image": "https://static.kivo.wiki/images/timeline/gDt7fP6lTwC2iiG0Z44N0xQTntuCKf8u.jpg",
-        "body_summary": "【新イベント予告】 先生！「山海経」でトラブル発生です！警察との連携も視野に入れ現場に向かってください！新イベント「ネバーランドでつかまえて」まもなく開催です！ ???「……もう少しだけ、甘えさせてく",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1428191409035628551",
-        "start_time": 1629972000,
-        "end_time": 1631160000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594548,
+  "time": 1782682724,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 773,
+        "line_type": "JP",
+        "title": "活动「学漫同人物語 ～2人が求める最終回～」",
+        "image": "https://static.kivo.wiki/images/timeline/9ukdYwzMzAgPRciKg2Ek9j0CyjtwgPej.jpg",
+        "body_summary": "【イベント紹介】 8/23(水)メンテナンス終了後、新イベント「学漫同人物語 ～2人が求める最終回～」を開催します！ 報酬で家具モーション付限定家具「原稿用の机」&「図書館のクラシックな椅子」などを獲",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1693865861701148699?s=20",
+        "start_time": 1692794276,
+        "end_time": 1694003876
+      },
+      {
+        "id": 1511,
+        "line_type": "Globle",
+        "title": "国际服韩国App Store登顶特别礼物2",
+        "image": "https://static.kivo.wiki/images/timeline/Uty3EXBortXk8LuL3LQubK4eorFtvqRP.jpg",
+        "body_summary": "[1st Place on Korea Apple App Store] Thanks to the support of our Sensei, Blue Archive made first pl",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1694291827371934046",
+        "start_time": 1692785609,
+        "end_time": 1692785609
+      },
       {
         "id": 1742,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1693866934247514161",
         "start_time": 1692691227,
         "end_time": 1692691227
-      },
-      {
-        "id": 1505,
-        "line_type": "Globle",
-        "title": "国际服卡池「I PROMISE PERFECT ASSISTANCE.」",
-        "image": "https://static.kivo.wiki/images/timeline/EtnqyG4J6jxR4cOCf1QfHb3Rj8NtfNpA.jpg",
-        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 8/22 (Tue)! Pick",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1692823724188176605",
-        "start_time": 1692691203,
-        "end_time": 1693879143
-      },
-      {
-        "id": 1502,
-        "line_type": "Globle",
-        "title": "国际服例行维护45",
-        "image": "",
-        "body_summary": "[8/22 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/22 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1692461337342025783",
-        "start_time": 1692669656,
-        "end_time": 1692691256
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594421,
+  "time": 1782682560,
   "version": "1.0.0-beta.43"
 }

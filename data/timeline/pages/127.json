@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 4279,
+        "line_type": "CN",
+        "title": "等级上限提升至90级",
+        "image": "https://static.kivo.wiki/images/timeline/ltfDcXblTXspChwX4URWkvmfHyS3hDJK.png",
+        "body_summary": "等级上限将于07月24日维护结束后扩张！ 因为老师的等级上限提升了，所以相应的成员们的等级上限也会提升，趁此机会和成员们一起成长，挑战强敌吧！ ■ 更新时间 07月24日维护结束后 ■ 上限提升 从8",
+        "type": "ContentImprovements",
+        "url": "www.bilibili.com/opus/1092273751056187392",
+        "start_time": 1753326387,
+        "end_time": 1753326387
+      },
+      {
+        "id": 4278,
+        "line_type": "CN",
+        "title": "大决战 佩洛洛斯拉 • 野外战",
+        "image": "https://static.kivo.wiki/images/timeline/x2NMrXFM7o1lKBr5dFGgGWSqi2CDYWqW.png",
+        "body_summary": "在D.U.的附近海域发现了来历不明的巨大怪兽。 这只怪兽的外形看起来很像很久以前沉入海底的桃桃朋友玩偶。 虽然不知道为什么会发生这种事，但无论如何，必须阻止这只巨大怪兽的进击！ ■ 活动时间 • 赛季",
+        "type": "BigRaid",
+        "url": "www.bilibili.com/opus/1091949051513929733",
+        "start_time": 1753326132,
+        "end_time": 1753930932
+      },
       {
         "id": 4277,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1946553625800774050?s=19",
         "start_time": 1753182000,
         "end_time": 1753182000
-      },
-      {
-        "id": 4239,
-        "line_type": "JP",
-        "title": "活动「夏空のやくそく」",
-        "image": "https://static.kivo.wiki/images/timeline/Q423WLF63LmtbuvO0ExTUhoN8GiHue36.jpg",
-        "body_summary": "【新情報②】 7月22日(火)メンテナンス後、新イベント「夏空のやくそく」が開催されます。 今回のイベントでは、生徒「イチカ(水着)」さんをイベント報酬としてお迎えすることができますよ♪ 詳しい遊び方",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1946534184035704848",
-        "start_time": 1753182000,
-        "end_time": 1754449199
-      },
-      {
-        "id": 4238,
-        "line_type": "JP",
-        "title": "诗乃的战斗通行证 S1",
-        "image": "https://static.kivo.wiki/images/timeline/DhDDFmJiYCcxW6tFAhJBrEzbyVkbeK6V.jpg",
-        "body_summary": "【新情報㉒】 4.5周年を記念して、期間限定コンテンツ「シノンのバトルパス」が開催されます! 「シノンのバトルパス」ではバトルパスのレベルに応じて報酬を獲得できます。 また、有料の成長CHでは特別な報",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1946558686849388875?s=19",
-        "start_time": 1753182000,
-        "end_time": 1753182000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594165,
+  "time": 1782682236,
   "version": "1.0.0-beta.43"
 }

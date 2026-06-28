@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 3807,
+        "line_type": "JP",
+        "title": "例行维护 #116",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/26(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1904413090286092545",
+        "start_time": 1742958000,
+        "end_time": 1742986800
+      },
+      {
+        "id": 3805,
+        "line_type": "JP",
+        "title": "指名手配2倍#45",
+        "image": "https://static.kivo.wiki/images/timeline/wz7voiVMftQc1ka9cvtNltH5l9ZH6q3t.jpg",
+        "body_summary": "【キャンペーン予告】 3月26日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ オーパーツにBD、技術ノートと生徒さん達の育成に必要な素材を、この機会に集め",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1904081252401152404",
+        "start_time": 1742932800,
+        "end_time": 1743537599
+      },
       {
         "id": 3858,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1903011197760262423",
         "start_time": 1742548233,
         "end_time": 1742548233
-      },
-      {
-        "id": 3860,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编普拉娜旗袍换装回 #21",
-        "image": "https://static.kivo.wiki/images/timeline/F0ISPMPdM7FlUkXssjt4HScy7D8JQqDC.jpg",
-        "body_summary": "Hello, Sensei! CM Arcie’s 21st Blue Archive live stream comes tomorrow – Don’t miss it! 🗓️Date & Tim",
-        "type": "Live",
-        "url": "x.com/EN_BlueArchive/status/1902510400748265585",
-        "start_time": 1742515200,
-        "end_time": 1742515200
-      },
-      {
-        "id": 3797,
-        "line_type": "CN",
-        "title": "不停机更新（必胜客联动多人餐礼包异常）",
-        "image": "https://static.kivo.wiki/images/timeline/o0IOu6eQLOyiQmCnHibTOvIRUwhiGY4E.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈，领取蔚蓝档案必胜客联动多人餐礼包码时存在异常情况。 在得知该情况后我们已紧急开展该问题的核实，相关问题处理方案请关注后续公告。 祝您游戏愉快",
-        "type": "Maintenance",
-        "url": "weibo.com/6011443154/Pjszkl7Mn",
-        "start_time": 1742476200,
-        "end_time": 1742476200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594208,
+  "time": 1782682290,
   "version": "1.0.0-beta.43"
 }

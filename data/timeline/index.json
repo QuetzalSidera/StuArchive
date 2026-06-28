@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-06-27T19:19:07Z",
+  "generated_at": "2026-06-28T19:18:07Z",
   "list_key": "timeline",
   "id_key": "id",
-  "max_page": 547,
-  "synced_pages": 547,
-  "total_items": 5469,
+  "max_page": 548,
+  "synced_pages": 548,
+  "total_items": 5471,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -215,6 +215,17 @@
       "end_time": 1783515174
     },
     {
+      "id": 5618,
+      "line_type": "JP",
+      "title": "例行维护#145",
+      "image": "https://static.kivo.wiki/images/timeline/xQl7PDWIRNLv6EE0FNkSoCsrxj7d1kmY.jpg",
+      "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年6月24日(水) 11:00 〜 19:00前後 ▼詳細 ht",
+      "type": "Maintenance",
+      "url": "x.com/Blue_ArchiveJP/status/2069299554793697655",
+      "start_time": 1782270000,
+      "end_time": 1782298800
+    },
+    {
       "id": 5613,
       "line_type": "Globle",
       "title": "国际服制约解除作战：赛特之怒 #14",
@@ -235,6 +246,17 @@
       "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
       "start_time": 1782244800,
       "end_time": 1782849599
+    },
+    {
+      "id": 5619,
+      "line_type": "JP",
+      "title": "违规账号封禁 #57",
+      "image": "https://static.kivo.wiki/images/timeline/10sC4wiw1zx0bNZXjJBxP3oihdYQLKi8.jpg",
+      "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+      "type": "Other",
+      "url": "x.com/Blue_ArchiveJP/status/2069737416576106762",
+      "start_time": 1782232981,
+      "end_time": 1782232981
     },
     {
       "id": 5614,
@@ -64004,15 +64026,22 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=547",
       "path": "timeline/pages/547.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/547.json",
-      "item_count": 9
+      "item_count": 10
+    },
+    {
+      "page": 548,
+      "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=548",
+      "path": "timeline/pages/548.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/548.json",
+      "item_count": 1
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5436,
-    "normalized_alias_count": 5428,
-    "total_items": 5469
+    "alias_count": 5438,
+    "normalized_alias_count": 5430,
+    "total_items": 5471
   }
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-27T19:19:07Z",
+  "generated_at": "2026-06-28T19:18:07Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5469,
-  "alias_count": 5436,
-  "normalized_alias_count": 5428,
+  "total_items": 5471,
+  "alias_count": 5438,
+  "normalized_alias_count": 5430,
   "by_id": {
     "5601": {
       "id": 5601,
@@ -337,6 +337,24 @@
       "detail_path": "timeline/5584.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5584.json"
     },
+    "5618": {
+      "id": 5618,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5618,
+        "line_type": "JP",
+        "title": "例行维护#145",
+        "image": "https://static.kivo.wiki/images/timeline/xQl7PDWIRNLv6EE0FNkSoCsrxj7d1kmY.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年6月24日(水) 11:00 〜 19:00前後 ▼詳細 ht",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2069299554793697655",
+        "start_time": 1782270000,
+        "end_time": 1782298800
+      },
+      "detail_path": "timeline/5618.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5618.json"
+    },
     "5613": {
       "id": 5613,
       "source_path": "timeline/index.json",
@@ -372,6 +390,24 @@
       },
       "detail_path": "timeline/5586.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5586.json"
+    },
+    "5619": {
+      "id": 5619,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5619,
+        "line_type": "JP",
+        "title": "违规账号封禁 #57",
+        "image": "https://static.kivo.wiki/images/timeline/10sC4wiw1zx0bNZXjJBxP3oihdYQLKi8.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2069737416576106762",
+        "start_time": 1782232981,
+        "end_time": 1782232981
+      },
+      "detail_path": "timeline/5619.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5619.json"
     },
     "5614": {
       "id": 5614,
@@ -98511,11 +98547,17 @@
     "卡池「淡きこと水のごとし」&「夏中に能く身を成すを」": [
       "5584"
     ],
+    "例行维护#145": [
+      "5618"
+    ],
     "国际服制约解除作战:赛特之怒 #14": [
       "5613"
     ],
     "指名手配2倍#58": [
       "5586"
+    ],
+    "违规账号封禁 #57": [
+      "5619"
     ],
     "国际服主线Vol.EX 第三章 Part4更新": [
       "5614"
@@ -114854,11 +114896,17 @@
     "卡池「淡きこと水のごとし」&「夏中に能く身を成すを」": [
       "5584"
     ],
+    "例行维护#145": [
+      "5618"
+    ],
     "国际服制约解除作战:赛特之怒#14": [
       "5613"
     ],
     "指名手配2倍#58": [
       "5586"
+    ],
+    "违规账号封禁#57": [
+      "5619"
     ],
     "国际服主线vol.ex第三章part4更新": [
       "5614"

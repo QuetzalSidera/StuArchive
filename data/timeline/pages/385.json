@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 784,
+        "line_type": "JP",
+        "title": "课程表2倍#17 & 学院交流会2倍#17",
+        "image": "https://static.kivo.wiki/images/timeline/5TBxOg1xWcmML6g3L9CqJ3k7JwNLVIYR.jpg",
+        "body_summary": "【キャンペーン予告】 9/27(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/9/27(水)4:00 ~ 2",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1704329850545402071",
+        "start_time": 1695758400,
+        "end_time": 1696363199
+      },
+      {
+        "id": 1538,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Problem Solver 68 and the Miracle of the Offering Box」",
+        "image": "https://static.kivo.wiki/images/timeline/0VegXUsvUF2sR5uyrodnVaNYVHSwwmLW.jpg",
+        "body_summary": "[Web Event Notice] 'Problem Solver 68 and the Miracle of the Offering Box' Event begins! Log in toda",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1706656871841771688",
+        "start_time": 1695733203,
+        "end_time": 1697507943
+      },
       {
         "id": 1537,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1706610151632121859",
         "start_time": 1695718815,
         "end_time": 1695718815
-      },
-      {
-        "id": 1528,
-        "line_type": "Globle",
-        "title": "国际服例行维护47（延长）",
-        "image": "",
-        "body_summary": "[9/26 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/26 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1705144908271567261",
-        "start_time": 1695693644,
-        "end_time": 1695733244
-      },
-      {
-        "id": 1530,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍20",
-        "image": "https://static.kivo.wiki/images/timeline/0ebrEdvj28wvYhJ6zPB0Ef6A8b91iYM8.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 9/25 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1705477100029821412",
-        "start_time": 1695668453,
-        "end_time": 1696273253
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594412,
+  "time": 1782682549,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 2477,
+        "line_type": "JP",
+        "title": "限定卡池「Where there's Toki there's victory.」＆「Where there's tea party there's hope. 」复刻、卡池「解に導く番狂わせ」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/LV4YXXI9KLc0WmiuvLX0jF56QhtokQDg.jpg",
+        "body_summary": "【ピックアップ募集・予告】 期間限定復刻ピックアップ募集「Where there's Toki there's victory.」＆「Where there's tea party there's h",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1780068753969189306",
+        "start_time": 1713322800,
+        "end_time": 1712890800
+      },
+      {
+        "id": 2399,
+        "line_type": "JP",
+        "title": "大决战：屋内戦・グレゴリオ#1",
+        "image": "https://static.kivo.wiki/images/timeline/p8EpNaYC9tLrqlwR9bOGa4gwQwAXyKM9.jpg",
+        "body_summary": "【総力戦＆大決戦予告】 先生、今後予定されているロードマップをご紹介します！ 明後日の4月3日(水)より総力戦「屋内戦・ペロロジラ」、4月中旬には大決戦「屋内戦・グレゴリオ」の開催を予定しています。 ",
+        "type": "BigRaid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1774723643920326981",
+        "start_time": 1713322800,
+        "end_time": 1713902399
+      },
       {
         "id": 2433,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1780102718662848689",
         "start_time": 1713244500,
         "end_time": 1713244500
-      },
-      {
-        "id": 2490,
-        "line_type": "Globle",
-        "title": "国际服活动「Balancing Schale's Books with the General Student Council」3",
-        "image": "https://static.kivo.wiki/images/timeline/NQ7Q4mhGYl4z5Ugd6tjIzSq6gL708jOd.jpg",
-        "body_summary": "[Mini Event Notice] The \"Balancing Schale's Books with the General Student Council\" Mini Event is ba",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1780105748875469282",
-        "start_time": 1713243608,
-        "end_time": 1714442348
-      },
-      {
-        "id": 2459,
-        "line_type": "Globle",
-        "title": "国际服例行维护58",
-        "image": "",
-        "body_summary": "[4/16 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/16 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1778709647085449391",
-        "start_time": 1713232830,
-        "end_time": 1713247230
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594336,
+  "time": 1782682453,
   "version": "1.0.0-beta.43"
 }

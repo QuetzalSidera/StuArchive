@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 633,
+        "line_type": "JP",
+        "title": "活动复刻「放課後スイーツ物語 甘い秘密と銃撃戦」",
+        "image": "https://static.kivo.wiki/images/timeline/BX5piPUIZG50WHR8HCITyZYEMbTwjaau.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生！怪盗からの「予告状」のお次は、スーパースター(？)からの「挑戦状」みたいですよ♪ 復刻イベント「放課後スイーツ物語 甘い秘密と銃撃戦」5月10日(水)メンテナンス後に開",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1653972799311200259",
+        "start_time": 1683709200,
+        "end_time": 1684292399
+      },
+      {
+        "id": 637,
+        "line_type": "JP",
+        "title": "例行维护68",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 5/10(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1655814910746714113",
+        "start_time": 1683687600,
+        "end_time": 1683709200
+      },
       {
         "id": 635,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1653700931953872901",
         "start_time": 1683108013,
         "end_time": 1683108013
-      },
-      {
-        "id": 679,
-        "line_type": "JP",
-        "title": "市街地戦・シロ＆クロ6",
-        "image": "https://static.kivo.wiki/images/timeline/zYvD3A7kIA6abODvoJk2U6M1JMa2XME8.jpg",
-        "body_summary": "【総力戦・予告】 5月3日(水)11:00から、総力戦「市街地戦・シロ＆クロ」が開催されます！ 順位に応じて「シロ＆クロ(市街地戦)のトロフィー」や各種「総力戦コイン」が獲得できます！ ぜひ上位入賞を",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1652145850364350464?s=20",
-        "start_time": 1683089643,
-        "end_time": 1683694443
-      },
-      {
-        "id": 632,
-        "line_type": "JP",
-        "title": "GW动画 基沃托斯的大型连休！",
-        "image": "https://static.kivo.wiki/images/timeline/m7mivzCBekMvTRkzCEJsv3S7vHfYA47n.jpg",
-        "body_summary": "【キヴォトスの大型連休！その①】 先生！今日からGWです！ 期間中だけキヴォトスの様子をお届けしちゃいます！ 今回はゲヘナ学園、給食部のフウカさんとジュリさんです！ お二人が料理の練習をするようなので",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1653595232426926080",
-        "start_time": 1683086400,
-        "end_time": 1683432000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594447,
+  "time": 1782682592,
   "version": "1.0.0-beta.43"
 }

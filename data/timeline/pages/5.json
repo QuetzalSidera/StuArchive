@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 5571,
+        "line_type": "JP",
+        "title": "活动「-ive aLIVE!」常驻化",
+        "image": "https://static.kivo.wiki/images/timeline/4ZhmjcFH7dxki0G0BYsUATUekPet72dk.jpg",
+        "body_summary": "【イベント常設化・予告】 6/17(水)11:00より、期間限定イベント「-ive aLIVE!」が常設化されます！ スイーツの女王「フレデリカ・セムラ」を食べるため、学園祭に向けてバンドを結成する事",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2065992940951105987",
+        "start_time": 1781665200,
+        "end_time": 1781665200
+      },
+      {
+        "id": 5570,
+        "line_type": "JP",
+        "title": "大决战：屋外戦・ホバークラフト #2",
+        "image": "https://static.kivo.wiki/images/timeline/OHPnbxb2dOpU3BOWI8ZZGA05UDKlMXrs.jpg",
+        "body_summary": "【大決戦・予告】 2026年6月17日(水)11:00より、大決戦「屋外戦・ホバークラフト」が開催されます！ 敵のワカモさんがEXスキル「こうなったら……！」を使用するとミサイル暴走モードに突入し、リ",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2065630663223677071",
+        "start_time": 1781665200,
+        "end_time": 1782244799
+      },
       {
         "id": 5572,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2066445612858634446",
         "start_time": 1781501874,
         "end_time": 1781501874
-      },
-      {
-        "id": 5611,
-        "line_type": "JP",
-        "title": "万魔殿小剧场 #24",
-        "image": "https://static.kivo.wiki/images/timeline/FiYxx5iLPHkIEXSZ9gU94Vwm7L1Yk4iK.jpg",
-        "body_summary": "【#ちょっとお時間貰いますね】 先生、おはようございます♪ サツキさんがどこか物憂げな感じです…… 一体どうしたんでしょうか？ #ブルアカ",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2066295871264952546",
-        "start_time": 1781481900,
-        "end_time": 1781481900
-      },
-      {
-        "id": 5563,
-        "line_type": "CN",
-        "title": "总力战：霍德 • 街区战 #5",
-        "image": "https://static.kivo.wiki/images/timeline/3LThK71Dl8djonr5HZyAkAOvZACVpTws.jpg",
-        "body_summary": "#蔚蓝档案﻿霍德原本是千禧年自管区通讯网的AI处理器，受到不明AI攻击后，开始宣称自己是神名十文字的第8个先知。 如果这个集结千禧年技术精华的运算系统持续失控，千禧年自管区的安全将失去保障。 ■ 活动",
-        "type": "Raid",
-        "url": "weibo.com/6011443154/R3B7xA7mv",
-        "start_time": 1781330400,
-        "end_time": 1781726399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594046,
+  "time": 1782682081,
   "version": "1.0.0-beta.43"
 }

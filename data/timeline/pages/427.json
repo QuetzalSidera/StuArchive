@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 656,
+        "line_type": "JP",
+        "title": "特别依赖2倍#29",
+        "image": "https://static.kivo.wiki/images/timeline/MW3nNwXVSkTfCQ9SGf7Q1GCmBEXGZ6ZU.jpg",
+        "body_summary": "【キャンペーン予告】 4/19(水)より、「特別依頼」において各種「レポート」や「クレジット」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/4/19(水)4:00 ~",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1647887673720442880?s=20",
+        "start_time": 1681878059,
+        "end_time": 1682482859
+      },
+      {
+        "id": 655,
+        "line_type": "JP",
+        "title": "活动常驻化「革命のイワン・クパーラ 髭とプリンとレッドウィンター」",
+        "image": "https://static.kivo.wiki/images/timeline/VJgvVj8KtMu8s0x6PiI4vqh7XXGk02ii.jpg",
+        "body_summary": "【常設化イベント追加】 4月19日(水)11:00より、期間限定イベント「革命のイワン・クパーラ 髭とプリンとレッドウィンター」が常設化イベントに追加されます！ ストーリーを全て体験すると「ノドカ」さ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1647434852852191232?s=20",
+        "start_time": 1681877913,
+        "end_time": 1681877913
+      },
       {
         "id": 1387,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1644898156495388673?s=20",
         "start_time": 1681272753,
         "end_time": 1681877553
-      },
-      {
-        "id": 652,
-        "line_type": "JP",
-        "title": "屋内戦・ケセド4",
-        "image": "https://static.kivo.wiki/images/timeline/qNHNXt3ft8PHUQIbrFpXVgWgXZG9ZSHi.jpg",
-        "body_summary": "【総力戦・予告】 4月12日(水)11:00より、総力戦「屋内戦・ケセド」が開幕いたします！ 順位に応じて各種「ケセド(屋内戦)のトロフィー」を獲得できますので、生徒さん達と協力してBOSSへと挑みま",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1644535565247979521?s=20",
-        "start_time": 1681272696,
-        "end_time": 1681877496
-      },
-      {
-        "id": 1383,
-        "line_type": "Globle",
-        "title": "国际服「Get Set, Go! Kivotos Halo Festival!」活动预约",
-        "image": "https://static.kivo.wiki/images/timeline/lJp5n8hpbK40i4H2cPogv7AHQ5LGZayT.jpg",
-        "body_summary": "Sensei, please come here and help us prepare for the Kivotos Halo Festival! You can pre-register now",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1645985088717348871",
-        "start_time": 1681268401,
-        "end_time": 1682305201
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594452,
+  "time": 1782682598,
   "version": "1.0.0-beta.43"
 }

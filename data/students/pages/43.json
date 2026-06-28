@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 48,
+    "max_page": 49,
     "students": [
+      {
+        "id": 256,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "眼罩猫猫",
+        "family_name_jp": "",
+        "given_name_jp": "Citizen_animal5_eyepatch_spr",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%9C%BC%E7%BD%A9%E7%8C%AB%E7%8C%AB/avatar.png",
+        "school": 18,
+        "main_relation": 68
+      },
       {
         "id": 258,
         "skin": "",
@@ -147,27 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E9%BE%9F%E7%BB%84%E6%9C%BA%E5%99%A8%E4%BA%BAA/avatar.png",
         "school": 18,
         "main_relation": 67
-      },
-      {
-        "id": 15,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "凯撒机器人A",
-        "family_name_jp": "",
-        "given_name_jp": "Automata_PMC1",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%87%AF%E6%92%92%E6%9C%BA%E5%99%A8%E4%BA%BAA/avatar.png",
-        "school": 19,
-        "main_relation": 70
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782588049,
+  "time": 1782674420,
   "version": "1.0.0-beta.43"
 }

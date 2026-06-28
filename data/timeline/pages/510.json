@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 906,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁5",
+        "image": "",
+        "body_summary": "[1/18(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1483337824598642688",
+        "start_time": 1642490220,
+        "end_time": 1642490220
+      },
+      {
+        "id": 251,
+        "line_type": "JP",
+        "title": "一周年网站公开（已失效）",
+        "image": "https://static.kivo.wiki/images/timeline/xo8rHJbIjlWlnQCtLU7V02wcaF1uSImY.jpeg",
+        "body_summary": "【1stアニバーサリー】 先生、『ブルーアーカイブ』1周年特設サイトを公開しました！ 1周年記念に「スペシャルキャンペーン」や「1周年記念生放送」、「1周年特別アンケート」など様々な企画をご用意してま",
+        "type": "WebEvent",
+        "url": "x.com/blue_archivejp/status/1481120532892622848?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1641956511,
+        "end_time": 1641956511
+      },
       {
         "id": 250,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1479739905358114819",
         "start_time": 1641891600,
         "end_time": 1643079600
-      },
-      {
-        "id": 901,
-        "line_type": "Globle",
-        "title": "国际服卡池「Starting today... you're my master, Sensei.」",
-        "image": "https://static.kivo.wiki/images/timeline/yJtE5FSV5R3xJuM6MmdZIMhJgNR6de5x.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 1/11 (Tue)! Target Pick-Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1479739657185341444",
-        "start_time": 1641891600,
-        "end_time": 1643079600
-      },
-      {
-        "id": 900,
-        "line_type": "Globle",
-        "title": "国际服活动「A Revolutionary Ivan Kupala」",
-        "image": "https://static.kivo.wiki/images/timeline/M1WNQO5BMkWniunwZiT9lCfY2QsyW43V.jpg",
-        "body_summary": "[New Event Preview] The first event of 2022 will start on 1/11 (Tue)! Stay tuned for the story of th",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1479347069265580032",
-        "start_time": 1641891600,
-        "end_time": 1643079600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594530,
+  "time": 1782682703,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 417,
+        "line_type": "JP",
+        "title": "社团剧情追加：「RABBIT小隊」",
+        "image": "https://static.kivo.wiki/images/timeline/eWvZeQ10rhb4dsVZRKtWxHDg0dc96BPJ.jpg",
+        "body_summary": "【サブストーリー】 メンテナンス終了後より、各サークルでの活動内容を描いた「サブストーリー」にて新しく「RABBIT小隊」の物語が追加されます！ ぜひ生徒さん達の日常をお楽しみください♪ ※該当のサブ",
+        "type": "OtherStory",
+        "url": "twitter.com/Blue_ArchiveJP/status/1562333941788717057",
+        "start_time": 1661338800,
+        "end_time": 1661338800
+      },
+      {
+        "id": 412,
+        "line_type": "JP",
+        "title": "活动「放課後スイーツ物語 甘い秘密と銃撃戦」",
+        "image": "https://static.kivo.wiki/images/timeline/6qqVKlCfF8JRP0xjgiWxgRK3gMA66VP8.jpg",
+        "body_summary": "【新イベント予告】 先生、生徒さんよりお電話です！ 何でも会って相談したいことがあるそうなので、すぐに向かいましょう！ 新イベント「放課後スイーツ物語 甘い秘密と銃撃戦」まもなく開催です！ 「まぁ…そ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1560461603833004032",
+        "start_time": 1661338800,
+        "end_time": 1662519599
+      },
       {
         "id": 1166,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1561966466638888960",
         "start_time": 1661236828,
         "end_time": 1661236828
-      },
-      {
-        "id": 1163,
-        "line_type": "Globle",
-        "title": "国际服例行维护21",
-        "image": "",
-        "body_summary": "[8/23 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/23 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1561548715164217345",
-        "start_time": 1661223628,
-        "end_time": 1661238028
-      },
-      {
-        "id": 1164,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍8",
-        "image": "https://static.kivo.wiki/images/timeline/yrAml8rI3kIktB53PwAmNptW3qE5GwJD.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 8/22(Mon), the amount of rewards dropped in Commissions will be ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1561578915931602945",
-        "start_time": 1661194807,
-        "end_time": 1661713147
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594497,
+  "time": 1782682660,
   "version": "1.0.0-beta.43"
 }

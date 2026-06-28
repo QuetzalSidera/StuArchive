@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 358,
+        "line_type": "JP",
+        "title": "特殊作战2",
+        "image": "https://static.kivo.wiki/images/timeline/yIZN1zTHQXvI5fcXWY2Sa15QtZ7O7GxN.jpg",
+        "body_summary": "【イベント紹介】 6/8(水)メンテナンス後、不定期開催コンテンツ「特殊作戦」が開始されます！ 予期せぬサイバー攻撃を受けてしまった「特異現象捜査部」ですが、この雪辱を果たすためヒマリさんが新たな行動",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1533282561966804993",
+        "start_time": 1654678800,
+        "end_time": 1655866799
+      },
+      {
+        "id": 361,
+        "line_type": "JP",
+        "title": "例行维护45",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/8(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1534052578249838597",
+        "start_time": 1654657200,
+        "end_time": 1654678800
+      },
       {
         "id": 1813,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1531563634769338370",
         "start_time": 1653987650,
         "end_time": 1653987650
-      },
-      {
-        "id": 1115,
-        "line_type": "Globle",
-        "title": "国际服「Exclusive Weapon」实装 & T6装备实装 & 等级上限提升至75 & 咖啡厅扩大以及部分功能更新",
-        "image": "https://static.kivo.wiki/images/timeline/FrTJHcOlSVavsUDgUuD5gF1CJ0MdFVq7.jpg",
-        "body_summary": "[Update Summary] I've summarized the key contents of the 5/31 update so that you don't miss out on v",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1532618103493799937",
-        "start_time": 1653987642,
-        "end_time": 1653987642
-      },
-      {
-        "id": 1108,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第二章后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/tjheAQXE0jdHqpclAPK9IppF1GN7nPtW.jpg",
-        "body_summary": "[Update Preview] Sensei, the second half of Main Story Vol.3 Eden Treaty Ch.2, Paradise Paradox will",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1529718984584617985",
-        "start_time": 1653987633,
-        "end_time": 1653987633
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594509,
+  "time": 1782682675,
   "version": "1.0.0-beta.43"
 }

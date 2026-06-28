@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 547,
+    "max_page": 548,
     "type_num": {
       "AlliedOperation": 13,
       "BigRaid": 84,
@@ -12,9 +12,9 @@
       "Gacha": 779,
       "Live": 81,
       "MainStory": 123,
-      "Maintenance": 426,
+      "Maintenance": 427,
       "MiniBattle": 196,
-      "Other": 683,
+      "Other": 684,
       "OtherStory": 62,
       "OutsideGames": 831,
       "Raid": 245,
@@ -22,6 +22,28 @@
       "WebEvent": 130
     },
     "timeline": [
+      {
+        "id": 1029,
+        "line_type": "JP",
+        "title": "对于近期问题较多的情况的补偿",
+        "image": "",
+        "body_summary": "【お詫び】 この度は一連の不具合において、 先生方に多大なご迷惑をおかけいたしましたこと、 重ね重ねお詫び申し上げます。 お詫びに改めて下記のアイテムを補填いたします。 ・青輝石　x1200 ※補填の",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1727273693917970489",
+        "start_time": 1700643043,
+        "end_time": 1700643043
+      },
+      {
+        "id": 1027,
+        "line_type": "JP",
+        "title": "家具互动开关",
+        "image": "",
+        "body_summary": "【「家具モーション」ON/OFF機能】 今回のアップデートにて、「家具モーション」をON/OFFできる機能が追加されます！ また、機能追加に合わせて、ON/OFFの設定を全てリセットするボタンも追加さ",
+        "type": "ContentImprovements",
+        "url": "",
+        "start_time": 1700642815,
+        "end_time": 1700642815
+      },
       {
         "id": 1026,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1725808564923756678",
         "start_time": 1700532001,
         "end_time": 1701136741
-      },
-      {
-        "id": 1595,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Cute swimsuits are justice... I'll keep that in mind.」2",
-        "image": "https://static.kivo.wiki/images/timeline/td9Z8g82fpbc6JjYf59106Y1TlrrYHrZ.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 11/21 (T",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1725804788707959232",
-        "start_time": 1700532001,
-        "end_time": 1701136741
-      },
-      {
-        "id": 1594,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Arrived at the objective. Let's go straight to the next mission.」2",
-        "image": "https://static.kivo.wiki/images/timeline/CHpb2KZjoCttdzPiG22cXQhCizRUwGWe.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 11/21 (T",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1725801024550506553",
-        "start_time": 1700532001,
-        "end_time": 1701136741
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782594393,
+  "time": 1782682525,
   "version": "1.0.0-beta.43"
 }

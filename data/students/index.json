@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-06-27T19:19:07Z",
+  "generated_at": "2026-06-28T19:18:07Z",
   "list_key": "students",
   "id_key": "id",
-  "max_page": 48,
-  "synced_pages": 48,
-  "total_items": 480,
-  "details_synced": 480,
+  "max_page": 49,
+  "synced_pages": 49,
+  "total_items": 481,
+  "details_synced": 481,
   "details_enabled": true,
   "items": [
     {
@@ -5329,6 +5329,22 @@
       "main_relation": 19
     },
     {
+      "id": 607,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "谢玛塔",
+      "family_name_jp": "",
+      "given_name_jp": "シェマタ",
+      "family_name_cn": "",
+      "given_name_cn": "谢玛塔",
+      "avatar": "https://static.kivo.wiki/images/students/%20%E8%B0%A2%E7%8E%9B%E5%A1%94/original/avatar.png",
+      "school": 1,
+      "main_relation": 0
+    },
+    {
       "id": 220,
       "skin": "",
       "skin_jp": "",
@@ -5467,7 +5483,7 @@
       "family_name_jp": "",
       "given_name_jp": "「雷帝」",
       "family_name_cn": "",
-      "given_name_cn": "",
+      "given_name_cn": "「雷帝」",
       "avatar": "https://static.kivo.wiki/images/students/%20%E3%80%8C%E9%9B%B7%E5%B8%9D%E3%80%8D/original/avatar.png",
       "school": 3,
       "main_relation": 0
@@ -8033,6 +8049,13 @@
       "path": "students/pages/48.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/48.json",
       "item_count": 10
+    },
+    {
+      "page": 49,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=49",
+      "path": "students/pages/49.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/49.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -10029,6 +10052,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/380.json"
     },
     {
+      "id": 607,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/607",
+      "path": "students/607.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/607.json"
+    },
+    {
       "id": 220,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/220",
       "path": "students/220.json",
@@ -10920,9 +10949,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5537,
-    "normalized_alias_count": 3798,
-    "total_items": 480
+    "alias_count": 5539,
+    "normalized_alias_count": 3800,
+    "total_items": 481
   },
   "profiles": [
     {
@@ -13136,6 +13165,11 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/606.json"
     },
     {
+      "id": 607,
+      "path": "students/profiles/607.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/607.json"
+    },
+    {
       "id": 61,
       "path": "students/profiles/61.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/61.json"
@@ -13349,6 +13383,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 484
+    "total_items": 485
   }
 }
