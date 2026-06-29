@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-06-28T19:18:07Z",
+  "generated_at": "2026-06-29T19:55:58Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5471,
-  "alias_count": 5438,
-  "normalized_alias_count": 5430,
+  "total_items": 5480,
+  "alias_count": 5447,
+  "normalized_alias_count": 5439,
   "by_id": {
     "5601": {
       "id": 5601,
@@ -139,6 +139,24 @@
       "detail_path": "timeline/5589.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5589.json"
     },
+    "5454": {
+      "id": 5454,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5454,
+        "line_type": "Globle",
+        "title": "国际服参展Anime Expo 2026",
+        "image": "https://static.kivo.wiki/images/timeline/372AfIPUGOJ8ocvn6Zr8YWhydf8TYoKM.jpg",
+        "body_summary": "Sensei, we are back at Anime Expo! Blue Archive is returning to AX 2026 with a booth, panel session,",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2055317288664850670",
+        "start_time": 1783008000,
+        "end_time": 1783353599
+      },
+      "detail_path": "timeline/5454.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5454.json"
+    },
     "5599": {
       "id": 5599,
       "source_path": "timeline/index.json",
@@ -175,6 +193,96 @@
       "detail_path": "timeline/5588.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5588.json"
     },
+    "5621": {
+      "id": 5621,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5621,
+        "line_type": "Globle",
+        "title": "国际服总力战 Binah (Field) #6",
+        "image": "https://static.kivo.wiki/images/timeline/H0ZxxAjJSBSlwNlJBQy8hLTHH5ajs5fy.jpg",
+        "body_summary": "[Total Assault Preview] The Total Assault - Binah (Field Warfare) will start on 6/30 (Tue)! ➡️Offici",
+        "type": "Raid",
+        "url": "x.com/EN_BlueArchive/status/2069680674273956007",
+        "start_time": 1782817200,
+        "end_time": 1783396799
+      },
+      "detail_path": "timeline/5621.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5621.json"
+    },
+    "5627": {
+      "id": 5627,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5627,
+        "line_type": "Globle",
+        "title": "国际服活动「Game Development Department's Cleanup Operation!」",
+        "image": "https://static.kivo.wiki/images/timeline/sOooZeRBOdp2FIklLXZl4LTjYuiilmzI.jpg",
+        "body_summary": "Game Development Department's Cleanup Operation! Event Story Update 6/30 (Tue) 2:00 AM (UTC) Secret ",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+        "start_time": 1782785410,
+        "end_time": 1783994399
+      },
+      "detail_path": "timeline/5627.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5627.json"
+    },
+    "5628": {
+      "id": 5628,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5628,
+        "line_type": "Globle",
+        "title": "国际服活动「Valentine's Day Promise」",
+        "image": "https://static.kivo.wiki/images/timeline/2kla0IlSRAcOuuTQ92ZCwIkgBmJnslIT.jpg",
+        "body_summary": "Event: Valentine's Day Promise Update 6/30 (Tue) 2:00 AM (UTC)",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+        "start_time": 1782784800,
+        "end_time": 1783994399
+      },
+      "detail_path": "timeline/5628.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5628.json"
+    },
+    "5623": {
+      "id": 5623,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5623,
+        "line_type": "Globle",
+        "title": " 国际服指名手配2倍 #46",
+        "image": "https://static.kivo.wiki/images/timeline/tUhVj58qstAk5ief0wIWx04pEhapyPSY.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 6/29 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2070764069112397840",
+        "start_time": 1782759600,
+        "end_time": 1783364399
+      },
+      "detail_path": "timeline/5623.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5623.json"
+    },
+    "5624": {
+      "id": 5624,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5624,
+        "line_type": "Globle",
+        "title": "国际服最终章OST「Echoes of Longing 憧れの残響」MV公布",
+        "image": "https://static.kivo.wiki/images/timeline/cS5rQ1sQfVTtgKc6BqroalP4N4sJPAQp.jpg",
+        "body_summary": "[Ex. Decagrammaton OST Echoes of Longing 憧れの残響 MV] Despite everything, still, hope will bloom and su",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2071201949446541530",
+        "start_time": 1782648000,
+        "end_time": 1782648000
+      },
+      "detail_path": "timeline/5624.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5624.json"
+    },
     "5592": {
       "id": 5592,
       "source_path": "timeline/index.json",
@@ -192,6 +300,24 @@
       },
       "detail_path": "timeline/5592.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5592.json"
+    },
+    "5622": {
+      "id": 5622,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5622,
+        "line_type": "Globle",
+        "title": "国际服老师双倍经验 #43",
+        "image": "https://static.kivo.wiki/images/timeline/WBYQKW0ZBECeNCRg45b1Vitx8OqYLRwI.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will begin on 6/26 (Fri)! Don't m",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2070442392814329921",
+        "start_time": 1782500400,
+        "end_time": 1782673199
+      },
+      "detail_path": "timeline/5622.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5622.json"
     },
     "5542": {
       "id": 5542,
@@ -355,6 +481,24 @@
       "detail_path": "timeline/5618.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5618.json"
     },
+    "5625": {
+      "id": 5625,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5625,
+        "line_type": "Globle",
+        "title": "国际服联合作战「Decagrammaton Showdown Update」",
+        "image": "https://static.kivo.wiki/images/timeline/uNs70zpx23LUJXp7gkvCxt0XfMr4mqsE.jpg",
+        "body_summary": "Allied Operation - Decagrammaton Showdown Update 6/24 (Wed) 2:00 AM (UTC) Allied Operation Boss Deca",
+        "type": "AlliedOperation",
+        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+        "start_time": 1782266400,
+        "end_time": 1782784799
+      },
+      "detail_path": "timeline/5625.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5625.json"
+    },
     "5613": {
       "id": 5613,
       "source_path": "timeline/index.json",
@@ -409,6 +553,24 @@
       "detail_path": "timeline/5619.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5619.json"
     },
+    "5620": {
+      "id": 5620,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5620,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Place Belonged」",
+        "image": "https://static.kivo.wiki/images/timeline/fBYrQrV2gt7Z7717LbGUnY1JjorUBUVl.jpg",
+        "body_summary": "At the edge of the Steel Continent, supplies are waiting for Sensei at the destination you've finall",
+        "type": "WebEvent",
+        "url": "x.com/EN_BlueArchive/status/2069314511769645366",
+        "start_time": 1782198000,
+        "end_time": 1783364399
+      },
+      "detail_path": "timeline/5620.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5620.json"
+    },
     "5614": {
       "id": 5614,
       "source_path": "timeline/index.json",
@@ -426,6 +588,24 @@
       },
       "detail_path": "timeline/5614.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5614.json"
+    },
+    "5626": {
+      "id": 5626,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5626,
+        "line_type": "Globle",
+        "title": "国际服卡池「Locking on Sensei's heart... I'm really not used to this.」&「Practice ike it's real, treat it like it's a game...! I'll do my best...!」",
+        "image": "https://static.kivo.wiki/images/timeline/YHEHUyJyq54iIgutxbFhoeCvSVjN0bht.jpg",
+        "body_summary": "Yuzu (Armed) and Eimi (Armed) Pick-Up Recruitments Begin.",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+        "start_time": 1782180000,
+        "end_time": 1783389599
+      },
+      "detail_path": "timeline/5626.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5626.json"
     },
     "5616": {
       "id": 5616,
@@ -815,7 +995,7 @@
         "title": "国际服特别依赖3倍 #16",
         "image": "https://static.kivo.wiki/images/timeline/9HDuY7lmk5ZBHAP4tQKkwsifmZvyhWXT.jpg",
         "body_summary": "[Triple Drop Campaign Preview] Starting 6/15 (Mon), Commissions rewards will be tripled! Don't miss ",
-        "type": "Event",
+        "type": "Double",
         "url": "x.com/EN_BlueArchive/status/2065694407828049949",
         "start_time": 1781588177,
         "end_time": 1782192977
@@ -1632,24 +1812,6 @@
       },
       "detail_path": "timeline/5548.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5548.json"
-    },
-    "5454": {
-      "id": 5454,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5454,
-        "line_type": "Globle",
-        "title": "国际服参展Anime Expo 2026",
-        "image": "https://static.kivo.wiki/images/timeline/372AfIPUGOJ8ocvn6Zr8YWhydf8TYoKM.jpg",
-        "body_summary": "Sensei, we are back at Anime Expo! Blue Archive is returning to AX 2026 with a booth, panel session,",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2055317288664850670",
-        "start_time": 1780329600,
-        "end_time": 1780847999
-      },
-      "detail_path": "timeline/5454.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5454.json"
     },
     "5513": {
       "id": 5513,
@@ -98514,14 +98676,35 @@
     "课程表2倍#44": [
       "5589"
     ],
+    "国际服参展Anime Expo 2026": [
+      "5454"
+    ],
     "屋内戦・グレゴリオ #4": [
       "5599"
     ],
     "特别依赖2倍#69 & 学院交流会2倍#45": [
       "5588"
     ],
+    "国际服总力战 Binah (Field) #6": [
+      "5621"
+    ],
+    "国际服活动「Game Development Department's Cleanup Operation!」": [
+      "5627"
+    ],
+    "国际服活动「Valentine's Day Promise」": [
+      "5628"
+    ],
+    "国际服指名手配2倍 #46": [
+      "5623"
+    ],
+    "国际服最终章OST「Echoes of Longing 憧れの残響」MV公布": [
+      "5624"
+    ],
     "老师经验2倍集中通知 26-06-27": [
       "5592"
+    ],
+    "国际服老师双倍经验 #43": [
+      "5622"
     ],
     "特别委托3倍 #13": [
       "5542"
@@ -98550,6 +98733,9 @@
     "例行维护#145": [
       "5618"
     ],
+    "国际服联合作战「Decagrammaton Showdown Update」": [
+      "5625"
+    ],
     "国际服制约解除作战:赛特之怒 #14": [
       "5613"
     ],
@@ -98559,8 +98745,14 @@
     "违规账号封禁 #57": [
       "5619"
     ],
+    "国际服网页活动「Place Belonged」": [
+      "5620"
+    ],
     "国际服主线Vol.EX 第三章 Part4更新": [
       "5614"
+    ],
+    "国际服卡池「Locking on Sensei's heart... I'm really not used to this.」&「Practice ike it's real, treat it like it's a game...! I'll do my best...!」": [
+      "5626"
     ],
     "国际服例行维护#113": [
       "5616"
@@ -98762,9 +98954,6 @@
     ],
     "国际服网页活动「Into the Unnamed 」": [
       "5548"
-    ],
-    "国际服参展Anime Expo 2026": [
-      "5454"
     ],
     "国际服特别依赖3倍 #15": [
       "5513"
@@ -114863,14 +115052,35 @@
     "课程表2倍#44": [
       "5589"
     ],
+    "国际服参展animeexpo2026": [
+      "5454"
+    ],
     "屋内戦・グレゴリオ#4": [
       "5599"
     ],
     "特别依赖2倍#69&学院交流会2倍#45": [
       "5588"
     ],
+    "国际服总力战binah(field)#6": [
+      "5621"
+    ],
+    "国际服活动「gamedevelopmentdepartment'scleanupoperation!」": [
+      "5627"
+    ],
+    "国际服活动「valentine'sdaypromise」": [
+      "5628"
+    ],
+    "国际服指名手配2倍#46": [
+      "5623"
+    ],
+    "国际服最终章ost「echoesoflonging憧れの残響」mv公布": [
+      "5624"
+    ],
     "老师经验2倍集中通知26-06-27": [
       "5592"
+    ],
+    "国际服老师双倍经验#43": [
+      "5622"
     ],
     "特别委托3倍#13": [
       "5542"
@@ -114899,6 +115109,9 @@
     "例行维护#145": [
       "5618"
     ],
+    "国际服联合作战「decagrammatonshowdownupdate」": [
+      "5625"
+    ],
     "国际服制约解除作战:赛特之怒#14": [
       "5613"
     ],
@@ -114908,8 +115121,14 @@
     "违规账号封禁#57": [
       "5619"
     ],
+    "国际服网页活动「placebelonged」": [
+      "5620"
+    ],
     "国际服主线vol.ex第三章part4更新": [
       "5614"
+    ],
+    "国际服卡池「lockingonsensei'sheart...i'mreallynotusedtothis.」&「practiceikeit'sreal,treatitlikeit'sagame...!i'lldomybest...!」": [
+      "5626"
     ],
     "国际服例行维护#113": [
       "5616"
@@ -115112,9 +115331,6 @@
     ],
     "国际服网页活动「intotheunnamed」": [
       "5548"
-    ],
-    "国际服参展animeexpo2026": [
-      "5454"
     ],
     "国际服特别依赖3倍#15": [
       "5513"

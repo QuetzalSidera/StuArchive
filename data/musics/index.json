@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-06-28T19:18:07Z",
+  "generated_at": "2026-06-29T19:55:58Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 93,
   "synced_pages": 93,
-  "total_items": 926,
-  "details_synced": 926,
+  "total_items": 927,
+  "details_synced": 927,
   "details_enabled": true,
   "items": [
     {
@@ -4870,7 +4870,7 @@
     {
       "id": 556,
       "title": "GIVE ME CHOCO♡（OST）",
-      "cover": "",
+      "cover": "https://static.kivo.wiki/images/music/cover/qnTpQ7FH6NOX9RWACbjDMoaHRWn5K45I.png",
       "author": "Aice room",
       "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
       "use": "专辑 - OST原声大碟",
@@ -7587,18 +7587,18 @@
     },
     {
       "id": 861,
-      "title": "Theme_314_Short",
+      "title": "The Beast is UNLEASHED! Part 1",
       "cover": "https://static.kivo.wiki/images/music/cover/NlE3W82Z18SgbjjQstcxjNkDhSfnk97k.jpg",
-      "author": "",
+      "author": "KARUT / JuNN",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_314_Short"
     },
     {
       "id": 862,
-      "title": "Theme_314_Short2",
+      "title": "The Beast is UNLEASHED! Part 2",
       "cover": "https://static.kivo.wiki/images/music/cover/FawNPNxbHZ1M04lHBT18ffnc8BF11epd.jpg",
-      "author": "",
+      "author": "KARUT / JuNN",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_314_Short2"
@@ -7677,9 +7677,9 @@
     },
     {
       "id": 871,
-      "title": "Theme_311",
+      "title": "Deus ex Decagrammaton",
       "cover": "https://static.kivo.wiki/images/music/cover/6DloDaSucuielISmuA4ouUai6q0W2tba.jpg",
-      "author": "",
+      "author": "KARUT",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_311"
@@ -8001,9 +8001,9 @@
     },
     {
       "id": 907,
-      "title": "Theme_319",
+      "title": "Redacted Rhapsody No.1",
       "cover": "https://static.kivo.wiki/images/music/cover/0GIr73HQ59YDrjcGt8m7rIKEzn94VpDI.jpg",
-      "author": "",
+      "author": "KARUT",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_319"
@@ -8055,9 +8055,9 @@
     },
     {
       "id": 913,
-      "title": "Theme_337",
+      "title": "Step by Step (Night Arrange)",
       "cover": "https://static.kivo.wiki/images/music/cover/STbjNZ48NiUKgKXvrSoUBvPXyl6Fv7sh.png",
-      "author": "",
+      "author": "KARUT",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_337"
@@ -8066,7 +8066,7 @@
       "id": 914,
       "title": "Theme_338",
       "cover": "",
-      "author": "",
+      "author": "KARUT",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_338"
@@ -8201,9 +8201,9 @@
       "id": 929,
       "title": "Theme_269_Title",
       "cover": "",
-      "author": "",
+      "author": "EmoCosine",
       "album": "游戏内曲目",
-      "use": "",
+      "use": "其他 - 7thPV",
       "original_file_name": "Theme_269_Title"
     },
     {
@@ -8345,10 +8345,19 @@
       "id": 945,
       "title": "Theme_347",
       "cover": "",
-      "author": "",
+      "author": "KARUT",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_347"
+    },
+    {
+      "id": 946,
+      "title": "Echoes of Longing / 동경의 잔향",
+      "cover": "https://static.kivo.wiki/images/music/cover/eBbfmILSUjRLht4nxc2PCzmvVYojyBOO.jpg",
+      "author": "DAZBEE / Mitsukiyo / 夕野ヨシミ(IOSYS)",
+      "album": "",
+      "use": "专辑曲目",
+      "original_file_name": ""
     }
   ],
   "pages": [
@@ -9001,7 +9010,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=93",
       "path": "musics/pages/93.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/93.json",
-      "item_count": 6
+      "item_count": 7
     }
   ],
   "details": [
@@ -14560,13 +14569,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/945",
       "path": "musics/945.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/945.json"
+    },
+    {
+      "id": 946,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/946",
+      "path": "musics/946.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/946.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1229,
-    "normalized_alias_count": 1229,
-    "total_items": 926
+    "alias_count": 1235,
+    "normalized_alias_count": 1235,
+    "total_items": 927
   }
 }

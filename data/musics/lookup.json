@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-06-28T19:18:07Z",
+  "generated_at": "2026-06-29T19:55:58Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 926,
-  "alias_count": 1229,
-  "normalized_alias_count": 1229,
+  "total_items": 927,
+  "alias_count": 1235,
+  "normalized_alias_count": 1235,
   "by_id": {
     "1": {
       "id": 1,
@@ -8644,7 +8644,7 @@
       "item": {
         "id": 556,
         "title": "GIVE ME CHOCO♡（OST）",
-        "cover": "",
+        "cover": "https://static.kivo.wiki/images/music/cover/qnTpQ7FH6NOX9RWACbjDMoaHRWn5K45I.png",
         "author": "Aice room",
         "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
         "use": "专辑 - OST原声大碟",
@@ -13475,9 +13475,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 861,
-        "title": "Theme_314_Short",
+        "title": "The Beast is UNLEASHED! Part 1",
         "cover": "https://static.kivo.wiki/images/music/cover/NlE3W82Z18SgbjjQstcxjNkDhSfnk97k.jpg",
-        "author": "",
+        "author": "KARUT / JuNN",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_314_Short"
@@ -13491,9 +13491,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 862,
-        "title": "Theme_314_Short2",
+        "title": "The Beast is UNLEASHED! Part 2",
         "cover": "https://static.kivo.wiki/images/music/cover/FawNPNxbHZ1M04lHBT18ffnc8BF11epd.jpg",
-        "author": "",
+        "author": "KARUT / JuNN",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_314_Short2"
@@ -13635,9 +13635,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 871,
-        "title": "Theme_311",
+        "title": "Deus ex Decagrammaton",
         "cover": "https://static.kivo.wiki/images/music/cover/6DloDaSucuielISmuA4ouUai6q0W2tba.jpg",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_311"
@@ -14211,9 +14211,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 907,
-        "title": "Theme_319",
+        "title": "Redacted Rhapsody No.1",
         "cover": "https://static.kivo.wiki/images/music/cover/0GIr73HQ59YDrjcGt8m7rIKEzn94VpDI.jpg",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_319"
@@ -14307,9 +14307,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 913,
-        "title": "Theme_337",
+        "title": "Step by Step (Night Arrange)",
         "cover": "https://static.kivo.wiki/images/music/cover/STbjNZ48NiUKgKXvrSoUBvPXyl6Fv7sh.png",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_337"
@@ -14325,7 +14325,7 @@
         "id": 914,
         "title": "Theme_338",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_338"
@@ -14565,9 +14565,9 @@
         "id": 929,
         "title": "Theme_269_Title",
         "cover": "",
-        "author": "",
+        "author": "EmoCosine",
         "album": "游戏内曲目",
-        "use": "",
+        "use": "其他 - 7thPV",
         "original_file_name": "Theme_269_Title"
       },
       "detail_path": "musics/929.json",
@@ -14821,13 +14821,29 @@
         "id": 945,
         "title": "Theme_347",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_347"
       },
       "detail_path": "musics/945.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/945.json"
+    },
+    "946": {
+      "id": 946,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 946,
+        "title": "Echoes of Longing / 동경의 잔향",
+        "cover": "https://static.kivo.wiki/images/music/cover/eBbfmILSUjRLht4nxc2PCzmvVYojyBOO.jpg",
+        "author": "DAZBEE / Mitsukiyo / 夕野ヨシミ(IOSYS)",
+        "album": "",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/946.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/946.json"
     }
   },
   "by_alias": {
@@ -18237,8 +18253,14 @@
     "Theme_312": [
       "860"
     ],
+    "The Beast is UNLEASHED! Part 1": [
+      "861"
+    ],
     "Theme_314_Short": [
       "861"
+    ],
+    "The Beast is UNLEASHED! Part 2": [
+      "862"
     ],
     "Theme_314_Short2": [
       "862"
@@ -18275,6 +18297,9 @@
     ],
     "Theme_309": [
       "870"
+    ],
+    "Deus ex Decagrammaton": [
+      "871"
     ],
     "Theme_311": [
       "871"
@@ -18390,6 +18415,9 @@
     "Dialogue Vol.23「恐怖体験! 密室から脱出せよ!」": [
       "906"
     ],
+    "Redacted Rhapsody No.1": [
+      "907"
+    ],
     "Theme_319": [
       "907"
     ],
@@ -18413,6 +18441,9 @@
     ],
     "Theme_324": [
       "912"
+    ],
+    "Step by Step (Night Arrange)": [
+      "913"
     ],
     "Theme_337": [
       "913"
@@ -18518,6 +18549,9 @@
     ],
     "Theme_347": [
       "945"
+    ],
+    "Echoes of Longing / 동경의 잔향": [
+      "946"
     ]
   },
   "by_normalized_alias": {
@@ -21927,8 +21961,14 @@
     "theme_312": [
       "860"
     ],
+    "thebeastisunleashed!part1": [
+      "861"
+    ],
     "theme_314_short": [
       "861"
+    ],
+    "thebeastisunleashed!part2": [
+      "862"
     ],
     "theme_314_short2": [
       "862"
@@ -21965,6 +22005,9 @@
     ],
     "theme_309": [
       "870"
+    ],
+    "deusexdecagrammaton": [
+      "871"
     ],
     "theme_311": [
       "871"
@@ -22080,6 +22123,9 @@
     "dialoguevol.23「恐怖体験!密室から脱出せよ!」": [
       "906"
     ],
+    "redactedrhapsodyno.1": [
+      "907"
+    ],
     "theme_319": [
       "907"
     ],
@@ -22103,6 +22149,9 @@
     ],
     "theme_324": [
       "912"
+    ],
+    "stepbystep(nightarrange)": [
+      "913"
     ],
     "theme_337": [
       "913"
@@ -22208,6 +22257,9 @@
     ],
     "theme_347": [
       "945"
+    ],
+    "echoesoflonging/동경의잔향": [
+      "946"
     ]
   }
 }
