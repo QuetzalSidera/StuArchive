@@ -2,26 +2,59 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 552,
+    "max_page": 553,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
-      "ContentImprovements": 403,
-      "Double": 895,
+      "ContentImprovements": 404,
+      "Double": 896,
       "Event": 496,
-      "Gacha": 790,
-      "Live": 82,
+      "Gacha": 793,
+      "Live": 85,
       "MainStory": 123,
       "Maintenance": 429,
-      "MiniBattle": 197,
-      "Other": 693,
+      "MiniBattle": 196,
+      "Other": 689,
       "OtherStory": 63,
-      "OutsideGames": 841,
+      "OutsideGames": 850,
       "Raid": 245,
       "Trivia": 29,
-      "WebEvent": 131
+      "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5631,
+        "line_type": "CN",
+        "title": "朱莉（打工）",
+        "image": "https://static.kivo.wiki/images/timeline/tKLJt6J3K7MFeeApA9t5pBHTWwfr3h7X.png",
+        "body_summary": "#蔚蓝档案#​ //////////档案启封////////// ■ 朱莉（打工） 朱莉作为咖啡厅的兼职服务员,穿上了工作服。 令人惊喜的是,她终于成功地做出了满意的餐品。虽然没过多久就又回到原点,但",
+        "type": "Other",
+        "url": "bilibili.com/opus/1218071625163866115",
+        "start_time": 1782446087,
+        "end_time": 1782446087
+      },
+      {
+        "id": 5542,
+        "line_type": "CN",
+        "title": "特别委托3倍 #13",
+        "image": "https://static.kivo.wiki/images/timeline/hvAlWwvW6N1kKCfu4FEmO7rOqj5LD87t.jpg",
+        "body_summary": "#蔚蓝档案#​ 【掉落量3倍活动】即将开启！请不要错过哦！ 一、【特别委托】道具掉落量3倍 ■ 活动时间 06月04日 04:00 ~ 06月11日 03:59 二、【任务（普通难度）】道具掉落量3倍",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/1209613975577165860",
+        "start_time": 1782387493,
+        "end_time": 1782992293
+      },
+      {
+        "id": 5629,
+        "line_type": "CN",
+        "title": "大决战：格里高利 • 室内战 #2",
+        "image": "https://static.kivo.wiki/images/timeline/AxhaXvH5H2G0FKlXBy4PzuLHC6OnRSXR.png",
+        "body_summary": "#蔚蓝档案#​ 在基沃托斯某处的废弃地下圣堂，观测到了因扭曲的神秘而显现的人造天使格里高利。 它是被称为“诸圣相通”的人造天使系列的完成形态，是在数秘会的实验中诞生的神秘怪物。 直到现在，那个怪物仍然",
+        "type": "BigRaid",
+        "url": "www.bilibili.com/opus/1217329454861254660?spm_id_from=333.1387.0.0",
+        "start_time": 1782367200,
+        "end_time": 1782935999
+      },
       {
         "id": 5598,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2068290034101539126",
         "start_time": 1782305574,
         "end_time": 1783515174
-      },
-      {
-        "id": 5618,
-        "line_type": "JP",
-        "title": "例行维护#145",
-        "image": "https://static.kivo.wiki/images/timeline/xQl7PDWIRNLv6EE0FNkSoCsrxj7d1kmY.jpg",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年6月24日(水) 11:00 〜 19:00前後 ▼詳細 ht",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2069299554793697655",
-        "start_time": 1782270000,
-        "end_time": 1782298800
-      },
-      {
-        "id": 5625,
-        "line_type": "Globle",
-        "title": "国际服联合作战「Allied Operation: Decagrammaton Showdown」",
-        "image": "https://static.kivo.wiki/images/timeline/sb8he0i3568MvGGSzzV2Ct1v8ew1K9lW.png",
-        "body_summary": "🔹 Event PeriodEvent Schedule: 6/23 (Tue) After Maintenance – 6/30 (Tue) 1:59 AM (UTC)Shop and Event ",
-        "type": "AlliedOperation",
-        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
-        "start_time": 1782266400,
-        "end_time": 1782784799
-      },
-      {
-        "id": 5613,
-        "line_type": "Globle",
-        "title": "国际服制约解除作战：赛特之怒 #14",
-        "image": "https://static.kivo.wiki/images/timeline/xt0V9bXhNohmbucyqo19OleLQ4wSeUMN.jpg",
-        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - The Fury of Set (Defense Type: Speci",
-        "type": "MiniBattle",
-        "url": "x.com/EN_BlueArchive/status/2067502578384912739",
-        "start_time": 1782266400,
-        "end_time": 1784573999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1782943579,
+  "time": 1783028004,
   "version": "1.0.0-beta.43"
 }

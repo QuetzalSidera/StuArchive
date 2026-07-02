@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-07-01T19:53:13Z",
+  "generated_at": "2026-07-02T19:22:48Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5517,
-  "alias_count": 5485,
-  "normalized_alias_count": 5478,
+  "total_items": 5530,
+  "alias_count": 5498,
+  "normalized_alias_count": 5491,
   "by_id": {
     "5601": {
       "id": 5601,
@@ -156,6 +156,60 @@
       },
       "detail_path": "timeline/5589.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5589.json"
+    },
+    "5674": {
+      "id": 5674,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5674,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Aris the hero, maid edition is here to be with you, Master!」&「This bell... It rings everyday, so it's not very special. But today, it may actually be the best thing ever.」",
+        "image": "https://static.kivo.wiki/images/timeline/P9yXfEkkAoLRFpMmWTTEaAuZZFgUUYx9.png",
+        "body_summary": "Student RecruitmentFind details on student probabilities via In-Game Lobby → Recruit → Rate Info (bo",
+        "type": "Gacha",
+        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
+        "start_time": 1783389600,
+        "end_time": 1783994399
+      },
+      "detail_path": "timeline/5674.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5674.json"
+    },
+    "5673": {
+      "id": 5673,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5673,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「You're here Master! I'm bored. Let's play games together!」&「Welcome, Master! I'll become the perfect maid.」",
+        "image": "https://static.kivo.wiki/images/timeline/cqhhhtwWpLqSFBSiKSdsh1dTMMt9mfJQ.png",
+        "body_summary": "Student RecruitmentFind details on student probabilities via In-Game Lobby → Recruit → Rate Info (bo",
+        "type": "Gacha",
+        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
+        "start_time": 1783389600,
+        "end_time": 1783994399
+      },
+      "detail_path": "timeline/5673.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5673.json"
+    },
+    "5671": {
+      "id": 5671,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5671,
+        "line_type": "Globle",
+        "title": "国际服返场招募 #1",
+        "image": "https://static.kivo.wiki/images/timeline/vlQQjdh0dWyoz7vG5ikA8wozZ3DZwTfp.png",
+        "body_summary": "🔹Encore Recruitment Period7/7 (Tue) 2:00 AM – 7/14 (Tue) 1:59 AM (UTC) 🔹Encore Recruitment InfoYou c",
+        "type": "Gacha",
+        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
+        "start_time": 1783389600,
+        "end_time": 1783994399
+      },
+      "detail_path": "timeline/5671.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5671.json"
     },
     "5454": {
       "id": 5454,
@@ -419,7 +473,7 @@
         "title": " 国际服指名手配2倍 #46",
         "image": "https://static.kivo.wiki/images/timeline/tUhVj58qstAk5ief0wIWx04pEhapyPSY.jpg",
         "body_summary": "[Double Drop Campaign Preview] Starting 6/29 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "MiniBattle",
+        "type": "Double",
         "url": "x.com/EN_BlueArchive/status/2070764069112397840",
         "start_time": 1782759600,
         "end_time": 1783364399
@@ -437,7 +491,7 @@
         "title": "国际服最终章OST「Echoes of Longing 憧れの残響」MV公布",
         "image": "https://static.kivo.wiki/images/timeline/cS5rQ1sQfVTtgKc6BqroalP4N4sJPAQp.jpg",
         "body_summary": "[Ex. Decagrammaton OST Echoes of Longing 憧れの残響 MV] Despite everything, still, hope will bloom and su",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/2071201949446541530",
         "start_time": 1782648000,
         "end_time": 1782648000
@@ -804,6 +858,42 @@
       },
       "detail_path": "timeline/5614.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5614.json"
+    },
+    "5678": {
+      "id": 5678,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5678,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Arona's Dice Game」",
+        "image": "https://static.kivo.wiki/images/timeline/sR6MDncI9TjnIvByfZ0Y2S9zJhVStydY.png",
+        "body_summary": "Arona's Dice Game Event! Event Period: 6/23 (Tue) After Maintenance – 7/6 (Mon) 6:59 PM (UTC) Please",
+        "type": "WebEvent",
+        "url": "/forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
+        "start_time": 1782190800,
+        "end_time": 1783364399
+      },
+      "detail_path": "timeline/5678.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5678.json"
+    },
+    "5672": {
+      "id": 5672,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5672,
+        "line_type": "Globle",
+        "title": "国际服主线剧情第一部EX篇韩语配音",
+        "image": "https://static.kivo.wiki/images/timeline/Hl6wc7tvb5VUDv22waZB9tgVQkO6beD2.jpg",
+        "body_summary": "Main Story KO Dub UpdateAfter the 6/23 (Tue) maintenance, Main Story Ex. Decagrammaton Chapter 1: Sn",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+        "start_time": 1782190800,
+        "end_time": 1782190800
+      },
+      "detail_path": "timeline/5672.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5672.json"
     },
     "5660": {
       "id": 5660,
@@ -1391,7 +1481,7 @@
         "title": "国际服活动特别MV「Protocol Supernova」公布",
         "image": "https://static.kivo.wiki/images/timeline/1npHSk5B2hvyZ9OiyIffVd5kdAySMC1D.jpg",
         "body_summary": "[Protocol Supernova MV Out Now] Sensei! Aris & Kei's song, 'Protocol Supernova' is now available! Ti",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/2066445612858634446",
         "start_time": 1781501874,
         "end_time": 1781501874
@@ -1615,6 +1705,24 @@
       "detail_path": "timeline/5576.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5576.json"
     },
+    "5679": {
+      "id": 5679,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5679,
+        "line_type": "Globle",
+        "title": "国际服星奈小编秘书换装回",
+        "image": "https://static.kivo.wiki/images/timeline/cV1lI1VzzAFEzSZAGPYGto4OVXgOUe3c.jpg",
+        "body_summary": "▎🆕星奈新衣裝！看直播解鎖更多 為了能與老師們並肩作戰打馬爾庫特 星奈這次也展現出更加沉穩的一面 現在進入直播間！看看我的新衣裝>//< 扌由 青輝石💎 活動期間：即日起~ 6/17 參加方式：觀看當",
+        "type": "Live",
+        "url": "www.facebook.com/TW.BlueArchive/posts/pfbid0w4nD5trtdYe6W8FoVWVjkvWyVREr8TKTHmrUhXzgkUmADFFgW4DAg8rN7aHfkHK5l",
+        "start_time": 1781103600,
+        "end_time": 1781103600
+      },
+      "detail_path": "timeline/5679.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5679.json"
+    },
     "5569": {
       "id": 5569,
       "source_path": "timeline/index.json",
@@ -1650,24 +1758,6 @@
       },
       "detail_path": "timeline/5567.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5567.json"
-    },
-    "5575": {
-      "id": 5575,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5575,
-        "line_type": "Globle",
-        "title": "国际服更新礼物",
-        "image": "https://static.kivo.wiki/images/timeline/4NN2pxalSSjF6YTt0XZHNRcWMO71yn9H.png",
-        "body_summary": "Sensei! A special survey is being held to celebrate the June update! Please share your valuable thou",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/2064607244210020384",
-        "start_time": 1781068105,
-        "end_time": 1782104905
-      },
-      "detail_path": "timeline/5575.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5575.json"
     },
     "5531": {
       "id": 5531,
@@ -1867,6 +1957,24 @@
       "detail_path": "timeline/5551.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5551.json"
     },
+    "5575": {
+      "id": 5575,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5575,
+        "line_type": "Globle",
+        "title": "国际服六月更新调查问卷礼物",
+        "image": "https://static.kivo.wiki/images/timeline/4NN2pxalSSjF6YTt0XZHNRcWMO71yn9H.png",
+        "body_summary": "Sensei! A special survey is being held to celebrate the June update! Please share your valuable thou",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2064607244210020384",
+        "start_time": 1780981200,
+        "end_time": 1782108000
+      },
+      "detail_path": "timeline/5575.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5575.json"
+    },
     "5547": {
       "id": 5547,
       "source_path": "timeline/index.json",
@@ -2046,6 +2154,24 @@
       },
       "detail_path": "timeline/5558.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5558.json"
+    },
+    "5670": {
+      "id": 5670,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5670,
+        "line_type": "Globle",
+        "title": "国际服4.5周年预更新礼物5",
+        "image": "https://static.kivo.wiki/images/timeline/qbNQU85ftkOmuVK3hMGLFQDhMjZyjNbW.jpg",
+        "body_summary": "Sensei, a final inspection is required before the drop operation begins! Check the daily \"Inspection",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2062357217886851247",
+        "start_time": 1780539600,
+        "end_time": 1780539600
+      },
+      "detail_path": "timeline/5670.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5670.json"
     },
     "5482": {
       "id": 5482,
@@ -2731,6 +2857,60 @@
       "detail_path": "timeline/5461.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5461.json"
     },
+    "5667": {
+      "id": 5667,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5667,
+        "line_type": "Globle",
+        "title": "国际服4.5周年预更新礼物4",
+        "image": "https://static.kivo.wiki/images/timeline/6SMU3L2fta51pOhj6P1Q8pjBDM9Hdvwk.jpg",
+        "body_summary": "Sensei, here's a look at the gifts from the 4.5th Anniversary pre-registration event! ✨ Log in to th",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2059197861456416826",
+        "start_time": 1779786000,
+        "end_time": 1779786000
+      },
+      "detail_path": "timeline/5667.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5667.json"
+    },
+    "5669": {
+      "id": 5669,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5669,
+        "line_type": "Globle",
+        "title": "国际服直播掉宝活动第3季",
+        "image": "https://static.kivo.wiki/images/timeline/Cow2pKDQhOJyn21rSMOGFNc5VGHxlWXU.jpg",
+        "body_summary": "Sensei, the Drops Campaign is back for Season 3 🎉 This season comes with even more generous rewards ",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2059228278570078648",
+        "start_time": 1779784800,
+        "end_time": 1782179999
+      },
+      "detail_path": "timeline/5669.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5669.json"
+    },
+    "5668": {
+      "id": 5668,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5668,
+        "line_type": "Globle",
+        "title": "国际服4.5周年特别登录奖励",
+        "image": "https://static.kivo.wiki/images/timeline/wwjNUTZsQJNnGGONqqFaebHGWK3O1UwU.jpg",
+        "body_summary": "[4.5th Anniversary Login Event] Sensei! A special login event is here to celebrate Blue Archive's 4.",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2059201625429021011",
+        "start_time": 1779784800,
+        "end_time": 1781747999
+      },
+      "detail_path": "timeline/5668.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5668.json"
+    },
     "5666": {
       "id": 5666,
       "source_path": "timeline/index.json",
@@ -3162,6 +3342,24 @@
       },
       "detail_path": "timeline/5474.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5474.json"
+    },
+    "5676": {
+      "id": 5676,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5676,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编 & Remilia Nephys 联动回 #35",
+        "image": "https://static.kivo.wiki/images/timeline/BndY8jzyACBurE17CrsiAnoeqIhWTdQT.jpg",
+        "body_summary": "A mysterious guest is joining CM Arcie’s next Blue Archive Live Stream. Could this be a dream come t",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2056902727175979126",
+        "start_time": 1779238800,
+        "end_time": 1779238800
+      },
+      "detail_path": "timeline/5676.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5676.json"
     },
     "5330": {
       "id": 5330,
@@ -4980,6 +5178,24 @@
       },
       "detail_path": "timeline/5326.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5326.json"
+    },
+    "5675": {
+      "id": 5675,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5675,
+        "line_type": "Globle",
+        "title": "国际服歌单「Innovative Red Winter Remixed OST Album」",
+        "image": "",
+        "body_summary": "Festival music is echoing throughout Red Winter! Come listen to this “Innovative” Remix! Special Tha",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2046182086042951821",
+        "start_time": 1776682800,
+        "end_time": 1776682800
+      },
+      "detail_path": "timeline/5675.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5675.json"
     },
     "5655": {
       "id": 5655,
@@ -6989,7 +7205,7 @@
         "title": "国际服活动特别MV「Starlight Connect」公布",
         "image": "https://static.kivo.wiki/images/timeline/9Wr3QRgKtVkfFZJNueNRM4iA4tM8wz7V.jpg",
         "body_summary": "Finally~! The music video for Suzumi and Reisa's song, 'Starlight Connect', is now out! Go check it ",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/2036050338948780297",
         "start_time": 1774267200,
         "end_time": 1774267200
@@ -7349,7 +7565,7 @@
         "title": "国际服歌曲「Someday Cartainly」MV公布",
         "image": "https://static.kivo.wiki/images/timeline/rvXHev3qsethAB8y2INjfu2ei65QoUV3.jpg",
         "body_summary": "Sensei! The Korean version of the “Someday Certainly” MV is out now! Could you take a listen to Suzu",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/2032662147449442455",
         "start_time": 1773459360,
         "end_time": 1773460800
@@ -8094,6 +8310,24 @@
       },
       "detail_path": "timeline/5177.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5177.json"
+    },
+    "5677": {
+      "id": 5677,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5677,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编 & Mint Fantôme 联动回 #33",
+        "image": "https://static.kivo.wiki/images/timeline/etwnfJVH7TfLgDe7UHwNBOfNPCr4ZSHf.jpg",
+        "body_summary": "Sensei, CM Arcie’s next live stream is coming sometime next week... Wait, who’s that next to Arcie i",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2028274089685889437",
+        "start_time": 1772413200,
+        "end_time": 1772413200
+      },
+      "detail_path": "timeline/5677.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5677.json"
     },
     "5167": {
       "id": 5167,
@@ -13178,10 +13412,10 @@
       "item": {
         "id": 4872,
         "line_type": "Globle",
-        "title": "国际服未花第二支MV公布",
+        "title": "国际服未花第二支MV「Aria to the Star」公布",
         "image": "https://static.kivo.wiki/images/timeline/VHGf7GvScMe0Y63ENYLH3oVrr4nRQc5e.jpg",
         "body_summary": "Sensei! Mika’s second music video, “Incandescent Blue and the Comet” is now available! Come check it",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/2006319423809032307",
         "start_time": 1767156720,
         "end_time": 1767156720
@@ -13196,10 +13430,10 @@
       "item": {
         "id": 4871,
         "line_type": "Globle",
-        "title": "国际服未花第一支MV公布",
+        "title": "国际服未花第一支MV「Aria to the Star」公布",
         "image": "https://static.kivo.wiki/images/timeline/gB6BfjnQMHOxGckwTCOaxW042mfnkS9E.jpg",
         "body_summary": "Sensei! Mika’s first music video, “Prismatic Diary,\" is now available! Come check it out now! ➡️ Wat",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/2006304327351013399",
         "start_time": 1767156630,
         "end_time": 1767156630
@@ -13217,7 +13451,7 @@
         "title": "年末特别礼物",
         "image": "https://static.kivo.wiki/images/timeline/F7MkXGC6T8HuxnuHt4YmtvU74U6TDpxQ.jpg",
         "body_summary": "Sensei, thank you so much for being with Blue Archive throughout 2025! We’ve prepared a special gift",
-        "type": "OutsideGames",
+        "type": "Other",
         "url": "x.com/EN_BlueArchive/status/2006168432891306234",
         "start_time": 1767155317,
         "end_time": 1767241717
@@ -15503,7 +15737,7 @@
         "title": "国际服桔梗特别MV公布",
         "image": "https://static.kivo.wiki/images/timeline/ShxfizcovaEiz6hioOAG8yuMTvD9kLUR.jpg",
         "body_summary": "[Kikyou Special MV – “Warmth” Release!] Sensei! Kikyou’s gentle and sweet new track “Warmth” has bee",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "x.com/EN_BlueArchive/status/1995115603246354518",
         "start_time": 1764507600,
         "end_time": 1764507600
@@ -16598,7 +16832,7 @@
       "item": {
         "id": 4674,
         "line_type": "Globle",
-        "title": "国际服4周年特别登陆奖励",
+        "title": "国际服4周年特别登录奖励",
         "image": "https://static.kivo.wiki/images/timeline/coausy6DcyRrRdfUcmTKBq2sNISObERL.jpg",
         "body_summary": "[4th ANNIVERSARY Login Bonus!] Celebrate Blue Archive’s 4th ANNIVERSARY with a special login bonus! ",
         "type": "Event",
@@ -17066,7 +17300,7 @@
       "item": {
         "id": 4650,
         "line_type": "Globle",
-        "title": "国际服4周年倒数登陆奖励",
+        "title": "国际服4周年倒数登录奖励",
         "image": "https://static.kivo.wiki/images/timeline/tqXfewCjkSXip7tQb9ejCNJaL9Q0AWna.png",
         "body_summary": "Attention! Schale has a special announcement! Blue Archive's 4-Year Anniversary! Earn Pyroxenes ever",
         "type": "Other",
@@ -19283,7 +19517,7 @@
         "title": "国际服歌曲「Sparkle Express」MV公布",
         "image": "https://static.kivo.wiki/images/timeline/408WPF5I3KsqnMdYiS1vI3OSvUzLBMbY.jpg",
         "body_summary": "['Sparkle Express' Music Video Released!] Sensei, the special Highlander OST, \"Sparkle Express,\" is ",
-        "type": "Other",
+        "type": "OutsideGames",
         "url": "m.youtube.com/watch?v=sOwnhE0Easg",
         "start_time": 1758949800,
         "end_time": 1758949800
@@ -25454,7 +25688,7 @@
       "item": {
         "id": 4134,
         "line_type": "Globle",
-        "title": "蔚蓝档案正式加入 AX2025 专题讨论会！",
+        "title": " 国际服参展Anime Expo 2025",
         "image": "https://static.kivo.wiki/images/timeline/tfi8tSApX2JWr8XSgG0enNsw2LsZfeLx.jpg",
         "body_summary": "📢 Blue Archive Q&A Event – Leading Up to AX2025! We’re thrilled to announce a special Q&A event ahea",
         "type": "OutsideGames",
@@ -35696,7 +35930,7 @@
       "item": {
         "id": 3597,
         "line_type": "Globle",
-        "title": "国际服3.5周年特别登陆奖励",
+        "title": "国际服3.5周年特别登录奖励",
         "image": "https://static.kivo.wiki/images/timeline/00dHGGsjixqsrrVc0bYDW8VmCr0wKD5o.jpg",
         "body_summary": "[3.5th Anniversary Special Login Event] A special log-in bonus event is here to celebrate the 3.5th ",
         "type": "Event",
@@ -87482,10 +87716,10 @@
       "item": {
         "id": 1139,
         "line_type": "Globle",
-        "title": "国际服「Hot Springs Resort No. 227 Daily Logs Celebration Gift」登录奖励",
+        "title": "国际服「Hot Springs Resort No. 227 Daily Logs Celebration Gift」活动更新礼物",
         "image": "https://static.kivo.wiki/images/timeline/gG8M38mSJcgisCuWyt3Kdams8ZygZIbe.jpg",
         "body_summary": "[Hot Springs Resort No. 227 Daily Logs Celebration Gift] Sensei, Schale prepared a celebration gift ",
-        "type": "Event",
+        "type": "Other",
         "url": "twitter.com/EN_BlueArchive/status/1546736110444990465",
         "start_time": 1657605658,
         "end_time": 1658242740
@@ -99345,6 +99579,15 @@
     "课程表2倍#44": [
       "5589"
     ],
+    "国际服卡池复刻「Aris the hero, maid edition is here to be with you, Master!」&「This bell... It rings everyday, so it's not very special. But today, it may actually be the best thing ever.」": [
+      "5674"
+    ],
+    "国际服卡池复刻「You're here Master! I'm bored. Let's play games together!」&「Welcome, Master! I'll become the perfect maid.」": [
+      "5673"
+    ],
+    "国际服返场招募 #1": [
+      "5671"
+    ],
     "国际服参展Anime Expo 2026": [
       "5454"
     ],
@@ -99452,6 +99695,12 @@
     ],
     "国际服主线Vol.EX 第三章 Part4更新": [
       "5614"
+    ],
+    "国际服网页活动「Arona's Dice Game」": [
+      "5678"
+    ],
+    "国际服主线剧情第一部EX篇韩语配音": [
+      "5672"
     ],
     "国际服卡池「Locking on Sensei's heart... I'm really not used to this.」": [
       "5660"
@@ -99588,14 +99837,14 @@
     "国际服LINE Stickers表情包第三弹上线": [
       "5576"
     ],
+    "国际服星奈小编秘书换装回": [
+      "5679"
+    ],
     "联合火力演习#52": [
       "5569"
     ],
     "卡池「夏恋し 百の思い出 花きらり」、卡池「あお海の 百すじの波 みだれ花!」&「夏おもひ 繚れおもい 乱るるは」复刻": [
       "5567"
-    ],
-    "国际服更新礼物": [
-      "5575"
     ],
     "活动「百ヨリ出ズル一輪ノ~いざ尋常に、水上勝負~」复刻": [
       "5531"
@@ -99630,6 +99879,9 @@
     "国际服卡池「I am here」": [
       "5551"
     ],
+    "国际服六月更新调查问卷礼物": [
+      "5575"
+    ],
     "国际服联合火力演习#48": [
       "5547"
     ],
@@ -99659,6 +99911,9 @@
     ],
     "话题趣闻 - 睡衣小望": [
       "5558"
+    ],
+    "国际服4.5周年预更新礼物5": [
+      "5670"
     ],
     "市街地戦・ドラム缶ガニ #1": [
       "5482"
@@ -99775,6 +100030,15 @@
     "国际服卡池「A logical solution within the realm of electrons... Allow me to demonstrate.」": [
       "5461"
     ],
+    "国际服4.5周年预更新礼物4": [
+      "5667"
+    ],
+    "国际服直播掉宝活动第3季": [
+      "5669"
+    ],
+    "国际服4.5周年特别登录奖励": [
+      "5668"
+    ],
     "国际服新家具套装「运输船套装」&礼物赠送优化、咖啡厅访客系统优化等功能更新": [
       "5666"
     ],
@@ -99846,6 +100110,9 @@
     ],
     "例行维护#141": [
       "5474"
+    ],
+    "国际服Arcie小编 & Remilia Nephys 联动回 #35": [
+      "5676"
     ],
     "任务Hard2倍#54": [
       "5330"
@@ -100149,6 +100416,9 @@
     ],
     "课程表2倍#43 & 学院交流会2倍#43": [
       "5326"
+    ],
+    "国际服歌单「Innovative Red Winter Remixed OST Album」": [
+      "5675"
     ],
     "国际服红冬庆典礼物": [
       "5655"
@@ -100668,6 +100938,9 @@
     ],
     "萌绘(泳装)": [
       "5177"
+    ],
+    "国际服Arcie小编 & Mint Fantôme 联动回 #33": [
+      "5677"
     ],
     "学生生日日历-2026年3月": [
       "5167"
@@ -101516,10 +101789,10 @@
     "国际服未花角色曲「Prismatic Diary」发布": [
       "4912"
     ],
-    "国际服未花第二支MV公布": [
+    "国际服未花第二支MV「Aria to the Star」公布": [
       "4872"
     ],
-    "国际服未花第一支MV公布": [
+    "国际服未花第一支MV「Aria to the Star」公布": [
       "4871"
     ],
     "年末特别礼物": [
@@ -102087,7 +102360,7 @@
     "国际服4周年礼物": [
       "4675"
     ],
-    "国际服4周年特别登陆奖励": [
+    "国际服4周年特别登录奖励": [
       "4674"
     ],
     "国际服新专辑「Kokoro Gradation」MV公开特别礼物": [
@@ -102165,7 +102438,7 @@
     "国际服任务Hard2倍 #40": [
       "4649"
     ],
-    "国际服4周年倒数登陆奖励": [
+    "国际服4周年倒数登录奖励": [
       "4650"
     ],
     "桃(女仆)": [
@@ -103558,7 +103831,7 @@
     "桐生桔梗": [
       "4174"
     ],
-    "蔚蓝档案正式加入 AX2025 专题讨论会!": [
+    "国际服参展Anime Expo 2025": [
       "4134"
     ],
     "例行维护 #40": [
@@ -105266,7 +105539,7 @@
     "国际服数位周边「Sheside outside」": [
       "3674"
     ],
-    "国际服3.5周年特别登陆奖励": [
+    "国际服3.5周年特别登录奖励": [
       "3597"
     ],
     "例行维护 #31": [
@@ -113906,7 +114179,7 @@
     "国际服总力战 Perorodzilla (Indoor) 2": [
       "1134"
     ],
-    "国际服「Hot Springs Resort No. 227 Daily Logs Celebration Gift」登录奖励": [
+    "国际服「Hot Springs Resort No. 227 Daily Logs Celebration Gift」活动更新礼物": [
       "1139"
     ],
     "国际服「Hot Springs Resort No. 227 Daily Logs」活动PV公开": [
@@ -115834,6 +116107,15 @@
     "课程表2倍#44": [
       "5589"
     ],
+    "国际服卡池复刻「aristhehero,maideditionisheretobewithyou,master!」&「thisbell...itringseveryday,soit'snotveryspecial.buttoday,itmayactuallybethebestthingever.」": [
+      "5674"
+    ],
+    "国际服卡池复刻「you'reheremaster!i'mbored.let'splaygamestogether!」&「welcome,master!i'llbecometheperfectmaid.」": [
+      "5673"
+    ],
+    "国际服返场招募#1": [
+      "5671"
+    ],
     "国际服参展animeexpo2026": [
       "5454"
     ],
@@ -115941,6 +116223,12 @@
     ],
     "国际服主线vol.ex第三章part4更新": [
       "5614"
+    ],
+    "国际服网页活动「arona'sdicegame」": [
+      "5678"
+    ],
+    "国际服主线剧情第一部ex篇韩语配音": [
+      "5672"
     ],
     "国际服卡池「lockingonsensei'sheart...i'mreallynotusedtothis.」": [
       "5660"
@@ -116077,14 +116365,14 @@
     "国际服linestickers表情包第三弹上线": [
       "5576"
     ],
+    "国际服星奈小编秘书换装回": [
+      "5679"
+    ],
     "联合火力演习#52": [
       "5569"
     ],
     "卡池「夏恋し百の思い出花きらり」、卡池「あお海の百すじの波みだれ花!」&「夏おもひ繚れおもい乱るるは」复刻": [
       "5567"
-    ],
-    "国际服更新礼物": [
-      "5575"
     ],
     "活动「百ヨリ出ズル一輪ノ~いざ尋常に、水上勝負~」复刻": [
       "5531"
@@ -116119,6 +116407,9 @@
     "国际服卡池「iamhere」": [
       "5551"
     ],
+    "国际服六月更新调查问卷礼物": [
+      "5575"
+    ],
     "国际服联合火力演习#48": [
       "5547"
     ],
@@ -116148,6 +116439,9 @@
     ],
     "话题趣闻-睡衣小望": [
       "5558"
+    ],
+    "国际服4.5周年预更新礼物5": [
+      "5670"
     ],
     "市街地戦・ドラム缶ガニ#1": [
       "5482"
@@ -116264,6 +116558,15 @@
     "国际服卡池「alogicalsolutionwithintherealmofelectrons...allowmetodemonstrate.」": [
       "5461"
     ],
+    "国际服4.5周年预更新礼物4": [
+      "5667"
+    ],
+    "国际服直播掉宝活动第3季": [
+      "5669"
+    ],
+    "国际服4.5周年特别登录奖励": [
+      "5668"
+    ],
     "国际服新家具套装「运输船套装」&礼物赠送优化、咖啡厅访客系统优化等功能更新": [
       "5666"
     ],
@@ -116335,6 +116638,9 @@
     ],
     "例行维护#141": [
       "5474"
+    ],
+    "国际服arcie小编&remilianephys联动回#35": [
+      "5676"
     ],
     "任务hard2倍#54": [
       "5330"
@@ -116638,6 +116944,9 @@
     ],
     "课程表2倍#43&学院交流会2倍#43": [
       "5326"
+    ],
+    "国际服歌单「innovativeredwinterremixedostalbum」": [
+      "5675"
     ],
     "国际服红冬庆典礼物": [
       "5655"
@@ -117157,6 +117466,9 @@
     ],
     "萌绘(泳装)": [
       "5177"
+    ],
+    "国际服arcie小编&mintfantôme联动回#33": [
+      "5677"
     ],
     "学生生日日历-2026年3月": [
       "5167"
@@ -118006,10 +118318,10 @@
     "国际服未花角色曲「prismaticdiary」发布": [
       "4912"
     ],
-    "国际服未花第二支mv公布": [
+    "国际服未花第二支mv「ariatothestar」公布": [
       "4872"
     ],
-    "国际服未花第一支mv公布": [
+    "国际服未花第一支mv「ariatothestar」公布": [
       "4871"
     ],
     "年末特别礼物": [
@@ -118577,7 +118889,7 @@
     "国际服4周年礼物": [
       "4675"
     ],
-    "国际服4周年特别登陆奖励": [
+    "国际服4周年特别登录奖励": [
       "4674"
     ],
     "国际服新专辑「kokorogradation」mv公开特别礼物": [
@@ -118655,7 +118967,7 @@
     "国际服任务hard2倍#40": [
       "4649"
     ],
-    "国际服4周年倒数登陆奖励": [
+    "国际服4周年倒数登录奖励": [
       "4650"
     ],
     "桃(女仆)": [
@@ -120047,7 +120359,7 @@
     "桐生桔梗": [
       "4174"
     ],
-    "蔚蓝档案正式加入ax2025专题讨论会!": [
+    "国际服参展animeexpo2025": [
       "4134"
     ],
     "例行维护#40": [
@@ -121756,7 +122068,7 @@
     "国际服数位周边「shesideoutside」": [
       "3674"
     ],
-    "国际服3.5周年特别登陆奖励": [
+    "国际服3.5周年特别登录奖励": [
       "3597"
     ],
     "例行维护#31": [
@@ -130381,7 +130693,7 @@
     "国际服总力战perorodzilla(indoor)2": [
       "1134"
     ],
-    "国际服「hotspringsresortno.227dailylogscelebrationgift」登录奖励": [
+    "国际服「hotspringsresortno.227dailylogscelebrationgift」活动更新礼物": [
       "1139"
     ],
     "国际服「hotspringsresortno.227dailylogs」活动pv公开": [
