@@ -7,13 +7,13 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-07-03T19:20:14Z",
+  "generated_at": "2026-07-04T19:10:35Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 8,
   "synced_pages": 8,
-  "total_items": 80,
-  "details_synced": 80,
+  "total_items": 79,
+  "details_synced": 79,
   "details_enabled": true,
   "items": [
     {
@@ -33,12 +33,6 @@
       "title": "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日",
       "image": "https://static.kivo.wiki/images/news/LmFobPl7I9fmUOZokcU2k5GxMKwaYbEo.jpg",
       "url": "x.com/Blue_ArchiveJP/status/2058124977048846844"
-    },
-    {
-      "id": 136,
-      "title": "[广告] 6月27日-武汉蔚蓝档案only 楚韵龙华",
-      "image": "https://static.kivo.wiki/images/news/iuZMaIJKVKppvGZejn5FYDiruE7Rd89q.jpg",
-      "url": ""
     },
     {
       "id": 135,
@@ -552,7 +546,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=8",
       "path": "news/pages/8.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/8.json",
-      "item_count": 10
+      "item_count": 9
     }
   ],
   "details": [
@@ -573,12 +567,6 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/138",
       "path": "news/138.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/138.json"
-    },
-    {
-      "id": 136,
-      "upstream_url": "https://api.kivo.wiki/api/v1/news/136",
-      "path": "news/136.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/136.json"
     },
     {
       "id": 135,
@@ -1040,8 +1028,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 80,
-    "normalized_alias_count": 80,
-    "total_items": 80
+    "alias_count": 79,
+    "normalized_alias_count": 79,
+    "total_items": 79
   }
 }

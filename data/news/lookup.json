@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-07-03T19:20:14Z",
+  "generated_at": "2026-07-04T19:10:35Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 80,
-  "alias_count": 80,
-  "normalized_alias_count": 80,
+  "total_items": 79,
+  "alias_count": 79,
+  "normalized_alias_count": 79,
   "by_id": {
     "141": {
       "id": 141,
@@ -51,19 +51,6 @@
       },
       "detail_path": "news/138.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/138.json"
-    },
-    "136": {
-      "id": 136,
-      "source_path": "news/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
-      "item": {
-        "id": 136,
-        "title": "[广告] 6月27日-武汉蔚蓝档案only 楚韵龙华",
-        "image": "https://static.kivo.wiki/images/news/iuZMaIJKVKppvGZejn5FYDiruE7Rd89q.jpg",
-        "url": ""
-      },
-      "detail_path": "news/136.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/136.json"
     },
     "135": {
       "id": 135,
@@ -1064,9 +1051,6 @@
     "主线剧情第2部Ex. 「ロア追跡」篇第2章公开 - 5月27日": [
       "138"
     ],
-    "[广告] 6月27日-武汉蔚蓝档案only 楚韵龙华": [
-      "136"
-    ],
     "EX剧情「ロア追跡」篇公开 - 4月21日": [
       "135"
     ],
@@ -1305,9 +1289,6 @@
     ],
     "主线剧情第2部ex.「ロア追跡」篇第2章公开-5月27日": [
       "138"
-    ],
-    "[广告]6月27日-武汉蔚蓝档案only楚韵龙华": [
-      "136"
     ],
     "ex剧情「ロア追跡」篇公开-4月21日": [
       "135"
