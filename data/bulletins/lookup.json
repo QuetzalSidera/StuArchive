@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "bulletins",
   "description": "Kivo bulletin posts.",
-  "generated_at": "2026-07-04T19:10:35Z",
+  "generated_at": "2026-07-05T19:16:20Z",
   "id_key": "id",
   "source_index": {
     "path": "bulletins/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/bulletins/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 38,
-  "alias_count": 38,
-  "normalized_alias_count": 38,
+  "total_items": 39,
+  "alias_count": 39,
+  "normalized_alias_count": 39,
   "by_id": {
+    "39": {
+      "id": 39,
+      "source_path": "bulletins/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/bulletins/index.json",
+      "item": {
+        "id": 39,
+        "title": "26年7月站内动态",
+        "created_at": 1783237011,
+        "updated_at": 1783237975
+      },
+      "detail_path": "bulletins/39.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/bulletins/39.json"
+    },
     "38": {
       "id": 38,
       "source_path": "bulletins/index.json",
@@ -509,6 +522,9 @@
     }
   },
   "by_alias": {
+    "26年7月站内动态": [
+      "39"
+    ],
     "26年4月站内动态": [
       "38"
     ],
@@ -625,6 +641,9 @@
     ]
   },
   "by_normalized_alias": {
+    "26年7月站内动态": [
+      "39"
+    ],
     "26年4月站内动态": [
       "38"
     ],
