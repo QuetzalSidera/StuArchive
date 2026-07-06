@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-07-05T19:16:20Z",
+  "generated_at": "2026-07-06T19:54:34Z",
   "id": 266,
   "display_name": "贝雷帽小山雀",
   "names": {
@@ -102,7 +102,7 @@
     "voice_play_icon": "",
     "voice_pause_icon": "",
     "spine_ids": [
-      139
+      1759
     ],
     "model_ids": null
   },
@@ -168,7 +168,17 @@
     "furniture": []
   },
   "media": {
-    "gallery": [],
+    "gallery": [
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%20%E8%B4%9D%E9%9B%B7%E5%B8%BD%E5%B0%8F%E5%B1%B1%E9%9B%80/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0092_spr_00.png",
+          "https://static.kivo.wiki/images/students/%20%E8%B4%9D%E9%9B%B7%E5%B8%BD%E5%B0%8F%E5%B1%B1%E9%9B%80/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0092_spr_01.png",
+          "https://static.kivo.wiki/images/students/%20%E8%B4%9D%E9%9B%B7%E5%B8%BD%E5%B0%8F%E5%B1%B1%E9%9B%80/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0092_spr_Idle_01.png",
+          "https://static.kivo.wiki/images/students/%20%E8%B4%9D%E9%9B%B7%E5%B8%BD%E5%B0%8F%E5%B1%B1%E9%9B%80/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/NP0092_spr_02.png"
+        ]
+      }
+    ],
     "voice": [],
     "voice_cn": [],
     "voice_kr": []
@@ -176,8 +186,8 @@
   "source": {
     "detail_path": "students/266.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/266.json",
-    "upstream_time": 1783279581,
-    "updated_at": 1728543937,
+    "upstream_time": 1783368477,
+    "updated_at": 1783344215,
     "created_at": 1685836399
   }
 }

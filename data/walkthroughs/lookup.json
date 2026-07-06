@@ -2,17 +2,315 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-07-05T19:16:20Z",
+  "generated_at": "2026-07-06T19:54:34Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 93,
-  "alias_count": 93,
-  "normalized_alias_count": 93,
+  "total_items": 95,
+  "alias_count": 95,
+  "normalized_alias_count": 95,
   "by_id": {
+    "119": {
+      "id": 119,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 119,
+        "user": {
+          "id": 24858,
+          "user_name": "TurbKerxS",
+          "introduction": "她懒极了，不想写简介",
+          "avatar": "https://static.kivo.wiki/images/avatar/24858/nHF9MxEd62EQql9FheJVjDyohSOnuHrD.png"
+        },
+        "title": "强悍五人组",
+        "server": "Japan",
+        "game_mode": "Universal",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "仅对于任务与活动，五名呢，国服没有妮可",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 176,
+                "level": 5,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 2,
+                "skill_level": [
+                  5,
+                  1,
+                  1,
+                  1
+                ],
+                "equipment_level": [
+                  2,
+                  2,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 65,
+                "level": 5,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 3,
+                "skill_level": [
+                  5,
+                  1,
+                  1,
+                  1
+                ],
+                "equipment_level": [
+                  2,
+                  2,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 20,
+                "level": 5,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 5,
+                "skill_level": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "equipment_level": [
+                  3,
+                  3,
+                  3
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 127,
+                "level": 3,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 3,
+                "skill_level": [
+                  3,
+                  3,
+                  3,
+                  3
+                ],
+                "equipment_level": [
+                  3,
+                  3,
+                  3
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 23,
+                "level": 3,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 3,
+                "skill_level": [
+                  2,
+                  2,
+                  2,
+                  2
+                ],
+                "equipment_level": [
+                  2,
+                  2,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [],
+            "timeline": [
+              {
+                "timing": "",
+                "operate": "",
+                "remark": ""
+              }
+            ]
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1783315065,
+        "updated_at": 1783315125
+      },
+      "detail_path": "walkthroughs/119.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/119.json"
+    },
+    "118": {
+      "id": 118,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 118,
+        "user": {
+          "id": 24858,
+          "user_name": "TurbKerxS",
+          "introduction": "她懒极了，不想写简介",
+          "avatar": "https://static.kivo.wiki/images/avatar/24858/nHF9MxEd62EQql9FheJVjDyohSOnuHrD.png"
+        },
+        "title": "全员出动！",
+        "server": "Japan",
+        "game_mode": "Universal",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "对铁道爱好者专属",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 365,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 366,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 142,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 126,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 131,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1783314279,
+        "updated_at": 1783314279
+      },
+      "detail_path": "walkthroughs/118.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/118.json"
+    },
     "116": {
       "id": 116,
       "source_path": "walkthroughs/index.json",
@@ -26076,6 +26374,12 @@
     }
   },
   "by_alias": {
+    "强悍五人组": [
+      "119"
+    ],
+    "全员出动!": [
+      "118"
+    ],
     "S30突破测试 简单一档作业": [
       "116"
     ],
@@ -26357,6 +26661,12 @@
     ]
   },
   "by_normalized_alias": {
+    "强悍五人组": [
+      "119"
+    ],
+    "全员出动!": [
+      "118"
+    ],
     "s30突破测试简单一档作业": [
       "116"
     ],
