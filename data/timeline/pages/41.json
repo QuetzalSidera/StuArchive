@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 556,
+    "max_page": 557,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 902,
+      "Double": 916,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
       "MainStory": 123,
       "Maintenance": 430,
       "MiniBattle": 198,
-      "Other": 690,
+      "Other": 691,
       "OtherStory": 63,
-      "OutsideGames": 857,
+      "OutsideGames": 856,
       "Raid": 246,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5246,
+        "line_type": "Globle",
+        "title": "国际服任务Normal2倍 #46",
+        "image": "https://static.kivo.wiki/images/timeline/aYvNbXMbc2JX7TtUd2YQ5OJGRT7fcTDx.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2037786767072387100",
+        "start_time": 1774897200,
+        "end_time": 1775242740
+      },
       {
         "id": 5269,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/QxxODujbD",
         "start_time": 1774515848,
         "end_time": 1774515848
-      },
-      {
-        "id": 5218,
-        "line_type": "CN",
-        "title": "玄龙门社团剧情更新",
-        "image": "https://static.kivo.wiki/images/timeline/QKkVHKSNfWdjNlr4ByHSjGAVqJJgdrQ0.png",
-        "body_summary": "全新支线剧情将于03月26日维护结束后更新！ 这些故事记录了女生们诙谐幽默但又不失爆发力和深度的青春故事。 ■ 玄龙门 玄龙门与山海经的日常！在这里，半吊子是生存不下去的！ ■ 剧情开放： 《山海经稍",
-        "type": "OtherStory",
-        "url": "www.bilibili.com/opus/1182447448442798120?spm_id_from=333.1365.0.0",
-        "start_time": 1774515600,
-        "end_time": 1774515600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783375685,
+  "time": 1783461884,
   "version": "1.0.0-beta.43"
 }

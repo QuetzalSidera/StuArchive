@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 556,
+    "max_page": 557,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 902,
+      "Double": 916,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
       "MainStory": 123,
       "Maintenance": 430,
       "MiniBattle": 198,
-      "Other": 690,
+      "Other": 691,
       "OtherStory": 63,
-      "OutsideGames": 857,
+      "OutsideGames": 856,
       "Raid": 246,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5331,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 26-04-25",
+        "image": "https://static.kivo.wiki/images/timeline/ZuI7JKPsl3XpuuOIxAVS9jxDhCsatnvW.png",
+        "body_summary": "【新情報⑦】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブルア",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2045829808932970826",
+        "start_time": 1777057200,
+        "end_time": 1777229999
+      },
       {
         "id": 5380,
         "line_type": "CN",
@@ -58,7 +69,7 @@
       {
         "id": 5375,
         "line_type": "CN",
-        "title": "任务（普通难度）2倍 #24",
+        "title": "任务（普通难度）2倍 #25",
         "image": "https://static.kivo.wiki/images/timeline/z911dQQUa0GkgsBaWxcu3oRl9BxgKrG4.png",
         "body_summary": "#蔚蓝档案#​ 【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程、学院交流会】道具掉落量2倍 ■ 活动时间 04月16日 04:00 ~ 04月23日 03:59 二、【任务（普通难度",
         "type": "Double",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2046106847426527726",
         "start_time": 1776776991,
         "end_time": 1776776991
-      },
-      {
-        "id": 5320,
-        "line_type": "JP",
-        "title": "日服PC版追加付款功能",
-        "image": "https://static.kivo.wiki/images/timeline/4Zp1D2uPZ1Rv8RF52G7nBxssDmlUHozp.jpg",
-        "body_summary": "【新情報①】 まずはこちらの情報から！ PC版『ブルーアーカイブ』に決済機能が追加されます！ #ブルアカ #ブルアカらいぶふぃーばーSP",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/2045816313982107759/",
-        "start_time": 1776765601,
-        "end_time": 1776765601
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783375669,
+  "time": 1783461869,
   "version": "1.0.0-beta.43"
 }

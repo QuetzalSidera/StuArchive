@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-07-06T19:54:34Z",
+  "generated_at": "2026-07-07T19:53:32Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 79,
-  "alias_count": 79,
-  "normalized_alias_count": 79,
+  "total_items": 80,
+  "alias_count": 80,
+  "normalized_alias_count": 80,
   "by_id": {
+    "142": {
+      "id": 142,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 142,
+        "title": "[广告] 深圳蔚蓝档案同人only2 游心未泯 - 8月15日",
+        "image": "https://static.kivo.wiki/images/news/Zv7zIWo9IG0ngpA2ThvRbO2R3Z3j79gX.png",
+        "url": ""
+      },
+      "detail_path": "news/142.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/142.json"
+    },
     "141": {
       "id": 141,
       "source_path": "news/index.json",
@@ -1042,6 +1055,9 @@
     }
   },
   "by_alias": {
+    "[广告] 深圳蔚蓝档案同人only2 游心未泯 - 8月15日": [
+      "142"
+    ],
     "[广告] 福州蔚蓝档案ONLY3.0·霓波余晖-7月18日": [
       "141"
     ],
@@ -1281,6 +1297,9 @@
     ]
   },
   "by_normalized_alias": {
+    "[广告]深圳蔚蓝档案同人only2游心未泯-8月15日": [
+      "142"
+    ],
     "[广告]福州蔚蓝档案only3.0·霓波余晖-7月18日": [
       "141"
     ],

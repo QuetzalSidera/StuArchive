@@ -7,15 +7,21 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-07-06T19:54:34Z",
+  "generated_at": "2026-07-07T19:53:32Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 8,
   "synced_pages": 8,
-  "total_items": 79,
-  "details_synced": 79,
+  "total_items": 80,
+  "details_synced": 80,
   "details_enabled": true,
   "items": [
+    {
+      "id": 142,
+      "title": "[广告] 深圳蔚蓝档案同人only2 游心未泯 - 8月15日",
+      "image": "https://static.kivo.wiki/images/news/Zv7zIWo9IG0ngpA2ThvRbO2R3Z3j79gX.png",
+      "url": ""
+    },
     {
       "id": 141,
       "title": "[广告] 福州蔚蓝档案ONLY3.0·霓波余晖-7月18日",
@@ -546,10 +552,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=8",
       "path": "news/pages/8.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/8.json",
-      "item_count": 9
+      "item_count": 10
     }
   ],
   "details": [
+    {
+      "id": 142,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/142",
+      "path": "news/142.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/142.json"
+    },
     {
       "id": 141,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/141",
@@ -1028,8 +1040,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 79,
-    "normalized_alias_count": 79,
-    "total_items": 79
+    "alias_count": 80,
+    "normalized_alias_count": 80,
+    "total_items": 80
   }
 }

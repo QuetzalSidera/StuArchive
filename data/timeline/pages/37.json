@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 556,
+    "max_page": 557,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 902,
+      "Double": 916,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
       "MainStory": 123,
       "Maintenance": 430,
       "MiniBattle": 198,
-      "Other": 690,
+      "Other": 691,
       "OtherStory": 63,
-      "OutsideGames": 857,
+      "OutsideGames": 856,
       "Raid": 246,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5278,
+        "line_type": "JP",
+        "title": "大决战：屋外戦・ペロロジラ #3",
+        "image": "https://static.kivo.wiki/images/timeline/PZc6he3krYy61svXCszw62Sfes1t8xul.jpg",
+        "body_summary": "【大決戦・予告】 4月8日(水)11:00より、大決戦「屋外戦・ペロロジラ」を開催します！ 今回難易度「Torment」に挑戦できる防御タイプは「重装甲」＆「特殊装甲」です！ 普段の防御タイプとは違う",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2040626208069808234",
+        "start_time": 1775617200,
+        "end_time": 1776196799
+      },
       {
         "id": 5291,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2041421970349400178",
         "start_time": 1775541600,
         "end_time": 1775541600
-      },
-      {
-        "id": 5295,
-        "line_type": "Globle",
-        "title": "国际服活动 「Winter Sky's Renaissance: Thesis on Cultural Exchange」",
-        "image": "https://static.kivo.wiki/images/timeline/Io4I3FrlSSFMaUqeR8B2P8BQtT99RYHY.jpg",
-        "body_summary": "[Event Update Notice] The Event Story 'Winter Sky's Renaissance: Thesis on Cultural Exchange' is sta",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2041418197078077922",
-        "start_time": 1775541600,
-        "end_time": 1776711540
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783375681,
+  "time": 1783461879,
   "version": "1.0.0-beta.43"
 }

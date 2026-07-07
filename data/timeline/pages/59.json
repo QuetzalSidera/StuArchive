@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 556,
+    "max_page": 557,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 902,
+      "Double": 916,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
       "MainStory": 123,
       "Maintenance": 430,
       "MiniBattle": 198,
-      "Other": 690,
+      "Other": 691,
       "OtherStory": 63,
-      "OutsideGames": 857,
+      "OutsideGames": 856,
       "Raid": 246,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5061,
+        "line_type": "Globle",
+        "title": "国际服卡池「You came here for my story... Thank you, Sensei.」",
+        "image": "https://static.kivo.wiki/images/timeline/7sjrqGkp4CsT9w9z4VMBIaH2wqJkHVwS.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 2/10 (Tue)! 💌Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2019667378930610506",
+        "start_time": 1770707292,
+        "end_time": 1771916892
+      },
       {
         "id": 5060,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2019970349958590563",
         "start_time": 1770521431,
         "end_time": 1770521431
-      },
-      {
-        "id": 5058,
-        "line_type": "JP",
-        "title": "5周年纪念「記憶と記録の間に」MV公开",
-        "image": "https://static.kivo.wiki/images/timeline/rh5iQUdKQvm2uKpcoyEXDcq1INsGJnvZ.jpg",
-        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はノアさんが歌う「記憶と記録の間に」です！ ▼動画はこちら https://youtu.be/cSLciJc6j",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2020105270421057805",
-        "start_time": 1770512400,
-        "end_time": 1770512400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783375710,
+  "time": 1783461906,
   "version": "1.0.0-beta.43"
 }

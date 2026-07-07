@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "StuArchive",
   "description": "A static JSON mirror of public Blue Archive data exposed by Kivo Wiki.",
-  "generated_at": "2026-07-06T19:54:34Z",
+  "generated_at": "2026-07-07T19:53:32Z",
   "generator": "scripts/sync.py",
   "source": {
     "site": "https://kivo.wiki/",
@@ -26,7 +26,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/",
       "path": "meta/api-root.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/api-root.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "statistics",
@@ -35,7 +35,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/statistics/index",
       "path": "meta/statistics.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/statistics.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-event",
@@ -44,7 +44,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/event.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/event.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-event-jp",
@@ -53,7 +53,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/events/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/jp.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-event-cn",
@@ -62,7 +62,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=cn",
       "path": "current/events/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-raid",
@@ -71,7 +71,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raid.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raid.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-raid-jp",
@@ -80,7 +80,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raids/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/jp.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-raid-cn",
@@ -89,7 +89,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=cn",
       "path": "current/raids/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/cn.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-pick-up",
@@ -98,7 +98,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-up.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-up.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-pick-up-jp",
@@ -107,7 +107,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-ups/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "current-pick-up-cn",
@@ -116,7 +116,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=cn",
       "path": "current/pick-ups/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/cn.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "lucky-item",
@@ -125,7 +125,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/lucky_item/",
       "path": "current/lucky-item.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/lucky-item.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "students-birthday-week",
@@ -134,7 +134,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/birthday/week",
       "path": "current/students-birthday-week.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/students-birthday-week.json",
-      "fetched_at": "2026-07-06T19:54:34Z"
+      "fetched_at": "2026-07-07T19:53:32Z"
     },
     {
       "name": "students",
@@ -311,13 +311,13 @@
       "list_key": "news",
       "max_page": 8,
       "synced_pages": 8,
-      "total_items": 79,
-      "details_synced": 79,
+      "total_items": 80,
+      "details_synced": 80,
       "details_available": true,
       "lookup_path": "news/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-      "lookup_alias_count": 79,
-      "lookup_normalized_alias_count": 79
+      "lookup_alias_count": 80,
+      "lookup_normalized_alias_count": 80
     },
     {
       "name": "galleries",
@@ -363,15 +363,15 @@
       "path": "timeline/index.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "list_key": "timeline",
-      "max_page": 556,
-      "synced_pages": 556,
-      "total_items": 5553,
+      "max_page": 557,
+      "synced_pages": 557,
+      "total_items": 5567,
       "details_synced": 0,
       "details_available": true,
       "lookup_path": "timeline/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-      "lookup_alias_count": 5520,
-      "lookup_normalized_alias_count": 5513
+      "lookup_alias_count": 5534,
+      "lookup_normalized_alias_count": 5527
     },
     {
       "name": "walkthroughs",
@@ -428,6 +428,6 @@
       "lookup_normalized_alias_count": 8
     }
   ],
-  "request_count": 7237,
+  "request_count": 7239,
   "sync_errors": []
 }

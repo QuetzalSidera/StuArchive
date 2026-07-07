@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 556,
+    "max_page": 557,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 902,
+      "Double": 916,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
       "MainStory": 123,
       "Maintenance": 430,
       "MiniBattle": 198,
-      "Other": 690,
+      "Other": 691,
       "OtherStory": 63,
-      "OutsideGames": 857,
+      "OutsideGames": 856,
       "Raid": 246,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4933,
+        "line_type": "CN",
+        "title": "限时复刻活动【学漫同人物语~】",
+        "image": "https://static.kivo.wiki/images/timeline/4vXHhaOnuhS6YBeo11Y8FcJAjQ2WAHXW.png",
+        "body_summary": "让知识解放战线四分五裂的悲剧名作《LUNA》。 为了与红叶和解，也为了知识解放战线的重新团结，芽瑠打算完成未完的《LUNA》…… 究竟在同人之路的前方等待着的会是什么样的结局呢！？ ■ 活动时间 • ",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1665",
+        "start_time": 1769021940,
+        "end_time": 1769651940
+      },
       {
         "id": 4965,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2013423785911951705",
         "start_time": 1768906165,
         "end_time": 1768906165
-      },
-      {
-        "id": 4971,
-        "line_type": "Globle",
-        "title": "国际服例行维护#102",
-        "image": "https://static.kivo.wiki/images/timeline/VYt6YKzJp7ENkrMDIN59AKPcQjEj5ptB.jpg",
-        "body_summary": "[1/20(Tue) Temporary Maintenace Notice] To improve game stability and performance, a temporary maint",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2013486452433395859",
-        "start_time": 1768888800,
-        "end_time": 1768892400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783375722,
+  "time": 1783461919,
   "version": "1.0.0-beta.43"
 }
