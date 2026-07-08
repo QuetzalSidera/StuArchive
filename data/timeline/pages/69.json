@@ -2,12 +2,12 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 557,
+    "max_page": 559,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 916,
+      "Double": 932,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
@@ -22,6 +22,39 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4974,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编 Twitch首次直播 #1",
+        "image": "https://static.kivo.wiki/images/timeline/i0qqvhaZbSc0mvrMPo18Qq4KCvwCPtlJ.jpg",
+        "body_summary": "CM Arcie’s Official Blue Archive Twitch Mini-Stream #1 Sensei, join us at CM Arcie’s Clubhouse on Tw",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2013778574906663230",
+        "start_time": 1769043600,
+        "end_time": 1769043600
+      },
+      {
+        "id": 5727,
+        "line_type": "CN",
+        "title": "特别委托3倍 #16",
+        "image": "https://static.kivo.wiki/images/timeline/F1EY9sZeYYyRiAhcEko09NR2RZOY52Rw.jpg",
+        "body_summary": "【道具掉落量3倍活动】更新预告 【任务（普通难度）】道具掉落量3倍 开启时间：01月15日 04:00 ~ 01月19日 03:59 【任务（困难难度）】道具掉落量3倍 开启时间：01月19日 04:",
+        "type": "Double",
+        "url": "bluearchive-cn.com/news/1667",
+        "start_time": 1769025600,
+        "end_time": 1769630399
+      },
+      {
+        "id": 4931,
+        "line_type": "CN",
+        "title": "活动【与联邦理事会一起 沙勒总决算】 #8",
+        "image": "https://static.kivo.wiki/images/timeline/VhZFejYNO00LLrV0kSi5hOgPecavA2z7.png",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 限时活动：沙勒总决算即将开启！完成活动可获得互动家具以及秘仪之书碎片等奖励。 ■ 活动时间 • 活动持续时间：01月22日 04:00 ~ 02月05日 13:59 ",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1660",
+        "start_time": 1769025600,
+        "end_time": 1770271140
+      },
       {
         "id": 4933,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2013567245822370281",
         "start_time": 1768914375,
         "end_time": 1768914375
-      },
-      {
-        "id": 4957,
-        "line_type": "JP",
-        "title": "指名手配3倍 #18 任务normal3倍 #16 任务hard3倍 #16",
-        "image": "https://static.kivo.wiki/images/timeline/P8WtX0WvonBUWagpcvdxP8i5PHxR5ymc.jpg",
-        "body_summary": "【キャンペーン予告】 1月20日(火)4:00より、「指名手配」、「任務(Normal)」、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます。 周年記念のこの特別な機会を、",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2013159804592873807",
-        "start_time": 1768911683,
-        "end_time": 1769343683
-      },
-      {
-        "id": 4962,
-        "line_type": "JP",
-        "title": " 悠星氪金中心连携",
-        "image": "https://static.kivo.wiki/images/timeline/lbPEWHystZrxigox4Y6uGqhzVETCj8zQ.png",
-        "body_summary": "2026年1月20日(火) メンテナンス後より、「Yostar Gamesチャージセンター」に『ブルーアーカイブ』が追加されます。 「Yostar ID」をお持ちの方は、特設サイト「Yostar Ga",
-        "type": "Other",
-        "url": "bluearchive.jp/help/list?type=push&id=sO3TnXtwE",
-        "start_time": 1768906683,
-        "end_time": 1768906683
-      },
-      {
-        "id": 4961,
-        "line_type": "JP",
-        "title": "例行维护 #134",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 1/20(火) 11:00 〜 19:00前後 ▼詳細 https://bluearc",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2013423785911951705",
-        "start_time": 1768906165,
-        "end_time": 1768906165
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783461919,
+  "time": 1783544795,
   "version": "1.0.0-beta.43"
 }
