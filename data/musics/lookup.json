@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-07-08T19:23:25Z",
+  "generated_at": "2026-07-09T19:44:15Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 927,
-  "alias_count": 1235,
-  "normalized_alias_count": 1235,
+  "alias_count": 1236,
+  "normalized_alias_count": 1236,
   "by_id": {
     "1": {
       "id": 1,
@@ -14819,7 +14819,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 945,
-        "title": "Theme_347",
+        "title": "Oriental Splash",
         "cover": "",
         "author": "KARUT",
         "album": "游戏内曲目",
@@ -18547,6 +18547,9 @@
     "Dialogue Vol.25「背伸びの先に咲く花」": [
       "944"
     ],
+    "Oriental Splash": [
+      "945"
+    ],
     "Theme_347": [
       "945"
     ],
@@ -22254,6 +22257,9 @@
     ],
     "dialoguevol.25「背伸びの先に咲く花」": [
       "944"
+    ],
+    "orientalsplash": [
+      "945"
     ],
     "theme_347": [
       "945"
