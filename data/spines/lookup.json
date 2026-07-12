@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-07-11T19:01:18Z",
+  "generated_at": "2026-07-12T19:03:47Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1649,
-  "alias_count": 1646,
-  "normalized_alias_count": 1646,
+  "total_items": 1651,
+  "alias_count": 1648,
+  "normalized_alias_count": 1648,
   "by_id": {
     "1": {
       "id": 1,
@@ -21449,6 +21449,32 @@
       },
       "detail_path": "spines/1769.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1769.json"
+    },
+    "1770": {
+      "id": 1770,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1770,
+        "name": "CH0235_home_CN",
+        "remark": "国服",
+        "type": "home"
+      },
+      "detail_path": "spines/1770.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1770.json"
+    },
+    "1771": {
+      "id": 1771,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1771,
+        "name": "CH0269_home_CN",
+        "remark": "国服",
+        "type": "home"
+      },
+      "detail_path": "spines/1771.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1771.json"
     }
   },
   "by_alias": {
@@ -26392,6 +26418,12 @@
     ],
     "NP0051_spr_HD": [
       "1769"
+    ],
+    "CH0235_home_CN": [
+      "1770"
+    ],
+    "CH0269_home_CN": [
+      "1771"
     ]
   },
   "by_normalized_alias": {
@@ -31335,6 +31367,12 @@
     ],
     "np0051_spr_hd": [
       "1769"
+    ],
+    "ch0235_home_cn": [
+      "1770"
+    ],
+    "ch0269_home_cn": [
+      "1771"
     ]
   }
 }

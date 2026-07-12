@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 86,
       "ContentImprovements": 404,
-      "Double": 932,
+      "Double": 931,
       "Event": 498,
       "Gacha": 795,
       "Live": 85,
@@ -22,17 +22,6 @@
       "WebEvent": 133
     },
     "timeline": [
-      {
-        "id": 3643,
-        "line_type": "JP",
-        "title": "例行维护 #113",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/3(月) 11:00 〜 17:00前後 ▼詳細 https://b",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1885931207151722604",
-        "start_time": 1738551600,
-        "end_time": 1738573200
-      },
       {
         "id": 3641,
         "line_type": "JP",
@@ -131,11 +120,22 @@
         "url": "x.com/EN_BlueArchive/status/1883409538948427979",
         "start_time": 1738202400,
         "end_time": 1738980000
+      },
+      {
+        "id": 3623,
+        "line_type": "CN",
+        "title": "学院交流会3倍 #9",
+        "image": "https://static.kivo.wiki/images/timeline/2gT6BoaoLSokv6BwDlAAYMv7k5YGRFSZ.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 【学院交流会】掉落量3倍将开启！请不要错过哦！ ■ 活动时间 • 01月30日 04:00 ~ 02月06日 03:59 ■ 活动内容 活动期间，完成【学院交流会】时",
+        "type": "Double",
+        "url": "bluearchive-cn.com/news/1292",
+        "start_time": 1738180800,
+        "end_time": 1738785600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1783802798,
+  "time": 1783891089,
   "version": "1.0.0-beta.43"
 }

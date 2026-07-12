@@ -2,17 +2,191 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-07-11T19:01:18Z",
+  "generated_at": "2026-07-12T19:03:47Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 95,
-  "alias_count": 95,
-  "normalized_alias_count": 95,
+  "total_items": 96,
+  "alias_count": 96,
+  "normalized_alias_count": 96,
   "by_id": {
+    "120": {
+      "id": 120,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 120,
+        "user": {
+          "id": 25046,
+          "user_name": "KrugerPigeon",
+          "introduction": "114514",
+          "avatar": "https://static.kivo.wiki/images/avatar/25046/5jjIzP8aMF4k90qCnVWVcjCIAXgcPzLY.png"
+        },
+        "title": "【仅作参考】自己打经验本用的阵容",
+        "server": "Global",
+        "game_mode": "Commissions",
+        "enemy_defensive_attributes": "Heavy",
+        "level_terrain": "Indoor",
+        "introduce_summary": "其实还是很经典的芹娜把椿往前拉然后三枪清怪的那套，只是我刚好有专四王小桃😋",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 2,
+                "level": 84,
+                "star_level": 5,
+                "weapon_level": 4,
+                "favorability": 27,
+                "skill_level": [
+                  5,
+                  8,
+                  8,
+                  8
+                ],
+                "equipment_level": [
+                  7,
+                  7,
+                  7,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 72,
+                "level": 84,
+                "star_level": 5,
+                "weapon_level": 1,
+                "favorability": 15,
+                "skill_level": [
+                  3,
+                  3,
+                  7,
+                  7
+                ],
+                "equipment_level": [
+                  5,
+                  6,
+                  6,
+                  0
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 93,
+                "level": 83,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  3,
+                  5,
+                  4,
+                  3
+                ],
+                "equipment_level": [
+                  6,
+                  5,
+                  6
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 1,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 1,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  4,
+                  6,
+                  4
+                ],
+                "equipment_level": [
+                  7,
+                  7,
+                  7
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 91,
+                "level": 85,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  5,
+                  7,
+                  7
+                ],
+                "equipment_level": [
+                  5,
+                  6,
+                  6
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 7,
+                "level": 78,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  3,
+                  2,
+                  3,
+                  3
+                ],
+                "equipment_level": [
+                  6,
+                  5,
+                  6
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              91,
+              93,
+              72
+            ],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1783840393,
+        "updated_at": 1783840598
+      },
+      "detail_path": "walkthroughs/120.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/120.json"
+    },
     "119": {
       "id": 119,
       "source_path": "walkthroughs/index.json",
@@ -26374,6 +26548,9 @@
     }
   },
   "by_alias": {
+    "【仅作参考】自己打经验本用的阵容": [
+      "120"
+    ],
     "强悍五人组": [
       "119"
     ],
@@ -26661,6 +26838,9 @@
     ]
   },
   "by_normalized_alias": {
+    "【仅作参考】自己打经验本用的阵容": [
+      "120"
+    ],
     "强悍五人组": [
       "119"
     ],
