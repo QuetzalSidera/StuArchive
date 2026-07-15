@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-07-14T19:17:51Z",
+  "generated_at": "2026-07-15T19:08:37Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -8238,6 +8238,31 @@
       "profile_path": "students/profiles/202.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/202.json"
     },
+    "595": {
+      "id": 595,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 595,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "扭来扭去",
+        "family_name_jp": "",
+        "given_name_jp": "くねくね",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%EF%BC%9F%EF%BC%9F%EF%BC%9F/original/%E3%81%8F%E3%81%AD%E3%81%8F%E3%81%AD.png",
+        "school": 0,
+        "main_relation": 0
+      },
+      "detail_path": "students/595.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/595.json",
+      "profile_path": "students/profiles/595.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/595.json"
+    },
     "273": {
       "id": 273,
       "source_path": "students/index.json",
@@ -8262,31 +8287,6 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/273.json",
       "profile_path": "students/profiles/273.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/273.json"
-    },
-    "595": {
-      "id": 595,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 595,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "？？？",
-        "family_name_jp": "",
-        "given_name_jp": "くねくね",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%EF%BC%9F%EF%BC%9F%EF%BC%9F/original/%E3%81%8F%E3%81%AD%E3%81%8F%E3%81%AD.png",
-        "school": 0,
-        "main_relation": 0
-      },
-      "detail_path": "students/595.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/595.json",
-      "profile_path": "students/profiles/595.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/595.json"
     },
     "380": {
       "id": 380,
@@ -28460,17 +28460,17 @@
     "ペロロ": [
       "202"
     ],
+    "扭来扭去": [
+      "595"
+    ],
+    "くねくね": [
+      "595"
+    ],
     "机器人": [
       "273"
     ],
     "robot2_division_spr": [
       "273"
-    ],
-    "???": [
-      "595"
-    ],
-    "くねくね": [
-      "595"
     ],
     "小鸟游星野*恐怖": [
       "380"
@@ -40601,17 +40601,17 @@
     "ペロロ": [
       "202"
     ],
+    "扭来扭去": [
+      "595"
+    ],
+    "くねくね": [
+      "595"
+    ],
     "机器人": [
       "273"
     ],
     "robot2_division_spr": [
       "273"
-    ],
-    "???": [
-      "595"
-    ],
-    "くねくね": [
-      "595"
     ],
     "小鸟游星野*恐怖": [
       "380"
