@@ -7,7 +7,7 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-07-17T19:05:32Z",
+  "generated_at": "2026-07-18T19:01:49Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
@@ -17,8 +17,14 @@
   "details_enabled": true,
   "items": [
     {
+      "id": 144,
+      "title": "[广告] 2027年ba同人新春会征稿 07.12~09.02",
+      "image": "https://static.kivo.wiki/images/news/pfntxIx8OEM93jqtTF3edXMlsLO2Iv7e.jpg",
+      "url": ""
+    },
+    {
       "id": 143,
-      "title": "南宁蔚蓝档案only5.0【幻彩梦境】- 8月8日",
+      "title": "[广告] 南宁蔚蓝档案only5.0【幻彩梦境】- 8月8日",
       "image": "https://static.kivo.wiki/images/news/WWA1zJaRfzITTVFSHuHb7Gv0mz8RENCs.jpg",
       "url": ""
     },
@@ -26,12 +32,6 @@
       "id": 142,
       "title": "[广告] 深圳蔚蓝档案同人only2 游心未泯 - 8月15日",
       "image": "https://static.kivo.wiki/images/news/Zv7zIWo9IG0ngpA2ThvRbO2R3Z3j79gX.png",
-      "url": ""
-    },
-    {
-      "id": 141,
-      "title": "[广告] 福州蔚蓝档案ONLY3.0·霓波余晖-7月18日",
-      "image": "https://static.kivo.wiki/images/news/Ss8sdZl0tOKWgnz8pIepwshKSFLgEai7.jpg",
       "url": ""
     },
     {
@@ -570,6 +570,12 @@
   ],
   "details": [
     {
+      "id": 144,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/144",
+      "path": "news/144.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/144.json"
+    },
+    {
       "id": 143,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/143",
       "path": "news/143.json",
@@ -580,12 +586,6 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/142",
       "path": "news/142.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/142.json"
-    },
-    {
-      "id": 141,
-      "upstream_url": "https://api.kivo.wiki/api/v1/news/141",
-      "path": "news/141.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/141.json"
     },
     {
       "id": 140,
