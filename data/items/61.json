@@ -12,6 +12,14 @@
     "gift": {
       "students": [
         {
+          "id": 345,
+          "skin": "礼服",
+          "family_name": "天雨",
+          "given_name": "亚子",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A9%E9%9B%A8%20%E4%BA%9A%E5%AD%90/%E7%A4%BC%E6%9C%8D/avatar.png",
+          "favorability": 60
+        },
+        {
           "id": 194,
           "skin": "",
           "family_name": "圆堂",
@@ -44,35 +52,19 @@
           "favorability": 60
         },
         {
-          "id": 345,
-          "skin": "礼服",
-          "family_name": "天雨",
-          "given_name": "亚子",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A9%E9%9B%A8%20%E4%BA%9A%E5%AD%90/%E7%A4%BC%E6%9C%8D/avatar.png",
-          "favorability": 60
-        },
-        {
-          "id": 347,
-          "skin": "",
-          "family_name": "元宫",
-          "given_name": "千明",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/original/Student_Portrait_CH0238_Collection.png",
-          "favorability": 40
-        },
-        {
-          "id": 159,
-          "skin": "",
-          "family_name": "旗见",
-          "given_name": "绘里香",
-          "avatar": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/Student_Portrait_erika_Collection.png",
-          "favorability": 40
-        },
-        {
           "id": 216,
           "skin": "",
           "family_name": "京极",
           "given_name": "皋月",
           "avatar": "https://static.kivo.wiki/images/students/%E4%BA%AC%E6%9E%81%20%E7%9A%8B%E6%9C%88/original/Student_Portrait_CH0080_Collection.png",
+          "favorability": 40
+        },
+        {
+          "id": 38,
+          "skin": "",
+          "family_name": "枣",
+          "given_name": "伊吕波",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%9E%A3%20%E4%BC%8A%E5%90%95%E6%B3%A2/avatar.png",
           "favorability": 40
         },
         {
@@ -276,11 +268,11 @@
           "favorability": 40
         },
         {
-          "id": 38,
+          "id": 347,
           "skin": "",
-          "family_name": "枣",
-          "given_name": "伊吕波",
-          "avatar": "https://static.kivo.wiki/images/students/%E6%9E%A3%20%E4%BC%8A%E5%90%95%E6%B3%A2/avatar.png",
+          "family_name": "元宫",
+          "given_name": "千明",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/original/Student_Portrait_CH0238_Collection.png",
           "favorability": 40
         },
         {
@@ -340,6 +332,14 @@
           "favorability": 40
         },
         {
+          "id": 159,
+          "skin": "",
+          "family_name": "旗见",
+          "given_name": "绘里香",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%97%97%E8%A7%81%20%E7%BB%98%E9%87%8C%E9%A6%99/original/Student_Portrait_erika_Collection.png",
+          "favorability": 40
+        },
+        {
           "id": 56,
           "skin": "泳装",
           "family_name": "水羽",
@@ -356,6 +356,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1784403334,
+  "time": 1784489420,
   "version": "1.0.0-beta.43"
 }
