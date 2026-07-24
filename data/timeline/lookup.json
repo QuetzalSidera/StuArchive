@@ -2,17 +2,35 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-07-23T19:14:27Z",
+  "generated_at": "2026-07-24T19:23:13Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5630,
-  "alias_count": 5599,
-  "normalized_alias_count": 5592,
+  "total_items": 5640,
+  "alias_count": 5609,
+  "normalized_alias_count": 5602,
   "by_id": {
+    "5790": {
+      "id": 5790,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5790,
+        "line_type": "CN",
+        "title": "任务（困难难度）3倍 #21",
+        "image": "https://static.kivo.wiki/images/timeline/d88lHcbevySkGVmAZQ2amVPvfMWBqQnF.jpg",
+        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 【特别委托】道具掉落量3倍 ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 07月30",
+        "type": "Double",
+        "url": "weibo.com/6011443154/R9QOXC1g5",
+        "start_time": 1786910400,
+        "end_time": 1787169599
+      },
+      "detail_path": "timeline/5790.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5790.json"
+    },
     "5601": {
       "id": 5601,
       "source_path": "timeline/index.json",
@@ -30,6 +48,168 @@
       },
       "detail_path": "timeline/5601.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5601.json"
+    },
+    "5789": {
+      "id": 5789,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5789,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍 #21",
+        "image": "https://static.kivo.wiki/images/timeline/feH0vCPHKlCvnEL0PlXTaknC8Fa4UwRs.jpg",
+        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 【特别委托】道具掉落量3倍 ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 07月30",
+        "type": "Double",
+        "url": "weibo.com/6011443154/R9QOXC1g5",
+        "start_time": 1786564800,
+        "end_time": 1786910399
+      },
+      "detail_path": "timeline/5789.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5789.json"
+    },
+    "5788": {
+      "id": 5788,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5788,
+        "line_type": "CN",
+        "title": "学院交流会3倍 #19",
+        "image": "https://static.kivo.wiki/images/timeline/vHMosSy9eEm6ZTD4pZpKQq4J4T5PtqWs.jpg",
+        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 【特别委托】道具掉落量3倍 ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 07月30",
+        "type": "Double",
+        "url": "weibo.com/6011443154/R9QOXC1g5",
+        "start_time": 1785960000,
+        "end_time": 1786564799
+      },
+      "detail_path": "timeline/5788.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5788.json"
+    },
+    "5791": {
+      "id": 5791,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5791,
+        "line_type": "CN",
+        "title": "限时活动【海兰德铁道失控事件 ~ 无车生还 ~ 】介绍PV",
+        "image": "https://static.kivo.wiki/images/timeline/12ddoBAHjxzfSUtM7AAiOF5s3IXhf7S2.jpg",
+        "body_summary": "《蔚蓝档案》限时活动【海兰德铁道失控事件 ~ 无车生还 ~ 】介绍PV 围绕着丢失的货运列车，一场波澜壮阔的追逐戏就此展开。老师与海兰德的学员们究竟能否成功完成任务？ 限时活动【海兰德铁道失控事件 ~",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/R9Z4oAwe6",
+        "start_time": 1785405600,
+        "end_time": 1786600799
+      },
+      "detail_path": "timeline/5791.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5791.json"
+    },
+    "5787": {
+      "id": 5787,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5787,
+        "line_type": "CN",
+        "title": "悬赏通缉3倍 #21 & 日程3倍 #21",
+        "image": "https://static.kivo.wiki/images/timeline/1KpHp5q7IaFngCS1s75Ny22vjAtZqZts.jpg",
+        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 【特别委托】道具掉落量3倍 ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 07月30",
+        "type": "Double",
+        "url": "weibo.com/6011443154/R9QOXC1g5",
+        "start_time": 1785355200,
+        "end_time": 1785959999
+      },
+      "detail_path": "timeline/5787.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5787.json"
+    },
+    "5793": {
+      "id": 5793,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5793,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》x 模玩熊 夏日出行系列PV：诺亚篇",
+        "image": "https://static.kivo.wiki/images/timeline/KRV7GwGaH9mKACq95Iqy2VyBxPRSTaik.jpg",
+        "body_summary": "《蔚蓝档案》x 模玩熊 夏日出行系列PV：诺亚篇 千禧年夏日，美妙约会即将开启（更多邂逅即将解锁），究竟会遇到谁呢，好难猜哦～ 2026年7月30日至2026年8月16日，上海五角场百联ZX造趣B1，",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/RaaR1zIpp",
+        "start_time": 1784883600,
+        "end_time": 1784883600
+      },
+      "detail_path": "timeline/5793.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5793.json"
+    },
+    "5784": {
+      "id": 5784,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5784,
+        "line_type": "CN",
+        "title": "大决战：切赛德 • 室内战 ",
+        "image": "https://static.kivo.wiki/images/timeline/e8zHSAoupDb4qbNXsZzERRbbv0J9TssP.jpg",
+        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前在基沃托斯各地出没。 切赛德是神名十文字的第4个先知，它已经掌控了千禧年外围的废弃兵工厂的生产系统。 如果切赛德成功生产出无限的兵",
+        "type": "BigRaid",
+        "url": "weibo.com/6011443154/R9Gdpcsq9",
+        "start_time": 1784872800,
+        "end_time": 1785268799
+      },
+      "detail_path": "timeline/5784.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5784.json"
+    },
+    "5792": {
+      "id": 5792,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5792,
+        "line_type": "CN",
+        "title": "青叶",
+        "image": "https://static.kivo.wiki/images/timeline/SoXU5Sj1XSyRZMSgUcJaDDAi46TmN7Qc.jpg",
+        "body_summary": "//////////档案启封////////// ■ 青叶 海兰德铁道学院货运管理部的工程师。 性格内向胆小，但却有着若无其事毒舌的一面。她虽然总会吐出毒辣的发言，但她小声的说话方式却让人难以马上听清",
+        "type": "Other",
+        "url": "weibo.com/6011443154/Ra8uU255D",
+        "start_time": 1784862000,
+        "end_time": 1784862000
+      },
+      "detail_path": "timeline/5792.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5792.json"
+    },
+    "5786": {
+      "id": 5786,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5786,
+        "line_type": "CN",
+        "title": " 特别委托3倍 #20",
+        "image": "https://static.kivo.wiki/images/timeline/iF8NqIImfiFpTpuEPDbz6k5NKZMoVuQH.jpg",
+        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 【特别委托】道具掉落量3倍 ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 07月30",
+        "type": "Double",
+        "url": "weibo.com/6011443154/R9QOXC1g5",
+        "start_time": 1784750400,
+        "end_time": 1785355199
+      },
+      "detail_path": "timeline/5786.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5786.json"
+    },
+    "5785": {
+      "id": 5785,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5785,
+        "line_type": "CN",
+        "title": "3周年倒计时签到活动",
+        "image": "https://static.kivo.wiki/images/timeline/G2wx3mKhQtXD4AHaMlFLtLN4m9iRCyvm.jpg",
+        "body_summary": "3周年倒计时签到活动即将开始！活动期间登录游戏，即可领取青辉石奖励！ ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 ■ 奖励内容 倒计时7天：青辉石 × 100 倒计时6天：青",
+        "type": "Event",
+        "url": "weibo.com/6011443154/R9PDU5HE1",
+        "start_time": 1784750400,
+        "end_time": 1785355199
+      },
+      "detail_path": "timeline/5785.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5785.json"
     },
     "5778": {
       "id": 5778,
@@ -571,24 +751,6 @@
       "detail_path": "timeline/5774.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5774.json"
     },
-    "5753": {
-      "id": 5753,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5753,
-        "line_type": "CN",
-        "title": "【什亭之“响”】在展台后侧交换礼物的二人",
-        "image": "https://static.kivo.wiki/images/timeline/BxiQf17ZEV9m8vawx7f0w2Z88Eb3a9Mb.jpg",
-        "body_summary": "#蔚蓝档案#什亭之“响” “什么，还想再了解一些活动细节？真拿小梓没办法，那听好喽——”",
-        "type": "OutsideGames",
-        "url": "t.bilibili.com/1222911196473065488?spm_id_from=333.1387.0.0",
-        "start_time": 1783920393,
-        "end_time": 1783920393
-      },
-      "detail_path": "timeline/5753.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5753.json"
-    },
     "5747": {
       "id": 5747,
       "source_path": "timeline/index.json",
@@ -741,7 +903,7 @@
         "id": 5757,
         "line_type": "CN",
         "title": "《蔚蓝档案》x 模玩熊 夏日出行系列PV：优香篇",
-        "image": "https://static.kivo.wiki/images/timeline/dUslg7n6iaKmFfDGVEyhVncRJzpd6R5c.jpg",
+        "image": "https://static.kivo.wiki/images/timeline/veM8D6zKa1ntGilw0h6OhLRSbeDC814n.jpg",
         "body_summary": "",
         "type": "OutsideGames",
         "url": "t.bilibili.com/1223359634007392272?spm_id_from=333.1387.list.card_time.click",
@@ -777,7 +939,7 @@
         "id": 5755,
         "line_type": "CN",
         "title": "限时活动【Pray-Ball!~目标满贯本垒打~】介绍PV",
-        "image": "https://static.kivo.wiki/images/timeline/cgyB07Z4yI0d5cZRzgydouBJaCruV38w.jpg",
+        "image": "https://static.kivo.wiki/images/timeline/2pfdA0oDchb3BjmcgL0Ceu1Eaz5CkjC5.jpg",
         "body_summary": "#蔚蓝档案为了给棒球比赛加油，莱依和堇还有老师一起来到了棒球场。 然而比赛从一开始，就朝着不寻常的方向发展…… 限时活动【Pray-Ball! 目标：满贯本垒打~】将于07月16日开启！",
         "type": "OutsideGames",
         "url": "t.bilibili.com/1223320932067573764?spm_id_from=333.1387.0.0",
@@ -894,6 +1056,24 @@
       },
       "detail_path": "timeline/5646.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5646.json"
+    },
+    "5753": {
+      "id": 5753,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5753,
+        "line_type": "CN",
+        "title": "【什亭之“响”】在展台后侧交换礼物的二人",
+        "image": "https://static.kivo.wiki/images/timeline/T0b1pvo5z5s3vn3jb4l5usElNZUwb4ex.jpg",
+        "body_summary": "#蔚蓝档案#什亭之“响” “什么，还想再了解一些活动细节？真拿小梓没办法，那听好喽——”",
+        "type": "OutsideGames",
+        "url": "t.bilibili.com/1222911196473065488?spm_id_from=333.1387.0.0",
+        "start_time": 1783574793,
+        "end_time": 1783574793
+      },
+      "detail_path": "timeline/5753.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5753.json"
     },
     "5752": {
       "id": 5752,
@@ -101355,8 +101535,38 @@
     }
   },
   "by_alias": {
+    "任务(困难难度)3倍 #21": [
+      "5790"
+    ],
     "C108悠星参展": [
       "5601"
+    ],
+    "任务(普通难度)3倍 #21": [
+      "5789"
+    ],
+    "学院交流会3倍 #19": [
+      "5788"
+    ],
+    "限时活动【海兰德铁道失控事件 ~ 无车生还 ~ 】介绍PV": [
+      "5791"
+    ],
+    "悬赏通缉3倍 #21 & 日程3倍 #21": [
+      "5787"
+    ],
+    "《蔚蓝档案》x 模玩熊 夏日出行系列PV:诺亚篇": [
+      "5793"
+    ],
+    "大决战:切赛德 • 室内战": [
+      "5784"
+    ],
+    "青叶": [
+      "5792"
+    ],
+    "特别委托3倍 #20": [
+      "5786"
+    ],
+    "3周年倒计时签到活动": [
+      "5785"
     ],
     "国际服制约解除作战:Tiphareth #4": [
       "5778"
@@ -101448,9 +101658,6 @@
     "堇(打工)& 莱依 & 泉(新年)家具互动更新": [
       "5774"
     ],
-    "【什亭之“响”】在展台后侧交换礼物的二人": [
-      "5753"
-    ],
     "泉(新年)": [
       "5747"
     ],
@@ -101501,6 +101708,9 @@
     ],
     "《蔚蓝档案》确认参展BilibiliWorld2026": [
       "5646"
+    ],
+    "【什亭之“响”】在展台后侧交换礼物的二人": [
+      "5753"
     ],
     "【综合战术测试 • 护卫测试】#4": [
       "5752"
@@ -118185,8 +118395,38 @@
     ]
   },
   "by_normalized_alias": {
+    "任务(困难难度)3倍#21": [
+      "5790"
+    ],
     "c108悠星参展": [
       "5601"
+    ],
+    "任务(普通难度)3倍#21": [
+      "5789"
+    ],
+    "学院交流会3倍#19": [
+      "5788"
+    ],
+    "限时活动【海兰德铁道失控事件~无车生还~】介绍pv": [
+      "5791"
+    ],
+    "悬赏通缉3倍#21&日程3倍#21": [
+      "5787"
+    ],
+    "《蔚蓝档案》x模玩熊夏日出行系列pv:诺亚篇": [
+      "5793"
+    ],
+    "大决战:切赛德•室内战": [
+      "5784"
+    ],
+    "青叶": [
+      "5792"
+    ],
+    "特别委托3倍#20": [
+      "5786"
+    ],
+    "3周年倒计时签到活动": [
+      "5785"
     ],
     "国际服制约解除作战:tiphareth#4": [
       "5778"
@@ -118278,9 +118518,6 @@
     "堇(打工)&莱依&泉(新年)家具互动更新": [
       "5774"
     ],
-    "【什亭之“响”】在展台后侧交换礼物的二人": [
-      "5753"
-    ],
     "泉(新年)": [
       "5747"
     ],
@@ -118331,6 +118568,9 @@
     ],
     "《蔚蓝档案》确认参展bilibiliworld2026": [
       "5646"
+    ],
+    "【什亭之“响”】在展台后侧交换礼物的二人": [
+      "5753"
     ],
     "【综合战术测试•护卫测试】#4": [
       "5752"
