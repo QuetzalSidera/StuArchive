@@ -7,15 +7,21 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-07-26T19:07:35Z",
+  "generated_at": "2026-07-27T19:24:58Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 81,
-  "details_synced": 81,
+  "total_items": 82,
+  "details_synced": 82,
   "details_enabled": true,
   "items": [
+    {
+      "id": 145,
+      "title": "日服5.5周年纪念活动「出航！万魔船 マコト議長の華麗なる避暑」",
+      "image": "https://static.kivo.wiki/images/news/LWuIjxmH4TDyiTum4iuM2YyFjLiMuSca.jpg",
+      "url": "x.com/Blue_ArchiveJP/status/2081345513740538135"
+    },
     {
       "id": 144,
       "title": "[广告] 2027年ba同人新春会征稿 07.12~09.02",
@@ -565,10 +571,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 1
+      "item_count": 2
     }
   ],
   "details": [
+    {
+      "id": 145,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/145",
+      "path": "news/145.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/145.json"
+    },
     {
       "id": 144,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/144",
@@ -1059,8 +1071,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 81,
-    "normalized_alias_count": 81,
-    "total_items": 81
+    "alias_count": 82,
+    "normalized_alias_count": 82,
+    "total_items": 82
   }
 }

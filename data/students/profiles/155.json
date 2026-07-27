@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-07-26T19:07:35Z",
+  "generated_at": "2026-07-27T19:24:58Z",
   "id": 155,
   "display_name": "鳄渊 明里（新年）",
   "names": {
@@ -1823,6 +1823,13 @@
         "text": "Blue Archive",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E9%B3%84%E6%B8%8A%20%E6%98%8E%E9%87%8C/%E6%AD%A3%E6%9C%88/cn/ch0196_title.ogg"
+      },
+      {
+        "description": "ch0196_formation_select",
+        "category": "formation",
+        "text": "这世上……让人想吃的东西真的很多对吧？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E9%B3%84%E6%B8%8A%20%E6%98%8E%E9%87%8C/%E6%AD%A3%E6%9C%88/cn/ch0196_formation_select.ogg"
       }
     ],
     "voice_kr": [
@@ -2196,14 +2203,28 @@
         "text": "",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E9%B3%84%E6%B8%8A%20%E6%98%8E%E9%87%8C/%E6%AD%A3%E6%9C%88/sm019601_commonskill.ogg"
+      },
+      {
+        "description": "CH0196_Formation_Select",
+        "category": "formation",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E9%B3%84%E6%B8%8A%20%E6%98%8E%E9%87%8C/%E6%AD%A3%E6%9C%88/kr/CH0196_Formation_Select.ogg"
+      },
+      {
+        "description": "SM019601_CommonSkill",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E9%B3%84%E6%B8%8A%20%E6%98%8E%E9%87%8C/%E6%AD%A3%E6%9C%88/kr/SM019601_CommonSkill.ogg"
       }
     ]
   },
   "source": {
     "detail_path": "students/155.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/155.json",
-    "upstream_time": 1785093066,
-    "updated_at": 1780410697,
+    "upstream_time": 1785180303,
+    "updated_at": 1785158757,
     "created_at": 1685627960
   }
 }

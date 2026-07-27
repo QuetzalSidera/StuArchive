@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-07-26T19:07:35Z",
+  "generated_at": "2026-07-27T19:24:58Z",
   "list_key": "item",
   "id_key": "id",
   "max_page": 192,
   "synced_pages": 192,
-  "total_items": 1911,
-  "details_synced": 1911,
+  "total_items": 1917,
+  "details_synced": 1917,
   "details_enabled": true,
   "items": [
     {
@@ -201,6 +201,14 @@
       "description": "SRT学园曾配发的小队用口粮。只需倒入热水后稍加等待即可轻松用餐。其保质期很长，即使在SRT学园关闭后，也偶尔会在黑市中有流通。"
     },
     {
+      "id": 1993,
+      "name": "T10装备设计图选择券",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/onEeNc7wuPwuPPe6JuvJNBXHpCZkyWWu.png",
+      "rarity": 1,
+      "description": "可选择想要的装备设计图的选择券"
+    },
+    {
       "id": 273,
       "name": "T2装备设计图选择券",
       "type": "default",
@@ -253,6 +261,14 @@
       "name": "T8装备设计图选择券",
       "type": "default",
       "icon": "https://static.kivo.wiki/images/item/icon/vgScY8ykIZpgViA9jnkNGdvmxZdcXexj.png",
+      "rarity": 1,
+      "description": "可选择想要的装备设计图的选择券"
+    },
+    {
+      "id": 1992,
+      "name": "T9装备设计图选择券",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/VMwvB6Ck3j0QMp7yE9uvj0E6EFwDivtO.png",
       "rarity": 1,
       "description": "可选择想要的装备设计图的选择券"
     },
@@ -3097,12 +3113,28 @@
       "description": "使用时以相同的概率获得1个欧帕兹的抽选箱。"
     },
     {
+      "id": 1988,
+      "name": "欧帕兹(1)选择箱",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/zCNdwJlAixIMxexC7Tiurlm1CuYfJ4iM.png",
+      "rarity": 1,
+      "description": "可以选择任意欧帕兹的选择箱。"
+    },
+    {
       "id": 432,
       "name": "欧帕兹(2)抽选箱",
       "type": "default",
       "icon": "https://static.kivo.wiki/images/item/icon/66I57c9kUceLmnA2tsXSLBtJJGD4YdOW.png",
       "rarity": 2,
       "description": "使用时以相同的概率获得1个欧帕兹的抽选箱。"
+    },
+    {
+      "id": 1989,
+      "name": "欧帕兹(2)选择箱",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/AFpWhlts1fruDJHGSECmLycBULSHpl10.png",
+      "rarity": 2,
+      "description": "可以选择任意欧帕兹的选择箱。"
     },
     {
       "id": 433,
@@ -3113,12 +3145,28 @@
       "description": "使用时以相同的概率获得1个欧帕兹的抽选箱。"
     },
     {
+      "id": 1990,
+      "name": "欧帕兹(3)选择箱",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/xD2Fm8t53QVTIi4QWCXlKz7DfY6XDTpW.png",
+      "rarity": 3,
+      "description": "可以选择任意欧帕兹的选择箱。"
+    },
+    {
       "id": 434,
       "name": "欧帕兹(4)抽选箱",
       "type": "default",
       "icon": "https://static.kivo.wiki/images/item/icon/LxcjKPnxlNvzFf9lqMakOZdrPqNMXrie.png",
       "rarity": 4,
       "description": "使用时以相同的概率获得1个欧帕兹的抽选箱。"
+    },
+    {
+      "id": 1991,
+      "name": "欧帕兹(4)选择箱",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/RC3WGoclu3LPGck6zqDJFaKpxqUwHM8v.png",
+      "rarity": 4,
+      "description": "可以选择任意欧帕兹的选择箱。"
     },
     {
       "id": 508,
@@ -16648,7 +16696,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=192",
       "path": "items/pages/192.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/192.json",
-      "item_count": 1
+      "item_count": 7
     }
   ],
   "details": [
@@ -16791,6 +16839,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1916.json"
     },
     {
+      "id": 1993,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1993",
+      "path": "items/1993.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1993.json"
+    },
+    {
       "id": 273,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/273",
       "path": "items/273.json",
@@ -16831,6 +16885,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1389",
       "path": "items/1389.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1389.json"
+    },
+    {
+      "id": 1992,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1992",
+      "path": "items/1992.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1992.json"
     },
     {
       "id": 203,
@@ -18963,10 +19023,22 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/431.json"
     },
     {
+      "id": 1988,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1988",
+      "path": "items/1988.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1988.json"
+    },
+    {
       "id": 432,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/432",
       "path": "items/432.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/432.json"
+    },
+    {
+      "id": 1989,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1989",
+      "path": "items/1989.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1989.json"
     },
     {
       "id": 433,
@@ -18975,10 +19047,22 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/433.json"
     },
     {
+      "id": 1990,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1990",
+      "path": "items/1990.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1990.json"
+    },
+    {
       "id": 434,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/434",
       "path": "items/434.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/434.json"
+    },
+    {
+      "id": 1991,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1991",
+      "path": "items/1991.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1991.json"
     },
     {
       "id": 508,
@@ -28122,8 +28206,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1879,
-    "normalized_alias_count": 1879,
-    "total_items": 1911
+    "alias_count": 1885,
+    "normalized_alias_count": 1885,
+    "total_items": 1917
   }
 }

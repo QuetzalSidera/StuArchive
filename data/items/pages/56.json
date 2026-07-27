@@ -5,6 +5,54 @@
     "max_page": 192,
     "item": [
       {
+        "id": 1585,
+        "name": "铁砂掌巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8hPUrhzsDMLLqRHM2D8rqUkUS9zw7qYm.png",
+        "rarity": 1,
+        "description": "据说是丽情用“特殊方法”制作的铁砂掌巧克力。那清晰可见的拳印是她弄上的。"
+      },
+      {
+        "id": 317,
+        "name": "骰子",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/WRskD2X6SjVFLeafToTD0FH2nsytySEc.png",
+        "rarity": 1,
+        "description": "老是在船上发现的骰子。虽然只是单纯的玩具，不过也会用于解决学生之间的纷争。"
+      },
+      {
+        "id": 1333,
+        "name": "骰子1点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ozFqedxhpKbsMqTq3lriXk1LNUkKVHjB.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择1点后会消耗此券。"
+      },
+      {
+        "id": 1334,
+        "name": "骰子2点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jUHwd2DTjGJwdenKLIC4aYCCrHGmH58k.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择2点后会消耗此券。"
+      },
+      {
+        "id": 1335,
+        "name": "骰子3点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/HvM8fHyspbP7lNBTJZPZw8sjkIzALGZy.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择3点后会消耗此券。"
+      },
+      {
+        "id": 1336,
+        "name": "骰子4点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FzvrnI3mbst28jcpGge3YO1jcOQBgVj5.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择4点后会消耗此券。"
+      },
+      {
         "id": 1337,
         "name": "骰子5点固定券",
         "type": "default",
@@ -35,59 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/m2CM7AGMNUzvW0OqLBwrkmy4SGJk4rWx.png",
         "rarity": 1,
         "description": "图腾柱的碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1901,
-        "name": "土豆蛋糕",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/AKq98uXDIWcDzlFKPyDsS2BGvkQ94D08.png",
-        "rarity": 1,
-        "description": "将小麦粉和炼乳、砂糖、可可和肉桂等混合后制成的巧克力蛋糕。 不论是谁都有着无限的可能性。"
-      },
-      {
-        "id": 313,
-        "name": "兔子贴纸",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/LkjAdN9gep3CjxpsHiKW8TCLawDvdtcY.png",
-        "rarity": 1,
-        "description": "学生们到处乱贴的兔子贴纸。没什么特别的意义。因为容易制作，大部分的学生都自己做出来贴。"
-      },
-      {
-        "id": 1919,
-        "name": "瓦尔基里警察学校系列抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/TD6x7LQyICyFcb3xmSLy8qMMtCUHQwna.png",
-        "rarity": 1,
-        "description": "使用时，可从瓦尔基里警察学校系列家具中，以相同概率随机获得一件的抽选箱。"
-      },
-      {
-        "id": 1918,
-        "name": "瓦尔基里警察学校系列自选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/kSTLTcOLyGc8y4nU9pCUEtrDlDO5TKIY.png",
-        "rarity": 1,
-        "description": "使用时，可以从瓦尔基里警察学校系列中，选择任意一件进行兑换的自选箱。"
-      },
-      {
-        "id": 593,
-        "name": "完好的击针",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/t7EMd82XMcXGs25HNJzVjNbVfROkduYj.png",
-        "rarity": 2,
-        "description": "用来撞击并引燃弹丸雷管的金属棒，保存状态完好，就像新的一样。用于强化固有武器。  用于强化任何类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 589,
-        "name": "完好的枪管",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/UsFkoV3jQs3jO6ct402Dzk3EJWGP8Sfv.png",
-        "rarity": 2,
-        "description": "枪支上用于输送弹丸的铁管零件，保存状态完好，就像新的一样。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785093640,
+  "time": 1785181123,
   "version": "1.0.0-beta.43"
 }

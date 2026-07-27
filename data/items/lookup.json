@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-07-26T19:07:35Z",
+  "generated_at": "2026-07-27T19:24:58Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1911,
-  "alias_count": 1879,
-  "normalized_alias_count": 1879,
+  "total_items": 1917,
+  "alias_count": 1885,
+  "normalized_alias_count": 1885,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -358,6 +358,21 @@
       "detail_path": "items/1916.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1916.json"
     },
+    "1993": {
+      "id": 1993,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1993,
+        "name": "T10装备设计图选择券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/onEeNc7wuPwuPPe6JuvJNBXHpCZkyWWu.png",
+        "rarity": 1,
+        "description": "可选择想要的装备设计图的选择券"
+      },
+      "detail_path": "items/1993.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1993.json"
+    },
     "273": {
       "id": 273,
       "source_path": "items/index.json",
@@ -462,6 +477,21 @@
       },
       "detail_path": "items/1389.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1389.json"
+    },
+    "1992": {
+      "id": 1992,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1992,
+        "name": "T9装备设计图选择券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VMwvB6Ck3j0QMp7yE9uvj0E6EFwDivtO.png",
+        "rarity": 1,
+        "description": "可选择想要的装备设计图的选择券"
+      },
+      "detail_path": "items/1992.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1992.json"
     },
     "203": {
       "id": 203,
@@ -5788,6 +5818,21 @@
       "detail_path": "items/431.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/431.json"
     },
+    "1988": {
+      "id": 1988,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1988,
+        "name": "欧帕兹(1)选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/zCNdwJlAixIMxexC7Tiurlm1CuYfJ4iM.png",
+        "rarity": 1,
+        "description": "可以选择任意欧帕兹的选择箱。"
+      },
+      "detail_path": "items/1988.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1988.json"
+    },
     "432": {
       "id": 432,
       "source_path": "items/index.json",
@@ -5802,6 +5847,21 @@
       },
       "detail_path": "items/432.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/432.json"
+    },
+    "1989": {
+      "id": 1989,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1989,
+        "name": "欧帕兹(2)选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/AFpWhlts1fruDJHGSECmLycBULSHpl10.png",
+        "rarity": 2,
+        "description": "可以选择任意欧帕兹的选择箱。"
+      },
+      "detail_path": "items/1989.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1989.json"
     },
     "433": {
       "id": 433,
@@ -5818,6 +5878,21 @@
       "detail_path": "items/433.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/433.json"
     },
+    "1990": {
+      "id": 1990,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1990,
+        "name": "欧帕兹(3)选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/xD2Fm8t53QVTIi4QWCXlKz7DfY6XDTpW.png",
+        "rarity": 3,
+        "description": "可以选择任意欧帕兹的选择箱。"
+      },
+      "detail_path": "items/1990.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1990.json"
+    },
     "434": {
       "id": 434,
       "source_path": "items/index.json",
@@ -5832,6 +5907,21 @@
       },
       "detail_path": "items/434.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/434.json"
+    },
+    "1991": {
+      "id": 1991,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1991,
+        "name": "欧帕兹(4)选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/RC3WGoclu3LPGck6zqDJFaKpxqUwHM8v.png",
+        "rarity": 4,
+        "description": "可以选择任意欧帕兹的选择箱。"
+      },
+      "detail_path": "items/1991.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1991.json"
     },
     "508": {
       "id": 508,
@@ -28749,6 +28839,9 @@
     "SRT小队用口粮": [
       "1916"
     ],
+    "T10装备设计图选择券": [
+      "1993"
+    ],
     "T2装备设计图选择券": [
       "273"
     ],
@@ -28769,6 +28862,9 @@
     ],
     "T8装备设计图选择券": [
       "1389"
+    ],
+    "T9装备设计图选择券": [
+      "1992"
     ],
     "TWINKLE STAR": [
       "203"
@@ -29803,14 +29899,26 @@
     "欧帕兹(1)抽选箱": [
       "431"
     ],
+    "欧帕兹(1)选择箱": [
+      "1988"
+    ],
     "欧帕兹(2)抽选箱": [
       "432"
+    ],
+    "欧帕兹(2)选择箱": [
+      "1989"
     ],
     "欧帕兹(3)抽选箱": [
       "433"
     ],
+    "欧帕兹(3)选择箱": [
+      "1990"
+    ],
     "欧帕兹(4)抽选箱": [
       "434"
+    ],
+    "欧帕兹(4)选择箱": [
+      "1991"
     ],
     "佩洛洛背包设计图": [
       "508"
@@ -34420,6 +34528,9 @@
     "srt小队用口粮": [
       "1916"
     ],
+    "t10装备设计图选择券": [
+      "1993"
+    ],
     "t2装备设计图选择券": [
       "273"
     ],
@@ -34440,6 +34551,9 @@
     ],
     "t8装备设计图选择券": [
       "1389"
+    ],
+    "t9装备设计图选择券": [
+      "1992"
     ],
     "twinklestar": [
       "203"
@@ -35474,14 +35588,26 @@
     "欧帕兹(1)抽选箱": [
       "431"
     ],
+    "欧帕兹(1)选择箱": [
+      "1988"
+    ],
     "欧帕兹(2)抽选箱": [
       "432"
+    ],
+    "欧帕兹(2)选择箱": [
+      "1989"
     ],
     "欧帕兹(3)抽选箱": [
       "433"
     ],
+    "欧帕兹(3)选择箱": [
+      "1990"
+    ],
     "欧帕兹(4)抽选箱": [
       "434"
+    ],
+    "欧帕兹(4)选择箱": [
+      "1991"
     ],
     "佩洛洛背包设计图": [
       "508"
