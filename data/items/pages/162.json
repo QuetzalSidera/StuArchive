@@ -2,8 +2,72 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 548,
+        "name": "天空蓝渐层背景",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/oPjPhQeysmd1I8FRXxZyoHszbMfc5pmK.png",
+        "rarity": 1,
+        "description": "天空蓝渐层背景。让学生感觉到舒适的此款背景与所有家具完美融合。"
+      },
+      {
+        "id": 627,
+        "name": "天蓝色投球篮",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/lApcHCA1THy6hJcXgGHKEvfUXQgbom0V.png",
+        "rarity": 3,
+        "description": "可爱的天蓝色投球篮。努力把五颜六色的球投进篮子吧！"
+      },
+      {
+        "id": 547,
+        "name": "天然木墙",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Tw3pLCn2WSmZTp8OSpHBY1fTDKbQRuPe.png",
+        "rarity": 1,
+        "description": "天然木墙。点缀的色彩营造出富饶趣味的整齐空间。"
+      },
+      {
+        "id": 1019,
+        "name": "铁制拉门储物柜",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/PWq9VuihUh0fSgZYeCXqlJxWwLaforOf.png",
+        "rarity": 4,
+        "description": "可以储存很多东西的大型储物柜。据说还是猫的秘密基地。"
+      },
+      {
+        "id": 753,
+        "name": "铁制杂志架",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Oc2uEldJVNfXZI1E1NvLfBGGFKZRdNK5.png",
+        "rarity": 2,
+        "description": "摆放着各种类型杂志的铁制杂志架。有多余的时间或无聊的时候再慢慢看吧。"
+      },
+      {
+        "id": 1862,
+        "name": "通向2楼的楼梯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/916Ne9wdm9dRRVizfhHcaC24xgNHOTTq.png",
+        "rarity": 2,
+        "description": "似乎能通往二楼的楼梯。"
+      },
+      {
+        "id": 1807,
+        "name": "头盔清洁套装",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/ghT3Iv5bWJL9JEiGiqOVErWhQwIxnZT1.png",
+        "rarity": 4,
+        "description": "清洁的头盔是淑女的修养。里面装有保养头盔所需的用品。"
+      },
+      {
+        "id": 1040,
+        "name": "图书馆的古典座椅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/qjE67hfNwzUi1k3szBjSk5UOyoV6nW7j.png",
+        "rarity": 4,
+        "description": "平衡了座椅舒适度和怀旧感的绝妙图书馆座椅。所有读书人都梦寐以求的椅子。"
+      },
       {
         "id": 1936,
         "name": "瓦尔基里白板",
@@ -19,75 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/G7q3mWvzs0mSlBaR62IDlesPaNo6CFga.png",
         "rarity": 3,
         "description": "主要用于瓦尔基里办公区域的地板。非常适合低头反省时盯着看。"
-      },
-      {
-        "id": 1966,
-        "name": "瓦尔基里办公区墙壁",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/0ksasfoqFhkffT9xce87vPLIuVd5VNXS.png",
-        "rarity": 3,
-        "description": "瓦尔基里办公室常见的墙壁。不用担心会有豆腐渣工程。"
-      },
-      {
-        "id": 1969,
-        "name": "瓦尔基里办公区外窗",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/4sUjyiLgZm3VoOT1r4Wy5jdrMGVFVUiH.png",
-        "rarity": 4,
-        "description": "可以看到瓦尔基里停车场的窗户。可以时刻监视警用车辆是否被盗。"
-      },
-      {
-        "id": 1946,
-        "name": "瓦尔基里办公椅",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/RjZsOtdE3OwUxSCrIqDaCwNVOhjg8Sr2.png",
-        "rarity": 2,
-        "description": "瓦尔基里内勤人员使用的椅子。躺卧功能很出色。"
-      },
-      {
-        "id": 1978,
-        "name": "瓦尔基里办公桌",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/oYtSoTNWsAbSzQ7gGvAVmAnR8Zlu752c.png",
-        "rarity": 3,
-        "description": "瓦尔基里统一配发的事务办公桌。平凡且廉价的款式。"
-      },
-      {
-        "id": 1976,
-        "name": "瓦尔基里办公桌（大）",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/GhDgIdyeP0ixhlLKixP6k0b1lMFjfnBQ.png",
-        "rarity": 4,
-        "description": "虽然也是统一配发的，但比普通桌子更宽敞舒适。"
-      },
-      {
-        "id": 1958,
-        "name": "瓦尔基里办公桌（劳动改造产品）",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/ZOxACq1bz55EiCagxBlAZhNDrzzcBRI2.png",
-        "rarity": 3,
-        "description": "瓦尔基里的事务用办公桌。其中寄托了对新生活的希望。"
-      },
-      {
-        "id": 1941,
-        "name": "瓦尔基里备品·储物柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/mM4VwMrbx0Pe6BFhim7GRhjAsYjWFqTC.png",
-        "rarity": 3,
-        "description": "存放瓦尔基里警员私人物品的储物柜。里面塞着各种东西。"
-      },
-      {
-        "id": 1937,
-        "name": "瓦尔基里备品·文件柜1型",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/L23pH8cX7U8OEgnpml7um8IygNSEZRwD.png",
-        "rarity": 3,
-        "description": "保管瓦尔基里常用文件的柜子。整理得井井有条。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267357,
+  "time": 1785353297,
   "version": "1.0.0-beta.43"
 }

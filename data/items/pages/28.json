@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 341,
+        "name": "基础技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Hf0QhOzZZ7N8VLTm2ZK2gUGRbebfd6Ry.png",
+        "rarity": 1,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用"
+      },
+      {
+        "id": 596,
+        "name": "基础技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/RSKLqOlQVyYMw8wpH7p1ozFA0PjcEhJs.png",
+        "rarity": 1,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的基础技术笔记）"
+      },
       {
         "id": 607,
         "name": "基础技术笔记箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/XrNvqtH8PbDXzvHH4nK4WsYIp2RhUmXM.png",
         "rarity": 1,
         "description": "把格黑娜学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 189,
-        "name": "基础战术教育BD（红冬）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/uN0goZ7DIAudojC1FPAgYEtoczG3MEPq.png",
-        "rarity": 1,
-        "description": "把红冬学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 2,
-        "name": "基础战术教育BD（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/qvolYaW24A8ZdJfbpLfOwtlxTxxzNrke.png",
-        "rarity": 1,
-        "description": "把千禧学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267218,
+  "time": 1785353162,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1825,
+        "name": "分析U盘",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FJuSFSIwQ5kfvHdYUnfjEh2AS9TRQZQq.png",
+        "rarity": 1,
+        "description": "保存着核心中分析出的数据的U盘。虽然只分析了极小一部分，但那些信息中潜藏着一切可能性。"
+      },
+      {
+        "id": 501,
+        "name": "粉红帕卡设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SX5yVGwrqAPmTQjQNrD4vxcmnZegVVc0.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 515,
         "name": "愤怒阿德利徽章设计图",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/POB5T5ITPrcWrTmUXvcch7jfAzvRNKjk.png",
         "rarity": 1,
         "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1373,
-        "name": "钢盔团总联合大会纪念币",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/pp58XIqxe2LGbbKVMoQKag2w5ubnptnD.png",
-        "rarity": 1,
-        "description": "为纪念钢盔团总联合大会而发行的纪念币。能唤起人在海边的美好回忆。"
-      },
-      {
-        "id": 1586,
-        "name": "皋月的秘密配方巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/aIi8OCOCowXbRiAlx5YSYr1WtKlzaIXO.png",
-        "rarity": 1,
-        "description": "装有硬币型手工巧克力的高级盒子。好像是皋月为了提高和老师的亲密度而用秘密配方制作出来的。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267205,
+  "time": 1785353149,
   "version": "1.0.0-beta.43"
 }

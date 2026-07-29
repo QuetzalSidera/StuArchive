@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 893,
+        "name": "礼物箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8AlRNmnIHeqUnhBL2nd8yUYpsyNsFb2d.png",
+        "rarity": 3,
+        "description": "装有送给学生的礼物的箱子。"
+      },
+      {
+        "id": 885,
+        "name": "礼物选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/eE8oOxiCPFruxFlkMlGYOyP3QNrPMLol.png",
+        "rarity": 3,
+        "description": "可选择想要的礼物的礼物箱。"
+      },
       {
         "id": 1317,
         "name": "联邦学生会的安全帽",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/XAMDFaz8wUZhR4pUCIWrrB3SjHIcQvWw.png",
         "rarity": 1,
         "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 249,
-        "name": "马卡龙",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/vokw2ZrZrvlSUUJRWwyMD8R0txg9sNsJ.png",
-        "rarity": 1,
-        "description": "手心大小般的马卡龙。种类繁多，拥有各种口味。"
-      },
-      {
-        "id": 514,
-        "name": "马纳斯卢毛毡徽章设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Fjk6ZsTwTnrKNNmIPd11t8j75rK2DupK.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267225,
+  "time": 1785353168,
   "version": "1.0.0-beta.43"
 }

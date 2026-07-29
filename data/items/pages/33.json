@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1584,
+        "name": "可可粒茶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/mPMnjxS6A57cNjHiIA9JbIyHLTMLTJZu.png",
+        "rarity": 1,
+        "description": "妃咲活用茶道兴趣泡的可可粒茶。苦涩和醇香与浓厚的巧克力香气形成对比，令人印象深刻。"
+      },
+      {
+        "id": 100,
+        "name": "口粮D型",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PdxqtF5je9Qvn1Q5TBkIAIeDCxOKbruf.png",
+        "rarity": 1,
+        "description": "混合燕麦及可可粉制成的军用巧克力。高热量，适合长时间执行任务时携带食用。"
+      },
       {
         "id": 1748,
         "name": "狂猎艺术学院系列家具抽选箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/bA1mQbP5Muj6AqmfCTbuMVakhsmV4Xga.png",
         "rarity": 1,
         "description": "包装十分豪华的礼盒。里面只放了一枚手作巧克力。尽管数量稀少，但却是充满了尼娅的恶作剧之心的上品。"
-      },
-      {
-        "id": 893,
-        "name": "礼物箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/8AlRNmnIHeqUnhBL2nd8yUYpsyNsFb2d.png",
-        "rarity": 3,
-        "description": "装有送给学生的礼物的箱子。"
-      },
-      {
-        "id": 885,
-        "name": "礼物选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/eE8oOxiCPFruxFlkMlGYOyP3QNrPMLol.png",
-        "rarity": 3,
-        "description": "可选择想要的礼物的礼物箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267224,
+  "time": 1785353167,
   "version": "1.0.0-beta.43"
 }

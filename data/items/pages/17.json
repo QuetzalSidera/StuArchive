@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 72,
+        "name": "高级技术笔记（百鬼夜行） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0TQMXGI7SeD4KBxtPc8Koqrv7TNrfXch.png",
+        "rarity": 3,
+        "description": "归纳百鬼夜行学园战术核心的秘法笔记。"
+      },
+      {
+        "id": 81,
+        "name": "高级技术笔记（格黑娜） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T6ZV5d8s8DFRqBwTuokC9qBj46MVUsvr.png",
+        "rarity": 3,
+        "description": "归纳格黑娜学园战术核心的秘法笔记。 "
+      },
       {
         "id": 1608,
         "name": "高级技术笔记（海兰德）",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/hl9bSVy71o8OMIkoALKoAwfBkG7brvGU.png",
         "rarity": 3,
         "description": "使用时，以相同的概率获得1个高级技术笔记的抽选盒"
-      },
-      {
-        "id": 345,
-        "name": "高级技术笔记箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/f9XrnL1fAYWiTCycrt0YlOevQWkK2mHy.png",
-        "rarity": 3,
-        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用"
-      },
-      {
-        "id": 602,
-        "name": "高级技术笔记箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/QQauyJeslcivr00IAmnPt1eJ23h3zckY.png",
-        "rarity": 3,
-        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的高级技术笔记）"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267207,
+  "time": 1785353151,
   "version": "1.0.0-beta.43"
 }

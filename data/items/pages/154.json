@@ -2,8 +2,56 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 830,
+        "name": "全息投影方块黑胶唱片机",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/CvKshlS4HkUOjrdp12k0CZ2ea2YgdcwP.png",
+        "rarity": 4,
+        "description": "集结最尖端技术的黑胶唱片机。透过跟着音乐移动的全像投影感受节奏吧！"
+      },
+      {
+        "id": 975,
+        "name": "热带植物艺术墙壁装饰",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/igoJ2zy0jOCJFSS10yEzcyErV2ZO0fb3.png",
+        "rarity": 3,
+        "description": "画着热带植物的墙壁装饰。明亮的灯光装饰增添一种时尚感。"
+      },
+      {
+        "id": 971,
+        "name": "热带植物艺术套装相框",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/DqcOKyg2C2eIXvR5gp7htjfWyVP15ko2.png",
+        "rarity": 2,
+        "description": "画着热带植物的相框。欣赏着美画，似乎能感受到度假胜地的舒适。"
+      },
+      {
+        "id": 924,
+        "name": "热舞之星游戏机",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/cM7lbbphQxq87ctp9MXvCyv4R36lZ5oB.png",
+        "rarity": 4,
+        "description": "可以玩跳舞节奏游戏的热舞之星。今晚即可选出主角。"
+      },
+      {
+        "id": 934,
+        "name": "日本扁柏疗愈组合泡澡桶",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/IE4pyywOz8siFB9Kc1joaXE07u5dqXdn.png",
+        "rarity": 4,
+        "description": "以日本扁柏制成的泡澡桶。将全身浸淫于扁柏香气及暖呼呼的温泉水中吧！"
+      },
+      {
+        "id": 1871,
+        "name": "日鞠的衣柜",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/0WdSAE4f3wdTetk1noJ4mTTtSDjN8WCH.png",
+        "rarity": 3,
+        "description": "存放着日鞠的制服的衣柜。"
+      },
       {
         "id": 1574,
         "name": "三合一长椅",
@@ -35,59 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/cnFRjm0ynzjvuMmYVB2VZFmZo31WheBO.png",
         "rarity": 3,
         "description": "以靠背设计为特征的长椅。靠垫相当松软。"
-      },
-      {
-        "id": 1137,
-        "name": "三一大型书架",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/07YGIhiSGtlZsBVrxIohHcEG1pF82ldm.png",
-        "rarity": 4,
-        "description": "排列着历史悠久的三一古书的巨大书架。绝大部分学生光是翻开一页就竭尽全力了。"
-      },
-      {
-        "id": 1134,
-        "name": "三一教室背景",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/v3FwB7L9Cebn3ex5HoAlgbCo4FfHNNc1.png",
-        "rarity": 3,
-        "description": "能感受到三一的优雅与上流氛围的教室背景。"
-      },
-      {
-        "id": 1127,
-        "name": "三一教室单窗隔墙",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/nHBgMKIy2KAIzK65F8oLF43brATHAza5.png",
-        "rarity": 3,
-        "description": "以纤细的木制边框为特征的扩展型隔墙。让分隔开的空间没有压迫感。"
-      },
-      {
-        "id": 1129,
-        "name": "三一教室单隔墙",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/XLwKJKbVaXlCaK5z2QB0ksckMco4mMxL.png",
-        "rarity": 3,
-        "description": "古风花纹给人深刻印象的隔墙。兼具实用与优雅。"
-      },
-      {
-        "id": 1120,
-        "name": "三一教室的壁灯柱子",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/DNZSUpmhzbSm8RYUXWPKsDDnUcS46pte.png",
-        "rarity": 2,
-        "description": "装有小型壁灯的柱子。温和的光线照亮了教室。"
-      },
-      {
-        "id": 1142,
-        "name": "三一教室的窗户",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/iIwOBEuN5dntfi800eeYK4nYrczUKNe5.png",
-        "rarity": 4,
-        "description": "挂着优雅的青绿色窗帘的窗户。总是被维护得很干净。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267349,
+  "time": 1785353289,
   "version": "1.0.0-beta.43"
 }

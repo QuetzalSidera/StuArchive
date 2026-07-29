@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 245,
+        "name": "甲虫皇后邮轮度假胜地使用券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jarrNBcnbYQltK1ImvODR7UQ5TnpCRp2.png",
+        "rarity": 1,
+        "description": "记载着甲虫皇后邮轮度假胜地使用权限的度假胜地使用券合约"
+      },
+      {
+        "id": 255,
+        "name": "接力棒",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Lj3RtkKadihd343XelWB6C7JytQq8FRF.png",
+        "rarity": 1,
+        "description": "进行接力赛时使用的棒子。虽然长得像旧式柄状手榴弹，但此为装有电子感测器的尖端产品，在一定时间内交给下一棒跑者就绝对不会爆炸。"
+      },
       {
         "id": 512,
         "name": "街头包设计图",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/7OmxFjmzPn7I6xpcgKEL121qb8k23rHV.png",
         "rarity": 1,
         "description": "穿上后能浮于水面的救生衣。选择合身的款式吧。"
-      },
-      {
-        "id": 463,
-        "name": "军事露营区系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/mAQTdP1rHCvalJEhlF0IQVEi9NINPQkN.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个军事露营区系列家具的抽选箱。"
-      },
-      {
-        "id": 1403,
-        "name": "军事露营区系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/uD4ATBR9E9be67uKwo93QMCXsPjcuHKO.png",
-        "rarity": 4,
-        "description": "从军事露营区系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267222,
+  "time": 1785353165,
   "version": "1.0.0-beta.43"
 }

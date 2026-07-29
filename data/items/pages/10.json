@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1346,
+        "name": "车票",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CIgSVer2tkEhW1NJXQvk00uDzQpUBBRN.png",
+        "rarity": 1,
+        "description": "乘坐列车时必需的车票。虽说如此也无需持有多张。"
+      },
+      {
+        "id": 1381,
+        "name": "陈旧的阿里乌斯徽章",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VWLaWUDAc5vWNvUNvIGdYFh1A7zeNLT5.png",
+        "rarity": 1,
+        "description": "有点脏脏的阿里乌斯徽章。印有阿里乌斯分校的标志。"
+      },
       {
         "id": 315,
         "name": "乘船券",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/HT2LAW9pYVRl5rqUGDkI0hRbkbhqi2lH.png",
         "rarity": 1,
         "description": "获得时可兑换为传说的记录板的兑换券。若已获得该家具，则改为获得一个奥秘之书。"
-      },
-      {
-        "id": 461,
-        "name": "传统温泉乡系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/i0P40MuN8lhAMIAxQg0CI5zyIi8yIKqj.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个传统温泉乡系列家具的抽选箱。"
-      },
-      {
-        "id": 1401,
-        "name": "传统温泉乡系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/l0YvWz0NaV9ym5Zq8WQzJJS6GGKOTrJq.png",
-        "rarity": 4,
-        "description": "从传统温泉乡系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267200,
+  "time": 1785353144,
   "version": "1.0.0-beta.43"
 }

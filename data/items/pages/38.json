@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 374,
+        "name": "磨耗的亚特兰蒂斯徽章",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CrUhyN3huYnShHihQsPM2vvKxIg9THyq.png",
+        "rarity": 3,
+        "description": "坏掉而无法动弹的亚特兰蒂斯徽章。可用来进行各种制造及强化"
+      },
+      {
+        "id": 429,
+        "name": "磨损的安迪基西拉装置",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/UuAtMfKBflhzY9p1kJ96ITkfZjs5E9Lt.png",
+        "rarity": 3,
+        "description": "因故障而无法启动的安迪基西拉装置。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 405,
+        "name": "磨损的斐斯托斯圆盘",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/msyqeC9aqmzRwSlAopg98Mf4F6D3LJnD.png",
+        "rarity": 3,
+        "description": "过于老旧，磨损得体无完肤的斐斯托斯圆盘。可用来进行各种制造及强化。"
+      },
       {
         "id": 450,
         "name": "磨损的古代电池",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/X21LdAqmxAWwXsXjoY9cJRBGlUDAGcb9.png",
         "rarity": 1,
         "description": "桔梗做的木雕人偶。倾注了猛烈的热情。"
-      },
-      {
-        "id": 1670,
-        "name": "木雕人偶（名草）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/fP5HfzKllpzKDxAtDAZzR67rY87SpYIH.png",
-        "rarity": 1,
-        "description": "桔梗做的木雕人偶。在空气中悠闲地漂浮着。"
-      },
-      {
-        "id": 1669,
-        "name": "木雕人偶（紫）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/v78zusmuVdhs1uT5UYro6JFkpucGFisU.png",
-        "rarity": 1,
-        "description": "桔梗做的木雕人偶。可以感受到自由奔放的氛围。"
-      },
-      {
-        "id": 1357,
-        "name": "目标线索",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/liTaroLYdjvcgFQDjzItnqCwegjt9fwt.png",
-        "rarity": 1,
-        "description": "与委托目标有关的线索。推进工作最重要的信息。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267229,
+  "time": 1785353172,
   "version": "1.0.0-beta.43"
 }

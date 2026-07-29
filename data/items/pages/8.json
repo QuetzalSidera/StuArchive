@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 275,
+        "name": "冰桶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VTCPtoeWKHr1hJkyK4fzUZLsI3ZWNPRf.png",
+        "rarity": 1,
+        "description": "可以帮助水果和饮料等物品保持冰凉的冰桶。用来保管对温度敏感的军火也很有用。"
+      },
+      {
+        "id": 535,
+        "name": "波浪猫手表设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/sQzCq3CbBcXUl5k6cKSTLDbb5rOptRhV.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 248,
         "name": "薄荷巧克力百汇圣代",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/CUIpHkJMbgxjwb3rIYEXEYqFqoSM3JRn.png",
         "rarity": 1,
         "description": "浸染着老板温柔的、柴关拉面的特制菜。"
-      },
-      {
-        "id": 364,
-        "name": "长发娃娃碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/T6LXgHtBVtpzzuEITZwgf6jX4WZKcTcp.png",
-        "rarity": 1,
-        "description": "长发娃娃的部分碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 140,
-        "name": "长生不老的灵药（失败品）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/jdGpZAi5KVvwZM2Tl3pngQYpJdD7JluG.png",
-        "rarity": 1,
-        "description": "纱绫以巧克力为基底做成的新款灵药。因开发过程中的失误，最后没有做出灵药，只做出了单纯的巧克力口味饮料。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267198,
+  "time": 1785353142,
   "version": "1.0.0-beta.43"
 }

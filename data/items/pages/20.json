@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 337,
+        "name": "高级战术教育BD箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/177nOF0qbShQN5V2DMXWldgX2YKAjuYu.png",
+        "rarity": 3,
+        "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用"
+      },
+      {
+        "id": 454,
+        "name": "高级战术教育BD箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/WNJaasr1kdNjAd26GAHicgj0JzSmHL3U.png",
+        "rarity": 3,
+        "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的高级战术教育BD）"
+      },
       {
         "id": 476,
         "name": "高级战术教育BD箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/dgRCGGzIVO1WETEZnDgsh3RuAOVbgFJM.png",
         "rarity": 1,
         "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1392,
-        "name": "格赫娜宴会系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/9fBlKeBf0d6YH1Y6juiNHeots5Qc5vl6.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个格赫娜宴会系列家具的抽选箱。"
-      },
-      {
-        "id": 582,
-        "name": "铬弹簧",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/o1FGmD6xBLPp5Qx7mkK9wME92m1g0a62.png",
-        "rarity": 3,
-        "description": "推进枪械的枪栓时使用的弹簧，由铬合金制成，坚固不会生锈。用于强化固有武器。  用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267210,
+  "time": 1785353154,
   "version": "1.0.0-beta.43"
 }

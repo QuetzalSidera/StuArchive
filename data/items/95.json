@@ -12,19 +12,19 @@
     "gift": {
       "students": [
         {
-          "id": 192,
-          "skin": "",
-          "family_name": "伊草",
-          "given_name": "遥香",
-          "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%8D%89%20%E6%98%A5%E9%A6%99/avatar.png",
-          "favorability": 60
-        },
-        {
           "id": 32,
           "skin": "",
           "family_name": "大野",
           "given_name": "月咏",
           "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A7%E9%87%8E%20%E6%9C%88%E5%92%8F/avatar.png",
+          "favorability": 60
+        },
+        {
+          "id": 192,
+          "skin": "",
+          "family_name": "伊草",
+          "given_name": "遥香",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%8D%89%20%E6%98%A5%E9%A6%99/avatar.png",
           "favorability": 60
         },
         {
@@ -52,19 +52,11 @@
           "favorability": 60
         },
         {
-          "id": 61,
-          "skin": "",
-          "family_name": "龙华",
-          "given_name": "妃咲",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/original/avatar.png",
-          "favorability": 40
-        },
-        {
-          "id": 127,
-          "skin": "",
-          "family_name": "里滨",
-          "given_name": "海夏",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%87%8C%E6%B5%9C%20%E6%B5%B7%E5%A4%8F/avatar.png",
+          "id": 286,
+          "skin": "泳装",
+          "family_name": "风仓",
+          "given_name": "萌绘",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%A3%8E%E4%BB%93%20%E8%90%8C%E7%BB%98/%E6%B3%B3%E8%A3%85/avatar.png",
           "favorability": 40
         },
         {
@@ -108,19 +100,19 @@
           "favorability": 40
         },
         {
-          "id": 141,
-          "skin": "温泉",
-          "family_name": "连河",
-          "given_name": "切里诺",
-          "avatar": "https://static.kivo.wiki/images/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E5%88%A9%E8%AF%BA/%E6%B8%A9%E6%B3%89/avatar.png",
+          "id": 61,
+          "skin": "",
+          "family_name": "龙华",
+          "given_name": "妃咲",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/original/avatar.png",
           "favorability": 40
         },
         {
-          "id": 286,
+          "id": 610,
           "skin": "泳装",
-          "family_name": "风仓",
-          "given_name": "萌绘",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%A3%8E%E4%BB%93%20%E8%90%8C%E7%BB%98/%E6%B3%B3%E8%A3%85/avatar.png",
+          "family_name": "羽沼",
+          "given_name": "真琴",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0344_Collection.png",
           "favorability": 40
         },
         {
@@ -156,11 +148,27 @@
           "favorability": 40
         },
         {
+          "id": 141,
+          "skin": "温泉",
+          "family_name": "连河",
+          "given_name": "切里诺",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E5%88%A9%E8%AF%BA/%E6%B8%A9%E6%B3%89/avatar.png",
+          "favorability": 40
+        },
+        {
           "id": 177,
           "skin": "正月",
           "family_name": "浅黄",
           "given_name": "睦月",
           "avatar": "https://static.kivo.wiki/images/students/%E6%B5%85%E9%BB%84%20%E7%9D%A6%E6%9C%88/%E6%AD%A3%E6%9C%88/avatar.png",
+          "favorability": 40
+        },
+        {
+          "id": 127,
+          "skin": "",
+          "family_name": "里滨",
+          "given_name": "海夏",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%87%8C%E6%B5%9C%20%E6%B5%B7%E5%A4%8F/avatar.png",
           "favorability": 40
         },
         {
@@ -292,6 +300,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1785268257,
+  "time": 1785354187,
   "version": "1.0.0-beta.43"
 }

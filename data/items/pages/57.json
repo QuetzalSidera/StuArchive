@@ -2,8 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1336,
+        "name": "骰子4点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FzvrnI3mbst28jcpGge3YO1jcOQBgVj5.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择4点后会消耗此券。"
+      },
+      {
+        "id": 1337,
+        "name": "骰子5点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/NOd1t2jkeuG4kVgZzYQpaig5jywAzFMt.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择5点后会消耗此券。"
+      },
+      {
+        "id": 1338,
+        "name": "骰子6点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/IcxUXmDPysHONKZMvygr3JIdhkOKbg1N.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择6点后会消耗此券。"
+      },
+      {
+        "id": 1332,
+        "name": "骰子固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lrR1cDjIlEAvcyZFxFkcnRtjN3VzMIdH.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。谁也不知道会是固定为几点的券。"
+      },
+      {
+        "id": 444,
+        "name": "图腾柱碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/m2CM7AGMNUzvW0OqLBwrkmy4SGJk4rWx.png",
+        "rarity": 1,
+        "description": "图腾柱的碎片。可用来进行各种制造及强化。"
+      },
       {
         "id": 1901,
         "name": "土豆蛋糕",
@@ -43,51 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/t7EMd82XMcXGs25HNJzVjNbVfROkduYj.png",
         "rarity": 2,
         "description": "用来撞击并引燃弹丸雷管的金属棒，保存状态完好，就像新的一样。用于强化固有武器。  用于强化任何类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 589,
-        "name": "完好的枪管",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/UsFkoV3jQs3jO6ct402Dzk3EJWGP8Sfv.png",
-        "rarity": 2,
-        "description": "枪支上用于输送弹丸的铁管零件，保存状态完好，就像新的一样。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 430,
-        "name": "完整的安迪基西拉装置",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/T3Vvsmxg06YYDxaEpxPlmAcSUWlZ0qph.png",
-        "rarity": 4,
-        "description": "状态完整的安迪基西拉装置。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 367,
-        "name": "完整的长发娃娃",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/kPSmm9gIXTa3GZjIEi6zWB8nO4XKYque.png",
-        "rarity": 4,
-        "description": "状态完好的长发娃娃。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 581,
-        "name": "完整的弹簧",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OpyvhsUuKUfPOENau1gH21hlL4CqhiwT.png",
-        "rarity": 2,
-        "description": "推进枪械的枪栓时使用的弹簧，被完好无损地保存就跟新的一样。用于强化固有武器。  用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 406,
-        "name": "完整的斐斯托斯圆盘",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/PdvlrYFrLUnW6nsOdVxUbdluVLsXlE2N.png",
-        "rarity": 4,
-        "description": "状态完整的斐斯托斯圆盘。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267249,
+  "time": 1785353191,
   "version": "1.0.0-beta.43"
 }

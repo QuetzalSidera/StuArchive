@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-07-28T19:21:08Z",
+  "generated_at": "2026-07-29T19:13:32Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 486,
-  "alias_count": 5665,
-  "normalized_alias_count": 3884,
+  "total_items": 489,
+  "alias_count": 5675,
+  "normalized_alias_count": 3892,
   "by_id": {
     "76": {
       "id": 76,
@@ -1854,7 +1854,7 @@
         "given_name_jp": "イロハ",
         "family_name_cn": "枣",
         "given_name_cn": "伊吕波",
-        "avatar": "https://static.kivo.wiki/images/students/%E6%9E%A3%20%E4%BC%8A%E5%90%95%E6%B3%A2/%E6%B3%B3%E8%A3%85/%E5%A4%B4%E5%83%8F.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%9E%A3%20%E4%BC%8A%E5%90%95%E6%B3%A2/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0346_Collection.png",
         "school": 3,
         "main_relation": 24
       },
@@ -1904,7 +1904,7 @@
         "given_name_jp": "イブキ",
         "family_name_cn": "丹花",
         "given_name_cn": "伊吹",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%B8%B9%E8%8A%B1%20%E4%BC%8A%E5%90%B9/%E6%B3%B3%E8%A3%85/%E5%9B%BE%E7%89%871.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%B8%B9%E8%8A%B1%20%E4%BC%8A%E5%90%B9/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0347_Collection.png",
         "school": 3,
         "main_relation": 24
       },
@@ -2154,7 +2154,7 @@
         "given_name_jp": "チアキ",
         "family_name_cn": "元宫",
         "given_name_cn": "千明",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/%E6%B3%B3%E8%A3%85/11FFA8A35CBE08854F021D64083ACFD2.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0348_Collection.png",
         "school": 3,
         "main_relation": 24
       },
@@ -2704,7 +2704,7 @@
         "given_name_jp": "サツキ",
         "family_name_cn": "京极",
         "given_name_cn": "皋月",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%AC%E6%9E%81%20%E7%9A%8B%E6%9C%88/%E6%B3%B3%E8%A3%85/c3913cb4c97e47bafbf74d623549d531.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%AC%E6%9E%81%20%E7%9A%8B%E6%9C%88/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0345_Collection.png",
         "school": 3,
         "main_relation": 24
       },
@@ -2752,9 +2752,9 @@
         "given_name": "真琴",
         "family_name_jp": "羽沼",
         "given_name_jp": "マコト",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Screenshot%20From%202026-07-26%2020-00-03.png",
+        "family_name_cn": "羽沼",
+        "given_name_cn": "真琴",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0344_Collection.png",
         "school": 3,
         "main_relation": 24
       },
@@ -7913,6 +7913,31 @@
       "profile_path": "students/profiles/562.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/562.json"
     },
+    "613": {
+      "id": 613,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 613,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "小森",
+        "given_name": "纯夏",
+        "family_name_jp": "小森",
+        "given_name_jp": "スミカ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%201/original/%E3%82%B9%E3%83%9F%E3%82%AB.png",
+        "school": 15,
+        "main_relation": 153
+      },
+      "detail_path": "students/613.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/613.json",
+      "profile_path": "students/profiles/613.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/613.json"
+    },
     "589": {
       "id": 589,
       "source_path": "students/index.json",
@@ -9788,6 +9813,31 @@
       "profile_path": "students/profiles/552.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/552.json"
     },
+    "614": {
+      "id": 614,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 614,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "三叉戟部员A",
+        "family_name_jp": "",
+        "given_name_jp": "トライデントの部員",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E4%B8%89%E5%8F%89%E6%88%9F%E9%83%A8%E5%91%98A/original/Trident.png",
+        "school": 15,
+        "main_relation": 153
+      },
+      "detail_path": "students/614.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/614.json",
+      "profile_path": "students/profiles/614.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/614.json"
+    },
     "252": {
       "id": 252,
       "source_path": "students/index.json",
@@ -9812,6 +9862,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/252.json",
       "profile_path": "students/profiles/252.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/252.json"
+    },
+    "615": {
+      "id": 615,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 615,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "海盗A",
+        "family_name_jp": "",
+        "given_name_jp": "海賊",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E6%B5%B7%E7%9B%97A/original/%E6%B5%B7%E7%9B%97A.png",
+        "school": 15,
+        "main_relation": 0
+      },
+      "detail_path": "students/615.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/615.json",
+      "profile_path": "students/profiles/615.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/615.json"
     },
     "105": {
       "id": 105,
@@ -28702,6 +28777,24 @@
     "ヒロミ": [
       "562"
     ],
+    "小森纯夏": [
+      "613"
+    ],
+    "小森 纯夏": [
+      "613"
+    ],
+    "纯夏": [
+      "613"
+    ],
+    "小森スミカ": [
+      "613"
+    ],
+    "小森 スミカ": [
+      "613"
+    ],
+    "スミカ": [
+      "613"
+    ],
     "密井京子": [
       "589"
     ],
@@ -29460,11 +29553,23 @@
     "寮監隊員A": [
       "552"
     ],
+    "三叉戟部员A": [
+      "614"
+    ],
+    "トライデントの部員": [
+      "614"
+    ],
     "奥德赛的兔女郎A": [
       "252"
     ],
     "BunnyGirl_SR_spr": [
       "252"
+    ],
+    "海盗A": [
+      "615"
+    ],
+    "海賊": [
+      "615"
     ],
     "空": [
       "105"
@@ -41199,6 +41304,18 @@
     "ヒロミ": [
       "562"
     ],
+    "小森纯夏": [
+      "613"
+    ],
+    "纯夏": [
+      "613"
+    ],
+    "小森スミカ": [
+      "613"
+    ],
+    "スミカ": [
+      "613"
+    ],
     "密井京子": [
       "589"
     ],
@@ -41816,11 +41933,23 @@
     "寮監隊員a": [
       "552"
     ],
+    "三叉戟部员a": [
+      "614"
+    ],
+    "トライデントの部員": [
+      "614"
+    ],
     "奥德赛的兔女郎a": [
       "252"
     ],
     "bunnygirl_sr_spr": [
       "252"
+    ],
+    "海盗a": [
+      "615"
+    ],
+    "海賊": [
+      "615"
     ],
     "空": [
       "105"

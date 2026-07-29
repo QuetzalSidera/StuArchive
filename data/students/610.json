@@ -22,7 +22,7 @@
       },
       {
         "id": 610,
-        "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Screenshot%20From%202026-07-26%2020-00-03.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0344_Collection.png",
         "skin": "泳装",
         "skin_cn": "泳装"
       }
@@ -37,12 +37,12 @@
     "given_name_en": "Makoto",
     "family_name_zh_tw": "羽沼",
     "given_name_zh_tw": "真琴",
-    "family_name_cn": "",
-    "given_name_cn": "",
+    "family_name_cn": "羽沼",
+    "given_name_cn": "真琴",
     "nick_name": "",
-    "introduction": "",
+    "introduction": "格黑娜学园所属、「万魔殿」的议长。\n凡事都不肯半途而废。这份压倒性的执行力所抵达的终点，要么是伟大的成功，要么是巨大的失败。由于天生马虎粗心的性格，导致大多数情况下往往都会是后者。这个暑假似乎也不例外。\n\n>来吧！老师！现在是与我等\"万魔殿\"共同迈进的时候了！",
     "introduction_cn": "",
-    "momo_talk_signature": "",
+    "momo_talk_signature": "为了梦想中的战舰！",
     "main_relation": 24,
     "relation": [
       25
@@ -52,15 +52,15 @@
     "height": 169,
     "birthday": "03-19",
     "hobby": "计划、阴谋、和伊吹一起玩",
-    "designer": "",
-    "illustrator": "",
+    "designer": "ramuri",
+    "illustrator": "ramuri",
     "character_voice": "浅川悠",
     "character_voice_cn": "黄莺",
     "release_date": "2026-07-29",
     "release_date_cn": null,
     "release_date_global": null,
-    "sd_model_image": "",
-    "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Screenshot%20From%202026-07-26%2020-00-03.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/EnemyInfo_CH0344.png",
+    "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0344_Collection.png",
     "school": 3,
     "weapon_type": "SR",
     "is_install": true,
@@ -70,24 +70,1227 @@
     "show_list": true,
     "body_shape": "Large",
     "special_appearance": true,
-    "more": "",
-    "recollection_lobby_image": "",
-    "spine": [],
+    "more": "# 官方图集\n\n## 卡池Banner\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| 我等が夏に誠在り！ |  |  |  |\n| ![makoto_swimsuit_banner_jp](images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HOSi2SkacAAaYXm.jpg =450x)| | | |\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| ![makoto_swimsuit_intro_jp](images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HONLfk4asAAI7E4.jpg =525x) | | | |",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg",
+    "spine": [
+      1785,
+      1773,
+      1780
+    ],
     "model": [
       177
     ],
     "voice_play_icon": "",
     "voice_pause_icon": "",
-    "voice": [],
+    "voice": [
+      {
+        "description": "ch0344_battle_buffed_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "支援を集中させよ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_buffed_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_buffself_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_buffself_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_covered_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "私の盾となる栄誉をくれてやろう！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_covered_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_damage_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_damage_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_damage_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_damage_2.ogg"
+      },
+      {
+        "description": "ch0344_battle_damage_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_damage_3.ogg"
+      },
+      {
+        "description": "ch0344_battle_defense_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "おい！なんとかしろ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_defense_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "後れをとるな！いくぞ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_in_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "3分以内に終わらせてやろう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_in_2.ogg"
+      },
+      {
+        "description": "ch0344_battle_move_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "私一人で十分だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_move_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_move_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "お、終わったんじゃないのか！？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_move_2.ogg"
+      },
+      {
+        "description": "ch0344_battle_recovery_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "まったく、遅いではないか。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_recovery_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_retire",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_retire.ogg"
+      },
+      {
+        "description": "ch0344_battle_shout_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_shout_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_shout_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_shout_2.ogg"
+      },
+      {
+        "description": "ch0344_battle_shout_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_shout_3.ogg"
+      },
+      {
+        "description": "ch0344_battle_tacticalaction_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "いま移動しようとしていたところだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_tacticalaction_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "当然の勝利だな。喜ぶほどのことではない。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_victory_1.ogg"
+      },
+      {
+        "description": "ch0344_battle_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "キキッ！マコト様が出るまでもなかったな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_battle_victory_2.ogg"
+      },
+      {
+        "description": "ch0344_cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "万魔殿にも同じものを置くしよう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "ch0344_cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "ふっ。マコト様のオーラに圧倒されているようだな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "ch0344_cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "これも持って生まれたもの、ということか。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "ch0344_cafe_monolog_4",
+        "category": "cafe",
+        "text": "",
+        "text_original": "先生は、なぜこのような狭苦しい場所を好むんだ……？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "ch0344_cafe_monolog_5",
+        "category": "cafe",
+        "text": "",
+        "text_original": "海辺に万魔殿の分館を建てても良いな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_cafe_monolog_5.ogg"
+      },
+      {
+        "description": "ch0344_commonskill",
+        "category": "battle",
+        "text": "",
+        "text_original": "羽沼マコト、ここにあり。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_commonskill.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "せ、先生。悪いが触らないでもらいたい。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_1_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ふ、船酔いがひどくて……うっ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_1_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "うう……だから海に来たくなかったんだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_2_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "計画したのは……マコト様だが……うっ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_2_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_2_3",
+        "category": "event",
+        "text": "",
+        "text_original": "だが、魚の映画に夢中のイブキの喜びようときたら！先生にも見せてやりたかった！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_2_3.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_3_1",
+        "category": "event",
+        "text": "",
+        "text_original": "なぜ何度も触るんだ……？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_3_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_3_2",
+        "category": "event",
+        "text": "",
+        "text_original": "そうか、そういうことか！極限状態に身を置くことで、本当の気持ちに気づいたんだな？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_3_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_3_3",
+        "category": "event",
+        "text": "",
+        "text_original": "しかし待ってくれ……まだ、心の準備ができていない。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_3_3.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_4_1",
+        "category": "event",
+        "text": "",
+        "text_original": "イロハのやつ……まさかSNSをしているとはな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_4_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlobby_4_2",
+        "category": "event",
+        "text": "",
+        "text_original": "しかしなぜ、万魔殿のアカウントをフォローしていないのだ？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlobby_4_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "……いっ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_1_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "……一体どうなっているんだ！？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_1_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ま、まったく慌ててなどいない。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_2_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "全て計画通りに進んでいるのだからな！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_2_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_season_1",
+        "category": "event",
+        "text": "",
+        "text_original": "イロハのやつ……あの程度のことで、一体いつまで……。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_season_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_season_2",
+        "category": "event",
+        "text": "",
+        "text_original": "あ～！マン・オブ・パンデモニウムにようこそ！ヨーホホ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_season_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_season_end_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ああ、先生。航海は楽しんでいるか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_season_end_1.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_season_end_2",
+        "category": "event",
+        "text": "",
+        "text_original": "キキキッ！全て予想通りだったな！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_season_end_2.ogg"
+      },
+      {
+        "description": "ch0344_eventlogin_season_end_3",
+        "category": "event",
+        "text": "",
+        "text_original": "万事うまくいったではないか！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_eventlogin_season_end_3.ogg"
+      },
+      {
+        "description": "ch0344_exskill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "新たな地へ連れて行ってやろう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exskill_1.ogg"
+      },
+      {
+        "description": "ch0344_exskill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "キキキッ！ここをゲヘナの海とする！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exskill_2.ogg"
+      },
+      {
+        "description": "ch0344_exskill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "出航の時はきた！錨を上げろ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exskill_3.ogg"
+      },
+      {
+        "description": "ch0344_exskill_level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "錆びついては……むっ！？いないようだな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exskill_level_1.ogg"
+      },
+      {
+        "description": "ch0344_exskill_level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "造作もな……っ！？誰だ！？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exskill_level_2.ogg"
+      },
+      {
+        "description": "ch0344_exskill_level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "キキキッ！この程度……ひいっ！？……け、計画通りだ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exskill_level_3.ogg"
+      },
+      {
+        "description": "ch0344_exweapon_get",
+        "category": "growup",
+        "text": "",
+        "text_original": "先生よ……私は、欲しいと願ったものは全て手に入れてきた。マコト様の辞書に、敗北も不可能の文字も無いのだ。今はこれで満足してやるが……いつか、必ず……。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_exweapon_get.ogg"
+      },
+      {
+        "description": "ch0344_formation_in_1",
+        "category": "formation",
+        "text": "",
+        "text_original": "この私の休暇を潰すほどの事態なのか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_formation_in_1.ogg"
+      },
+      {
+        "description": "ch0344_formation_in_2",
+        "category": "formation",
+        "text": "",
+        "text_original": "急いで終わらせるぞ！マコト様はオフなのだからな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_formation_in_2.ogg"
+      },
+      {
+        "description": "ch0344_formation_select",
+        "category": "formation",
+        "text": "",
+        "text_original": "ああ、理解したとも……それで、我々がいるのは？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_formation_select.ogg"
+      },
+      {
+        "description": "ch0344_gachaget",
+        "category": "growup",
+        "text": "",
+        "text_original": "はぁ……優秀過ぎる者は、一時の休息も許されないのだな。このマコト様が手を貸してやろう、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_gachaget.ogg"
+      },
+      {
+        "description": "ch0344_growup_1_a",
+        "category": "growup",
+        "text": "",
+        "text_original": "最適な支援、感謝する。やはり優秀なリーダーには相応の品が必要だからな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_growup_1_a.ogg"
+      },
+      {
+        "description": "ch0344_growup_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "もっと活躍してほしいのか？先生も困った人だな、キキッ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_growup_2.ogg"
+      },
+      {
+        "description": "ch0344_growup_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "ほう？実に斬新な視点だ。新たな学びを得られるとはな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_growup_3.ogg"
+      },
+      {
+        "description": "ch0344_growup_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "キキキッ。噂通り、厳しい指導だな。私だからこそ、耐えられるのだとも言えよう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_growup_4.ogg"
+      },
+      {
+        "description": "ch0344_lobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生には想像すらできないだろう。シャーレの当番を代わってもらうために、どれほど費やしたのか。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_1_1.ogg"
+      },
+      {
+        "description": "ch0344_lobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "うん？なぜ、そこまでするのか、だと？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_1_2.ogg"
+      },
+      {
+        "description": "ch0344_lobby_1_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "それは、その……。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_1_3.ogg"
+      },
+      {
+        "description": "ch0344_lobby_1_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まあなんだ……そういうことだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_1_4.ogg"
+      },
+      {
+        "description": "ch0344_lobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "優秀なリーダーとは、どこにいても組織の安定を考えているもの。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_2_1.ogg"
+      },
+      {
+        "description": "ch0344_lobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "夏だからと、浮かれている暇などない！常に次の計画の一手を考え続けているのだ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_2_2.ogg"
+      },
+      {
+        "description": "ch0344_lobby_2_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "目の前のことに手一杯の空崎ヒナとは、器が違うというわけだな！キキキッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_2_3.ogg"
+      },
+      {
+        "description": "ch0344_lobby_2_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ん？目の前のシャーレ当番も気にしてほしい？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_2_4.ogg"
+      },
+      {
+        "description": "ch0344_lobby_2_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……そういえば、そうだったな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_2_5.ogg"
+      },
+      {
+        "description": "ch0344_lobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "インフルエンサーの水着姿は話題を呼ぶ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_3_1.ogg"
+      },
+      {
+        "description": "ch0344_lobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "服を着替えただけで注目されるのだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_3_2.ogg"
+      },
+      {
+        "description": "ch0344_lobby_3_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "これほどコスパの良いものはないだろう？キキッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_3_3.ogg"
+      },
+      {
+        "description": "ch0344_lobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "盲点だった……なぜ今まで海に注目していなかったのだろう？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_4_1.ogg"
+      },
+      {
+        "description": "ch0344_lobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "広大な領土に、無限の資源……まさにゲヘナのための「宝の海」ではないか！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_4_2.ogg"
+      },
+      {
+        "description": "ch0344_lobby_4_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "このマコト様がその程度の発想も浮かばなかったとは……！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_4_3.ogg"
+      },
+      {
+        "description": "ch0344_lobby_4_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ん？船酔いするんじゃないか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_4_4.ogg"
+      },
+      {
+        "description": "ch0344_lobby_4_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……偉大なる計画の実行は、もうしばらく検討が必要だな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_4_5.ogg"
+      },
+      {
+        "description": "ch0344_lobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ほう？この水着が気になるのか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_5_1.ogg"
+      },
+      {
+        "description": "ch0344_lobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "素晴らしいだろう？気難しいデザイナー連中を説得してオーダーしたものだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_5_2.ogg"
+      },
+      {
+        "description": "ch0344_lobby_5_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "だが、その甲斐もあったというもの。思う存分堪能するが良い！キキキッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_5_3.ogg"
+      },
+      {
+        "description": "ch0344_lobby_5_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……あまり、ジロジロ見ないでくれ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_lobby_5_4.ogg"
+      },
+      {
+        "description": "ch0344_login_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ、待っていたぞ。このマコト様を待たせることができるのは先生くらいなものだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_login_1_1.ogg"
+      },
+      {
+        "description": "ch0344_login_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……それだけの権力がある自覚を持ってくれ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_login_1_2.ogg"
+      },
+      {
+        "description": "ch0344_login_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "キキッ！よく来たな、先生！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_login_2_1.ogg"
+      },
+      {
+        "description": "ch0344_login_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "驚いただろう？うむ――今日はマコト様の当番の日ではないからな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_login_2_2.ogg"
+      },
+      {
+        "description": "ch0344_login_2_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "何故来たのか？それは――",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_login_2_3.ogg"
+      },
+      {
+        "description": "ch0344_login_2_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "些細なことを気にしてどうする？さあ、今日の業務を始めようじゃないか！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_login_2_4.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私は――いつも、万魔殿とゲヘナの代表として立っている。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "だからこそ、自身の欲望や感情と向き合えていなかったのだろう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "だが、シャーレの先生よ。この提案は、万魔殿の議長としてではなく、個人的なものだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_2_1.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "認めよう。先生は私にとって……少し特別な存在になったのかもしれない。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_2_2.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "例え代償を支払ったとしても――必ず獲得しなければならない対象となっている。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_3.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "いや、確保……？捕獲か……？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_4_1.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……この感情をどう表現すべきなのかは、分からない。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_4_2.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そうだな。強いていうのなら――",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_5_1.ogg"
+      },
+      {
+        "description": "ch0344_memoriallobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "――私のモノになってくれ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_memoriallobby_5_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_complete_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_complete_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_complete_2",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_complete_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_drawturn_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_drawturn_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_drawturn_2",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_drawturn_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_get_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "……不意に、脳裏を過ぎる考えがある。全て夏の夜の夢なのではないか、と。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_get_1_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_get_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "まあ、そんなことはないのだがな！キキキッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_get_1_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_get_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "実に素晴らしい仕事ぶりだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_get_2_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_get_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "先生のことを知れば知るほど、そばに置いておきたくなるな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_get_2_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_login_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "正しき行いには報酬を。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_login_1_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_login_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "それが上に立つ者として当然の考えだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_login_1_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_login_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "よくぞ来てくれたな、先生！やるべきことは多いぞ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_login_2_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_login_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "一つずつ手伝ってくれ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_login_2_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_losebattle_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_losebattle_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_loseturn_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturn_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_loseturn_2",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturn_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_loseturn_3",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturn_3.ogg"
+      },
+      {
+        "description": "ch0344_minigame_loseturnspecial_1",
+        "category": "event",
+        "text": "",
+        "text_original": "空崎ヒナァーー！！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturnspecial_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_touch_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "マコト様が魅力的であることは、よーく分かっている。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_touch_1_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_touch_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "しかし、今は任務に集中する時だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_touch_1_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_touch_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "適度なスキンシップは大切だが――",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_touch_2_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_touch_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "――私にだって、羞恥心はあるのだぞ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_touch_2_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winbattle_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winbattle_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturn_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturn_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturn_2",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturn_2.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturn_3",
+        "category": "formation",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturn_3.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturnspecial_1",
+        "category": "event",
+        "text": "",
+        "text_original": "お前はゲヘナのウォーリアーだ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturnspecial_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturnspecial_2",
+        "category": "event",
+        "text": "",
+        "text_original": "腹の足しにもならんな！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturnspecial_2.ogg"
+      },
+      {
+        "description": "ch0344_relationship_up_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "ふっ。ようやく分かったのだな。――そうだ。マコト様さえ見ていればそれで良い。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_relationship_up_1.ogg"
+      },
+      {
+        "description": "ch0344_relationship_up_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "先生は他の生徒にも同じように接するのか？……理解できないな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_relationship_up_2.ogg"
+      },
+      {
+        "description": "ch0344_relationship_up_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "私と共に歩む覚悟は決まったのか？では、今すぐ――なるほど、構わんぞ。優秀なリーダーは気が長いものだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_relationship_up_3.ogg"
+      },
+      {
+        "description": "ch0344_relationship_up_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "服装はイメージに影響を及ぼすのでは……いや！何でもない！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_relationship_up_4.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ、先生か。ちょうど休校日であると宣言してきたところだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_1.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ゲヘナにおいて、このマコト様の誕生日ほど重要な祝日はないからな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_2.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "つまり、今日は珍しく暇だということだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_3.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……ついに誰にも邪魔されず、二人でゆっくりと過ごせるのだぞ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_4.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "いや、気にするな！では、何をする？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_5.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_player_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "キキキッ……先生よ。連絡が絶え間なく来ているのではないか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_player_1.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_player_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ、そうだとも！マコト様がしっかり指示をしておいたぞ！今ごろゲヘナ全域で先生の誕生日を祝う放送が流れていることだろう！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_player_2.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_player_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まあ、私と先生の間柄だ。わざわざ感謝する必要は無いぞ。キキッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_player_3.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_player_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ、そうだ。そういえば個人的に伝えたことはなかったな……。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_player_4.ogg"
+      },
+      {
+        "description": "ch0344_season_birthday_player_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "その……誕生日、おめでとう。先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_birthday_player_5.ogg"
+      },
+      {
+        "description": "ch0344_season_halloween_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "キキキッ。楽しんでいるか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_halloween_1.ogg"
+      },
+      {
+        "description": "ch0344_season_halloween_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生が一体どんな悪戯でこの私を驚かせようとしているのか、楽しみだな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_halloween_2.ogg"
+      },
+      {
+        "description": "ch0344_season_halloween_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ん？先生は私の悪戯を待っているのか？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_halloween_3.ogg"
+      },
+      {
+        "description": "ch0344_season_newyear_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "キキキッ……新年だな。さあ、行くぞ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_newyear_1.ogg"
+      },
+      {
+        "description": "ch0344_season_newyear_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ん？日の出を見に行くのだ。手筈は整えている。先生はついてきてくれればそれで良い。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_newyear_2.ogg"
+      },
+      {
+        "description": "ch0344_season_newyear_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "形式的なものだがな。我々レベルになると、こういった行事も大切にする必要がる。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_newyear_3.ogg"
+      },
+      {
+        "description": "ch0344_season_xmas_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "キキッ！先生も理解したようだな。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_xmas_1.ogg"
+      },
+      {
+        "description": "ch0344_season_xmas_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そう――サンタクロースは実在しないのだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_xmas_2.ogg"
+      },
+      {
+        "description": "ch0344_season_xmas_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……だが、そんなつまらない事実など関係ない。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_xmas_3.ogg"
+      },
+      {
+        "description": "ch0344_season_xmas_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "今からゲヘナ広場でプレゼントを配る予定だ！そうすれば、実在しないサンタクロースではなく、マコト様を称えるようになるだろう！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_xmas_4.ogg"
+      },
+      {
+        "description": "ch0344_season_xmas_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……もちろん、着替えるぞ？",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_season_xmas_5.ogg"
+      },
+      {
+        "description": "ch0344_tactic_defeat_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_tactic_defeat_1.ogg"
+      },
+      {
+        "description": "ch0344_tactic_defeat_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_tactic_defeat_2.ogg"
+      },
+      {
+        "description": "ch0344_tactic_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ああ、指揮は任せろ。片付けてやろう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_tactic_in_1.ogg"
+      },
+      {
+        "description": "ch0344_tactic_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "なぜこのようなことをせねばならない……。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_tactic_in_2.ogg"
+      },
+      {
+        "description": "ch0344_tactic_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "キキッ！この偉大なる業績を自伝に追記しなければな！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_tactic_victory_1.ogg"
+      },
+      {
+        "description": "ch0344_tactic_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "終わったのだ。さっさと去るとしよう。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_tactic_victory_2.ogg"
+      },
+      {
+        "description": "CH0344_Title",
+        "category": "lobby",
+        "text": "",
+        "text_original": "キキキッ……ブルーアーカイブ、だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/CH0344_Title.ogg"
+      }
+    ],
     "voice_cn": [],
     "voice_kr": [],
-    "gallery": [],
-    "gift_data": null,
-    "furniture": null,
+    "gallery": [
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HOSi2SkacAAaYXm.jpg",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HONLfk4asAAI7E4.jpg",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HOTMXWUb0AE08xr.jpg"
+        ]
+      },
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_20.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_21.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_22.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_23.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_24.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_25.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_26.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_27.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_29.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_28.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_Idle_01.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0344_spr_99.png"
+        ]
+      },
+      {
+        "title": "海盗装差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_27.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_29.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_28.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_Idle_01.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_20.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_21.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_23.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_22.png",
+          "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/gallery/%E6%B5%B7%E7%9B%97%E8%A3%85%E5%B7%AE%E5%88%86/NP0298_spr_24.png"
+        ]
+      }
+    ],
+    "gift_data": [
+      {
+        "id": 70,
+        "favorability": 60
+      },
+      {
+        "id": 76,
+        "favorability": 40
+      },
+      {
+        "id": 96,
+        "favorability": 60
+      },
+      {
+        "id": 43,
+        "favorability": 40
+      },
+      {
+        "id": 87,
+        "favorability": 180
+      },
+      {
+        "id": 74,
+        "favorability": 40
+      },
+      {
+        "id": 95,
+        "favorability": 40
+      },
+      {
+        "id": 68,
+        "favorability": 60
+      },
+      {
+        "id": 131,
+        "favorability": 240
+      }
+    ],
+    "furniture": [
+      1994
+    ],
     "character_datas": [
       {
-        "character_id": 0,
-        "dev_name": "",
+        "character_id": 10146,
+        "dev_name": "CH0344",
         "combat_style": "default",
         "type": "Dealer",
         "attack_attribute": "Mystic",
@@ -97,11 +1300,32 @@
         "battlefield_position": "STRIKER",
         "rarity": 3,
         "limited": true,
-        "outdoor_adaptability": "",
-        "indoor_adaptability": "",
-        "street_adaptability": "",
-        "equipment": null,
-        "cultivate_material": [],
+        "outdoor_adaptability": "D",
+        "indoor_adaptability": "S",
+        "street_adaptability": "B",
+        "equipment": [
+          6,
+          7,
+          3
+        ],
+        "cultivate_material": [
+          77,
+          80,
+          81,
+          82,
+          158,
+          160,
+          163,
+          165,
+          399,
+          400,
+          401,
+          402,
+          376,
+          377,
+          378,
+          19
+        ],
         "favorite_equipment": 0,
         "skill": {
           "ex_skill": [
@@ -116,8 +1340,24 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
-                  "describe": "对1名敌人造成攻击力x的伤害。对圆形范围内的敌人造成攻击力x的伤害。伤害数值会根据范围内敌人的数量发生变化。"
+                  "cost": 6,
+                  "describe": "对1名敌人造成攻击力145%的伤害<br>按照圆形范围内敌人的数量，对范围内的敌人造成伤害<br>2人以下：造成攻击力169%的伤害<br>3人以上：造成攻击力401%的伤害"
+                },
+                {
+                  "cost": 6,
+                  "describe": "对1名敌人造成攻击力166%的伤害<br>按照圆形范围内敌人的数量，对范围内的敌人造成伤害<br>2人以下：造成攻击力194%的伤害<br>3人以上：造成攻击力461%的伤害"
+                },
+                {
+                  "cost": 6,
+                  "describe": "对1名敌人造成攻击力210%的伤害<br>按照圆形范围内敌人的数量，对范围内的敌人造成伤害<br>2人以下：造成攻击力245%的伤害<br>3人以上：造成攻击力581%的伤害"
+                },
+                {
+                  "cost": 6,
+                  "describe": "对1名敌人造成攻击力232%的伤害<br>按照圆形范围内敌人的数量，对范围内的敌人造成伤害<br>2人以下：造成攻击力270%的伤害<br>3人以上：造成攻击力642%的伤害"
+                },
+                {
+                  "cost": 6,
+                  "describe": "对1名敌人造成攻击力275%的伤害<br>按照圆形范围内敌人的数量，对范围内的敌人造成伤害<br>2人以下：造成攻击力321%的伤害<br>3人以上：造成攻击力762%的伤害"
                 }
               ]
             }
@@ -128,14 +1368,50 @@
               "title": "我们的船长！",
               "title_cn": "",
               "preview": "",
-              "max_level": 1,
+              "max_level": 10,
               "link_student_id": 0,
               "is_passive_skill": true,
               "derived_skills": [],
               "info": [
                 {
                   "cost": 1,
-                  "describe": "战斗开始时，以及此后每隔一段时间，增加攻击力（持续一段时间）。施加“领袖魅力”状态。"
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力17.5%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力18.3%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力19.2%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力22.7%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力23.6%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力24.5%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力28%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力28.9%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力29.7%（持续25秒）<br>施加“领袖魅力”状态。"
+                },
+                {
+                  "cost": 1,
+                  "describe": "战斗开始时，以及此后每30秒，增加攻击力33.2%（持续25秒）<br>施加“领袖魅力”状态。"
                 }
               ]
             },
@@ -151,12 +1427,48 @@
               "info": [
                 {
                   "cost": 1,
-                  "describe": "攻击力增加。"
+                  "describe": "攻击力增加14%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加14.7%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加15.4%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加18.2%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加18.9%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加19.6%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加22.4%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加23.1%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加23.8%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "攻击力增加26.6%"
                 }
               ]
             },
             {
-              "icon": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/skill_icon/n0c3W93l5lQlewrS68OKbjuIzvmtTXsk.png",
+              "icon": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/skill_icon/VrW7iDPMEXzEkkonvIhSsCVAKe972qAK.png",
               "title": "船长的领袖魅力",
               "title_cn": "",
               "preview": "",
@@ -167,7 +1479,43 @@
               "info": [
                 {
                   "cost": 1,
-                  "describe": "提升暴击值，处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力（持续一定时间）。解除“领袖魅力”状态"
+                  "describe": "暴击值增加10%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力11.4%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加10.5%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力12%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加11%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力12.6%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加13.1%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力14.9%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加13.6%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力15.5%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加14.1%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力16%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加16.1%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力18.3%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加16.6%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力18.9%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加17.1%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力19.5%（持续21秒）<br>解除“领袖魅力”状态"
+                },
+                {
+                  "cost": 1,
+                  "describe": "暴击值增加19.1%<br>处于“领袖魅力”状态时，若EX技能的目标为“特殊装甲”，则在攻击前减少其防御力21.8%（持续21秒）<br>解除“领袖魅力”状态"
                 }
               ]
             }
@@ -175,32 +1523,102 @@
         },
         "basic": [
           {
-            "max_hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "healing": 0,
-            "accuracy": 0,
-            "evasion": 0,
-            "crit": 0,
-            "crit_res": 0,
-            "crit_dmg": 0,
-            "crit_dmg_res": 0,
-            "stability": 0,
-            "range": 0,
-            "cc_power": 0,
-            "cc_res": 0,
-            "recovery_boost": 0,
-            "mag_count": 0
+            "max_hp": 2344,
+            "attack": 415,
+            "defense": 18,
+            "healing": 1759,
+            "accuracy": 962,
+            "evasion": 186,
+            "crit": 213,
+            "crit_res": 100,
+            "crit_dmg": 2,
+            "crit_dmg_res": 0.5,
+            "stability": 1860,
+            "range": 750,
+            "cc_power": 100,
+            "cc_res": 100,
+            "recovery_boost": 1,
+            "mag_count": 6
           }
         ],
         "weapons": {
-          "icon": "",
-          "name": "",
+          "icon": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/Weapon_Icon_CH0079.png",
+          "name": "唯我独尊",
           "name_cn": "",
-          "description": "",
+          "description": "真琴使用的狙击步枪。<br>通常以展示权威为目的所使用，但因为情况特殊，这次难得派上了正常的用途。这次，或许是出场机会最多的一次。",
           "description_cn": "",
-          "info": [],
-          "skill": []
+          "info": [
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
+              "description": "「隐藏着的实力？」升级为「隐藏着的实力？+」"
+            },
+            {
+              "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 室内适应性 S -> SS",
+              "description": "在室内地形造成1.3倍伤害。在掩体内时掩护成功率+75%。 攻击时绕过掩体概率增加75%。"
+            },
+            {
+              "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 神秘克制伤害增加",
+              "description": "攻击类型为神秘的克制伤害增加10%。"
+            }
+          ],
+          "skill": [
+            {
+              "icon": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/skill_icon/rmcAslLCfGHTuSMhfj7m5Dnenb4OzllI.png",
+              "title": "隐藏着的实力？+",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 10,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加26%，攻击力增加14%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加27.3%，攻击力增加14.7%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加28.6%，攻击力增加15.4%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加33.8%，攻击力增加18.2%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加35.1%，攻击力增加18.9%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加36.4%，攻击力增加19.6%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加41.6%，攻击力增加22.4%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加42.9%，攻击力增加23.1%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加44.2%，攻击力增加23.8%"
+                },
+                {
+                  "cost": 1,
+                  "describe": "神秘克制伤害增加49.4%，攻击力增加26.6%"
+                }
+              ]
+            }
+          ]
         }
       }
     ],
@@ -211,10 +1629,10 @@
     "supplementary_uuid": "c48bde44-4645-41fc-b1ff-69e080d6520e",
     "supplementary_declare_uuid": "8a7f680d-49d8-4fc6-9e3c-9056ba20bb33",
     "created_at": 1785065253,
-    "updated_at": 1785078011
+    "updated_at": 1785341039
   },
   "message": "OK",
   "success": true,
-  "time": 1785266511,
+  "time": 1785352103,
   "version": "1.0.0-beta.43"
 }

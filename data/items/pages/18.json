@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 345,
+        "name": "高级技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/f9XrnL1fAYWiTCycrt0YlOevQWkK2mHy.png",
+        "rarity": 3,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用"
+      },
+      {
+        "id": 602,
+        "name": "高级技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/QQauyJeslcivr00IAmnPt1eJ23h3zckY.png",
+        "rarity": 3,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的高级技术笔记）"
+      },
       {
         "id": 612,
         "name": "高级技术笔记箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/7Y7wWkyjHzakJoaxbHSiaFvUdAEgE1mQ.png",
         "rarity": 3,
         "description": "把阿里乌斯学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 200,
-        "name": "高级战术教育BD（百鬼夜行）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Lu6ue6F6oM6IILggjAnBM3GhR1zm6o6q.png",
-        "rarity": 3,
-        "description": "把百鬼夜行学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 163,
-        "name": "高级战术教育BD（格黑娜）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/0fjo82K2zOOIkwwSX30mbsjEESyZR09p.png",
-        "rarity": 3,
-        "description": "把格黑娜学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267208,
+  "time": 1785353152,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1913,
+        "name": "神秘线材",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/qsghofkfcJYo2T0EAsqI7bYlkVL7sWB2.png",
+        "rarity": 1,
+        "description": "把电子设备放在一起就会无限增加的用途不明的线材。用不到的就收起来吧。"
+      },
+      {
+        "id": 390,
+        "name": "神名文字碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/mcAPp8GriB2X1moJUtzQELQPYOvBXh1b.png",
+        "rarity": 1,
+        "description": "构成神名文字的神名精髓。"
+      },
+      {
+        "id": 122,
+        "name": "生巧克力组合（附发票）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/OOZkPfmhwpxFOlYmpUj6pRsz7G1xocFP.png",
+        "rarity": 1,
+        "description": "优香为老师购入的送礼用巧克力组合。虽然是超过一万日元的高级巧克力，但不知为何附上了五千日元的发票。"
+      },
+      {
+        "id": 580,
+        "name": "生锈的弹簧",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Zg52UJY0CwNnU5lMq8XZRh51EJW6fHDU.png",
+        "rarity": 1,
+        "description": "推进枪械的枪栓时使用的弹簧，由于管理不善处处生锈。用于强化固有武器。用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
+      },
       {
         "id": 584,
         "name": "生锈的击锤",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/mwwjF0Ww5CZOp2hwjvJIRyposIokzTym.png",
         "rarity": 1,
         "description": "收集了三一赞颂歌的书特有的歌词意外的受到欢迎，有时还会被引用在流行歌曲或广告文里。"
-      },
-      {
-        "id": 1678,
-        "name": "圣三一特制蛋糕",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OskOSeBbnLCKZTPJcpgUUSNT1DTDkNWK.png",
-        "rarity": 1,
-        "description": "高级的甜点。美好的下午茶时间里，美味的点心是不可或缺的。"
-      },
-      {
-        "id": 217,
-        "name": "圣堂烛台",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/U1Eq0WAoD7DtfBYOGZNQW71l7lj2Vvtb.png",
-        "rarity": 1,
-        "description": "三一大圣堂中使用的烛台。本身相当的沉重又结实，因此不小心掉到地板还会破洞。"
-      },
-      {
-        "id": 1588,
-        "name": "圣娅的惊悚巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/l7owBG1w4WDnUmPcnoDEeQyUKdltaYyR.png",
-        "rarity": 1,
-        "description": "圣娅的巧克力。随巧克力还附上了金光闪闪的收据。如果不小心在上面签了名的话，可能会发生不得了的大事。"
-      },
-      {
-        "id": 1071,
-        "name": "盛有咖啡的马克杯",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/jZwlY34rxqCEttJEIF1uhhrNMb0lppqW.png",
-        "rarity": 1,
-        "description": "盛有能缓解加班的辛劳的略苦的黑咖啡的马克杯。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267243,
+  "time": 1785353185,
   "version": "1.0.0-beta.43"
 }

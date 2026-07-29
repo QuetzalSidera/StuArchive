@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-07-28T19:21:08Z",
+  "generated_at": "2026-07-29T19:13:32Z",
   "list_key": "item",
   "id_key": "id",
-  "max_page": 192,
-  "synced_pages": 192,
-  "total_items": 1917,
-  "details_synced": 1917,
+  "max_page": 193,
+  "synced_pages": 193,
+  "total_items": 1927,
+  "details_synced": 1927,
   "details_enabled": true,
   "items": [
     {
@@ -481,12 +481,28 @@
       "description": "海岸边很常见的小贝壳。看似不起眼，但每一个都有独一无二的细微花纹与形状。"
     },
     {
+      "id": 2001,
+      "name": "貝壳",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/FrmMknTCk8DtceCtnDsimp2HDoRntzPe.png",
+      "rarity": 1,
+      "description": "吃剩的壳。在极端情况下，不得不利用任何东西。"
+    },
+    {
       "id": 1914,
       "name": "备用手柄",
       "type": "default",
       "icon": "https://static.kivo.wiki/images/item/icon/2N4e3D3drqUJ8FTeAdQdL4TEixBPc6tb.png",
       "rarity": 1,
       "description": "手柄是消耗品。里面有个别手柄的更换周期有缩短的倾向。"
+    },
+    {
+      "id": 2000,
+      "name": "被冲上岸的塑料瓶",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/58NEfGxF9hlAJrbvzrmCmEFRuGGkvC1S.png",
+      "rarity": 1,
+      "description": "被冲上岸的垃圾。据说，海洋中所有废弃的塑料被全部分解掉要花上500年。"
     },
     {
       "id": 11,
@@ -2833,6 +2849,14 @@
       "description": "存储着解锁中央区大门的门禁代码的芯片。"
     },
     {
+      "id": 1999,
+      "name": "梦之沙",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/CDI3NGxjbE8oXjVO7gJJL4V2LXYCOjan.png",
+      "rarity": 1,
+      "description": "会在人睡觉的地方堆积起来的神奇沙子。从梦中醒来的瞬间，沙子就会消失，仿佛从未存在过一般。"
+    },
+    {
       "id": 211,
       "name": "弥撒巾",
       "type": "default",
@@ -3095,6 +3119,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/aWoQpNGi8OV8RHNkEXIS739uImuvE1hd.png",
       "rarity": 1,
       "description": "岛上四处结有的柠檬。"
+    },
+    {
+      "id": 2003,
+      "name": "女王之星",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/XXXhh2fEEsfezQ7VZ23F0amzbMlxKnQc.png",
+      "rarity": 1,
+      "description": "胜利的象征。据说只要集齐五颗，也许能得到能够实现任何愿望的“Queen任意券”？"
     },
     {
       "id": 528,
@@ -4111,6 +4143,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/gfuMj0zYFcyPkEJ9qyvXdRckhnICl4DI.png",
       "rarity": 1,
       "description": "可用于制作装备的设计图。"
+    },
+    {
+      "id": 2002,
+      "name": "石块",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/RsN75QMRVuRJNprFCyzP0OiopTYXyUO1.png",
+      "rarity": 1,
+      "description": "只是石块而已。不过难以在海里找到。"
     },
     {
       "id": 49,
@@ -11673,6 +11713,14 @@
       "description": "摆满冷饮的饮料台。口渴时就来这里集合吧。"
     },
     {
+      "id": 1994,
+      "name": "佩剑架",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/Y70cI7Wa7mgaNjSu0corf7HlpdhNYIXL.png",
+      "rarity": 4,
+      "description": "用来放置佩剑模型的架子。虽然只是模型，但是简直和实物一样。哟-嚯-!"
+    },
+    {
       "id": 867,
       "name": "佩洛洛斯拉（室内战）白金奖杯",
       "type": "furniture",
@@ -12465,12 +12513,28 @@
       "description": "沙滩上设置的秋千。想要整理心情的时候，坐在上面摇摆也十分不错。"
     },
     {
+      "id": 1996,
+      "name": "沙滩派对套装",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/A75OiTWfkztsAJY4M1sOBshKJd2Lx9Nc.png",
+      "rarity": 4,
+      "description": "沙滩派对套装。看起来能让派对充满乐趣。"
+    },
+    {
       "id": 1747,
       "name": "沙滩躺椅和小桌子",
       "type": "furniture",
       "icon": "https://static.kivo.wiki/images/item/icon/DCtkbRoHjF5AOLS7yighw8bteaSeouLa.png",
       "rarity": 2,
       "description": "沙滩上的日光浴床和饮料，似乎有让任何人放松的魔法。"
+    },
+    {
+      "id": 1998,
+      "name": "沙浴大池",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/e7UHLdH9zYydEZliEjU5aR0loVfgStbQ.png",
+      "rarity": 4,
+      "description": "装满用温泉加热过的热沙的大池子。在滚烫的沙浴中仿佛洗去所有疲惫。"
     },
     {
       "id": 823,
@@ -14369,6 +14433,14 @@
       "description": "摆放着樱花花瓶的迷你桌子。为平淡的空间中增添一抹粉红色的俏丽。"
     },
     {
+      "id": 1997,
+      "name": "樱花树和长椅",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/bHdx8x40oyEkhDm9VDeKzdWygBqkklyo.png",
+      "rarity": 4,
+      "description": "樱花和长椅。刹那间绽放的花非常美丽。"
+    },
+    {
       "id": 1006,
       "name": "游戏机收纳柜",
       "type": "furniture",
@@ -15191,6 +15263,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/EyRRefXcmESiJ11VePt6zJGqdwI8DULU.png",
       "rarity": 2,
       "description": "经典街机。帮助猫咪躲避小行星吧，喵！喵喵！"
+    },
+    {
+      "id": 1995,
+      "name": "紫外线避难处",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/EhwBADIi7uuI7o5kXSLnPH82cfxrMzC8.png",
+      "rarity": 4,
+      "description": "为了免受海滩上紫外线的伤害，遮阳伞和防晒霜必不可少！"
     },
     {
       "id": 1854,
@@ -16696,6 +16776,13 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=192",
       "path": "items/pages/192.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/192.json",
+      "item_count": 10
+    },
+    {
+      "page": 193,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=193",
+      "path": "items/pages/193.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/193.json",
       "item_count": 7
     }
   ],
@@ -17049,10 +17136,22 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1330.json"
     },
     {
+      "id": 2001,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2001",
+      "path": "items/2001.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2001.json"
+    },
+    {
       "id": 1914,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1914",
       "path": "items/1914.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1914.json"
+    },
+    {
+      "id": 2000,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2000",
+      "path": "items/2000.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2000.json"
     },
     {
       "id": 11,
@@ -18813,6 +18912,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1316.json"
     },
     {
+      "id": 1999,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1999",
+      "path": "items/1999.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1999.json"
+    },
+    {
       "id": 211,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/211",
       "path": "items/211.json",
@@ -19009,6 +19114,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1340",
       "path": "items/1340.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1340.json"
+    },
+    {
+      "id": 2003,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2003",
+      "path": "items/2003.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2003.json"
     },
     {
       "id": 528,
@@ -19771,6 +19882,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/542",
       "path": "items/542.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/542.json"
+    },
+    {
+      "id": 2002,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2002",
+      "path": "items/2002.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2002.json"
     },
     {
       "id": 49,
@@ -25443,6 +25560,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1308.json"
     },
     {
+      "id": 1994,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1994",
+      "path": "items/1994.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1994.json"
+    },
+    {
       "id": 867,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/867",
       "path": "items/867.json",
@@ -26037,10 +26160,22 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1684.json"
     },
     {
+      "id": 1996,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1996",
+      "path": "items/1996.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1996.json"
+    },
+    {
       "id": 1747,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1747",
       "path": "items/1747.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1747.json"
+    },
+    {
+      "id": 1998,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1998",
+      "path": "items/1998.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1998.json"
     },
     {
       "id": 823,
@@ -27465,6 +27600,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/759.json"
     },
     {
+      "id": 1997,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1997",
+      "path": "items/1997.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1997.json"
+    },
+    {
       "id": 1006,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1006",
       "path": "items/1006.json",
@@ -28083,6 +28224,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/914.json"
     },
     {
+      "id": 1995,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1995",
+      "path": "items/1995.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1995.json"
+    },
+    {
       "id": 1854,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1854",
       "path": "items/1854.json",
@@ -28206,8 +28353,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1885,
-    "normalized_alias_count": 1885,
-    "total_items": 1917
+    "alias_count": 1895,
+    "normalized_alias_count": 1895,
+    "total_items": 1927
   }
 }

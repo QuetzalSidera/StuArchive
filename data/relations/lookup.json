@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "relations",
   "description": "Character relation and faction records.",
-  "generated_at": "2026-07-28T19:21:08Z",
+  "generated_at": "2026-07-29T19:13:32Z",
   "id_key": "id",
   "source_index": {
     "path": "relations/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 150,
-  "alias_count": 198,
-  "normalized_alias_count": 198,
+  "total_items": 151,
+  "alias_count": 199,
+  "normalized_alias_count": 199,
   "by_id": {
     "1": {
       "id": 1,
@@ -2112,6 +2112,20 @@
       },
       "detail_path": "relations/152.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/152.json"
+    },
+    "153": {
+      "id": 153,
+      "source_path": "relations/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/index.json",
+      "item": {
+        "id": 153,
+        "name": "三叉戟",
+        "name_cn": "",
+        "image": "https://static.kivo.wiki/images/relation/TUNDUrk3hjykmGX4hTSrQTSih6pqFugv.jpg",
+        "description": ""
+      },
+      "detail_path": "relations/153.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/153.json"
     }
   },
   "by_alias": {
@@ -2709,6 +2723,9 @@
     ],
     "雏鸟组": [
       "152"
+    ],
+    "三叉戟": [
+      "153"
     ]
   },
   "by_normalized_alias": {
@@ -3306,6 +3323,9 @@
     ],
     "雏鸟组": [
       "152"
+    ],
+    "三叉戟": [
+      "153"
     ]
   }
 }

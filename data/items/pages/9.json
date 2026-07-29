@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 364,
+        "name": "长发娃娃碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T6LXgHtBVtpzzuEITZwgf6jX4WZKcTcp.png",
+        "rarity": 1,
+        "description": "长发娃娃的部分碎片。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 140,
+        "name": "长生不老的灵药（失败品）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jdGpZAi5KVvwZM2Tl3pngQYpJdD7JluG.png",
+        "rarity": 1,
+        "description": "纱绫以巧克力为基底做成的新款灵药。因开发过程中的失误，最后没有做出灵药，只做出了单纯的巧克力口味饮料。"
+      },
       {
         "id": 1345,
         "name": "场内Only展会入场券",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/P8UHxFA7CWxK3apvgZk0lsD9HLhhkYBN.png",
         "rarity": 1,
         "description": "风纪委员会从引发夏日贫民窟骚动的滋事份子—潮水头盔团手中没收的头盔。 上面有因无谓的抵抗而留下的痕迹。"
-      },
-      {
-        "id": 1346,
-        "name": "车票",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CIgSVer2tkEhW1NJXQvk00uDzQpUBBRN.png",
-        "rarity": 1,
-        "description": "乘坐列车时必需的车票。虽说如此也无需持有多张。"
-      },
-      {
-        "id": 1381,
-        "name": "陈旧的阿里乌斯徽章",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/VWLaWUDAc5vWNvUNvIGdYFh1A7zeNLT5.png",
-        "rarity": 1,
-        "description": "有点脏脏的阿里乌斯徽章。印有阿里乌斯分校的标志。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267199,
+  "time": 1785353143,
   "version": "1.0.0-beta.43"
 }

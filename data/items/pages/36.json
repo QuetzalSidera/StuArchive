@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 286,
+        "name": "美食研究会的烤玉米",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/KNZgSqr4jQ4ciT0u4zqxSvhkFpW99J0H.png",
+        "rarity": 1,
+        "description": "美食研究会亲自制作的烤玉米。 融入了美食研究会成员的个人喜好，无法保障口味。"
+      },
+      {
+        "id": 1314,
+        "name": "门禁代码 - 外围2区",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/oCqfMjr42AlWSdjTTl6gJuz3w8bxa6GI.png",
+        "rarity": 1,
+        "description": "存储着解锁外围2区大门的门禁代码的芯片。"
+      },
       {
         "id": 1315,
         "name": "门禁代码 - 外围3区",
@@ -19,6 +35,14 @@
         "icon": "https://static.kivo.wiki/images/item/icon/g1LCDrwUzpxxfKWc5N4GKBLFHYy3OkbE.png",
         "rarity": 1,
         "description": "存储着解锁中央区大门的门禁代码的芯片。"
+      },
+      {
+        "id": 1999,
+        "name": "梦之沙",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CDI3NGxjbE8oXjVO7gJJL4V2LXYCOjan.png",
+        "rarity": 1,
+        "description": "会在人睡觉的地方堆积起来的神奇沙子。从梦中醒来的瞬间，沙子就会消失，仿佛从未存在过一般。"
       },
       {
         "id": 211,
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ibIus9KuT5AQYNvtZVo2pYOCRZo9GT2d.png",
         "rarity": 1,
         "description": "据说由锗制成的手环。说是对健康有益，但……"
-      },
-      {
-        "id": 1509,
-        "name": "谜之物质",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/rTi8HJlXf53mSe4MNdyysxbnN9AjP3tM.png",
-        "rarity": 1,
-        "description": "现场收集到的谜之物质。据说通过特定的“再分析”，能得到完全不同的产物。"
-      },
-      {
-        "id": 1909,
-        "name": "谜之御札",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ypgWEkLvFVtZZtTYDehlNorWZpnoZvjL.png",
-        "rarity": 1,
-        "description": "祈愿驾驶安全的御札。神奇的是，据说贴在车上之后，驾驶时就会有好事发生。"
-      },
-      {
-        "id": 1907,
-        "name": "谜之杂志",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/rHLl2qnD8zsO3BanxlnyNO2aM3XSpV3K.png",
-        "rarity": 1,
-        "description": "刊载了大量来源不明的阴谋论的杂志。随便翻翻无妨，但切勿盲目轻信。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267227,
+  "time": 1785353170,
   "version": "1.0.0-beta.43"
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-07-28T19:21:08Z",
+  "generated_at": "2026-07-29T19:13:32Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1917,
-  "alias_count": 1885,
-  "normalized_alias_count": 1885,
+  "total_items": 1927,
+  "alias_count": 1895,
+  "normalized_alias_count": 1895,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -883,6 +883,21 @@
       "detail_path": "items/1330.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1330.json"
     },
+    "2001": {
+      "id": 2001,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2001,
+        "name": "貝壳",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FrmMknTCk8DtceCtnDsimp2HDoRntzPe.png",
+        "rarity": 1,
+        "description": "吃剩的壳。在极端情况下，不得不利用任何东西。"
+      },
+      "detail_path": "items/2001.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2001.json"
+    },
     "1914": {
       "id": 1914,
       "source_path": "items/index.json",
@@ -897,6 +912,21 @@
       },
       "detail_path": "items/1914.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1914.json"
+    },
+    "2000": {
+      "id": 2000,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2000,
+        "name": "被冲上岸的塑料瓶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/58NEfGxF9hlAJrbvzrmCmEFRuGGkvC1S.png",
+        "rarity": 1,
+        "description": "被冲上岸的垃圾。据说，海洋中所有废弃的塑料被全部分解掉要花上500年。"
+      },
+      "detail_path": "items/2000.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2000.json"
     },
     "11": {
       "id": 11,
@@ -5293,6 +5323,21 @@
       "detail_path": "items/1316.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1316.json"
     },
+    "1999": {
+      "id": 1999,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1999,
+        "name": "梦之沙",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CDI3NGxjbE8oXjVO7gJJL4V2LXYCOjan.png",
+        "rarity": 1,
+        "description": "会在人睡觉的地方堆积起来的神奇沙子。从梦中醒来的瞬间，沙子就会消失，仿佛从未存在过一般。"
+      },
+      "detail_path": "items/1999.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1999.json"
+    },
     "211": {
       "id": 211,
       "source_path": "items/index.json",
@@ -5787,6 +5832,21 @@
       },
       "detail_path": "items/1340.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1340.json"
+    },
+    "2003": {
+      "id": 2003,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2003,
+        "name": "女王之星",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XXXhh2fEEsfezQ7VZ23F0amzbMlxKnQc.png",
+        "rarity": 1,
+        "description": "胜利的象征。据说只要集齐五颗，也许能得到能够实现任何愿望的“Queen任意券”？"
+      },
+      "detail_path": "items/2003.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2003.json"
     },
     "528": {
       "id": 528,
@@ -7692,6 +7752,21 @@
       },
       "detail_path": "items/542.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/542.json"
+    },
+    "2002": {
+      "id": 2002,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2002,
+        "name": "石块",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/RsN75QMRVuRJNprFCyzP0OiopTYXyUO1.png",
+        "rarity": 1,
+        "description": "只是石块而已。不过难以在海里找到。"
+      },
+      "detail_path": "items/2002.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2002.json"
     },
     "49": {
       "id": 49,
@@ -21868,6 +21943,21 @@
       "detail_path": "items/1308.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1308.json"
     },
+    "1994": {
+      "id": 1994,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1994,
+        "name": "佩剑架",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Y70cI7Wa7mgaNjSu0corf7HlpdhNYIXL.png",
+        "rarity": 4,
+        "description": "用来放置佩剑模型的架子。虽然只是模型，但是简直和实物一样。哟-嚯-!"
+      },
+      "detail_path": "items/1994.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1994.json"
+    },
     "867": {
       "id": 867,
       "source_path": "items/index.json",
@@ -23353,6 +23443,21 @@
       "detail_path": "items/1684.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1684.json"
     },
+    "1996": {
+      "id": 1996,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1996,
+        "name": "沙滩派对套装",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/A75OiTWfkztsAJY4M1sOBshKJd2Lx9Nc.png",
+        "rarity": 4,
+        "description": "沙滩派对套装。看起来能让派对充满乐趣。"
+      },
+      "detail_path": "items/1996.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1996.json"
+    },
     "1747": {
       "id": 1747,
       "source_path": "items/index.json",
@@ -23367,6 +23472,21 @@
       },
       "detail_path": "items/1747.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1747.json"
+    },
+    "1998": {
+      "id": 1998,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1998,
+        "name": "沙浴大池",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/e7UHLdH9zYydEZliEjU5aR0loVfgStbQ.png",
+        "rarity": 4,
+        "description": "装满用温泉加热过的热沙的大池子。在滚烫的沙浴中仿佛洗去所有疲惫。"
+      },
+      "detail_path": "items/1998.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1998.json"
     },
     "823": {
       "id": 823,
@@ -26923,6 +27043,21 @@
       "detail_path": "items/759.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/759.json"
     },
+    "1997": {
+      "id": 1997,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1997,
+        "name": "樱花树和长椅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/bHdx8x40oyEkhDm9VDeKzdWygBqkklyo.png",
+        "rarity": 4,
+        "description": "樱花和长椅。刹那间绽放的花非常美丽。"
+      },
+      "detail_path": "items/1997.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1997.json"
+    },
     "1006": {
       "id": 1006,
       "source_path": "items/index.json",
@@ -28468,6 +28603,21 @@
       "detail_path": "items/914.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/914.json"
     },
+    "1995": {
+      "id": 1995,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1995,
+        "name": "紫外线避难处",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/EhwBADIi7uuI7o5kXSLnPH82cfxrMzC8.png",
+        "rarity": 4,
+        "description": "为了免受海滩上紫外线的伤害，遮阳伞和防晒霜必不可少！"
+      },
+      "detail_path": "items/1995.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1995.json"
+    },
     "1854": {
       "id": 1854,
       "source_path": "items/index.json",
@@ -28944,8 +29094,14 @@
     "贝壳": [
       "1330"
     ],
+    "貝壳": [
+      "2001"
+    ],
     "备用手柄": [
       "1914"
+    ],
+    "被冲上岸的塑料瓶": [
+      "2000"
     ],
     "笨拙的手工巧克力": [
       "11"
@@ -29794,6 +29950,9 @@
     "门禁代码 - 中央区": [
       "1316"
     ],
+    "梦之沙": [
+      "1999"
+    ],
     "弥撒巾": [
       "211"
     ],
@@ -29892,6 +30051,9 @@
     ],
     "柠檬": [
       "1340"
+    ],
+    "女王之星": [
+      "2003"
     ],
     "暖暖贴设计图": [
       "528"
@@ -30273,6 +30435,9 @@
     ],
     "十字架项圈设计图": [
       "542"
+    ],
+    "石块": [
+      "2002"
     ],
     "时雨·特制苦酒": [
       "49"
@@ -33077,6 +33242,9 @@
     "派对饮料台": [
       "1308"
     ],
+    "佩剑架": [
+      "1994"
+    ],
     "佩洛洛斯拉(室内战)白金奖杯": [
       "867"
     ],
@@ -33374,8 +33542,14 @@
     "沙滩的秋千": [
       "1684"
     ],
+    "沙滩派对套装": [
+      "1996"
+    ],
     "沙滩躺椅和小桌子": [
       "1747"
+    ],
+    "沙浴大池": [
+      "1998"
     ],
     "闪闪发光的圣诞树": [
       "823"
@@ -34088,6 +34262,9 @@
     "樱花花瓶桌子": [
       "759"
     ],
+    "樱花树和长椅": [
+      "1997"
+    ],
     "游戏机收纳柜": [
       "1006"
     ],
@@ -34397,6 +34574,9 @@
     "紫色街机": [
       "914"
     ],
+    "紫外线避难处": [
+      "1995"
+    ],
     "自动出入口 样式1": [
       "1854"
     ],
@@ -34633,8 +34813,14 @@
     "贝壳": [
       "1330"
     ],
+    "貝壳": [
+      "2001"
+    ],
     "备用手柄": [
       "1914"
+    ],
+    "被冲上岸的塑料瓶": [
+      "2000"
     ],
     "笨拙的手工巧克力": [
       "11"
@@ -35483,6 +35669,9 @@
     "门禁代码-中央区": [
       "1316"
     ],
+    "梦之沙": [
+      "1999"
+    ],
     "弥撒巾": [
       "211"
     ],
@@ -35581,6 +35770,9 @@
     ],
     "柠檬": [
       "1340"
+    ],
+    "女王之星": [
+      "2003"
     ],
     "暖暖贴设计图": [
       "528"
@@ -35962,6 +36154,9 @@
     ],
     "十字架项圈设计图": [
       "542"
+    ],
+    "石块": [
+      "2002"
     ],
     "时雨·特制苦酒": [
       "49"
@@ -38766,6 +38961,9 @@
     "派对饮料台": [
       "1308"
     ],
+    "佩剑架": [
+      "1994"
+    ],
     "佩洛洛斯拉(室内战)白金奖杯": [
       "867"
     ],
@@ -39063,8 +39261,14 @@
     "沙滩的秋千": [
       "1684"
     ],
+    "沙滩派对套装": [
+      "1996"
+    ],
     "沙滩躺椅和小桌子": [
       "1747"
+    ],
+    "沙浴大池": [
+      "1998"
     ],
     "闪闪发光的圣诞树": [
       "823"
@@ -39777,6 +39981,9 @@
     "樱花花瓶桌子": [
       "759"
     ],
+    "樱花树和长椅": [
+      "1997"
+    ],
     "游戏机收纳柜": [
       "1006"
     ],
@@ -40085,6 +40292,9 @@
     ],
     "紫色街机": [
       "914"
+    ],
+    "紫外线避难处": [
+      "1995"
     ],
     "自动出入口样式1": [
       "1854"

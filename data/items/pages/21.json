@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1392,
+        "name": "格赫娜宴会系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/9fBlKeBf0d6YH1Y6juiNHeots5Qc5vl6.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个格赫娜宴会系列家具的抽选箱。"
+      },
+      {
+        "id": 582,
+        "name": "铬弹簧",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/o1FGmD6xBLPp5Qx7mkK9wME92m1g0a62.png",
+        "rarity": 3,
+        "description": "推进枪械的枪栓时使用的弹簧，由铬合金制成，坚固不会生锈。用于强化固有武器。  用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
+      },
       {
         "id": 586,
         "name": "铬金属击锤",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/BPFtiY2SFF31HsYuSGEtme1NjUXom3mj.png",
         "rarity": 4,
         "description": "使用时以相同的概率获得1个购物中心系列家具的抽选箱。"
-      },
-      {
-        "id": 1409,
-        "name": "购物中心系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/3HRzYaSSIAmlnkTbtqcukgNT1H2A2YRT.png",
-        "rarity": 4,
-        "description": "从购物中心系列家具中任意选择一个家具兑换的选择箱。"
-      },
-      {
-        "id": 448,
-        "name": "古代电池碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OdANY3APTFjC69PB45S0xNRLgs21lP3i.png",
-        "rarity": 1,
-        "description": "古代电池的破碎零件。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267211,
+  "time": 1785353155,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1031,
+        "name": "黄金色的布",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tew4bxjm2TdgfrKCAWyJIeUQQCcARyoD.png",
+        "rarity": 4,
+        "description": "黄金羊毛制成的高贵布料，它由从黄金羊毛中提取的线制成。用于制造和强化。"
+      },
+      {
+        "id": 1029,
+        "name": "黄金色的卷线",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ibUCAn3vBxVT8BYEPr63OoDXm6cB0Yv5.png",
+        "rarity": 2,
+        "description": "黄金色的羊毛制成的一束线，用于制造和强化"
+      },
       {
         "id": 1028,
         "name": "黄金色的线",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/KW6ahebD6xuxo6OR2EjTCcm2as6DFLQi.png",
         "rarity": 1,
         "description": "归纳阿比多斯高中战术核心的秘法笔记。 "
-      },
-      {
-        "id": 106,
-        "name": "基础技术笔记（阿里乌斯） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/xltt5QgdOT6uXn9Xhi6WUwEWQUD6tDvV.png",
-        "rarity": 1,
-        "description": "归纳阿里乌斯分校战术核心的秘法笔记。 "
-      },
-      {
-        "id": 69,
-        "name": "基础技术笔记（百鬼夜行） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/66CUI8qW1dI243c3Mf7rHY8EYzGCTSYW.png",
-        "rarity": 1,
-        "description": "归纳百鬼夜行学园战术核心的秘法笔记。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267216,
+  "time": 1785353160,
   "version": "1.0.0-beta.43"
 }

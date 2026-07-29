@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 463,
+        "name": "军事露营区系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/mAQTdP1rHCvalJEhlF0IQVEi9NINPQkN.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个军事露营区系列家具的抽选箱。"
+      },
+      {
+        "id": 1403,
+        "name": "军事露营区系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uD4ATBR9E9be67uKwo93QMCXsPjcuHKO.png",
+        "rarity": 4,
+        "description": "从军事露营区系列家具中任意选择一个家具兑换的选择箱。"
+      },
       {
         "id": 391,
         "name": "咖啡厅设备核心 LV1",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/uqg7LYaCH4l470oBRSrjbgyUHWFpaVAf.png",
         "rarity": 1,
         "description": "想送巧克力给老师的和香费尽千辛万苦才买到的可可果。一点都不甜，不过把它像茶一样泡来喝的话别有一番不错的风味。"
-      },
-      {
-        "id": 1584,
-        "name": "可可粒茶",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/mPMnjxS6A57cNjHiIA9JbIyHLTMLTJZu.png",
-        "rarity": 1,
-        "description": "妃咲活用茶道兴趣泡的可可粒茶。苦涩和醇香与浓厚的巧克力香气形成对比，令人印象深刻。"
-      },
-      {
-        "id": 100,
-        "name": "口粮D型",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/PdxqtF5je9Qvn1Q5TBkIAIeDCxOKbruf.png",
-        "rarity": 1,
-        "description": "混合燕麦及可可粉制成的军用巧克力。高热量，适合长时间执行任务时携带食用。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267223,
+  "time": 1785353166,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1373,
+        "name": "钢盔团总联合大会纪念币",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pp58XIqxe2LGbbKVMoQKag2w5ubnptnD.png",
+        "rarity": 1,
+        "description": "为纪念钢盔团总联合大会而发行的纪念币。能唤起人在海边的美好回忆。"
+      },
+      {
+        "id": 1586,
+        "name": "皋月的秘密配方巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/aIi8OCOCowXbRiAlx5YSYr1WtKlzaIXO.png",
+        "rarity": 1,
+        "description": "装有硬币型手工巧克力的高级盒子。好像是皋月为了提高和老师的亲密度而用秘密配方制作出来的。"
+      },
       {
         "id": 410,
         "name": "高纯度沃普赛克钢铁",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ZsQ27tONRlsHztL9riHs7aZylFkiUv9s.png",
         "rarity": 3,
         "description": "归纳阿里乌斯分校战术核心的秘法笔记。 "
-      },
-      {
-        "id": 72,
-        "name": "高级技术笔记（百鬼夜行） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/0TQMXGI7SeD4KBxtPc8Koqrv7TNrfXch.png",
-        "rarity": 3,
-        "description": "归纳百鬼夜行学园战术核心的秘法笔记。"
-      },
-      {
-        "id": 81,
-        "name": "高级技术笔记（格黑娜） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/T6ZV5d8s8DFRqBwTuokC9qBj46MVUsvr.png",
-        "rarity": 3,
-        "description": "归纳格黑娜学园战术核心的秘法笔记。 "
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267206,
+  "time": 1785353150,
   "version": "1.0.0-beta.43"
 }

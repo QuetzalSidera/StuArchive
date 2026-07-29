@@ -2,8 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 1638,
+        "name": "海兰德高级隔离带",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/lz4NK4WkUNRSzbBdKzBks2wwGgE7S1VD.png",
+        "rarity": 3,
+        "description": "为确保乘客安全设置的、看起来相当高级的隔离带。然而，据说它也常常被用来跳高和跳林波舞……。"
+      },
+      {
+        "id": 1627,
+        "name": "海兰德隔离带",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/y1lL81c5GDoN6NXhz26hymBvFxmlmW4E.png",
+        "rarity": 2,
+        "description": "用于维护队伍秩序和确保乘客安全的隔离带。不过，据说有很多人会无视它直接跨过去……"
+      },
+      {
+        "id": 1640,
+        "name": "海兰德拱形柱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/vSb6oKiRiOxkF91TYYUftXMckulM3XUd.png",
+        "rarity": 3,
+        "description": "可以在海兰德站内见到的柱子。从其优美的拱形造型中，能感受到传统韵味。"
+      },
+      {
+        "id": 1633,
+        "name": "海兰德广告展板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/SoslY40JUqSWF5osLaqsofhIxyUSuiPU.png",
+        "rarity": 2,
+        "description": "放于站内的广告展板。据说各车站的广告申请方式不尽相同。"
+      },
+      {
+        "id": 1621,
+        "name": "海兰德候车室长椅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/EcQqxD5J7U9O1v2BLhbkXIJaFA46GwFE.png",
+        "rarity": 2,
+        "description": "可供多人就坐的长椅。卧躺或者岔开腿坐，都很不文明！"
+      },
       {
         "id": 1631,
         "name": "海兰德列车墙面隔断A",
@@ -43,51 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/RmxoimnlJ1JZnDTMfLIbqF5QWtAm6cDk.png",
         "rarity": 3,
         "description": "引人注目的海兰德配色墙。兼具古典氛围与清爽感的色彩搭配独具特色。"
-      },
-      {
-        "id": 1651,
-        "name": "海兰德时钟塔",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/tHexTAPTpqVCofB32vtGhBmtAeMTlHRV.png",
-        "rarity": 4,
-        "description": "海兰德中央站的地标。知名的碰头地点。"
-      },
-      {
-        "id": 1641,
-        "name": "海兰德特等座座椅",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/iEXZoCIPrVbewTzSkoS7fU8fctUsSSXP.png",
-        "rarity": 3,
-        "description": "特等座的座椅。设计自不必多说，其仿佛能将人吸入般的舒适坐感也广受好评。"
-      },
-      {
-        "id": 1636,
-        "name": "海兰德铁道学园徽标",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/Qnyc8qvgPPWopn8Yy1WgXm5QZDlbe2xF.png",
-        "rarity": 2,
-        "description": "以海兰德校名为造型的墙面装饰。常常会因为不良学生们的恶作剧而缺字。"
-      },
-      {
-        "id": 1634,
-        "name": "海兰德铁道学园校徽",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/LHP5BzMKZ0sa2CPh02EXl3pu7J8yvbus.png",
-        "rarity": 2,
-        "description": "根据海兰德铁道学园校徽设计的墙面装饰。仅装饰于海兰德所管辖的车站。"
-      },
-      {
-        "id": 1654,
-        "name": "海兰德问询台",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/mADcwU4hsRmRUN5Rglll2sQUvehpp2UC.png",
-        "rarity": 4,
-        "description": "无人问询台。放有宣传册等物品。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267321,
+  "time": 1785353262,
   "version": "1.0.0-beta.43"
 }

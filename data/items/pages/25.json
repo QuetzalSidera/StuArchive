@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 192,
+    "max_page": 193,
     "item": [
+      {
+        "id": 42,
+        "name": "花样巧克力块",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/IcGOr0KhXLyzxhi4xs2YnUIierl1CFud.png",
+        "rarity": 1,
+        "description": "美游亲手制作的花样巧克力块。似乎是将补给品中的巧克力与采摘来的水果混合制成的。将每一块都细细品味过去吧。"
+      },
+      {
+        "id": 473,
+        "name": "化为粉末的大人的卡片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XvIMoCDBx0fMDtqgwohh4ufTIkZX4k8g.png",
+        "rarity": 4,
+        "description": "普雷纳帕特斯所持有的已经化为粉末的「大人的卡片」。这张卡片本来的样子现在只存留在某人的记忆之中。"
+      },
       {
         "id": 1321,
         "name": "化妆套装",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/SLNcGKJGs6fE3OQAPyrBAb7nY260gdEM.png",
         "rarity": 1,
         "description": "坏掉的黄金飞行器的碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1031,
-        "name": "黄金色的布",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/tew4bxjm2TdgfrKCAWyJIeUQQCcARyoD.png",
-        "rarity": 4,
-        "description": "黄金羊毛制成的高贵布料，它由从黄金羊毛中提取的线制成。用于制造和强化。"
-      },
-      {
-        "id": 1029,
-        "name": "黄金色的卷线",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ibUCAn3vBxVT8BYEPr63OoDXm6cB0Yv5.png",
-        "rarity": 2,
-        "description": "黄金色的羊毛制成的一束线，用于制造和强化"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785267215,
+  "time": 1785353159,
   "version": "1.0.0-beta.43"
 }

@@ -7,13 +7,13 @@
     "api_path": "/data/relations/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/"
   },
-  "generated_at": "2026-07-28T19:21:08Z",
+  "generated_at": "2026-07-29T19:13:32Z",
   "list_key": "relation",
   "id_key": "id",
-  "max_page": 15,
-  "synced_pages": 15,
-  "total_items": 150,
-  "details_synced": 150,
+  "max_page": 16,
+  "synced_pages": 16,
+  "total_items": 151,
+  "details_synced": 151,
   "details_enabled": true,
   "items": [
     {
@@ -1065,6 +1065,13 @@
       "name_cn": "",
       "image": "https://static.kivo.wiki/images/relation/sA7bXe71stQXUfbTrremwj8bC1QIPdVM.png",
       "description": ""
+    },
+    {
+      "id": 153,
+      "name": "三叉戟",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/TUNDUrk3hjykmGX4hTSrQTSih6pqFugv.jpg",
+      "description": ""
     }
   ],
   "pages": [
@@ -1172,6 +1179,13 @@
       "path": "relations/pages/15.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/pages/15.json",
       "item_count": 10
+    },
+    {
+      "page": 16,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/?page=16",
+      "path": "relations/pages/16.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/pages/16.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -2074,13 +2088,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/152",
       "path": "relations/152.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/152.json"
+    },
+    {
+      "id": 153,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/153",
+      "path": "relations/153.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/153.json"
     }
   ],
   "lookup": {
     "path": "relations/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/lookup.json",
-    "alias_count": 198,
-    "normalized_alias_count": 198,
-    "total_items": 150
+    "alias_count": 199,
+    "normalized_alias_count": 199,
+    "total_items": 151
   }
 }
