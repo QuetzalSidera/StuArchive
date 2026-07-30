@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-07-29T19:13:32Z",
+  "generated_at": "2026-07-30T19:23:44Z",
   "id": 611,
   "display_name": "元宫 千明（泳装）",
   "names": {
@@ -48,7 +48,7 @@
     "default": "格赫娜学园所属，「万魔殿」的议员兼书记。\n\n因为迎来了夏天，比平常还要无比兴奋。好像正在寻找可以在「周刊万魔殿」上刊登的内容。\n\n> 夏日！大海！可爱的书记！老师最中意的是哪一个呢？",
     "cn": "",
     "momo_talk_signature": "请务必阅读「周刊万魔殿」的夏季特刊！",
-    "more": "# 官方图集\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| ![chiaki_swimsuit_intro_jp](images/students/元宫%20千明/泳装/gallery/官方图集/chiaki_swimsuit.png =450x) | 暂无 | 暂无 | 暂无 |\n\n## SD动画\n| EX技能 | 咖啡厅触摸 | 家具互动 |\n| :---: | :---: | :---: |\n| ![](images/students/元宫%20千明/泳装/gallery/官方图集/chiaki_swimsuit.gif =x450)\n | 暂无 | 暂无 |"
+    "more": "# 官方图集\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| ![chiaki_swimsuit_intro_jp](images/students/元宫%20千明/泳装/gallery/官方图集/chiaki_swimsuit.png =450x) | 暂无 | 暂无 | 暂无 |\n\n## SD动画\n| EX技能 | 咖啡厅触摸 | 家具互动：[沙滩派对套装](https://kivo.wiki/data/item/1996) |\n| :---: | :---: | :---: |\n|![](images/students/元宫%20千明/泳装/gallery/官方图集/chiaki_swimsuit.gif =x450)| 暂无 | 暂无 |"
   },
   "profile": {
     "age": 16,
@@ -1039,7 +1039,23 @@
         }
       }
     ],
-    "furniture": []
+    "furniture": [
+      {
+        "id": 1996,
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/A75OiTWfkztsAJY4M1sOBshKJd2Lx9Nc.png",
+        "rarity": 4,
+        "name": "沙滩派对套装",
+        "description": "沙滩派对套装。看起来能让派对充满乐趣。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 350
+        },
+        "detail_path": "items/1996.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1996.json"
+      }
+    ]
   },
   "media": {
     "gallery": [
@@ -1703,8 +1719,8 @@
   "source": {
     "detail_path": "students/611.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/611.json",
-    "upstream_time": 1785352214,
-    "updated_at": 1785348168,
+    "upstream_time": 1785439645,
+    "updated_at": 1785382718,
     "created_at": 1785065812
   }
 }
