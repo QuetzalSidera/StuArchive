@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-07-30T19:23:44Z",
+  "generated_at": "2026-07-31T19:22:29Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 489,
-  "alias_count": 5675,
-  "normalized_alias_count": 3892,
+  "alias_count": 5676,
+  "normalized_alias_count": 3893,
   "by_id": {
     "76": {
       "id": 76,
@@ -11428,7 +11428,7 @@
         "family_name_jp": "",
         "given_name_jp": "ティファレト",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "提翡瑞",
         "avatar": "https://static.kivo.wiki/images/students/%20%E6%8F%90%E6%B3%95%E5%8B%92%E7%89%B9/original/Tiphareth_Avatar.png",
         "school": 21,
         "main_relation": 79
@@ -30050,6 +30050,9 @@
     "提法勒特": [
       "528"
     ],
+    "提翡瑞": [
+      "528"
+    ],
     "ティファレト": [
       "528"
     ],
@@ -42389,6 +42392,9 @@
       "336"
     ],
     "提法勒特": [
+      "528"
+    ],
+    "提翡瑞": [
       "528"
     ],
     "ティファレト": [
