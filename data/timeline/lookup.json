@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-01T19:05:47Z",
+  "generated_at": "2026-08-02T19:07:26Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5704,
-  "alias_count": 5673,
-  "normalized_alias_count": 5666,
+  "total_items": 5722,
+  "alias_count": 5691,
+  "normalized_alias_count": 5684,
   "by_id": {
     "5819": {
       "id": 5819,
@@ -301,6 +301,168 @@
       "detail_path": "timeline/5813.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5813.json"
     },
+    "5863": {
+      "id": 5863,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5863,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「We have a huge problem, Sensei. I am bored.」#3",
+        "image": "https://static.kivo.wiki/images/timeline/yYzCtYavaJO6UfPLwbcyAMCMpsu8ajPU.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 8/4 (Tue)! 💌Pick-Up St",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2083092801441423480",
+        "start_time": 1785823200,
+        "end_time": 1787018399
+      },
+      "detail_path": "timeline/5863.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5863.json"
+    },
+    "5862": {
+      "id": 5862,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5862,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Thank you. Here's to the future」&「I finally get to wear my school uniform! And it feels...nice! So now what should I do?」",
+        "image": "https://static.kivo.wiki/images/timeline/zyPG5etfICcoiVzdg8jYZwLNXCCVYFe2.jpg",
+        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 8/4 (Tue",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2083089025574052219",
+        "start_time": 1785823200,
+        "end_time": 1787018399
+      },
+      "detail_path": "timeline/5862.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5862.json"
+    },
+    "5861": {
+      "id": 5861,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5861,
+        "line_type": "Globle",
+        "title": "国际服卡池「What do you say to a short student-teacher getaway? I'm joking.」",
+        "image": "https://static.kivo.wiki/images/timeline/0gn2whxCR3ME2kucJB2bGpm2zPNdLPut.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 8/4 (Tue)! 💌Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2083085254328230064",
+        "start_time": 1785823200,
+        "end_time": 1787018399
+      },
+      "detail_path": "timeline/5861.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5861.json"
+    },
+    "5860": {
+      "id": 5860,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5860,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习#50",
+        "image": "https://static.kivo.wiki/images/timeline/qbjg1qugKAGelcnwYIzEj1VLWKp7aQfj.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Breakthrough Drill) will start on 8/4 (Tue)! ➡️",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2082360479784243422",
+        "start_time": 1785823200,
+        "end_time": 1786388399
+      },
+      "detail_path": "timeline/5860.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5860.json"
+    },
+    "5864": {
+      "id": 5864,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5864,
+        "line_type": "Globle",
+        "title": "国际服例行维护#116",
+        "image": "https://static.kivo.wiki/images/timeline/vcz3R7nAAz6SevkZTViQEy3bO99s43ZB.jpg",
+        "body_summary": "[8/4 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/4 (Tue). 🗓️Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2083116708441842005",
+        "start_time": 1785808800,
+        "end_time": 1785823200
+      },
+      "detail_path": "timeline/5864.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5864.json"
+    },
+    "5866": {
+      "id": 5866,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5866,
+        "line_type": "Globle",
+        "title": "国际服学院交流会2倍 #41",
+        "image": "https://static.kivo.wiki/images/timeline/cxTxb7Tp9J8y2WnjGPliowioKePkFFVk.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 8/3 (Mon), Scrimmage reward will be doubled! Don't miss out ",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2083451413053743415",
+        "start_time": 1785783600,
+        "end_time": 1786388399
+      },
+      "detail_path": "timeline/5866.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5866.json"
+    },
+    "5865": {
+      "id": 5865,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5865,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍 #42",
+        "image": "https://static.kivo.wiki/images/timeline/lp6idyOKTif2EuxM7OVslzCA7651XvEV.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 8/3 (Mon), Lesson reward will be doubled! Don't miss out on ",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2083447644764922098",
+        "start_time": 1785783600,
+        "end_time": 1786388399
+      },
+      "detail_path": "timeline/5865.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5865.json"
+    },
+    "5872": {
+      "id": 5872,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5872,
+        "line_type": "CN",
+        "title": "【什亭之“响”】全速剧透",
+        "image": "https://static.kivo.wiki/images/timeline/ia4Cglkux4cHH8lMPNa2XCo9ZWFA4FV5.png",
+        "body_summary": "深夜来电疑似偷跑？三周年主题曲竟被光当场“开嗓剧透”！",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV1hx3s6QEE3/?spm_id_from=333.1365.list.card_archive.click&vd_source=7eab64558d68279a75b866e5f15d9b2e",
+        "start_time": 1785679383,
+        "end_time": 1785679383
+      },
+      "detail_path": "timeline/5872.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5872.json"
+    },
+    "5869": {
+      "id": 5869,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5869,
+        "line_type": "CN",
+        "title": "炸服#23（【账号经验值】2倍活动未按时正常开启）",
+        "image": "https://static.kivo.wiki/images/timeline/DbDaQCQY3WIjHieuRRuW2HlQBnQc7QWO.gif",
+        "body_summary": "“欢迎连接什亭之箱，老师。” 我们收到部分老师发来关于【账号经验值】2倍活动未按时正常开启的反馈，并开展了相关问题的核实工作。 经讨论，后续的处理方案如下： 1、【账号经验值2倍】活动时间调整 调整本",
+        "type": "Maintenance",
+        "url": "www.bilibili.com/opus/1231463038992777267?spm_id_from=333.1365.0.0",
+        "start_time": 1785592050,
+        "end_time": 1785592050
+      },
+      "detail_path": "timeline/5869.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5869.json"
+    },
     "5820": {
       "id": 5820,
       "source_path": "timeline/index.json",
@@ -319,6 +481,42 @@
       "detail_path": "timeline/5820.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5820.json"
     },
+    "5875": {
+      "id": 5875,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5875,
+        "line_type": "JP",
+        "title": "学生生日日历-2026年8月",
+        "image": "https://static.kivo.wiki/images/timeline/3IZexQFBizj8mR2LCFLSfwcEBq1j5XsX.png",
+        "body_summary": "【カレンダー】 先生、2026年8月の誕生日カレンダーをご用意しました！ ぜひお役立てください。 今年の夏もやはり暑いですね💦 こうも暑いと何もしたくなくなってしまいそうですが、先生はいかがですか？ ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2082707873650610474",
+        "start_time": 1785513600,
+        "end_time": 1785513600
+      },
+      "detail_path": "timeline/5875.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5875.json"
+    },
+    "5870": {
+      "id": 5870,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5870,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》x 模玩熊 夏日出行系列PV：莉音篇",
+        "image": "https://static.kivo.wiki/images/timeline/VskqkkF3fdDTzuGoVWXOnje8H9OVWqXE.png",
+        "body_summary": "千禧年夏日，美妙约会悄然开启 2026年7月30日至2026年8月16日，上海五角场百联ZX造趣B1，不见不散哦！",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV15bGA6PEsh/?spm_id_from=333.1365.list.card_archive.click&vd_source=7eab64558d68279a75b866e5f15d9b2e",
+        "start_time": 1785505836,
+        "end_time": 1785505836
+      },
+      "detail_path": "timeline/5870.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5870.json"
+    },
     "5848": {
       "id": 5848,
       "source_path": "timeline/index.json",
@@ -336,6 +534,60 @@
       },
       "detail_path": "timeline/5848.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5848.json"
+    },
+    "5871": {
+      "id": 5871,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5871,
+        "line_type": "CN",
+        "title": "【凯撒集团出品】全新故事集《小孩子才做选择》",
+        "image": "https://static.kivo.wiki/images/timeline/fHT4ai1zlkXSTx79wOlFVxniywFpmUmH.png",
+        "body_summary": "抉择的又一页，成长的新坐标。儿童价值导向实验计划现已开启。 凯撒集团致力于将认知建构融入教育场景，用情境模拟校准判断，用行为数据描摹人性边界。通过电车难题等伦理实验，我们持续记录儿童在责任、共情与服从",
+        "type": "OutsideGames",
+        "url": "t.bilibili.com/1230703985127587841?spm_id_from=333.1365.0.0",
+        "start_time": 1785419554,
+        "end_time": 1785419554
+      },
+      "detail_path": "timeline/5871.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5871.json"
+    },
+    "5868": {
+      "id": 5868,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5868,
+        "line_type": "CN",
+        "title": "例行维护#62",
+        "image": "https://static.kivo.wiki/images/timeline/92sdVMub1HVEbSET7DwhAu4js9lbhfrQ.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月30日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "www.bilibili.com/opus/1230425684167360518?spm_id_from=333.1365.0.0",
+        "start_time": 1785419017,
+        "end_time": 1785419017
+      },
+      "detail_path": "timeline/5868.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5868.json"
+    },
+    "5867": {
+      "id": 5867,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5867,
+        "line_type": "CN",
+        "title": "【海兰德列车】咖啡厅套装更新",
+        "image": "https://static.kivo.wiki/images/timeline/nZJqmPE7qAtaf7YwnFYd5pTMVTryBviV.jpg",
+        "body_summary": "全新咖啡厅套装【海兰德列车】即将更新！ 新家具总计39种，其中部分可通过【制造】、【家具自选箱】等方式获取！ ■ 套装更新时间 07月30日 维护结束后 ※【海兰德列车】家具套装具体信息可通过游戏内公",
+        "type": "ContentImprovements",
+        "url": "/www.bilibili.com/opus/1230394745376735240?spm_id_from=333.1365.0.0",
+        "start_time": 1785418946,
+        "end_time": 1785418946
+      },
+      "detail_path": "timeline/5867.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5867.json"
     },
     "5857": {
       "id": 5857,
@@ -751,6 +1003,60 @@
       "detail_path": "timeline/5806.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5806.json"
     },
+    "5874": {
+      "id": 5874,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5874,
+        "line_type": "JP",
+        "title": "违规账号封禁 #58",
+        "image": "https://static.kivo.wiki/images/timeline/kxVinN5Z8OdKdpE0jdG6F4pHgxnbgu2y.png",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2082436058365751517",
+        "start_time": 1785326400,
+        "end_time": 1785326400
+      },
+      "detail_path": "timeline/5874.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5874.json"
+    },
+    "5859": {
+      "id": 5859,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5859,
+        "line_type": "Globle",
+        "title": "国际服推特帖小活动[The search for something SUPER IMPORTANT!] #5",
+        "image": "https://static.kivo.wiki/images/timeline/D0YfLlxl4cwsWrP61DCtl3WdvD8RYEzs.jpg",
+        "body_summary": "[The search for something SUPER IMPORTANT! -FIN-] Sensei, so you couldn’t remember what that SUPER I",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2082330276638679451",
+        "start_time": 1785301200,
+        "end_time": 1785301200
+      },
+      "detail_path": "timeline/5859.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5859.json"
+    },
+    "5873": {
+      "id": 5873,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5873,
+        "line_type": "JP",
+        "title": "例行维护#147",
+        "image": "https://static.kivo.wiki/images/timeline/pUWktlzTZz7SaSNVo6vE4SvjcZB4XVnl.png",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年7月29日(水) 11:00 〜 19:00前後 ▼詳細 ht",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2081983149702312188",
+        "start_time": 1785294000,
+        "end_time": 1785322800
+      },
+      "detail_path": "timeline/5873.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5873.json"
+    },
     "5812": {
       "id": 5812,
       "source_path": "timeline/index.json",
@@ -768,6 +1074,24 @@
       },
       "detail_path": "timeline/5812.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5812.json"
+    },
+    "5858": {
+      "id": 5858,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5858,
+        "line_type": "Globle",
+        "title": "国际服总力战 Goz (Field) #2",
+        "image": "https://static.kivo.wiki/images/timeline/OxbSbSbSuBPFm16o7vpftGQ9XVWvePY3.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Goz (Field Warfare) has opened 7/28 (Tue) 2:00 AM (U",
+        "type": "Raid",
+        "url": "x.com/EN_BlueArchive/status/2081998090723340377",
+        "start_time": 1785204000,
+        "end_time": 1785783599
+      },
+      "detail_path": "timeline/5858.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5858.json"
     },
     "5794": {
       "id": 5794,
@@ -102735,11 +103059,53 @@
     "任务normal3倍#18": [
       "5813"
     ],
+    "国际服卡池复刻「We have a huge problem, Sensei. I am bored.」#3": [
+      "5863"
+    ],
+    "国际服卡池复刻「Thank you. Here's to the future」&「I finally get to wear my school uniform! And it feels...nice! So now what should I do?」": [
+      "5862"
+    ],
+    "国际服卡池「What do you say to a short student-teacher getaway? I'm joking.」": [
+      "5861"
+    ],
+    "国际服联合火力演习#50": [
+      "5860"
+    ],
+    "国际服例行维护#116": [
+      "5864"
+    ],
+    "国际服学院交流会2倍 #41": [
+      "5866"
+    ],
+    "国际服课程表2倍 #42": [
+      "5865"
+    ],
+    "【什亭之“响”】全速剧透": [
+      "5872"
+    ],
+    "炸服#23(【账号经验值】2倍活动未按时正常开启)": [
+      "5869"
+    ],
     "老师经验2倍集中通知 26-08-01": [
       "5820"
     ],
+    "学生生日日历-2026年8月": [
+      "5875"
+    ],
+    "《蔚蓝档案》x 模玩熊 夏日出行系列PV:莉音篇": [
+      "5870"
+    ],
     "【无限制决战:提翡瑞 • 弹力装甲】": [
       "5848"
+    ],
+    "【凯撒集团出品】全新故事集《小孩子才做选择》": [
+      "5871"
+    ],
+    "例行维护#62": [
+      "5868"
+    ],
+    "【海兰德列车】咖啡厅套装更新": [
+      "5867"
     ],
     "【神名十文字篇】第2章Part3(23~31话)更新": [
       "5857"
@@ -102810,8 +103176,20 @@
     "100次免费招募#9": [
       "5806"
     ],
+    "违规账号封禁 #58": [
+      "5874"
+    ],
+    "国际服推特帖小活动[The search for something SUPER IMPORTANT!] #5": [
+      "5859"
+    ],
+    "例行维护#147": [
+      "5873"
+    ],
     "指名手配3倍#20 & 学院交流会3倍#16": [
       "5812"
+    ],
+    "国际服总力战 Goz (Field) #2": [
+      "5858"
     ],
     "国际服任务Normal2倍 #50": [
       "5794"
@@ -119787,11 +120165,53 @@
     "任务normal3倍#18": [
       "5813"
     ],
+    "国际服卡池复刻「wehaveahugeproblem,sensei.iambored.」#3": [
+      "5863"
+    ],
+    "国际服卡池复刻「thankyou.here'stothefuture」&「ifinallygettowearmyschooluniform!anditfeels...nice!sonowwhatshouldido?」": [
+      "5862"
+    ],
+    "国际服卡池「whatdoyousaytoashortstudent-teachergetaway?i'mjoking.」": [
+      "5861"
+    ],
+    "国际服联合火力演习#50": [
+      "5860"
+    ],
+    "国际服例行维护#116": [
+      "5864"
+    ],
+    "国际服学院交流会2倍#41": [
+      "5866"
+    ],
+    "国际服课程表2倍#42": [
+      "5865"
+    ],
+    "【什亭之“响”】全速剧透": [
+      "5872"
+    ],
+    "炸服#23(【账号经验值】2倍活动未按时正常开启)": [
+      "5869"
+    ],
     "老师经验2倍集中通知26-08-01": [
       "5820"
     ],
+    "学生生日日历-2026年8月": [
+      "5875"
+    ],
+    "《蔚蓝档案》x模玩熊夏日出行系列pv:莉音篇": [
+      "5870"
+    ],
     "【无限制决战:提翡瑞•弹力装甲】": [
       "5848"
+    ],
+    "【凯撒集团出品】全新故事集《小孩子才做选择》": [
+      "5871"
+    ],
+    "例行维护#62": [
+      "5868"
+    ],
+    "【海兰德列车】咖啡厅套装更新": [
+      "5867"
     ],
     "【神名十文字篇】第2章part3(23~31话)更新": [
       "5857"
@@ -119862,8 +120282,20 @@
     "100次免费招募#9": [
       "5806"
     ],
+    "违规账号封禁#58": [
+      "5874"
+    ],
+    "国际服推特帖小活动[thesearchforsomethingsuperimportant!]#5": [
+      "5859"
+    ],
+    "例行维护#147": [
+      "5873"
+    ],
     "指名手配3倍#20&学院交流会3倍#16": [
       "5812"
+    ],
+    "国际服总力战goz(field)#2": [
+      "5858"
     ],
     "国际服任务normal2倍#50": [
       "5794"
