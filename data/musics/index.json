@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-08-02T19:07:26Z",
+  "generated_at": "2026-08-03T19:27:53Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 99,
   "synced_pages": 99,
-  "total_items": 981,
-  "details_synced": 981,
+  "total_items": 984,
+  "details_synced": 984,
   "details_enabled": true,
   "items": [
     {
@@ -8768,7 +8768,7 @@
       "id": 992,
       "title": "Theme_349",
       "cover": "https://static.kivo.wiki/images/music/cover/6WmGfxKypJo8GKC6GYMfufNIxqkwIyOb.jpg",
-      "author": "",
+      "author": "Mitsukiyo",
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_349"
@@ -8844,6 +8844,33 @@
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_370"
+    },
+    {
+      "id": 1001,
+      "title": "Remember Again (Game Ver.)",
+      "cover": "https://static.kivo.wiki/images/music/cover/3hYlLKdHsvl9TfNm2Tfi6txg7mL3D0wq.jpg",
+      "author": "イロハ(CV:福圆美里) / STUDIOALOH",
+      "album": "游戏内曲目",
+      "use": "活动「启航！万魔船 真琴议长的华丽避暑」ED",
+      "original_file_name": "10055_ED_Sound"
+    },
+    {
+      "id": 1002,
+      "title": "全速向光",
+      "cover": "https://static.kivo.wiki/images/music/cover/BIyEpaz0dvyzVQOFz1wHp3XJXYfiZfKk.webp",
+      "author": "橘光 (CV: 江雨轩) / 橘望 (CV: 名前桑)",
+      "album": "全速向光",
+      "use": "专辑曲目",
+      "original_file_name": ""
+    },
+    {
+      "id": 1003,
+      "title": "全速向光 (伴奏)",
+      "cover": "https://static.kivo.wiki/images/music/cover/xqPm1AIEQTtoKqzMagQ92DGTeFUFBKLi.webp",
+      "author": "橘光 (CV: 江雨轩) / 橘望 (CV: 名前桑)",
+      "album": "全速向光",
+      "use": "专辑曲目",
+      "original_file_name": ""
     }
   ],
   "pages": [
@@ -9538,7 +9565,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=99",
       "path": "musics/pages/99.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/99.json",
-      "item_count": 1
+      "item_count": 4
     }
   ],
   "details": [
@@ -15427,13 +15454,31 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1000",
       "path": "musics/1000.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1000.json"
+    },
+    {
+      "id": 1001,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1001",
+      "path": "musics/1001.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1001.json"
+    },
+    {
+      "id": 1002,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1002",
+      "path": "musics/1002.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1002.json"
+    },
+    {
+      "id": 1003,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1003",
+      "path": "musics/1003.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1003.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1290,
-    "normalized_alias_count": 1290,
-    "total_items": 981
+    "alias_count": 1294,
+    "normalized_alias_count": 1294,
+    "total_items": 984
   }
 }
