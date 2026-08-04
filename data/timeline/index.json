@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-08-03T19:27:53Z",
+  "generated_at": "2026-08-04T19:35:26Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 573,
   "synced_pages": 573,
-  "total_items": 5722,
+  "total_items": 5723,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -1053,7 +1053,7 @@
     {
       "id": 5795,
       "line_type": "Globle",
-      "title": "国际服活动常驻化[Cyber New Year March]",
+      "title": "国际服活动常驻化「Cyber New Year March」",
       "image": "https://static.kivo.wiki/images/timeline/rxN1tDj6L7CEoKN8VVARwbKIEfjX74Vp.jpg",
       "body_summary": "[Immortalized Event Notice] The Event Story \"Cyber New Year March\" has been immortalized today, so y",
       "type": "Event",
@@ -1062,13 +1062,24 @@
       "end_time": 1784627374
     },
     {
+      "id": 5876,
+      "line_type": "Globle",
+      "title": "国际服和纱，绮良良，明日奈，萌绘爱用品更新",
+      "image": "https://static.kivo.wiki/images/timeline/jUmb0TPRYXGMVDuWhL8hCTYj1ZJRzgDU.jpg",
+      "body_summary": "- Unique Items will be added for Kazusa, Kirara,Asuna, and Moe.Equip a student's Unique Item to rais",
+      "type": "ContentImprovements",
+      "url": "x.com/EN_BlueArchive/status/2076925187178864688",
+      "start_time": 1784599200,
+      "end_time": 1784599200
+    },
+    {
       "id": 5797,
       "line_type": "Globle",
-      "title": "国际服活动 [Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature]",
+      "title": "国际服活动 「Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature」",
       "image": "https://static.kivo.wiki/images/timeline/ON5p3ZaDU2GncEEG9XCX2DZgHeb3AskT.jpg",
-      "body_summary": "Event Period: 7/21 (Tue) 2:00 AM – 8/4 (Tue) 1:59 AM (UTC) Shop and Event Reward Claim and Exchange ",
+      "body_summary": "🔹 Event PeriodEvent Period: 7/21 (Tue) After Maintenance – 8/4 (Tue) 1:59 AM (UTC)Shop, Prize Exchan",
       "type": "Event",
-      "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+      "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3501827",
       "start_time": 1784599200,
       "end_time": 1785808799
     },
@@ -66969,15 +66980,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=573",
       "path": "timeline/pages/573.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/573.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5691,
-    "normalized_alias_count": 5684,
-    "total_items": 5722
+    "alias_count": 5692,
+    "normalized_alias_count": 5685,
+    "total_items": 5723
   }
 }

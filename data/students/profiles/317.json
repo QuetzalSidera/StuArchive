@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-03T19:27:53Z",
+  "generated_at": "2026-08-04T19:35:26Z",
   "id": 317,
   "display_name": "佐天 泪子",
   "names": {
@@ -131,22 +131,22 @@
     },
     "basic": [
       {
-        "max_hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "healing": 0,
-        "accuracy": 0,
-        "evasion": 0,
-        "crit": 0,
-        "crit_res": 0,
-        "crit_dmg": 0,
-        "crit_dmg_res": 0,
-        "stability": 0,
-        "range": 0,
-        "cc_power": 0,
-        "cc_res": 0,
-        "recovery_boost": 0,
-        "mag_count": 0
+        "max_hp": 3078,
+        "attack": 233,
+        "defense": 102,
+        "healing": 1633,
+        "accuracy": 659,
+        "evasion": 1182,
+        "crit": 253,
+        "crit_res": 100,
+        "crit_dmg": 2,
+        "crit_dmg_res": 0.5,
+        "stability": 1582,
+        "range": 1500,
+        "cc_power": 100,
+        "cc_res": 100,
+        "recovery_boost": 1,
+        "mag_count": 5
       }
     ],
     "skills": {
@@ -1863,8 +1863,8 @@
   "source": {
     "detail_path": "students/317.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/317.json",
-    "upstream_time": 1785785861,
-    "updated_at": 1783752948,
+    "upstream_time": 1785872711,
+    "updated_at": 1785851679,
     "created_at": 1697812832
   }
 }

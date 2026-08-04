@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1391,
+        "line_type": "Globle",
+        "title": "国际服例行维护37",
+        "image": "",
+        "body_summary": "[4/25 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 4/25 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1649352286957608962",
+        "start_time": 1682388026,
+        "end_time": 1682406026
+      },
       {
         "id": 1392,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1648522187463356418?s=20",
         "start_time": 1682050991,
         "end_time": 1682482991
-      },
-      {
-        "id": 659,
-        "line_type": "JP",
-        "title": "炸服27",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 現在接続不具合が確認されたため、臨時メンテナンスを実施いたします。 メンテナンスの終了時間などの詳細は、進捗があり次第改めてご案内いたします。 ご利用の先生方にはご迷惑をお掛けし",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1648630352217522176?s=20",
-        "start_time": 1681878239,
-        "end_time": 1682051039
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793071,
+  "time": 1785879902,
   "version": "1.0.0-beta.43"
 }

@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 62,
+        "line_type": "JP",
+        "title": "総力戦BETA严重bug",
+        "image": "",
+        "body_summary": "【総力戦について・追記1/2】 現在、総力戦で強制終了やアプリ落ちが発生する事象につきまして、総力戦に挑戦される前にアプリを一度閉じて再起動をした後に入場することで改善される可能性がございます。 #ブ",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1361276111636762626",
+        "start_time": 1613383263,
+        "end_time": 1613383263
+      },
       {
         "id": 61,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1359351402762391552",
         "start_time": 1613023200,
         "end_time": 1614232799
-      },
-      {
-        "id": 30,
-        "line_type": "JP",
-        "title": "炸服5",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 サーバー安定性向上のため、下記の時間に臨時メンテナンスを行います。 ご理解、ご協力のほどよろしくお願いいたします。 ▼実施日時 2021年2月10日(水) 03:00 〜 05:",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1359034384578322432",
-        "start_time": 1612897200,
-        "end_time": 1612904400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793204,
+  "time": 1785880033,
   "version": "1.0.0-beta.43"
 }

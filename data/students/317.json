@@ -835,22 +835,22 @@
         },
         "basic": [
           {
-            "max_hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "healing": 0,
-            "accuracy": 0,
-            "evasion": 0,
-            "crit": 0,
-            "crit_res": 0,
-            "crit_dmg": 0,
-            "crit_dmg_res": 0,
-            "stability": 0,
-            "range": 0,
-            "cc_power": 0,
-            "cc_res": 0,
-            "recovery_boost": 0,
-            "mag_count": 0
+            "max_hp": 3078,
+            "attack": 233,
+            "defense": 102,
+            "healing": 1633,
+            "accuracy": 659,
+            "evasion": 1182,
+            "crit": 253,
+            "crit_res": 100,
+            "crit_dmg": 2,
+            "crit_dmg_res": 0.5,
+            "stability": 1582,
+            "range": 1500,
+            "cc_power": 100,
+            "cc_res": 100,
+            "recovery_boost": 1,
+            "mag_count": 5
           }
         ],
         "weapons": {
@@ -946,10 +946,10 @@
     "supplementary_uuid": "799470f1-55ba-4f98-895f-f13dc2a71931",
     "supplementary_declare_uuid": "a02c2be1-eafc-40f7-b8b4-26fdbc247beb",
     "created_at": 1697812832,
-    "updated_at": 1783752948
+    "updated_at": 1785851679
   },
   "message": "OK",
   "success": true,
-  "time": 1785785861,
+  "time": 1785872711,
   "version": "1.0.0-beta.43"
 }

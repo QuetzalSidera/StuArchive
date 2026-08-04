@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 179,
+        "line_type": "JP",
+        "title": "卡池「閃きよ、この世界を照らして」",
+        "image": "https://static.kivo.wiki/images/timeline/MgNtAEbszulimpaItw3Cvr2WWYkDsjAC.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「閃きよ、この世界を照らして」がまもなく開催されます！ 🔷ピックアップ生徒 ヒビキ (CV:#名塚佳織) 🔷詳細 https://bluearchive.j",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1440541637617209357",
+        "start_time": 1632391200,
+        "end_time": 1632888000
+      },
       {
         "id": 176,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1434804085962641415",
         "start_time": 1631181600,
         "end_time": 1631721599
-      },
-      {
-        "id": 173,
-        "line_type": "JP",
-        "title": "例行维护23",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 9/9(木) 12:00 〜 18:00前後 ▼詳細 https://bluearch",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1435792602444427271",
-        "start_time": 1631160000,
-        "end_time": 1631181600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793185,
+  "time": 1785880014,
   "version": "1.0.0-beta.43"
 }

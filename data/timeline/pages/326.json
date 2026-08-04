@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2486,
+        "line_type": "JP",
+        "title": "炸服36（提前结束）",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 不具合修正のため、下記の時間にて臨時メンテナンスを行います。 また、メンテナンス中はゲームをご利用することができませんので、ご協力をお願いします。 ▼実施日時 4/27(土) 1",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1783768003743805838",
+        "start_time": 1714186800,
+        "end_time": 1714206900
+      },
       {
         "id": 2467,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1781629814497304971",
         "start_time": 1713953560,
         "end_time": 1713953560
-      },
-      {
-        "id": 2463,
-        "line_type": "JP",
-        "title": "活动「-ive aLIVE!」",
-        "image": "https://static.kivo.wiki/images/timeline/OSyJnsFRaGqUNLAJyxGNV67n7VUKIvox.jpg",
-        "body_summary": "【新情報 ②】 4月24日(水)メンテナンス後、新イベント「-ive aLIVE!」が開催されます。 今回のイベントでは、生徒アイリ（バンド）さんがイベント報酬としてのお迎えが可能です。 詳しい遊び方",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1781622171217138167",
-        "start_time": 1713952853,
-        "end_time": 1715137193
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785792932,
+  "time": 1785879763,
   "version": "1.0.0-beta.43"
 }

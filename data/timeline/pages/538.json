@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 236,
+        "line_type": "JP",
+        "title": "例行维护32",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/29(水) 12:00 〜 20:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1475708163660083206",
+        "start_time": 1640750400,
+        "end_time": 1640779200
+      },
       {
         "id": 888,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1474303837666254848",
         "start_time": 1640347200,
         "end_time": 1640349300
-      },
-      {
-        "id": 230,
-        "line_type": "JP",
-        "title": "任务Normal2倍#9",
-        "image": "https://static.kivo.wiki/images/timeline/O0cbfYjNdD3jeBUQne7uRNbBn26aoVbm.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ この機会に生徒さんの装備や、装備の設計図をたくさん集めてみてはいかがですか？ ▼開催期間 1",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1472054279704027136",
-        "start_time": 1640116800,
-        "end_time": 1640462399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793169,
+  "time": 1785879999,
   "version": "1.0.0-beta.43"
 }

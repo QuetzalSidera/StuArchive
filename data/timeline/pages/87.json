@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4958,
+        "line_type": "Globle",
+        "title": "新Twitch频道开通",
+        "image": "https://static.kivo.wiki/images/timeline/5FH2zVbrEDuJKYg2zGzenKPnlZraRITr.jpg",
+        "body_summary": "Attention, Sensei! We've opened up a brand new Twitch channel for special Blue Archive streams! Join",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2011740601264508963",
+        "start_time": 1768444600,
+        "end_time": 1768444600
+      },
       {
         "id": 5285,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2010909679589671163",
         "start_time": 1768273607,
         "end_time": 1768273607
-      },
-      {
-        "id": 4923,
-        "line_type": "Globle",
-        "title": "国际服例行维护#101",
-        "image": "https://static.kivo.wiki/images/timeline/DzODD7G9MpIQSc4izFQN35J2i9FSoTKX.jpg",
-        "body_summary": "[1/13 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 1/13 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2009550723214684517",
-        "start_time": 1768269600,
-        "end_time": 1768287600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785792664,
+  "time": 1785879497,
   "version": "1.0.0-beta.43"
 }

@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1132,
+        "line_type": "Globle",
+        "title": "国际服签到活动「Schale's Hot Springs Materials Daily Supply」",
+        "image": "https://static.kivo.wiki/images/timeline/4GPa4W4gY6FzSC0umyRU7C04XoVV4x1U.jpg",
+        "body_summary": "[Schale's Hot Springs Materials Daily Supply] Schale's Daily supplies will be sent from 03:00 AM (UT",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1541982285632745473",
+        "start_time": 1656442854,
+        "end_time": 1657479594
+      },
       {
         "id": 1128,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1539805612539666432",
         "start_time": 1655895600,
         "end_time": 1655895600
-      },
-      {
-        "id": 372,
-        "line_type": "JP",
-        "title": "铃美 记忆大厅追加",
-        "image": "https://static.kivo.wiki/images/timeline/2HYKVaIL67nRxc8bujyJwbxbNRVb5YAZ.jpg",
-        "body_summary": "【メモリアルロビー】 6/22(水)のアップデートにて、スズミさんのメモリアルロビーが追加されました！ ぜひ、絆シナリオを体験してスズミさんとの楽しい思い出を増やしてください♪ #ブルアカ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1539518680513781760",
-        "start_time": 1655895600,
-        "end_time": 1655895600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793136,
+  "time": 1785879966,
   "version": "1.0.0-beta.43"
 }

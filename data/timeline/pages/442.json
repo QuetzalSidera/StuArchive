@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 688,
+        "line_type": "JP",
+        "title": "网页小游戏：掘地求升",
+        "image": "https://static.kivo.wiki/images/timeline/dwMMjK6hFCF8Z5bzSFUQUWH2c4J80Dwk.jpg",
+        "body_summary": "【#激登_SRT式登頂訓練 】 目を覚ますと、そこは謎の山だった―― 先生、なんとRABBIT小隊員の皆さんが主役を務めるミニゲームが公開されました！ プレイ報酬も用意されているようで、困っている小隊",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1667124735879290880",
+        "start_time": 1686312000,
+        "end_time": 1693483200
+      },
       {
         "id": 687,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1665903836102361088",
         "start_time": 1686034810,
         "end_time": 1686034810
-      },
-      {
-        "id": 1435,
-        "line_type": "Globle",
-        "title": "国际服总力战 Chesed (Indoor) 3",
-        "image": "https://static.kivo.wiki/images/timeline/MEnQd4SiRCvW0eH3FPkEkoOJDRvvbQFW.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Chesed (Indoor Warfare) has opened at 2:00 on 6/6 (T",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1665901326218190848",
-        "start_time": 1686016844,
-        "end_time": 1686596384
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793061,
+  "time": 1785879892,
   "version": "1.0.0-beta.43"
 }

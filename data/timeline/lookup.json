@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-03T19:27:53Z",
+  "generated_at": "2026-08-04T19:35:26Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5722,
-  "alias_count": 5691,
-  "normalized_alias_count": 5684,
+  "total_items": 5723,
+  "alias_count": 5692,
+  "normalized_alias_count": 5685,
   "by_id": {
     "5819": {
       "id": 5819,
@@ -1712,7 +1712,7 @@
       "item": {
         "id": 5795,
         "line_type": "Globle",
-        "title": "国际服活动常驻化[Cyber New Year March]",
+        "title": "国际服活动常驻化「Cyber New Year March」",
         "image": "https://static.kivo.wiki/images/timeline/rxN1tDj6L7CEoKN8VVARwbKIEfjX74Vp.jpg",
         "body_summary": "[Immortalized Event Notice] The Event Story \"Cyber New Year March\" has been immortalized today, so y",
         "type": "Event",
@@ -1723,6 +1723,24 @@
       "detail_path": "timeline/5795.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5795.json"
     },
+    "5876": {
+      "id": 5876,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5876,
+        "line_type": "Globle",
+        "title": "国际服和纱，绮良良，明日奈，萌绘爱用品更新",
+        "image": "https://static.kivo.wiki/images/timeline/jUmb0TPRYXGMVDuWhL8hCTYj1ZJRzgDU.jpg",
+        "body_summary": "- Unique Items will be added for Kazusa, Kirara,Asuna, and Moe.Equip a student's Unique Item to rais",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/2076925187178864688",
+        "start_time": 1784599200,
+        "end_time": 1784599200
+      },
+      "detail_path": "timeline/5876.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5876.json"
+    },
     "5797": {
       "id": 5797,
       "source_path": "timeline/index.json",
@@ -1730,11 +1748,11 @@
       "item": {
         "id": 5797,
         "line_type": "Globle",
-        "title": "国际服活动 [Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature]",
+        "title": "国际服活动 「Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature」",
         "image": "https://static.kivo.wiki/images/timeline/ON5p3ZaDU2GncEEG9XCX2DZgHeb3AskT.jpg",
-        "body_summary": "Event Period: 7/21 (Tue) 2:00 AM – 8/4 (Tue) 1:59 AM (UTC) Shop and Event Reward Claim and Exchange ",
+        "body_summary": "🔹 Event PeriodEvent Period: 7/21 (Tue) After Maintenance – 8/4 (Tue) 1:59 AM (UTC)Shop, Prize Exchan",
         "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
+        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3501827",
         "start_time": 1784599200,
         "end_time": 1785808799
       },
@@ -103293,10 +103311,13 @@
     "国际服卡池「Ghost or whatever. Come on out! I'll prove that you're not real!」": [
       "5779"
     ],
-    "国际服活动常驻化[Cyber New Year March]": [
+    "国际服活动常驻化「Cyber New Year March」": [
       "5795"
     ],
-    "国际服活动 [Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature]": [
+    "国际服和纱,绮良良,明日奈,萌绘爱用品更新": [
+      "5876"
+    ],
+    "国际服活动 「Kivotos' Unsolved Mystery: In Search of Tsuchinoko, the Unknown Creature」": [
       "5797"
     ],
     "国际服例行维护#115": [
@@ -120399,10 +120420,13 @@
     "国际服卡池「ghostorwhatever.comeonout!i'llprovethatyou'renotreal!」": [
       "5779"
     ],
-    "国际服活动常驻化[cybernewyearmarch]": [
+    "国际服活动常驻化「cybernewyearmarch」": [
       "5795"
     ],
-    "国际服活动[kivotos'unsolvedmystery:insearchoftsuchinoko,theunknowncreature]": [
+    "国际服和纱,绮良良,明日奈,萌绘爱用品更新": [
+      "5876"
+    ],
+    "国际服活动「kivotos'unsolvedmystery:insearchoftsuchinoko,theunknowncreature」": [
       "5797"
     ],
     "国际服例行维护#115": [

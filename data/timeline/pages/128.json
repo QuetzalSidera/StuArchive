@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4531,
+        "line_type": "JP",
+        "title": "例行维护 #128",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/24(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1970367691241463975",
+        "start_time": 1758682800,
+        "end_time": 1758711600
+      },
       {
         "id": 4492,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1969295463548326386",
         "start_time": 1758599545,
         "end_time": 1759204345
-      },
-      {
-        "id": 4495,
-        "line_type": "Globle",
-        "title": "国际服卡池「Pahyahyahya!! Let's go! Full speed  Ahead」",
-        "image": "https://static.kivo.wiki/images/timeline/EdsWNli3OAMRvOUc7VGoGP1V30XiKMvN.jpg",
-        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 9/23 (Tue)! 💌Pic",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1968936848404725803",
-        "start_time": 1758598186,
-        "end_time": 1759807786
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785792711,
+  "time": 1785879543,
   "version": "1.0.0-beta.43"
 }

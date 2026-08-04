@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1798,
+        "line_type": "JP",
+        "title": "市街地戦・ホド1",
+        "image": "https://static.kivo.wiki/images/timeline/oeR6yOV7g566bG0KUO3D244UaPZpgqBq.jpg",
+        "body_summary": "【新情報 ⑰】 先生、総力戦について二つの情報が届きました！ 一つ目は2月2日(水)12:00に開催される、新しい総力戦の情報になります。 今回の地形は市街地戦！ そして対戦相手は、前特殊作戦のシナリ",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1484501568854855685",
+        "start_time": 1643792440,
+        "end_time": 1644332440
+      },
       {
         "id": 252,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1486549560268840964?s=20",
         "start_time": 1643278556,
         "end_time": 1643278556
-      },
-      {
-        "id": 304,
-        "line_type": "JP",
-        "title": "例行维护35",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 1/26(水) 12:00 〜 20:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1485855000148332546?s=20",
-        "start_time": 1643191955,
-        "end_time": 1643191955
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793162,
+  "time": 1785879992,
   "version": "1.0.0-beta.43"
 }

@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5013,
+        "line_type": "JP",
+        "title": " 制约解除决战：Chokmah #6",
+        "image": "",
+        "body_summary": "【制約解除決戦・開催】 先生！キヴォトス極地の火山に「コクマー」が姿を現しました！ 「コクマー」のEXスキル「夜明けを待つ」が発動すると、戦闘が終了するまで火炎放射を浴びることになってしまいます…。 ",
+        "type": "MiniBattle",
+        "url": "x.com/i/status/1991326451644395663",
+        "start_time": 1763582400,
+        "end_time": 1766519999
+      },
       {
         "id": 4706,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1989216294751858838",
         "start_time": 1763442000,
         "end_time": 1764640799
-      },
-      {
-        "id": 4693,
-        "line_type": "Globle",
-        "title": "国际服大决战Hieronymus (Urban Warfare) #2",
-        "image": "https://static.kivo.wiki/images/timeline/JVkZHAttCRAJW6YA9czMNFTDMG2vTu2O.jpg",
-        "body_summary": "[Grand Assault Open Notice] The Grand Assault - Hieronymus (Urban Warfare) has opened 11/11 (Tue) 2:",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/1988140882743468249",
-        "start_time": 1763442000,
-        "end_time": 1763344799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785792689,
+  "time": 1785879520,
   "version": "1.0.0-beta.43"
 }

@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 223,
+        "line_type": "JP",
+        "title": "屋内戦・ヒエロニムス2",
+        "image": "https://static.kivo.wiki/images/timeline/3rL3GYFSlG1qudr8ylRUgHKqFKui88HC.jpg",
+        "body_summary": "【総力戦予告】 12月15日(水)メンテナンス終了後より、次の総力戦「屋内戦・ヒエロニムス」が開催されます！ 今回も順位に応じた「ヒエロニムス(屋内戦)のトロフィー」を用意しております！ 先生、腕試し",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1469517577718476810",
+        "start_time": 1639562400,
+        "end_time": 1640102399
+      },
       {
         "id": 221,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1469592797250732040",
         "start_time": 1639468800,
         "end_time": 1640660400
-      },
-      {
-        "id": 870,
-        "line_type": "Globle",
-        "title": "国际服总力战 Chesed（Field）1",
-        "image": "https://static.kivo.wiki/images/timeline/HL9XJUrFGmitTntwk23YEH6WL5bC6j8L.jpg",
-        "body_summary": "[Total Assault Preview] Total Assault - Chesed (Field Warfare) will be held on 12/14 (Tue)! It's tim",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1468852326417170433",
-        "start_time": 1639468800,
-        "end_time": 1640012400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793172,
+  "time": 1785880001,
   "version": "1.0.0-beta.43"
 }

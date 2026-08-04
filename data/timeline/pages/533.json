@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 304,
+        "line_type": "JP",
+        "title": "例行维护35",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 1/26(水) 12:00 〜 20:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1485855000148332546?s=20",
+        "start_time": 1643191955,
+        "end_time": 1643191955
+      },
       {
         "id": 303,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1486262642469531648",
         "start_time": 1643092200,
         "end_time": 1645556400
-      },
-      {
-        "id": 908,
-        "line_type": "Globle",
-        "title": " 国际服卡池「Even if none of this matters, it's okay, if I'm with you.」",
-        "image": "https://static.kivo.wiki/images/timeline/n8MD4mQV0qbyqlyMjFGwmctpYHkmLP0f.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 1/25 (Tue)! Target Pick-Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1484813285794795522",
-        "start_time": 1643092200,
-        "end_time": 1644289200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793163,
+  "time": 1785879993,
   "version": "1.0.0-beta.43"
 }

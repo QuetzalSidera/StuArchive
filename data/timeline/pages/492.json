@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 460,
+        "line_type": "JP",
+        "title": "晄轮大祭项目推特活动：障害物競走",
+        "image": "",
+        "body_summary": "【#晄輪大祭障害物競走】 先生！ 今回の晄輪大祭の種目は「障害物競走」です！ どのような障害物が生徒さんを阻むのか… ドキドキしますね…！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルアカ",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1578218555664785409",
+        "start_time": 1665115200,
+        "end_time": 1665115200
+      },
       {
         "id": 1206,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1577209406298591232",
         "start_time": 1664871043,
         "end_time": 1664871043
-      },
-      {
-        "id": 1198,
-        "line_type": "Globle",
-        "title": "国际服卡池「If I can pass on the stories that these precious children wanted to tell」",
-        "image": "https://static.kivo.wiki/images/timeline/JR7spX9SRKUX5wb5DAyYnZ4tpBqlSWmI.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 10/4 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1576135136264921088",
-        "start_time": 1664870427,
-        "end_time": 1666058427
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793117,
+  "time": 1785879948,
   "version": "1.0.0-beta.43"
 }

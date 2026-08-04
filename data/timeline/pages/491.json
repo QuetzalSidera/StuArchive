@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 89,
-      "ContentImprovements": 416,
+      "ContentImprovements": 417,
       "Double": 953,
       "Event": 514,
       "Gacha": 816,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1211,
+        "line_type": "Globle",
+        "title": "国际服活动 Story Recruitment",
+        "image": "https://static.kivo.wiki/images/timeline/Hz9m8gi3RwiMi4U4DwI9sosOyIqZFz7t.jpg",
+        "body_summary": "[Story Recruitment Event] Time spent with Sensei sure does fly by! If you have any special memories ",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1580863536783187968",
+        "start_time": 1665742229,
+        "end_time": 1666001429
+      },
       {
         "id": 468,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1579033929884962817",
         "start_time": 1665428440,
         "end_time": 1666033180
-      },
-      {
-        "id": 460,
-        "line_type": "JP",
-        "title": "晄轮大祭项目推特活动：障害物競走",
-        "image": "",
-        "body_summary": "【#晄輪大祭障害物競走】 先生！ 今回の晄輪大祭の種目は「障害物競走」です！ どのような障害物が生徒さんを阻むのか… ドキドキしますね…！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルアカ",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1578218555664785409",
-        "start_time": 1665115200,
-        "end_time": 1665115200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1785793116,
+  "time": 1785879946,
   "version": "1.0.0-beta.43"
 }
