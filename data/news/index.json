@@ -7,15 +7,27 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-08-07T18:53:55Z",
+  "generated_at": "2026-08-08T18:34:48Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 82,
-  "details_synced": 82,
+  "total_items": 84,
+  "details_synced": 84,
   "details_enabled": true,
   "items": [
+    {
+      "id": 147,
+      "title": "[汉化] ba设定集Vol.4访谈翻译",
+      "image": "https://static.kivo.wiki/images/news/wNfH15MsUIjtCuxUGKrfmuC9JvFelNuM.jpg",
+      "url": "kivo.wiki/article/83"
+    },
+    {
+      "id": 146,
+      "title": "主线剧情第二部 Vol.1 第1章公开 - 8月12日",
+      "image": "https://static.kivo.wiki/images/news/B8Tg49EClLgn46CLSYjRtDJQu71SgNoA.jpg",
+      "url": ""
+    },
     {
       "id": 145,
       "title": "日服5.5周年纪念活动「出航！万魔船 マコト議長の華麗なる避暑」",
@@ -571,10 +583,22 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 2
+      "item_count": 4
     }
   ],
   "details": [
+    {
+      "id": 147,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/147",
+      "path": "news/147.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/147.json"
+    },
+    {
+      "id": 146,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/146",
+      "path": "news/146.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/146.json"
+    },
     {
       "id": 145,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/145",
@@ -1071,8 +1095,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 82,
-    "normalized_alias_count": 82,
-    "total_items": 82
+    "alias_count": 84,
+    "normalized_alias_count": 84,
+    "total_items": 84
   }
 }

@@ -2,17 +2,43 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-08-07T18:53:55Z",
+  "generated_at": "2026-08-08T18:34:48Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 82,
-  "alias_count": 82,
-  "normalized_alias_count": 82,
+  "total_items": 84,
+  "alias_count": 84,
+  "normalized_alias_count": 84,
   "by_id": {
+    "147": {
+      "id": 147,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 147,
+        "title": "[汉化] ba设定集Vol.4访谈翻译",
+        "image": "https://static.kivo.wiki/images/news/wNfH15MsUIjtCuxUGKrfmuC9JvFelNuM.jpg",
+        "url": "kivo.wiki/article/83"
+      },
+      "detail_path": "news/147.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/147.json"
+    },
+    "146": {
+      "id": 146,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 146,
+        "title": "主线剧情第二部 Vol.1 第1章公开 - 8月12日",
+        "image": "https://static.kivo.wiki/images/news/B8Tg49EClLgn46CLSYjRtDJQu71SgNoA.jpg",
+        "url": ""
+      },
+      "detail_path": "news/146.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/146.json"
+    },
     "145": {
       "id": 145,
       "source_path": "news/index.json",
@@ -1081,6 +1107,12 @@
     }
   },
   "by_alias": {
+    "[汉化] ba设定集Vol.4访谈翻译": [
+      "147"
+    ],
+    "主线剧情第二部 Vol.1 第1章公开 - 8月12日": [
+      "146"
+    ],
     "日服5.5周年纪念活动「出航!万魔船 マコト議長の華麗なる避暑」": [
       "145"
     ],
@@ -1329,6 +1361,12 @@
     ]
   },
   "by_normalized_alias": {
+    "[汉化]ba设定集vol.4访谈翻译": [
+      "147"
+    ],
+    "主线剧情第二部vol.1第1章公开-8月12日": [
+      "146"
+    ],
     "日服5.5周年纪念活动「出航!万魔船マコト議長の華麗なる避暑」": [
       "145"
     ],

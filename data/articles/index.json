@@ -7,15 +7,24 @@
     "api_path": "/articles/",
     "upstream_url": "https://api.kivo.wiki/api/v1/articles/"
   },
-  "generated_at": "2026-08-07T18:53:55Z",
+  "generated_at": "2026-08-08T18:34:48Z",
   "list_key": "article",
   "id_key": "id",
   "max_page": 6,
   "synced_pages": 6,
-  "total_items": 51,
-  "details_synced": 51,
+  "total_items": 52,
+  "details_synced": 52,
   "details_enabled": true,
   "items": [
+    {
+      "id": 83,
+      "title": "蔚蓝档案设定集Vol.4访谈翻译",
+      "cover": "https://static.kivo.wiki/images/article/cover/Oubc2xbWhdQgnx25MpVHsALKXWxYgYGQ.png",
+      "state": 0,
+      "summary": "设定集 Vol.1 全图：https://kivo.wiki/gallery/34设定集 Vol.2 全图：https://kivo.wiki/gallery/34?category=1设定集 Vol",
+      "created_at": 1786166836,
+      "updated_at": 1786203160
+    },
     {
       "id": 80,
       "title": "2026年基沃托斯古书馆建设报告【KivoWiki】",
@@ -517,10 +526,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/articles/?page=6",
       "path": "articles/pages/6.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/pages/6.json",
-      "item_count": 1
+      "item_count": 2
     }
   ],
   "details": [
+    {
+      "id": 83,
+      "upstream_url": "https://api.kivo.wiki/api/v1/articles/83",
+      "path": "articles/83.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/83.json"
+    },
     {
       "id": 80,
       "upstream_url": "https://api.kivo.wiki/api/v1/articles/80",
@@ -831,8 +846,8 @@
   "lookup": {
     "path": "articles/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/lookup.json",
-    "alias_count": 51,
-    "normalized_alias_count": 51,
-    "total_items": 51
+    "alias_count": 52,
+    "normalized_alias_count": 52,
+    "total_items": 52
   }
 }

@@ -2,17 +2,33 @@
   "schema_version": "1.0.0",
   "name": "articles",
   "description": "Article records.",
-  "generated_at": "2026-08-07T18:53:55Z",
+  "generated_at": "2026-08-08T18:34:48Z",
   "id_key": "id",
   "source_index": {
     "path": "articles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 51,
-  "alias_count": 51,
-  "normalized_alias_count": 51,
+  "total_items": 52,
+  "alias_count": 52,
+  "normalized_alias_count": 52,
   "by_id": {
+    "83": {
+      "id": 83,
+      "source_path": "articles/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/index.json",
+      "item": {
+        "id": 83,
+        "title": "蔚蓝档案设定集Vol.4访谈翻译",
+        "cover": "https://static.kivo.wiki/images/article/cover/Oubc2xbWhdQgnx25MpVHsALKXWxYgYGQ.png",
+        "state": 0,
+        "summary": "设定集 Vol.1 全图：https://kivo.wiki/gallery/34设定集 Vol.2 全图：https://kivo.wiki/gallery/34?category=1设定集 Vol",
+        "created_at": 1786166836,
+        "updated_at": 1786203160
+      },
+      "detail_path": "articles/83.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/83.json"
+    },
     "80": {
       "id": 80,
       "source_path": "articles/index.json",
@@ -831,6 +847,9 @@
     }
   },
   "by_alias": {
+    "蔚蓝档案设定集Vol.4访谈翻译": [
+      "83"
+    ],
     "2026年基沃托斯古书馆建设报告【KivoWiki】": [
       "80"
     ],
@@ -986,6 +1005,9 @@
     ]
   },
   "by_normalized_alias": {
+    "蔚蓝档案设定集vol.4访谈翻译": [
+      "83"
+    ],
     "2026年基沃托斯古书馆建设报告【kivowiki】": [
       "80"
     ],
