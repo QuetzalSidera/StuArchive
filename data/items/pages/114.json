@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 193,
+    "max_page": 197,
     "item": [
+      {
+        "id": 1530,
+        "name": "蜂巢地毯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/uhF0uUj4nWLV8L7qBo5tnfDPrpYz7NMX.png",
+        "rarity": 2,
+        "description": "几个六边形无缝衔接在一起的地毯。感觉比别的地毯要结实。"
+      },
+      {
+        "id": 1576,
+        "name": "服务台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/yCQsqSwE5TXs1JQGUjUcRyonBVUfknrw.png",
+        "rarity": 4,
+        "description": "休息室的服务台。没有接待员，需求需要从平板上输入。"
+      },
       {
         "id": 1602,
         "name": "辅助式引体向上器",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/632cH70N6VkNH0FqSNbYzUGowLIUlQ6K.png",
         "rarity": 2,
         "description": "盖布拉（室外战）的荣誉银奖杯"
-      },
-      {
-        "id": 1476,
-        "name": "干净的茶几",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/PWvENBZW6KIopaodEqry3HNjlpmUSerL.png",
-        "rarity": 2,
-        "description": "一张整洁的桌子。 它的主人一定很爱干净。"
-      },
-      {
-        "id": 1482,
-        "name": "干净的桌子",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/2IjBvLvVKSRHsWVUkuoWAzgadBp68fqt.png",
-        "rarity": 2,
-        "description": "一张空空如也的桌子。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786214941,
+  "time": 1786301595,
   "version": "1.0.0-beta.43"
 }

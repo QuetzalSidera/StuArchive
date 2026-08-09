@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-08T18:34:48Z",
+  "generated_at": "2026-08-09T18:37:35Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5723,
-  "alias_count": 5692,
-  "normalized_alias_count": 5685,
+  "total_items": 5737,
+  "alias_count": 5706,
+  "normalized_alias_count": 5699,
   "by_id": {
     "5819": {
       "id": 5819,
@@ -121,6 +121,24 @@
       "detail_path": "timeline/5601.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5601.json"
     },
+    "5889": {
+      "id": 5889,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5889,
+        "line_type": "CN",
+        "title": "菲娜（导游）家具更新",
+        "image": "https://static.kivo.wiki/images/timeline/CIJeTQGGV3WMTLCGPzgMb5fnIxEo249F.gif",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 08月13日 04:00 后 ■ 互动更新 • 菲娜（导游） & 组合电视 适",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/RcpUllhYz",
+        "start_time": 1786564800,
+        "end_time": 1786564800
+      },
+      "detail_path": "timeline/5889.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5889.json"
+    },
     "5789": {
       "id": 5789,
       "source_path": "timeline/index.json",
@@ -157,6 +175,24 @@
       "detail_path": "timeline/5831.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5831.json"
     },
+    "5890": {
+      "id": 5890,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5890,
+        "line_type": "JP",
+        "title": "活动「パンデミック・ハザード～奇跡の一枚～」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/GjJ9cU0G9ByVihCU8AbdLqtYxaGWSoEZ.png",
+        "body_summary": "【イベント復刻開催予告】 先生、大変です！ 「ヤツ」が…「ヤツ」が帰ってきます…！！ どうにかしないとまた生徒さん達が……あ、き、来た～！！？ 復刻イベント「パンデミック・ハザード～奇跡の一枚～」20",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2086301503913152709",
+        "start_time": 1786525200,
+        "end_time": 1786525200
+      },
+      "detail_path": "timeline/5890.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5890.json"
+    },
     "5816": {
       "id": 5816,
       "source_path": "timeline/index.json",
@@ -175,6 +211,78 @@
       "detail_path": "timeline/5816.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5816.json"
     },
+    "5880": {
+      "id": 5880,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5880,
+        "line_type": "Globle",
+        "title": "国际服大决战 Perorodzilla (Field) #3",
+        "image": "https://static.kivo.wiki/images/timeline/LOdwZYbKlD7B5cCFsXPyTC8ZaZOJV7VO.jpg",
+        "body_summary": "[Grand Assault Preview] The Grand Assault - Perorodzilla (Field Warfare) will start on 8/11 (Tue)! ➡",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/2084897195615199509",
+        "start_time": 1786413600,
+        "end_time": 1786413600
+      },
+      "detail_path": "timeline/5880.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5880.json"
+    },
+    "5884": {
+      "id": 5884,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5884,
+        "line_type": "Globle",
+        "title": "国际服任务Hard2倍 #48",
+        "image": "https://static.kivo.wiki/images/timeline/rsc7npcqeVAaJKmLE6OrDbAUPYEd8V3R.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2085991903212847190",
+        "start_time": 1786388400,
+        "end_time": 1786993199
+      },
+      "detail_path": "timeline/5884.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5884.json"
+    },
+    "5883": {
+      "id": 5883,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5883,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍 #48",
+        "image": "https://static.kivo.wiki/images/timeline/K4HcNLuBZCVwI4V8EzhhR1kiBp0PA8DH.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 8/10 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2085988128301412696",
+        "start_time": 1786388400,
+        "end_time": 1786993199
+      },
+      "detail_path": "timeline/5883.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5883.json"
+    },
+    "5882": {
+      "id": 5882,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5882,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍 #52",
+        "image": "https://static.kivo.wiki/images/timeline/pCHAMrIDRyIbaADIfsNXs7Je3xrpo7BP.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 8/10 (Mon), Commissions rewards will be doubled! Don't miss ",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2085984358347763789",
+        "start_time": 1786388400,
+        "end_time": 1786993199
+      },
+      "detail_path": "timeline/5882.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5882.json"
+    },
     "5815": {
       "id": 5815,
       "source_path": "timeline/index.json",
@@ -192,6 +300,60 @@
       },
       "detail_path": "timeline/5815.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5815.json"
+    },
+    "5881": {
+      "id": 5881,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5881,
+        "line_type": "Globle",
+        "title": "国际服 Cafe Memorial 一周年庆典礼物",
+        "image": "https://static.kivo.wiki/images/timeline/glFCXsM7CIlDBVFS86uU6mMkWlUOdoZm.jpg",
+        "body_summary": "[KR] Cafe Memorial, the official Blue Archive themed cafe and merchandise store in Yongsan, Seoul, i",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2085893762333700283",
+        "start_time": 1786150800,
+        "end_time": 1786150800
+      },
+      "detail_path": "timeline/5881.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5881.json"
+    },
+    "5888": {
+      "id": 5888,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5888,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》x 模玩熊 夏日出行系列PV：小雪篇",
+        "image": "https://static.kivo.wiki/images/timeline/2VDWxL0lXoMvzYNbKDt4wr3cERu4V8hM.jpg",
+        "body_summary": "《蔚蓝档案》x 模玩熊 夏日出行系列PV：小雪篇 千禧年夏日，美妙约会悄然开启 2026年7月30日至2026年8月16日，上海五角场百联ZX造趣B1，不见不散哦！ 蔚蓝档案的微博视频",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/RciPYAdZr",
+        "start_time": 1786093200,
+        "end_time": 1786093200
+      },
+      "detail_path": "timeline/5888.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5888.json"
+    },
+    "5887": {
+      "id": 5887,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5887,
+        "line_type": "CN",
+        "title": "菲娜（导游）",
+        "image": "https://static.kivo.wiki/images/timeline/eyC5j2RwBPdmu7OfcIG4hbLg28QoTJ8Q.jpg",
+        "body_summary": "//////////档案启封////////// ■ 菲娜（导游） 为迎接修学旅行，担任导游的菲娜。 即使当上了导游，菲娜特有的快乐开朗的性格也没有丝毫改变，反而让她更加热情地投身于导游工作。只是，需",
+        "type": "Other",
+        "url": "weibo.com/6011443154/RcgtQqXaH",
+        "start_time": 1786071600,
+        "end_time": 1786071600
+      },
+      "detail_path": "timeline/5887.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5887.json"
     },
     "5850": {
       "id": 5850,
@@ -300,6 +462,42 @@
       },
       "detail_path": "timeline/5813.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5813.json"
+    },
+    "5878": {
+      "id": 5878,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5878,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁 #66",
+        "image": "https://static.kivo.wiki/images/timeline/Dw71WvzzGxi0xBYLznWo7fYZQVloiRpM.jpg",
+        "body_summary": "[8/4 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2084585364514349200",
+        "start_time": 1785838800,
+        "end_time": 1785838800
+      },
+      "detail_path": "timeline/5878.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5878.json"
+    },
+    "5877": {
+      "id": 5877,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5877,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「Code: BOX - The Shadow Approaching Millennium」",
+        "image": "https://static.kivo.wiki/images/timeline/amAvRloJeJ10hf8okUNcWZicnw0zjklq.jpg",
+        "body_summary": "[Event Update Notice] The new Event Story 'Code: BOX - The Shadow Approaching Millennium One Questio",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2084534452710183145",
+        "start_time": 1785823200,
+        "end_time": 1787018399
+      },
+      "detail_path": "timeline/5877.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5877.json"
     },
     "5863": {
       "id": 5863,
@@ -426,6 +624,42 @@
       },
       "detail_path": "timeline/5865.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5865.json"
+    },
+    "5886": {
+      "id": 5886,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5886,
+        "line_type": "CN",
+        "title": "三周年主题曲MV【全速向光】",
+        "image": "https://static.kivo.wiki/images/timeline/TnV8ptDuObWuL9KeHuIsZ8N7drpsKljB.jpg",
+        "body_summary": "《蔚蓝档案》三周年主题曲MV【全速向光】 “噗哈哈，久等啦，这不是安全到站了嘛~” “不用——担心——” “我来看看……千禧年之塔、百鬼夜行的神木、崔尼蒂的大圣堂……” “老师的行程记录——满满当当—",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/RbEnvBenk",
+        "start_time": 1785722400,
+        "end_time": 1785722400
+      },
+      "detail_path": "timeline/5886.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5886.json"
+    },
+    "5885": {
+      "id": 5885,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5885,
+        "line_type": "CN",
+        "title": "3周年当日",
+        "image": "https://static.kivo.wiki/images/timeline/9fpNKkyrBZLPmBbhwesBhaMy5dconstM.jpg",
+        "body_summary": "“噗哈哈！老师，有猜到今天是我们俩吗~有吧？有吧有吧！” “小光选手，与三周年庆典车票一起，登——场——” 老师，沙勒入职三周年快乐！ 源自老师的青春故事又新增了一处注脚。 奇迹之所以动人，是因为它让",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/RbArY5vir",
+        "start_time": 1785686400,
+        "end_time": 1785686400
+      },
+      "detail_path": "timeline/5885.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5885.json"
     },
     "5872": {
       "id": 5872,
@@ -1596,6 +1830,24 @@
       },
       "detail_path": "timeline/5775.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5775.json"
+    },
+    "5879": {
+      "id": 5879,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5879,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编阿罗娜三周年祝贺回 #37",
+        "image": "https://static.kivo.wiki/images/timeline/GkfRL9kraKGWqVvsT0APltkj4Dyf6tcy.jpg",
+        "body_summary": "A lovely 3-year anniversary cake for Arcie, our SUPER CM!🎂🎉 ➡️ Watch Full VOD (Stream #37): https://",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2084655605562888277",
+        "start_time": 1784678400,
+        "end_time": 1784678400
+      },
+      "detail_path": "timeline/5879.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5879.json"
     },
     "5591": {
       "id": 5591,
@@ -103047,17 +103299,44 @@
     "C108悠星参展": [
       "5601"
     ],
+    "菲娜(导游)家具更新": [
+      "5889"
+    ],
     "任务(普通难度)3倍 #21": [
       "5789"
     ],
     "主线剧情第2部 Vol.1「炎と影」篇 第1章「ゲヘナを再び偉大に!」 & 第2章「炎となる私たち」更新": [
       "5831"
     ],
+    "活动「パンデミック・ハザード~奇跡の一枚~」复刻": [
+      "5890"
+    ],
     "指名手配3倍#21 & 日程表3倍#16": [
       "5816"
     ],
+    "国际服大决战 Perorodzilla (Field) #3": [
+      "5880"
+    ],
+    "国际服任务Hard2倍 #48": [
+      "5884"
+    ],
+    "国际服指名手配2倍 #48": [
+      "5883"
+    ],
+    "国际服特别依赖2倍 #52": [
+      "5882"
+    ],
     "任务hard3倍#18": [
       "5815"
+    ],
+    "国际服 Cafe Memorial 一周年庆典礼物": [
+      "5881"
+    ],
+    "《蔚蓝档案》x 模玩熊 夏日出行系列PV:小雪篇": [
+      "5888"
+    ],
+    "菲娜(导游)": [
+      "5887"
     ],
     "【综合战术测试 • 突破测试】#10": [
       "5850"
@@ -103076,6 +103355,12 @@
     ],
     "任务normal3倍#18": [
       "5813"
+    ],
+    "国际服违规账号封禁 #66": [
+      "5878"
+    ],
+    "国际服活动复刻「Code: BOX - The Shadow Approaching Millennium」": [
+      "5877"
     ],
     "国际服卡池复刻「We have a huge problem, Sensei. I am bored.」#3": [
       "5863"
@@ -103097,6 +103382,12 @@
     ],
     "国际服课程表2倍 #42": [
       "5865"
+    ],
+    "三周年主题曲MV【全速向光】": [
+      "5886"
+    ],
+    "3周年当日": [
+      "5885"
     ],
     "【什亭之“响”】全速剧透": [
       "5872"
@@ -103292,6 +103583,9 @@
     ],
     "活动「陽ひらく彼女たちの小夜曲」常驻化": [
       "5775"
+    ],
+    "国际服Arcie小编阿罗娜三周年祝贺回 #37": [
+      "5879"
     ],
     "任务Normal2倍#59": [
       "5591"
@@ -120156,17 +120450,44 @@
     "c108悠星参展": [
       "5601"
     ],
+    "菲娜(导游)家具更新": [
+      "5889"
+    ],
     "任务(普通难度)3倍#21": [
       "5789"
     ],
     "主线剧情第2部vol.1「炎と影」篇第1章「ゲヘナを再び偉大に!」&第2章「炎となる私たち」更新": [
       "5831"
     ],
+    "活动「パンデミック・ハザード~奇跡の一枚~」复刻": [
+      "5890"
+    ],
     "指名手配3倍#21&日程表3倍#16": [
       "5816"
     ],
+    "国际服大决战perorodzilla(field)#3": [
+      "5880"
+    ],
+    "国际服任务hard2倍#48": [
+      "5884"
+    ],
+    "国际服指名手配2倍#48": [
+      "5883"
+    ],
+    "国际服特别依赖2倍#52": [
+      "5882"
+    ],
     "任务hard3倍#18": [
       "5815"
+    ],
+    "国际服cafememorial一周年庆典礼物": [
+      "5881"
+    ],
+    "《蔚蓝档案》x模玩熊夏日出行系列pv:小雪篇": [
+      "5888"
+    ],
+    "菲娜(导游)": [
+      "5887"
     ],
     "【综合战术测试•突破测试】#10": [
       "5850"
@@ -120185,6 +120506,12 @@
     ],
     "任务normal3倍#18": [
       "5813"
+    ],
+    "国际服违规账号封禁#66": [
+      "5878"
+    ],
+    "国际服活动复刻「code:box-theshadowapproachingmillennium」": [
+      "5877"
     ],
     "国际服卡池复刻「wehaveahugeproblem,sensei.iambored.」#3": [
       "5863"
@@ -120206,6 +120533,12 @@
     ],
     "国际服课程表2倍#42": [
       "5865"
+    ],
+    "三周年主题曲mv【全速向光】": [
+      "5886"
+    ],
+    "3周年当日": [
+      "5885"
     ],
     "【什亭之“响”】全速剧透": [
       "5872"
@@ -120401,6 +120734,9 @@
     ],
     "活动「陽ひらく彼女たちの小夜曲」常驻化": [
       "5775"
+    ],
+    "国际服arcie小编阿罗娜三周年祝贺回#37": [
+      "5879"
     ],
     "任务normal2倍#59": [
       "5591"
