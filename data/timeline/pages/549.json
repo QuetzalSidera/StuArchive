@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 200,
+        "line_type": "JP",
+        "title": "音乐「Blue New World」公开",
+        "image": "",
+        "body_summary": "【イベントPV】 先日の「ブルアカらいぶ！」でも流れた、初音ミクさんのオリジナル楽曲「Blue New World」のPVを公開します！ コラボイベントは11/3(水)に開催予定です、ぜひ聴いてみてく",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1454282373873356805",
+        "start_time": 1635559260,
+        "end_time": 1635559260
+      },
       {
         "id": 839,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1450060787326746626",
         "start_time": 1635336000,
         "end_time": 1638244800
-      },
-      {
-        "id": 972,
-        "line_type": "JP",
-        "title": "家具新系列 「ハロウィーンカフェセット」追加",
-        "image": "https://static.kivo.wiki/images/timeline/gRKzxZiDTc2DpGgItUhia7NpMaYqbHbU.jpg",
-        "body_summary": "【新情報 ①】 10月27日(水)メンテナンス後、「ハロウィーンカフェセット」が追加されます！ 家具は全部23種で、ログインボーナス1種、残りの22種類は製造で獲得できます。 この時期ピッタリな家具シ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1450059184590843905",
-        "start_time": 1635336000,
-        "end_time": 1635336000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309071,
+  "time": 1786395083,
   "version": "1.0.0-beta.43"
 }

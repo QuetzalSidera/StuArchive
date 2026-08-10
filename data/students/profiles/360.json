@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-09T18:37:35Z",
+  "generated_at": "2026-08-10T18:54:51Z",
   "id": 360,
   "display_name": "春日 椿（导游）",
   "names": {
@@ -1573,6 +1573,13 @@
         "text": "要我带你去哪里......?",
         "text_original": "どこを案内すればいい……？",
         "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E6%97%A5%20%E6%A4%BF/%E5%AF%BC%E6%B8%B8/jp/ch0255_formation_in_1.ogg"
+      },
+      {
+        "description": "ch0255_formation_select",
+        "category": "formation",
+        "text": "请不要离开队列。呼啊~",
+        "text_original": "列を離れないで。はぁぁぁ～。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%98%A5%E6%97%A5%20%E6%A4%BF/%E5%AF%BC%E6%B8%B8/jp/ch0255_formation_select.ogg"
       }
     ],
     "voice_cn": [
@@ -2423,8 +2430,8 @@
   "source": {
     "detail_path": "students/360.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/360.json",
-    "upstream_time": 1786301165,
-    "updated_at": 1779612660,
+    "upstream_time": 1786388510,
+    "updated_at": 1786356262,
     "created_at": 1711287195
   }
 }

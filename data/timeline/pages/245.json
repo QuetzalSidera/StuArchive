@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 3280,
+        "line_type": "JP",
+        "title": "例行维护 #107 （提前结束）",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/20(水) 11:00 〜 19:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1858752509017550876",
+        "start_time": 1732071600,
+        "end_time": 1732096800
+      },
       {
         "id": 3312,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1858750347038384357",
         "start_time": 1731996000,
         "end_time": 1731996000
-      },
-      {
-        "id": 3340,
-        "line_type": "Globle",
-        "title": "泰服三周年PD特别短片",
-        "image": "",
-        "body_summary": "เซ็นเซ ใกล้จะถึงวันครบรอบ 3 ปีกันแล้วน้า 🎉 🙌 ทีมงานขอนำสารจาก PD คิม ยงฮา เจ้าเก่ามาฝากเซ็นเซชาวไทยก",
-        "type": "OutsideGames",
-        "url": "www.youtube.com/watch?v=oDr-BXxj4LM",
-        "start_time": 1731988800,
-        "end_time": 1731988800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308712,
+  "time": 1786394784,
   "version": "1.0.0-beta.43"
 }

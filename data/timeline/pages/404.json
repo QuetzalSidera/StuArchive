@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 816,
+        "line_type": "JP",
+        "title": "活动「とある科学の青春記録」PV公开",
+        "image": "",
+        "body_summary": "【イベントPV】 『とある科学の超電磁砲T』と『ブルーアーカイブ』のコラボイベントPVを公開します！ 廃墟で発見されたのは異世界からの来訪者…！ 見知らぬとある街で、とある少女たちの物語が開幕します！",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1716288754607063378",
+        "start_time": 1698033600,
+        "end_time": 1698033600
+      },
       {
         "id": 1655,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/854099116338184194",
         "start_time": 1697698800,
         "end_time": 1697730277
-      },
-      {
-        "id": 1651,
-        "line_type": "CN",
-        "title": "特别委托2倍3",
-        "image": "https://static.kivo.wiki/images/timeline/K1JKrQMj5itzO0xfknnswyWNPHl1NoFN.jpg",
-        "body_summary": "【特别委托】道具掉落量2倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【特别委托】道具掉落量2倍 ■ 活动时间 10月19日 04:00 ",
-        "type": "Double",
-        "url": "www.bilibili.com/opus/853403125492482121",
-        "start_time": 1697659200,
-        "end_time": 1698263999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308899,
+  "time": 1786394940,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 189,
+        "line_type": "JP",
+        "title": "例行维护26",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 10/12(火) 12:00 〜 18:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1447426749881487360",
+        "start_time": 1634011200,
+        "end_time": 1634032800
+      },
       {
         "id": 187,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1440996359658565638",
         "start_time": 1632916800,
         "end_time": 1634011200
-      },
-      {
-        "id": 1822,
-        "line_type": "JP",
-        "title": "卡池「問答無用のストレートアップ」&「着替えたらジャックポットを」",
-        "image": "https://static.kivo.wiki/images/timeline/aCp2KYyABPXhLyyjI4Tl0V4NuEFEDcR4.jpg",
-        "body_summary": "【ピックアップ募集・予告】 期間限定ピックアップ募集「問答無用のストレートアップ」&「着替えたらジャックポットを」がまもなく開催です！ 今回の募集期間が終了後、常設には追加されませんので、ぜひ下記のお",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1442715967222476803",
-        "start_time": 1632909647,
-        "end_time": 1634007647
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309074,
+  "time": 1786395087,
   "version": "1.0.0-beta.43"
 }

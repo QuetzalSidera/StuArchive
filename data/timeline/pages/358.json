@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2133,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习18",
+        "image": "https://static.kivo.wiki/images/timeline/wfP5J55FFYcO0vxgw7Vfw5qySL1OnXWR.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Breakthrough Drill) has opened 2/13 (Tue) 2",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1757298563158098185",
+        "start_time": 1707789634,
+        "end_time": 1708455574
+      },
       {
         "id": 2114,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/NFBWMtegS",
         "start_time": 1707379205,
         "end_time": 1708570805
-      },
-      {
-        "id": 2216,
-        "line_type": "CN",
-        "title": "真理社社团剧情更新",
-        "image": "https://static.kivo.wiki/images/timeline/CFKcIm9jNtnML4fquV7OwqzDyuvjJCPG.jpg",
-        "body_summary": "全新社团及其对应的支线剧情将于 02月08日 14:00 更新！ 这些剧情记录了女生们诙谐幽默但又不失爆发力和深度的青春故事。 ■ 真理社 为了捍卫真理和知识的自由！ 黑客少女们所追求的真相究竟是··",
-        "type": "OtherStory",
-        "url": "weibo.com/6011443154/NFijgBlrG",
-        "start_time": 1707372047,
-        "end_time": 1707372047
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308845,
+  "time": 1786394895,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 376,
+        "line_type": "JP",
+        "title": "特别依赖2倍#20",
+        "image": "https://static.kivo.wiki/images/timeline/SL9dV2dbDxeQ9ckdMaU1CrnfGZ9JEV7x.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「特別依頼」において各種「レポート」や「クレジット」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2022/7/6(水)4:00 ~ 2022/7/1",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1543429434883325954",
+        "start_time": 1657051200,
+        "end_time": 1657655999
+      },
       {
         "id": 377,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1540953003502583808",
         "start_time": 1656356432,
         "end_time": 1656961172
-      },
-      {
-        "id": 1127,
-        "line_type": "Globle",
-        "title": "国际服炸服4",
-        "image": "",
-        "body_summary": "[6/25(Sat) Connection Error in Servers] There is currently a connection error in all servers with th",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1540544748867317760",
-        "start_time": 1656129420,
-        "end_time": 1656129420
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309023,
+  "time": 1786395043,
   "version": "1.0.0-beta.43"
 }

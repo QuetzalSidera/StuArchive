@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4950,
+        "line_type": "JP",
+        "title": "联合火力演习 #48",
+        "image": "https://static.kivo.wiki/images/timeline/uPwfVl102eTVZZKvEa3quQ1NSUgFOPzZ.jpg",
+        "body_summary": "【新情報⑫】 1月29日(木)メンテナンス後より、合同火力演習「防御演習」が開始しますので、ご参加をお待ちしております！ ▼開催期間 2026年1月29日(木) メンテナンス後 ~ 2026年2月5日",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2012797015005270287",
+        "start_time": 1769655600,
+        "end_time": 1770260399
+      },
       {
         "id": 4945,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2014601493710831946",
         "start_time": 1769479208,
         "end_time": 1770688799
-      },
-      {
-        "id": 4980,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「MY APPEARANCE HAS NO BEARING HERE. ALL I HAVE TO DO IS COMPLETE MY GIVEN TASK.」&「H-Hee hee. As expected, life is a burden...!」",
-        "image": "https://static.kivo.wiki/images/timeline/KQiAQf87rHuMOIOPsok1B0QmXfhHdVxQ.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 1/27 (Tu",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2014597719470305578",
-        "start_time": 1769479203,
-        "end_time": 1770688743
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308519,
+  "time": 1786394625,
   "version": "1.0.0-beta.43"
 }

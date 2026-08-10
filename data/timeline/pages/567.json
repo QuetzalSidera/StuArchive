@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 64,
+        "line_type": "JP",
+        "title": "引导任务「ゲーム開発部からのデイリーミッション」",
+        "image": "https://static.kivo.wiki/images/timeline/vvqYtlgtFFIeLuCqlk66JHnk9kVhYswG.jpg",
+        "body_summary": "【イベントミッション】 イベントミッション「ゲーム開発部からのデイリーミッション」が、メンテナンス後に追加されます！ 期間中にイベントアイテム「ゲーム雑誌」を集めることで、最大1200個の青輝石を獲得",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1374984982435753987?s=20",
+        "start_time": 1616666685,
+        "end_time": 1619690685
+      },
       {
         "id": 965,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1369196316006383622?s=20",
         "start_time": 1616144724,
         "end_time": 1616144724
-      },
-      {
-        "id": 47,
-        "line_type": "JP",
-        "title": "例行维护7",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/18(木) 12:00 〜 16:00 ▼詳細 bluearchi",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1372050141281017857?s=20",
-        "start_time": 1616059362,
-        "end_time": 1616059362
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309092,
+  "time": 1786395102,
   "version": "1.0.0-beta.43"
 }

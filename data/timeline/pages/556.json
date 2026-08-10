@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 163,
+        "line_type": "JP",
+        "title": "例行维护22",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/26(木) 12:00 〜 20:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1430394542730080258",
+        "start_time": 1629950400,
+        "end_time": 1629979200
+      },
       {
         "id": 164,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1426089814059741184",
         "start_time": 1628848800,
         "end_time": 1628859600
-      },
-      {
-        "id": 156,
-        "line_type": "JP",
-        "title": "卡池「吹き抜ける風の在り処」",
-        "image": "https://static.kivo.wiki/images/timeline/zaQicqAuwWNKGlgBWSL9gJCeGRPiAPof.jpg",
-        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「吹き抜ける風の在り処」がまもなく開催されます！ 🔷開催期間 2021年8月12日(木) メンテナンス後 ~ 2021年8月26日(木)メンテナン",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1425366648060485640",
-        "start_time": 1628762400,
-        "end_time": 1629950400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309079,
+  "time": 1786395091,
   "version": "1.0.0-beta.43"
 }

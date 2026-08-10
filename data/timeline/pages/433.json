@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 736,
+        "line_type": "JP",
+        "title": "属性克制相表更新",
+        "image": "https://static.kivo.wiki/images/timeline/OsNgMzD7r21qLzdYuR5YPTp4mEndk4zk.jpg",
+        "body_summary": "【TIPS】 先生、昨日の #ブルアカらいぶ はいかがでしたか？ 新攻撃タイプ「振動」が発表されたので、最新版の相性表をさっそくご用意しました！ 他にもたくさんの情報がありますので、こちらのURLにて",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1683341402825179136",
+        "start_time": 1690178400,
+        "end_time": 1690178400
+      },
       {
         "id": 1784,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1682345927749558276",
         "start_time": 1689937500,
         "end_time": 1689937500
-      },
-      {
-        "id": 1472,
-        "line_type": "Globle",
-        "title": "国际服直播「Kivotos Live」直播礼物",
-        "image": "https://static.kivo.wiki/images/timeline/gB2lkhELLNXaYw8MRvEXDQRvQRmyyGnH.jpg",
-        "body_summary": "[Kivotos Live Special Live Stream Gift] Sensei! I hope you enjoyed today's live stream to the fulles",
-        "type": "Live",
-        "url": "twitter.com/EN_BlueArchive/status/1682348443983855617",
-        "start_time": 1689937232,
-        "end_time": 1690509572
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308933,
+  "time": 1786394968,
   "version": "1.0.0-beta.43"
 }

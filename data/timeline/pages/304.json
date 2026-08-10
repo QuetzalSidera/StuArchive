@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2704,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒 #4",
+        "image": "https://static.kivo.wiki/images/timeline/En6DBiIqCwUDhFEhILKz12Bvk48FhHPN.jpg",
+        "body_summary": "【新情報 ⑦】 6月27日(木)11:00より、制約解除決戦「セトの憤怒」が開催されます！ 今回開催される「セトの憤怒」の防御タイプは「軽装備」となります！ ▼開催期間 2024/6/27(木) 11",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1804842595463713112",
+        "start_time": 1719457200,
+        "end_time": 1721591999
+      },
       {
         "id": 2763,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1804031504961671359",
         "start_time": 1719309612,
         "end_time": 1720490412
-      },
-      {
-        "id": 2720,
-        "line_type": "Globle",
-        "title": "国际服卡池「Whether it's in the mountains or the seas... I'll capture your voice, SENSEI. Wherever you are.」",
-        "image": "https://static.kivo.wiki/images/timeline/6PUdNtcCmqR4FWuEnI7lAWzLRm6u2okK.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/25 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1804035269286346781",
-        "start_time": 1719309602,
-        "end_time": 1720490402
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308780,
+  "time": 1786394842,
   "version": "1.0.0-beta.43"
 }

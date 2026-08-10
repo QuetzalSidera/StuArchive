@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 312,
+        "line_type": "JP",
+        "title": "例行维护40",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/6(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1511222114262536194?s=20",
+        "start_time": 1649253258,
+        "end_time": 1649253258
+      },
       {
         "id": 311,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1511176804194668552",
         "start_time": 1649127641,
         "end_time": 1649139641
-      },
-      {
-        "id": 1070,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍6",
-        "image": "https://static.kivo.wiki/images/timeline/jWKQOdKMU8L0YdZ6jPxFBOVqzIo6E3cO.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 4/4 (Mon), the amount of rewards dropped in Commissions will be ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1510512426235564033",
-        "start_time": 1649098842,
-        "end_time": 1649703582
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309038,
+  "time": 1786395056,
   "version": "1.0.0-beta.43"
 }

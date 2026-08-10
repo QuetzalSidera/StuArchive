@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 47,
+        "line_type": "JP",
+        "title": "例行维护7",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/18(木) 12:00 〜 16:00 ▼詳細 bluearchi",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1372050141281017857?s=20",
+        "start_time": 1616059362,
+        "end_time": 1616059362
+      },
       {
         "id": 46,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1369200490005684226?s=20",
         "start_time": 1615281377,
         "end_time": 1616058977
-      },
-      {
-        "id": 36,
-        "line_type": "JP",
-        "title": "开服满月",
-        "image": "https://static.kivo.wiki/images/timeline/39PDk079WJFuZ9Z4qsYlPuK5QOCPfEJe.jpg",
-        "body_summary": "【リリース1ヶ月記念 1/3】 2021年2月4日に『ブルーアーカイブ』が配信開始し、本日で1ヶ月となりました！ その記念として、【リリース1ヶ月記念の特別手当】を3つ、先生に支給します！ ・特別手当",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1367423731199475714?s=20",
-        "start_time": 1614847983,
-        "end_time": 1614847983
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309093,
+  "time": 1786395103,
   "version": "1.0.0-beta.43"
 }

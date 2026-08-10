@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1501,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习12",
+        "image": "https://static.kivo.wiki/images/timeline/SKFWrf8IimqJFyPPVeqNbGPlfRoMgwfW.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Breakthrough Drill) has opened 8/15 (Tue) 2",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1691343971333935104",
+        "start_time": 1692064857,
+        "end_time": 1692644757
+      },
       {
         "id": 1500,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1689896932800684032",
         "start_time": 1691719222,
         "end_time": 1692669562
-      },
-      {
-        "id": 1495,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Is a prayer that I could stay by tour side forever too selfish?」",
-        "image": "https://static.kivo.wiki/images/timeline/4MfwBdTkCK370gsrl4qsinSVU7quHBgm.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 8/11 (Fri)! Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1688845001252614146",
-        "start_time": 1691719209,
-        "end_time": 1692669609
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308924,
+  "time": 1786394960,
   "version": "1.0.0-beta.43"
 }

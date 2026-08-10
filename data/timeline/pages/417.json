@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 756,
+        "line_type": "JP",
+        "title": "联合火力演习19",
+        "image": "https://static.kivo.wiki/images/timeline/GUkFgF2ZeKFNkeEpE0Rdrc2fJpZt8Knn.jpg",
+        "body_summary": "【合同火力演習・予告】 9月6日(水)メンテナンス後、合同火力演習「射撃演習」が開幕します！ 今回のルールでは攻撃タイプ「爆発」の生徒さんでしかダメージを与えられず、ダメージ数値も「1」で固定される模",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1698622113652052442",
+        "start_time": 1693990800,
+        "end_time": 1694548799
+      },
       {
         "id": 752,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1697897154981838881",
         "start_time": 1693879223,
         "end_time": 1695088823
-      },
-      {
-        "id": 1516,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍17",
-        "image": "https://static.kivo.wiki/images/timeline/X45y5bHAGWPYw1Okwhx43ubRjovDu3Ct.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 9/4 (Mon), Commissions rewards will be doubled! Don't miss o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1697866949144064472",
-        "start_time": 1693854013,
-        "end_time": 1694458813
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308915,
+  "time": 1786394952,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5891,
+        "line_type": "JP",
+        "title": "联合火力演习#54",
+        "image": "https://static.kivo.wiki/images/timeline/EHaky4d6wp9fMqK7mKrCBfhF4Qp9io1F.png",
+        "body_summary": "【合同火力演習・予告】 2026年8月12日(水)メンテナンス終了後より、合同火力演習「護衛演習」が開催されます！ 今回の特殊ルールでは、敵の最大HPが増加してしまうそうです。 ただ、アバンギャルド君",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2086361979040727388",
+        "start_time": 1786503600,
+        "end_time": 1787083199
+      },
       {
         "id": 5816,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/RcgtQqXaH",
         "start_time": 1786071600,
         "end_time": 1786071600
-      },
-      {
-        "id": 5850,
-        "line_type": "CN",
-        "title": "【综合战术测试 • 突破测试】#10",
-        "image": "https://static.kivo.wiki/images/timeline/yT8IOABG9mNvKjlJeZG4uKlekW9rM2FX.png",
-        "body_summary": "\"欢迎连接【什亭之箱】，老师。\" 在【基沃托斯综合战术测试】中可以评估学员们的战斗能力，根据成绩还能获得特别奖励。 每个考场都有各自的【特殊规则】，按照规则越快完成测试，获得的分数也越高！ ■ 活动简",
-        "type": "MiniBattle",
-        "url": "bluearchive-cn.com/news/1874",
-        "start_time": 1785996000,
-        "end_time": 1786564799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308428,
+  "time": 1786394547,
   "version": "1.0.0-beta.43"
 }

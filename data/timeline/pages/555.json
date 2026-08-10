@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 829,
+        "line_type": "Globle",
+        "title": "国际服开服水角色",
+        "image": "",
+        "body_summary": "First up, I prepared a little intro for you. Heehee. I feel a little embarrassed putting this togeth",
+        "type": "Other",
+        "url": "",
+        "start_time": 1630227780,
+        "end_time": 1635757260
+      },
       {
         "id": 952,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/144",
         "start_time": 1629968400,
         "end_time": 1629968400
-      },
-      {
-        "id": 163,
-        "line_type": "JP",
-        "title": "例行维护22",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/26(木) 12:00 〜 20:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1430394542730080258",
-        "start_time": 1629950400,
-        "end_time": 1629979200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309078,
+  "time": 1786395090,
   "version": "1.0.0-beta.43"
 }

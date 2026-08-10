@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 81,
+        "line_type": "JP",
+        "title": "卡池「共鳴する風信子」",
+        "image": "https://static.kivo.wiki/images/timeline/Z5u6eeMKAVAyH7wKN5rbCRWt2KCmEAc2.jpg",
+        "body_summary": "【ピックアップ募集・予告】 次回メンテナンス後より、期間限定のピックアップ募集「共鳴する風信子」が開催されます！ 🔷開催期間 2021年4月8日(木) メンテナンス後 ~ 2021年4月22日(木)メ",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1378980788520161280?s=20",
+        "start_time": 1617879011,
+        "end_time": 1619088611
+      },
       {
         "id": 80,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1375071239996235780?s=20",
         "start_time": 1616666789,
         "end_time": 1616666789
-      },
-      {
-        "id": 64,
-        "line_type": "JP",
-        "title": "引导任务「ゲーム開発部からのデイリーミッション」",
-        "image": "https://static.kivo.wiki/images/timeline/vvqYtlgtFFIeLuCqlk66JHnk9kVhYswG.jpg",
-        "body_summary": "【イベントミッション】 イベントミッション「ゲーム開発部からのデイリーミッション」が、メンテナンス後に追加されます！ 期間中にイベントアイテム「ゲーム雑誌」を集めることで、最大1200個の青輝石を獲得",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1374984982435753987?s=20",
-        "start_time": 1616666685,
-        "end_time": 1619690685
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309091,
+  "time": 1786395101,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 54,
+        "line_type": "JP",
+        "title": "炸服6",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 現在ログインに関わる不具合が確認されたため、これから、緊急メンテナンスを行わせていただきます。 進展がございましたらあらためてご案内いたします。 ご不便をおかけしてしまい申し訳あ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1360459432560238593",
+        "start_time": 1613197320,
+        "end_time": 1613218380
+      },
       {
         "id": 50,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1357357815862489088?s=20",
         "start_time": 1612458000,
         "end_time": 1612476000
-      },
-      {
-        "id": 24,
-        "line_type": "JP",
-        "title": "炸服2",
-        "image": "",
-        "body_summary": "【緊急メンテナンスのお知らせ】 現在、予想以上のアクセス集中によるサーバー混雑のため、 15:30より緊急メンテナンスを行わせていただきます。 状況が判明次第、追ってお知らせいたします。 ご不便をおか",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1357237311256231937",
-        "start_time": 1612423800,
-        "end_time": 1612436400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309097,
+  "time": 1786395106,
   "version": "1.0.0-beta.43"
 }

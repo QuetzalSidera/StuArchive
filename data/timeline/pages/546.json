@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 207,
+        "line_type": "JP",
+        "title": "卡池「夜明けに珈琲を 手の甲に誓いを」",
+        "image": "https://static.kivo.wiki/images/timeline/tdoOoKMAvV4vfIeFfMHR4oTFaFvY6ykw.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「夜明けに珈琲を 手の甲に誓いを」がまもなく開催です！ 🔹ピックアップ生徒 ★3 アコ（CV：#高野麻里佳） 🔹詳細 https://bluearchive",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1460472743154286592",
+        "start_time": 1637143200,
+        "end_time": 1638244800
+      },
       {
         "id": 852,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1460498240541917190",
         "start_time": 1637044860,
         "end_time": 1637044860
-      },
-      {
-        "id": 849,
-        "line_type": "Globle",
-        "title": "国际服例行维护1",
-        "image": "",
-        "body_summary": "[Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/16 (Tue).",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1460090226399858695",
-        "start_time": 1637031600,
-        "end_time": 1637046000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309067,
+  "time": 1786395080,
   "version": "1.0.0-beta.43"
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-09T18:37:35Z",
+  "generated_at": "2026-08-10T18:54:51Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5737,
-  "alias_count": 5706,
-  "normalized_alias_count": 5699,
+  "total_items": 5738,
+  "alias_count": 5707,
+  "normalized_alias_count": 5700,
   "by_id": {
     "5819": {
       "id": 5819,
@@ -192,6 +192,24 @@
       },
       "detail_path": "timeline/5890.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5890.json"
+    },
+    "5891": {
+      "id": 5891,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5891,
+        "line_type": "JP",
+        "title": "联合火力演习#54",
+        "image": "https://static.kivo.wiki/images/timeline/EHaky4d6wp9fMqK7mKrCBfhF4Qp9io1F.png",
+        "body_summary": "【合同火力演習・予告】 2026年8月12日(水)メンテナンス終了後より、合同火力演習「護衛演習」が開催されます！ 今回の特殊ルールでは、敵の最大HPが増加してしまうそうです。 ただ、アバンギャルド君",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2086361979040727388",
+        "start_time": 1786503600,
+        "end_time": 1787083199
+      },
+      "detail_path": "timeline/5891.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5891.json"
     },
     "5816": {
       "id": 5816,
@@ -103311,6 +103329,9 @@
     "活动「パンデミック・ハザード~奇跡の一枚~」复刻": [
       "5890"
     ],
+    "联合火力演习#54": [
+      "5891"
+    ],
     "指名手配3倍#21 & 日程表3倍#16": [
       "5816"
     ],
@@ -120461,6 +120482,9 @@
     ],
     "活动「パンデミック・ハザード~奇跡の一枚~」复刻": [
       "5890"
+    ],
+    "联合火力演习#54": [
+      "5891"
     ],
     "指名手配3倍#21&日程表3倍#16": [
       "5816"

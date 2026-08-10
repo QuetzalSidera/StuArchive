@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 92,
+        "line_type": "JP",
+        "title": "例行维护12",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/22(木) 12:00 〜 18:00 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1384733656992817152?s=20",
+        "start_time": 1619095656,
+        "end_time": 1619095656
+      },
       {
         "id": 90,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1379343201828433929?s=20",
         "start_time": 1617883927,
         "end_time": 1617883927
-      },
-      {
-        "id": 81,
-        "line_type": "JP",
-        "title": "卡池「共鳴する風信子」",
-        "image": "https://static.kivo.wiki/images/timeline/Z5u6eeMKAVAyH7wKN5rbCRWt2KCmEAc2.jpg",
-        "body_summary": "【ピックアップ募集・予告】 次回メンテナンス後より、期間限定のピックアップ募集「共鳴する風信子」が開催されます！ 🔷開催期間 2021年4月8日(木) メンテナンス後 ~ 2021年4月22日(木)メ",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/1378980788520161280?s=20",
-        "start_time": 1617879011,
-        "end_time": 1619088611
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309090,
+  "time": 1786395100,
   "version": "1.0.0-beta.43"
 }

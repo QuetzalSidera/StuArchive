@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 681,
+        "line_type": "JP",
+        "title": "联合火力演习16",
+        "image": "https://static.kivo.wiki/images/timeline/Ix7E6K9Qm0P3oKNq6NvlXDUJ4ahxHVHn.jpg",
+        "body_summary": "【合同火力演習・予告】 6月7日(水)メンテナンス後、合同火力演習「射撃演習」が開幕します！ 今回のルールでは「中毒状態」がさらに強化された「致命的な中毒」を受けた状態で演習に挑まないといけません…！",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1664830792315600896",
+        "start_time": 1686128400,
+        "end_time": 1686686399
+      },
       {
         "id": 651,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1664889656377499649",
         "start_time": 1685991612,
         "end_time": 1686596352
-      },
-      {
-        "id": 649,
-        "line_type": "JP",
-        "title": "屋外戦・ペロロジ3",
-        "image": "https://static.kivo.wiki/images/timeline/2WuoLsxQMFNPzRVAXjooHIiRT7yuMGW9.jpg",
-        "body_summary": "【総力戦予告】 5月31日(水)11:00より、総力戦「屋外戦・ペロロジラ」が開催されます！ 復興して間もない「D.U.」に上陸されないよう、生徒さん達と力を合わせて「ペロロジラ」を撃退しましょう！ ",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1662020927994093568",
-        "start_time": 1685502000,
-        "end_time": 1686081599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308946,
+  "time": 1786394978,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 330,
+        "line_type": "JP",
+        "title": "屋内戦・ペロロジラ3",
+        "image": "",
+        "body_summary": "【総力戦開催中】 D.U.の近くの海域にて「ペロロジラ」を観測しました！ 噂によると「INSANE」で現れる光り輝く「ペロロジラ」の眼光は更に強化され、召喚された輝く「ペロロミニオン」は転倒した際に周",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1521671075595431936?s=20",
+        "start_time": 1651676393,
+        "end_time": 1652194793
+      },
       {
         "id": 329,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1520961276955951104",
         "start_time": 1651546814,
         "end_time": 1651568414
-      },
-      {
-        "id": 1089,
-        "line_type": "Globle",
-        "title": "国际服指名手配3倍1",
-        "image": "https://static.kivo.wiki/images/timeline/wQXUDXuM4rGe9uqMpIBFp5GyCKjv50MR.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 5/2 (Mon), Bounty rewards will be tripled in celebration of ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1520689489257000960",
-        "start_time": 1651518000,
-        "end_time": 1652122740
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309033,
+  "time": 1786395052,
   "version": "1.0.0-beta.43"
 }

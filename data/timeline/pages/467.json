@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1325,
+        "line_type": "Globle",
+        "title": "国际服例行维护32",
+        "image": "",
+        "body_summary": "[2/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/14 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1624010849177440257",
+        "start_time": 1676340031,
+        "end_time": 1676358031
+      },
       {
         "id": 1886,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1622887790513131521",
         "start_time": 1675761084,
         "end_time": 1675761084
-      },
-      {
-        "id": 1320,
-        "line_type": "Globle",
-        "title": "国际服课程表3倍 #4 & 学院交流会3倍 #4",
-        "image": "https://static.kivo.wiki/images/timeline/Dg9AHJpcgvmDVRTI3eFo97i7YbdkOF8N.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 2/7 (Mon), Lesson & Scrimmages rewards will be tripled! Don'",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1622127888018411520",
-        "start_time": 1675710005,
-        "end_time": 1676314745
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308973,
+  "time": 1786395001,
   "version": "1.0.0-beta.43"
 }

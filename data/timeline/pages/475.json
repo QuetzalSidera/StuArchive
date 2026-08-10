@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 549,
+        "line_type": "JP",
+        "title": "2周年倒计时登录奖励",
+        "image": "",
+        "body_summary": "【2nd Anniversary】 『ブルーアーカイブ』の2nd Anniversaryに向けて、期間中のログインで合計700個の「青輝石」が獲得できるカウントダウンボーナスイベントが開始されます！ ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1614910406564405251",
+        "start_time": 1673899200,
+        "end_time": 1674503999
+      },
       {
         "id": 541,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1613121163961442305",
         "start_time": 1673337601,
         "end_time": 1673337601
-      },
-      {
-        "id": 1293,
-        "line_type": "Globle",
-        "title": "国际服开发笔记 & 新年问候 2023",
-        "image": "https://static.kivo.wiki/images/timeline/B58g9rjRYQ2Q0HMwcQOesRD6Huv9V7WB.jpg",
-        "body_summary": "[Dev notes] Happy New Year! Dev notes from the Chief PD have arrived. Thank you for the love and sup",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1612645530672185346",
-        "start_time": 1673319620,
-        "end_time": 1673319620
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308982,
+  "time": 1786395009,
   "version": "1.0.0-beta.43"
 }

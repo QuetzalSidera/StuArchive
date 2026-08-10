@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 495,
+        "line_type": "JP",
+        "title": "特殊作战4",
+        "image": "https://static.kivo.wiki/images/timeline/C8gzTCFFBoVnDnLcpwl9cLzMMHmUb0Gl.jpg",
+        "body_summary": "【イベント紹介】 11/16(水)メンテナンス後、不定期開催コンテンツ「特殊作戦」が開始されます！ ミレニアムの「廃墟」、水没地区を調査中に新たな「預言者」と思われる「ケテル」からの襲撃を受けた「特異",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1591264692986515457",
+        "start_time": 1668600000,
+        "end_time": 1669777199
+      },
       {
         "id": 494,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1591687309547560961",
         "start_time": 1668452439,
         "end_time": 1669057179
-      },
-      {
-        "id": 1244,
-        "line_type": "Globle",
-        "title": "国际服炸服10",
-        "image": "",
-        "body_summary": "[11/11(Fri) Temporary Maintenance Notice] We'll be undergoing temporary maintenance on 11/11 (Fri). ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1590675650636967936",
-        "start_time": 1668132044,
-        "end_time": 1668139244
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308994,
+  "time": 1786395019,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4207,
+        "line_type": "Globle",
+        "title": "国际服steam客户端维护#2",
+        "image": "https://static.kivo.wiki/images/timeline/HYl8P8XQa55YysH8mr9Gltst0ZrlFTwV.jpg",
+        "body_summary": "[7/10 (Thu) STEAM Client Data Patch Notice] On 7/10 (Thu) at 9:55 AM (UTC), a live patch was applied",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1943258904558997777",
+        "start_time": 1752130674,
+        "end_time": 1752130674
+      },
       {
         "id": 4201,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1942463817725927853",
         "start_time": 1752030000,
         "end_time": 1752051600
-      },
-      {
-        "id": 4205,
-        "line_type": "JP",
-        "title": "夏莱的总决算with联邦学生会 #13",
-        "image": "https://static.kivo.wiki/images/timeline/LHN1sCs26gtUwPSasuHTYCGSSuU3sCNb.jpg",
-        "body_summary": "【イベント紹介】 メンテナンス終了後より、「シャーレの総決算with連邦生徒会」を開催します。 今回は「AP」消費で獲得できる「財務用電卓」を使って、ボックス抽選へと参加できます！ 報酬として、生徒さ",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1942796071123706366",
-        "start_time": 1752029953,
-        "end_time": 1753153153
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308612,
+  "time": 1786394702,
   "version": "1.0.0-beta.43"
 }

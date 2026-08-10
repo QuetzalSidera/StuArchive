@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 644,
+        "line_type": "JP",
+        "title": "活动「龍武同舟 ～思い描くは、ひとつの未来～」PV公开",
+        "image": "",
+        "body_summary": "【イベントPV】 新イベントのPVを公開します！ 伝統を重んじる「玄龍門」と、伝統を引き継ぎつつも変化を取り入れようとする「玄武商会」の抗争が遂に勃発！？ 一体、山海経はどうなってしまうのでしょうか…",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1660480732916252675",
+        "start_time": 1684728000,
+        "end_time": 1684728000
+      },
       {
         "id": 643,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1657944125214437378",
         "start_time": 1684267200,
         "end_time": 1684612799
-      },
-      {
-        "id": 1411,
-        "line_type": "Globle",
-        "title": "国际服卡池「Teach me, Sensei. I need to know how best to protect you.」",
-        "image": "https://static.kivo.wiki/images/timeline/e6B24EyIPcggCfOAZ9WbIbtk4b8j7dQZ.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A New Pick-Up Recruitment will begin on 5/16 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1657312223977672704",
-        "start_time": 1684202419,
-        "end_time": 1685411959
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308950,
+  "time": 1786394981,
   "version": "1.0.0-beta.43"
 }

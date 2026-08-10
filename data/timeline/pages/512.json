@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 367,
+        "line_type": "JP",
+        "title": "例行维护46",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/22(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1539126003905224704",
+        "start_time": 1655866800,
+        "end_time": 1655895600
+      },
       {
         "id": 1805,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1535547278663962624",
         "start_time": 1655197233,
         "end_time": 1656385233
-      },
-      {
-        "id": 1119,
-        "line_type": "Globle",
-        "title": "国际服活动「Hatsune Miku’s SPECIAL LIVE in Kivotos ~Rehearsal~」",
-        "image": "https://static.kivo.wiki/images/timeline/OtOYNIxipzwEXxX4fwdMz6RZkL2xQmEd.jpg",
-        "body_summary": "[Event Update Notice] Blue Archive’s first collaboration event. Hatsune Miku’s SPECIAL LIVE in Kivot",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1536591814903312384",
-        "start_time": 1655197213,
-        "end_time": 1656385213
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309025,
+  "time": 1786395045,
   "version": "1.0.0-beta.43"
 }

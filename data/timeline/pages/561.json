@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 109,
+        "line_type": "JP",
+        "title": "任务Hard2倍#4",
+        "image": "https://static.kivo.wiki/images/timeline/oNbaXZYPVn5cEF3qQh9UvNMEHKEkkHCO.jpg",
+        "body_summary": "【キャンペーン予告】 6月21日(月)04:00から3日間、「任務(Hard)」のドロップ量が2倍になるキャンペーンが開催されます！ 先月のアップデートにより、イオリさんの神名文字もドロップするように",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1405374906146037764",
+        "start_time": 1624219200,
+        "end_time": 1624478399
+      },
       {
         "id": 108,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/129",
         "start_time": 1622116800,
         "end_time": 1622116800
-      },
-      {
-        "id": 942,
-        "line_type": "JP",
-        "title": "登录奖励「特別補習授業記念のログインボーナス！」",
-        "image": "https://static.kivo.wiki/images/timeline/w08AVfb4HVO7GoFuQlg3zVxKR9YE7AzY.png",
-        "body_summary": "開催期間: 2021年05月27日(木)メンテナンス後 ~ 2021年07月02日(金) 3:59 合計青輝石720個や、強化素材、そしてカフェで使用できる、家具「トリニティ噴水」も用意しましたので、",
-        "type": "Event",
-        "url": "bluearchive.jp/news/newsJump/129",
-        "start_time": 1622116800,
-        "end_time": 1625169540
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309085,
+  "time": 1786395096,
   "version": "1.0.0-beta.43"
 }

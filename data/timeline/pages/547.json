@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 849,
+        "line_type": "Globle",
+        "title": "国际服例行维护1",
+        "image": "",
+        "body_summary": "[Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/16 (Tue).",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1460090226399858695",
+        "start_time": 1637031600,
+        "end_time": 1637046000
+      },
       {
         "id": 962,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1457966182531731456",
         "start_time": 1636441200,
         "end_time": 1637031600
-      },
-      {
-        "id": 842,
-        "line_type": "Globle",
-        "title": "国际服开服",
-        "image": "https://static.kivo.wiki/images/timeline/FQop3eeVKxj5ZorGmyrC8QEyY3FX3jbW.jpg",
-        "body_summary": "[Blue Archive Grand Opening] 11/08/2021 (Mon) 23:00 (UTC) is Blue Archive's official release! We'll ",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1457845458018078723",
-        "start_time": 1636412400,
-        "end_time": 1636412400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309068,
+  "time": 1786395081,
   "version": "1.0.0-beta.43"
 }

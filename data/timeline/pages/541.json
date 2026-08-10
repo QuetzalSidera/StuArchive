@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 228,
+        "line_type": "JP",
+        "title": "炸服19",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 不具合を修正するため、下記の時間にて臨時メンテナンスを行います。 ▼実施日時 12/17(金) 1:00 〜 3:00前後 ▼詳細 http://bluearchive.jp/n",
+        "type": "Maintenance",
+        "url": "/twitter.com/Blue_ArchiveJP/status/1471421498531643392",
+        "start_time": 1639674000,
+        "end_time": 1639681200
+      },
       {
         "id": 879,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1469215624861982722",
         "start_time": 1639512000,
         "end_time": 1640116799
-      },
-      {
-        "id": 877,
-        "line_type": "Globle",
-        "title": "国际服2ndPV公开",
-        "image": "",
-        "body_summary": "[Main Story Update] New Main Story Clockwork Flower Pavane has been updated! Meet the main character",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1470665612456300546",
-        "start_time": 1639468980,
-        "end_time": 1639468980
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309060,
+  "time": 1786395075,
   "version": "1.0.0-beta.43"
 }

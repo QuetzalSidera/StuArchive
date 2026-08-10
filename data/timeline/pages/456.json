@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 628,
+        "line_type": "JP",
+        "title": "例行维护66",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/5(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1643131346771128323?s=20",
+        "start_time": 1680701012,
+        "end_time": 1680701012
+      },
       {
         "id": 627,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1641734944262332418?s=20",
         "start_time": 1680354863,
         "end_time": 1680354863
-      },
-      {
-        "id": 1374,
-        "line_type": "Globle",
-        "title": "国际服2023愚人节特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/dcvKbyQPcQ12UfLhfNKbbpAw2df5ho9U.jpg",
-        "body_summary": "[Celebratory Gifts for Special Videos] Sensei. We have prepared special gifts to celebrate the relea",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1642001336785936387",
-        "start_time": 1680318615,
-        "end_time": 1680318615
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308960,
+  "time": 1786394990,
   "version": "1.0.0-beta.43"
 }

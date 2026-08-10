@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 925,
+        "line_type": "JP",
+        "title": "联合火力演习21",
+        "image": "https://static.kivo.wiki/images/timeline/yckYKdTlrS6N8Mc2AfoJNc7rMdZMlXDI.png",
+        "body_summary": "11月8日(水)メンテナンス終了後、新規合同火力演習「護衛演習」を開催します！ 今回の演習は護衛対象のアバンギャルド君を守りながら、いかに敵部隊を素早く対処できるかを競います。 画面左下に表示されるア",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1721437392853410044",
+        "start_time": 1699448334,
+        "end_time": 1700053134
+      },
       {
         "id": 920,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "b23.tv/iPwGG78",
         "start_time": 1699178460,
         "end_time": 1699178520
-      },
-      {
-        "id": 1582,
-        "line_type": "Globle",
-        "title": "国际服音乐会礼物",
-        "image": "https://static.kivo.wiki/images/timeline/bMsv5kURzouI7hf9HY1LwhQ940tZXNHm.jpg",
-        "body_summary": "[Special Concert Gift] 'Sound Archive The Orchestra' happens today at last! Log in now to receive th",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1720999376523579806",
-        "start_time": 1699153233,
-        "end_time": 1699153233
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308891,
+  "time": 1786394933,
   "version": "1.0.0-beta.43"
 }

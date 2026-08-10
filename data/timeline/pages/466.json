@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 584,
+        "line_type": "JP",
+        "title": "联合火力演习12",
+        "image": "https://static.kivo.wiki/images/timeline/KYgYc9XdaTObCzH5Z6Bki7HVpZuOelWa.jpg",
+        "body_summary": "【合同火力演習・予告】 2月15日(水)11:00より、合同火力演習「突破演習」が開始します！ 今回の特殊ルールでは「かかし」の状態が一定時間毎に変化するため、いつも通りの指揮では逆に生徒さん達がピン",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1624966736532623362",
+        "start_time": 1676430000,
+        "end_time": 1677009599
+      },
       {
         "id": 586,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1623215052282118144",
         "start_time": 1676355608,
         "end_time": 1676919548
-      },
-      {
-        "id": 1325,
-        "line_type": "Globle",
-        "title": "国际服例行维护32",
-        "image": "",
-        "body_summary": "[2/14 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/14 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1624010849177440257",
-        "start_time": 1676340031,
-        "end_time": 1676358031
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308972,
+  "time": 1786395000,
   "version": "1.0.0-beta.43"
 }

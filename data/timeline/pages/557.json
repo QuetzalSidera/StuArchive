@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 156,
+        "line_type": "JP",
+        "title": "卡池「吹き抜ける風の在り処」",
+        "image": "https://static.kivo.wiki/images/timeline/zaQicqAuwWNKGlgBWSL9gJCeGRPiAPof.jpg",
+        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「吹き抜ける風の在り処」がまもなく開催されます！ 🔷開催期間 2021年8月12日(木) メンテナンス後 ~ 2021年8月26日(木)メンテナン",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1425366648060485640",
+        "start_time": 1628762400,
+        "end_time": 1629950400
+      },
       {
         "id": 153,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1418910926380703747",
         "start_time": 1627560000,
         "end_time": 1630039894
-      },
-      {
-        "id": 950,
-        "line_type": "JP",
-        "title": "社团剧情「梅花園」、「生活安全局」追加",
-        "image": "https://static.kivo.wiki/images/timeline/ttRBZiy4dXw9NcFwNhctdHdyAMrGnQVC.png",
-        "body_summary": "【サブストーリー】 ・梅花園グループシナリオ、2話を新規追加 ・生活安全局グループシナリオ、2話を新規追加",
-        "type": "OtherStory",
-        "url": "bluearchive.jp/news/newsJump/144",
-        "start_time": 1627560000,
-        "end_time": 1627560000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309080,
+  "time": 1786395092,
   "version": "1.0.0-beta.43"
 }

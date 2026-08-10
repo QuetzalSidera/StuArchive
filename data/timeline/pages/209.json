@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 3664,
+        "line_type": "JP",
+        "title": "例行维护 #114",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/26(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1894266282192900174",
+        "start_time": 1740538800,
+        "end_time": 1740567600
+      },
       {
         "id": 3662,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1328",
         "start_time": 1740031222,
         "end_time": 1741240822
-      },
-      {
-        "id": 3755,
-        "line_type": "CN",
-        "title": "限时活动【龙武同舟~心中所绘，同一个未来~】",
-        "image": "https://static.kivo.wiki/images/timeline/yWCJ8WSZREwYp7S6LQuYoreeBIz83Uz2.jpg",
-        "body_summary": "老师！限时活动【龙武同舟 ~ 心中所绘，同一个未来 ~ 】现已开启！ 重视历史和传统的山海经理事会玄龙门，以及尊崇进化的玄武商会—— 在这两个派系的对立下，山海经维持着微妙的平衡。 但有一天，玄武商会",
-        "type": "Event",
-        "url": "weibo.com/6011443154/Pf9MTnRmW",
-        "start_time": 1740031212,
-        "end_time": 1741226712
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308670,
+  "time": 1786394749,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 287,
+        "line_type": "JP",
+        "title": "联合火力演习2",
+        "image": "https://static.kivo.wiki/images/timeline/oGMQ6vjbmvGoVTbIqCfLhm8gm2EiI9d1.jpg",
+        "body_summary": "【合同火力演習・予告】 3月23日(水)メンテナンス終了後、合同火力演習「防御演習」が開始します！ 今回の演習では、いかに集団で現れる敵を素早く対処できるかが重要みたいです…。 どの生徒さんの能力が「",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1505756130248904707",
+        "start_time": 1648033200,
+        "end_time": 1648583999
+      },
       {
         "id": 285,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1505740994628755459",
         "start_time": 1647918044,
         "end_time": 1647939644
-      },
-      {
-        "id": 281,
-        "line_type": "JP",
-        "title": "任务Hard2倍#11",
-        "image": "https://static.kivo.wiki/images/timeline/LkI592WNqCcYoCXOxIG6OadyuDTJ6SJb.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ 生徒さんの「神名文字」や装備の「設計図」など、この機会にたくさん集めてみませんか？ ▼開催期間 ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1502841974663294977",
-        "start_time": 1647720000,
-        "end_time": 1647979199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309041,
+  "time": 1786395059,
   "version": "1.0.0-beta.43"
 }

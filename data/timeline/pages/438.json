@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 717,
+        "line_type": "JP",
+        "title": "停止推特关联注册公告",
+        "image": "",
+        "body_summary": "【重要なお知らせ】 いつも「ブルーアーカイブ」をご利用いただき、誠にありがとうございます。 今後Twitter連携に関する方針をお知らせいたします。 詳細につきましては下記のURLにてご確認ください。",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1675806638400475137",
+        "start_time": 1688382000,
+        "end_time": 1688382000
+      },
       {
         "id": 1459,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1673666110695133186",
         "start_time": 1687868078,
         "end_time": 1687868078
-      },
-      {
-        "id": 1448,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习11",
-        "image": "https://static.kivo.wiki/images/timeline/jN4xYPH1EwZ1KTptpxHBc8vXly942BKP.jpg",
-        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Defense Drill) will start on 6/27 (Tue)! Offici",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1671412636972642305",
-        "start_time": 1687867234,
-        "end_time": 1688410834
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308939,
+  "time": 1786394973,
   "version": "1.0.0-beta.43"
 }

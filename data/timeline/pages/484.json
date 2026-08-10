@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 502,
+        "line_type": "JP",
+        "title": "主线Vol.2第二章告知PV公开",
+        "image": "",
+        "body_summary": "【時計仕掛けの花のパヴァーヌ】 先生！ ゲーム開発部のアリスさんから動画が届きました！ アリスさん達はもうすぐ新しいクエストに出かけるようです！ どのようなクエストが待ち受けているのでしょうか…！ 先",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1594978996038549504",
+        "start_time": 1669111200,
+        "end_time": 1669111200
+      },
       {
         "id": 501,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1592381915876962304",
         "start_time": 1668600000,
         "end_time": 1669777199
-      },
-      {
-        "id": 495,
-        "line_type": "JP",
-        "title": "特殊作战4",
-        "image": "https://static.kivo.wiki/images/timeline/C8gzTCFFBoVnDnLcpwl9cLzMMHmUb0Gl.jpg",
-        "body_summary": "【イベント紹介】 11/16(水)メンテナンス後、不定期開催コンテンツ「特殊作戦」が開始されます！ ミレニアムの「廃墟」、水没地区を調査中に新たな「預言者」と思われる「ケテル」からの襲撃を受けた「特異",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1591264692986515457",
-        "start_time": 1668600000,
-        "end_time": 1669777199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308993,
+  "time": 1786395018,
   "version": "1.0.0-beta.43"
 }

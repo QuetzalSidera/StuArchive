@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2560,
+        "line_type": "JP",
+        "title": "活动「On your mark ＠ millennium～キヴォトス晄輪大祭～」",
+        "image": "https://static.kivo.wiki/images/timeline/lHPbWFKdWWVt0XkAk7IENCVJliGZQAS8.jpg",
+        "body_summary": "【イベント紹介】 9/28(水)メンテナンス終了後、新イベント「On your mark ＠ millennium」が開催されます！ イベントでは「ヒビキ(応援団)」さんをお迎えできる他、イベント限定",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1574640237271080961",
+        "start_time": 1664359227,
+        "end_time": 1665543627
+      },
       {
         "id": 448,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1574173149989576705",
         "start_time": 1664150700,
         "end_time": 1664150700
-      },
-      {
-        "id": 441,
-        "line_type": "JP",
-        "title": "炸服21",
-        "image": "",
-        "body_summary": "【接続障害】 現在ゲームへの接続に関わる不具合が確認されたため、急ぎ調査を行っております。 原因が判明し次第改めてお知らせいたします。 今しばらくお待ちくださいますようお願いいたします。 先生方にご不",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1573693486305452035",
-        "start_time": 1664037060,
-        "end_time": 1664044200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309007,
+  "time": 1786395029,
   "version": "1.0.0-beta.43"
 }

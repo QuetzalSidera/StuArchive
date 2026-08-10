@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2522,
+        "line_type": "JP",
+        "title": "活动「A-H.A占領戦」",
+        "image": "https://static.kivo.wiki/images/timeline/mZI4QhqHNpKP6Lw6kEJ3AWttgyOUQhty.jpg",
+        "body_summary": "【イベント紹介】 2/22(水)メンテナンス後より、イベント「A-H.A占領戦」が開催します！ 今回のイベントはメインストーリーFinal.「あまねく奇跡の始発点」編 第3章と連動した、「占領戦」イベ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1627912086813831168",
+        "start_time": 1677060833,
+        "end_time": 1678244393
+      },
       {
         "id": 591,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1626231360129232902",
         "start_time": 1676551530,
         "end_time": 1676627610
-      },
-      {
-        "id": 584,
-        "line_type": "JP",
-        "title": "联合火力演习12",
-        "image": "https://static.kivo.wiki/images/timeline/KYgYc9XdaTObCzH5Z6Bki7HVpZuOelWa.jpg",
-        "body_summary": "【合同火力演習・予告】 2月15日(水)11:00より、合同火力演習「突破演習」が開始します！ 今回の特殊ルールでは「かかし」の状態が一定時間毎に変化するため、いつも通りの指揮では逆に生徒さん達がピン",
-        "type": "MiniBattle",
-        "url": "twitter.com/Blue_ArchiveJP/status/1624966736532623362",
-        "start_time": 1676430000,
-        "end_time": 1677009599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308971,
+  "time": 1786394999,
   "version": "1.0.0-beta.43"
 }

@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2319,
+        "line_type": "JP",
+        "title": "TV动画播送前PV公开",
+        "image": "",
+        "body_summary": "◤放送直前PV解禁◢ 『ブルーアーカイブ The Animation』の放送直前PVが解禁です！ 対策委員会のメンバーに加え、アロナや便利屋68の姿も……!!👀 https://youtu.be/pG",
+        "type": "OutsideGames",
+        "url": "twitter.com/BlueArchive_TV/status/1771432945183785166",
+        "start_time": 1711181100,
+        "end_time": 1711181100
+      },
       {
         "id": 2289,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/638",
         "start_time": 1711000824,
         "end_time": 1712210424
-      },
-      {
-        "id": 2304,
-        "line_type": "CN",
-        "title": "活动【邮轮幸运签到册】",
-        "image": "https://static.kivo.wiki/images/timeline/p4Cg4mIkd67bXcbQy0utIumX7c4fhVlI.jpg",
-        "body_summary": "听闻豪华邮轮上正在举办幸运签到活动！活动期间累计登录游戏，即可获得大量信用积分和养成素材！老师可千万不要错过啦！ ■ 活动时间 03月21日 14:00 ~ 04月11日 03:59 ■ 奖励内容 累",
-        "type": "Event",
-        "url": "weibo.com/6011443154/O5HClg5Qk",
-        "start_time": 1711000804,
-        "end_time": 1712815204
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308830,
+  "time": 1786394882,
   "version": "1.0.0-beta.43"
 }

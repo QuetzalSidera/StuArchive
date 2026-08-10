@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1733,
+        "line_type": "CN",
+        "title": "例行维护1",
+        "image": "https://static.kivo.wiki/images/timeline/B9JElr6dKpfhffFzkrws5IZWKGgz6e9L.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月17日（周四）14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为",
+        "type": "Maintenance",
+        "url": "www.bilibili.com/read/cv25786826/?spm_id_from=333.999.0.0",
+        "start_time": 1692252019,
+        "end_time": 1692266419
+      },
       {
         "id": 1731,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1684760967274696704",
         "start_time": 1692176400,
         "end_time": 1692734399
-      },
-      {
-        "id": 1501,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习12",
-        "image": "https://static.kivo.wiki/images/timeline/SKFWrf8IimqJFyPPVeqNbGPlfRoMgwfW.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Breakthrough Drill) has opened 8/15 (Tue) 2",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1691343971333935104",
-        "start_time": 1692064857,
-        "end_time": 1692644757
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308923,
+  "time": 1786394959,
   "version": "1.0.0-beta.43"
 }

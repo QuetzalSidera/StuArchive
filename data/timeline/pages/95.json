@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4860,
+        "line_type": "Globle",
+        "title": "国际服例行维护#100",
+        "image": "https://static.kivo.wiki/images/timeline/d23Jcdw8hwvzD5pkWqbJblIW5AlFTyLF.jpg",
+        "body_summary": "[12/30 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 12/30 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2004477288298225965",
+        "start_time": 1767060000,
+        "end_time": 1767070800
+      },
       {
         "id": 4859,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2002336289618866453",
         "start_time": 1766779200,
         "end_time": 1766951999
-      },
-      {
-        "id": 4795,
-        "line_type": "Globle",
-        "title": "国际服任务Hard 3倍 #14",
-        "image": "https://static.kivo.wiki/images/timeline/CC0vcN7BXfFJ4ri8SxX4uWmLENmeZIeM.jpg",
-        "body_summary": "4) Mission (Hard) Triple Rewards CampaignEvent Schedule: 12/26 (Fri) 7:00 PM – 12/29 (Mon) 6:59 PM (",
-        "type": "Double",
-        "url": "forum.nexon.com/bluearchive-en/board_view?board=3028&thread=3302503",
-        "start_time": 1766775600,
-        "end_time": 1767034799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308535,
+  "time": 1786394639,
   "version": "1.0.0-beta.43"
 }

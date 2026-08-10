@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 416,
+        "line_type": "JP",
+        "title": "例行维护50",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/24(水)11:00 〜 19:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1561956463542956037",
+        "start_time": 1661310000,
+        "end_time": 1661338800
+      },
       {
         "id": 415,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1561548855526981633",
         "start_time": 1661140800,
         "end_time": 1661140800
-      },
-      {
-        "id": 411,
-        "line_type": "JP",
-        "title": "任务hard3倍 #4",
-        "image": "https://static.kivo.wiki/images/timeline/eXYuJOmTbDysoWRId4PepIP6kYuXvrZY.jpg",
-        "body_summary": "【キャンペーン予告】 8月18日(木)より、「任務(Hard)」のドロップ量が3倍になるキャンペーンが開催されます！ 1.5周年記念最後の3倍キャンペーンです！ 生徒さんの「神名文字」や装備の「設計図",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1558649727235031040",
-        "start_time": 1660766400,
-        "end_time": 1661284799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309013,
+  "time": 1786395035,
   "version": "1.0.0-beta.43"
 }

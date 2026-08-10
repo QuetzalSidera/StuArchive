@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1397,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习9",
+        "image": "https://static.kivo.wiki/images/timeline/Cdsx2u1RrZUD8KA8ZMUrMNQnjbYxhvEO.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Breakthrough Drill) will start on 5/2 (Tue)! Of",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1651118915307859969",
+        "start_time": 1683007237,
+        "end_time": 1683572377
+      },
       {
         "id": 1400,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1651088788905680896?s=20",
         "start_time": 1682484373,
         "end_time": 1682484373
-      },
-      {
-        "id": 672,
-        "line_type": "JP",
-        "title": "登录奖励「春のピクニック アロナの特別プレゼント！」",
-        "image": "https://static.kivo.wiki/images/timeline/x0EWTStO5ZJv5DqdMCAEm0hSugYiId9K.jpg",
-        "body_summary": "【お知らせ】 メンテナンス終了後より「春のピクニック アロナの特別プレゼント！」が開催されます！ 開催期間中、毎日のログインで「青輝石」の他、「ユズ(メイド)」さんの家具モーション付き限定家具「鉄製引",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1651073692347289601?s=20",
-        "start_time": 1682484331,
-        "end_time": 1683693931
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786308953,
+  "time": 1786394984,
   "version": "1.0.0-beta.43"
 }

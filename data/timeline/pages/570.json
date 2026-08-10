@@ -13,7 +13,7 @@
       "Live": 87,
       "MainStory": 125,
       "Maintenance": 440,
-      "MiniBattle": 204,
+      "MiniBattle": 205,
       "Other": 704,
       "OtherStory": 64,
       "OutsideGames": 892,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 73,
+        "line_type": "JP",
+        "title": "初次活动礼物",
+        "image": "https://static.kivo.wiki/images/timeline/l1VtimwUmOJUl1vIFIB9mQRQfu02K76V.jpg",
+        "body_summary": "【百鬼夜行前夜祭】 明日からついに、「ブルアカ」初のイベントが開催されます！ 本日はその前夜祭ということで、準備資金として「青輝石×1200」（生徒募集10回分）をすべての先生方に特別支給します！ 生",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1364514800219287553",
+        "start_time": 1614157020,
+        "end_time": 1614157020
+      },
       {
         "id": 71,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1360808487698194436",
         "start_time": 1613296193,
         "end_time": 1613900993
-      },
-      {
-        "id": 54,
-        "line_type": "JP",
-        "title": "炸服6",
-        "image": "",
-        "body_summary": "【緊急メンテナンス】 現在ログインに関わる不具合が確認されたため、これから、緊急メンテナンスを行わせていただきます。 進展がございましたらあらためてご案内いたします。 ご不便をおかけしてしまい申し訳あ",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1360459432560238593",
-        "start_time": 1613197320,
-        "end_time": 1613218380
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786309096,
+  "time": 1786395105,
   "version": "1.0.0-beta.43"
 }
