@@ -7,15 +7,176 @@
     "api_path": "/walkthroughs/",
     "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/"
   },
-  "generated_at": "2026-08-10T18:54:51Z",
+  "generated_at": "2026-08-11T18:59:35Z",
   "list_key": "walkthrough",
   "id_key": "id",
   "max_page": 10,
   "synced_pages": 10,
-  "total_items": 97,
-  "details_synced": 97,
+  "total_items": 98,
+  "details_synced": 98,
   "details_enabled": true,
   "items": [
+    {
+      "id": 133,
+      "user": {
+        "id": 22395,
+        "user_name": "tangdeershi",
+        "introduction": "棠の二世",
+        "avatar": "https://static.kivo.wiki/images/avatar/22395/aPF7Ltwt8iyDTgZHA6a1F0xylI9qejNi.png"
+      },
+      "title": "推图（新手）",
+      "server": "China",
+      "game_mode": "Missions",
+      "enemy_defensive_attributes": "Rainbow",
+      "level_terrain": "Other",
+      "introduce_summary": "",
+      "team": [
+        {
+          "student": [
+            {
+              "student_id": 78,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 2,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 52,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 157,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 212,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 61,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            }
+          ],
+          "initial_skills": [],
+          "timeline": []
+        }
+      ],
+      "reference_score": 0,
+      "is_favorite": false,
+      "state": 1,
+      "favorite_num": 0,
+      "created_at": 1786457322,
+      "updated_at": 1786457349
+    },
     {
       "id": 121,
       "user": {
@@ -181,7 +342,7 @@
       "reference_score": 0,
       "is_favorite": false,
       "state": 0,
-      "favorite_num": 0,
+      "favorite_num": 1,
       "created_at": 1785675843,
       "updated_at": 1785687535
     },
@@ -947,7 +1108,7 @@
       "reference_score": 246290,
       "is_favorite": false,
       "state": 0,
-      "favorite_num": 0,
+      "favorite_num": 1,
       "created_at": 1778172314,
       "updated_at": 1778253777
     },
@@ -26116,10 +26277,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/?page=10",
       "path": "walkthroughs/pages/10.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/pages/10.json",
-      "item_count": 7
+      "item_count": 8
     }
   ],
   "details": [
+    {
+      "id": 133,
+      "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/133",
+      "path": "walkthroughs/133.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/133.json"
+    },
     {
       "id": 121,
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/121",
@@ -26706,8 +26873,8 @@
   "lookup": {
     "path": "walkthroughs/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/lookup.json",
-    "alias_count": 97,
-    "normalized_alias_count": 97,
-    "total_items": 97
+    "alias_count": 98,
+    "normalized_alias_count": 98,
+    "total_items": 98
   }
 }
