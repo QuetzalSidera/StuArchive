@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-11T18:59:35Z",
+  "generated_at": "2026-08-12T18:59:22Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 489,
-  "alias_count": 5676,
-  "normalized_alias_count": 3893,
+  "total_items": 492,
+  "alias_count": 5694,
+  "normalized_alias_count": 3905,
   "by_id": {
     "76": {
       "id": 76,
@@ -2163,6 +2163,31 @@
       "profile_path": "students/profiles/611.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/611.json"
     },
+    "617": {
+      "id": 617,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 617,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "明乐",
+        "given_name": "可怜",
+        "family_name_jp": "明楽",
+        "given_name_jp": "カレン",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20CH0363/original/CH0363.png",
+        "school": 3,
+        "main_relation": 154
+      },
+      "detail_path": "students/617.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/617.json",
+      "profile_path": "students/profiles/617.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/617.json"
+    },
     "229": {
       "id": 229,
       "source_path": "students/index.json",
@@ -2212,6 +2237,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/547.json",
       "profile_path": "students/profiles/547.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/547.json"
+    },
+    "618": {
+      "id": 618,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 618,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "五十岚",
+        "given_name": "憧子",
+        "family_name_jp": "五十嵐",
+        "given_name_jp": "ショウコ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20CH0364/original/CH0364.png",
+        "school": 3,
+        "main_relation": 154
+      },
+      "detail_path": "students/618.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/618.json",
+      "profile_path": "students/profiles/618.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/618.json"
     },
     "71": {
       "id": 71,
@@ -2787,6 +2837,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/539.json",
       "profile_path": "students/profiles/539.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/539.json"
+    },
+    "616": {
+      "id": 616,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 616,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "降旗",
+        "given_name": "真由美",
+        "family_name_jp": "降旗",
+        "given_name_jp": "マユミ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20CH0362/original/CH0362.png",
+        "school": 3,
+        "main_relation": 154
+      },
+      "detail_path": "students/616.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/616.json",
+      "profile_path": "students/profiles/616.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/616.json"
     },
     "107": {
       "id": 107,
@@ -16884,6 +16959,24 @@
     "千明-泳裝": [
       "611"
     ],
+    "明乐可怜": [
+      "617"
+    ],
+    "明乐 可怜": [
+      "617"
+    ],
+    "可怜": [
+      "617"
+    ],
+    "明楽カレン": [
+      "617"
+    ],
+    "明楽 カレン": [
+      "617"
+    ],
+    "カレン": [
+      "617"
+    ],
     "下仓惠": [
       "229",
       "547"
@@ -16988,6 +17081,24 @@
     ],
     "惠-泳裝": [
       "547"
+    ],
+    "五十岚憧子": [
+      "618"
+    ],
+    "五十岚 憧子": [
+      "618"
+    ],
+    "憧子": [
+      "618"
+    ],
+    "五十嵐ショウコ": [
+      "618"
+    ],
+    "五十嵐 ショウコ": [
+      "618"
+    ],
+    "ショウコ": [
+      "618"
     ],
     "空崎日奈": [
       "71",
@@ -18383,6 +18494,24 @@
     ],
     "真琴-禮服": [
       "539"
+    ],
+    "降旗真由美": [
+      "616"
+    ],
+    "降旗 真由美": [
+      "616"
+    ],
+    "真由美": [
+      "616"
+    ],
+    "降旗マユミ": [
+      "616"
+    ],
+    "降旗 マユミ": [
+      "616"
+    ],
+    "マユミ": [
+      "616"
     ],
     "浅黄睦月": [
       "107",
@@ -33360,6 +33489,18 @@
     "千明-泳裝": [
       "611"
     ],
+    "明乐可怜": [
+      "617"
+    ],
+    "可怜": [
+      "617"
+    ],
+    "明楽カレン": [
+      "617"
+    ],
+    "カレン": [
+      "617"
+    ],
     "下仓惠": [
       "229",
       "547"
@@ -33429,6 +33570,18 @@
     ],
     "惠-泳裝": [
       "547"
+    ],
+    "五十岚憧子": [
+      "618"
+    ],
+    "憧子": [
+      "618"
+    ],
+    "五十嵐ショウコ": [
+      "618"
+    ],
+    "ショウコ": [
+      "618"
     ],
     "空崎日奈": [
       "71",
@@ -34359,6 +34512,18 @@
     ],
     "真琴-禮服": [
       "539"
+    ],
+    "降旗真由美": [
+      "616"
+    ],
+    "真由美": [
+      "616"
+    ],
+    "降旗マユミ": [
+      "616"
+    ],
+    "マユミ": [
+      "616"
     ],
     "浅黄睦月": [
       "107",

@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-08-11T18:59:35Z",
+  "generated_at": "2026-08-12T18:59:22Z",
   "list_key": "students",
   "id_key": "id",
-  "max_page": 49,
-  "synced_pages": 49,
-  "total_items": 489,
-  "details_synced": 489,
+  "max_page": 50,
+  "synced_pages": 50,
+  "total_items": 492,
+  "details_synced": 492,
   "details_enabled": true,
   "items": [
     {
@@ -1393,6 +1393,22 @@
       "main_relation": 24
     },
     {
+      "id": 617,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "明乐",
+      "given_name": "可怜",
+      "family_name_jp": "明楽",
+      "given_name_jp": "カレン",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20CH0363/original/CH0363.png",
+      "school": 3,
+      "main_relation": 154
+    },
+    {
       "id": 229,
       "skin": "",
       "skin_jp": "",
@@ -1423,6 +1439,22 @@
       "avatar": "https://static.kivo.wiki/images/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/2.png",
       "school": 3,
       "main_relation": 30
+    },
+    {
+      "id": 618,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "五十岚",
+      "given_name": "憧子",
+      "family_name_jp": "五十嵐",
+      "given_name_jp": "ショウコ",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20CH0364/original/CH0364.png",
+      "school": 3,
+      "main_relation": 154
     },
     {
       "id": 71,
@@ -1791,6 +1823,22 @@
       "avatar": "https://static.kivo.wiki/images/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E7%A4%BC%E6%9C%8D/%E7%BE%BD%E6%B2%BC%E7%9C%9F%E7%90%B4%28%E7%A4%BC%E6%9C%8D%29.png",
       "school": 3,
       "main_relation": 24
+    },
+    {
+      "id": 616,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "降旗",
+      "given_name": "真由美",
+      "family_name_jp": "降旗",
+      "given_name_jp": "マユミ",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20CH0362/original/CH0362.png",
+      "school": 3,
+      "main_relation": 154
     },
     {
       "id": 107,
@@ -8183,7 +8231,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=49",
       "path": "students/pages/49.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/49.json",
-      "item_count": 9
+      "item_count": 10
+    },
+    {
+      "page": 50,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=50",
+      "path": "students/pages/50.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/50.json",
+      "item_count": 2
     }
   ],
   "details": [
@@ -8704,6 +8759,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/611.json"
     },
     {
+      "id": 617,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/617",
+      "path": "students/617.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/617.json"
+    },
+    {
       "id": 229,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/229",
       "path": "students/229.json",
@@ -8714,6 +8775,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/547",
       "path": "students/547.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/547.json"
+    },
+    {
+      "id": 618,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/618",
+      "path": "students/618.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/618.json"
     },
     {
       "id": 71,
@@ -8852,6 +8919,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/539",
       "path": "students/539.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/539.json"
+    },
+    {
+      "id": 616,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/616",
+      "path": "students/616.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/616.json"
     },
     {
       "id": 107,
@@ -11125,9 +11198,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5676,
-    "normalized_alias_count": 3893,
-    "total_items": 489
+    "alias_count": 5694,
+    "normalized_alias_count": 3905,
+    "total_items": 492
   },
   "profiles": [
     {
@@ -13391,6 +13464,21 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/615.json"
     },
     {
+      "id": 616,
+      "path": "students/profiles/616.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/616.json"
+    },
+    {
+      "id": 617,
+      "path": "students/profiles/617.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/617.json"
+    },
+    {
+      "id": 618,
+      "path": "students/profiles/618.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/618.json"
+    },
+    {
       "id": 62,
       "path": "students/profiles/62.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/62.json"
@@ -13599,6 +13687,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 493
+    "total_items": 496
   }
 }

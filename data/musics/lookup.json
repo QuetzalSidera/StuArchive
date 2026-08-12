@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-08-11T18:59:35Z",
+  "generated_at": "2026-08-12T18:59:22Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 984,
-  "alias_count": 1294,
-  "normalized_alias_count": 1294,
+  "total_items": 990,
+  "alias_count": 1300,
+  "normalized_alias_count": 1300,
   "by_id": {
     "1": {
       "id": 1,
@@ -15756,6 +15756,102 @@
       },
       "detail_path": "musics/1003.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1003.json"
+    },
+    "1004": {
+      "id": 1004,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1004,
+        "title": "Theme_348",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_348"
+      },
+      "detail_path": "musics/1004.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1004.json"
+    },
+    "1005": {
+      "id": 1005,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1005,
+        "title": "Theme_356",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_356"
+      },
+      "detail_path": "musics/1005.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1005.json"
+    },
+    "1006": {
+      "id": 1006,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1006,
+        "title": "Theme_357",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_357"
+      },
+      "detail_path": "musics/1006.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1006.json"
+    },
+    "1007": {
+      "id": 1007,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1007,
+        "title": "Theme_364",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_364"
+      },
+      "detail_path": "musics/1007.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1007.json"
+    },
+    "1008": {
+      "id": 1008,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1008,
+        "title": "Theme_365",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_365"
+      },
+      "detail_path": "musics/1008.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1008.json"
+    },
+    "1009": {
+      "id": 1009,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1009,
+        "title": "Theme_371",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_371"
+      },
+      "detail_path": "musics/1009.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1009.json"
     }
   },
   "by_alias": {
@@ -19641,6 +19737,24 @@
     ],
     "全速向光 (伴奏)": [
       "1003"
+    ],
+    "Theme_348": [
+      "1004"
+    ],
+    "Theme_356": [
+      "1005"
+    ],
+    "Theme_357": [
+      "1006"
+    ],
+    "Theme_364": [
+      "1007"
+    ],
+    "Theme_365": [
+      "1008"
+    ],
+    "Theme_371": [
+      "1009"
     ]
   },
   "by_normalized_alias": {
@@ -23526,6 +23640,24 @@
     ],
     "全速向光(伴奏)": [
       "1003"
+    ],
+    "theme_348": [
+      "1004"
+    ],
+    "theme_356": [
+      "1005"
+    ],
+    "theme_357": [
+      "1006"
+    ],
+    "theme_364": [
+      "1007"
+    ],
+    "theme_365": [
+      "1008"
+    ],
+    "theme_371": [
+      "1009"
     ]
   }
 }

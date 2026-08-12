@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "relations",
   "description": "Character relation and faction records.",
-  "generated_at": "2026-08-11T18:59:35Z",
+  "generated_at": "2026-08-12T18:59:22Z",
   "id_key": "id",
   "source_index": {
     "path": "relations/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 151,
-  "alias_count": 199,
-  "normalized_alias_count": 199,
+  "total_items": 152,
+  "alias_count": 200,
+  "normalized_alias_count": 200,
   "by_id": {
     "1": {
       "id": 1,
@@ -2126,6 +2126,20 @@
       },
       "detail_path": "relations/153.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/153.json"
+    },
+    "154": {
+      "id": 154,
+      "source_path": "relations/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/index.json",
+      "item": {
+        "id": 154,
+        "name": "格赫娜复兴委员会",
+        "name_cn": "",
+        "image": "https://static.kivo.wiki/images/relation/D2iYq9t1LbzdnFi9qxz5SH3NLV3haMhq.jpg",
+        "description": ""
+      },
+      "detail_path": "relations/154.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/154.json"
     }
   },
   "by_alias": {
@@ -2726,6 +2740,9 @@
     ],
     "三叉戟": [
       "153"
+    ],
+    "格赫娜复兴委员会": [
+      "154"
     ]
   },
   "by_normalized_alias": {
@@ -3326,6 +3343,9 @@
     ],
     "三叉戟": [
       "153"
+    ],
+    "格赫娜复兴委员会": [
+      "154"
     ]
   }
 }

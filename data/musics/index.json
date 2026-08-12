@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-08-11T18:59:35Z",
+  "generated_at": "2026-08-12T18:59:22Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 99,
   "synced_pages": 99,
-  "total_items": 984,
-  "details_synced": 984,
+  "total_items": 990,
+  "details_synced": 990,
   "details_enabled": true,
   "items": [
     {
@@ -8871,6 +8871,60 @@
       "album": "全速向光",
       "use": "专辑曲目",
       "original_file_name": ""
+    },
+    {
+      "id": 1004,
+      "title": "Theme_348",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_348"
+    },
+    {
+      "id": 1005,
+      "title": "Theme_356",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_356"
+    },
+    {
+      "id": 1006,
+      "title": "Theme_357",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_357"
+    },
+    {
+      "id": 1007,
+      "title": "Theme_364",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_364"
+    },
+    {
+      "id": 1008,
+      "title": "Theme_365",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_365"
+    },
+    {
+      "id": 1009,
+      "title": "Theme_371",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_371"
     }
   ],
   "pages": [
@@ -9565,7 +9619,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=99",
       "path": "musics/pages/99.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/99.json",
-      "item_count": 4
+      "item_count": 10
     }
   ],
   "details": [
@@ -15472,13 +15526,49 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1003",
       "path": "musics/1003.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1003.json"
+    },
+    {
+      "id": 1004,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1004",
+      "path": "musics/1004.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1004.json"
+    },
+    {
+      "id": 1005,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1005",
+      "path": "musics/1005.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1005.json"
+    },
+    {
+      "id": 1006,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1006",
+      "path": "musics/1006.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1006.json"
+    },
+    {
+      "id": 1007,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1007",
+      "path": "musics/1007.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1007.json"
+    },
+    {
+      "id": 1008,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1008",
+      "path": "musics/1008.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1008.json"
+    },
+    {
+      "id": 1009,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1009",
+      "path": "musics/1009.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1009.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1294,
-    "normalized_alias_count": 1294,
-    "total_items": 984
+    "alias_count": 1300,
+    "normalized_alias_count": 1300,
+    "total_items": 990
   }
 }
