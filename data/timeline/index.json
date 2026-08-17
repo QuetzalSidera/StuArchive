@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-08-16T18:25:51Z",
+  "generated_at": "2026-08-17T18:36:41Z",
   "list_key": "timeline",
   "id_key": "id",
-  "max_page": 576,
-  "synced_pages": 576,
-  "total_items": 5756,
+  "max_page": 577,
+  "synced_pages": 577,
+  "total_items": 5761,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -81,6 +81,39 @@
       "url": "x.com/Blue_ArchiveJP/status/2081349057646305521",
       "start_time": 1787083200,
       "end_time": 1787687999
+    },
+    {
+      "id": 5914,
+      "line_type": "Globle",
+      "title": "国际服主线第2部序章更新",
+      "image": "https://static.kivo.wiki/images/timeline/Hjinty3GHnzC6jbCOjMhwz7XInc2Xdc1.jpg",
+      "body_summary": "[Main Story Announcement] Main Story Act 2 Prologue is coming soon, Sensei! Please look forward to i",
+      "type": "MainStory",
+      "url": "x.com/EN_BlueArchive/status/2088143581043363922",
+      "start_time": 1787065722,
+      "end_time": 0
+    },
+    {
+      "id": 5913,
+      "line_type": "Globle",
+      "title": "国际服主线第2部 Vol.0 第一章更新",
+      "image": "https://static.kivo.wiki/images/timeline/CRtFgVDQhYzhcZr2JA5Dxkh7fDFXBPpV.jpg",
+      "body_summary": "[Main Story Announcement] Main Story Act 2, Vol 0. General Student Council Chapter 1: A Spring Day F",
+      "type": "MainStory",
+      "url": "x.com/EN_BlueArchive/status/2088201567833083965",
+      "start_time": 1787065622,
+      "end_time": 0
+    },
+    {
+      "id": 5912,
+      "line_type": "Globle",
+      "title": "国际服主线第二部 Vol.EX 第1章更新",
+      "image": "https://static.kivo.wiki/images/timeline/6F8d3O4rWvIxaBckI3zCPUEtUzH3vN6o.jpg",
+      "body_summary": "Ex. Lore Pursuit Chapter 1: High Noon Haze is coming soon, Sensei! Please look forward to it! #BlueA",
+      "type": "MainStory",
+      "url": "x.com/EN_BlueArchive/status/2088151131453317145",
+      "start_time": 1787065178,
+      "end_time": 0
     },
     {
       "id": 5896,
@@ -237,6 +270,28 @@
       "end_time": 1786600800
     },
     {
+      "id": 5911,
+      "line_type": "CN",
+      "title": "限时招募：【交杯追梦(dreamer)侣】",
+      "image": "https://static.kivo.wiki/images/timeline/SPR9InO9iwUhx7TExlRZJ91XuOWPOaTX.png",
+      "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【交杯追梦(dreamer)侣】即将开启！在本次招募中，全新3★成员\"菲娜（导游）\"登场，且招募概率得到提升！ ■ 招募时间 08月13日 14:00 ~ 08月",
+      "type": "Gacha",
+      "url": "bluearchive-cn.com/news/1889",
+      "start_time": 1786583052,
+      "end_time": 1787187852
+    },
+    {
+      "id": 5910,
+      "line_type": "CN",
+      "title": "限时复刻活动【笑笑闹闹 走走绕绕】",
+      "image": "https://static.kivo.wiki/images/timeline/WmqouG1zwreStDBgzofyxhKyu2oBQSfp.jpg",
+      "body_summary": "老师，维护更新已结束 限时复刻活动【笑笑闹闹 走走绕绕】现已开启！ 歌赫娜的学员们前去百鬼夜行修学旅行，但庆典运营管理部居然毫无准备！在导游们的协助下，庆典运营管理部究竟能否顺利带领爱惹事生非的歌赫娜",
+      "type": "Event",
+      "url": "weibo.com/6011443154/RdcGizpaW",
+      "start_time": 1786582716,
+      "end_time": 1786582716
+    },
+    {
       "id": 5889,
       "line_type": "CN",
       "title": "菲娜（导游）家具互动更新",
@@ -278,7 +333,7 @@
       "type": "Event",
       "url": "x.com/Blue_ArchiveJP/status/2086301503913152709",
       "start_time": 1786525200,
-      "end_time": 1786525200
+      "end_time": 1787713199
     },
     {
       "id": 5908,
@@ -67364,15 +67419,22 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=576",
       "path": "timeline/pages/576.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/576.json",
-      "item_count": 6
+      "item_count": 10
+    },
+    {
+      "page": 577,
+      "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=577",
+      "path": "timeline/pages/577.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/577.json",
+      "item_count": 1
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5724,
-    "normalized_alias_count": 5717,
-    "total_items": 5756
+    "alias_count": 5729,
+    "normalized_alias_count": 5722,
+    "total_items": 5761
   }
 }

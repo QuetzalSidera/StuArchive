@@ -12,19 +12,19 @@
     "gift": {
       "students": [
         {
-          "id": 185,
-          "skin": "",
-          "family_name": "白石",
-          "given_name": "歌原",
-          "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E7%9F%B3%20%E6%AD%8C%E5%8E%9F/avatar.png",
-          "favorability": 60
-        },
-        {
           "id": 53,
           "skin": "应援团",
           "family_name": "白石",
           "given_name": "歌原",
           "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E7%9F%B3%20%E6%AD%8C%E5%8E%9F/%E5%BA%94%E6%8F%B4%E5%9B%A2/avatar.png",
+          "favorability": 60
+        },
+        {
+          "id": 185,
+          "skin": "",
+          "family_name": "白石",
+          "given_name": "歌原",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E7%9F%B3%20%E6%AD%8C%E5%8E%9F/avatar.png",
           "favorability": 60
         },
         {
@@ -44,11 +44,19 @@
           "favorability": 60
         },
         {
-          "id": 127,
+          "id": 29,
           "skin": "",
-          "family_name": "里滨",
-          "given_name": "海夏",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%87%8C%E6%B5%9C%20%E6%B5%B7%E5%A4%8F/avatar.png",
+          "family_name": "勇美",
+          "given_name": "枫",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%8B%87%E7%BE%8E%20%E6%9E%AB/avatar.png",
+          "favorability": 40
+        },
+        {
+          "id": 571,
+          "skin": "临战",
+          "family_name": "调月",
+          "given_name": "莉音",
+          "avatar": "https://static.kivo.wiki/images/students/%E8%B0%83%E6%9C%88%20%E8%8E%89%E9%9F%B3/%E4%B8%B4%E6%88%98/Student_Portrait_CH0331_Collection.png",
           "favorability": 40
         },
         {
@@ -140,11 +148,11 @@
           "favorability": 40
         },
         {
-          "id": 29,
+          "id": 127,
           "skin": "",
-          "family_name": "勇美",
-          "given_name": "枫",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%8B%87%E7%BE%8E%20%E6%9E%AB/avatar.png",
+          "family_name": "里滨",
+          "given_name": "海夏",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%87%8C%E6%B5%9C%20%E6%B5%B7%E5%A4%8F/avatar.png",
           "favorability": 40
         },
         {
@@ -220,14 +228,6 @@
           "favorability": 40
         },
         {
-          "id": 571,
-          "skin": "临战",
-          "family_name": "调月",
-          "given_name": "莉音",
-          "avatar": "https://static.kivo.wiki/images/students/%E8%B0%83%E6%9C%88%20%E8%8E%89%E9%9F%B3/%E4%B8%B4%E6%88%98/Student_Portrait_CH0331_Collection.png",
-          "favorability": 40
-        },
-        {
           "id": 152,
           "skin": "女仆",
           "family_name": "天童",
@@ -268,6 +268,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1786906245,
+  "time": 1786993402,
   "version": "1.0.0-beta.43"
 }

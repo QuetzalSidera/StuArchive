@@ -2,16 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 576,
+    "max_page": 577,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 419,
       "Double": 958,
-      "Event": 517,
-      "Gacha": 820,
+      "Event": 518,
+      "Gacha": 821,
       "Live": 88,
-      "MainStory": 126,
+      "MainStory": 129,
       "Maintenance": 443,
       "MiniBattle": 205,
       "Other": 708,
@@ -22,6 +22,61 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2027,
+        "line_type": "Globle",
+        "title": "国际服卡池「Take joy in deep sea fishing. I'll share my catch with you, Sensei.」",
+        "image": "https://static.kivo.wiki/images/timeline/VfRos8cEDd10gYRGy4k3J2UdX5GcukVk.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 1/23 (Tue)! Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1748223767510430202",
+        "start_time": 1705975223,
+        "end_time": 1706579963
+      },
+      {
+        "id": 2030,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「Abydos Resort Restoration Task Force」",
+        "image": "https://static.kivo.wiki/images/timeline/2txNR2XnOZcZ3f1REI0VgtuPpjs8tjHR.jpg",
+        "body_summary": "[Event Preview] Sensei, 'Abydos Resort Restoration Task Force' event is coming back soon! If you mis",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1748238864336953744",
+        "start_time": 1705975221,
+        "end_time": 1706579961
+      },
+      {
+        "id": 2028,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「I'm glad I came here. I hope we can stay just like this for a little while...」",
+        "image": "https://static.kivo.wiki/images/timeline/vQcTBVbW6fKbQgDRfnQblnVl8k2is1WH.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 1/23 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1748227537904574952",
+        "start_time": 1705975200,
+        "end_time": 1706579940
+      },
+      {
+        "id": 2031,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍15 学院交流会2倍14",
+        "image": "https://static.kivo.wiki/images/timeline/aGQLLtSuEiXL2MNkoLI84A0Qzag1EDjE.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 1/22 (Mon), Lesson & Scrimmage reward will be doubled! Don't",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1748601255365333090",
+        "start_time": 1705950005,
+        "end_time": 1706554745
+      },
+      {
+        "id": 2043,
+        "line_type": "CN",
+        "title": "提前修复【悬赏通缉奖币掉落问题】",
+        "image": "https://static.kivo.wiki/images/timeline/oQvkAUGOYMYbeEEymPnom96bAM3s7q3l.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们在尝试修复特殊情况下“公告偶现白屏、建模无法正常显示”等问题时，由于突发意外导致原定于02月01日修复的【悬赏通缉奖币掉落问题】于1月22日20:30 被提前修复",
+        "type": "Maintenance",
+        "url": "www.bilibili.com/opus/889470873554124809?spm_id_from=333.999.0.0",
+        "start_time": 1705934866,
+        "end_time": 1705934866
+      },
       {
         "id": 2062,
         "line_type": "JP",
@@ -76,66 +131,11 @@
         "url": "www.bilibili.com/opus/888794858586636296",
         "start_time": 1705777189,
         "end_time": 1705777189
-      },
-      {
-        "id": 1921,
-        "line_type": "JP",
-        "title": "ASMR发售：佳代子、日鞠",
-        "image": "https://static.kivo.wiki/images/timeline/6glvHiGxUf5CKnRXsHEZltlLlkcf9Xz3.png",
-        "body_summary": "【#ブルアカASMR】 「ブルーアーカイブ」のASMR作品第5弾がDLsiteにて販売開始されました！ カヨコさんは一緒にリラックス！ ヒマリさんは…え、円周率？ 体験版もあるので、是非お聞きください",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1748723147938177245",
-        "start_time": 1705766457,
-        "end_time": 1705766457
-      },
-      {
-        "id": 1924,
-        "line_type": "JP",
-        "title": "OST5、3周年纪念曲「澄んだ青空、萌ゆる心」、「青春あんさんぶるシリーズ」第3弹「一日一惡★レッツゴー！」、单曲「全力絶対Come☆True」发行",
-        "image": "https://static.kivo.wiki/images/timeline/i7EJhaBdTuEYnck3nPwAeASFvR7N6Ahh.jpg",
-        "body_summary": "【OST第5弾 先行配信】 1/21(日) 0時より『ブルーアーカイブ』のOST第5弾「Blue Archive Original Soundtrack Vol.5～Striving for the ",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1748726329485504541",
-        "start_time": 1705766400,
-        "end_time": 1705766400
-      },
-      {
-        "id": 1919,
-        "line_type": "JP",
-        "title": "『ブルーアーカイブ The Animation』PV公开",
-        "image": "",
-        "body_summary": "◤ティザーPV解禁◢ 『ブルーアーカイブ The Animation』のティザーPVが解禁です！ アビドス高等学校対策委員会の皆さんの登校風景のようですね👀 https://youtu.be/Mzyp",
-        "type": "OutsideGames",
-        "url": "twitter.com/BlueArchive_TV/status/1748646556071252120",
-        "start_time": 1705748419,
-        "end_time": 1705748419
-      },
-      {
-        "id": 1920,
-        "line_type": "JP",
-        "title": "『ブルーアーカイブ The Animation』主视觉图公开",
-        "image": "https://static.kivo.wiki/images/timeline/C3ygTWXtG9gKuYAzKFDqh9JSMdiSULv7.jpg",
-        "body_summary": "◤メインビジュアル解禁◢ 『ブルーアーカイブ The Animation』のメインビジュアルが解禁されました！ アビドス高等学校対策委員会の皆さんが描かれた、爽やかなビジュアルです✨ #ブルアカTVア",
-        "type": "OutsideGames",
-        "url": "twitter.com/BlueArchive_TV/status/1748646556621033646",
-        "start_time": 1705748401,
-        "end_time": 1705748401
-      },
-      {
-        "id": 2040,
-        "line_type": "CN",
-        "title": "阿洛娜的日程笔记（第6期）",
-        "image": "https://static.kivo.wiki/images/timeline/VfuSMLmJcFzI7If9a1FStvZ06Kc7SKLk.jpg",
-        "body_summary": "“欢迎连接什亭之箱，老师。” 老师，阿洛娜日程笔记又与您见面啦！阿洛娜听说老师之前去了227号温泉旅馆？果然这种天气就应该泡泡温泉，好好休息一下呢~ 时光飞逝，新的一年已经到来。在这辞旧迎新的日子里，",
-        "type": "Other",
-        "url": "www.bilibili.com/read/cv29816945",
-        "start_time": 1705723254,
-        "end_time": 1705723254
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786912598,
+  "time": 1786998826,
   "version": "1.0.0-beta.43"
 }

@@ -2,16 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 576,
+    "max_page": 577,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 419,
       "Double": 958,
-      "Event": 517,
-      "Gacha": 820,
+      "Event": 518,
+      "Gacha": 821,
       "Live": 88,
-      "MainStory": 126,
+      "MainStory": 129,
       "Maintenance": 443,
       "MiniBattle": 205,
       "Other": 708,
@@ -22,6 +22,61 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 784,
+        "line_type": "JP",
+        "title": "课程表2倍#17 & 学院交流会2倍#17",
+        "image": "https://static.kivo.wiki/images/timeline/5TBxOg1xWcmML6g3L9CqJ3k7JwNLVIYR.jpg",
+        "body_summary": "【キャンペーン予告】 9/27(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/9/27(水)4:00 ~ 2",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1704329850545402071",
+        "start_time": 1695758400,
+        "end_time": 1696363199
+      },
+      {
+        "id": 1538,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Problem Solver 68 and the Miracle of the Offering Box」",
+        "image": "https://static.kivo.wiki/images/timeline/0VegXUsvUF2sR5uyrodnVaNYVHSwwmLW.jpg",
+        "body_summary": "[Web Event Notice] 'Problem Solver 68 and the Miracle of the Offering Box' Event begins! Log in toda",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1706656871841771688",
+        "start_time": 1695733203,
+        "end_time": 1697507943
+      },
+      {
+        "id": 1537,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「New Year's Rhapsody No. 68」",
+        "image": "https://static.kivo.wiki/images/timeline/m6qxekkP1yVEFu4bb8S5BQtPxjjDtgqc.jpg",
+        "body_summary": "[Event Update Notice] The New Year's Rhapsody No. 68 Event Story is returning! Ring in the New Year ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1706656804388929835",
+        "start_time": 1695733202,
+        "end_time": 1696903142
+      },
+      {
+        "id": 2094,
+        "line_type": "Globle",
+        "title": "国际服主线关卡开放：Area22 & 角色语音鉴赏、咖啡厅预设、活动回顾功能更新 & T8装备更新 & 课程表新增区域「D.U. Shiratori City」 & 指名手配与学院交流会票统一",
+        "image": "https://static.kivo.wiki/images/timeline/wX4QnGkf1KPgxadGVMI5Nj2KmlxFZglJ.jpg",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1706655196879974774",
+        "start_time": 1695722452,
+        "end_time": 1695722452
+      },
+      {
+        "id": 1535,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「What the...? How long have you been there? Forget what you just saw!」",
+        "image": "https://static.kivo.wiki/images/timeline/AhjntD4sYhsrQ7GwQ5aKYTl41WR3LlBm.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/26 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1705507301719982232",
+        "start_time": 1695718845,
+        "end_time": 1696903185
+      },
       {
         "id": 1534,
         "line_type": "Globle",
@@ -76,66 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1706610151632121859",
         "start_time": 1695718815,
         "end_time": 1695718815
-      },
-      {
-        "id": 1528,
-        "line_type": "Globle",
-        "title": "国际服例行维护47（延长）",
-        "image": "",
-        "body_summary": "[9/26 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/26 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1705144908271567261",
-        "start_time": 1695693644,
-        "end_time": 1695733244
-      },
-      {
-        "id": 1530,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍20",
-        "image": "https://static.kivo.wiki/images/timeline/0ebrEdvj28wvYhJ6zPB0Ef6A8b91iYM8.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 9/25 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1705477100029821412",
-        "start_time": 1695668453,
-        "end_time": 1696273253
-      },
-      {
-        "id": 787,
-        "line_type": "JP",
-        "title": "活动「Trip-Trap-Train」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPVを公開します！ トリニティまで列車を使って遺物を運ぶ任務です！ イチカさんと共に頑張りましょうね♪ …って、あれ？ この列車の行き先って…？ ▽高画質版はこちら ht",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1706142054030426168",
-        "start_time": 1695614520,
-        "end_time": 1695614520
-      },
-      {
-        "id": 1687,
-        "line_type": "CN",
-        "title": "白洲梓",
-        "image": "https://static.kivo.wiki/images/timeline/yVxtCzgnZ6midPjq82ilFayTmOutRVg3.jpg",
-        "body_summary": "//////////档案启封////////// ■白洲梓 崔尼蒂补习部的冰冷魔女。 主动离开了曾经的学院，又因某种原因加入了崔尼蒂，目前正在努力习惯新的生活。害怕孤独，却因为不想给人添麻烦而主动远离",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/844868926694228006?spm_id_from=333.999.0.0",
-        "start_time": 1695549720,
-        "end_time": 1695555780
-      },
-      {
-        "id": 1529,
-        "line_type": "Globle",
-        "title": "国际服官方四格100话纪念",
-        "image": "https://static.kivo.wiki/images/timeline/XD1D53xOgoP4bo59IPLmRplyJeHiswnH.jpg",
-        "body_summary": "[Official 4-Panel Manga] Ep. 100 Special! It's a very special 100th episode brought to you by @donmi",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1705147422551290086",
-        "start_time": 1695373853,
-        "end_time": 1695373853
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1786912647,
+  "time": 1786998869,
   "version": "1.0.0-beta.43"
 }

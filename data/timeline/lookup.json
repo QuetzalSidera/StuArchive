@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-16T18:25:51Z",
+  "generated_at": "2026-08-17T18:36:41Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5756,
-  "alias_count": 5724,
-  "normalized_alias_count": 5717,
+  "total_items": 5761,
+  "alias_count": 5729,
+  "normalized_alias_count": 5722,
   "by_id": {
     "5819": {
       "id": 5819,
@@ -120,6 +120,60 @@
       },
       "detail_path": "timeline/5817.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5817.json"
+    },
+    "5914": {
+      "id": 5914,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5914,
+        "line_type": "Globle",
+        "title": "国际服主线第2部序章更新",
+        "image": "https://static.kivo.wiki/images/timeline/Hjinty3GHnzC6jbCOjMhwz7XInc2Xdc1.jpg",
+        "body_summary": "[Main Story Announcement] Main Story Act 2 Prologue is coming soon, Sensei! Please look forward to i",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088143581043363922",
+        "start_time": 1787065722,
+        "end_time": 0
+      },
+      "detail_path": "timeline/5914.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5914.json"
+    },
+    "5913": {
+      "id": 5913,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5913,
+        "line_type": "Globle",
+        "title": "国际服主线第2部 Vol.0 第一章更新",
+        "image": "https://static.kivo.wiki/images/timeline/CRtFgVDQhYzhcZr2JA5Dxkh7fDFXBPpV.jpg",
+        "body_summary": "[Main Story Announcement] Main Story Act 2, Vol 0. General Student Council Chapter 1: A Spring Day F",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088201567833083965",
+        "start_time": 1787065622,
+        "end_time": 0
+      },
+      "detail_path": "timeline/5913.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5913.json"
+    },
+    "5912": {
+      "id": 5912,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5912,
+        "line_type": "Globle",
+        "title": "国际服主线第二部 Vol.EX 第1章更新",
+        "image": "https://static.kivo.wiki/images/timeline/6F8d3O4rWvIxaBckI3zCPUEtUzH3vN6o.jpg",
+        "body_summary": "Ex. Lore Pursuit Chapter 1: High Noon Haze is coming soon, Sensei! Please look forward to it! #BlueA",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088151131453317145",
+        "start_time": 1787065178,
+        "end_time": 0
+      },
+      "detail_path": "timeline/5912.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5912.json"
     },
     "5896": {
       "id": 5896,
@@ -373,6 +427,42 @@
       "detail_path": "timeline/5894.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5894.json"
     },
+    "5911": {
+      "id": 5911,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5911,
+        "line_type": "CN",
+        "title": "限时招募：【交杯追梦(dreamer)侣】",
+        "image": "https://static.kivo.wiki/images/timeline/SPR9InO9iwUhx7TExlRZJ91XuOWPOaTX.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【交杯追梦(dreamer)侣】即将开启！在本次招募中，全新3★成员\"菲娜（导游）\"登场，且招募概率得到提升！ ■ 招募时间 08月13日 14:00 ~ 08月",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1889",
+        "start_time": 1786583052,
+        "end_time": 1787187852
+      },
+      "detail_path": "timeline/5911.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5911.json"
+    },
+    "5910": {
+      "id": 5910,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5910,
+        "line_type": "CN",
+        "title": "限时复刻活动【笑笑闹闹 走走绕绕】",
+        "image": "https://static.kivo.wiki/images/timeline/WmqouG1zwreStDBgzofyxhKyu2oBQSfp.jpg",
+        "body_summary": "老师，维护更新已结束 限时复刻活动【笑笑闹闹 走走绕绕】现已开启！ 歌赫娜的学员们前去百鬼夜行修学旅行，但庆典运营管理部居然毫无准备！在导游们的协助下，庆典运营管理部究竟能否顺利带领爱惹事生非的歌赫娜",
+        "type": "Event",
+        "url": "weibo.com/6011443154/RdcGizpaW",
+        "start_time": 1786582716,
+        "end_time": 1786582716
+      },
+      "detail_path": "timeline/5910.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5910.json"
+    },
     "5889": {
       "id": 5889,
       "source_path": "timeline/index.json",
@@ -440,7 +530,7 @@
         "type": "Event",
         "url": "x.com/Blue_ArchiveJP/status/2086301503913152709",
         "start_time": 1786525200,
-        "end_time": 1786525200
+        "end_time": 1787713199
       },
       "detail_path": "timeline/5890.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5890.json"
@@ -103641,6 +103731,15 @@
     "特别依赖3倍#20": [
       "5817"
     ],
+    "国际服主线第2部序章更新": [
+      "5914"
+    ],
+    "国际服主线第2部 Vol.0 第一章更新": [
+      "5913"
+    ],
+    "国际服主线第二部 Vol.EX 第1章更新": [
+      "5912"
+    ],
     "国际服例行维护 #117": [
       "5896"
     ],
@@ -103683,6 +103782,12 @@
     ],
     "战术对抗赛第九赛季开启": [
       "5894"
+    ],
+    "限时招募:【交杯追梦(dreamer)侣】": [
+      "5911"
+    ],
+    "限时复刻活动【笑笑闹闹 走走绕绕】": [
+      "5910"
     ],
     "菲娜(导游)家具互动更新": [
       "5889"
@@ -120847,6 +120952,15 @@
     "特别依赖3倍#20": [
       "5817"
     ],
+    "国际服主线第2部序章更新": [
+      "5914"
+    ],
+    "国际服主线第2部vol.0第一章更新": [
+      "5913"
+    ],
+    "国际服主线第二部vol.ex第1章更新": [
+      "5912"
+    ],
     "国际服例行维护#117": [
       "5896"
     ],
@@ -120889,6 +121003,12 @@
     ],
     "战术对抗赛第九赛季开启": [
       "5894"
+    ],
+    "限时招募:【交杯追梦(dreamer)侣】": [
+      "5911"
+    ],
+    "限时复刻活动【笑笑闹闹走走绕绕】": [
+      "5910"
     ],
     "菲娜(导游)家具互动更新": [
       "5889"
