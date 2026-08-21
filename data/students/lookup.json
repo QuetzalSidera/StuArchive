@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-20T18:36:00Z",
+  "generated_at": "2026-08-21T18:33:51Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 492,
-  "alias_count": 5694,
-  "normalized_alias_count": 3905,
+  "total_items": 496,
+  "alias_count": 5702,
+  "normalized_alias_count": 3913,
   "by_id": {
     "76": {
       "id": 76,
@@ -8012,6 +8012,106 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/613.json",
       "profile_path": "students/profiles/613.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/613.json"
+    },
+    "619": {
+      "id": 619,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 619,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "小百合",
+        "family_name_jp": "",
+        "given_name_jp": "サユリ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%B0%8F%E7%99%BE%E5%90%88/original/sayuri.png",
+        "school": 15,
+        "main_relation": 155
+      },
+      "detail_path": "students/619.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/619.json",
+      "profile_path": "students/profiles/619.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/619.json"
+    },
+    "620": {
+      "id": 620,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 620,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "心",
+        "family_name_jp": "",
+        "given_name_jp": "ココロ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%BF%83/original/kokoro2.png",
+        "school": 15,
+        "main_relation": 155
+      },
+      "detail_path": "students/620.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/620.json",
+      "profile_path": "students/profiles/620.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/620.json"
+    },
+    "621": {
+      "id": 621,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 621,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "琴音",
+        "family_name_jp": "",
+        "given_name_jp": "コトネ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E7%90%B4%E9%9F%B3/original/kotone2.png",
+        "school": 15,
+        "main_relation": 155
+      },
+      "detail_path": "students/621.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/621.json",
+      "profile_path": "students/profiles/621.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/621.json"
+    },
+    "622": {
+      "id": 622,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 622,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "真希奈",
+        "family_name_jp": "",
+        "given_name_jp": "マキナ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E7%9C%9F%E5%B8%8C%E5%A5%88/original/makina2.png",
+        "school": 15,
+        "main_relation": 155
+      },
+      "detail_path": "students/622.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/622.json",
+      "profile_path": "students/profiles/622.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/622.json"
     },
     "589": {
       "id": 589,
@@ -28924,6 +29024,30 @@
     "スミカ": [
       "613"
     ],
+    "小百合": [
+      "619"
+    ],
+    "サユリ": [
+      "619"
+    ],
+    "心": [
+      "620"
+    ],
+    "ココロ": [
+      "620"
+    ],
+    "琴音": [
+      "621"
+    ],
+    "コトネ": [
+      "621"
+    ],
+    "真希奈": [
+      "622"
+    ],
+    "マキナ": [
+      "622"
+    ],
     "密井京子": [
       "589"
     ],
@@ -41483,6 +41607,30 @@
     ],
     "スミカ": [
       "613"
+    ],
+    "小百合": [
+      "619"
+    ],
+    "サユリ": [
+      "619"
+    ],
+    "心": [
+      "620"
+    ],
+    "ココロ": [
+      "620"
+    ],
+    "琴音": [
+      "621"
+    ],
+    "コトネ": [
+      "621"
+    ],
+    "真希奈": [
+      "622"
+    ],
+    "マキナ": [
+      "622"
     ],
     "密井京子": [
       "589"

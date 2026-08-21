@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "relations",
   "description": "Character relation and faction records.",
-  "generated_at": "2026-08-20T18:36:00Z",
+  "generated_at": "2026-08-21T18:33:51Z",
   "id_key": "id",
   "source_index": {
     "path": "relations/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 152,
-  "alias_count": 200,
-  "normalized_alias_count": 200,
+  "total_items": 153,
+  "alias_count": 201,
+  "normalized_alias_count": 201,
   "by_id": {
     "1": {
       "id": 1,
@@ -2140,6 +2140,20 @@
       },
       "detail_path": "relations/154.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/154.json"
+    },
+    "155": {
+      "id": 155,
+      "source_path": "relations/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/index.json",
+      "item": {
+        "id": 155,
+        "name": "潜水部",
+        "name_cn": "",
+        "image": "https://static.kivo.wiki/images/relation/neeu4yiBUu1AY7rsXCHpNrNSq0hAzqMs.jpg",
+        "description": ""
+      },
+      "detail_path": "relations/155.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/155.json"
     }
   },
   "by_alias": {
@@ -2743,6 +2757,9 @@
     ],
     "格赫娜复兴委员会": [
       "154"
+    ],
+    "潜水部": [
+      "155"
     ]
   },
   "by_normalized_alias": {
@@ -3346,6 +3363,9 @@
     ],
     "格赫娜复兴委员会": [
       "154"
+    ],
+    "潜水部": [
+      "155"
     ]
   }
 }

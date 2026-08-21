@@ -7,13 +7,13 @@
     "api_path": "/data/relations/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/"
   },
-  "generated_at": "2026-08-20T18:36:00Z",
+  "generated_at": "2026-08-21T18:33:51Z",
   "list_key": "relation",
   "id_key": "id",
   "max_page": 16,
   "synced_pages": 16,
-  "total_items": 152,
-  "details_synced": 152,
+  "total_items": 153,
+  "details_synced": 153,
   "details_enabled": true,
   "items": [
     {
@@ -1079,6 +1079,13 @@
       "name_cn": "",
       "image": "https://static.kivo.wiki/images/relation/D2iYq9t1LbzdnFi9qxz5SH3NLV3haMhq.jpg",
       "description": ""
+    },
+    {
+      "id": 155,
+      "name": "潜水部",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/neeu4yiBUu1AY7rsXCHpNrNSq0hAzqMs.jpg",
+      "description": ""
     }
   ],
   "pages": [
@@ -1192,7 +1199,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/?page=16",
       "path": "relations/pages/16.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/pages/16.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [
@@ -2107,13 +2114,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/154",
       "path": "relations/154.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/154.json"
+    },
+    {
+      "id": 155,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/155",
+      "path": "relations/155.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/155.json"
     }
   ],
   "lookup": {
     "path": "relations/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/lookup.json",
-    "alias_count": 200,
-    "normalized_alias_count": 200,
-    "total_items": 152
+    "alias_count": 201,
+    "normalized_alias_count": 201,
+    "total_items": 153
   }
 }
