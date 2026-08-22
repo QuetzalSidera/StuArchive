@@ -1682,15 +1682,15 @@
             "accuracy": 810,
             "evasion": 1011,
             "crit": 270,
-            "crit_res": 0,
+            "crit_res": 100,
             "crit_dmg": 2,
-            "crit_dmg_res": 0,
+            "crit_dmg_res": 0.5,
             "stability": 1053,
             "range": 1000,
             "cc_power": 100,
             "cc_res": 100,
-            "recovery_boost": 0,
-            "mag_count": 0
+            "recovery_boost": 1,
+            "mag_count": 1
           }
         ],
         "weapons": {
@@ -1781,10 +1781,10 @@
     "supplementary_uuid": "a7ff2a13-6924-4636-bde7-15430e8b9e34",
     "supplementary_declare_uuid": "cf07dafa-c860-49bc-a786-bb6fdd1b9d77",
     "created_at": 1719142796,
-    "updated_at": 1786356364
+    "updated_at": 1787414884
   },
   "message": "OK",
   "success": true,
-  "time": 1787337611,
+  "time": 1787423653,
   "version": "1.0.0-beta.43"
 }

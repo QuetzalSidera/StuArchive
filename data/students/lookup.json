@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-21T18:33:51Z",
+  "generated_at": "2026-08-22T18:27:51Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 496,
-  "alias_count": 5702,
-  "normalized_alias_count": 3913,
+  "alias_count": 5706,
+  "normalized_alias_count": 3915,
   "by_id": {
     "76": {
       "id": 76,
@@ -8048,9 +8048,9 @@
         "skin_jp": "",
         "skin_cn": "",
         "skin_zh_tw": "",
-        "family_name": "",
+        "family_name": "渡海",
         "given_name": "心",
-        "family_name_jp": "",
+        "family_name_jp": "渡海",
         "given_name_jp": "ココロ",
         "family_name_cn": "",
         "given_name_cn": "",
@@ -29030,7 +29030,19 @@
     "サユリ": [
       "619"
     ],
+    "渡海心": [
+      "620"
+    ],
+    "渡海 心": [
+      "620"
+    ],
     "心": [
+      "620"
+    ],
+    "渡海ココロ": [
+      "620"
+    ],
+    "渡海 ココロ": [
       "620"
     ],
     "ココロ": [
@@ -41614,7 +41626,13 @@
     "サユリ": [
       "619"
     ],
+    "渡海心": [
+      "620"
+    ],
     "心": [
+      "620"
+    ],
+    "渡海ココロ": [
       "620"
     ],
     "ココロ": [

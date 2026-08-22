@@ -2883,18 +2883,18 @@
             "evasion": 220,
             "crit": 216,
             "crit_res": 100,
-            "crit_dmg": 200,
-            "crit_dmg_res": 50,
+            "crit_dmg": 2,
+            "crit_dmg_res": 0.5,
             "stability": 1832,
             "range": 350,
             "cc_power": 100,
             "cc_res": 100,
-            "recovery_boost": 100,
+            "recovery_boost": 1,
             "mag_count": 3
           }
         ],
         "weapons": {
-          "icon": "",
+          "icon": "https://static.kivo.wiki/images/students/%E7%89%9B%E7%89%A7%20%E6%9C%B1%E8%8E%89/%E6%89%93%E5%B7%A5/Weapon_Icon_26002.png",
           "name": "供餐部护身用枪B型",
           "name_cn": "供餐部自卫枪械B型",
           "description": "朱莉所持有的霰弹枪。<br>是打工时也不可或缺的必要装备……的样子。",
@@ -2981,10 +2981,10 @@
     "supplementary_uuid": "81d12bfd-94a6-45a8-a9c4-366c818f5dcc",
     "supplementary_declare_uuid": "6ee04e5c-f691-4dd4-90ca-42e805635096",
     "created_at": 1740302273,
-    "updated_at": 1782990686
+    "updated_at": 1787410356
   },
   "message": "OK",
   "success": true,
-  "time": 1787337023,
+  "time": 1787423322,
   "version": "1.0.0-beta.43"
 }

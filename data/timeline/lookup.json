@@ -2,17 +2,53 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-21T18:33:51Z",
+  "generated_at": "2026-08-22T18:27:51Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5761,
-  "alias_count": 5729,
-  "normalized_alias_count": 5722,
+  "total_items": 5769,
+  "alias_count": 5738,
+  "normalized_alias_count": 5731,
   "by_id": {
+    "5919": {
+      "id": 5919,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5919,
+        "line_type": "Globle",
+        "title": "国际服总力战 KAITEN FX Mk.0 (Urban Warfare) #4",
+        "image": "https://static.kivo.wiki/images/timeline/s5uZmKf9TapQvxPb12pITpt00AslSr9v.jpg",
+        "body_summary": "[Total Assault Preview] The Total Assault - KAITEN FX Mk.0 (Urban Warfare) will start on 8/25 (Tue)!",
+        "type": "Raid",
+        "url": "x.com/EN_BlueArchive/status/2089970627046175209",
+        "start_time": 1787653227,
+        "end_time": 1788344427
+      },
+      "detail_path": "timeline/5919.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5919.json"
+    },
+    "5923": {
+      "id": 5923,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5923,
+        "line_type": "Globle",
+        "title": "国际服任务Normal2倍",
+        "image": "https://static.kivo.wiki/images/timeline/i4CqPYdC3DBG7hzO1rlnWKRLb6hzplEo.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2091057786553844111",
+        "start_time": 1787598000,
+        "end_time": 1788202799
+      },
+      "detail_path": "timeline/5923.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5923.json"
+    },
     "5819": {
       "id": 5819,
       "source_path": "timeline/index.json",
@@ -31,6 +67,24 @@
       "detail_path": "timeline/5819.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5819.json"
     },
+    "5922": {
+      "id": 5922,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5922,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍#53",
+        "image": "https://static.kivo.wiki/images/timeline/Y4WRnpL6ChrgF9sGKkpnXw2CCzWEdzuD.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 8/21 (Fri)! Don't m",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2090695396775329920",
+        "start_time": 1787338800,
+        "end_time": 1787425199
+      },
+      "detail_path": "timeline/5922.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5922.json"
+    },
     "5904": {
       "id": 5904,
       "source_path": "timeline/index.json",
@@ -48,6 +102,78 @@
       },
       "detail_path": "timeline/5904.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5904.json"
+    },
+    "5921": {
+      "id": 5921,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5921,
+        "line_type": "Globle",
+        "title": "国际服热修复补丁#3",
+        "image": "https://static.kivo.wiki/images/timeline/bXBy0OjcBcPNtfxBcTjplrgJQajZVmqb.jpg",
+        "body_summary": "[8/20 Data Patch Notice] We will be having a quick data patch on 8/20 (Thu) for content update. The ",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2090388052439175202",
+        "start_time": 1787223900,
+        "end_time": 1787223900
+      },
+      "detail_path": "timeline/5921.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5921.json"
+    },
+    "5920": {
+      "id": 5920,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5920,
+        "line_type": "Globle",
+        "title": "国际服MV《KAGEROU》 发布",
+        "image": "https://static.kivo.wiki/images/timeline/HUgV0JrUGHKF4EemEd8M4xg30L066yLE.jpg",
+        "body_summary": "[KAGEROU Music Video Release] Guess who has returned from the Corrections Bureau! Check out the KAGE",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2090001072018293200",
+        "start_time": 1787130001,
+        "end_time": 1787130001
+      },
+      "detail_path": "timeline/5920.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5920.json"
+    },
+    "5918": {
+      "id": 5918,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5918,
+        "line_type": "Globle",
+        "title": "国际服热补丁修复#2",
+        "image": "https://static.kivo.wiki/images/timeline/pMLDlgvoQDgXjXZ83vjnYxj0QiGnR1hr.jpg",
+        "body_summary": "[8/19 Data Patch Notice] We will be having a quick data patch on 8/19 (Wed) for content update. The ",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2089948456794394699",
+        "start_time": 1787117506,
+        "end_time": 1787117506
+      },
+      "detail_path": "timeline/5918.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5918.json"
+    },
+    "5917": {
+      "id": 5917,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5917,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁#69",
+        "image": "https://static.kivo.wiki/images/timeline/Frv1vBMz1VkvMDFbU6A0Sy2YNthxWYaC.jpg",
+        "body_summary": "[8/19 (Wed) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2089910229471556092",
+        "start_time": 1787108400,
+        "end_time": 1787108400
+      },
+      "detail_path": "timeline/5917.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5917.json"
     },
     "5909": {
       "id": 5909,
@@ -174,6 +300,24 @@
       },
       "detail_path": "timeline/5912.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5912.json"
+    },
+    "5916": {
+      "id": 5916,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5916,
+        "line_type": "Globle",
+        "title": "国际服例行维护#117延长",
+        "image": "https://static.kivo.wiki/images/timeline/oWncujgvglqdQc7fxPK6CtQvPhbyS9tA.jpg",
+        "body_summary": "[Notice on Maintenance Extension] Dear Sensei, We would like to inform you that the maintenance sche",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2089636308196987014",
+        "start_time": 1787018400,
+        "end_time": 1787392800
+      },
+      "detail_path": "timeline/5916.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5916.json"
     },
     "5896": {
       "id": 5896,
@@ -308,7 +452,7 @@
       "item": {
         "id": 5899,
         "line_type": "Globle",
-        "title": "国际服违规账号封禁 #67",
+        "title": "国际服违规账号封禁 #68",
         "image": "https://static.kivo.wiki/images/timeline/OzFog9GIPr4CRvkNZcWwx2ummZ0lndga.jpg",
         "body_summary": "[8/13 (Thu) Ban Notice] We have taken disciplinary actions against the players who were found to be ",
         "type": "Other",
@@ -103713,11 +103857,32 @@
     }
   },
   "by_alias": {
+    "国际服总力战 KAITEN FX Mk.0 (Urban Warfare) #4": [
+      "5919"
+    ],
+    "国际服任务Normal2倍": [
+      "5923"
+    ],
     "任务hard3倍#19": [
       "5819"
     ],
+    "国际服老师经验2倍#53": [
+      "5922"
+    ],
     "【百花缭乱篇】第2章Part1(01~15话)即将更新!": [
       "5904"
+    ],
+    "国际服热修复补丁#3": [
+      "5921"
+    ],
+    "国际服MV《KAGEROU》 发布": [
+      "5920"
+    ],
+    "国际服热补丁修复#2": [
+      "5918"
+    ],
+    "国际服违规账号封禁#69": [
+      "5917"
     ],
     "大决战:屋外戦・ビナー #2": [
       "5909"
@@ -103740,6 +103905,9 @@
     "国际服主线第二部 Vol.EX 第1章更新": [
       "5912"
     ],
+    "国际服例行维护#117延长": [
+      "5916"
+    ],
     "国际服例行维护 #117": [
       "5896"
     ],
@@ -103761,9 +103929,8 @@
     "名草": [
       "5905"
     ],
-    "国际服违规账号封禁 #67": [
-      "5899",
-      "5878"
+    "国际服违规账号封禁 #68": [
+      "5899"
     ],
     "C108悠星参展": [
       "5601"
@@ -103857,6 +104024,9 @@
     ],
     "任务normal3倍#18": [
       "5813"
+    ],
+    "国际服违规账号封禁 #67": [
+      "5878"
     ],
     "国际服活动复刻「Code: BOX - The Shadow Approaching Millennium」": [
       "5877"
@@ -120934,11 +121104,32 @@
     ]
   },
   "by_normalized_alias": {
+    "国际服总力战kaitenfxmk.0(urbanwarfare)#4": [
+      "5919"
+    ],
+    "国际服任务normal2倍": [
+      "5923"
+    ],
     "任务hard3倍#19": [
       "5819"
     ],
+    "国际服老师经验2倍#53": [
+      "5922"
+    ],
     "【百花缭乱篇】第2章part1(01~15话)即将更新!": [
       "5904"
+    ],
+    "国际服热修复补丁#3": [
+      "5921"
+    ],
+    "国际服mv《kagerou》发布": [
+      "5920"
+    ],
+    "国际服热补丁修复#2": [
+      "5918"
+    ],
+    "国际服违规账号封禁#69": [
+      "5917"
     ],
     "大决战:屋外戦・ビナー#2": [
       "5909"
@@ -120961,6 +121152,9 @@
     "国际服主线第二部vol.ex第1章更新": [
       "5912"
     ],
+    "国际服例行维护#117延长": [
+      "5916"
+    ],
     "国际服例行维护#117": [
       "5896"
     ],
@@ -120982,9 +121176,8 @@
     "名草": [
       "5905"
     ],
-    "国际服违规账号封禁#67": [
-      "5899",
-      "5878"
+    "国际服违规账号封禁#68": [
+      "5899"
     ],
     "c108悠星参展": [
       "5601"
@@ -121078,6 +121271,9 @@
     ],
     "任务normal3倍#18": [
       "5813"
+    ],
+    "国际服违规账号封禁#67": [
+      "5878"
     ],
     "国际服活动复刻「code:box-theshadowapproachingmillennium」": [
       "5877"

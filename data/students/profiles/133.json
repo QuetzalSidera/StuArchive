@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-21T18:33:51Z",
+  "generated_at": "2026-08-22T18:27:51Z",
   "id": 133,
   "display_name": "调月 莉音",
   "names": {
@@ -869,6 +869,21 @@
         },
         "detail_path": "items/442.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/442.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
       }
     ]
   },
@@ -3436,8 +3451,8 @@
   "source": {
     "detail_path": "students/133.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/133.json",
-    "upstream_time": 1787337548,
-    "updated_at": 1785485245,
+    "upstream_time": 1787423589,
+    "updated_at": 1787410532,
     "created_at": 1685460003
   }
 }
