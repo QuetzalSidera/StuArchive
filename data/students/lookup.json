@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-22T18:27:51Z",
+  "generated_at": "2026-08-23T18:26:17Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 496,
-  "alias_count": 5706,
-  "normalized_alias_count": 3915,
+  "alias_count": 5710,
+  "normalized_alias_count": 3917,
   "by_id": {
     "76": {
       "id": 76,
@@ -8073,9 +8073,9 @@
         "skin_jp": "",
         "skin_cn": "",
         "skin_zh_tw": "",
-        "family_name": "",
+        "family_name": "渊上",
         "given_name": "琴音",
-        "family_name_jp": "",
+        "family_name_jp": "淵上",
         "given_name_jp": "コトネ",
         "family_name_cn": "",
         "given_name_cn": "",
@@ -29048,7 +29048,19 @@
     "ココロ": [
       "620"
     ],
+    "渊上琴音": [
+      "621"
+    ],
+    "渊上 琴音": [
+      "621"
+    ],
     "琴音": [
+      "621"
+    ],
+    "淵上コトネ": [
+      "621"
+    ],
+    "淵上 コトネ": [
       "621"
     ],
     "コトネ": [
@@ -41638,7 +41650,13 @@
     "ココロ": [
       "620"
     ],
+    "渊上琴音": [
+      "621"
+    ],
     "琴音": [
+      "621"
+    ],
+    "淵上コトネ": [
       "621"
     ],
     "コトネ": [

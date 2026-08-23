@@ -7,13 +7,13 @@
     "api_path": "/articles/",
     "upstream_url": "https://api.kivo.wiki/api/v1/articles/"
   },
-  "generated_at": "2026-08-22T18:27:51Z",
+  "generated_at": "2026-08-23T18:26:17Z",
   "list_key": "article",
   "id_key": "id",
   "max_page": 6,
   "synced_pages": 6,
-  "total_items": 52,
-  "details_synced": 52,
+  "total_items": 53,
+  "details_synced": 53,
   "details_enabled": true,
   "items": [
     {
@@ -24,6 +24,15 @@
       "summary": "设定集 Vol.1 全图：https://kivo.wiki/gallery/34设定集 Vol.2 全图：https://kivo.wiki/gallery/34?category=1设定集 Vol",
       "created_at": 1786166836,
       "updated_at": 1786269088
+    },
+    {
+      "id": 81,
+      "title": "剧情内角色称呼表",
+      "cover": "https://static.kivo.wiki/images/article/cover/biLHkv5SY0nDJQwTrVAM6lhLbNfMcOJW.png",
+      "state": 0,
+      "summary": "[[toc]] 阿比多斯高中 阿比多斯学生会 | <font size=\"4\">称呼对象</font> | <font size=\"4\">日文称呼</font> | | :---: | :---: |",
+      "created_at": 1782372666,
+      "updated_at": 1787486167
     },
     {
       "id": 80,
@@ -131,7 +140,7 @@
       "state": 0,
       "summary": "古书馆的学生3D模型预览功能是本站至今为止施工难度最高的一项功能，从开发到模型整理都让古书馆全组上下都倾注了非常多的时间和精力。 由于ba制作组MXstudio在开发方面留下的一些问题，大多数模型都没",
       "created_at": 1756533291,
-      "updated_at": 1777649164
+      "updated_at": 1787475913
     },
     {
       "id": 54,
@@ -239,7 +248,7 @@
       "state": 0,
       "summary": "外部贡献者说明不同于在贡献页面中所展示的内部贡献者与本站上线前的协助者，外部贡献者是指在本站的反馈收集表中，对该页面提供了纠错、补充等建设性意见，经审核后被本站采纳，并在收集表选项留下了自己的ID，希",
       "created_at": 1726910488,
-      "updated_at": 1785570868
+      "updated_at": 1787487555
     },
     {
       "id": 31,
@@ -320,7 +329,7 @@
       "state": 0,
       "summary": "| 日文名称 | 中文名称 | 所属 | 出处 | | ------------------------------ | ---- | -------- | -------------------- ",
       "created_at": 1700234710,
-      "updated_at": 1783262539
+      "updated_at": 1787473378
     },
     {
       "id": 21,
@@ -526,7 +535,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/articles/?page=6",
       "path": "articles/pages/6.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/pages/6.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [
@@ -535,6 +544,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/articles/83",
       "path": "articles/83.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/83.json"
+    },
+    {
+      "id": 81,
+      "upstream_url": "https://api.kivo.wiki/api/v1/articles/81",
+      "path": "articles/81.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/81.json"
     },
     {
       "id": 80,
@@ -846,8 +861,8 @@
   "lookup": {
     "path": "articles/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/lookup.json",
-    "alias_count": 52,
-    "normalized_alias_count": 52,
-    "total_items": 52
+    "alias_count": 53,
+    "normalized_alias_count": 53,
+    "total_items": 53
   }
 }

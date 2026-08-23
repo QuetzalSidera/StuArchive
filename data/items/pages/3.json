@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 197,
+    "max_page": 199,
     "item": [
       {
         "id": 1396,
@@ -37,12 +37,28 @@
         "description": "可选择想要的装备设计图的选择券"
       },
       {
+        "id": 2054,
+        "name": "T2装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uwrsGoKp8hzcorWmIPuVCNSdCViBbE3p.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T2装备设计图的抽选盒"
+      },
+      {
         "id": 273,
         "name": "T2装备设计图选择券",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/NR05XB7KQizZIkg3DHaP8stEe8IDLJzk.png",
         "rarity": 1,
         "description": "可选择想要的装备设计图的选择券"
+      },
+      {
+        "id": 2055,
+        "name": "T3装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ykIIWSA9jhjdcSmQ01a3oORA2ks9Yl9G.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T3装备设计图的抽选盒"
       },
       {
         "id": 274,
@@ -53,34 +69,18 @@
         "description": "可选择想要的装备设计图的选择券"
       },
       {
+        "id": 2056,
+        "name": "T4装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/k3DrEIPs2Sj0nUPudoCmvloxIKTXSQiv.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T4装备设计图的抽选盒"
+      },
+      {
         "id": 277,
         "name": "T4装备设计图选择券",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/9g3Kfnxr40sZ7ZdwVEDZzU3cBwv30IGo.png",
-        "rarity": 1,
-        "description": "可选择想要的装备设计图的选择券"
-      },
-      {
-        "id": 279,
-        "name": "T5装备设计图选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/xtCGbmb1679Abf8J1eSCsVK8mGGKiVJ4.png",
-        "rarity": 1,
-        "description": "可选择想要的装备设计图的选择券"
-      },
-      {
-        "id": 280,
-        "name": "T6装备设计图选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/3j5cL4J1rBcsokpFpkdeGqDN5ppHJkJi.png",
-        "rarity": 1,
-        "description": "可选择想要的装备设计图的选择券"
-      },
-      {
-        "id": 282,
-        "name": "T7装备设计图选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/1Y4ajyno5hPvtqdSu7O3JdwaL7pZKeSe.png",
         "rarity": 1,
         "description": "可选择想要的装备设计图的选择券"
       }
@@ -88,6 +88,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1787423925,
+  "time": 1787510407,
   "version": "1.0.0-beta.43"
 }

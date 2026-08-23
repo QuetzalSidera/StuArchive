@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-08-22T18:27:51Z",
+  "generated_at": "2026-08-23T18:26:17Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1965,
-  "alias_count": 1933,
-  "normalized_alias_count": 1933,
+  "total_items": 1982,
+  "alias_count": 1950,
+  "normalized_alias_count": 1950,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -373,6 +373,21 @@
       "detail_path": "items/1993.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1993.json"
     },
+    "2054": {
+      "id": 2054,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2054,
+        "name": "T2装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uwrsGoKp8hzcorWmIPuVCNSdCViBbE3p.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T2装备设计图的抽选盒"
+      },
+      "detail_path": "items/2054.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2054.json"
+    },
     "273": {
       "id": 273,
       "source_path": "items/index.json",
@@ -387,6 +402,21 @@
       },
       "detail_path": "items/273.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/273.json"
+    },
+    "2055": {
+      "id": 2055,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2055,
+        "name": "T3装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ykIIWSA9jhjdcSmQ01a3oORA2ks9Yl9G.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T3装备设计图的抽选盒"
+      },
+      "detail_path": "items/2055.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2055.json"
     },
     "274": {
       "id": 274,
@@ -403,6 +433,21 @@
       "detail_path": "items/274.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/274.json"
     },
+    "2056": {
+      "id": 2056,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2056,
+        "name": "T4装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/k3DrEIPs2Sj0nUPudoCmvloxIKTXSQiv.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T4装备设计图的抽选盒"
+      },
+      "detail_path": "items/2056.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2056.json"
+    },
     "277": {
       "id": 277,
       "source_path": "items/index.json",
@@ -418,6 +463,21 @@
       "detail_path": "items/277.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/277.json"
     },
+    "2057": {
+      "id": 2057,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2057,
+        "name": "T5装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/qN12pRPJeWO4ZJ7TYlJlKPyk7lw4ik95.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T5装备设计图的抽选盒"
+      },
+      "detail_path": "items/2057.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2057.json"
+    },
     "279": {
       "id": 279,
       "source_path": "items/index.json",
@@ -432,6 +492,21 @@
       },
       "detail_path": "items/279.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/279.json"
+    },
+    "2058": {
+      "id": 2058,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2058,
+        "name": "T6装备设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/MeTNwTNVeLWAhkc4A7vAsgcgofa8sB8f.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个T6装备设计图的抽选盒"
+      },
+      "detail_path": "items/2058.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2058.json"
     },
     "280": {
       "id": 280,
@@ -792,6 +867,36 @@
       },
       "detail_path": "items/1361.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1361.json"
+    },
+    "2042": {
+      "id": 2042,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2042,
+        "name": "百鬼夜行系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/fl0jQ95NweEtvRvtrL3IujS2wDdThHrh.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个百鬼夜行百花缭乱系列家具的抽选箱。"
+      },
+      "detail_path": "items/2042.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2042.json"
+    },
+    "2049": {
+      "id": 2049,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2049,
+        "name": "百鬼夜行系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/1NEPtGluEQtWDR89nNwVnAZMTwvVaQVf.png",
+        "rarity": 4,
+        "description": "从百鬼夜行百花缭乱系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2049.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2049.json"
     },
     "241": {
       "id": 241,
@@ -1197,6 +1302,36 @@
       },
       "detail_path": "items/20.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/20.json"
+    },
+    "2044": {
+      "id": 2044,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2044,
+        "name": "茶会系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pvLDglqy4zteiQRDaeJRExtGftQsSHMS.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个茶会系列家具的抽选箱。"
+      },
+      "detail_path": "items/2044.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2044.json"
+    },
+    "2052": {
+      "id": 2052,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2052,
+        "name": "茶会系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8xfV6I2IeG98ZPN5ofMiukR9eurQygCB.png",
+        "rarity": 4,
+        "description": "从茶会系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2052.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2052.json"
     },
     "1387": {
       "id": 1387,
@@ -3028,6 +3163,21 @@
       "detail_path": "items/1392.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1392.json"
     },
+    "2053": {
+      "id": 2053,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2053,
+        "name": "格赫娜宴会系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8ZWyUccKfbuYLw9Fb4uwvLE61A8bftML.png",
+        "rarity": 4,
+        "description": "从格赫娜宴会系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2053.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2053.json"
+    },
     "582": {
       "id": 582,
       "source_path": "items/index.json",
@@ -3387,6 +3537,36 @@
       },
       "detail_path": "items/1614.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1614.json"
+    },
+    "2043": {
+      "id": 2043,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2043,
+        "name": "海兰德列车系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/zpEK3xU4jAtuuR9slXqzo77rPbstzyHq.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个海兰德列车系列家具的抽选箱。"
+      },
+      "detail_path": "items/2043.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2043.json"
+    },
+    "2051": {
+      "id": 2051,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2051,
+        "name": "海兰德列车系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jDO5Iq7thpHyxlYtKo3G6GFH23XaEpE6.png",
+        "rarity": 4,
+        "description": "从海兰德列车系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2051.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2051.json"
     },
     "244": {
       "id": 244,
@@ -4497,6 +4677,51 @@
       },
       "detail_path": "items/886.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/886.json"
+    },
+    "2047": {
+      "id": 2047,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2047,
+        "name": "家具选择箱(橙)",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/MGzOVqLC2ybbc9P77CJ9nFTUBgTXzkJz.png",
+        "rarity": 3,
+        "description": "从橙色稀有度家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2047.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2047.json"
+    },
+    "2046": {
+      "id": 2046,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2046,
+        "name": "家具选择箱(蓝)",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/7BJrNt5QOhnxPgxQHoEBB8gdl5us7mBx.png",
+        "rarity": 2,
+        "description": "从蓝色稀有度家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2046.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2046.json"
+    },
+    "2048": {
+      "id": 2048,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2048,
+        "name": "家具选择箱(紫)",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Mvef3w1mxdddlKKkmKmB6AHeQV0XiXiy.png",
+        "rarity": 4,
+        "description": "从紫色稀有度家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2048.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2048.json"
     },
     "221": {
       "id": 221,
@@ -6523,6 +6748,36 @@
       "detail_path": "items/252.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/252.json"
     },
+    "2045": {
+      "id": 2045,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2045,
+        "name": "千禧塔休息室系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/nmicIsLP2sIvvqjOEDedb9qMe6WWE2bC.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个千禧塔休息室系列家具的抽选箱。"
+      },
+      "detail_path": "items/2045.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2045.json"
+    },
+    "2050": {
+      "id": 2050,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2050,
+        "name": "千禧塔休息室系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pVrMU7YV9WKaihS0gecw7Oyxw5X9g8fR.png",
+        "rarity": 4,
+        "description": "从千禧塔休息室系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2050.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2050.json"
+    },
     "1589": {
       "id": 1589,
       "source_path": "items/index.json",
@@ -8539,11 +8794,11 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
       "item": {
         "id": 1918,
-        "name": "瓦尔基里警察学校系列自选箱",
+        "name": "瓦尔基里警察学校系列选择箱",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/kSTLTcOLyGc8y4nU9pCUEtrDlDO5TKIY.png",
-        "rarity": 1,
-        "description": "使用时，可以从瓦尔基里警察学校系列中，选择任意一件进行兑换的自选箱。"
+        "rarity": 4,
+        "description": "从瓦尔基里警察学校系列家具中任意选择一个家具兑换的选择箱。"
       },
       "detail_path": "items/1918.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1918.json"
@@ -22603,21 +22858,6 @@
       "detail_path": "items/1575.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1575.json"
     },
-    "1522": {
-      "id": 1522,
-      "source_path": "items/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
-      "item": {
-        "id": 1522,
-        "name": "千禧塔休息区的自动扶梯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/yToUmUd7kQjxlx9K46pB0YVCRApmr77t.png",
-        "rarity": 4,
-        "description": "通往其他楼层的自动扶梯。安全起见，切勿在上面行走或奔跑。"
-      },
-      "detail_path": "items/1522.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1522.json"
-    },
     "1573": {
       "id": 1573,
       "source_path": "items/index.json",
@@ -22662,6 +22902,21 @@
       },
       "detail_path": "items/1569.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1569.json"
+    },
+    "1522": {
+      "id": 1522,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1522,
+        "name": "千禧塔休息室的自动扶梯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/yToUmUd7kQjxlx9K46pB0YVCRApmr77t.png",
+        "rarity": 4,
+        "description": "通往其他楼层的自动扶梯。安全起见，切勿在上面行走或奔跑。"
+      },
+      "detail_path": "items/1522.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1522.json"
     },
     "1572": {
       "id": 1572,
@@ -29562,17 +29817,32 @@
     "T10装备设计图选择券": [
       "1993"
     ],
+    "T2装备设计图抽选箱": [
+      "2054"
+    ],
     "T2装备设计图选择券": [
       "273"
+    ],
+    "T3装备设计图抽选箱": [
+      "2055"
     ],
     "T3装备设计图选择券": [
       "274"
     ],
+    "T4装备设计图抽选箱": [
+      "2056"
+    ],
     "T4装备设计图选择券": [
       "277"
     ],
+    "T5装备设计图抽选箱": [
+      "2057"
+    ],
     "T5装备设计图选择券": [
       "279"
+    ],
+    "T6装备设计图抽选箱": [
+      "2058"
     ],
     "T6装备设计图选择券": [
       "280"
@@ -29645,6 +29915,12 @@
     ],
     "百鬼夜行纪念卡": [
       "1361"
+    ],
+    "百鬼夜行系列家具抽选箱": [
+      "2042"
+    ],
+    "百鬼夜行系列家具选择箱": [
+      "2049"
     ],
     "百夜堂闪亮亮硬币": [
       "241"
@@ -29726,6 +30002,12 @@
     ],
     "草莓巧克力蛋糕": [
       "20"
+    ],
+    "茶会系列家具抽选箱": [
+      "2044"
+    ],
+    "茶会系列家具选择箱": [
+      "2052"
     ],
     "柴关特大拉面": [
       "1387"
@@ -30077,6 +30359,9 @@
     "格赫娜宴会系列家具抽选箱": [
       "1392"
     ],
+    "格赫娜宴会系列家具选择箱": [
+      "2053"
+    ],
     "铬弹簧": [
       "582"
     ],
@@ -30148,6 +30433,12 @@
     ],
     "海兰德纪念贴纸": [
       "1614"
+    ],
+    "海兰德列车系列家具抽选箱": [
+      "2043"
+    ],
+    "海兰德列车系列家具选择箱": [
+      "2051"
     ],
     "海洋深层水温泉岛度假胜地使用券": [
       "244"
@@ -30354,6 +30645,15 @@
     ],
     "家具箱 (☆3)": [
       "886"
+    ],
+    "家具选择箱(橙)": [
+      "2047"
+    ],
+    "家具选择箱(蓝)": [
+      "2046"
+    ],
+    "家具选择箱(紫)": [
+      "2048"
     ],
     "甲虫皇后卡牌包": [
       "221"
@@ -30760,6 +31060,12 @@
     "千禧旗帜": [
       "252"
     ],
+    "千禧塔休息室系列家具抽选箱": [
+      "2045"
+    ],
+    "千禧塔休息室系列家具选择箱": [
+      "2050"
+    ],
     "千禧校徽巧克力": [
       "1589"
     ],
@@ -31162,7 +31468,7 @@
     "瓦尔基里警察学校系列抽选箱": [
       "1919"
     ],
-    "瓦尔基里警察学校系列自选箱": [
+    "瓦尔基里警察学校系列选择箱": [
       "1918"
     ],
     "完好的击针": [
@@ -33944,9 +34250,6 @@
     "千禧全息地图": [
       "1575"
     ],
-    "千禧塔休息区的自动扶梯": [
-      "1522"
-    ],
     "千禧塔休息室背景": [
       "1573"
     ],
@@ -33955,6 +34258,9 @@
     ],
     "千禧塔休息室的自动贩卖机": [
       "1569"
+    ],
+    "千禧塔休息室的自动扶梯": [
+      "1522"
     ],
     "千禧塔休息室地面": [
       "1572"
@@ -35395,17 +35701,32 @@
     "t10装备设计图选择券": [
       "1993"
     ],
+    "t2装备设计图抽选箱": [
+      "2054"
+    ],
     "t2装备设计图选择券": [
       "273"
+    ],
+    "t3装备设计图抽选箱": [
+      "2055"
     ],
     "t3装备设计图选择券": [
       "274"
     ],
+    "t4装备设计图抽选箱": [
+      "2056"
+    ],
     "t4装备设计图选择券": [
       "277"
     ],
+    "t5装备设计图抽选箱": [
+      "2057"
+    ],
     "t5装备设计图选择券": [
       "279"
+    ],
+    "t6装备设计图抽选箱": [
+      "2058"
     ],
     "t6装备设计图选择券": [
       "280"
@@ -35478,6 +35799,12 @@
     ],
     "百鬼夜行纪念卡": [
       "1361"
+    ],
+    "百鬼夜行系列家具抽选箱": [
+      "2042"
+    ],
+    "百鬼夜行系列家具选择箱": [
+      "2049"
     ],
     "百夜堂闪亮亮硬币": [
       "241"
@@ -35559,6 +35886,12 @@
     ],
     "草莓巧克力蛋糕": [
       "20"
+    ],
+    "茶会系列家具抽选箱": [
+      "2044"
+    ],
+    "茶会系列家具选择箱": [
+      "2052"
     ],
     "柴关特大拉面": [
       "1387"
@@ -35910,6 +36243,9 @@
     "格赫娜宴会系列家具抽选箱": [
       "1392"
     ],
+    "格赫娜宴会系列家具选择箱": [
+      "2053"
+    ],
     "铬弹簧": [
       "582"
     ],
@@ -35981,6 +36317,12 @@
     ],
     "海兰德纪念贴纸": [
       "1614"
+    ],
+    "海兰德列车系列家具抽选箱": [
+      "2043"
+    ],
+    "海兰德列车系列家具选择箱": [
+      "2051"
     ],
     "海洋深层水温泉岛度假胜地使用券": [
       "244"
@@ -36187,6 +36529,15 @@
     ],
     "家具箱(☆3)": [
       "886"
+    ],
+    "家具选择箱(橙)": [
+      "2047"
+    ],
+    "家具选择箱(蓝)": [
+      "2046"
+    ],
+    "家具选择箱(紫)": [
+      "2048"
     ],
     "甲虫皇后卡牌包": [
       "221"
@@ -36593,6 +36944,12 @@
     "千禧旗帜": [
       "252"
     ],
+    "千禧塔休息室系列家具抽选箱": [
+      "2045"
+    ],
+    "千禧塔休息室系列家具选择箱": [
+      "2050"
+    ],
     "千禧校徽巧克力": [
       "1589"
     ],
@@ -36995,7 +37352,7 @@
     "瓦尔基里警察学校系列抽选箱": [
       "1919"
     ],
-    "瓦尔基里警察学校系列自选箱": [
+    "瓦尔基里警察学校系列选择箱": [
       "1918"
     ],
     "完好的击针": [
@@ -39777,9 +40134,6 @@
     "千禧全息地图": [
       "1575"
     ],
-    "千禧塔休息区的自动扶梯": [
-      "1522"
-    ],
     "千禧塔休息室背景": [
       "1573"
     ],
@@ -39788,6 +40142,9 @@
     ],
     "千禧塔休息室的自动贩卖机": [
       "1569"
+    ],
+    "千禧塔休息室的自动扶梯": [
+      "1522"
     ],
     "千禧塔休息室地面": [
       "1572"

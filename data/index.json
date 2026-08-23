@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "StuArchive",
   "description": "A static JSON mirror of public Blue Archive data exposed by Kivo Wiki.",
-  "generated_at": "2026-08-22T18:27:51Z",
+  "generated_at": "2026-08-23T18:26:17Z",
   "generator": "scripts/sync.py",
   "source": {
     "site": "https://kivo.wiki/",
@@ -26,7 +26,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/",
       "path": "meta/api-root.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/api-root.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "statistics",
@@ -35,7 +35,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/statistics/index",
       "path": "meta/statistics.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/statistics.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-event",
@@ -44,7 +44,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/event.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/event.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-event-jp",
@@ -53,7 +53,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/events/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/jp.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-event-cn",
@@ -62,7 +62,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=cn",
       "path": "current/events/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-raid",
@@ -71,7 +71,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raid.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raid.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-raid-jp",
@@ -80,7 +80,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raids/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/jp.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-raid-cn",
@@ -89,7 +89,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=cn",
       "path": "current/raids/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/cn.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-pick-up",
@@ -98,7 +98,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-up.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-up.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-pick-up-jp",
@@ -107,7 +107,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-ups/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "current-pick-up-cn",
@@ -116,7 +116,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=cn",
       "path": "current/pick-ups/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/cn.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "lucky-item",
@@ -125,7 +125,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/lucky_item/",
       "path": "current/lucky-item.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/lucky-item.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "students-birthday-week",
@@ -134,7 +134,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/birthday/week",
       "path": "current/students-birthday-week.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/students-birthday-week.json",
-      "fetched_at": "2026-08-22T18:27:51Z"
+      "fetched_at": "2026-08-23T18:26:17Z"
     },
     {
       "name": "students",
@@ -151,8 +151,8 @@
       "details_available": true,
       "lookup_path": "students/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-      "lookup_alias_count": 5706,
-      "lookup_normalized_alias_count": 3915,
+      "lookup_alias_count": 5710,
+      "lookup_normalized_alias_count": 3917,
       "profile_index_path": "students/profiles/index.json",
       "profile_index_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
       "profiles_synced": 500
@@ -165,15 +165,15 @@
       "path": "items/index.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
       "list_key": "item",
-      "max_page": 197,
-      "synced_pages": 197,
-      "total_items": 1965,
-      "details_synced": 1965,
+      "max_page": 199,
+      "synced_pages": 199,
+      "total_items": 1982,
+      "details_synced": 1982,
       "details_available": true,
       "lookup_path": "items/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-      "lookup_alias_count": 1933,
-      "lookup_normalized_alias_count": 1933
+      "lookup_alias_count": 1950,
+      "lookup_normalized_alias_count": 1950
     },
     {
       "name": "equipments",
@@ -221,13 +221,13 @@
       "list_key": "model",
       "max_page": 53,
       "synced_pages": 53,
-      "total_items": 524,
-      "details_synced": 524,
+      "total_items": 529,
+      "details_synced": 529,
       "details_available": true,
       "lookup_path": "models/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-      "lookup_alias_count": 524,
-      "lookup_normalized_alias_count": 524
+      "lookup_alias_count": 529,
+      "lookup_normalized_alias_count": 529
     },
     {
       "name": "spines",
@@ -363,15 +363,15 @@
       "path": "timeline/index.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "list_key": "timeline",
-      "max_page": 577,
-      "synced_pages": 577,
-      "total_items": 5769,
+      "max_page": 579,
+      "synced_pages": 579,
+      "total_items": 5781,
       "details_synced": 0,
       "details_available": true,
       "lookup_path": "timeline/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-      "lookup_alias_count": 5738,
-      "lookup_normalized_alias_count": 5731
+      "lookup_alias_count": 5750,
+      "lookup_normalized_alias_count": 5743
     },
     {
       "name": "walkthroughs",
@@ -401,13 +401,13 @@
       "list_key": "article",
       "max_page": 6,
       "synced_pages": 6,
-      "total_items": 52,
-      "details_synced": 52,
+      "total_items": 53,
+      "details_synced": 53,
       "details_available": true,
       "lookup_path": "articles/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/articles/lookup.json",
-      "lookup_alias_count": 52,
-      "lookup_normalized_alias_count": 52
+      "lookup_alias_count": 53,
+      "lookup_normalized_alias_count": 53
     },
     {
       "name": "comics",
@@ -428,6 +428,6 @@
       "lookup_normalized_alias_count": 8
     }
   ],
-  "request_count": 7492,
+  "request_count": 7519,
   "sync_errors": []
 }

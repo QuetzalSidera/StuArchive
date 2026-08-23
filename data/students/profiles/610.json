@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-22T18:27:51Z",
+  "generated_at": "2026-08-23T18:26:17Z",
   "id": 610,
   "display_name": "羽沼 真琴（泳装）",
   "names": {
@@ -1925,13 +1925,6 @@
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturn_3.ogg"
       },
       {
-        "description": "ch0344_minigame_loseturnspecial_1",
-        "category": "event",
-        "text": "",
-        "text_original": "空崎ヒナァーー！！",
-        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturnspecial_1.ogg"
-      },
-      {
         "description": "ch0344_minigame_touch_1_1",
         "category": "event",
         "text": "",
@@ -1986,20 +1979,6 @@
         "text": "",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturn_3.ogg"
-      },
-      {
-        "description": "ch0344_minigame_winturnspecial_1",
-        "category": "event",
-        "text": "",
-        "text_original": "お前はゲヘナのウォーリアーだ！",
-        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturnspecial_1.ogg"
-      },
-      {
-        "description": "ch0344_minigame_winturnspecial_2",
-        "category": "event",
-        "text": "",
-        "text_original": "腹の足しにもならんな！",
-        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturnspecial_2.ogg"
       },
       {
         "description": "ch0344_relationship_up_1",
@@ -2224,6 +2203,27 @@
         "text": "",
         "text_original": "キキキッ……ブルーアーカイブ、だ。",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/CH0344_Title.ogg"
+      },
+      {
+        "description": "ch0344_minigame_loseturnspecial_1",
+        "category": "event",
+        "text": "空崎日奈啊啊啊—！！",
+        "text_original": "空崎ヒナァーー！！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_loseturnspecial_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturnspecial_1",
+        "category": "event",
+        "text": "你就是格赫娜的勇士！",
+        "text_original": "お前はゲヘナのウォーリアーだ！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturnspecial_1.ogg"
+      },
+      {
+        "description": "ch0344_minigame_winturnspecial_2",
+        "category": "event",
+        "text": "连塞牙缝都不够啊！",
+        "text_original": "腹の足しにもならんな！",
+        "file": "https://static.kivo.wiki/voices/students/%E7%BE%BD%E6%B2%BC%20%E7%9C%9F%E7%90%B4/%E6%B3%B3%E8%A3%85/jp/ch0344_minigame_winturnspecial_2.ogg"
       }
     ],
     "voice_cn": [],
@@ -2232,8 +2232,8 @@
   "source": {
     "detail_path": "students/610.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/610.json",
-    "upstream_time": 1787423481,
-    "updated_at": 1785386462,
+    "upstream_time": 1787509845,
+    "updated_at": 1787504469,
     "created_at": 1785065253
   }
 }

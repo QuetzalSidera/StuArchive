@@ -2,8 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 197,
+    "max_page": 199,
     "item": [
+      {
+        "id": 1369,
+        "name": "安全哨",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/KBLQENMvjQjQ1VWsCbUhT83msJLIZq7G.png",
+        "rarity": 1,
+        "description": "紧急情况下使用的口哨。用力吹响会发出尖锐的声音。"
+      },
+      {
+        "id": 19,
+        "name": "奥秘之书",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "description": "记载着战术奥秘的技术笔记。"
+      },
+      {
+        "id": 44,
+        "name": "奥秘之书碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/mnyWssjXnAyvK53UJctsZeH3FqDk0HDd.png",
+        "rarity": 3,
+        "description": "纪录着战术奥秘之书的技术笔记碎片。 可收集碎片并透过合成物质制作成奥秘之书。"
+      },
+      {
+        "id": 1591,
+        "name": "芭菲兑换券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T2ZEgLfecTEcehUxrl1G8nF4TT9yLDtR.png",
+        "rarity": 1,
+        "description": "芭菲（Parfait）意为\"完美\"。完成一事后，不妨享用一份芭菲，享受那完美安宁的惬意时光。"
+      },
+      {
+        "id": 1892,
+        "name": "白色少女",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/GCIbyR0drPl14GUWaeXU1G5YEpQISO5S.png",
+        "rarity": 1,
+        "description": "百鬼夜行自治区到处都有卖的惠比寿产的巧克力饼干。外面装饰着薄薄的一层白巧克力。唯一的问题是很容易把手弄脏。"
+      },
       {
         "id": 523,
         "name": "白翼发卡设计图",
@@ -21,73 +61,33 @@
         "description": "景区常见的纪念卡。多多收集后能用来玩某种游戏。"
       },
       {
+        "id": 2042,
+        "name": "百鬼夜行系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/fl0jQ95NweEtvRvtrL3IujS2wDdThHrh.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个百鬼夜行百花缭乱系列家具的抽选箱。"
+      },
+      {
+        "id": 2049,
+        "name": "百鬼夜行系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/1NEPtGluEQtWDR89nNwVnAZMTwvVaQVf.png",
+        "rarity": 4,
+        "description": "从百鬼夜行百花缭乱系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      {
         "id": 241,
         "name": "百夜堂闪亮亮硬币",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/ZMRqHCMZQBIg04Ua2wagiNL79x1N95mN.png",
         "rarity": 1,
         "description": "可于百夜堂大海之家兑换纪念品的硬币。不过大部分的客人都把硬币当作是纪念品。"
-      },
-      {
-        "id": 188,
-        "name": "百夜堂限定甜点",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/tcu9PEoW7qmHJfu5w3pSoolYi1TQj38I.png",
-        "rarity": 1,
-        "description": "百夜堂为迎接情人节所贩售的情人节限定版甜点。尽可能考量老主顾的喜好所打造出来的特制产品。也就是说，绝大部分反映了老师的喜好。"
-      },
-      {
-        "id": 1888,
-        "name": "棒球三神器巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/7ihDTtMzx5eIMcmKAAHn8ZRRDrJPlCxx.png",
-        "rarity": 1,
-        "description": "手套、球棒、棒球。据说有了这3样东西就能和任何人一起打棒球。而将这一切用巧克力来复现……的心意应该是倾注在其中了。"
-      },
-      {
-        "id": 1924,
-        "name": "包包的万能设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Mm11BZkaGUBXqdMKPbN4mWieVzaMRKD3.png",
-        "rarity": 1,
-        "description": "可以制作装备的设计图。"
-      },
-      {
-        "id": 1814,
-        "name": "爆米花桶",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ze91mcIneSVrpnDBUxafmdZek6PZpcsb.png",
-        "rarity": 1,
-        "description": "以魔法少女「Heavy Caliber」的吉祥物为原型制作的爆米花桶。不知为何，做工有些粗糙。"
-      },
-      {
-        "id": 1330,
-        "name": "贝壳",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/D0rdTLajVTMOqhIxjAIZXPrkHHUQ7bED.png",
-        "rarity": 1,
-        "description": "海岸边很常见的小贝壳。看似不起眼，但每一个都有独一无二的细微花纹与形状。"
-      },
-      {
-        "id": 2001,
-        "name": "貝壳",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/FrmMknTCk8DtceCtnDsimp2HDoRntzPe.png",
-        "rarity": 1,
-        "description": "吃剩的壳。在极端情况下，不得不利用任何东西。"
-      },
-      {
-        "id": 1914,
-        "name": "备用手柄",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/2N4e3D3drqUJ8FTeAdQdL4TEixBPc6tb.png",
-        "rarity": 1,
-        "description": "手柄是消耗品。里面有个别手柄的更换周期有缩短的倾向。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787423928,
+  "time": 1787510410,
   "version": "1.0.0-beta.43"
 }
