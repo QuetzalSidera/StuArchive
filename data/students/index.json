@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-08-23T18:26:17Z",
+  "generated_at": "2026-08-24T18:37:04Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 50,
   "synced_pages": 50,
-  "total_items": 496,
-  "details_synced": 496,
+  "total_items": 500,
+  "details_synced": 500,
   "details_enabled": true,
   "items": [
     {
@@ -5169,6 +5169,22 @@
       "main_relation": 155
     },
     {
+      "id": 622,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "玛琪娜",
+      "family_name_jp": "",
+      "given_name_jp": "マキナ",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20%E7%9C%9F%E5%B8%8C%E5%A5%88/original/makina2.png",
+      "school": 15,
+      "main_relation": 155
+    },
+    {
       "id": 621,
       "skin": "",
       "skin_jp": "",
@@ -5181,22 +5197,6 @@
       "family_name_cn": "",
       "given_name_cn": "",
       "avatar": "https://static.kivo.wiki/images/students/%20%E7%90%B4%E9%9F%B3/original/kotone2.png",
-      "school": 15,
-      "main_relation": 155
-    },
-    {
-      "id": 622,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "",
-      "given_name": "真希奈",
-      "family_name_jp": "",
-      "given_name_jp": "マキナ",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%20%E7%9C%9F%E5%B8%8C%E5%A5%88/original/makina2.png",
       "school": 15,
       "main_relation": 155
     },
@@ -5471,6 +5471,70 @@
       "avatar": "https://static.kivo.wiki/images/students/%E5%BE%A1%E5%9D%82%20%E7%BE%8E%E7%90%B4/avatar.png",
       "school": 26,
       "main_relation": 87
+    },
+    {
+      "id": 625,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "Gum Shrew",
+      "family_name_jp": "",
+      "given_name_jp": "",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20Gum%20Shrew/original/avatar%20%283%29.png",
+      "school": 30,
+      "main_relation": 0
+    },
+    {
+      "id": 624,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "Hellarts Inc.",
+      "family_name_jp": "",
+      "given_name_jp": "",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20Hellarts%20Inc./original/avatar%20%283%29.png",
+      "school": 30,
+      "main_relation": 0
+    },
+    {
+      "id": 626,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "PoNya",
+      "family_name_jp": "",
+      "given_name_jp": "",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20PoNya/original/avatar.png",
+      "school": 30,
+      "main_relation": 0
+    },
+    {
+      "id": 623,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "Yozikyung",
+      "family_name_jp": "",
+      "given_name_jp": "",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20Yozikyung/original/avatar.png",
+      "school": 30,
+      "main_relation": 122
     },
     {
       "id": 202,
@@ -8302,7 +8366,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=50",
       "path": "students/pages/50.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/50.json",
-      "item_count": 6
+      "item_count": 10
     }
   ],
   "details": [
@@ -10239,16 +10303,16 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/620.json"
     },
     {
-      "id": 621,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/621",
-      "path": "students/621.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/621.json"
-    },
-    {
       "id": 622,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/622",
       "path": "students/622.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/622.json"
+    },
+    {
+      "id": 621,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/621",
+      "path": "students/621.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/621.json"
     },
     {
       "id": 589,
@@ -10351,6 +10415,30 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/315",
       "path": "students/315.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/315.json"
+    },
+    {
+      "id": 625,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/625",
+      "path": "students/625.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/625.json"
+    },
+    {
+      "id": 624,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/624",
+      "path": "students/624.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/624.json"
+    },
+    {
+      "id": 626,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/626",
+      "path": "students/626.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/626.json"
+    },
+    {
+      "id": 623,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/623",
+      "path": "students/623.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/623.json"
     },
     {
       "id": 202,
@@ -11286,9 +11374,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5710,
-    "normalized_alias_count": 3917,
-    "total_items": 496
+    "alias_count": 5714,
+    "normalized_alias_count": 3921,
+    "total_items": 500
   },
   "profiles": [
     {
@@ -13592,6 +13680,26 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/622.json"
     },
     {
+      "id": 623,
+      "path": "students/profiles/623.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/623.json"
+    },
+    {
+      "id": 624,
+      "path": "students/profiles/624.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/624.json"
+    },
+    {
+      "id": 625,
+      "path": "students/profiles/625.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/625.json"
+    },
+    {
+      "id": 626,
+      "path": "students/profiles/626.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/626.json"
+    },
+    {
       "id": 63,
       "path": "students/profiles/63.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/63.json"
@@ -13795,6 +13903,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 500
+    "total_items": 504
   }
 }

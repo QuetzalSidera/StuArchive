@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-08-23T18:26:17Z",
+  "generated_at": "2026-08-24T18:37:04Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
@@ -5077,8 +5077,8 @@
         "name": "狂猎艺术学院系列家具抽选箱",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/xt3JbKecGdczBiTcKw5XqayE7gyMeNTu.png",
-        "rarity": 1,
-        "description": ""
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个狂猎艺术学院系列家具的抽选箱。"
       },
       "detail_path": "items/1748.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1748.json"
@@ -5092,8 +5092,8 @@
         "name": "狂猎艺术学院系列家具选择箱",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/R0GjsWN9486Sl9LZnorO6yiQpBapNdns.png",
-        "rarity": 1,
-        "description": ""
+        "rarity": 4,
+        "description": "从狂猎艺术学院系列家具中任意选择一个家具兑换的选择箱。"
       },
       "detail_path": "items/1749.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1749.json"
@@ -8782,8 +8782,8 @@
         "name": "瓦尔基里警察学校系列抽选箱",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/TD6x7LQyICyFcb3xmSLy8qMMtCUHQwna.png",
-        "rarity": 1,
-        "description": "使用时，可从瓦尔基里警察学校系列家具中，以相同概率随机获得一件的抽选箱。"
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个瓦尔基里警察学校系列家具的抽选箱。"
       },
       "detail_path": "items/1919.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1919.json"
@@ -11194,11 +11194,11 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
       "item": {
         "id": 1830,
-        "name": "运输船系列家具抽选箱  ",
+        "name": "运输船系列家具抽选箱",
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/lOTSRZ4RrLRxBcmbCPhSxQ8yuT76NLLV.png",
         "rarity": 4,
-        "description": "使用时，可从运输船系列家具中，以相同概率随机获得一件的抽选箱。"
+        "description": "使用时以相同的概率获得1个运输船系列家具的抽选箱。"
       },
       "detail_path": "items/1830.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1830.json"
@@ -11213,7 +11213,7 @@
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/wiXCFPkJNgnXMIguS5Pf8rkldsYOjDzL.png",
         "rarity": 4,
-        "description": "使用时，可从运输船系列家具中，选择任意一件进行兑换的自选箱。"
+        "description": "从运输船系列家具中任意选择一个家具兑换的选择箱。"
       },
       "detail_path": "items/1831.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1831.json"
