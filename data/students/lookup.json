@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-24T18:37:04Z",
+  "generated_at": "2026-08-25T18:37:03Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 500,
-  "alias_count": 5714,
-  "normalized_alias_count": 3921,
+  "total_items": 496,
+  "alias_count": 5710,
+  "normalized_alias_count": 3917,
   "by_id": {
     "76": {
       "id": 76,
@@ -8537,106 +8537,6 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/315.json",
       "profile_path": "students/profiles/315.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/315.json"
-    },
-    "625": {
-      "id": 625,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 625,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "Gum Shrew",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20Gum%20Shrew/original/avatar%20%283%29.png",
-        "school": 30,
-        "main_relation": 0
-      },
-      "detail_path": "students/625.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/625.json",
-      "profile_path": "students/profiles/625.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/625.json"
-    },
-    "624": {
-      "id": 624,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 624,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "Hellarts Inc.",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20Hellarts%20Inc./original/avatar%20%283%29.png",
-        "school": 30,
-        "main_relation": 0
-      },
-      "detail_path": "students/624.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/624.json",
-      "profile_path": "students/profiles/624.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/624.json"
-    },
-    "626": {
-      "id": 626,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 626,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "PoNya",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20PoNya/original/avatar.png",
-        "school": 30,
-        "main_relation": 0
-      },
-      "detail_path": "students/626.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/626.json",
-      "profile_path": "students/profiles/626.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/626.json"
-    },
-    "623": {
-      "id": 623,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 623,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "",
-        "given_name": "Yozikyung",
-        "family_name_jp": "",
-        "given_name_jp": "",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20Yozikyung/original/avatar.png",
-        "school": 30,
-        "main_relation": 122
-      },
-      "detail_path": "students/623.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/623.json",
-      "profile_path": "students/profiles/623.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/623.json"
     },
     "202": {
       "id": 202,
@@ -29457,18 +29357,6 @@
     "美琴": [
       "315"
     ],
-    "Gum Shrew": [
-      "625"
-    ],
-    "Hellarts Inc.": [
-      "624"
-    ],
-    "PoNya": [
-      "626"
-    ],
-    "Yozikyung": [
-      "623"
-    ],
     "佩洛洛": [
       "202"
     ],
@@ -41980,18 +41868,6 @@
     ],
     "美琴": [
       "315"
-    ],
-    "gumshrew": [
-      "625"
-    ],
-    "hellartsinc.": [
-      "624"
-    ],
-    "ponya": [
-      "626"
-    ],
-    "yozikyung": [
-      "623"
     ],
     "佩洛洛": [
       "202"

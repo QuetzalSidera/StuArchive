@@ -12,11 +12,19 @@
     "gift": {
       "students": [
         {
-          "id": 160,
-          "skin": "",
+          "id": 340,
+          "skin": "露营",
           "family_name": "小钩",
           "given_name": "晴",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/avatar.png",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/%E9%9C%B2%E8%90%A5/avatar.png",
+          "favorability": 240
+        },
+        {
+          "id": 185,
+          "skin": "",
+          "family_name": "白石",
+          "given_name": "歌原",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E7%9F%B3%20%E6%AD%8C%E5%8E%9F/avatar.png",
           "favorability": 240
         },
         {
@@ -84,11 +92,11 @@
           "favorability": 240
         },
         {
-          "id": 340,
-          "skin": "露营",
+          "id": 160,
+          "skin": "",
           "family_name": "小钩",
           "given_name": "晴",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/%E9%9C%B2%E8%90%A5/avatar.png",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E9%92%A9%20%E6%99%B4/avatar.png",
           "favorability": 240
         },
         {
@@ -105,14 +113,6 @@
           "family_name": "鬼怒川",
           "given_name": "霞",
           "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/original/avatar.png",
-          "favorability": 240
-        },
-        {
-          "id": 185,
-          "skin": "",
-          "family_name": "白石",
-          "given_name": "歌原",
-          "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E7%9F%B3%20%E6%AD%8C%E5%8E%9F/avatar.png",
           "favorability": 240
         },
         {
@@ -188,6 +188,14 @@
           "favorability": 180
         },
         {
+          "id": 573,
+          "skin": "临战",
+          "family_name": "飞鸟马",
+          "given_name": "时",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%A3%9E%E9%B8%9F%E9%A9%AC%20%E6%97%B6/%E4%B8%B4%E6%88%98/Student_Portrait_CH0333_Collection.png",
+          "favorability": 180
+        },
+        {
           "id": 114,
           "skin": "",
           "family_name": "仲正",
@@ -209,14 +217,6 @@
           "family_name": "早濑",
           "given_name": "优香",
           "avatar": "https://static.kivo.wiki/images/students/%E6%97%A9%E6%BF%91%20%E4%BC%98%E9%A6%99/%E7%9D%A1%E8%A1%A3/Student_Portrait_CH0284_Collection.png",
-          "favorability": 180
-        },
-        {
-          "id": 573,
-          "skin": "临战",
-          "family_name": "飞鸟马",
-          "given_name": "时",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%A3%9E%E9%B8%9F%E9%A9%AC%20%E6%97%B6/%E4%B8%B4%E6%88%98/Student_Portrait_CH0333_Collection.png",
           "favorability": 180
         },
         {
@@ -284,6 +284,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1787598601,
+  "time": 1787684243,
   "version": "1.0.0-beta.43"
 }

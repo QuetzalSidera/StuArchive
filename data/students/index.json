@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-08-24T18:37:04Z",
+  "generated_at": "2026-08-25T18:37:03Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 50,
   "synced_pages": 50,
-  "total_items": 500,
-  "details_synced": 500,
+  "total_items": 496,
+  "details_synced": 496,
   "details_enabled": true,
   "items": [
     {
@@ -5473,70 +5473,6 @@
       "main_relation": 87
     },
     {
-      "id": 625,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "",
-      "given_name": "Gum Shrew",
-      "family_name_jp": "",
-      "given_name_jp": "",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%20Gum%20Shrew/original/avatar%20%283%29.png",
-      "school": 30,
-      "main_relation": 0
-    },
-    {
-      "id": 624,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "",
-      "given_name": "Hellarts Inc.",
-      "family_name_jp": "",
-      "given_name_jp": "",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%20Hellarts%20Inc./original/avatar%20%283%29.png",
-      "school": 30,
-      "main_relation": 0
-    },
-    {
-      "id": 626,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "",
-      "given_name": "PoNya",
-      "family_name_jp": "",
-      "given_name_jp": "",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%20PoNya/original/avatar.png",
-      "school": 30,
-      "main_relation": 0
-    },
-    {
-      "id": 623,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "",
-      "given_name": "Yozikyung",
-      "family_name_jp": "",
-      "given_name_jp": "",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%20Yozikyung/original/avatar.png",
-      "school": 30,
-      "main_relation": 122
-    },
-    {
       "id": 202,
       "skin": "",
       "skin_jp": "",
@@ -8366,7 +8302,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=50",
       "path": "students/pages/50.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/50.json",
-      "item_count": 10
+      "item_count": 6
     }
   ],
   "details": [
@@ -10417,30 +10353,6 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/315.json"
     },
     {
-      "id": 625,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/625",
-      "path": "students/625.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/625.json"
-    },
-    {
-      "id": 624,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/624",
-      "path": "students/624.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/624.json"
-    },
-    {
-      "id": 626,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/626",
-      "path": "students/626.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/626.json"
-    },
-    {
-      "id": 623,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/623",
-      "path": "students/623.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/623.json"
-    },
-    {
       "id": 202,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/202",
       "path": "students/202.json",
@@ -11374,9 +11286,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5714,
-    "normalized_alias_count": 3921,
-    "total_items": 500
+    "alias_count": 5710,
+    "normalized_alias_count": 3917,
+    "total_items": 496
   },
   "profiles": [
     {
