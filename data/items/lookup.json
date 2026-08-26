@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1982,
-  "alias_count": 1950,
-  "normalized_alias_count": 1950,
+  "total_items": 1997,
+  "alias_count": 1965,
+  "normalized_alias_count": 1965,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -1303,6 +1303,21 @@
       "detail_path": "items/20.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/20.json"
     },
+    "2073": {
+      "id": 2073,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2073,
+        "name": "茶话会相册收纳架兑换券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/fKBNfwzuz2qkDkKIrwgXe1gdxkQrpalG.png",
+        "rarity": 4,
+        "description": "获得时可兑换为茶话会相册收纳架的兑换券。若已获得该家具，则改为获得一个奥秘之书。"
+      },
+      "detail_path": "items/2073.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2073.json"
+    },
     "2044": {
       "id": 2044,
       "source_path": "items/index.json",
@@ -2338,6 +2353,21 @@
       "detail_path": "items/435.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/435.json"
     },
+    "2070": {
+      "id": 2070,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2070,
+        "name": "浮标",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/H3rNGZpSNkytL6xmOoj7ia8o0cxn1hUv.png",
+        "rarity": 1,
+        "description": "为在潜水过程中告知自己的位置，可在水中展开的信号浮标。可以让水面上的人知道自己的存在。"
+      },
+      "detail_path": "items/2070.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2070.json"
+    },
     "137": {
       "id": 137,
       "source_path": "items/index.json",
@@ -2547,6 +2577,21 @@
       },
       "detail_path": "items/109.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/109.json"
+    },
+    "2065": {
+      "id": 2065,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2065,
+        "name": "高级技术笔记（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/p3hAEsr5NNA6HYSIH2gxkhGiAMYC7U8x.png",
+        "rarity": 3,
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。"
+      },
+      "detail_path": "items/2065.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2065.json"
     },
     "72": {
       "id": 72,
@@ -2847,6 +2892,21 @@
       },
       "detail_path": "items/145.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/145.json"
+    },
+    "2061": {
+      "id": 2061,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2061,
+        "name": "高级战术教育BD（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/F7gwJBiJFNrNxJ6KpNviu8aSfuq1Sywt.png",
+        "rarity": 3,
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。"
+      },
+      "detail_path": "items/2061.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2061.json"
     },
     "200": {
       "id": 200,
@@ -4108,6 +4168,21 @@
       "detail_path": "items/106.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/106.json"
     },
+    "2063": {
+      "id": 2063,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2063,
+        "name": "基础技术笔记（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DNmrwpFN7Pao2XBqWDJ8oU7LGEhxuE9P.png",
+        "rarity": 1,
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。"
+      },
+      "detail_path": "items/2063.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2063.json"
+    },
     "69": {
       "id": 69,
       "source_path": "items/index.json",
@@ -4362,6 +4437,21 @@
       },
       "detail_path": "items/143.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/143.json"
+    },
+    "2059": {
+      "id": 2059,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2059,
+        "name": "基础战术教育BD（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/LBNpFGzRCLTRsYW3oG8F9CilJ7x61meS.png",
+        "rarity": 1,
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。"
+      },
+      "detail_path": "items/2059.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2059.json"
     },
     "196": {
       "id": 196,
@@ -6822,6 +6912,21 @@
       },
       "detail_path": "items/1828.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1828.json"
+    },
+    "2069": {
+      "id": 2069,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2069,
+        "name": "潜水配重",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PFbbENQ8lf9cT5VPHBib0wWvSF2nwF6g.png",
+        "rarity": 1,
+        "description": "潜水时为保持中性浮力而佩戴的配重块。会根据潜水员的喜好涂上各种颜色。"
+      },
+      "detail_path": "items/2069.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2069.json"
     },
     "1068": {
       "id": 1068,
@@ -10048,6 +10153,21 @@
       "detail_path": "items/1408.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1408.json"
     },
+    "2067": {
+      "id": 2067,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2067,
+        "name": "氧气瓶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0415lHUZ4CCwfrE68SgAdDoyGPyUX0bR.png",
+        "rarity": 1,
+        "description": "装满了潜水所需空气的气瓶。下潜前必须确认剩余气压。"
+      },
+      "detail_path": "items/2067.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2067.json"
+    },
     "1515": {
       "id": 1515,
       "source_path": "items/index.json",
@@ -10077,6 +10197,21 @@
       },
       "detail_path": "items/1895.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1895.json"
+    },
+    "2068": {
+      "id": 2068,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2068,
+        "name": "咬嘴",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Nb5ihugq00IhNI29WQcbckM3sCHzjEtq.png",
+        "rarity": 1,
+        "description": "连接在呼吸管上的咬嘴。由于初学者有时会咬得很紧，潜水部通常常备备用件。"
+      },
+      "detail_path": "items/2068.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2068.json"
     },
     "1906": {
       "id": 1906,
@@ -10152,6 +10287,21 @@
       },
       "detail_path": "items/108.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/108.json"
+    },
+    "2064": {
+      "id": 2064,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2064,
+        "name": "一般技术笔记（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/yzE1HHCcj4naVgc6qZKhvxl0st6INx0t.png",
+        "rarity": 2,
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。"
+      },
+      "detail_path": "items/2064.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2064.json"
     },
     "71": {
       "id": 71,
@@ -10437,6 +10587,21 @@
       },
       "detail_path": "items/144.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/144.json"
+    },
+    "2060": {
+      "id": 2060,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2060,
+        "name": "一般战术教育BD（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DX7yVJcGOSzplNYCfwLvUo5phIKCpknQ.png",
+        "rarity": 2,
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。"
+      },
+      "detail_path": "items/2060.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2060.json"
     },
     "198": {
       "id": 198,
@@ -11713,6 +11878,21 @@
       "detail_path": "items/110.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/110.json"
     },
+    "2066": {
+      "id": 2066,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2066,
+        "name": "最高级技术笔记（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/rSasipdrjc8oLQvRXEFkDCrq5Xo0Qtyi.png",
+        "rarity": 4,
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。"
+      },
+      "detail_path": "items/2066.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2066.json"
+    },
     "75": {
       "id": 75,
       "source_path": "items/index.json",
@@ -11997,6 +12177,21 @@
       },
       "detail_path": "items/146.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/146.json"
+    },
+    "2062": {
+      "id": 2062,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2062,
+        "name": "最高级战术教育BD（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/g7rezk2g5ZqeJAaeRvf8gJvcHGH884Ku.png",
+        "rarity": 4,
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。"
+      },
+      "detail_path": "items/2062.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2062.json"
     },
     "201": {
       "id": 201,
@@ -15523,6 +15718,21 @@
       "detail_path": "items/1725.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1725.json"
     },
+    "1687": {
+      "id": 1687,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 1687,
+        "name": "茶话会相册收纳架",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/CR3SwL3QqUUp9p1QnaB6r7Gb8iHBo2Jp.png",
+        "rarity": 4,
+        "description": "可以收纳相册等物品的收纳架。各个架子上不仅仅只有相册，还有在私人沙滩上的许多回忆。"
+      },
+      "detail_path": "items/1687.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1687.json"
+    },
     "1702": {
       "id": 1702,
       "source_path": "items/index.json",
@@ -15582,21 +15792,6 @@
       },
       "detail_path": "items/1720.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1720.json"
-    },
-    "1687": {
-      "id": 1687,
-      "source_path": "items/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
-      "item": {
-        "id": 1687,
-        "name": "茶会相册收纳架",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/CR3SwL3QqUUp9p1QnaB6r7Gb8iHBo2Jp.png",
-        "rarity": 4,
-        "description": "可以收纳相册等物品的收纳架。各个架子上不仅仅只有相册，还有在私人沙滩上的许多回忆。"
-      },
-      "detail_path": "items/1687.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1687.json"
     },
     "1507": {
       "id": 1507,
@@ -23098,6 +23293,21 @@
       "detail_path": "items/1552.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1552.json"
     },
+    "2071": {
+      "id": 2071,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2071,
+        "name": "潜水池",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/OMYPKtRV9Xlw3ucejeAMcM4SfL4WidqA.png",
+        "rarity": 4,
+        "description": "为再现深水环境而建造的人工潜水池。凝视着那平静且深邃的蓝色，有时会让人感到恐惧。然而，对于熟练的潜水员来说，这里却是如床铺般令人放松的空间。"
+      },
+      "detail_path": "items/2071.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2071.json"
+    },
     "1024": {
       "id": 1024,
       "source_path": "items/index.json",
@@ -24597,6 +24807,21 @@
       },
       "detail_path": "items/1535.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1535.json"
+    },
+    "2072": {
+      "id": 2072,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2072,
+        "name": "书堆",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/f26cNj7OZyEngAtpNws0gCKaeS6CP20m.png",
+        "rarity": 4,
+        "description": "有人杂乱堆放的一堆书。似乎有某种规律，但除了摆放者本人，谁也无从知晓。"
+      },
+      "detail_path": "items/2072.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2072.json"
     },
     "1244": {
       "id": 1244,
@@ -30003,6 +30228,9 @@
     "草莓巧克力蛋糕": [
       "20"
     ],
+    "茶话会相册收纳架兑换券": [
+      "2073"
+    ],
     "茶会系列家具抽选箱": [
       "2044"
     ],
@@ -30210,6 +30438,9 @@
     "伏尼契手稿书页": [
       "435"
     ],
+    "浮标": [
+      "2070"
+    ],
     "改良型切流恩卡": [
       "137"
     ],
@@ -30251,6 +30482,9 @@
     ],
     "高级技术笔记(阿里乌斯)": [
       "109"
+    ],
+    "高级技术笔记(奥德赛)": [
+      "2065"
     ],
     "高级技术笔记(百鬼夜行)": [
       "72"
@@ -30303,6 +30537,9 @@
     ],
     "高级战术教育BD(阿里乌斯)": [
       "145"
+    ],
+    "高级战术教育BD(奥德赛)": [
+      "2061"
     ],
     "高级战术教育BD(百鬼夜行)": [
       "200"
@@ -30548,6 +30785,9 @@
     "基础技术笔记(阿里乌斯)": [
       "106"
     ],
+    "基础技术笔记(奥德赛)": [
+      "2063"
+    ],
     "基础技术笔记(百鬼夜行)": [
       "69"
     ],
@@ -30590,6 +30830,9 @@
     ],
     "基础战术教育BD(阿里乌斯)": [
       "143"
+    ],
+    "基础战术教育BD(奥德赛)": [
+      "2059"
     ],
     "基础战术教育BD(百鬼夜行)": [
       "196"
@@ -31074,6 +31317,9 @@
     ],
     "前卫硬币B": [
       "1828"
+    ],
+    "潜水配重": [
+      "2069"
     ],
     "潜水手表设计图": [
       "1068"
@@ -31720,11 +31966,17 @@
     "阳光度假胜地系列家具选择箱": [
       "1408"
     ],
+    "氧气瓶": [
+      "2067"
+    ],
     "妖怪MAX梅干味": [
       "1515"
     ],
     "妖怪巧克力玛芬": [
       "1895"
+    ],
+    "咬嘴": [
+      "2068"
     ],
     "野外踪迹": [
       "1906"
@@ -31740,6 +31992,9 @@
     ],
     "一般技术笔记(阿里乌斯)": [
       "108"
+    ],
+    "一般技术笔记(奥德赛)": [
+      "2064"
     ],
     "一般技术笔记(百鬼夜行)": [
       "71"
@@ -31789,6 +32044,9 @@
     ],
     "一般战术教育BD(阿里乌斯)": [
       "144"
+    ],
+    "一般战术教育BD(奥德赛)": [
+      "2060"
     ],
     "一般战术教育BD(百鬼夜行)": [
       "198"
@@ -32037,6 +32295,9 @@
     "最高级技术笔记(阿里乌斯)": [
       "110"
     ],
+    "最高级技术笔记(奥德赛)": [
+      "2066"
+    ],
     "最高级技术笔记(百鬼夜行)": [
       "75"
     ],
@@ -32085,6 +32346,9 @@
     ],
     "最高级战术教育BD(阿里乌斯)": [
       "146"
+    ],
+    "最高级战术教育BD(奥德赛)": [
+      "2062"
     ],
     "最高级战术教育BD(百鬼夜行)": [
       "201"
@@ -32783,6 +33047,9 @@
     "茶话会庭院喷泉": [
       "1725"
     ],
+    "茶话会相册收纳架": [
+      "1687"
+    ],
     "茶话会小型壁挂画框": [
       "1702"
     ],
@@ -32794,9 +33061,6 @@
     ],
     "茶话会招待室墙壁": [
       "1720"
-    ],
-    "茶会相册收纳架": [
-      "1687"
     ],
     "茶桌": [
       "1507"
@@ -34298,6 +34562,9 @@
     "千禧柱子·C": [
       "1552"
     ],
+    "潜水池": [
+      "2071"
+    ],
     "潜水装备存储架": [
       "1024"
     ],
@@ -34597,6 +34864,9 @@
     ],
     "室内引导用显示屏": [
       "1535"
+    ],
+    "书堆": [
+      "2072"
     ],
     "书法家书桌": [
       "1244"
@@ -35887,6 +36157,9 @@
     "草莓巧克力蛋糕": [
       "20"
     ],
+    "茶话会相册收纳架兑换券": [
+      "2073"
+    ],
     "茶会系列家具抽选箱": [
       "2044"
     ],
@@ -36094,6 +36367,9 @@
     "伏尼契手稿书页": [
       "435"
     ],
+    "浮标": [
+      "2070"
+    ],
     "改良型切流恩卡": [
       "137"
     ],
@@ -36135,6 +36411,9 @@
     ],
     "高级技术笔记(阿里乌斯)": [
       "109"
+    ],
+    "高级技术笔记(奥德赛)": [
+      "2065"
     ],
     "高级技术笔记(百鬼夜行)": [
       "72"
@@ -36187,6 +36466,9 @@
     ],
     "高级战术教育bd(阿里乌斯)": [
       "145"
+    ],
+    "高级战术教育bd(奥德赛)": [
+      "2061"
     ],
     "高级战术教育bd(百鬼夜行)": [
       "200"
@@ -36432,6 +36714,9 @@
     "基础技术笔记(阿里乌斯)": [
       "106"
     ],
+    "基础技术笔记(奥德赛)": [
+      "2063"
+    ],
     "基础技术笔记(百鬼夜行)": [
       "69"
     ],
@@ -36474,6 +36759,9 @@
     ],
     "基础战术教育bd(阿里乌斯)": [
       "143"
+    ],
+    "基础战术教育bd(奥德赛)": [
+      "2059"
     ],
     "基础战术教育bd(百鬼夜行)": [
       "196"
@@ -36958,6 +37246,9 @@
     ],
     "前卫硬币b": [
       "1828"
+    ],
+    "潜水配重": [
+      "2069"
     ],
     "潜水手表设计图": [
       "1068"
@@ -37604,11 +37895,17 @@
     "阳光度假胜地系列家具选择箱": [
       "1408"
     ],
+    "氧气瓶": [
+      "2067"
+    ],
     "妖怪max梅干味": [
       "1515"
     ],
     "妖怪巧克力玛芬": [
       "1895"
+    ],
+    "咬嘴": [
+      "2068"
     ],
     "野外踪迹": [
       "1906"
@@ -37624,6 +37921,9 @@
     ],
     "一般技术笔记(阿里乌斯)": [
       "108"
+    ],
+    "一般技术笔记(奥德赛)": [
+      "2064"
     ],
     "一般技术笔记(百鬼夜行)": [
       "71"
@@ -37673,6 +37973,9 @@
     ],
     "一般战术教育bd(阿里乌斯)": [
       "144"
+    ],
+    "一般战术教育bd(奥德赛)": [
+      "2060"
     ],
     "一般战术教育bd(百鬼夜行)": [
       "198"
@@ -37921,6 +38224,9 @@
     "最高级技术笔记(阿里乌斯)": [
       "110"
     ],
+    "最高级技术笔记(奥德赛)": [
+      "2066"
+    ],
     "最高级技术笔记(百鬼夜行)": [
       "75"
     ],
@@ -37969,6 +38275,9 @@
     ],
     "最高级战术教育bd(阿里乌斯)": [
       "146"
+    ],
+    "最高级战术教育bd(奥德赛)": [
+      "2062"
     ],
     "最高级战术教育bd(百鬼夜行)": [
       "201"
@@ -38667,6 +38976,9 @@
     "茶话会庭院喷泉": [
       "1725"
     ],
+    "茶话会相册收纳架": [
+      "1687"
+    ],
     "茶话会小型壁挂画框": [
       "1702"
     ],
@@ -38678,9 +38990,6 @@
     ],
     "茶话会招待室墙壁": [
       "1720"
-    ],
-    "茶会相册收纳架": [
-      "1687"
     ],
     "茶桌": [
       "1507"
@@ -40182,6 +40491,9 @@
     "千禧柱子·c": [
       "1552"
     ],
+    "潜水池": [
+      "2071"
+    ],
     "潜水装备存储架": [
       "1024"
     ],
@@ -40481,6 +40793,9 @@
     ],
     "室内引导用显示屏": [
       "1535"
+    ],
+    "书堆": [
+      "2072"
     ],
     "书法家书桌": [
       "1244"

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "id": 620,
   "display_name": "渡海 心",
   "names": {
@@ -9,7 +9,7 @@
     "cn": null,
     "jp": "渡海 ココロ",
     "en": "Toumi Kokoro",
-    "kr": null,
+    "kr": "토미 코코로",
     "zh_tw": null,
     "family_name": "渡海",
     "given_name": "心",
@@ -19,8 +19,8 @@
     "given_name_jp": "ココロ",
     "family_name_en": "Toumi",
     "given_name_en": "Kokoro",
-    "family_name_kr": "",
-    "given_name_kr": "",
+    "family_name_kr": "토미",
+    "given_name_kr": "코코로",
     "family_name_zh_tw": "",
     "given_name_zh_tw": ""
   },
@@ -32,30 +32,30 @@
     "skins": [
       {
         "id": 620,
-        "avatar": "https://static.kivo.wiki/images/students/%20%E5%BF%83/original/kokoro2.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/Student_Portrait_CH0368_Collection.png",
         "skin": "",
         "skin_cn": ""
       }
     ]
   },
   "intro": {
-    "default": "",
+    "default": "奥德赛海洋学校所属、潜水部的部长。\n\n正如部长这个职位所示，潜水技术十分高超。因此，一旦水下发生遗失物打捞、线缆修理之类的麻烦，奥德赛的学生们必定会向心求助。不过，谨慎到极致的她，在确保装备万无一失之前，绝不肯跳入水中。\n\n喜欢唱歌，却是个不折不扣的音痴。只要她一开始唱歌，部员们便会全员逃跑。\n\n> 水中的事情，都交给我吧。",
     "cn": "",
-    "momo_talk_signature": "",
-    "more": ""
+    "momo_talk_signature": "Semper Paratus",
+    "more": "# 官方图集\n\n## 卡池Banner\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| Under 50 bar 計器を契機に | 暂无 | 暂无 | 暂无 |\n|![47088284a0120f938a5cf0568d625713.jpg](https://kivo.wiki/files/5579/Rz3kYZPkLbmH6HREc1aJMUXJP4ukQ1Se.jpg =450x) |  |  |  |\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| ![9c98ba59f0917b2e40a40524e10d7d42.jpg](https://kivo.wiki/files/5579/0ifQuzrPWz2GDgPZmni9iANdIMnqgTQn.jpg =450x) | 暂无 | 暂无 | 暂无 |\n\n## SD动画\n| EX技能 | 咖啡厅触摸 | 家具互动：[潜水池](https://kivo.wiki/data/item/2071) |\n| :---: | :---: | :---: |\n|暂无| 暂无 | 暂无 |"
   },
   "profile": {
-    "age": 1,
-    "grade": "",
-    "height": 1,
-    "birthday": null,
-    "hobby": "",
-    "designer": "",
-    "illustrator": "",
+    "age": 16,
+    "grade": "二年生",
+    "height": 165,
+    "birthday": "06-11",
+    "hobby": "潜水、做饭、（一个人）唱歌",
+    "designer": "kokosando",
+    "illustrator": "Yadoru",
     "character_voice": "百濑纱菜",
     "character_voice_cn": "",
     "nick_name": "",
-    "body_shape": "Medium"
+    "body_shape": "Large"
   },
   "affiliation": {
     "school": {
@@ -80,8 +80,8 @@
   },
   "implementation": {
     "jp": {
-      "installed": false,
-      "release_date": null
+      "installed": true,
+      "release_date": "2026-08-26"
     },
     "global": {
       "installed": false,
@@ -96,86 +96,1790 @@
     "special_appearance": false
   },
   "assets": {
-    "avatar": "https://static.kivo.wiki/images/students/%20%E5%BF%83/original/kokoro2.png",
-    "sd_model_image": "",
-    "recollection_lobby_image": "",
+    "avatar": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/Student_Portrait_CH0368_Collection.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/EnemyInfo_CH0368.png",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/%E5%BF%83.jpg",
     "voice_play_icon": "",
     "voice_pause_icon": "",
-    "spine_ids": [],
-    "model_ids": []
+    "spine_ids": [
+      1839,
+      1844
+    ],
+    "model_ids": [
+      547
+    ]
   },
   "combat": {
-    "character_id": 0,
-    "dev_name": "",
-    "weapon_type": "",
-    "role": "",
+    "character_id": 10149,
+    "dev_name": "CH0368",
+    "weapon_type": "AR",
+    "role": "Support",
     "combat_style": "default",
-    "battlefield_position": "",
-    "team_position": "",
-    "attack_attribute": "",
-    "defensive_attributes": "",
-    "rarity": 0,
+    "battlefield_position": "STRIKER",
+    "team_position": "MIDDLE",
+    "attack_attribute": "Mystic",
+    "defensive_attributes": "Special",
+    "rarity": 3,
     "limited": false,
     "is_groupc_control": false,
     "adaptability": {
-      "outdoor": "",
-      "indoor": "",
-      "street": ""
+      "outdoor": "D",
+      "indoor": "B",
+      "street": "S"
     },
     "basic": [
       {
-        "max_hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "healing": 0,
-        "accuracy": 0,
-        "evasion": 0,
-        "crit": 0,
-        "crit_res": 0,
-        "crit_dmg": 0,
-        "crit_dmg_res": 0,
-        "stability": 0,
-        "range": 0,
-        "cc_power": 0,
-        "cc_res": 0,
-        "recovery_boost": 0,
-        "mag_count": 0
+        "max_hp": 2154,
+        "attack": 374,
+        "defense": 16,
+        "healing": 1367,
+        "accuracy": 726,
+        "evasion": 769,
+        "crit": 207,
+        "crit_res": 100,
+        "crit_dmg": 2,
+        "crit_dmg_res": 0.5,
+        "stability": 1344,
+        "range": 650,
+        "cc_power": 100,
+        "cc_res": 100,
+        "recovery_boost": 1,
+        "mag_count": 15
       }
     ],
     "skills": {
-      "ex_skill": [],
-      "passive_skill": []
+      "ex_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_icon/fdpHyfdCLL8W2YSaAYIQcwziggTanZEQ.png",
+          "title": "潜水，开始！",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_preview/cZdmCqZXG9nsr5EjHPjgYrmzU7kXbe8K.mp4",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人EX技能造成的伤害量增加36.4%（持续15秒）<br>（目标拥有「上浮！」效果时，解除「上浮！」效果）<br>进入「潜水状态」，技能变更为「上浮！」"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人EX技能造成的伤害量增加41.9%（持续15秒）<br>（目标拥有「上浮！」效果时，解除「上浮！」效果<br>进入「潜水状态」，技能变更为「上浮！」"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人EX技能造成的伤害量增加52.8%（持续15秒）<br>（目标拥有「上浮！」效果时，解除「上浮！」效果<br>进入「潜水状态」，技能变更为「上浮！」"
+            },
+            {
+              "cost": 2,
+              "describe": "<br>进入「潜水状态」，技能变更为「上浮！」令除自身之外的我方1人EX技能造成的伤害量增加58.3%（持续15秒）<br>（目标拥有「上浮！」效果时，解除「上浮！」效果"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人EX技能造成的伤害量增加69.2%（持续15秒）<br>（目标拥有「上浮！」效果时，解除「上浮！」效果<br>进入「潜水状态」，技能变更为「上浮！」"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_icon/RUwkzrGSjnjXVZoVu3Rk5I7P5VgcVDUe.png",
+          "title": "上浮！",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人基础熟练度增加36.4%（持续15秒）<br>（目标拥有「潜水、开始！」效果时，解除「潜水，开始！」效果）<br>解除「潜水状态」，技能变更为「潜水，开始！」"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人基础熟练度增加41.9%（持续15秒）<br>（目标拥有「潜水、开始！」效果时，解除「潜水，开始！」效果）<br>解除「潜水状态」，技能变更为「潜水，开始！」"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人基础熟练度增加52.8%（持续15秒）<br>（目标拥有「潜水、开始！」效果时，解除「潜水，开始！」效果）<br>解除「潜水状态」，技能变更为「潜水，开始！」"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人基础熟练度增加58.3%（持续15秒）<br>（目标拥有「潜水、开始！」效果时，解除「潜水，开始！」效果）<br>解除「潜水状态」，技能变更为「潜水，开始！」"
+            },
+            {
+              "cost": 2,
+              "describe": "令除自身之外的我方1人基础熟练度增加69.2%（持续15秒）<br>（目标拥有「潜水、开始！」效果时，解除「潜水，开始！」效果）<br>解除「潜水状态」，技能变更为「潜水，开始！」"
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_icon/DI79tNm98gZegzW56DSG5TmJ0HO4UNcf.png",
+          "title": "水下突破",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力138%的伤害，使其攻击力减少13%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力145%的伤害，使其攻击力减少13.6%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力152%的伤害，使其攻击力减少14.3%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力180%的伤害，使其攻击力减少16.9%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力187%的伤害，使其攻击力减少17.5%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力194%的伤害，使其攻击力减少18.2%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力222%的伤害，使其攻击力减少20.8%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力229%的伤害，使其攻击力减少21.4%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力236%的伤害，使其攻击力减少22.1%（持续25秒）"
+            },
+            {
+              "cost": 0,
+              "describe": "每普通攻击10回，对1名敌人造成攻击力263%的伤害，使其攻击力减少24.7%（持续25秒）"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_icon/yWc0LRUW2i1zBHq2cufo7f92COVoYteJ.png",
+          "title": "潜水员的本能",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 0,
+              "describe": "攻击力增加14%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加14.7%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加15.4%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加18.2%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加18.9%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加19.6%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加22.4%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加23.1%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加23.8%"
+            },
+            {
+              "cost": 0,
+              "describe": "攻击力增加26.6%"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_icon/tNVILmubTa3hX9Qn4IQ1L1R5f90dBUsE.png",
+          "title": "控制呼吸",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 0,
+              "describe": "生命值增加13.4%，基础熟练度增加16.8%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加16.8%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加14.1%，基础熟练度增加17.6%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加17.6%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加14.7%，基础熟练度增加18.4%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加18.4%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加17.4%，基础熟练度增加21.8%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加21.8%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加18.1%，基础熟练度增加22.6%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加22.6%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加18.8%，基础熟练度增加23.5%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加23.5%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加21.5%，基础熟练度增加26.8%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加26.8%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加22.1%，基础熟练度增加27.7%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加27.7%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加22.8%，基础熟练度增加28.5%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加28.5%"
+            },
+            {
+              "cost": 0,
+              "describe": "生命值增加25.5%，基础熟练度增加31.9%<br>对于没有「安全证」的我方「输出」，自身每次使用EX技能的时候，为对应目标赋予「安全证」<br>此次EX技能的效果持续时间增加为3倍（已经赋予「安全证」的其他我方的「安全证」全部解除）<br>处于「潜水状态」时，自身造成的全部伤害变更为EX伤害类型，EX技能造成的伤害量增加31.9%"
+            }
+          ]
+        }
+      ]
     },
     "weapon": {
-      "icon": "",
-      "name": "",
+      "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/Weapon_Icon_CH0368.png",
+      "name": "91式水陆两用步枪",
       "name_cn": "",
-      "description": "",
+      "description": "心从入学起就一直爱用的、造型特殊的水陆两用步枪。<br>仅凭这一支步枪即可同时使用普通步枪子弹与水下用箭形弹，能够根据实际情况灵活应对。虽然使用两种弹药会使管理与运用变得复杂，但对一丝不苟的心来说，这不是什么大问题。",
       "description_cn": "",
-      "info": [],
-      "skill": []
+      "info": [
+        {
+          "title": "无",
+          "description": "无"
+        },
+        {
+          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
+          "description": "「潜水员的本能」变为「潜水员的本能+」"
+        },
+        {
+          "title": "固有武器最大等級 Lv.40 → Lv.50 / 地形适应性强化 街道适应性 S -> SS",
+          "description": "在街道地形造成1.3倍伤害，处于掩体掩护状态时掩护成功率增加75%，攻击时无视掩体概率增加75%。"
+        },
+        {
+          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 爆发克制伤害增加",
+          "description": "攻击类型为神秘的克制伤害增加10%。"
+        }
+      ],
+      "skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/skill_icon/Gj9nBr6LRHt5OuhE0Nb9QsOqVgaU9s72.png",
+          "title": "潜水员的本能+",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1000，并且攻击力增加14%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1050，并且攻击力增加14.7%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1100，并且攻击力增加15.4%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1300，并且攻击力增加18.2%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1350，并且攻击力增加18.9%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1400，并且攻击力增加19.6%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1600，并且攻击力增加22.4%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1650，并且攻击力增加23.1%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1700，并且攻击力增加23.8%"
+            },
+            {
+              "cost": 0,
+              "describe": "增益效果持续力增加1900，并且攻击力增加26.6%"
+            }
+          ]
+        }
+      ]
     },
-    "equipment": [],
+    "equipment": [
+      {
+        "id": 9,
+        "name": "鞋子",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
+          },
+          {
+            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
+          },
+          {
+            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
+          },
+          {
+            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
+          },
+          {
+            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
+          },
+          {
+            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
+          },
+          {
+            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
+          },
+          {
+            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
+          },
+          {
+            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
+          },
+          {
+            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
+          }
+        ],
+        "detail_path": "equipments/9.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
+      },
+      {
+        "id": 6,
+        "name": "发夹",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "网球发带\n运动品牌“薮猫”的网球发带。具有高吸水性，以防止在运动中被汗水干扰视野。\n最大生命值 +250~400",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8I9ILkRFh8jBcyDaFEvuhQ5nsKZj8pcZ.png"
+          },
+          {
+            "description": "发圈\n头绳为绸缎材质，弹性较好。在吃饭时，可以用它把头发绑起来。\n最大生命值 +500~650",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/qpljf4oPCHBDW2w9DN1DD0NH8qHu5dyq.png"
+          },
+          {
+            "description": "MomoTalk发夹\n带有MomoTalk图标的桃子形状发夹。摸一摸桃子，就会散发出淡淡的桃香。\n最大生命值 +750~900",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/l4r52vKZSFx0mEIxwL1WezH55cL47X2l.png"
+          },
+          {
+            "description": "翅膀发夹\n奢侈品牌“维罗妮卡”以天使的翅膀为原型制作的发夹。但实际上，并不太受圣三一女生们的欢迎。\n最大生命值 +1000~1250 \n群控抵抗 +5%~10%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/mw0HZz9e7SkOoUPVQilKYYZ5JH433Fgo.png"
+          },
+          {
+            "description": "多功能发夹\n将一端打磨得非常锋利，必要时可用作开瓶器或者小刀的多功能发夹。正常使用时也可能会不小心伤到手，需要格外注意。\n最大生命值 +2000~3000 \n群控抵抗 +12%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/WRpJRpUuNMYxbinBAEfHhzSoWKzp7Ve6.png"
+          },
+          {
+            "description": "蝙蝠发夹\n看起来像黑色蝴蝶结的蝙蝠发夹。让佩戴者散发出一种小恶魔似的魅力。\n最大生命值 +3250~4500 \n群控抵抗 +22%~24%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/SQ4kyumib7fkHcUrAyWovKU06gCDAcmI.png"
+          },
+          {
+            "description": "艺术字发夹\n用文字做成的发夹。虽然单词本身并没有什么太大的意义，却充分可以刺激时尚人的感性。\n最大生命值 +4700~6500 \n群控抵抗 +25%~28%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/lp2S4Mpcro3N4q8INJxxhQ85PerIwDy6.png"
+          },
+          {
+            "description": "树叶发夹\n叶子形状的发夹。平时要配戴的话有点困难，但适合在需要打扮的日子使用。\n最大生命值 +6700~8500 \n群控抵抗 +29%~32%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kuVrzZp0XXzcxC2DpjrC3qljxhuUPL2y.png"
+          },
+          {
+            "description": "船锚发夹\n带有两个钩子的船锚状发夹。虽然设计得十分漂亮，但据说实际用起来有点不方便，绑头发时经常将头发缠在钩子上。\n最大生命值 +9000~11000 \n群控抵抗 +32%~34%\n暴击值 +50~150",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7hutqdJaOerYCATLihUAXBAVLHwR5AO8.png"
+          },
+          {
+            "description": "防电磁波发卡\n据说能够隔绝电磁波并激活大脑的发卡。但其效果真假存疑。\n最大生命值 +11500~13000\n群控抵抗 +35%~36%\n暴击值 +150",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/aotSIkCGNFY1tLDjPgPuIWXsNcddDoUy.png"
+          }
+        ],
+        "detail_path": "equipments/6.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/6.json"
+      },
+      {
+        "id": 3,
+        "name": "手表",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "防水数码手表\n运动品牌“薮猫”出品的数码手表。因为是防水手表，所以在游泳的时候也可以佩戴，不用担心出现故障。\n暴击值 +50～80",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/zDJSDsUTBOIkBDCgqFmg0wzwXezqQLBG.png"
+          },
+          {
+            "description": "皮带手表\n户外品牌“玛纳斯卢”出品的皮带手表。因表带是皮革，可以有效防止手腕变凉。\n暴击值 +100～130",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/3ugwm2xOtF5vCEeOaNUkwDiqthLwKAGq.png"
+          },
+          {
+            "description": "波浪猫手表\n印有MomoFriends中的波浪猫形象的手表。根据时间变化，作为指针的波浪猫的双臂会奇怪地扭曲。\n暴击值 +150～180",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/oGmJwAK99lO9uINWhe0vWAA0Z7bCRkRq.png"
+          },
+          {
+            "description": "复古怀表\n印有“维罗妮卡”标识的复古怀表。与手表相比，虽然确认时间时不太方便，但作为时尚单品很受人们的欢迎。\n暴击值 +200～250 \n暴击伤害 +500～1000",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/k5cVvYVIm7pDdMA7iL2jFme6GkZr0I5u.png"
+          },
+          {
+            "description": "防尘手表\n迷彩专业品牌“风山”制作的防尘手表。因加强了防尘功能，所以可以在恶劣的环境中安心使用，不用担心会出故障。\n暴击值 +260～280 \n暴击伤害 +1100～1500 \n最大生命值 +2.5%～5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7k69foiE3JIKvvKIZNkflSfvYs912PCu.png"
+          },
+          {
+            "description": "哥特风手表\n带有复杂花纹的哥特风手表。与古典风格的衣服很搭，但缺点是很难看懂时间。\n暴击值 +290～320 \n暴击伤害 +1600～1800 \n最大生命值 +5.5%～7%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Vt0GwwEa4CeXxE9c6XoGx92w54KyyPfo.png"
+          },
+          {
+            "description": "街头时尚手表\n同时有现代和可爱的设计而大受好评的街头时尚手表。“三步”在此使用了和手环组合成套装一起贩卖的策略。\n暴击值 +330～360 \n暴击伤害 +1900～2100 \n最大生命值 +7.5%～9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/dSi3bJlpDM5nzMbyFaQUEPQfMpHZro2B.png"
+          },
+          {
+            "description": "罗蕾莱手表\n现代时尚品牌“罗蕾莱”发售的手表。使用木头和皮革的精致设计，营造出独特的氛围。\n暴击值 +370～400\n暴击伤害 +2200～2400\n最大生命值 +9.5%～11%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/zOhrgsFS6iwJPoj4q8htFJJZNLjNBuxa.png"
+          },
+          {
+            "description": "潜水表\n海洋运动品牌【哈耳庇厄】推出的潜水用智能手表。除了防水之外，它在深水中也能确认水下环境，不必担心水压。\n暴击值 +410~440\n暴击伤害 +2450~2500\n最大生命值 +11.5%~13%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/xUFWFX1QqfyimpjglWx0tWZc5J1otiWm.png"
+          },
+          {
+            "description": "智能屏手表\n带触摸屏的手表。虽然能在其上移植市面上的游戏，但要流畅运行还是有点困难。\n暴击值 +450～480\n暴击伤害 +2550～2600\n最大生命值 +13%～15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5qjc0ZjbGn0hSBL84zo7o47qrjzWdfMJ.png"
+          }
+        ],
+        "detail_path": "equipments/3.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/3.json"
+      }
+    ],
     "favorite_equipment": {
       "id": 0
     },
-    "cultivate_materials": []
+    "cultivate_materials": [
+      {
+        "id": 371,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/bjaycFEQTdprhH0zqYSjo3Wseo9sSgdY.png",
+        "rarity": 4,
+        "name": "完整的圆盘坠饰",
+        "description": "完好状态的圆盘坠饰。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/371.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/371.json"
+      },
+      {
+        "id": 370,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uGgpPGDFJa7tK6wnOiAtHFyJcxwRGvDt.png",
+        "rarity": 3,
+        "name": "修好的圆盘坠饰",
+        "description": "组合碎片而修好的圆盘坠饰。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/370.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/370.json"
+      },
+      {
+        "id": 369,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ak5kuECqMRjiGUvOT4T2sYoLXpG7aT1X.png",
+        "rarity": 2,
+        "name": "破损的圆盘坠饰",
+        "description": "已破损到无法看出形体的圆盘坠饰。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/369.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/369.json"
+      },
+      {
+        "id": 368,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/RxEvQvTL5yHF7Zav4yPHviLxxWsit57m.png",
+        "rarity": 1,
+        "name": "圆盘坠饰碎片",
+        "description": "圆盘坠饰的破裂碎片。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/368.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/368.json"
+      },
+      {
+        "id": 409,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uQVizAnoj2SOHp4cimzVXTXaiQ3uw6Dy.png",
+        "rarity": 3,
+        "name": "低纯度沃普赛克钢铁",
+        "description": "混有各种杂质的低纯度沃普赛克钢铁。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/409.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/409.json"
+      },
+      {
+        "id": 408,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PuNEFl13saEsN4g8miYIgsagFmyyZh7G.png",
+        "rarity": 2,
+        "name": "沃普赛克铁块",
+        "description": "在冶炼中掉出来的沃普赛克铁块。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/408.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/408.json"
+      },
+      {
+        "id": 407,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6nNP9wQXfnbZD9bpoAjAttYNyWrTAsYf.png",
+        "rarity": 1,
+        "name": "沃普赛克铁矿",
+        "description": "未冶炼的沃普赛克铁矿。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/407.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/407.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
+      },
+      {
+        "id": 2066,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/rSasipdrjc8oLQvRXEFkDCrq5Xo0Qtyi.png",
+        "rarity": 4,
+        "name": "最高级技术笔记（奥德赛）",
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2066.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2066.json"
+      },
+      {
+        "id": 2065,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/p3hAEsr5NNA6HYSIH2gxkhGiAMYC7U8x.png",
+        "rarity": 3,
+        "name": "高级技术笔记（奥德赛）",
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2065.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2065.json"
+      },
+      {
+        "id": 2064,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/yzE1HHCcj4naVgc6qZKhvxl0st6INx0t.png",
+        "rarity": 2,
+        "name": "一般技术笔记（奥德赛）",
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2064.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2064.json"
+      },
+      {
+        "id": 2063,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DNmrwpFN7Pao2XBqWDJ8oU7LGEhxuE9P.png",
+        "rarity": 1,
+        "name": "基础技术笔记（奥德赛）",
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2063.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2063.json"
+      },
+      {
+        "id": 2062,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/g7rezk2g5ZqeJAaeRvf8gJvcHGH884Ku.png",
+        "rarity": 4,
+        "name": "最高级战术教育BD（奥德赛）",
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2062.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2062.json"
+      },
+      {
+        "id": 2061,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/F7gwJBiJFNrNxJ6KpNviu8aSfuq1Sywt.png",
+        "rarity": 3,
+        "name": "高级战术教育BD（奥德赛）",
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2061.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2061.json"
+      },
+      {
+        "id": 2060,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DX7yVJcGOSzplNYCfwLvUo5phIKCpknQ.png",
+        "rarity": 2,
+        "name": "一般战术教育BD（奥德赛）",
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2060.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2060.json"
+      },
+      {
+        "id": 2059,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/LBNpFGzRCLTRsYW3oG8F9CilJ7x61meS.png",
+        "rarity": 1,
+        "name": "基础战术教育BD（奥德赛）",
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/2059.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2059.json"
+      }
+    ]
   },
   "preferences": {
-    "gifts": [],
-    "furniture": []
+    "gifts": [
+      {
+        "id": 88,
+        "favorability": 40,
+        "item": {
+          "id": 88,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/5EDUsPsCoptQbRUIe6WPUhB7eMqDtOoR.png",
+          "rarity": 3,
+          "name": "可爱器皿组合",
+          "description": "画有可爱吉祥物动物角色的餐具组合。 每年名列基沃托斯餐具销售前10名的传统强者。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/88.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/88.json"
+        }
+      },
+      {
+        "id": 147,
+        "favorability": 180,
+        "item": {
+          "id": 147,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/OcEb7MMwLFkSoiIajlcvb3PTh2fTqpKU.png",
+          "rarity": 4,
+          "name": "针线组合",
+          "description": "挑选在各种情况下会需要的工具，专家专用的针线组合。只要有这个组合，不管是衣服破旧、袜子破洞都可以轻松解决！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/147.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/147.json"
+        }
+      },
+      {
+        "id": 268,
+        "favorability": 40,
+        "item": {
+          "id": 268,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/FMSJvnlqP1NDsdy8D6KXds8C6bu6Eq32.png",
+          "rarity": 3,
+          "name": "佩洛洛健腹滚轮",
+          "description": "超火的Momo好友联名商品第9弹！ 今年运动器具人气排行第1名的佩洛洛造型运动器材。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/268.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/268.json"
+        }
+      },
+      {
+        "id": 67,
+        "favorability": 40,
+        "item": {
+          "id": 67,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/A1qYTaE4JUfZpcs9K1Yc0Sx4EnbGlIRm.png",
+          "rarity": 3,
+          "name": "O-奥比特",
+          "description": "<透过游戏开心运动吧！> 利用O形环，在家中简单享受运动的工具。 肌力运动、减肥，什么都办得到！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/67.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/67.json"
+        }
+      },
+      {
+        "id": 156,
+        "favorability": 240,
+        "item": {
+          "id": 156,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/IB5N03culF7tpt1FmTK0brJUAvnidbXS.png",
+          "rarity": 4,
+          "name": "一天三次哑铃组合",
+          "description": "装有多个不同重量的哑铃的组合商品。一天三次。早上、中午、晚上反复进行肌肉锻炼，打造出帅气的肌肉吧！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/156.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/156.json"
+        }
+      },
+      {
+        "id": 68,
+        "favorability": 60,
+        "item": {
+          "id": 68,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/gYUwQLwH9Kh0ZcknQjqrS7uhgomjoSoR.png",
+          "rarity": 3,
+          "name": "夏天用泳圈",
+          "description": "夏天！大海！ 即使不太会游泳或是很会游泳，为了安全一定要备妥的玩水必需品。花俏的设计让可爱也加分！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/68.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/68.json"
+        }
+      },
+      {
+        "id": 70,
+        "favorability": 60,
+        "item": {
+          "id": 70,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/0Nl7BcKlMFMVEZ38qUW6UDUHhkOvcSZT.png",
+          "rarity": 3,
+          "name": "藏宝图",
+          "description": "一定有宝物！ 标示基沃托斯3大宝藏的地图。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/70.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/70.json"
+        }
+      }
+    ],
+    "furniture": [
+      {
+        "id": 2071,
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/OMYPKtRV9Xlw3ucejeAMcM4SfL4WidqA.png",
+        "rarity": 4,
+        "name": "潜水池",
+        "description": "为再现深水环境而建造的人工潜水池。凝视着那平静且深邃的蓝色，有时会让人感到恐惧。然而，对于熟练的潜水员来说，这里却是如床铺般令人放松的空间。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 500
+        },
+        "detail_path": "items/2071.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2071.json"
+      }
+    ]
   },
   "media": {
-    "gallery": [],
-    "voice": [],
+    "gallery": [
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/47088284a0120f938a5cf0568d625713.jpg",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/9c98ba59f0917b2e40a40524e10d7d42.jpg"
+        ]
+      },
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_Idle_01.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0368_spr_20.png"
+        ]
+      }
+    ],
+    "voice": [
+      {
+        "description": "ch0368_battle_buffed_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ありがとうございます！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_buffed_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_buffself_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_buffself_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_covered_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_covered_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_damage_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_damage_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_damage_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_damage_2.ogg"
+      },
+      {
+        "description": "ch0368_battle_damage_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_damage_3.ogg"
+      },
+      {
+        "description": "ch0368_battle_defense_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "い、今のは……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_defense_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "みんな、頑張ろうね！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_in_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "バディチェック・フィニッシュ。ネガティブエントリー。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_in_2.ogg"
+      },
+      {
+        "description": "ch0368_battle_move_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "移動します。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_move_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_move_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "ラインに沿っていきましょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_move_2.ogg"
+      },
+      {
+        "description": "ch0368_battle_recovery_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "いただきますね！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_recovery_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_retire",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_retire.ogg"
+      },
+      {
+        "description": "ch0368_battle_shout_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_shout_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_shout_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_shout_2.ogg"
+      },
+      {
+        "description": "ch0368_battle_shout_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_shout_3.ogg"
+      },
+      {
+        "description": "ch0368_battle_tacticalaction_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "次のポイントへ行きましょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_tacticalaction_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "あっ、えっとその……お疲れ様でした！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_victory_1.ogg"
+      },
+      {
+        "description": "ch0368_battle_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "えっと、シャワーを浴びてきても良いでしょうか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_battle_victory_2.ogg"
+      },
+      {
+        "description": "ch0368_cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "いいダイビング日和。今日はいつもより深く潜れそう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "ch0368_cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "シャーレに、こんな場所が……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "ch0368_cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "あの人はもしかして……ううん、見間違いだよね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "ch0368_cafe_monolog_4",
+        "category": "cafe",
+        "text": "",
+        "text_original": "すごい……こんなきれいなカケラ、どこにあったんだろう？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "ch0368_cafe_monolog_5",
+        "category": "cafe",
+        "text": "",
+        "text_original": "うう、寒い……あったかいお味噌汁……飲みたいなぁ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_cafe_monolog_5.ogg"
+      },
+      {
+        "description": "ch0368_commonskill",
+        "category": "battle",
+        "text": "",
+        "text_original": "水中グレネード……起爆！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_commonskill.ogg"
+      },
+      {
+        "description": "ch0368_eventlobby_1",
+        "category": "event",
+        "text": "",
+        "text_original": "えっと……なにかご用でしょうか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlobby_1.ogg"
+      },
+      {
+        "description": "ch0368_eventlobby_2",
+        "category": "event",
+        "text": "",
+        "text_original": "「アクアシール」のアイス……。身体が冷えちゃうから、あんまり冷たいものを食べないようにしていて……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlobby_2.ogg"
+      },
+      {
+        "description": "ch0368_eventlobby_3",
+        "category": "event",
+        "text": "",
+        "text_original": "エアタンクのチャージ代に……レギュレーターの交換……うぅ……今月も厳しそう……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlobby_3.ogg"
+      },
+      {
+        "description": "ch0368_eventlobby_4",
+        "category": "event",
+        "text": "",
+        "text_original": "あは、あははっ！く、くすぐったいです……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlobby_4.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ダイビング部へようこそ、先生！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_1_1.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "昆布茶……よろしければどうぞ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_1_2.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ま、また私たちが何かミスってしまいましたか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_2.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_season_1",
+        "category": "event",
+        "text": "",
+        "text_original": "うぅ……潜れなくなるのは嫌だなぁ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_season_1.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_season_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "お宝の地図……本当に、お宝ってあるのかな……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_season_2_1.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_season_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "……他に方法はない、か。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_season_2_2.ogg"
+      },
+      {
+        "description": "ch0368_eventlogin_season_end",
+        "category": "event",
+        "text": "",
+        "text_original": "ふぅ……フジツボのお掃除、頑張ります……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventlogin_season_end.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_1",
+        "category": "event",
+        "text": "",
+        "text_original": "水中作業の時は、ちゃんと目標を定めないといけません。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_1.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ど、どうしました？……私、ポイントを見逃してました？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_2.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_day_end",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_day_end.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_get_1",
+        "category": "event",
+        "text": "",
+        "text_original": "もう終わったんですか？先生、すごいです……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_get_1.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_get_2",
+        "category": "event",
+        "text": "",
+        "text_original": "あ、はい！それで大丈夫です！早い……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_get_2.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_login_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ブリーフィングを始めます！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_login_1.ogg"
+      },
+      {
+        "description": "ch0368_eventmission_login_2",
+        "category": "event",
+        "text": "",
+        "text_original": "作業計画を伝えますので、集中してください……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventmission_login_2.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_1",
+        "category": "event",
+        "text": "",
+        "text_original": "そ、その手信号は……誤解しちゃいます……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_1.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "えっ！わ、私の後ろに、なにか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_2_1.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "こ、怖いこと言わないでください！サメならともかく、私、こ、怖いものは苦手なんです……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_2_2.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_end_1",
+        "category": "event",
+        "text": "",
+        "text_original": "一応……見落としがないか、もう一度確認しましょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_end_1.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_end_2",
+        "category": "event",
+        "text": "",
+        "text_original": "お疲れ様です、先生。今、片付けをしていたところです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_end_2.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_find_1",
+        "category": "event",
+        "text": "",
+        "text_original": "この中に……何かがありそうです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_find_1.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_find_2",
+        "category": "event",
+        "text": "",
+        "text_original": "あっ……いま、動きましたよ！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_find_2.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_get_1",
+        "category": "event",
+        "text": "",
+        "text_original": "見つけました！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_get_1.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_get_2",
+        "category": "event",
+        "text": "",
+        "text_original": "わあ……！これが隠れてたんですね！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_get_2.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_login_1",
+        "category": "event",
+        "text": "",
+        "text_original": "今日の先生は、私のバディですよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_login_1.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_login_2",
+        "category": "event",
+        "text": "",
+        "text_original": "さあ、行きましょう。水の世界へ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_login_2.ogg"
+      },
+      {
+        "description": "ch0368_eventtreasure_roundrenewal",
+        "category": "event",
+        "text": "",
+        "text_original": "次のポイントを目指しましょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_eventtreasure_roundrenewal.ogg"
+      },
+      {
+        "description": "ch0368_exskill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "バックロールエントリー……準備完了です。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exskill_1.ogg"
+      },
+      {
+        "description": "ch0368_exskill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "3、2……1。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exskill_2.ogg"
+      },
+      {
+        "description": "ch0368_exskill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "作業を、始めます……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exskill_3.ogg"
+      },
+      {
+        "description": "ch0368_exskill_level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ダイブ、ダイブ！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exskill_level_1.ogg"
+      },
+      {
+        "description": "ch0368_exskill_level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "Orca 1, Going down.",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exskill_level_2.ogg"
+      },
+      {
+        "description": "ch0368_exskill_level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "フレシェット弾に変更します。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exskill_level_3.ogg"
+      },
+      {
+        "description": "ch0368_exweapon_get",
+        "category": "growup",
+        "text": "",
+        "text_original": "ありがとうございます、先生。この装備なら、水中でも安定した作業ができそうです。……ふふっ、可愛い。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_exweapon_get.ogg"
+      },
+      {
+        "description": "ch0368_formation_in_1",
+        "category": "formation",
+        "text": "",
+        "text_original": "はい、準備はできています！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_formation_in_1.ogg"
+      },
+      {
+        "description": "ch0368_formation_in_2",
+        "category": "formation",
+        "text": "",
+        "text_original": "潜水の準備、できています！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_formation_in_2.ogg"
+      },
+      {
+        "description": "ch0368_formation_select",
+        "category": "formation",
+        "text": "",
+        "text_original": "ひゃっ！ま、待ってください……！そっちの方に引っ張ると、バックルが外れちゃいます……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_formation_select.ogg"
+      },
+      {
+        "description": "ch0368_gachaget",
+        "category": "growup",
+        "text": "",
+        "text_original": "オデュッセイア海洋高等学校、ダイビング部の部長……渡海、ココロです……。海に何か落とした時は、言ってくださいね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_gachaget.ogg"
+      },
+      {
+        "description": "ch0368_growup_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "これで、もっと長く潜ることができそうです……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_growup_1.ogg"
+      },
+      {
+        "description": "ch0368_growup_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "ありがとうございます、先生。これからも頑張りますね……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_growup_2.ogg"
+      },
+      {
+        "description": "ch0368_growup_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "先生がサポートしてくださるおかげで、とても心強いです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_growup_3.ogg"
+      },
+      {
+        "description": "ch0368_growup_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "海は広くて……まだまだ分からないことも多いのですが。少しだけ分かってきたような気がします。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_growup_4.ogg"
+      },
+      {
+        "description": "ch0368_lobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あの、先生……お仕事が終わったら、近くの浜辺を散歩しませんか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_1_1.ogg"
+      },
+      {
+        "description": "ch0368_lobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "え……その頃には日が暮れちゃう……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_1_2.ogg"
+      },
+      {
+        "description": "ch0368_lobby_1_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "大丈夫です……！夜の浜辺も、その……綺麗、ですし。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_1_3.ogg"
+      },
+      {
+        "description": "ch0368_lobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ダイビングだと、水に入る前の健康チェックが一番大事なんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_2_1.ogg"
+      },
+      {
+        "description": "ch0368_lobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生、健康管理、ちゃんとされてますか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_2_2.ogg"
+      },
+      {
+        "description": "ch0368_lobby_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ダイビングコンピューター、欲しいなぁ……でも予算が……うぅ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_3.ogg"
+      },
+      {
+        "description": "ch0368_lobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ダイビングの時は、コトネがバディになってくれるんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_4_1.ogg"
+      },
+      {
+        "description": "ch0368_lobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "コトネ、目はあまり良くないけどセンスが抜群で……ちょっとだけ、羨ましいです。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_4_2.ogg"
+      },
+      {
+        "description": "ch0368_lobby_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先輩からの連絡……いつ来るんだろう。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_lobby_5.ogg"
+      },
+      {
+        "description": "ch0368_login_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "おかえりなさい、先生。……お待ち、しておりました。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_login_1.ogg"
+      },
+      {
+        "description": "ch0368_login_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ま、また私たちが何かミスってしまいましたか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_login_2.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "はぁ……あったまる……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "水上に上がってからの一杯は……格別です。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あ……先生のお口にあいましたか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_2_1.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "味が濃すぎたり、薄すぎたり、していませんか……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_2_2.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "よかった……。……隠し味、ですか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_3_1.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "特別なことは何も……ネットで見たレシピ通りに作っています。あさりの砂抜きをして……アクをとって……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_3_2.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あ、でも……そうですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_4_1.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "飲んでくれる人のことを想って、いつもより丁寧に作ったところは――",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_4_2.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_5",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あっ……な、なんちゃって。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_5.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_6_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "え？私の作ったお味噌汁を、毎朝飲みたい……？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_6_1.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_6_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "せ、先生……それって……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_6_2.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_7_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あ、いえ……こ、困ってるとかでは……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_7_1.ogg"
+      },
+      {
+        "description": "ch0368_memoriallobby_7_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……はい。先生が、お望みでしたら……私は、構いませんよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_memoriallobby_7_2.ogg"
+      },
+      {
+        "description": "ch0368_relationship_up_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "先生は海、好きですか……？私は……好き、です。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_relationship_up_1.ogg"
+      },
+      {
+        "description": "ch0368_relationship_up_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "水の中でも、外でも――先生の安全は、私が守ります。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_relationship_up_2.ogg"
+      },
+      {
+        "description": "ch0368_relationship_up_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "（胸がドキドキする……なんだろう……病気かな……？）",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_relationship_up_3.ogg"
+      },
+      {
+        "description": "ch0368_relationship_up_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "あの……お味噌汁を作りすぎてしまって……もらっていただくことって可能でしょうか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_relationship_up_4.ogg"
+      },
+      {
+        "description": "ch0368_season_birthday_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "最近知ったんですが……今日は伝説のダイバーの誕生日、なのだとか。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_birthday_1.ogg"
+      },
+      {
+        "description": "ch0368_season_birthday_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私と同じ誕生日の人が伝説のダイバーって、なんだか運命を感じます。大袈裟……かもしれませんが。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_birthday_2.ogg"
+      },
+      {
+        "description": "ch0368_season_birthday_player_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "せ、先生！あの、お誕生日、おめでとうございます……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_birthday_player_1.ogg"
+      },
+      {
+        "description": "ch0368_season_birthday_player_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "お祝い……というほどではないんですが……今日のお味噌汁、先生の好きな具をいっぱい入れました。どうぞ召し上がってください……！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_birthday_player_2.ogg"
+      },
+      {
+        "description": "ch0368_season_halloween_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "深海では白く光る――神秘的なクラゲがいるらしいんです……。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_halloween_1.ogg"
+      },
+      {
+        "description": "ch0368_season_halloween_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "次のハロウィーンは、探しに行ってみようかなと思うんですが……先生も一緒に行きませんか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_halloween_2.ogg"
+      },
+      {
+        "description": "ch0368_season_newyear_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あけましておめでとうございます、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_newyear_1.ogg"
+      },
+      {
+        "description": "ch0368_season_newyear_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ちょっと寒いですけど‥‥…一緒に潜初めに、行きませんか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_newyear_2.ogg"
+      },
+      {
+        "description": "ch0368_season_xmas",
+        "category": "lobby",
+        "text": "",
+        "text_original": "その……よかったら、先生も一緒にいかがですか？",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_xmas.ogg"
+      },
+      {
+        "description": "ch0368_season_xmas_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "海上では卵が貴重なので、ずっとケーキなしで過ごしてきました。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_xmas_1.ogg"
+      },
+      {
+        "description": "ch0368_season_xmas_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "でも、今日はホールケーキを頼んじゃいました。ようやくみんなでケーキを食べられるので。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_season_xmas_2.ogg"
+      },
+      {
+        "description": "ch0368_tactic_defeat_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_tactic_defeat_1.ogg"
+      },
+      {
+        "description": "ch0368_tactic_defeat_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_tactic_defeat_2.ogg"
+      },
+      {
+        "description": "ch0368_tactic_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "水深、確認。潜降を開始します。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_tactic_in_1.ogg"
+      },
+      {
+        "description": "ch0368_tactic_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "残圧確認。BCD異常なし。",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_tactic_in_2.ogg"
+      },
+      {
+        "description": "ch0368_tactic_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ふぅ……ちゃんと準備しててよかったです！",
+        "file": "https://static.kivo.wiki/voices/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/jp/ch0368_tactic_victory_1.ogg"
+      }
+    ],
     "voice_cn": [],
     "voice_kr": []
   },
   "source": {
     "detail_path": "students/620.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/620.json",
-    "upstream_time": 1787683227,
-    "updated_at": 1787369071,
+    "upstream_time": 1787773593,
+    "updated_at": 1787756079,
     "created_at": 1787312514
   }
 }

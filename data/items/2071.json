@@ -1,0 +1,39 @@
+{
+  "code": 2000,
+  "codename": "Koyuki",
+  "data": {
+    "id": 2071,
+    "type": "furniture",
+    "icon": "https://static.kivo.wiki/images/item/icon/OMYPKtRV9Xlw3ucejeAMcM4SfL4WidqA.png",
+    "rarity": 4,
+    "name": "潜水池",
+    "description": "为再现深水环境而建造的人工潜水池。凝视着那平静且深邃的蓝色，有时会让人感到恐惧。然而，对于熟练的潜水员来说，这里却是如床铺般令人放松的空间。",
+    "article_id": 0,
+    "gift": {
+      "students": null
+    },
+    "furniture": {
+      "comfort": 500,
+      "students": [
+        {
+          "id": 620,
+          "skin": "",
+          "family_name": "渡海",
+          "given_name": "心",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%B8%A1%E6%B5%B7%20%E5%BF%83/original/Student_Portrait_CH0368_Collection.png"
+        },
+        {
+          "id": 621,
+          "skin": "",
+          "family_name": "渊上",
+          "given_name": "琴音",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%B8%8A%E4%B8%8A%20%E7%90%B4%E9%9F%B3/original/Student_Portrait_CH0369_Collection.png"
+        }
+      ]
+    }
+  },
+  "message": "OK",
+  "success": true,
+  "time": 1787776030,
+  "version": "1.0.0-beta.43"
+}

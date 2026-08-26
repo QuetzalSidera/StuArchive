@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 364,
+        "name": "长发娃娃碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T6LXgHtBVtpzzuEITZwgf6jX4WZKcTcp.png",
+        "rarity": 1,
+        "description": "长发娃娃的部分碎片。可用来进行各种制造及强化。"
+      },
       {
         "id": 140,
         "name": "长生不老的灵药（失败品）",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/P8UHxFA7CWxK3apvgZk0lsD9HLhhkYBN.png",
         "rarity": 1,
         "description": "风纪委员会从引发夏日贫民窟骚动的滋事份子—潮水头盔团手中没收的头盔。 上面有因无谓的抵抗而留下的痕迹。"
-      },
-      {
-        "id": 1346,
-        "name": "车票",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CIgSVer2tkEhW1NJXQvk00uDzQpUBBRN.png",
-        "rarity": 1,
-        "description": "乘坐列车时必需的车票。虽说如此也无需持有多张。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683722,
+  "time": 1787774399,
   "version": "1.0.0-beta.43"
 }

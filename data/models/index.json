@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "list_key": "model",
   "id_key": "id",
-  "max_page": 53,
-  "synced_pages": 53,
-  "total_items": 529,
-  "details_synced": 529,
+  "max_page": 54,
+  "synced_pages": 54,
+  "total_items": 531,
+  "details_synced": 531,
   "details_enabled": true,
   "items": [
     {
@@ -2660,6 +2660,16 @@
       "id": 546,
       "name": "CH0348_Body",
       "type": "body"
+    },
+    {
+      "id": 547,
+      "name": "CH0368_Halo",
+      "type": "halo"
+    },
+    {
+      "id": 548,
+      "name": "CH0369_Halo",
+      "type": "halo"
     }
   ],
   "pages": [
@@ -3032,7 +3042,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=53",
       "path": "models/pages/53.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/53.json",
-      "item_count": 9
+      "item_count": 10
+    },
+    {
+      "page": 54,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=54",
+      "path": "models/pages/54.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/54.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -6209,13 +6226,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/546",
       "path": "models/546.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/546.json"
+    },
+    {
+      "id": 547,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/547",
+      "path": "models/547.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/547.json"
+    },
+    {
+      "id": 548,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/548",
+      "path": "models/548.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/548.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 529,
-    "normalized_alias_count": 529,
-    "total_items": 529
+    "alias_count": 531,
+    "normalized_alias_count": 531,
+    "total_items": 531
   }
 }

@@ -7,13 +7,13 @@
     "api_path": "/data/relations/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/"
   },
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "list_key": "relation",
   "id_key": "id",
   "max_page": 16,
   "synced_pages": 16,
-  "total_items": 153,
-  "details_synced": 153,
+  "total_items": 156,
+  "details_synced": 156,
   "details_enabled": true,
   "items": [
     {
@@ -1070,7 +1070,7 @@
       "id": 153,
       "name": "三叉戟",
       "name_cn": "",
-      "image": "https://static.kivo.wiki/images/relation/TUNDUrk3hjykmGX4hTSrQTSih6pqFugv.jpg",
+      "image": "https://static.kivo.wiki/images/relation/osHb06hRQab42Pt2Lldz3F1D6sle3BU2.png",
       "description": ""
     },
     {
@@ -1085,6 +1085,27 @@
       "name": "潜水部",
       "name_cn": "",
       "image": "https://static.kivo.wiki/images/relation/neeu4yiBUu1AY7rsXCHpNrNSq0hAzqMs.jpg",
+      "description": ""
+    },
+    {
+      "id": 156,
+      "name": "医务室",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/D3HXR5LHHnCAWUXTFTgB0z6r5SRWnGkB.png",
+      "description": ""
+    },
+    {
+      "id": 157,
+      "name": "航行运营部",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/kkEWSyvUtqftUASjMtIXV9rheRrxtnjq.png",
+      "description": ""
+    },
+    {
+      "id": 158,
+      "name": "舰岛",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/JLBDA26rcp3NLInpi5w3jODm1txpnqOE.png",
       "description": ""
     }
   ],
@@ -1199,7 +1220,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/?page=16",
       "path": "relations/pages/16.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/pages/16.json",
-      "item_count": 3
+      "item_count": 6
     }
   ],
   "details": [
@@ -2120,13 +2141,31 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/155",
       "path": "relations/155.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/155.json"
+    },
+    {
+      "id": 156,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/156",
+      "path": "relations/156.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/156.json"
+    },
+    {
+      "id": 157,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/157",
+      "path": "relations/157.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/157.json"
+    },
+    {
+      "id": 158,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/relations/158",
+      "path": "relations/158.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/158.json"
     }
   ],
   "lookup": {
     "path": "relations/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/lookup.json",
-    "alias_count": 201,
-    "normalized_alias_count": 201,
-    "total_items": 153
+    "alias_count": 204,
+    "normalized_alias_count": 204,
+    "total_items": 156
   }
 }

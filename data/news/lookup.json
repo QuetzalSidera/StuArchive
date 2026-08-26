@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 82,
-  "alias_count": 82,
-  "normalized_alias_count": 82,
+  "total_items": 83,
+  "alias_count": 83,
+  "normalized_alias_count": 83,
   "by_id": {
+    "148": {
+      "id": 148,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 148,
+        "title": "[广告] 【上海蔚蓝档案only】勇者之旅 - 10月3日",
+        "image": "https://static.kivo.wiki/images/news/2tQezpvRCnOhplthzfmIIUCHlKthK4EI.png",
+        "url": ""
+      },
+      "detail_path": "news/148.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/148.json"
+    },
     "147": {
       "id": 147,
       "source_path": "news/index.json",
@@ -1081,6 +1094,9 @@
     }
   },
   "by_alias": {
+    "[广告] 【上海蔚蓝档案only】勇者之旅 - 10月3日": [
+      "148"
+    ],
     "[汉化] ba设定集Vol.4访谈翻译": [
       "147"
     ],
@@ -1329,6 +1345,9 @@
     ]
   },
   "by_normalized_alias": {
+    "[广告]【上海蔚蓝档案only】勇者之旅-10月3日": [
+      "148"
+    ],
     "[汉化]ba设定集vol.4访谈翻译": [
       "147"
     ],

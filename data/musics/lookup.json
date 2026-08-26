@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 990,
-  "alias_count": 1302,
-  "normalized_alias_count": 1302,
+  "total_items": 994,
+  "alias_count": 1306,
+  "normalized_alias_count": 1306,
   "by_id": {
     "1": {
       "id": 1,
@@ -15852,6 +15852,70 @@
       },
       "detail_path": "musics/1009.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1009.json"
+    },
+    "1010": {
+      "id": 1010,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1010,
+        "title": "Theme_368",
+        "cover": "",
+        "author": "",
+        "album": "",
+        "use": "",
+        "original_file_name": "Theme_368"
+      },
+      "detail_path": "musics/1010.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1010.json"
+    },
+    "1011": {
+      "id": 1011,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1011,
+        "title": "Theme_372",
+        "cover": "",
+        "author": "",
+        "album": "",
+        "use": "",
+        "original_file_name": "Theme_372"
+      },
+      "detail_path": "musics/1011.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1011.json"
+    },
+    "1012": {
+      "id": 1012,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1012,
+        "title": "Theme_374",
+        "cover": "",
+        "author": "",
+        "album": "",
+        "use": "",
+        "original_file_name": "Theme_374"
+      },
+      "detail_path": "musics/1012.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1012.json"
+    },
+    "1013": {
+      "id": 1013,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1013,
+        "title": "Theme_367",
+        "cover": "",
+        "author": "",
+        "album": "",
+        "use": "",
+        "original_file_name": "Theme_367"
+      },
+      "detail_path": "musics/1013.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1013.json"
     }
   },
   "by_alias": {
@@ -19761,6 +19825,18 @@
     ],
     "Theme_371": [
       "1009"
+    ],
+    "Theme_368": [
+      "1010"
+    ],
+    "Theme_372": [
+      "1011"
+    ],
+    "Theme_374": [
+      "1012"
+    ],
+    "Theme_367": [
+      "1013"
     ]
   },
   "by_normalized_alias": {
@@ -23670,6 +23746,18 @@
     ],
     "theme_371": [
       "1009"
+    ],
+    "theme_368": [
+      "1010"
+    ],
+    "theme_372": [
+      "1011"
+    ],
+    "theme_374": [
+      "1012"
+    ],
+    "theme_367": [
+      "1013"
     ]
   }
 }

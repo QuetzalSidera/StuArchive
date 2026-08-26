@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 1825,
+        "name": "分析U盘",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FJuSFSIwQ5kfvHdYUnfjEh2AS9TRQZQq.png",
+        "rarity": 1,
+        "description": "保存着核心中分析出的数据的U盘。虽然只分析了极小一部分，但那些信息中潜藏着一切可能性。"
+      },
       {
         "id": 501,
         "name": "粉红帕卡设计图",
@@ -45,6 +53,14 @@
         "description": "从书上撕下的伏尼契手稿的书页。可用来进行各种制造及强化。"
       },
       {
+        "id": 2070,
+        "name": "浮标",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/H3rNGZpSNkytL6xmOoj7ia8o0cxn1hUv.png",
+        "rarity": 1,
+        "description": "为在潜水过程中告知自己的位置，可在水中展开的信号浮标。可以让水面上的人知道自己的存在。"
+      },
+      {
         "id": 137,
         "name": "改良型切流恩卡",
         "type": "default",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ELZX0DM7xBcEL2ZZImWQGXGnY78z8F6I.png",
         "rarity": 1,
         "description": "发带的一种。据说，整理干净的发箍是展示女仆之力的必需品。"
-      },
-      {
-        "id": 509,
-        "name": "绀蓝书包设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/POB5T5ITPrcWrTmUXvcch7jfAzvRNKjk.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1373,
-        "name": "钢盔团总联合大会纪念币",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/pp58XIqxe2LGbbKVMoQKag2w5ubnptnD.png",
-        "rarity": 1,
-        "description": "为纪念钢盔团总联合大会而发行的纪念币。能唤起人在海边的美好回忆。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683727,
+  "time": 1787774406,
   "version": "1.0.0-beta.43"
 }

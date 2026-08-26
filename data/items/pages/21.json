@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 183,
+        "name": "高级战术教育BD（圣三一）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/22V7jeUYST2UuTxQco8j6lvsyzo6LJmi.png",
+        "rarity": 3,
+        "description": "把圣三一学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 136,
+        "name": "高级战术教育BD（瓦尔基里）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XJ5nzzDZWLWPFXmNEMxWs72nVWFkaX9w.png",
+        "rarity": 3,
+        "description": "把瓦尔基里学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 236,
+        "name": "高级战术教育BD抽选盒",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pXeVgYQDBEwgZRHf0lC3S4LsUeukzX0x.png",
+        "rarity": 3,
+        "description": "使用时，以相同的概率获得1个高级战术教育BD的抽选盒"
+      },
+      {
+        "id": 337,
+        "name": "高级战术教育BD箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/177nOF0qbShQN5V2DMXWldgX2YKAjuYu.png",
+        "rarity": 3,
+        "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用"
+      },
       {
         "id": 454,
         "name": "高级战术教育BD箱",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/tyzs90lCaExv16kaq8KWeFZ6Bb7Zs1n1.png",
         "rarity": 3,
         "description": "用于制造的主原料"
-      },
-      {
-        "id": 389,
-        "name": "高级总力战硬币",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/oXncPTnmIoC0mnKeSDWgZ5M6GwYbzEoD.png",
-        "rarity": 1,
-        "description": "可在总力战商店中使用的高级硬币。"
-      },
-      {
-        "id": 1088,
-        "name": "高热量巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/rnxFMitoQVf1kSzj522fcBi5nZp9RkY5.png",
-        "rarity": 1,
-        "description": "虽然想享受情人节这一天，但这是实梨考虑的解决方案。实梨说得好像是顺便给你的，但实际上从数家制造商中选择这个花了相当长的时间。"
-      },
-      {
-        "id": 538,
-        "name": "哥特风手表设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/dgRCGGzIVO1WETEZnDgsh3RuAOVbgFJM.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1392,
-        "name": "格赫娜宴会系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/9fBlKeBf0d6YH1Y6juiNHeots5Qc5vl6.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个格赫娜宴会系列家具的抽选箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683732,
+  "time": 1787774412,
   "version": "1.0.0-beta.43"
 }

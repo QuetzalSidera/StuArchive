@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-08-25T18:37:03Z",
+  "generated_at": "2026-08-26T19:45:51Z",
   "list_key": "music",
   "id_key": "id",
-  "max_page": 99,
-  "synced_pages": 99,
-  "total_items": 990,
-  "details_synced": 990,
+  "max_page": 100,
+  "synced_pages": 100,
+  "total_items": 994,
+  "details_synced": 994,
   "details_enabled": true,
   "items": [
     {
@@ -8925,6 +8925,42 @@
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_371"
+    },
+    {
+      "id": 1010,
+      "title": "Theme_368",
+      "cover": "",
+      "author": "",
+      "album": "",
+      "use": "",
+      "original_file_name": "Theme_368"
+    },
+    {
+      "id": 1011,
+      "title": "Theme_372",
+      "cover": "",
+      "author": "",
+      "album": "",
+      "use": "",
+      "original_file_name": "Theme_372"
+    },
+    {
+      "id": 1012,
+      "title": "Theme_374",
+      "cover": "",
+      "author": "",
+      "album": "",
+      "use": "",
+      "original_file_name": "Theme_374"
+    },
+    {
+      "id": 1013,
+      "title": "Theme_367",
+      "cover": "",
+      "author": "",
+      "album": "",
+      "use": "",
+      "original_file_name": "Theme_367"
     }
   ],
   "pages": [
@@ -9620,6 +9656,13 @@
       "path": "musics/pages/99.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/99.json",
       "item_count": 10
+    },
+    {
+      "page": 100,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=100",
+      "path": "musics/pages/100.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/100.json",
+      "item_count": 4
     }
   ],
   "details": [
@@ -15562,13 +15605,37 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1009",
       "path": "musics/1009.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1009.json"
+    },
+    {
+      "id": 1010,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1010",
+      "path": "musics/1010.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1010.json"
+    },
+    {
+      "id": 1011,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1011",
+      "path": "musics/1011.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1011.json"
+    },
+    {
+      "id": 1012,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1012",
+      "path": "musics/1012.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1012.json"
+    },
+    {
+      "id": 1013,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1013",
+      "path": "musics/1013.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1013.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1302,
-    "normalized_alias_count": 1302,
-    "total_items": 990
+    "alias_count": 1306,
+    "normalized_alias_count": 1306,
+    "total_items": 994
   }
 }

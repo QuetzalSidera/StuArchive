@@ -2,8 +2,64 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 169,
+        "name": "社长的顶级巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/4ceILaoP2ystb08lMikn6u2Y3MVMfEb8.png",
+        "rarity": 1,
+        "description": "阿露为了感谢老师身为合伙人的功劳，而网购的最顶级巧克力……可是，实际上却是被抛售的廉价商品。不过其中的心意依然动人，没有丝毫减损。"
+      },
+      {
+        "id": 1581,
+        "name": "神轿巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/9bjWulBperuk6nJVc0rnN7pTOUzsddDz.png",
+        "rarity": 1,
+        "description": "海夏精心制作的神轿巧克力。据说巧克力里放入了宝贵之物。"
+      },
+      {
+        "id": 1829,
+        "name": "神秘物质B",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/9BjuQvZszjrtLkVEIzCXWu5AOIotIukk.png",
+        "rarity": 1,
+        "description": "借由“无名众神之力”将物质元素本身重构而成的物质样本。分析后可以加工成各种物品。"
+      },
+      {
+        "id": 1886,
+        "name": "神秘物质C",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CnBonsYWpIfJrCkWghRz9fqpQ9cAN2qf.png",
+        "rarity": 1,
+        "description": "虽然进行了一定程度上的分析，但尚未做到完全解明。用途是无限大的。"
+      },
+      {
+        "id": 1913,
+        "name": "神秘线材",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/qsghofkfcJYo2T0EAsqI7bYlkVL7sWB2.png",
+        "rarity": 1,
+        "description": "把电子设备放在一起就会无限增加的用途不明的线材。用不到的就收起来吧。"
+      },
+      {
+        "id": 390,
+        "name": "神名文字碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/mcAPp8GriB2X1moJUtzQELQPYOvBXh1b.png",
+        "rarity": 1,
+        "description": "构成神名文字的神名精髓。"
+      },
+      {
+        "id": 122,
+        "name": "生巧克力组合（附发票）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/OOZkPfmhwpxFOlYmpUj6pRsz7G1xocFP.png",
+        "rarity": 1,
+        "description": "优香为老师购入的送礼用巧克力组合。虽然是超过一万日元的高级巧克力，但不知为何附上了五千日元的发票。"
+      },
       {
         "id": 580,
         "name": "生锈的弹簧",
@@ -27,67 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/pnghQljOPDJxBKUbAXVwP7vIlaYlGvsf.png",
         "rarity": 1,
         "description": "用来撞击并引燃弹丸雷管的金属棒，未经保养，到处都生锈了。用于强化固有武器。  用于强化任何类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 588,
-        "name": "生锈的枪管",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/iSvIqQEjq0xALhEpZ9rTasaJQrkoibTD.png",
-        "rarity": 1,
-        "description": "枪支上用于输送弹丸的铁管零件，未经保养，到处都生锈了。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 876,
-        "name": "圣诞礼物",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/I3l2KgysKeuwkAzT78XtB6mjXV2B0UKX.png",
-        "rarity": 1,
-        "description": "在圣诞节当天，大家所等的就是这个。根据流传的传说，爱哭的孩子是得不到礼物的。"
-      },
-      {
-        "id": 877,
-        "name": "圣诞袜",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/7PvtVud2u7YHsk7ldTsMdIJUQgGtIo6T.png",
-        "rarity": 1,
-        "description": "抱着等待意外之礼的心情挂上的袜子。穿上时会很温暖。"
-      },
-      {
-        "id": 214,
-        "name": "圣歌书",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/mwwjF0Ww5CZOp2hwjvJIRyposIokzTym.png",
-        "rarity": 1,
-        "description": "收集了三一赞颂歌的书特有的歌词意外的受到欢迎，有时还会被引用在流行歌曲或广告文里。"
-      },
-      {
-        "id": 1678,
-        "name": "圣三一特制蛋糕",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OskOSeBbnLCKZTPJcpgUUSNT1DTDkNWK.png",
-        "rarity": 1,
-        "description": "高级的甜点。美好的下午茶时间里，美味的点心是不可或缺的。"
-      },
-      {
-        "id": 217,
-        "name": "圣堂烛台",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/U1Eq0WAoD7DtfBYOGZNQW71l7lj2Vvtb.png",
-        "rarity": 1,
-        "description": "三一大圣堂中使用的烛台。本身相当的沉重又结实，因此不小心掉到地板还会破洞。"
-      },
-      {
-        "id": 1588,
-        "name": "圣娅的惊悚巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/l7owBG1w4WDnUmPcnoDEeQyUKdltaYyR.png",
-        "rarity": 1,
-        "description": "圣娅的巧克力。随巧克力还附上了金光闪闪的收据。如果不小心在上面签了名的话，可能会发生不得了的大事。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683764,
+  "time": 1787774448,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,64 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 251,
+        "name": "沙包",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/W24EMDM7EVMPfmwTr2D32qYxoV1DuVbq.png",
+        "rarity": 1,
+        "description": "用豆子和沙子装满软布制成的袋子。软软的，就算被打到也没有受伤之虞，适合用于投球等比赛。偶尔会发现真的会爆炸的沙包。"
+      },
+      {
+        "id": 116,
+        "name": "沙漠的玫瑰",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/4DtTtl32tYnEUs78DyYd1nFOKB2v4QdG.png",
+        "rarity": 1,
+        "description": "于阿拜多斯车站贩售的玫瑰花造型巧克力。以沙漠的玫瑰为主题制作的巧克力，是很受欢迎的礼物。"
+      },
+      {
+        "id": 266,
+        "name": "沙滩排球",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/5FG6npr42ZNcj4EDaU7nwH767LsyBLBz.png",
+        "rarity": 1,
+        "description": "看起来很可爱的沙滩排球。"
+      },
+      {
+        "id": 278,
+        "name": "沙滩椅",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/fo20mGw9egm0hNc8pDzAMEr8nLnYfpOx.png",
+        "rarity": 1,
+        "description": "将原木椅子铺上柔软的布料，打造出充满现代感的沙滩椅。经防水处理，即使在海边也可安心使用。"
+      },
+      {
+        "id": 1062,
+        "name": "鲨鱼牙齿护符设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/51H5PF3KVwAKLGncWnyNSHaUyBY2vf45.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
+      {
+        "id": 1679,
+        "name": "山海经茶园的高级茶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/hx2a5qhOQldHsyQOeA1GPAPDX4A3x7Ww.png",
+        "rarity": 1,
+        "description": "从山海经采购的最高级的红茶茶叶。请在避光干燥的环境下保存。"
+      },
+      {
+        "id": 1750,
+        "name": "商店卡片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VJUhiJzSXzhgitjokLfTkKBNfUGgGqJP.png",
+        "rarity": 1,
+        "description": "可在狂猎美术馆纪念品店买到的卡片 。 似乎还能用来玩游戏 。 设计十分精美 。"
+      },
       {
         "id": 253,
         "name": "哨子",
@@ -27,67 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/6SoZcO0ZULgylDwxRHEP2SIXKYcJwp0T.png",
         "rarity": 1,
         "description": "用于进入观光设施的入场券。团购有优惠。"
-      },
-      {
-        "id": 169,
-        "name": "社长的顶级巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/4ceILaoP2ystb08lMikn6u2Y3MVMfEb8.png",
-        "rarity": 1,
-        "description": "阿露为了感谢老师身为合伙人的功劳，而网购的最顶级巧克力……可是，实际上却是被抛售的廉价商品。不过其中的心意依然动人，没有丝毫减损。"
-      },
-      {
-        "id": 1581,
-        "name": "神轿巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/9bjWulBperuk6nJVc0rnN7pTOUzsddDz.png",
-        "rarity": 1,
-        "description": "海夏精心制作的神轿巧克力。据说巧克力里放入了宝贵之物。"
-      },
-      {
-        "id": 1829,
-        "name": "神秘物质B",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/9BjuQvZszjrtLkVEIzCXWu5AOIotIukk.png",
-        "rarity": 1,
-        "description": "借由“无名众神之力”将物质元素本身重构而成的物质样本。分析后可以加工成各种物品。"
-      },
-      {
-        "id": 1886,
-        "name": "神秘物质C",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CnBonsYWpIfJrCkWghRz9fqpQ9cAN2qf.png",
-        "rarity": 1,
-        "description": "虽然进行了一定程度上的分析，但尚未做到完全解明。用途是无限大的。"
-      },
-      {
-        "id": 1913,
-        "name": "神秘线材",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/qsghofkfcJYo2T0EAsqI7bYlkVL7sWB2.png",
-        "rarity": 1,
-        "description": "把电子设备放在一起就会无限增加的用途不明的线材。用不到的就收起来吧。"
-      },
-      {
-        "id": 390,
-        "name": "神名文字碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/mcAPp8GriB2X1moJUtzQELQPYOvBXh1b.png",
-        "rarity": 1,
-        "description": "构成神名文字的神名精髓。"
-      },
-      {
-        "id": 122,
-        "name": "生巧克力组合（附发票）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OOZkPfmhwpxFOlYmpUj6pRsz7G1xocFP.png",
-        "rarity": 1,
-        "description": "优香为老师购入的送礼用巧克力组合。虽然是超过一万日元的高级巧克力，但不知为何附上了五千日元的发票。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683763,
+  "time": 1787774447,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 1384,
+        "name": "回忆胶片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/860bUsJq6VzNARCcHSsdLcVMCOLUTyFk.png",
+        "rarity": 1,
+        "description": "记录了学生们与老师各种回忆的胶片。"
+      },
+      {
+        "id": 437,
+        "name": "毁损的伏尼契手稿",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/dR4G9IS1sZceLFh4hNSWq8GXFOQuR1ra.png",
+        "rarity": 2,
+        "description": "破烂不堪，被涂毁损的伏尼契手稿。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 420,
+        "name": "毁损的罗洪特抄本",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8ukHDLWvQWyiNwoUuHaL9vDbq8psFQK0.png",
+        "rarity": 2,
+        "description": "破烂不堪，被涂毁损的罗洪特抄本。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 206,
+        "name": "活动点数",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ex9sqOYFLscA6r6GlA4yUO3qv9D4MusM.png",
+        "rarity": 1,
+        "description": "每当进行活动时可获得的点数。获得越多即可得到多样奖励。"
+      },
       {
         "id": 1615,
         "name": "货运列车路线图",
@@ -29,6 +61,14 @@
         "description": "归纳阿里乌斯分校战术核心的秘法笔记。 "
       },
       {
+        "id": 2063,
+        "name": "基础技术笔记（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DNmrwpFN7Pao2XBqWDJ8oU7LGEhxuE9P.png",
+        "rarity": 1,
+        "description": "归纳奥德赛海洋学校战术核心的秘法笔记。"
+      },
+      {
         "id": 69,
         "name": "基础技术笔记（百鬼夜行） ",
         "type": "default",
@@ -43,51 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/2YuUol1u3sTXaMtYcF8akSMhOOLRdpii.png",
         "rarity": 1,
         "description": "归纳格黑娜学园战术核心的秘法笔记。 "
-      },
-      {
-        "id": 62,
-        "name": "基础技术笔记（红冬） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ajElyPv2rKUXO9NcQIn9yeEXVjwrkuIK.png",
-        "rarity": 1,
-        "description": "归纳红冬学园战术核心的秘法笔记。"
-      },
-      {
-        "id": 1733,
-        "name": "基础技术笔记（狂猎）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Wuc4qDWkUfU8ypJoWGtY9h4O0QniDBI8.png",
-        "rarity": 1,
-        "description": "归纳狂猎艺术学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 6,
-        "name": "基础技术笔记（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/0WcpzbVW6Okr5tJeqaUSuPl5smznwvmN.png",
-        "rarity": 1,
-        "description": "归纳千禧科学学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 13,
-        "name": "基础技术笔记（山海经）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/VmY2C5eL5K5jJ8s0GogYTlRudFfgfIWK.png",
-        "rarity": 1,
-        "description": "归纳山海经高级中学战术核心的秘法笔记。"
-      },
-      {
-        "id": 40,
-        "name": "基础技术笔记（圣三一） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/WmaWrCSoVloXdVRij66VV4QVC9ck5ALE.png",
-        "rarity": 1,
-        "description": "归纳圣三一学园战术核心的秘法笔记。 "
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683739,
+  "time": 1787774420,
   "version": "1.0.0-beta.43"
 }

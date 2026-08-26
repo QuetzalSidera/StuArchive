@@ -2,8 +2,56 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 199,
+    "max_page": 200,
     "item": [
+      {
+        "id": 1908,
+        "name": "谜之健康用品",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ibIus9KuT5AQYNvtZVo2pYOCRZo9GT2d.png",
+        "rarity": 1,
+        "description": "据说由锗制成的手环。说是对健康有益，但……"
+      },
+      {
+        "id": 1509,
+        "name": "谜之物质",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/rTi8HJlXf53mSe4MNdyysxbnN9AjP3tM.png",
+        "rarity": 1,
+        "description": "现场收集到的谜之物质。据说通过特定的“再分析”，能得到完全不同的产物。"
+      },
+      {
+        "id": 1909,
+        "name": "谜之御札",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ypgWEkLvFVtZZtTYDehlNorWZpnoZvjL.png",
+        "rarity": 1,
+        "description": "祈愿驾驶安全的御札。神奇的是，据说贴在车上之后，驾驶时就会有好事发生。"
+      },
+      {
+        "id": 1907,
+        "name": "谜之杂志",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/rHLl2qnD8zsO3BanxlnyNO2aM3XSpV3K.png",
+        "rarity": 1,
+        "description": "刊载了大量来源不明的阴谋论的杂志。随便翻翻无妨，但切勿盲目轻信。"
+      },
+      {
+        "id": 1080,
+        "name": "秘密信息",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SfD6YsakZffcPJMzIiA2y9JZwIZaUCUO.png",
+        "rarity": 1,
+        "description": "小雪送给老师的手工巧克力。虽然看上去是普通的礼品巧克力，但似乎隐藏了其他的信息。"
+      },
+      {
+        "id": 522,
+        "name": "蜜桃发卡设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/RnNOIq71acc5UzpWx18v51NMwd5sfIh4.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 1380,
         "name": "棉花糖串",
@@ -35,59 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/D9CTCDUrwK7SQbSMQlWHnFWDwUY1SWws.png",
         "rarity": 1,
         "description": "桃香喜欢吃的明太子味薯片。其咸咸的风味堪称绝品。"
-      },
-      {
-        "id": 378,
-        "name": "磨耗的温尼珀索基石头",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/V1wIRCGBy0uoBaeZoBcVaRnzx9RoCzaV.png",
-        "rarity": 3,
-        "description": "组合碎片而修好的温尼珀索基石头。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 374,
-        "name": "磨耗的亚特兰蒂斯徽章",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CrUhyN3huYnShHihQsPM2vvKxIg9THyq.png",
-        "rarity": 3,
-        "description": "坏掉而无法动弹的亚特兰蒂斯徽章。可用来进行各种制造及强化"
-      },
-      {
-        "id": 429,
-        "name": "磨损的安迪基西拉装置",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/UuAtMfKBflhzY9p1kJ96ITkfZjs5E9Lt.png",
-        "rarity": 3,
-        "description": "因故障而无法启动的安迪基西拉装置。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 405,
-        "name": "磨损的斐斯托斯圆盘",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/msyqeC9aqmzRwSlAopg98Mf4F6D3LJnD.png",
-        "rarity": 3,
-        "description": "过于老旧，磨损得体无完肤的斐斯托斯圆盘。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 450,
-        "name": "磨损的古代电池",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/jERus9n1q3vJDIObvmJ0KEPlGEUzd6EZ.png",
-        "rarity": 3,
-        "description": "因故障而无法启动的古代电池。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 401,
-        "name": "磨损的内布拉盘",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/amCLaPTyEdQZCJ8jhPGtDuta2094Iwbz.png",
-        "rarity": 3,
-        "description": "过于老旧，磨损得体无完肤的内布拉盘。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1787683750,
+  "time": 1787774432,
   "version": "1.0.0-beta.43"
 }
