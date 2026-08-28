@@ -7,15 +7,37 @@
     "api_path": "/walkthroughs/",
     "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/"
   },
-  "generated_at": "2026-08-26T19:45:51Z",
+  "generated_at": "2026-08-28T02:02:09Z",
   "list_key": "walkthrough",
   "id_key": "id",
   "max_page": 10,
   "synced_pages": 10,
-  "total_items": 98,
-  "details_synced": 98,
+  "total_items": 99,
+  "details_synced": 99,
   "details_enabled": true,
   "items": [
+    {
+      "id": 135,
+      "user": {
+        "id": 27228,
+        "user_name": "llyz123",
+        "introduction": "",
+        "avatar": "https://static.kivo.wiki/images/avatar/27228/vKPY7vlBopZPJfg0VlVIdDgAXJxkSYNm.jpg"
+      },
+      "title": "新手适用闪电战初级",
+      "server": "Japan",
+      "game_mode": "BountyHunts",
+      "enemy_defensive_attributes": "Light",
+      "level_terrain": "Other",
+      "introduce_summary": "优香当坦克，睦月当轰炸机，某个忘了名的医生可以让优香去敌方里面拿包，另一个忘名的白毛释放恐惧，还有一个sZ桃的黄毛，那个枪疯狂扫射，闪电战",
+      "team": [],
+      "reference_score": 0,
+      "is_favorite": false,
+      "state": 1,
+      "favorite_num": 0,
+      "created_at": 1787850250,
+      "updated_at": 1787850250
+    },
     {
       "id": 133,
       "user": {
@@ -26277,10 +26299,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/?page=10",
       "path": "walkthroughs/pages/10.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/pages/10.json",
-      "item_count": 8
+      "item_count": 9
     }
   ],
   "details": [
+    {
+      "id": 135,
+      "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/135",
+      "path": "walkthroughs/135.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/135.json"
+    },
     {
       "id": 133,
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/133",
@@ -26873,8 +26901,8 @@
   "lookup": {
     "path": "walkthroughs/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/lookup.json",
-    "alias_count": 98,
-    "normalized_alias_count": 98,
-    "total_items": 98
+    "alias_count": 99,
+    "normalized_alias_count": 99,
+    "total_items": 99
   }
 }

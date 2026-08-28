@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-26T19:45:51Z",
+  "generated_at": "2026-08-28T02:02:09Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -8013,31 +8013,6 @@
       "profile_path": "students/profiles/627.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/627.json"
     },
-    "629": {
-      "id": 629,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 629,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "灯下",
-        "given_name": "亚美",
-        "family_name_jp": "灯下",
-        "given_name_jp": "アミ",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E7%81%AF%E4%B8%8B%20%E4%BA%9A%E7%BE%8E/original/Ami.png",
-        "school": 15,
-        "main_relation": 158
-      },
-      "detail_path": "students/629.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/629.json",
-      "profile_path": "students/profiles/629.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/629.json"
-    },
     "628": {
       "id": 628,
       "source_path": "students/index.json",
@@ -8162,6 +8137,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/630.json",
       "profile_path": "students/profiles/630.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/630.json"
+    },
+    "629": {
+      "id": 629,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 629,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "灯下",
+        "given_name": "爱海",
+        "family_name_jp": "灯下",
+        "given_name_jp": "アミ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%81%AF%E4%B8%8B%20%E4%BA%9A%E7%BE%8E/original/Ami.png",
+        "school": 15,
+        "main_relation": 158
+      },
+      "detail_path": "students/629.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/629.json",
+      "profile_path": "students/profiles/629.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/629.json"
     },
     "622": {
       "id": 622,
@@ -29249,24 +29249,6 @@
     "ナナミ": [
       "627"
     ],
-    "灯下亚美": [
-      "629"
-    ],
-    "灯下 亚美": [
-      "629"
-    ],
-    "亚美": [
-      "629"
-    ],
-    "灯下アミ": [
-      "629"
-    ],
-    "灯下 アミ": [
-      "629"
-    ],
-    "アミ": [
-      "629"
-    ],
     "海路凑": [
       "628"
     ],
@@ -29344,6 +29326,24 @@
     ],
     "サナエ": [
       "630"
+    ],
+    "灯下爱海": [
+      "629"
+    ],
+    "灯下 爱海": [
+      "629"
+    ],
+    "爱海": [
+      "629"
+    ],
+    "灯下アミ": [
+      "629"
+    ],
+    "灯下 アミ": [
+      "629"
+    ],
+    "アミ": [
+      "629"
     ],
     "玛琪娜": [
       "622"
@@ -41971,18 +41971,6 @@
     "ナナミ": [
       "627"
     ],
-    "灯下亚美": [
-      "629"
-    ],
-    "亚美": [
-      "629"
-    ],
-    "灯下アミ": [
-      "629"
-    ],
-    "アミ": [
-      "629"
-    ],
     "海路凑": [
       "628"
     ],
@@ -42036,6 +42024,18 @@
     ],
     "サナエ": [
       "630"
+    ],
+    "灯下爱海": [
+      "629"
+    ],
+    "爱海": [
+      "629"
+    ],
+    "灯下アミ": [
+      "629"
+    ],
+    "アミ": [
+      "629"
     ],
     "玛琪娜": [
       "622"

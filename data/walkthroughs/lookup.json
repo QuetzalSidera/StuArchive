@@ -2,17 +2,46 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-08-26T19:45:51Z",
+  "generated_at": "2026-08-28T02:02:09Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 98,
-  "alias_count": 98,
-  "normalized_alias_count": 98,
+  "total_items": 99,
+  "alias_count": 99,
+  "normalized_alias_count": 99,
   "by_id": {
+    "135": {
+      "id": 135,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 135,
+        "user": {
+          "id": 27228,
+          "user_name": "llyz123",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/27228/vKPY7vlBopZPJfg0VlVIdDgAXJxkSYNm.jpg"
+        },
+        "title": "新手适用闪电战初级",
+        "server": "Japan",
+        "game_mode": "BountyHunts",
+        "enemy_defensive_attributes": "Light",
+        "level_terrain": "Other",
+        "introduce_summary": "优香当坦克，睦月当轰炸机，某个忘了名的医生可以让优香去敌方里面拿包，另一个忘名的白毛释放恐惧，还有一个sZ桃的黄毛，那个枪疯狂扫射，闪电战",
+        "team": [],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1787850250,
+        "updated_at": 1787850250
+      },
+      "detail_path": "walkthroughs/135.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/135.json"
+    },
     "133": {
       "id": 133,
       "source_path": "walkthroughs/index.json",
@@ -26892,6 +26921,9 @@
     }
   },
   "by_alias": {
+    "新手适用闪电战初级": [
+      "135"
+    ],
     "推图(新手)": [
       "133"
     ],
@@ -27188,6 +27220,9 @@
     ]
   },
   "by_normalized_alias": {
+    "新手适用闪电战初级": [
+      "135"
+    ],
     "推图(新手)": [
       "133"
     ],

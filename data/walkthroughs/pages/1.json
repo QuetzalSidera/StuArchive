@@ -5,6 +5,28 @@
     "max_page": 10,
     "walkthrough": [
       {
+        "id": 135,
+        "user": {
+          "id": 27228,
+          "user_name": "llyz123",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/27228/vKPY7vlBopZPJfg0VlVIdDgAXJxkSYNm.jpg"
+        },
+        "title": "新手适用闪电战初级",
+        "server": "Japan",
+        "game_mode": "BountyHunts",
+        "enemy_defensive_attributes": "Light",
+        "level_terrain": "Other",
+        "introduce_summary": "优香当坦克，睦月当轰炸机，某个忘了名的医生可以让优香去敌方里面拿包，另一个忘名的白毛释放恐惧，还有一个sZ桃的黄毛，那个枪疯狂扫射，闪电战",
+        "team": [],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1787850250,
+        "updated_at": 1787850250
+      },
+      {
         "id": 133,
         "user": {
           "id": 22395,
@@ -1586,137 +1608,11 @@
         "favorite_num": 7,
         "created_at": 1773460188,
         "updated_at": 1773555391
-      },
-      {
-        "id": 109,
-        "user": {
-          "id": 21988,
-          "user_name": "Ajbfh0961",
-          "introduction": "I am a people",
-          "avatar": "https://static.kivo.wiki/images/avatar/21988/WYWMIoveq9ROyTNhdOtv5CiSfac27eeL.png"
-        },
-        "title": "基础三星配队（不算强，但大部分人都有的三星）",
-        "server": "China",
-        "game_mode": "Universal",
-        "enemy_defensive_attributes": "Heavy",
-        "level_terrain": "Other",
-        "introduce_summary": "",
-        "team": [
-          {
-            "student": [
-              {
-                "student_id": 373,
-                "level": 45,
-                "star_level": 3,
-                "weapon_level": 0,
-                "favorability": 20,
-                "skill_level": [
-                  2,
-                  5,
-                  4,
-                  5
-                ],
-                "equipment_level": [
-                  4,
-                  4,
-                  4
-                ],
-                "character_data_index": 1,
-                "max_hp_talent_level": 1,
-                "attack_talent_level": 5,
-                "healing_talent_level": 1
-              },
-              {
-                "student_id": 42,
-                "level": 45,
-                "star_level": 3,
-                "weapon_level": 0,
-                "favorability": 5,
-                "skill_level": [
-                  3,
-                  3,
-                  5,
-                  3
-                ],
-                "equipment_level": [
-                  5,
-                  3,
-                  3
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 1,
-                "level": 45,
-                "star_level": 3,
-                "weapon_level": 0,
-                "favorability": 15,
-                "skill_level": [
-                  3,
-                  2,
-                  6,
-                  6
-                ],
-                "equipment_level": [
-                  4,
-                  3,
-                  3,
-                  0
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 11,
-                "level": 45,
-                "star_level": 3,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  4,
-                  4,
-                  5,
-                  5
-                ],
-                "equipment_level": [
-                  5,
-                  3,
-                  3
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              }
-            ],
-            "initial_skills": [
-              1
-            ],
-            "timeline": [
-              {
-                "timing": "",
-                "operate": "",
-                "remark": ""
-              }
-            ]
-          }
-        ],
-        "reference_score": 0,
-        "is_favorite": false,
-        "state": 0,
-        "favorite_num": 1,
-        "created_at": 1773459571,
-        "updated_at": 1773555393
       }
     ]
   },
   "message": "请求成功",
   "success": true,
-  "time": 1787782110,
+  "time": 1787891334,
   "version": "1.0.0-beta.43"
 }
