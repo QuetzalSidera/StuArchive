@@ -7,15 +7,21 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-08-29T01:28:12Z",
+  "generated_at": "2026-08-29T20:26:30Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 83,
-  "details_synced": 83,
+  "total_items": 84,
+  "details_synced": 84,
   "details_enabled": true,
   "items": [
+    {
+      "id": 149,
+      "title": "[广告] 霞枫余音·南京蔚蓝档案ONLY4.0 - 10月4日",
+      "image": "https://static.kivo.wiki/images/news/DJPHUvJ5dGzvI9hBVchJtx6Xj0B3sRbr.jpg",
+      "url": ""
+    },
     {
       "id": 148,
       "title": "[广告] 【上海蔚蓝档案only】勇者之旅 - 10月3日",
@@ -42,7 +48,7 @@
     },
     {
       "id": 144,
-      "title": "[广告] 2027年ba同人新春会征稿 07.12~09.02",
+      "title": "[广告] 2027年ba同人新春会征稿 07.12~10.01",
       "image": "https://static.kivo.wiki/images/news/pfntxIx8OEM93jqtTF3edXMlsLO2Iv7e.jpg",
       "url": ""
     },
@@ -577,10 +583,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 3
+      "item_count": 4
     }
   ],
   "details": [
+    {
+      "id": 149,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/149",
+      "path": "news/149.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/149.json"
+    },
     {
       "id": 148,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/148",
@@ -1083,8 +1095,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 83,
-    "normalized_alias_count": 83,
-    "total_items": 83
+    "alias_count": 84,
+    "normalized_alias_count": 84,
+    "total_items": 84
   }
 }

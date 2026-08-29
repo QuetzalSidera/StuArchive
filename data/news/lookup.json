@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-08-29T01:28:12Z",
+  "generated_at": "2026-08-29T20:26:30Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 83,
-  "alias_count": 83,
-  "normalized_alias_count": 83,
+  "total_items": 84,
+  "alias_count": 84,
+  "normalized_alias_count": 84,
   "by_id": {
+    "149": {
+      "id": 149,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 149,
+        "title": "[广告] 霞枫余音·南京蔚蓝档案ONLY4.0 - 10月4日",
+        "image": "https://static.kivo.wiki/images/news/DJPHUvJ5dGzvI9hBVchJtx6Xj0B3sRbr.jpg",
+        "url": ""
+      },
+      "detail_path": "news/149.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/149.json"
+    },
     "148": {
       "id": 148,
       "source_path": "news/index.json",
@@ -71,7 +84,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
       "item": {
         "id": 144,
-        "title": "[广告] 2027年ba同人新春会征稿 07.12~09.02",
+        "title": "[广告] 2027年ba同人新春会征稿 07.12~10.01",
         "image": "https://static.kivo.wiki/images/news/pfntxIx8OEM93jqtTF3edXMlsLO2Iv7e.jpg",
         "url": ""
       },
@@ -1094,6 +1107,9 @@
     }
   },
   "by_alias": {
+    "[广告] 霞枫余音·南京蔚蓝档案ONLY4.0 - 10月4日": [
+      "149"
+    ],
     "[广告] 【上海蔚蓝档案only】勇者之旅 - 10月3日": [
       "148"
     ],
@@ -1106,7 +1122,7 @@
     "日服5.5周年纪念活动「出航!万魔船 マコト議長の華麗なる避暑」": [
       "145"
     ],
-    "[广告] 2027年ba同人新春会征稿 07.12~09.02": [
+    "[广告] 2027年ba同人新春会征稿 07.12~10.01": [
       "144"
     ],
     "2026年基沃托斯古书馆建设报告": [
@@ -1345,6 +1361,9 @@
     ]
   },
   "by_normalized_alias": {
+    "[广告]霞枫余音·南京蔚蓝档案only4.0-10月4日": [
+      "149"
+    ],
     "[广告]【上海蔚蓝档案only】勇者之旅-10月3日": [
       "148"
     ],
@@ -1357,7 +1376,7 @@
     "日服5.5周年纪念活动「出航!万魔船マコト議長の華麗なる避暑」": [
       "145"
     ],
-    "[广告]2027年ba同人新春会征稿07.12~09.02": [
+    "[广告]2027年ba同人新春会征稿07.12~10.01": [
       "144"
     ],
     "2026年基沃托斯古书馆建设报告": [

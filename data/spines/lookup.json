@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-08-29T01:28:12Z",
+  "generated_at": "2026-08-29T20:26:30Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1732,
-  "alias_count": 1729,
-  "normalized_alias_count": 1729,
+  "total_items": 1782,
+  "alias_count": 1779,
+  "normalized_alias_count": 1779,
   "by_id": {
     "1": {
       "id": 1,
@@ -22528,6 +22528,656 @@
       },
       "detail_path": "spines/1852.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1852.json"
+    },
+    "1853": {
+      "id": 1853,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1853,
+        "name": "hiyori_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1853.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1853.json"
+    },
+    "1854": {
+      "id": 1854,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1854,
+        "name": "hoshino_robber_spr_HD",
+        "remark": "头套",
+        "type": "spr"
+      },
+      "detail_path": "spines/1854.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1854.json"
+    },
+    "1855": {
+      "id": 1855,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1855,
+        "name": "kaede_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1855.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1855.json"
+    },
+    "1856": {
+      "id": 1856,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1856,
+        "name": "kaitenranger_black_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1856.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1856.json"
+    },
+    "1857": {
+      "id": 1857,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1857,
+        "name": "kaitenranger_green_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1857.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1857.json"
+    },
+    "1858": {
+      "id": 1858,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1858,
+        "name": "kaitenranger_pink_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1858.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1858.json"
+    },
+    "1859": {
+      "id": 1859,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1859,
+        "name": "kaitenranger_red_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1859.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1859.json"
+    },
+    "1860": {
+      "id": 1860,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1860,
+        "name": "kaitenranger_yellow_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1860.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1860.json"
+    },
+    "1861": {
+      "id": 1861,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1861,
+        "name": "kayoko_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1861.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1861.json"
+    },
+    "1862": {
+      "id": 1862,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1862,
+        "name": "kazusa_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1862.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1862.json"
+    },
+    "1863": {
+      "id": 1863,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1863,
+        "name": "kirino_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1863.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1863.json"
+    },
+    "1864": {
+      "id": 1864,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1864,
+        "name": "koharu_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1864.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1864.json"
+    },
+    "1865": {
+      "id": 1865,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1865,
+        "name": "mai_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1865.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1865.json"
+    },
+    "1866": {
+      "id": 1866,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1866,
+        "name": "maki_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1866.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1866.json"
+    },
+    "1867": {
+      "id": 1867,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1867,
+        "name": "market_animal2_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1867.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1867.json"
+    },
+    "1868": {
+      "id": 1868,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1868,
+        "name": "mashiro_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1868.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1868.json"
+    },
+    "1869": {
+      "id": 1869,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1869,
+        "name": "mashiro_swimsuit_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1869.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1869.json"
+    },
+    "1870": {
+      "id": 1870,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1870,
+        "name": "mimori_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1870.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1870.json"
+    },
+    "1871": {
+      "id": 1871,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1871,
+        "name": "misaki_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1871.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1871.json"
+    },
+    "1872": {
+      "id": 1872,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1872,
+        "name": "moe_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1872.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1872.json"
+    },
+    "1873": {
+      "id": 1873,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1873,
+        "name": "momoi_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1873.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1873.json"
+    },
+    "1874": {
+      "id": 1874,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1874,
+        "name": "neru_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1874.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1874.json"
+    },
+    "1875": {
+      "id": 1875,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1875,
+        "name": "nodoka_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1875.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1875.json"
+    },
+    "1876": {
+      "id": 1876,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1876,
+        "name": "nonomi_robber_spr_HD",
+        "remark": "头套",
+        "type": "spr"
+      },
+      "detail_path": "spines/1876.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1876.json"
+    },
+    "1877": {
+      "id": 1877,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1877,
+        "name": "peroro_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1877.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1877.json"
+    },
+    "1878": {
+      "id": 1878,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1878,
+        "name": "pmcdirector_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1878.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1878.json"
+    },
+    "1879": {
+      "id": 1879,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1879,
+        "name": "robot2_division_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1879.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1879.json"
+    },
+    "1880": {
+      "id": 1880,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1880,
+        "name": "royalguard_redwinter1_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1880.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1880.json"
+    },
+    "1881": {
+      "id": 1881,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1881,
+        "name": "sakurako_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1881.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1881.json"
+    },
+    "1882": {
+      "id": 1882,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1882,
+        "name": "saya_casual_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1882.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1882.json"
+    },
+    "1883": {
+      "id": 1883,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1883,
+        "name": "saya_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1883.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1883.json"
+    },
+    "1884": {
+      "id": 1884,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1884,
+        "name": "serika_newyear_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1884.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1884.json"
+    },
+    "1885": {
+      "id": 1885,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1885,
+        "name": "serika_robber_spr_HD",
+        "remark": "头套",
+        "type": "spr"
+      },
+      "detail_path": "spines/1885.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1885.json"
+    },
+    "1886": {
+      "id": 1886,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1886,
+        "name": "serika_shibaseki_spr_HD",
+        "remark": "打工制服",
+        "type": "spr"
+      },
+      "detail_path": "spines/1886.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1886.json"
+    },
+    "1887": {
+      "id": 1887,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1887,
+        "name": "serina_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1887.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1887.json"
+    },
+    "1888": {
+      "id": 1888,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1888,
+        "name": "shibasekimaster_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1888.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1888.json"
+    },
+    "1889": {
+      "id": 1889,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1889,
+        "name": "shigure_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1889.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1889.json"
+    },
+    "1890": {
+      "id": 1890,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1890,
+        "name": "shinon_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1890.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1890.json"
+    },
+    "1891": {
+      "id": 1891,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1891,
+        "name": "shiroko_ridingsuit_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1891.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1891.json"
+    },
+    "1892": {
+      "id": 1892,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1892,
+        "name": "shiroko_robber_spr_HD",
+        "remark": "头套",
+        "type": "spr"
+      },
+      "detail_path": "spines/1892.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1892.json"
+    },
+    "1893": {
+      "id": 1893,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1893,
+        "name": "shizuko_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1893.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1893.json"
+    },
+    "1894": {
+      "id": 1894,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1894,
+        "name": "sukeban_HMG_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1894.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1894.json"
+    },
+    "1895": {
+      "id": 1895,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1895,
+        "name": "sukeban_SR_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1895.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1895.json"
+    },
+    "1896": {
+      "id": 1896,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1896,
+        "name": "utahaturret_spr_HD",
+        "remark": "雷酱",
+        "type": "spr"
+      },
+      "detail_path": "spines/1896.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1896.json"
+    },
+    "1897": {
+      "id": 1897,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1897,
+        "name": "yoheki_normal1_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1897.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1897.json"
+    },
+    "1898": {
+      "id": 1898,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1898,
+        "name": "yoheki_redwinter1_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1898.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1898.json"
+    },
+    "1899": {
+      "id": 1899,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1899,
+        "name": "yuzu_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1899.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1899.json"
+    },
+    "1900": {
+      "id": 1900,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1900,
+        "name": "zunko_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1900.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1900.json"
+    },
+    "1901": {
+      "id": 1901,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1901,
+        "name": "wakamo_spr_HD",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1901.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1901.json"
+    },
+    "1902": {
+      "id": 1902,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1902,
+        "name": "wakamo_mask_spr_HD",
+        "remark": "面具",
+        "type": "spr"
+      },
+      "detail_path": "spines/1902.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1902.json"
     }
   },
   "by_alias": {
@@ -27720,6 +28370,156 @@
     ],
     "NP0309_spr": [
       "1852"
+    ],
+    "hiyori_spr_HD": [
+      "1853"
+    ],
+    "hoshino_robber_spr_HD": [
+      "1854"
+    ],
+    "kaede_spr_HD": [
+      "1855"
+    ],
+    "kaitenranger_black_spr_HD": [
+      "1856"
+    ],
+    "kaitenranger_green_spr_HD": [
+      "1857"
+    ],
+    "kaitenranger_pink_spr_HD": [
+      "1858"
+    ],
+    "kaitenranger_red_spr_HD": [
+      "1859"
+    ],
+    "kaitenranger_yellow_spr_HD": [
+      "1860"
+    ],
+    "kayoko_spr_HD": [
+      "1861"
+    ],
+    "kazusa_spr_HD": [
+      "1862"
+    ],
+    "kirino_spr_HD": [
+      "1863"
+    ],
+    "koharu_spr_HD": [
+      "1864"
+    ],
+    "mai_spr_HD": [
+      "1865"
+    ],
+    "maki_spr_HD": [
+      "1866"
+    ],
+    "market_animal2_spr_HD": [
+      "1867"
+    ],
+    "mashiro_spr_HD": [
+      "1868"
+    ],
+    "mashiro_swimsuit_spr_HD": [
+      "1869"
+    ],
+    "mimori_spr_HD": [
+      "1870"
+    ],
+    "misaki_spr_HD": [
+      "1871"
+    ],
+    "moe_spr_HD": [
+      "1872"
+    ],
+    "momoi_spr_HD": [
+      "1873"
+    ],
+    "neru_spr_HD": [
+      "1874"
+    ],
+    "nodoka_spr_HD": [
+      "1875"
+    ],
+    "nonomi_robber_spr_HD": [
+      "1876"
+    ],
+    "peroro_spr_HD": [
+      "1877"
+    ],
+    "pmcdirector_spr_HD": [
+      "1878"
+    ],
+    "robot2_division_spr_HD": [
+      "1879"
+    ],
+    "royalguard_redwinter1_spr_HD": [
+      "1880"
+    ],
+    "sakurako_spr_HD": [
+      "1881"
+    ],
+    "saya_casual_spr_HD": [
+      "1882"
+    ],
+    "saya_spr_HD": [
+      "1883"
+    ],
+    "serika_newyear_spr_HD": [
+      "1884"
+    ],
+    "serika_robber_spr_HD": [
+      "1885"
+    ],
+    "serika_shibaseki_spr_HD": [
+      "1886"
+    ],
+    "serina_spr_HD": [
+      "1887"
+    ],
+    "shibasekimaster_spr_HD": [
+      "1888"
+    ],
+    "shigure_spr_HD": [
+      "1889"
+    ],
+    "shinon_spr_HD": [
+      "1890"
+    ],
+    "shiroko_ridingsuit_spr_HD": [
+      "1891"
+    ],
+    "shiroko_robber_spr_HD": [
+      "1892"
+    ],
+    "shizuko_spr_HD": [
+      "1893"
+    ],
+    "sukeban_HMG_spr_HD": [
+      "1894"
+    ],
+    "sukeban_SR_spr_HD": [
+      "1895"
+    ],
+    "utahaturret_spr_HD": [
+      "1896"
+    ],
+    "yoheki_normal1_spr_HD": [
+      "1897"
+    ],
+    "yoheki_redwinter1_spr_HD": [
+      "1898"
+    ],
+    "yuzu_spr_HD": [
+      "1899"
+    ],
+    "zunko_spr_HD": [
+      "1900"
+    ],
+    "wakamo_spr_HD": [
+      "1901"
+    ],
+    "wakamo_mask_spr_HD": [
+      "1902"
     ]
   },
   "by_normalized_alias": {
@@ -32912,6 +33712,156 @@
     ],
     "np0309_spr": [
       "1852"
+    ],
+    "hiyori_spr_hd": [
+      "1853"
+    ],
+    "hoshino_robber_spr_hd": [
+      "1854"
+    ],
+    "kaede_spr_hd": [
+      "1855"
+    ],
+    "kaitenranger_black_spr_hd": [
+      "1856"
+    ],
+    "kaitenranger_green_spr_hd": [
+      "1857"
+    ],
+    "kaitenranger_pink_spr_hd": [
+      "1858"
+    ],
+    "kaitenranger_red_spr_hd": [
+      "1859"
+    ],
+    "kaitenranger_yellow_spr_hd": [
+      "1860"
+    ],
+    "kayoko_spr_hd": [
+      "1861"
+    ],
+    "kazusa_spr_hd": [
+      "1862"
+    ],
+    "kirino_spr_hd": [
+      "1863"
+    ],
+    "koharu_spr_hd": [
+      "1864"
+    ],
+    "mai_spr_hd": [
+      "1865"
+    ],
+    "maki_spr_hd": [
+      "1866"
+    ],
+    "market_animal2_spr_hd": [
+      "1867"
+    ],
+    "mashiro_spr_hd": [
+      "1868"
+    ],
+    "mashiro_swimsuit_spr_hd": [
+      "1869"
+    ],
+    "mimori_spr_hd": [
+      "1870"
+    ],
+    "misaki_spr_hd": [
+      "1871"
+    ],
+    "moe_spr_hd": [
+      "1872"
+    ],
+    "momoi_spr_hd": [
+      "1873"
+    ],
+    "neru_spr_hd": [
+      "1874"
+    ],
+    "nodoka_spr_hd": [
+      "1875"
+    ],
+    "nonomi_robber_spr_hd": [
+      "1876"
+    ],
+    "peroro_spr_hd": [
+      "1877"
+    ],
+    "pmcdirector_spr_hd": [
+      "1878"
+    ],
+    "robot2_division_spr_hd": [
+      "1879"
+    ],
+    "royalguard_redwinter1_spr_hd": [
+      "1880"
+    ],
+    "sakurako_spr_hd": [
+      "1881"
+    ],
+    "saya_casual_spr_hd": [
+      "1882"
+    ],
+    "saya_spr_hd": [
+      "1883"
+    ],
+    "serika_newyear_spr_hd": [
+      "1884"
+    ],
+    "serika_robber_spr_hd": [
+      "1885"
+    ],
+    "serika_shibaseki_spr_hd": [
+      "1886"
+    ],
+    "serina_spr_hd": [
+      "1887"
+    ],
+    "shibasekimaster_spr_hd": [
+      "1888"
+    ],
+    "shigure_spr_hd": [
+      "1889"
+    ],
+    "shinon_spr_hd": [
+      "1890"
+    ],
+    "shiroko_ridingsuit_spr_hd": [
+      "1891"
+    ],
+    "shiroko_robber_spr_hd": [
+      "1892"
+    ],
+    "shizuko_spr_hd": [
+      "1893"
+    ],
+    "sukeban_hmg_spr_hd": [
+      "1894"
+    ],
+    "sukeban_sr_spr_hd": [
+      "1895"
+    ],
+    "utahaturret_spr_hd": [
+      "1896"
+    ],
+    "yoheki_normal1_spr_hd": [
+      "1897"
+    ],
+    "yoheki_redwinter1_spr_hd": [
+      "1898"
+    ],
+    "yuzu_spr_hd": [
+      "1899"
+    ],
+    "zunko_spr_hd": [
+      "1900"
+    ],
+    "wakamo_spr_hd": [
+      "1901"
+    ],
+    "wakamo_mask_spr_hd": [
+      "1902"
     ]
   }
 }
