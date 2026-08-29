@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-08-28T02:02:09Z",
+  "generated_at": "2026-08-29T01:28:12Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 505,
-  "alias_count": 5748,
-  "normalized_alias_count": 3945,
+  "alias_count": 5746,
+  "normalized_alias_count": 3944,
   "by_id": {
     "76": {
       "id": 76,
@@ -8013,6 +8013,31 @@
       "profile_path": "students/profiles/627.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/627.json"
     },
+    "631": {
+      "id": 631,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 631,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "千石",
+        "given_name": "三月",
+        "family_name_jp": "千石",
+        "given_name_jp": "ミツキ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%8D%83%E7%9F%B3%20%E7%BE%8E%E6%9C%88/original/Mitsuki.png",
+        "school": 15,
+        "main_relation": 0
+      },
+      "detail_path": "students/631.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/631.json",
+      "profile_path": "students/profiles/631.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/631.json"
+    },
     "628": {
       "id": 628,
       "source_path": "students/index.json",
@@ -8213,31 +8238,6 @@
       "profile_path": "students/profiles/621.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/621.json"
     },
-    "631": {
-      "id": 631,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 631,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "千石",
-        "given_name": "美月",
-        "family_name_jp": "千石",
-        "given_name_jp": "ミツキ",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%8D%83%E7%9F%B3%20%E7%BE%8E%E6%9C%88/original/Mitsuki.png",
-        "school": 15,
-        "main_relation": 0
-      },
-      "detail_path": "students/631.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/631.json",
-      "profile_path": "students/profiles/631.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/631.json"
-    },
     "635": {
       "id": 635,
       "source_path": "students/index.json",
@@ -8352,7 +8352,7 @@
         "given_name": "明美",
         "family_name_jp": "栗浜",
         "given_name_jp": "アケミ",
-        "family_name_cn": "栗浜",
+        "family_name_cn": "栗滨",
         "given_name_cn": "明美",
         "avatar": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%BB%A8%20%E6%98%8E%E7%BE%8E/original/%E5%A7%90%E8%B4%B5.png",
         "school": 17,
@@ -29249,6 +29249,24 @@
     "ナナミ": [
       "627"
     ],
+    "千石三月": [
+      "631"
+    ],
+    "千石 三月": [
+      "631"
+    ],
+    "三月": [
+      "631"
+    ],
+    "千石ミツキ": [
+      "631"
+    ],
+    "千石 ミツキ": [
+      "631"
+    ],
+    "ミツキ": [
+      "631"
+    ],
     "海路凑": [
       "628"
     ],
@@ -29368,24 +29386,6 @@
     ],
     "コトネ": [
       "621"
-    ],
-    "千石美月": [
-      "631"
-    ],
-    "千石 美月": [
-      "631"
-    ],
-    "美月": [
-      "631"
-    ],
-    "千石ミツキ": [
-      "631"
-    ],
-    "千石 ミツキ": [
-      "631"
-    ],
-    "ミツキ": [
-      "631"
     ],
     "透": [
       "635"
@@ -29508,12 +29508,6 @@
       "385"
     ],
     "明美": [
-      "385"
-    ],
-    "栗浜明美": [
-      "385"
-    ],
-    "栗浜 明美": [
       "385"
     ],
     "栗浜アケミ": [
@@ -41971,6 +41965,18 @@
     "ナナミ": [
       "627"
     ],
+    "千石三月": [
+      "631"
+    ],
+    "三月": [
+      "631"
+    ],
+    "千石ミツキ": [
+      "631"
+    ],
+    "ミツキ": [
+      "631"
+    ],
     "海路凑": [
       "628"
     ],
@@ -42054,18 +42060,6 @@
     ],
     "コトネ": [
       "621"
-    ],
-    "千石美月": [
-      "631"
-    ],
-    "美月": [
-      "631"
-    ],
-    "千石ミツキ": [
-      "631"
-    ],
-    "ミツキ": [
-      "631"
     ],
     "透": [
       "635"
@@ -42152,9 +42146,6 @@
       "385"
     ],
     "明美": [
-      "385"
-    ],
-    "栗浜明美": [
       "385"
     ],
     "栗浜アケミ": [
