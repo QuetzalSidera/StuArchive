@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1621,
+        "line_type": "CN",
+        "title": "战术对抗赛BUG修复",
+        "image": "https://static.kivo.wiki/images/timeline/iqYP0DCjxMIa3jUcaqTIVB2VDxQSoLdq.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈战术对抗赛中出现“部分成员释放技能时位移方向异常”、“胜负结果显示不一致”的问题，在得知该情况后我们已紧急开展核实、修复计划。 经核实，“胜负",
+        "type": "Maintenance",
+        "url": "b23.tv/RvjLq21",
+        "start_time": 1699546200,
+        "end_time": 1699549800
+      },
       {
         "id": 1939,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1720682331542085774",
         "start_time": 1699448934,
         "end_time": 1699448934
-      },
-      {
-        "id": 929,
-        "line_type": "JP",
-        "title": "例行维护82",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 ただいま、メンテナンスが終了しました! お礼として下記特別手当をメールにて配布いたします。 メンテ協力のお礼 ・青輝石 × 720 ▼詳細 https://bluearchive",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1722162078700679398",
-        "start_time": 1699448843,
-        "end_time": 1699448843
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129285,
+  "time": 1788223851,
   "version": "1.0.0-beta.43"
 }

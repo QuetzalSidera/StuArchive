@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 583,
+        "line_type": "JP",
+        "title": "例行维护62",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/10(金) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1623562413022019586",
+        "start_time": 1675998000,
+        "end_time": 1676019600
+      },
       {
         "id": 579,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "/twitter.com/Blue_ArchiveJP/status/1621705529767907328",
         "start_time": 1675483200,
         "end_time": 1675483200
-      },
-      {
-        "id": 577,
-        "line_type": "JP",
-        "title": "冰雪节参展",
-        "image": "https://static.kivo.wiki/images/timeline/gEWwmq1FZGuOUBdznpPKSQpnia9U4HAd.jpg",
-        "body_summary": "【さっぽろ雪まつり】 先生！ 今日から「第73回さっぽろ雪まつり」が開催されますよ！ 会場にはアロナの雪像が登場する他、 ここでしか聞けない特別なナレーションや 会場限定デザインの広告もあるみたいです",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1621690077977153536",
-        "start_time": 1675479600,
-        "end_time": 1675479600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129358,
+  "time": 1788223936,
   "version": "1.0.0-beta.43"
 }

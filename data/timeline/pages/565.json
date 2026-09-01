@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 149,
+        "line_type": "JP",
+        "title": "例行维护20",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/29(木) 12:00 〜 20:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1420296102255894534",
+        "start_time": 1627531200,
+        "end_time": 1627560000
+      },
       {
         "id": 966,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1413709824919957505?t=imQ90qd1kNB7UHWtb3R-WQ&s=19",
         "start_time": 1626343200,
         "end_time": 1626883199
-      },
-      {
-        "id": 3176,
-        "line_type": "JP",
-        "title": "任天堂红白机与世嘉SG-1000、SC-3000发售纪念日贺图",
-        "image": "https://static.kivo.wiki/images/timeline/pgY8ahzRh9fN0Xrl9xPqY8JONipfiIx1.jpg",
-        "body_summary": "【クイズ】 ゲーム開発部の方々が盛り上がっていたので調べてみたところ、今日はかつて有名なゲーム機が発売された記念日だそうです。 この画像は管理事務所の方から送られてきたのですが、テンションが上がってユ",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1415552229281452039",
-        "start_time": 1626328920,
-        "end_time": 1626328920
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129450,
+  "time": 1788224045,
   "version": "1.0.0-beta.43"
 }

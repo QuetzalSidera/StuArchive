@@ -255,14 +255,14 @@
       },
       {
         "description": "ch0336_eventmission_login_1",
-        "category": "lobby",
+        "category": "event",
         "text": "没问题的……我没问题的……！",
         "text_original": "大丈夫です……わたしは大丈夫ですから……！",
         "file": "https://static.kivo.wiki/voices/students/%E8%8A%B1%E5%86%88%20%E6%9F%9A%E5%AD%90/%E4%B8%B4%E6%88%98/jp/ch0336_eventmission_login_1.ogg"
       },
       {
         "description": "ch0336_eventmission_login_2",
-        "category": "lobby",
+        "category": "event",
         "text": "不能逃跑，不能逃跑……不能，逃跑……！",
         "text_original": "逃げちゃダメ、逃げちゃダメ……逃げちゃ、ダメ……！",
         "file": "https://static.kivo.wiki/voices/students/%E8%8A%B1%E5%86%88%20%E6%9F%9A%E5%AD%90/%E4%B8%B4%E6%88%98/jp/ch0336_eventmission_login_2.ogg"
@@ -1648,15 +1648,15 @@
               "description": "无"
             },
             {
-              "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
-              "description": "维护延长变为维护延长+"
+              "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+              "description": "「维护延长」升级为「维护延长+」。"
             },
             {
-              "title": "固有武器最大等級 Lv.40 → Lv.50 / 地形适应性强化 街道地形适应性 S → SS",
-              "description": "在街道地形造成1.3倍伤害，处于掩体掩护状态时掩护成功率增加75%，攻击时无视掩体概率增加75%。"
+              "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 街道适应性 S -> SS",
+              "description": "在街道地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
             },
             {
-              "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 COST上限增加",
+              "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 COST上限增加",
               "description": "学生在队伍内时，COST上限增加0.5。"
             }
           ],
@@ -1724,10 +1724,10 @@
     "supplementary_uuid": "d059f0f7-8be8-4ebf-9fb1-8bb81e862b4d",
     "supplementary_declare_uuid": "76c26947-148a-436b-b091-3213469079b5",
     "created_at": 1768741764,
-    "updated_at": 1782748321
+    "updated_at": 1788192872
   },
   "message": "OK",
   "success": true,
-  "time": 1788122477,
+  "time": 1788215698,
   "version": "1.0.0-beta.43"
 }

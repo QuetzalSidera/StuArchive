@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-30T20:36:13Z",
+  "generated_at": "2026-08-31T22:28:56Z",
   "id": 572,
   "display_name": "明星 日鞠（武装）",
   "names": {
@@ -475,16 +475,16 @@
           "description": ""
         },
         {
-          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
-          "description": "「在冰雪中叹息的高洁孤花」升级为「在冰雪中叹息的高洁孤花+」"
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+          "description": "「在冰雪中叹息的高洁孤花」升级为「在冰雪中叹息的高洁孤花+」。"
         },
         {
-          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 街道适应性 S -> SS",
-          "description": "在街道地形造成1.3倍伤害。在掩体内时掩护成功率+75%。 攻击时绕过掩体概率增加75%"
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室内适应性 S -> SS",
+          "description": "在室内地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
         },
         {
-          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 COST上限增加",
-          "description": "学生在队伍内时，COST上限增加0.5"
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 COST上限增加",
+          "description": "学生在队伍内时，COST上限增加0.5。"
         }
       ],
       "skill": [
@@ -729,111 +729,6 @@
     },
     "cultivate_materials": [
       {
-        "id": 368,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/RxEvQvTL5yHF7Zav4yPHviLxxWsit57m.png",
-        "rarity": 1,
-        "name": "圆盘坠饰碎片",
-        "description": "圆盘坠饰的破裂碎片。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/368.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/368.json"
-      },
-      {
-        "id": 369,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ak5kuECqMRjiGUvOT4T2sYoLXpG7aT1X.png",
-        "rarity": 2,
-        "name": "破损的圆盘坠饰",
-        "description": "已破损到无法看出形体的圆盘坠饰。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/369.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/369.json"
-      },
-      {
-        "id": 370,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/uGgpPGDFJa7tK6wnOiAtHFyJcxwRGvDt.png",
-        "rarity": 3,
-        "name": "修好的圆盘坠饰",
-        "description": "组合碎片而修好的圆盘坠饰。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/370.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/370.json"
-      },
-      {
-        "id": 371,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/bjaycFEQTdprhH0zqYSjo3Wseo9sSgdY.png",
-        "rarity": 4,
-        "name": "完整的圆盘坠饰",
-        "description": "完好状态的圆盘坠饰。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/371.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/371.json"
-      },
-      {
-        "id": 372,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/N10arDuO1tNfHkC2T5wAJWp4aeBixRhf.png",
-        "rarity": 1,
-        "name": "亚特兰蒂斯徽章碎片",
-        "description": "亚特兰蒂斯徽章的破裂碎片。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/372.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/372.json"
-      },
-      {
-        "id": 373,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/gmlZSuFa8sZd1arvSqpuobogIQlSh9SQ.png",
-        "rarity": 2,
-        "name": "破损的亚特兰蒂斯徽章",
-        "description": "已破损到无法看出形体的亚特兰蒂斯徽章。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/373.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/373.json"
-      },
-      {
-        "id": 374,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CrUhyN3huYnShHihQsPM2vvKxIg9THyq.png",
-        "rarity": 3,
-        "name": "磨耗的亚特兰蒂斯徽章",
-        "description": "坏掉而无法动弹的亚特兰蒂斯徽章。可用来进行各种制造及强化",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/374.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/374.json"
-      },
-      {
         "id": 2,
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/qvolYaW24A8ZdJfbpLfOwtlxTxxzNrke.png",
@@ -952,6 +847,111 @@
         },
         "detail_path": "items/9.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/9.json"
+      },
+      {
+        "id": 364,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T6LXgHtBVtpzzuEITZwgf6jX4WZKcTcp.png",
+        "rarity": 1,
+        "name": "长发娃娃碎片",
+        "description": "长发娃娃的部分碎片。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/364.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/364.json"
+      },
+      {
+        "id": 365,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Ekl2EGoitOD5eF70ZHxRjGJLWg63tNN2.png",
+        "rarity": 2,
+        "name": "破损的长发娃娃",
+        "description": "严重破损、外观难辨的长发娃娃。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/365.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/365.json"
+      },
+      {
+        "id": 366,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/inWTUs1XKvsJi6lhUfHBwE7gCHD6MAhV.png",
+        "rarity": 3,
+        "name": "修复的长发娃娃",
+        "description": "拼凑碎片修复的长发娃娃。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/366.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/366.json"
+      },
+      {
+        "id": 367,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/kPSmm9gIXTa3GZjIEi6zWB8nO4XKYque.png",
+        "rarity": 4,
+        "name": "完整的长发娃娃",
+        "description": "状态完好的长发娃娃。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/367.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/367.json"
+      },
+      {
+        "id": 419,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/kExnyIZoWTDCzQwYyfA885Mu5A3y7Fxd.png",
+        "rarity": 1,
+        "name": "罗洪特抄本书页",
+        "description": "从书上撕下的罗洪特抄本的书页。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/419.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/419.json"
+      },
+      {
+        "id": 420,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8ukHDLWvQWyiNwoUuHaL9vDbq8psFQK0.png",
+        "rarity": 2,
+        "name": "毁损的罗洪特抄本",
+        "description": "破烂不堪，被涂毁损的罗洪特抄本。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/420.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/420.json"
+      },
+      {
+        "id": 421,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6y7vJiLnQ03xbkXEWXSoXlMmFIUW4oGM.png",
+        "rarity": 3,
+        "name": "编辑过的罗洪特抄本",
+        "description": "在毁损的部分加上注释的编辑过的罗洪特抄本。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/421.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/421.json"
       },
       {
         "id": 19,
@@ -2873,8 +2873,8 @@
   "source": {
     "detail_path": "students/572.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/572.json",
-    "upstream_time": 1788122459,
-    "updated_at": 1780406531,
+    "upstream_time": 1788215676,
+    "updated_at": 1788192848,
     "created_at": 1768718362
   }
 }

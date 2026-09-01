@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4119,
+        "line_type": "CN",
+        "title": "大决战 白&黑 • 室内战",
+        "image": "https://static.kivo.wiki/images/timeline/qmxzSiltLDuQ7Gaj0BtpGg3AUHFtLU0l.png",
+        "body_summary": "许久之前因财政困难而停止营业的游乐园【斯兰匹亚】发生了原因不明的诡异现象。 原本已停止运行的娱乐玩偶和各种娱乐设备竟在夜晚自行启动并开始袭击市民。 娱乐玩偶白和黑自行启动的原因尚未查明，但至少可以明确",
+        "type": "BigRaid",
+        "url": "bluearchive-cn.com/news/1447",
+        "start_time": 1750917600,
+        "end_time": 1751486399
+      },
       {
         "id": 4166,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1937058187125072200",
         "start_time": 1750795200,
         "end_time": 1751399999
-      },
-      {
-        "id": 4140,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍 #30",
-        "image": "https://static.kivo.wiki/images/timeline/shKbxHbd71swbyQhsk3D6U60y94PKCcB.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 6/24 (Tue), Lesson reward will be doubled! Don't miss out on",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1936320682339844278",
-        "start_time": 1750746094,
-        "end_time": 1751350894
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129053,
+  "time": 1788223577,
   "version": "1.0.0-beta.43"
 }

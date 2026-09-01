@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1611,
+        "line_type": "JP",
+        "title": "例行维护84",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/6(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1731916358609449160",
+        "start_time": 1701831600,
+        "end_time": 1701853200
+      },
       {
         "id": 1910,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6182962096/Nu4fx5Awy",
         "start_time": 1701403203,
         "end_time": 1706702403
-      },
-      {
-        "id": 1940,
-        "line_type": "CN",
-        "title": "特别委托2倍4",
-        "image": "https://static.kivo.wiki/images/timeline/FO7cfOuGItHaVD6r4Ia1JloPSqoCxpmf.jpg",
-        "body_summary": "【特别委托】道具掉落量2倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【特别委托】道具掉落量2倍 ■ 活动时间 11月30日 04:00 ",
-        "type": "Double",
-        "url": "weibo.com/6011443154/Nuwx0uJCP",
-        "start_time": 1701345117,
-        "end_time": 1638877917
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129277,
+  "time": 1788223841,
   "version": "1.0.0-beta.43"
 }

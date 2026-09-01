@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 176,
+        "line_type": "JP",
+        "title": "市街地戦・ヒエロニムス2",
+        "image": "https://static.kivo.wiki/images/timeline/h3OiRJvJmLDJGi5hKsW3rY8zhQ72EYem.jpg",
+        "body_summary": "【総力戦予告】 先生、大変です！ 先日退けたはずの「市街地戦・ヒエロニムス」が、9月23日(木)に緊急襲来の情報が入りました！ 今回短期決戦のため、報酬の受け取り期間はいつもより短いので、集計後の取り",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1439439377558503425",
+        "start_time": 1632391200,
+        "end_time": 1632671999
+      },
       {
         "id": 180,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1435792602444427271",
         "start_time": 1631160000,
         "end_time": 1631181600
-      },
-      {
-        "id": 170,
-        "line_type": "JP",
-        "title": "特别依赖2倍#8",
-        "image": "https://static.kivo.wiki/images/timeline/b4rbrhITdutPkW1FSWMojCExOhVIBlLu.jpg",
-        "body_summary": "【キャンペーン予告】 「特別依頼」において「レポート」と「クレジット」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 2021/09/9(木)04:00 ~ 2021/09/",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1434788753680191494",
-        "start_time": 1631131200,
-        "end_time": 1631735999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129445,
+  "time": 1788224038,
   "version": "1.0.0-beta.43"
 }

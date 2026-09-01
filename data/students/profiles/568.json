@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-30T20:36:13Z",
+  "generated_at": "2026-08-31T22:28:56Z",
   "id": 568,
   "display_name": "大野 月咏（礼服）",
   "names": {
     "default": "大野 月咏",
     "cn": "大野 月咏",
     "jp": "大野 ツクヨ",
-    "en": "Ōno Tsukuyo",
+    "en": "Ono Tsukuyo",
     "kr": "오노 츠쿠요",
     "zh_tw": "大野 月夜",
     "family_name": "大野",
@@ -17,7 +17,7 @@
     "given_name_cn": "月咏",
     "family_name_jp": "大野",
     "given_name_jp": "ツクヨ",
-    "family_name_en": "Ōno",
+    "family_name_en": "Ono",
     "given_name_en": "Tsukuyo",
     "family_name_kr": "오노",
     "given_name_kr": "츠쿠요",
@@ -360,16 +360,16 @@
           "description": "无"
         },
         {
-          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
           "description": "「特训的成果」升级为「特训的成果+」"
         },
         {
-          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 室外适应性 S -> SS",
-          "description": "在室外地形造成1.3倍伤害。 在掩体内时掩护成功率+75%。 攻击时绕过掩体概率增加75%。"
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室外适应性 S -> SS",
+          "description": "在室外地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
         },
         {
-          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 神秘克制伤害增加",
-          "description": "攻击类型为神秘的克制伤害增加10%。"
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 贯穿克制伤害增加",
+          "description": "攻击类型为贯穿的克制伤害增加10%。"
         }
       ],
       "skill": [
@@ -2438,8 +2438,8 @@
   "source": {
     "detail_path": "students/568.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/568.json",
-    "upstream_time": 1788122598,
-    "updated_at": 1780402823,
+    "upstream_time": 1788215840,
+    "updated_at": 1788189632,
     "created_at": 1766229920
   }
 }

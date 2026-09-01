@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-08-30T20:36:13Z",
+  "generated_at": "2026-08-31T22:28:56Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 581,
   "synced_pages": 581,
-  "total_items": 5801,
+  "total_items": 5802,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -26,6 +26,17 @@
       "url": "weibo.com/6011443154/RfLjguL9J?pagetype=detail",
       "start_time": 1788415200,
       "end_time": 1788415200
+    },
+    {
+      "id": 5956,
+      "line_type": "JP",
+      "title": "任务Normal2倍#60",
+      "image": "https://static.kivo.wiki/images/timeline/P0esPB9wvkVZ6dUS5EO27IF5P4YAZutf.jpg",
+      "body_summary": "【キャンペーン予告】 2026年9月2日(水)4:00より、「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年9月2日(水)4:00 ～ 202",
+      "type": "Double",
+      "url": "x.com/Blue_ArchiveJP/status/2094259382062362664",
+      "start_time": 1788292800,
+      "end_time": 1788638399
     },
     {
       "id": 5948,
@@ -67894,15 +67905,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=581",
       "path": "timeline/pages/581.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/581.json",
-      "item_count": 1
+      "item_count": 2
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5770,
-    "normalized_alias_count": 5762,
-    "total_items": 5801
+    "alias_count": 5771,
+    "normalized_alias_count": 5763,
+    "total_items": 5802
   }
 }

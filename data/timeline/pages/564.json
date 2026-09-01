@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 970,
+        "line_type": "JP",
+        "title": "等级上限提升至73",
+        "image": "https://static.kivo.wiki/images/timeline/izHawn5mbOTjoNKGoSUtCBa4rk8KXoVD.jpg",
+        "body_summary": "【新情報 ⑫】 先生のレベル上限開放が決定しました！ 7月29日メンテナンス後より現状レベル上限が70から73までに引き上がります！ 先生のレベル上限開放で生徒さんもより強くなりますので、ぜひこの機会",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1418914141859893250",
+        "start_time": 1627560027,
+        "end_time": 1627560027
+      },
       {
         "id": 1033,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1418913199810826253",
         "start_time": 1627549207,
         "end_time": 1628017207
-      },
-      {
-        "id": 149,
-        "line_type": "JP",
-        "title": "例行维护20",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/29(木) 12:00 〜 20:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1420296102255894534",
-        "start_time": 1627531200,
-        "end_time": 1627560000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129449,
+  "time": 1788224043,
   "version": "1.0.0-beta.43"
 }

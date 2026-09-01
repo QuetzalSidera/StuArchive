@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-08-30T20:36:13Z",
+  "generated_at": "2026-08-31T22:28:56Z",
   "id": 574,
   "display_name": "天童 爱丽丝（武装）",
   "names": {
@@ -147,7 +147,7 @@
   "assets": {
     "avatar": "https://static.kivo.wiki/images/students/%E5%A4%A9%E7%AB%A5%20%E7%88%B1%E4%B8%BD%E4%B8%9D/%E4%B8%B4%E6%88%98/Student_Portrait_CH0334_Collection.png",
     "sd_model_image": "https://static.kivo.wiki/images/students/%E5%A4%A9%E7%AB%A5%20%E7%88%B1%E4%B8%BD%E4%B8%9D/%E4%B8%B4%E6%88%98/EnemyInfo_CH0334.png",
-    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E5%A4%A9%E7%AB%A5%20%E7%88%B1%E4%B8%BD%E4%B8%9D/%E4%B8%B4%E6%88%98/aris.png",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E5%A4%A9%E7%AB%A5%20%E7%88%B1%E4%B8%BD%E4%B8%9D/%E4%B8%B4%E6%88%98/CH0334_home_Idle_01_1.4544999999997668.jpg",
     "voice_play_icon": "",
     "voice_pause_icon": "",
     "spine_ids": [
@@ -472,15 +472,15 @@
           "description": "无"
         },
         {
-          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
-          "description": "「决不放弃的心」升级为「决不放弃的心+」"
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+          "description": "「决不放弃的心」升级为「决不放弃的心+」。"
         },
         {
-          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 街道适应性 S -> SS",
-          "description": "在街道地形造成1.3倍伤害。在掩体内时掩护成功率+75%。 攻击时绕过掩体概率增加75%。"
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 街道适应性 S -> SS",
+          "description": "在街道地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
         },
         {
-          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 神秘克制伤害增加",
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 神秘克制伤害增加",
           "description": "攻击类型为神秘的克制伤害增加10%。"
         }
       ],
@@ -3278,8 +3278,8 @@
   "source": {
     "detail_path": "students/574.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/574.json",
-    "upstream_time": 1788122488,
-    "updated_at": 1785426345,
+    "upstream_time": 1788215391,
+    "updated_at": 1788192862,
     "created_at": 1768719488
   }
 }

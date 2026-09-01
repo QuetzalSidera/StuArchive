@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 240,
+        "line_type": "JP",
+        "title": "圣诞转推活动",
+        "image": "",
+        "body_summary": "【#クリスマスボックス 第1弾】 先生！ チェリノさんとトモエさんがクリスマスプレゼントを用意してくれたみたいです！🎄 @BlueArchiveJP をフォロー&RTすると、リプライで抽選結果がすぐ届",
+        "type": "WebEvent",
+        "url": "twitter.com/i/status/1467871457661227008",
+        "start_time": 1638376200,
+        "end_time": 1640361599
+      },
       {
         "id": 216,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1464173333235355677",
         "start_time": 1638176400,
         "end_time": 1639450800
-      },
-      {
-        "id": 856,
-        "line_type": "Globle",
-        "title": "国际服卡池 泉奈，静子",
-        "image": "https://static.kivo.wiki/images/timeline/mquuPwLKt6JWwkeny6JnoZFs2v9oFsCQ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 11/29 (Mon)! Target Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1464172078337347592",
-        "start_time": 1638176400,
-        "end_time": 1639450800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129435,
+  "time": 1788224026,
   "version": "1.0.0-beta.43"
 }

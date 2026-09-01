@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 128,
+        "line_type": "JP",
+        "title": "炸服10",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 現在発生している接続問題の修正を行うため、23:10より緊急メンテナンスを実施いたします。 ▼メンテナンス期間 5/12(水) 23:10 〜 5/13（木）8:00 なお、本件",
+        "type": "Maintenance",
+        "url": "x.com/blue_archivejp/status/1392479480799657986?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1620785713,
+        "end_time": 1620872113
+      },
       {
         "id": 126,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1386875729896345602?s=20",
         "start_time": 1619701259,
         "end_time": 1619701259
-      },
-      {
-        "id": 95,
-        "line_type": "JP",
-        "title": "追加月三、新任教师礼包",
-        "image": "",
-        "body_summary": "【新情報③】 あ、もう一枚書類がありました。 なるほど、どうやら4月29日から、購入できる商品が増えるみたいですね！ 新任の先生用のちょっとお手軽なパッケージと、月に何回か割引のパッケージを買えるよう",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1385505418202386433?s=20",
-        "start_time": 1619701174,
-        "end_time": 1619701174
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129455,
+  "time": 1788224051,
   "version": "1.0.0-beta.43"
 }

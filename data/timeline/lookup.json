@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-30T20:36:13Z",
+  "generated_at": "2026-08-31T22:28:56Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5801,
-  "alias_count": 5770,
-  "normalized_alias_count": 5762,
+  "total_items": 5802,
+  "alias_count": 5771,
+  "normalized_alias_count": 5763,
   "by_id": {
     "5940": {
       "id": 5940,
@@ -30,6 +30,24 @@
       },
       "detail_path": "timeline/5940.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5940.json"
+    },
+    "5956": {
+      "id": 5956,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5956,
+        "line_type": "JP",
+        "title": "任务Normal2倍#60",
+        "image": "https://static.kivo.wiki/images/timeline/P0esPB9wvkVZ6dUS5EO27IF5P4YAZutf.jpg",
+        "body_summary": "【キャンペーン予告】 2026年9月2日(水)4:00より、「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年9月2日(水)4:00 ～ 202",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2094259382062362664",
+        "start_time": 1788292800,
+        "end_time": 1788638399
+      },
+      "detail_path": "timeline/5956.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5956.json"
     },
     "5948": {
       "id": 5948,
@@ -104436,6 +104454,9 @@
     "纱织(礼服)家具互动更新": [
       "5940"
     ],
+    "任务Normal2倍#60": [
+      "5956"
+    ],
     "国际服联合火力演习#51": [
       "5948"
     ],
@@ -121778,6 +121799,9 @@
   "by_normalized_alias": {
     "纱织(礼服)家具互动更新": [
       "5940"
+    ],
+    "任务normal2倍#60": [
+      "5956"
     ],
     "国际服联合火力演习#51": [
       "5948"

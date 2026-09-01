@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 718,
+        "line_type": "JP",
+        "title": "例行维护72（延长）",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/5(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1676108656444837888",
+        "start_time": 1688526000,
+        "end_time": 1688549280
+      },
       {
         "id": 713,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/N7oMOEmSc",
         "start_time": 1688016641,
         "end_time": 1688022041
-      },
-      {
-        "id": 1457,
-        "line_type": "Globle",
-        "title": "国际服加载画面新增插图",
-        "image": "https://static.kivo.wiki/images/timeline/DI5mjsz7FHjOsIGOXbaomkz3tSMt1HZa.jpg",
-        "body_summary": "[New Loading Illustrations] Have you noticed the new illustrations on the loading screen, Sensei? We",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1673964454172565504",
-        "start_time": 1687939252,
-        "end_time": 1687939252
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129328,
+  "time": 1788223901,
   "version": "1.0.0-beta.43"
 }

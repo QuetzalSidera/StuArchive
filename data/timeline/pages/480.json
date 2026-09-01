@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 92,
       "ContentImprovements": 421,
-      "Double": 964,
+      "Double": 965,
       "Event": 522,
       "Gacha": 825,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 550,
+        "line_type": "JP",
+        "title": "官网活动：座位表生成",
+        "image": "https://static.kivo.wiki/images/timeline/z9kjd4BopOnBQc4re5NyFOOWlAGJJlmK.jpg",
+        "body_summary": "【#ブルアカMyClassroom】 先生！ 今までたくさんの生徒さんにお会いしましたね！ 今後先生がいきなりクラスの担任を任せられることもあるかと思いますので、今から座席表を考えておきましょう！ 是",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1616271502361645059",
+        "start_time": 1674187680,
+        "end_time": 1674187680
+      },
       {
         "id": 1305,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1614910406564405251",
         "start_time": 1673942429,
         "end_time": 1674503969
-      },
-      {
-        "id": 1300,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍13",
-        "image": "https://static.kivo.wiki/images/timeline/Bku8xOPfoKcGO8tG39T4NywOsmb9Hxhx.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 1/17 (Tue), the amount of rewards dropped in Bounty will be doub",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1614517871526248449",
-        "start_time": 1673942404,
-        "end_time": 1674500344
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788129365,
+  "time": 1788223943,
   "version": "1.0.0-beta.43"
 }

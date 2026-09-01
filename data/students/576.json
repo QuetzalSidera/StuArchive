@@ -379,21 +379,21 @@
       },
       {
         "description": "ch0337_eventmission_login_1_radio",
-        "category": "lobby",
+        "category": "event",
         "text": "呀吼~老师，听得见吗？",
         "text_original": "やっほー先生、聞こえる？",
         "file": "https://static.kivo.wiki/voices/students/%20%E5%92%8C%E6%B3%89%E5%85%83%20%E8%89%BE%E7%B1%B3/%E4%B8%B4%E6%88%98/jp/ch0337_eventmission_login_1_radio.ogg"
       },
       {
         "description": "ch0337_eventmission_login_2_1_radio",
-        "category": "lobby",
+        "category": "event",
         "text": "因为是紧急状况，所以只能通讯联络。",
         "text_original": "緊急事態だからね、通信で繋げてるの。",
         "file": "https://static.kivo.wiki/voices/students/%20%E5%92%8C%E6%B3%89%E5%85%83%20%E8%89%BE%E7%B1%B3/%E4%B8%B4%E6%88%98/jp/ch0337_eventmission_login_2_1_radio.ogg"
       },
       {
         "description": "ch0337_eventmission_login_2_2_radio",
-        "category": "lobby",
+        "category": "event",
         "text": "不过就算隔着通讯线路，能看到老师的脸真让人高兴。",
         "text_original": "回線越しでも、顔が見れて嬉しいな。",
         "file": "https://static.kivo.wiki/voices/students/%20%E5%92%8C%E6%B3%89%E5%85%83%20%E8%89%BE%E7%B1%B3/%E4%B8%B4%E6%88%98/jp/ch0337_eventmission_login_2_2_radio.ogg"
@@ -2125,15 +2125,15 @@
               "description": ""
             },
             {
-              "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
-              "description": "「先制攻击」升级为「先制攻击+」"
+              "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+              "description": "「先制攻击」升级为「先制攻击+」。"
             },
             {
-              "title": "固有武器最大等级 Lv.30 → Lv.40 / 地形适应性强化 街道适应性 S → SS",
-              "description": "在街道地形造成1.3倍伤害。在掩体内时掩护成功率+75%。 攻击时绕过掩体概率增加75%。"
+              "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 街道适应性 S -> SS",
+              "description": "在街道地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
             },
             {
-              "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 爆发克制伤害增加",
+              "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 爆发克制伤害增加",
               "description": "攻击类型为爆发的克制伤害增加10%。"
             }
           ],
@@ -2201,10 +2201,10 @@
     "supplementary_uuid": "bf838da0-7c27-4502-8047-61393ec52596",
     "supplementary_declare_uuid": "d9c7cbd0-02d9-45a7-8034-2fb654279d19",
     "created_at": 1768741140,
-    "updated_at": 1788072445
+    "updated_at": 1788192878
   },
   "message": "OK",
   "success": true,
-  "time": 1788122502,
+  "time": 1788215727,
   "version": "1.0.0-beta.43"
 }
