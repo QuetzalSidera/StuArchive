@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 865,
+        "line_type": "Globle",
+        "title": "国际服活动「Cherry Blossom Festival Commotion」PV公开",
+        "image": "",
+        "body_summary": "[Event Notice] \"Cherry Blossom Festival Commotion\" has begun! Don't miss the chance to enjoy interes",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1465251266813067272",
+        "start_time": 1638178080,
+        "end_time": 1638178080
+      },
+      {
+        "id": 864,
+        "line_type": "Globle",
+        "title": "国际服樱花祭青辉石礼物",
+        "image": "https://static.kivo.wiki/images/timeline/vLmxisMfVILv2elRcFUTIPI229QjACHx.jpg",
+        "body_summary": "[Cherry Blossom Festival Commotion Celebration Gift] Sensei, Blue Archive's first event, \"Cherry Blo",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1465247974758305801",
+        "start_time": 1638177300,
+        "end_time": 1638177300
+      },
+      {
+        "id": 857,
+        "line_type": "Globle",
+        "title": "国际服卡池 晴奈",
+        "image": "https://static.kivo.wiki/images/timeline/nnCYY4AFqzcXhIkH7WG91d3uKSa4Tpbx.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview 2] A new Pick-Up Recruitment will begin on 11/29 (Mon)! Target Pick-Up ",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1464173333235355677",
+        "start_time": 1638176400,
+        "end_time": 1639450800
+      },
       {
         "id": 856,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1461545277375270913",
         "start_time": 1637728200,
         "end_time": 1638028799
-      },
-      {
-        "id": 211,
-        "line_type": "JP",
-        "title": "特别依赖2倍#12",
-        "image": "https://static.kivo.wiki/images/timeline/lYTbPfLqjxaIygSjtKboZNbqnINl1iyQ.jpg",
-        "body_summary": "【キャンペーン予告】 「特別依頼」において「レポート」と「クレジット」のドロップ量が2倍になるキャンペーンがまもなく開催されます...！ ▼開催期間 2021/11/24(水)04:00 ~ 2021",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1461907439096320008",
-        "start_time": 1637697600,
-        "end_time": 1638215999
-      },
-      {
-        "id": 1900,
-        "line_type": "Globle",
-        "title": "国际服彩奈小编第一期",
-        "image": "https://static.kivo.wiki/images/timeline/4rfgu7m3asmrdG0ajYgdoC2xTnPT4Eu1.png",
-        "body_summary": "▎#蔚藍檔案 ​ L2D彩奈來了♪ ​ 小編彩奈的主要工作​ 除了跟老師互動、更新情報、提供建議​ 還能解決頭痛失眠、手腳冰冷...(有效嗎?不曉得)​ ​ 老師們還希望新增什麼節目內容呢?​ 留言告",
-        "type": "OutsideGames",
-        "url": "www.facebook.com/TW.BlueArchive/videos/639621247032997/",
-        "start_time": 1637683225,
-        "end_time": 1637683225
-      },
-      {
-        "id": 863,
-        "line_type": "Globle",
-        "title": "国际服OST「Target For Love」完整版公开",
-        "image": "",
-        "body_summary": "[Blue Archive - Main OST 'Target for love' Full ver.🎵] Sensei, live poster version of Blue Archive O",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1462345039523180544",
-        "start_time": 1637485200,
-        "end_time": 1637485200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224027,
+  "time": 1788302404,
   "version": "1.0.0-beta.43"
 }

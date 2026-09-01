@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 3688,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍 #19",
+        "image": "https://static.kivo.wiki/images/timeline/jy8JRHn47WogqKAgV3rvv2g8MEfIWpz2.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/7 (Fri)! Don't mi",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1887758197236375779",
+        "start_time": 1738954800,
+        "end_time": 1739127600
+      },
+      {
+        "id": 3650,
+        "line_type": "JP",
+        "title": "迷你剧情「とある2月の記録」追加",
+        "image": "https://static.kivo.wiki/images/timeline/ZVcRL8rnM0gIewChWduzNa3Ci6dR0AE6.jpg",
+        "body_summary": "【ミニストーリー追加・予告】 2月12日(水)11:00より、ミニストーリー「とある2月の記録」が追加されます！ ぜひ楽しみにしていてくださいね、先生♪ #ブルアカ",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/1887788818134352128",
+        "start_time": 1738922400,
+        "end_time": 1738922400
+      },
+      {
+        "id": 3734,
+        "line_type": "CN",
+        "title": "玲纱家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/DquIfNS1XVUQwiCgWLUcMvTXrTtLEjuW.png",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 02月06日 14:00 ■ 互动更新 • 玲纱 & 原木阳台桌子 没有多余装",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/PcTWS8gKi",
+        "start_time": 1738821647,
+        "end_time": 1738821647
+      },
       {
         "id": 3733,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1886318706453848158",
         "start_time": 1738782000,
         "end_time": 1739386800
-      },
-      {
-        "id": 3676,
-        "line_type": "Globle",
-        "title": "国际服课程表3倍 #11",
-        "image": "https://static.kivo.wiki/images/timeline/NRrleOh0SrTs75vS3IworEDTn8YchobY.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 2/5 (Wed), Lesson reward will be tripled! Don't miss out on ",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1886316191322411181",
-        "start_time": 1738782000,
-        "end_time": 1739386800
-      },
-      {
-        "id": 3687,
-        "line_type": "Globle",
-        "title": "国际服炸服 #22",
-        "image": "",
-        "body_summary": "[2/5 Temporary Maintenance Notice] Sensei, the game is currently unavailable due to scheduled mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1886957922896294367",
-        "start_time": 1738735200,
-        "end_time": 1738746000
-      },
-      {
-        "id": 3678,
-        "line_type": "Globle",
-        "title": "国际服炸服 #21",
-        "image": "",
-        "body_summary": "[2/5 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 2/5 (Wed). Plea",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1886367860085383580",
-        "start_time": 1738720839,
-        "end_time": 1738729839
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223636,
+  "time": 1788302065,
   "version": "1.0.0-beta.43"
 }

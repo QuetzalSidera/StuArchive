@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 647,
+        "line_type": "JP",
+        "title": "例行维护69",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 5/24(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1660888246975627264",
+        "start_time": 1684897200,
+        "end_time": 1684926000
+      },
+      {
+        "id": 645,
+        "line_type": "JP",
+        "title": "指名手配2倍#27",
+        "image": "https://static.kivo.wiki/images/timeline/tw95Bl7GRjIb5R42UeblVhULSWQisHqF.jpg",
+        "body_summary": "【キャンペーン予告】 5月24日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 「技術ノート」や、「戦術教育BD」、「オーパーツ」と、育成に必要なアイテムを",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1660556332813123585",
+        "start_time": 1684872000,
+        "end_time": 1685476799
+      },
+      {
+        "id": 1421,
+        "line_type": "Globle",
+        "title": "国际服主线Vol.2 第二章PV公开",
+        "image": "",
+        "body_summary": "[Main Story Update Notice] Main Story 'Clockwork Flower Pavane Ch. 2' episodes have been added! The ",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1660905903619706881",
+        "start_time": 1684825812,
+        "end_time": 1684825812
+      },
       {
         "id": 1414,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1659499386131615745",
         "start_time": 1684490466,
         "end_time": 1684490466
-      },
-      {
-        "id": 1418,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.2 第二章动画PV1公开",
-        "image": "",
-        "body_summary": "[Main Story Special Movie Clip #1] The special movie clip (part 1) for 'Clockwork Flower Pavane, Cha",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1659499140013862913",
-        "start_time": 1684490459,
-        "end_time": 1684490459
-      },
-      {
-        "id": 1417,
-        "line_type": "Globle",
-        "title": "国际服Discord频道800,000成员纪念礼物",
-        "image": "https://static.kivo.wiki/images/timeline/YdSE7wNL5O83KPx5hLIgWvD2pvcIpknE.jpg",
-        "body_summary": "[80,000 Discord Member Celebration] Sensei, Blue Archive's official Discord has reached 80,000 membe",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1659491587678961665",
-        "start_time": 1684488640,
-        "end_time": 1684488640
-      },
-      {
-        "id": 1415,
-        "line_type": "Globle",
-        "title": "国际服Vol.2开发人员评论视频",
-        "image": "",
-        "body_summary": "[Developer Commentary Video] Clockwork Flower Pavane ~Developer Commentary~ video has just been rele",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1659484286943391744",
-        "start_time": 1684486854,
-        "end_time": 1684486854
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223911,
+  "time": 1788302304,
   "version": "1.0.0-beta.43"
 }

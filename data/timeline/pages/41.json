@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5464,
+        "line_type": "Globle",
+        "title": "国际服例行维护#111",
+        "image": "https://static.kivo.wiki/images/timeline/NoiUGVDHdI96GH1ud6Ei1h7mH5wkfH3D.jpg",
+        "body_summary": "[5/26 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 5/26 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2057748311743070369",
+        "start_time": 1779804840,
+        "end_time": 1779804840
+      },
+      {
+        "id": 5463,
+        "line_type": "Globle",
+        "title": "国际服联合作战「Operational Plan: Steel Continent」",
+        "image": "https://static.kivo.wiki/images/timeline/mm8io1uCSx3tIfwkSJucY48i6Fjikh2K.jpg",
+        "body_summary": "[Operational Plan: Steel Continent Preview] Operational Plan: Steel Continent will start on 5/26 (Tu",
+        "type": "AlliedOperation",
+        "url": "x.com/EN_BlueArchive/status/2057725649478181316",
+        "start_time": 1779804377,
+        "end_time": 1780581977
+      },
+      {
+        "id": 5462,
+        "line_type": "Globle",
+        "title": "国际服卡池「Our-Right now, you're just mine, Sensei...」",
+        "image": "https://static.kivo.wiki/images/timeline/371N7lmKarh6lvgHjlcIEiqvqUUsJnhq.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 5/26 (Tue)! 💌Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2057721874680049983",
+        "start_time": 1779804170,
+        "end_time": 1781013770
+      },
       {
         "id": 5461,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2057752074234806367",
         "start_time": 1779784800,
         "end_time": 1780970399
-      },
-      {
-        "id": 5467,
-        "line_type": "Globle",
-        "title": "国际服任务Hard 3倍 #16",
-        "image": "https://static.kivo.wiki/images/timeline/IUvBsNS7LYl0bHzQvDt1ZEy3B7JNe98T.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be tripled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2058088037486113073",
-        "start_time": 1779735600,
-        "end_time": 1780340399
-      },
-      {
-        "id": 5466,
-        "line_type": "Globle",
-        "title": "国际服任务normal3倍 #16",
-        "image": "https://static.kivo.wiki/images/timeline/KSNHIR0GPjuxJFW6Bk5QWbNFlL8ne39d.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be tripled. D",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2058084262537261548",
-        "start_time": 1779735600,
-        "end_time": 1780340399
-      },
-      {
-        "id": 5465,
-        "line_type": "Globle",
-        "title": "国际服指名手配3倍#17",
-        "image": "https://static.kivo.wiki/images/timeline/wFI9o5x7kASkuJgVKSZ4pLyFgWXBPD3c.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 5/25 (Mon), Bounty rewards will be tripled! Don't miss out o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2058080491530555519",
-        "start_time": 1779735600,
-        "end_time": 1780340399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223420,
+  "time": 1788301881,
   "version": "1.0.0-beta.43"
 }

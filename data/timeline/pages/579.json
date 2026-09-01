@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 690,
+        "line_type": "JP",
+        "title": "学生介绍：桃香",
+        "image": "https://static.kivo.wiki/images/timeline/HiV2RCDeHCn1Ra0igLD7adExPzrcjxCr.jpg",
+        "body_summary": "【生徒紹介】 モモカさん、またお菓子を食べてます。 同じ生徒会でも、リンさんと正反対の怠け者さんですね。 でも周囲の批判を気にしない所はそっくりです。 「お昼ごはんのデリバリーが来たから、また連絡する",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1356437287995805696",
+        "start_time": 1612238400,
+        "end_time": 1612238400
+      },
+      {
+        "id": 689,
+        "line_type": "JP",
+        "title": "学生介绍：凛",
+        "image": "https://static.kivo.wiki/images/timeline/Aa55y2IXqykgYvb41wKqFXkIvNwDdLW5.jpg",
+        "body_summary": "【生徒紹介】 首席行政官のリンさん！ 今は行方不明の生徒会長の代行で忙しそう…！ 冷徹な仕事ぶりで多くの生徒さんに怖がられてますが、ご本人はあまり気にしてないそうです。 「ここから先は、全て先生にかか",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1356074850909999105",
+        "start_time": 1612152000,
+        "end_time": 1612152000
+      },
+      {
+        "id": 21,
+        "line_type": "JP",
+        "title": "开服倒计时",
+        "image": "",
+        "body_summary": "",
+        "type": "Other",
+        "url": "",
+        "start_time": 1611798794,
+        "end_time": 1612403594
+      },
       {
         "id": 19,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1335856811342065664",
         "start_time": 1607303270,
         "end_time": 1607303270
-      },
-      {
-        "id": 13,
-        "line_type": "JP",
-        "title": "阿罗娜通信Vol.1（CBT测试报告）",
-        "image": "https://static.kivo.wiki/images/timeline/coLAMQ9U45gzl7lgYSeQ6fw4ELaTsKvm.jpeg",
-        "body_summary": "【アロナ通信】 お待たせしました！ ついにアロナ通信の公開です！ 記念すべき第1回はクローズドβテストの振り返りとアンケート結果の紹介です！ そして、開発から最新情報も入手してきましたよ！ 今後のブル",
-        "type": "WebEvent",
-        "url": "bluearchive.jp/arona_report/",
-        "start_time": 1601426957,
-        "end_time": 1601426957
-      },
-      {
-        "id": 10,
-        "line_type": "JP",
-        "title": "CBT测试结束",
-        "image": "https://static.kivo.wiki/images/timeline/UTllObxH1rMouJeSJZKWXg3xugf5A6mc.jpg",
-        "body_summary": "【CBT終了のお知らせ】 本日14時をもちまして、『ブルーアーカイブ』クローズドβテストは終了となります。 キヴォトスでの学園生活は如何でしたか？ 10日間という短い期間でしたが、ご参加いただき誠にあ",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1294861468534366208?s=20",
-        "start_time": 1597591358,
-        "end_time": 1597591358
-      },
-      {
-        "id": 9,
-        "line_type": "JP",
-        "title": "例行维护1",
-        "image": "",
-        "body_summary": "【メンテナンス】 現在開催中のクローズドβテストにつきまして、新規コンテンツ追加のため、下記の日時にメンテナンスを実施いたします。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/11",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1292732439542943744?s=20",
-        "start_time": 1597159054,
-        "end_time": 1597159054
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224062,
+  "time": 1788302433,
   "version": "1.0.0-beta.43"
 }

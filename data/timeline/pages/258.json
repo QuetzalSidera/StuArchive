@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 3238,
+        "line_type": "JP",
+        "title": "特殊调查「セフィロトの樹」",
+        "image": "",
+        "body_summary": "【新情報 ⑮】 11月6日(水)メンテナンス後より、特殊作戦「デカグラマトン」編 第2章追加に伴い、特殊調査「セフィロトの樹」が開催されます。 詳しい遊び方や報酬などは、後日公開のお知らせにてご確認く",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1847976405621153854",
+        "start_time": 1730883600,
+        "end_time": 1732071599
+      },
+      {
+        "id": 3237,
+        "line_type": "JP",
+        "title": "特殊作战「デカグラマトン」篇第2章「炎の剣」更新",
+        "image": "https://static.kivo.wiki/images/timeline/Gr0O8mbWWgWFki4xsqvsmI1swwivhJno.jpg",
+        "body_summary": "【新情報 ⑭】 11月6日(水)メンテナンス後より、特殊作戦「デカグラマトン」編 第2章「炎の剣」が実装されます！ ぜひ楽しみにしてくださいね、先生！ #ブルアカ #ブルアカらいぶおーたむSP",
+        "type": "MainStory",
+        "url": "x.com/Blue_ArchiveJP/status/1847975849464865097",
+        "start_time": 1730883600,
+        "end_time": 1730883600
+      },
+      {
+        "id": 3231,
+        "line_type": "JP",
+        "title": "战术对抗战S8开幕",
+        "image": "https://static.kivo.wiki/images/timeline/LfMn9VHCTFbeX2cclBRx8b7L8GsClS5j.jpg",
+        "body_summary": "【新情報 ⑧】 11月6日(水)メンテナンス後、戦術対抗戦の新シーズンが開幕されます。 それに伴いランキングリセットとグループシャッフルが行われます。 詳細については後日公開のお知らせにてご確認くださ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1847969420859347427",
+        "start_time": 1730883600,
+        "end_time": 1730883600
+      },
       {
         "id": 3230,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1852251730173661231",
         "start_time": 1730800800,
         "end_time": 1731376740
-      },
-      {
-        "id": 3295,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Sensei, it's time to duel. You need to learn the cards!」#2",
-        "image": "https://static.kivo.wiki/images/timeline/8mofP1gXJ04L0LVizUUYN4QUlFdXhNVt.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 11/5 (Tue)! 💌Pick-Up S",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1852247955220369811",
-        "start_time": 1730800800,
-        "end_time": 1731376740
-      },
-      {
-        "id": 3294,
-        "line_type": "Globle",
-        "title": "国际服卡池「Lip balm, Check! Hair rollers, Check!」",
-        "image": "https://static.kivo.wiki/images/timeline/2AXw316iM1WbPmc9XHyiUsnP1TMXWn9g.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 11/5 (Tue)! 💌Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1852244185715241401",
-        "start_time": 1730800800,
-        "end_time": 1731405600
-      },
-      {
-        "id": 3302,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁 #36",
-        "image": "",
-        "body_summary": "[11/5 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1853731748401828289",
-        "start_time": 1730799060,
-        "end_time": 1730799060
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223679,
+  "time": 1788302103,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1449,
+        "line_type": "Globle",
+        "title": "国际服活动「New Year's Aperitif: One-and-Done Match」",
+        "image": "https://static.kivo.wiki/images/timeline/CeSH2sL9LVCrtKUj2ZAgrhiqbsQAohqF.jpg",
+        "body_summary": "[Event Preview] The Event Story, New Year's Aperitif: One-and-Done Match, will be here soon, Sensei!",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1672137413483966464",
+        "start_time": 1687856443,
+        "end_time": 1689040843
+      },
+      {
+        "id": 1453,
+        "line_type": "Globle",
+        "title": "国际服卡池「Enjoy specially-prepared New Year's Cuisine for good luck!」",
+        "image": "https://static.kivo.wiki/images/timeline/ZYqEYBw2sHuI017EpZz7YGUE2rEinLNc.jpg",
+        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 6/27 (Tue)! Pick",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1672533773013995521",
+        "start_time": 1687856418,
+        "end_time": 1689040818
+      },
+      {
+        "id": 1452,
+        "line_type": "Globle",
+        "title": "国际服卡池「Seasonal Cuisine is the best way to bring good luck, Sensei. Let's enjoy a Gourmet Meal together!」",
+        "image": "https://static.kivo.wiki/images/timeline/c1gxErwu3l3istdkwnWiKBHoswAsORTQ.jpg",
+        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 6/27 (Tue)! Pick",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1672529997876314114",
+        "start_time": 1687856418,
+        "end_time": 1689040818
+      },
       {
         "id": 1454,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "www.bilibili.com/opus/810357417053257856?spm_id_from=333.999.0.0",
         "start_time": 1687514400,
         "end_time": 1687514400
-      },
-      {
-        "id": 1450,
-        "line_type": "Globle",
-        "title": "国际服例行维护41",
-        "image": "",
-        "body_summary": "[6/27 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 6/27 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1672168869035921410",
-        "start_time": 1687485646,
-        "end_time": 1687518046
-      },
-      {
-        "id": 1769,
-        "line_type": "CN",
-        "title": "蔚蓝档案「邂逅测试」",
-        "image": "https://static.kivo.wiki/images/timeline/LHmxRqmjJc93j8sDZAPqbD4IqRBvmubH.webp",
-        "body_summary": "蔚蓝档案超话#蔚蓝档案##蔚蓝档案邂逅测试「欢迎连接【什亭之箱】，老师。」 邂逅测试即将于6月22日开启，以下是本次测试活动内容汇总。 ※本次测试版本为开发中版本，不代表游戏的最终品质。 ■ 邂逅测试",
-        "type": "Other",
-        "url": "weibo.com/6011443154/N6iPF4zOz",
-        "start_time": 1687402800,
-        "end_time": 1688526000
-      },
-      {
-        "id": 707,
-        "line_type": "JP",
-        "title": "炸服28 含道歉信",
-        "image": "",
-        "body_summary": "【メンテナンス】 現在ゲームへの接続に関する不具合が確認されたため、本日20:00に緊急メンテナンスを実施いたします。 詳細につきましては、進捗が判明次第改めてご報告致します。 今しばらくお待ちくださ",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1671472621844836352",
-        "start_time": 1687348800,
-        "end_time": 1687478400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223903,
+  "time": 1788302297,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1,
+        "line_type": "JP",
+        "title": "日服推特账号开通",
+        "image": "",
+        "body_summary": "日服推特账号「[ブルーアーカイブ公式 @BlueArchiveJP)」的开通时间",
+        "type": "OutsideGames",
+        "url": "",
+        "start_time": 1583070844,
+        "end_time": 1583070844
+      },
+      {
+        "id": 2121,
+        "line_type": "JP",
+        "title": "疑似Project MX时期官方推文彩蛋",
+        "image": "https://static.kivo.wiki/images/timeline/y7X3pS7c1zR2IBADt5uQ89XszFr60j75.png",
+        "body_summary": ">由于Project MX预告PV中便已存在这一场景，PV放出时间与该推文发出时间较为接近，且该账户与PV画面中的账户名并不完全一致，因此并不能保证该条推文的确由日服官方发出。 推文内容 みんな聞いた",
+        "type": "Trivia",
+        "url": "twitter.com/kawaikiraraddan/status/1231927594875936769",
+        "start_time": 1582552980,
+        "end_time": 1582552980
+      },
+      {
+        "id": 988,
+        "line_type": "JP",
+        "title": "《Project MX》最新情报放出，PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/p9HhcdE8hX8nTWx2gSImWID2mNtd7sB3.png",
+        "body_summary": "曾制作《OVERHIT》及《V4》等作品的 NAT Games，于今天（2月17日）公开了旗下第四款手机游戏作品企划「Project MX」，并预定在2020年内，透过 Yostar 在日本率先推出。",
+        "type": "Trivia",
+        "url": "www.thisisgame.com/webzine/nboard/263/?n=101970",
+        "start_time": 1581911770,
+        "end_time": 1581911770
+      },
       {
         "id": 990,
         "line_type": "JP",
@@ -48,6 +81,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1788224064,
+  "time": 1788302435,
   "version": "1.0.0-beta.43"
 }

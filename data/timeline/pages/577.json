@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 60,
+        "line_type": "JP",
+        "title": "例行维护3",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/18(木) 14:00 〜 20:00 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1361903281358872576",
+        "start_time": 1613628000,
+        "end_time": 1613649600
+      },
+      {
+        "id": 59,
+        "line_type": "JP",
+        "title": "官方四格连载开始",
+        "image": "https://static.kivo.wiki/images/timeline/G5QMrq3dcxRidJcd4sd6xTjA2fO0P5kg.jpg",
+        "body_summary": "【ぶるーあーかいぶっ！】第1話 本日より『ブルーアーカイブ』公式四コマ ✨『ぶるーあーかいぶっ！』✨ が連載開始です！ 今回が記念すべき第1話！ シロコさんは相変わらずですね… 次回の掲載日は、2月2",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1361525722200772609",
+        "start_time": 1613469227,
+        "end_time": 1613469227
+      },
+      {
+        "id": 62,
+        "line_type": "JP",
+        "title": "総力戦BETA严重bug",
+        "image": "",
+        "body_summary": "【総力戦について・追記1/2】 現在、総力戦で強制終了やアプリ落ちが発生する事象につきまして、総力戦に挑戦される前にアプリを一度閉じて再起動をした後に入場することで改善される可能性がございます。 #ブ",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1361276111636762626",
+        "start_time": 1613383263,
+        "end_time": 1613383263
+      },
       {
         "id": 61,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1360136600575901696",
         "start_time": 1613122869,
         "end_time": 1613122869
-      },
-      {
-        "id": 32,
-        "line_type": "JP",
-        "title": "例行维护2",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/11(木) 14:00 〜 21:00 ▼更新内容 https:/",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1359367398294388739",
-        "start_time": 1613023200,
-        "end_time": 1613048400
-      },
-      {
-        "id": 31,
-        "line_type": "JP",
-        "title": "卡池「赤の季節、黒の制服」",
-        "image": "https://static.kivo.wiki/images/timeline/sBFB99KGuTAqIhY4lPcMgYRvo6q0Cr8B.jpg",
-        "body_summary": "【ピックアップ募集予告】 バレンタインピックアップ募集「赤の季節、黒の制服」が明日から開催です！ 🔷開催期間 2021年2月11日(木) メンテナンス後 ~ 2021年2月25日(木)13:59 🔷ピ",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1359351402762391552",
-        "start_time": 1613023200,
-        "end_time": 1614232799
-      },
-      {
-        "id": 30,
-        "line_type": "JP",
-        "title": "炸服5",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 サーバー安定性向上のため、下記の時間に臨時メンテナンスを行います。 ご理解、ご協力のほどよろしくお願いいたします。 ▼実施日時 2021年2月10日(水) 03:00 〜 05:",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1359034384578322432",
-        "start_time": 1612897200,
-        "end_time": 1612904400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224059,
+  "time": 1788302431,
   "version": "1.0.0-beta.43"
 }

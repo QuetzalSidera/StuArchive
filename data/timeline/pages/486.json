@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1273,
+        "line_type": "Globle",
+        "title": "国际服卡池「I hate to be a bother. I'm Sorry!」",
+        "image": "https://static.kivo.wiki/images/timeline/XAFq6NoM34KN2C9MOnvH9f5w6b2v7gb9.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A New Pick-Up Recruitment starts 12/20 (Tue)! Pick-Up Student: 3★ Hiyo",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1604041207801270272",
+        "start_time": 1671523226,
+        "end_time": 1641175166
+      },
+      {
+        "id": 1272,
+        "line_type": "Globle",
+        "title": "国际服卡池「In this hopeless world, could you give me purpose, sensei?」",
+        "image": "https://static.kivo.wiki/images/timeline/zYPtqROT2eRABuVYFmuMdBhsOadIeOgA.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A New Pick-Up Recruitment starts 12/20 (Tue)! Pick-Up Student: 3★ Misa",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1604038694381527040",
+        "start_time": 1671523226,
+        "end_time": 1641175166
+      },
+      {
+        "id": 1278,
+        "line_type": "Globle",
+        "title": "国际服主线关卡开放：Area19",
+        "image": "https://static.kivo.wiki/images/timeline/1uez2HezE7psSI87qjuvdvkB7Au4zpDZ.jpg",
+        "body_summary": "[New Mission Available Notice] Check out Mission Area 19 in the 12/20 (Tue) update. You can earn T7 ",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1605850638381854720",
+        "start_time": 1671523216,
+        "end_time": 1671523216
+      },
       {
         "id": 1270,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1604370881395847168",
         "start_time": 1671476438,
         "end_time": 1672081178
-      },
-      {
-        "id": 522,
-        "line_type": "JP",
-        "title": "任务Normal2倍#21",
-        "image": "https://static.kivo.wiki/images/timeline/oseuyHsVhzLpbnJEjZmkQy2xzy9aF7ov.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「任務(Normal)」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 12月18日(日)4:00〜12月25日(日)3:59 不足している生徒さん",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1603224557506416641",
-        "start_time": 1671307200,
-        "end_time": 1671911999
-      },
-      {
-        "id": 521,
-        "line_type": "JP",
-        "title": "迷你剧情追加「万魔殿のレッドウィンター巡回録」",
-        "image": "https://static.kivo.wiki/images/timeline/ZhBsQ43bJrwQi7EA1lldkhIFfoffdqjm.jpg",
-        "body_summary": "【ミニストーリー】 メンテナンス終了後、新コンテンツ「ミニストーリー」が追加されます！ 第一弾は、万魔殿が極秘裏に行ったとされるレッドウィンター巡回での一部始終を記録した物語…！ いつもの生徒さん達と",
-        "type": "OtherStory",
-        "url": "twitter.com/Blue_ArchiveJP/status/1602936513305509888",
-        "start_time": 1671010200,
-        "end_time": 1671015600
-      },
-      {
-        "id": 519,
-        "line_type": "JP",
-        "title": "卡池「雪夜に贈るぬくもりのハレルヤ！」＆「聖夜に響く慈愛のキャロル」",
-        "image": "https://static.kivo.wiki/images/timeline/KyFmYwCvmVqJ2KkSrCcVHuovxThAh3xX.jpg",
-        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「雪夜に贈るぬくもりのハレルヤ！」＆「聖夜に響く慈愛のキャロル」がまもなく開催されます！ 🔹ピックアップ生徒 ★3 ハナエ(クリスマス) (CV: #優木か",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1602166402831421440",
-        "start_time": 1671010200,
-        "end_time": 1672196399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223950,
+  "time": 1788302337,
   "version": "1.0.0-beta.43"
 }

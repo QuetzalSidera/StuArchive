@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2972,
+        "line_type": "Globle",
+        "title": "战舰世界联动开始",
+        "image": "https://static.kivo.wiki/images/timeline/6zzab9wA8yuN2tBxbmJhwbvIkd5bgYeX.jpg",
+        "body_summary": "[World of Warships Collab Launch] Sensei, the ‘World of Warships’ collab has finally begun! Claim Bl",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/1824249723865403492",
+        "start_time": 1723770026,
+        "end_time": 1723770026
+      },
+      {
+        "id": 2993,
+        "line_type": "CN",
+        "title": "活动复刻【在梦幻岛玩捉迷藏】",
+        "image": "https://static.kivo.wiki/images/timeline/UKc7Jzo0E2ZoA8vf89dBmsK6fM2S0oo2.jpg",
+        "body_summary": "老师，限时复刻活动【在梦幻岛玩捉迷藏】现已开启！ 梅花园的瞬教官服用了纱绫的回春秘药后，身体竟然变回了小时候的模样！ 而且不仅是身体，似乎就连心理年龄也变小了。变成小孩的瞬开始到处乱跑制造各种麻烦……",
+        "type": "Event",
+        "url": "weibo.com/6011443154/OsnuHyCqC",
+        "start_time": 1723701817,
+        "end_time": 1723701817
+      },
+      {
+        "id": 2964,
+        "line_type": "CN",
+        "title": "限时招募【稚心难捺，梅花盛开！】",
+        "image": "https://static.kivo.wiki/images/timeline/yW0BoRlYWLa5jrigPirmIQLbtDixMPNF.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 限时招募【稚心难捺，梅花盛开！】即将开启！在本次招募中，全新成员“心奈（3★）”登场，且招募概率得到提升！ ■ 招募时间 08月15日 14:00 ~ 08月22日 ",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/973",
+        "start_time": 1723701659,
+        "end_time": 1724292000
+      },
       {
         "id": 2961,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1822468372254347681",
         "start_time": 1723604400,
         "end_time": 1724183999
-      },
-      {
-        "id": 3009,
-        "line_type": "JP",
-        "title": "卡池「工務の道も一歩から」&「ステアミルクは湯けむりと共に」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/JLbx8k8snJoziCLlLV2dHVn3X2B0rm8B.jpg",
-        "body_summary": "【ピックアップ募集・予告】 まもなく、復刻ピックアップ募集「工務の道も一歩から」&「ステアミルクは湯けむりと共に」を開催します！ 詳細については、下記URLよりご確認ください！ 🔹詳細 https:/",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/1823223053964517540",
-        "start_time": 1723600800,
-        "end_time": 1724205599
-      },
-      {
-        "id": 3008,
-        "line_type": "JP",
-        "title": "特别依赖3倍#13",
-        "image": "https://static.kivo.wiki/images/timeline/PMmQlBWp69peUuoYKPlrk3At3ANlJzIA.jpg",
-        "body_summary": "【キャンペーン予告】 8月14日(水)4:00より、「特別依頼」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 3.5th Anniversary記念でいつもより効率的に素材が入手できる機",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1823193381994184783",
-        "start_time": 1723579200,
-        "end_time": 1724183999
-      },
-      {
-        "id": 2986,
-        "line_type": "JP",
-        "title": "任务normal3倍 #11",
-        "image": "https://static.kivo.wiki/images/timeline/yJJxMkbPyX2tRqVQvNzrD1lEJGmHJ4e8.jpg",
-        "body_summary": "【キャンペーン予告】 8月14日(水)4:00より、3.5周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 8月14日(水)4:00〜8月1",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1822830856903569620",
-        "start_time": 1723579200,
-        "end_time": 1723924799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223714,
+  "time": 1788302133,
   "version": "1.0.0-beta.43"
 }

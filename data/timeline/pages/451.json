@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 682,
+        "line_type": "JP",
+        "title": "课程表2倍#14 & 学院交流会2倍#14",
+        "image": "https://static.kivo.wiki/images/timeline/5JQfvGOv4oGQTAw4eERXWYuXCSHibJLN.jpg",
+        "body_summary": "【キャンペーン予告】 2023/6/7(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/6/7(水)4:00 ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1664919997981003778",
+        "start_time": 1686081600,
+        "end_time": 1686686399
+      },
+      {
+        "id": 1436,
+        "line_type": "Globle",
+        "title": "国际服主线Vol.2 第二章后篇更新",
+        "image": "https://static.kivo.wiki/images/timeline/k3KSo03RW5gqJdgLwzcnw95s5WK0gPHm.jpg",
+        "body_summary": "[Main Story Update] Main Story Clockwork Flower Pavane, Ch. 2 (Second Half) is here! Help the Game D",
+        "type": "MainStory",
+        "url": "twitter.com/EN_BlueArchive/status/1665903836102361088",
+        "start_time": 1686034810,
+        "end_time": 1686034810
+      },
+      {
+        "id": 1435,
+        "line_type": "Globle",
+        "title": "国际服总力战 Chesed (Indoor) 3",
+        "image": "https://static.kivo.wiki/images/timeline/MEnQd4SiRCvW0eH3FPkEkoOJDRvvbQFW.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Chesed (Indoor Warfare) has opened at 2:00 on 6/6 (T",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1665901326218190848",
+        "start_time": 1686016844,
+        "end_time": 1686596384
+      },
       {
         "id": 1434,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1663441360668733440",
         "start_time": 1685430352,
         "end_time": 1685430352
-      },
-      {
-        "id": 1423,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Hot Springs Resort No. 227 Daily Logs」",
-        "image": "https://static.kivo.wiki/images/timeline/MAwNNe8LZugaZs0Lf4lZvNygy10XRPti.jpg",
-        "body_summary": "[Event Update Notice] Returning Event Story: Hot Springs Resort No. 227 Daily Logs! Welcome to Hot S",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1663430143342444545",
-        "start_time": 1685430052,
-        "end_time": 1686016792
-      },
-      {
-        "id": 1429,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「I, Nodoka am ready to serve you with all my heart!」",
-        "image": "https://static.kivo.wiki/images/timeline/u2lb62FlIAPlAceVNGDCXhxnMRD4APN4.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 5/30 (Tue)! Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1662390689030893575",
-        "start_time": 1685430041,
-        "end_time": 1686016781
-      },
-      {
-        "id": 1428,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Why don't you forget work for just one day and enjoy a break?」",
-        "image": "https://static.kivo.wiki/images/timeline/0M6HLkMZLxthE3D9JjISfJx8PPkqFVxM.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 5/30 (Tue)! Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1662388170762203137",
-        "start_time": 1685430041,
-        "end_time": 1686016781
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223909,
+  "time": 1788302302,
   "version": "1.0.0-beta.43"
 }

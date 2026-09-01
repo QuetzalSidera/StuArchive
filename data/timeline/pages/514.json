@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5003,
+        "line_type": "JP",
+        "title": "指名手配3倍 #4 学院交流会3倍 #3 课程表3倍 #3",
+        "image": "https://static.kivo.wiki/images/timeline/cA5fUoafpLO1V54N7weRnvBiKLOkllk4.jpg",
+        "body_summary": "【新情報⑰】 1.5周年記念に、各種「ドロップ量2倍」育成キャンペーンが期間限定で「ドロップ量3倍」になります。 さらに、7/27(水)から8月1日(月)まで毎日AP×120を配布しますので、ドロップ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1548269980151857154",
+        "start_time": 1658298770,
+        "end_time": 1658903570
+      },
+      {
+        "id": 390,
+        "line_type": "JP",
+        "title": "例行维护48",
+        "image": "",
+        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 7/20(水) 11:00 〜 19:00前後 ▼詳細 https://bluearc",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1549567276147322885",
+        "start_time": 1658286000,
+        "end_time": 1658314800
+      },
+      {
+        "id": 1140,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁11",
+        "image": "",
+        "body_summary": "[7/19(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1549289228772581377",
+        "start_time": 1658214160,
+        "end_time": 1658214160
+      },
       {
         "id": 389,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1548325331735482368",
         "start_time": 1657987200,
         "end_time": 1657987200
-      },
-      {
-        "id": 383,
-        "line_type": "JP",
-        "title": "ASMR发售：优香、美游",
-        "image": "https://static.kivo.wiki/images/timeline/RjXFbwUpYYLwvo0BFnejQov165Ir9YVi.jpg",
-        "body_summary": "【#ブルアカASMR】 ブルーアーカイブのASMR作品第2弾がDLsiteにて販売開始されました！ ユウカさんは一緒に作業通話！ ミユさんは…ゴ…ゴミ箱…？ 体験版もあるようですので、是非お聞きくださ",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1548322308938694656",
-        "start_time": 1657987200,
-        "end_time": 1657987200
-      },
-      {
-        "id": 382,
-        "line_type": "JP",
-        "title": "直播「夏のブルアカらいぶ！1.5周年記念すぺしゃる！」",
-        "image": "https://static.kivo.wiki/images/timeline/HQISfsV1I43gHXPkAnxevJxiuZ2etAdH.png",
-        "body_summary": "【生放送】 7月16日(土) 19時～「夏のブルアカらいぶ！1.5周年記念すぺしゃる！」配信決定！ ▼出演者 #白砂沙帆 #香月はるか #三浦千幸 #後藤彩佐 #高川みな #坂巻学 #市来光弘 #高塚",
-        "type": "Live",
-        "url": "twitter.com/Blue_ArchiveJP/status/1546373724349337600",
-        "start_time": 1657969200,
-        "end_time": 1657981320
-      },
-      {
-        "id": 381,
-        "line_type": "JP",
-        "title": "屋外戦・ビナー3",
-        "image": "https://static.kivo.wiki/images/timeline/pJEtTW9Q3tGn5ldIM1WFaD00ZBKIxL6V.jpg",
-        "body_summary": "【総力戦・予告】 7月13日(水)11:00より、総力戦「屋外戦・ビナー」が開幕します！ 総力戦ではサークルメンバーの他、新たに追加された「フレンドシステム」で登録した先生の力もお借りできます。 この",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1545966301394665472",
-        "start_time": 1657681200,
-        "end_time": 1658260799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223983,
+  "time": 1788302366,
   "version": "1.0.0-beta.43"
 }

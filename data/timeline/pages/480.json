@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 552,
+        "line_type": "JP",
+        "title": "4th PV公开",
+        "image": "",
+        "body_summary": "【4thPV公開】 先ほど #ブルアカらいぶ2周年SP ご覧いただいた『ブルーアーカイブ』の新しいPVが公開されました！ 先生… これから起こる事から… 目を、そらさないでください。 YouTube版",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1617101346410483713",
+        "start_time": 1674385560,
+        "end_time": 1674385560
+      },
+      {
+        "id": 551,
+        "line_type": "JP",
+        "title": "直播「ブルアカらいぶ！せかんどあにばSP！」",
+        "image": "https://static.kivo.wiki/images/timeline/bLdzuyHhkBFqBYzim8j23fxqrMERkpqY.png",
+        "body_summary": "【2ndアニバーサリー】 展示型イベント「#ブルアカふぇす」 いよいよ明日開催！ 明日はみんなで2周年をお祝いしましょう♪ ※会場内での物販はございません。 また「ブルアカらいぶ！せかんどあにばSP！",
+        "type": "Live",
+        "url": "twitter.com/Blue_ArchiveJP/status/1616631678084022279",
+        "start_time": 1674367200,
+        "end_time": 1674393052
+      },
+      {
+        "id": 548,
+        "line_type": "JP",
+        "title": "任务Hard2倍#21",
+        "image": "https://static.kivo.wiki/images/timeline/qkS4GIWzwrYJVIJvqgu5C7TkBog3Ivkp.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「任務(Hard)」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ 先月追加された「Area21」ではヒフミ(水着)さんの「神名文字」が獲得できますので、この機",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1614457517307990018",
+        "start_time": 1674244800,
+        "end_time": 1674503999
+      },
       {
         "id": 550,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1613792967898157057",
         "start_time": 1673942448,
         "end_time": 1675130448
-      },
-      {
-        "id": 1298,
-        "line_type": "Globle",
-        "title": "国际服卡池「Endless Love under a summer Moon」",
-        "image": "https://static.kivo.wiki/images/timeline/gOIJw3Ci0AWKZqq34kVAmxA3uwlcwERf.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment starts 1/17 (Tue)! Target Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1614185562637844482",
-        "start_time": 1673942435,
-        "end_time": 1675130435
-      },
-      {
-        "id": 1302,
-        "line_type": "Globle",
-        "title": "国际服小游戏「Find the Ball」",
-        "image": "https://static.kivo.wiki/images/timeline/3ZMURNlXA72pBySz2GqUgKz0I6vDnng8.jpg",
-        "body_summary": "[Event Notice] Summer has finally started in Kivotos! Participate in the Find the Ball mini game eve",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1615257750543503361",
-        "start_time": 1673942431,
-        "end_time": 1675565971
-      },
-      {
-        "id": 1802,
-        "line_type": "JP",
-        "title": "2周年倒计时登录奖励",
-        "image": "",
-        "body_summary": "【2nd Anniversary】 『ブルーアーカイブ』の2nd Anniversaryに向けて、期間中のログインで合計700個の「青輝石」が獲得できるカウントダウンボーナスイベントが開始されます！ ",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1614910406564405251",
-        "start_time": 1673942429,
-        "end_time": 1674503969
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223943,
+  "time": 1788302331,
   "version": "1.0.0-beta.43"
 }

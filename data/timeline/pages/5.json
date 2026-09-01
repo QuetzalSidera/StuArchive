@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,28 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5920,
+        "line_type": "Globle",
+        "title": "国际服MV《KAGEROU》 发布",
+        "image": "https://static.kivo.wiki/images/timeline/HUgV0JrUGHKF4EemEd8M4xg30L066yLE.jpg",
+        "body_summary": "[KAGEROU Music Video Release] Guess who has returned from the Corrections Bureau! Check out the KAGE",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2090001072018293200",
+        "start_time": 1787130001,
+        "end_time": 1787130001
+      },
+      {
+        "id": 5918,
+        "line_type": "Globle",
+        "title": "国际服热补丁修复#2",
+        "image": "https://static.kivo.wiki/images/timeline/pMLDlgvoQDgXjXZ83vjnYxj0QiGnR1hr.jpg",
+        "body_summary": "[8/19 Data Patch Notice] We will be having a quick data patch on 8/19 (Wed) for content update. The ",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2089948456794394699",
+        "start_time": 1787117506,
+        "end_time": 1787117506
+      },
       {
         "id": 5917,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2088151131453317145",
         "start_time": 1787065178,
         "end_time": 0
-      },
-      {
-        "id": 5916,
-        "line_type": "Globle",
-        "title": "国际服例行维护#117延长",
-        "image": "https://static.kivo.wiki/images/timeline/oWncujgvglqdQc7fxPK6CtQvPhbyS9tA.jpg",
-        "body_summary": "[Notice on Maintenance Extension] Dear Sensei, We would like to inform you that the maintenance sche",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2089636308196987014",
-        "start_time": 1787018400,
-        "end_time": 1787392800
-      },
-      {
-        "id": 5896,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #117",
-        "image": "https://static.kivo.wiki/images/timeline/ZlQZ4zVwc3W6GHiAac4b0MDdrG4URtqp.jpg",
-        "body_summary": "[8/18 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/18 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2088188883037225323",
-        "start_time": 1787018400,
-        "end_time": 1787043600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223378,
+  "time": 1788301844,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5761,
+        "line_type": "JP",
+        "title": "例行维护#146",
+        "image": "https://static.kivo.wiki/images/timeline/1wDFqvOU1MMKcjDarRcQaeOKCm8UDagJ.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年7月8日(水) 11:00 〜 17:00前後 ▼詳細 htt",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2074071069284311264?s=20",
+        "start_time": 1783499182,
+        "end_time": 1783499182
+      },
+      {
+        "id": 5682,
+        "line_type": "JP",
+        "title": "活动「ハイランダー鉄道爆走事件〜そして列車はなくなった〜」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/n8kUg0XpWUQVWNBv4Re4cEwDEyh2MvV5.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生！「とある貨物」の輸送を任されたヒカリさんとノゾミさん、そして整備士のアオバさんのイベントが復刻開催するそうです！ 簡単な貨物輸送……だったはずが、何故か暴走族に襲撃され",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2073603186913632318",
+        "start_time": 1783479600,
+        "end_time": 1784689199
+      },
+      {
+        "id": 5595,
+        "line_type": "JP",
+        "title": "卡池 「リコレクト募集」#2",
+        "image": "https://static.kivo.wiki/images/timeline/DB2DHXwOU6z6YEoZzoijygCKwZojsJgg.jpg",
+        "body_summary": "【新情報 ⑥】 7月8日(水)メンテナンス後より、「リコレクト募集」が開催されます！ 今回対象の生徒さんはこちらの画像をご覧ください！！ #ブルアカ #ブルアカらいぶすたさまSP",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2068294978166743104",
+        "start_time": 1783479600,
+        "end_time": 1784084399
+      },
       {
         "id": 5589,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
         "start_time": 1783389600,
         "end_time": 1783994399
-      },
-      {
-        "id": 5760,
-        "line_type": "JP",
-        "title": "妮禄小剧场 #1",
-        "image": "https://static.kivo.wiki/images/timeline/6iL7ixDLGxMcuDtfB2TYPEaWYEYE0S5o.jpg",
-        "body_summary": "【#ちっと時間もらってくぜ】 先生、おはようございます♪ だんだん暑くなってきましたね…体調にはお気をつけて！ おや？今日も生徒さんが遊びに来てくれたみたいです！ #ブルアカ",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2073906016341705029?s=20",
-        "start_time": 1783326214,
-        "end_time": 1783326214
-      },
-      {
-        "id": 5695,
-        "line_type": "Globle",
-        "title": "国际服Anime Expo 2026参展特别奖励",
-        "image": "https://static.kivo.wiki/images/timeline/83hmYLXnP1yqLXQ3PjalOZYqrZdYWHs2.jpg",
-        "body_summary": "Thank you for joining us at Anime Expo 2026! 🎁 To celebrate all the encouragement, excitement, and u",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1810116595491942797",
-        "start_time": 1783321795,
-        "end_time": 1783926595
-      },
-      {
-        "id": 5693,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍 #51",
-        "image": "https://static.kivo.wiki/images/timeline/qyQ9SCcckHg93ShsJL0PgIBDqORMbyEu.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 7/3 (Fri)! Don't mi",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2072945941729198447",
-        "start_time": 1783148635,
-        "end_time": 1783321435
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223400,
+  "time": 1788301864,
   "version": "1.0.0-beta.43"
 }

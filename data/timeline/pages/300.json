@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2863,
+        "line_type": "JP",
+        "title": "T5装备设计图掉落率增加",
+        "image": "https://static.kivo.wiki/images/timeline/m9prcfnPENifx7zkcH1YNGCX7UmGQ0XT.jpg",
+        "body_summary": "【新情報⑳】 7月22日(月)メンテナンス後、一部「任務(ノーマル)」ステージにおいて「T5装備設計図」のドロップ率がアップします！ #ブルアカ #ブルアカらいぶしょ～たいむSP",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1815005619520463333",
+        "start_time": 1721657984,
+        "end_time": 1721657984
+      },
+      {
+        "id": 2872,
+        "line_type": "JP",
+        "title": "违规账号封禁36",
+        "image": "https://static.kivo.wiki/images/timeline/rimzYWkgJjKKFbvbW3NlwiGdHSLQgO32.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/1815552463233220984",
+        "start_time": 1721656800,
+        "end_time": 1721656800
+      },
+      {
+        "id": 2871,
+        "line_type": "JP",
+        "title": "炸服38",
+        "image": "https://static.kivo.wiki/images/timeline/54h0sJu02PFN1CPtisFT5BEpUJ8DWel8.png",
+        "body_summary": "维护开始 【緊急メンテナンス】 先ほどお知らせした「接続不安定について」の現状をご報告させていただきます。 ゲームへの正常なアクセス復旧のため 7月22日　20時33分より 緊急メンテナンスを開始いた",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1815350677994099121",
+        "start_time": 1721647980,
+        "end_time": 1722261540
+      },
       {
         "id": 2862,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1814985572538364266",
         "start_time": 1721646000,
         "end_time": 1722999599
-      },
-      {
-        "id": 2887,
-        "line_type": "Globle",
-        "title": "国际服等级上限提升至90 & 新增家具「格黑娜派对主题」 & 美咲、野乃美、花绘（圣诞节）爱用品更新 & 特殊任务A-M奖励获得量上升 & 新增标题影片显示设定",
-        "image": "https://static.kivo.wiki/images/timeline/sctelvpi1P7yGtS7kck91DmwryMwv3rc.png",
-        "body_summary": "",
-        "type": "ContentImprovements",
-        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=2607184",
-        "start_time": 1721638800,
-        "end_time": 1721638800
-      },
-      {
-        "id": 2865,
-        "line_type": "JP",
-        "title": "例行维护99",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.8GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 7/22(月) 11",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1815008838938218549",
-        "start_time": 1721617200,
-        "end_time": 1721646000
-      },
-      {
-        "id": 5006,
-        "line_type": "JP",
-        "title": "指名手配3倍#12 课程表3倍#10 学院交流会3倍#10",
-        "image": "https://static.kivo.wiki/images/timeline/Pys5WS9zP2aSLXley00dCfdLGDXvaO6o.png",
-        "body_summary": "【新情報⑫】 そして3.5周年を記念して、「ドロップ量3倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わ",
-        "type": "Double",
-        "url": "x.com/i/status/1814999283944321435",
-        "start_time": 1721592000,
-        "end_time": 1722369599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223729,
+  "time": 1788302146,
   "version": "1.0.0-beta.43"
 }

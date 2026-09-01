@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 819,
+        "line_type": "JP",
+        "title": "活动「とある科学の青春記録」",
+        "image": "https://static.kivo.wiki/images/timeline/idUMAPlrDKVrvlODf9V1bk4WBGAmyZ9o.jpg",
+        "body_summary": "【イベント紹介】 10/24(火)メンテナンス終了後、コラボイベント「とある科学の青春記録」を開催します！ イベントでは「佐天涙子」さんをお迎えできる他、家具モーション付限定家具「フレッシュショップテ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1716333987076112715",
+        "start_time": 1698145200,
+        "end_time": 1699412399
+      },
+      {
+        "id": 817,
+        "line_type": "JP",
+        "title": "限定卡池「駆け抜けるエースの電撃」＆「絡め取る女王の掌握」",
+        "image": "https://static.kivo.wiki/images/timeline/ZMnkXT2b59jzmxvC8aUn5oqJYk1Bm40E.jpg",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、コラボ限定ピックアップ募集「駆け抜けるエースの電撃」＆「絡め取る女王の掌握」が開催されます！ 今回の募集はいつもと少し違いますので、ぜひ下記詳細にて注意事項をご確",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1716318762516000836",
+        "start_time": 1698145200,
+        "end_time": 1699412399
+      },
+      {
+        "id": 2674,
+        "line_type": "JP",
+        "title": "「贴纸簿」追加",
+        "image": "https://static.kivo.wiki/images/timeline/yZw4eXtgrR2OE3vaRVG9Eoa8LH5740qb.jpg",
+        "body_summary": "【新情報⑫】 10/24(火)メンテナンス後、新システム「スクラップブック」の実装が決定！ 一定の条件を達成すると、ゲーム内の一部カットインイラストなどをステッカーとして入手することができます！ ※今",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1715347565758349791",
+        "start_time": 1698141658,
+        "end_time": 1698141658
+      },
       {
         "id": 2665,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1716333667919052936",
         "start_time": 1698116400,
         "end_time": 1698145200
-      },
-      {
-        "id": 1565,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「An Unconcealed Heart」",
-        "image": "https://static.kivo.wiki/images/timeline/LQpdbxXDNkIuYIQUEMTFZWS3oMv28qJm.jpg",
-        "body_summary": "[Event Update Notice] The \"An Unconcealed Heart\" Event Story is back! 🗓️Period: 10/24 (Tue) 2:00 AM ",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1716711118117523905",
-        "start_time": 1698112850,
-        "end_time": 1698717590
-      },
-      {
-        "id": 1563,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「I'll practice turning into a tree to become a great ninja!」",
-        "image": "https://static.kivo.wiki/images/timeline/kbBkfOcJbQ4MOikUX6sISya9QmN2PzLK.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715665478390083958",
-        "start_time": 1698112803,
-        "end_time": 1698717543
-      },
-      {
-        "id": 1562,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Sensei, it's time to duel. You need to learn the cards!」",
-        "image": "https://static.kivo.wiki/images/timeline/kW6gN97szCxdnfr4GS7M82OgU3Wx5cOz.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715661703755530592",
-        "start_time": 1698112803,
-        "end_time": 1698717543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223859,
+  "time": 1788302258,
   "version": "1.0.0-beta.43"
 }

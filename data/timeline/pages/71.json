@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5195,
+        "line_type": "JP",
+        "title": "例行维护#137",
+        "image": "",
+        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 3/4(水) 11:00 〜 17:00前後 ▼詳細 https://bluearch",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2029006470931750979",
+        "start_time": 1772624480,
+        "end_time": 1772624480
+      },
+      {
+        "id": 5170,
+        "line_type": "JP",
+        "title": "大决战：市街地戦・ヒエロニムス #4",
+        "image": "https://static.kivo.wiki/images/timeline/zFjE6JAqbgjohGg7VfjuUM39lTEavdD4.jpg",
+        "body_summary": "【大決戦・予告】 3月4日(水)メンテナンス後より、大決戦「市街地戦・ヒエロニムス」を開幕します！ 今回難易度「Torment」に挑戦できる防御タイプは「重装甲」と「特殊装甲」です。 生徒さん達と力を",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2027580534298456463",
+        "start_time": 1772593200,
+        "end_time": 1773172799
+      },
+      {
+        "id": 5197,
+        "line_type": "JP",
+        "title": "课程表2倍#41 & 学院交流会2倍#41",
+        "image": "https://static.kivo.wiki/images/timeline/JyXBfJ5oo4woju2GjzqXyzgOE50rk5NR.jpg",
+        "body_summary": "【キャンペーン予告】 3月4日(水)4:00より、「スケジュール」、「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 🔹開催期間 3月4日(水)4:00 ～ 3月11日(水)3",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2028311836018303085",
+        "start_time": 1772568000,
+        "end_time": 1773172799
+      },
       {
         "id": 5178,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "weibo.com/6011443154/QucpIgrKA?pagetype=detail",
         "start_time": 1772420400,
         "end_time": 1772420400
-      },
-      {
-        "id": 5677,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编 & Mint Fantôme 联动回 #33",
-        "image": "https://static.kivo.wiki/images/timeline/etwnfJVH7TfLgDe7UHwNBOfNPCr4ZSHf.jpg",
-        "body_summary": "Sensei, CM Arcie’s next live stream is coming sometime next week... Wait, who’s that next to Arcie i",
-        "type": "Live",
-        "url": "x.com/EN_BlueArchive/status/2028274089685889437",
-        "start_time": 1772413200,
-        "end_time": 1772413200
-      },
-      {
-        "id": 5167,
-        "line_type": "JP",
-        "title": "学生生日日历-2026年3月",
-        "image": "https://static.kivo.wiki/images/timeline/VpZMdmVQbIqGpRaXsGrNQRLmPw0gDOn4.jpg",
-        "body_summary": "【カレンダー】 先生、2026年3月版誕生日カレンダーをご用意しました！ ぜひお役立てください！ 寒さの中にも、たまにポカポカ陽気を感じる3月！ 春の訪れを探しにお外へ冒険に出かけたいですね♪ 先生は",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2027927021117186203",
-        "start_time": 1772253195,
-        "end_time": 1772253195
-      },
-      {
-        "id": 5162,
-        "line_type": "CN",
-        "title": "紧急总力战 回转 FX Mk.0 • 街区战 #3",
-        "image": "https://static.kivo.wiki/images/timeline/mIbPlpYJUetUYRqz06Q2yIwxf3aOGAUZ.jpg",
-        "body_summary": "#蔚蓝档案#​ 回转者的秘密武器神秘登场，阻断了通往基地的路线。 回转者投入了至今为止掠夺到手的资金和技术，正在这里制造巨型合体机器人【回转 FX Mk.0】。 虽然这个机器人看起来很酷，但考虑到回转",
-        "type": "Raid",
-        "url": "www.bilibili.com/opus/1173912489464692752",
-        "start_time": 1772243633,
-        "end_time": 1772675633
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223456,
+  "time": 1788301911,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1450,
+        "line_type": "Globle",
+        "title": "国际服例行维护41",
+        "image": "",
+        "body_summary": "[6/27 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 6/27 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1672168869035921410",
+        "start_time": 1687485646,
+        "end_time": 1687518046
+      },
+      {
+        "id": 1769,
+        "line_type": "CN",
+        "title": "蔚蓝档案「邂逅测试」",
+        "image": "https://static.kivo.wiki/images/timeline/LHmxRqmjJc93j8sDZAPqbD4IqRBvmubH.webp",
+        "body_summary": "蔚蓝档案超话#蔚蓝档案##蔚蓝档案邂逅测试「欢迎连接【什亭之箱】，老师。」 邂逅测试即将于6月22日开启，以下是本次测试活动内容汇总。 ※本次测试版本为开发中版本，不代表游戏的最终品质。 ■ 邂逅测试",
+        "type": "Other",
+        "url": "weibo.com/6011443154/N6iPF4zOz",
+        "start_time": 1687402800,
+        "end_time": 1688526000
+      },
+      {
+        "id": 707,
+        "line_type": "JP",
+        "title": "炸服28 含道歉信",
+        "image": "",
+        "body_summary": "【メンテナンス】 現在ゲームへの接続に関する不具合が確認されたため、本日20:00に緊急メンテナンスを実施いたします。 詳細につきましては、進捗が判明次第改めてご報告致します。 今しばらくお待ちくださ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1671472621844836352",
+        "start_time": 1687348800,
+        "end_time": 1687478400
+      },
       {
         "id": 706,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1670703135948701698",
         "start_time": 1687291200,
         "end_time": 1687895999
-      },
-      {
-        "id": 1447,
-        "line_type": "Globle",
-        "title": "国际服总力战 Perorodzilla (Indoor) 4",
-        "image": "https://static.kivo.wiki/images/timeline/Ic0Z4K70p47QmteclIUQj3LUL5TDSqS3.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - has opened at 2:00 on 6/20 (Tue) (UTC)! Official Dis",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1671050255272648704",
-        "start_time": 1687226420,
-        "end_time": 1687805960
-      },
-      {
-        "id": 701,
-        "line_type": "JP",
-        "title": "活动「夏の特殊作戦！ RABBIT小隊と消えたエビの謎」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPVを公開します！ D.U.に流通するお弁当からエビが消えてしまいました！ 他の自治区では流通しているみたいですし、これはRABBIT小隊の皆さんの力を借りて調査する必要",
-        "type": "OutsideGames",
-        "url": "",
-        "start_time": 1687147260,
-        "end_time": 1687147260
-      },
-      {
-        "id": 698,
-        "line_type": "JP",
-        "title": "任务Hard2倍#25",
-        "image": "https://static.kivo.wiki/images/timeline/Eayp9HJkUyZfz22tidDcErXZOnQG4270.jpg",
-        "body_summary": "【キャンペーン予告】 6月18日(日)から「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンを開催します！ ▼開催期間 6月18日(日)4:00〜6月21日(水)3:59 先日開放された「",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1669178172712296448",
-        "start_time": 1687032000,
-        "end_time": 1687291199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223904,
+  "time": 1788302298,
   "version": "1.0.0-beta.43"
 }

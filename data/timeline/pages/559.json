@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 185,
+        "line_type": "JP",
+        "title": "指名手配2倍#8",
+        "image": "https://static.kivo.wiki/images/timeline/uEqup71BfJvbFcqO2xunqfqEpVifvv2q.jpg",
+        "body_summary": "【キャンペーン予告】 10月6日(水)04:00から、「指名手配」における素材のドロップ量が2倍になるキャンペーンが開催されます！ この機会に、生徒さんたちのスキルを成長させてみてはいかがでしょうか？",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1444875183387394050",
+        "start_time": 1633464000,
+        "end_time": 1633982399
+      },
+      {
+        "id": 831,
+        "line_type": "Globle",
+        "title": "国际服预约预告",
+        "image": "https://static.kivo.wiki/images/timeline/anmSXyOvPPQZojrRleURSuLl6sYuaws2.jpg",
+        "body_summary": "✨Breaking News!✨ Blue Archive’s Pre-Registration will finally begin on October 14th! It's just aroun",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1443759493368541204",
+        "start_time": 1633054020,
+        "end_time": 1633054020
+      },
+      {
+        "id": 184,
+        "line_type": "JP",
+        "title": "违规账号封禁4",
+        "image": "https://static.kivo.wiki/images/timeline/2aAALp7Tjnf8AocWUHl1JBcyKxZXdmG3.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご確",
+        "type": "Other",
+        "url": "/twitter.com/Blue_ArchiveJP/status/1443210198521290756",
+        "start_time": 1632919440,
+        "end_time": 1632919440
+      },
       {
         "id": 954,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1442731052330487815",
         "start_time": 1632888000,
         "end_time": 1632924000
-      },
-      {
-        "id": 1823,
-        "line_type": "JP",
-        "title": "「船上のバニーチェイサー」前夜祭1200钻",
-        "image": "https://static.kivo.wiki/images/timeline/TDD3Z5f7YCNzzwl5sbWLpzyUuDCt8RJP.jpg",
-        "body_summary": "【前夜祭】 新イベント「船上のバニーチェイサー」がまもなく開催です！ 本日はその前夜祭ということで、潜入資金として「青輝石×1200」を全ての先生方に特別支給します！ C&Cの皆さんと一緒に支度して、",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1442761273641369601",
-        "start_time": 1632816064,
-        "end_time": 1632816064
-      },
-      {
-        "id": 1824,
-        "line_type": "JP",
-        "title": "活动「船上のバニーチェイサー」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPVを公開します！ ミレニアムの問題児「白兎」を追ってやってきた先は他校の豪華クルーズ船！ターゲット確保のため「C＆C」の潜入ミッションスタートです！！ ▽高画質版はこち",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1442323720496824323",
-        "start_time": 1632711764,
-        "end_time": 1632711764
-      },
-      {
-        "id": 179,
-        "line_type": "JP",
-        "title": "卡池「閃きよ、この世界を照らして」",
-        "image": "https://static.kivo.wiki/images/timeline/MgNtAEbszulimpaItw3Cvr2WWYkDsjAC.jpg",
-        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「閃きよ、この世界を照らして」がまもなく開催されます！ 🔷ピックアップ生徒 ヒビキ (CV:#名塚佳織) 🔷詳細 https://bluearchive.j",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1440541637617209357",
-        "start_time": 1632391200,
-        "end_time": 1632888000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224037,
+  "time": 1788302412,
   "version": "1.0.0-beta.43"
 }

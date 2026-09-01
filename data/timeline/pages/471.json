@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1336,
+        "line_type": "Globle",
+        "title": "国际服例行维护33",
+        "image": "",
+        "body_summary": "[2/28 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/28 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1629076267193753600",
+        "start_time": 1677549605,
+        "end_time": 1677567605
+      },
+      {
+        "id": 1337,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍14",
+        "image": "https://static.kivo.wiki/images/timeline/ElSaGkHjL5d1auqTmH46WhJvCwsPOZyb.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 2/27 (Mon), the amount of rewards dropped in Bounty will be doub",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1629375642776240129",
+        "start_time": 1677524449,
+        "end_time": 1678129189
+      },
+      {
+        "id": 597,
+        "line_type": "JP",
+        "title": "改bug送十连",
+        "image": "",
+        "body_summary": "【不具合修正】 下記のお知らせにて、現在確認された不具合および進捗状況をご報告いたします。 ▼お知らせ https://bluearchive.jp/news/newsJump/297 現在、不具合の",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/1630222163218419720?s=20",
+        "start_time": 1677497917,
+        "end_time": 1677497917
+      },
       {
         "id": 922,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1626897793930653696",
         "start_time": 1677009630,
         "end_time": 1677614370
-      },
-      {
-        "id": 1334,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁16",
-        "image": "",
-        "body_summary": "[2/21(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1627951772169023489",
-        "start_time": 1676968966,
-        "end_time": 1676968966
-      },
-      {
-        "id": 1331,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习6",
-        "image": "https://static.kivo.wiki/images/timeline/0woqDTuZNL9tK9Hqr6mU4UX9pniBvoyy.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Breakthrough Drill) has opened, at 02:00 AM",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1627850600145735681",
-        "start_time": 1676944834,
-        "end_time": 1677524374
-      },
-      {
-        "id": 1333,
-        "line_type": "Globle",
-        "title": "国际服特别依赖3倍4 任务hard3倍4",
-        "image": "https://static.kivo.wiki/images/timeline/lyU5wpij4VHKCtuKuwFNlaxryYg83NhW.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Commissions & Missions (Hard) will b",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1626838927729385474",
-        "start_time": 1676919625,
-        "end_time": 1677524365
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223933,
+  "time": 1788302322,
   "version": "1.0.0-beta.43"
 }

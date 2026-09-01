@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 343,
+        "line_type": "JP",
+        "title": "例行维护44",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどお願いいたします。 ▼実施日時 5/24(火) 11:00 〜 ",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1528616728338440192?s=20",
+        "start_time": 1653407338,
+        "end_time": 1653407338
+      },
+      {
+        "id": 342,
+        "line_type": "JP",
+        "title": "卡池「逃げ水を夢に見て」＆「木枯らしに目を引かれ」",
+        "image": "https://static.kivo.wiki/images/timeline/vWYtO0q7UDNLLFL6pgnj3Hh6V5gPZl4e.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「逃げ水を夢に見て」＆「木枯らしに目を引かれ」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ミサキ(CV：#土屋李央) ★3 ヒヨリ(CV：#中原麻衣) ",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1528601642920476672?s=20",
+        "start_time": 1653407083,
+        "end_time": 1654703083
+      },
+      {
+        "id": 340,
+        "line_type": "JP",
+        "title": "指名手配2倍#16 & 课程表2倍#4",
+        "image": "https://static.kivo.wiki/images/timeline/3Ns6H5TLxZrASeG6g8yRcbN4u3tmSxyn.jpg",
+        "body_summary": "【キャンペーン予告】 5月24日(火) 4:00より「指名手配」ならびに「スケジュール」でのドロップ量が2倍になるキャンペーンが開催されます！ いつもより効率的に生徒さんの育成素材が入手できる機会です",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1527121925042241536?s=20",
+        "start_time": 1653406932,
+        "end_time": 1654098132
+      },
       {
         "id": 339,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1525310126277926912?s=20",
         "start_time": 1652888325,
         "end_time": 1653406725
-      },
-      {
-        "id": 1099,
-        "line_type": "Globle",
-        "title": "国际服卡池「There you are, Master! Me and my cute bunny outfit have been waiting!」",
-        "image": "https://static.kivo.wiki/images/timeline/YfpDp0YSkn33fmd1bNywsPRcGCboL8mz.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 5/17 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1525400532076085248",
-        "start_time": 1652774417,
-        "end_time": 1653966017
-      },
-      {
-        "id": 1098,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第二章前篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/sDpOWnKqdqhRmiJ9JHg57HzG3RDrf88k.jpg",
-        "body_summary": "[Update Preview] Sensei, the first half of Main Story Vol.3 Eden Treaty Ch.2, Paradise Paradox will ",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1524645549634248704",
-        "start_time": 1652770859,
-        "end_time": 1652770859
-      },
-      {
-        "id": 1105,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第二章前篇更新特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/x17rVujnxitACyLmUsassT37jiWlG72V.jpg",
-        "body_summary": "[Main Story Update Celebration Special Gift] Sensei, Schale prepared a celebration gift for the Main",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1526460007180652544",
-        "start_time": 1652770831,
-        "end_time": 1652770831
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223993,
+  "time": 1788302375,
   "version": "1.0.0-beta.43"
 }

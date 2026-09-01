@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5070,
+        "line_type": "JP",
+        "title": "100次免费招募#3",
+        "image": "https://static.kivo.wiki/images/timeline/7DbLka5MniCvc7IiaflJwCbGKC6pbvnA.png",
+        "body_summary": "【新情報④】 7/24(月)メンテナンス後、「1日1回無料10回募集キャンペーン」が開催されます！ 最大で100回の募集が無料で行える豪華イベントをお見逃しなく！ ※募集し忘れた日があっても、開催期間",
+        "type": "Other",
+        "url": "x.com/i/status/1683042818317778944",
+        "start_time": 1690167600,
+        "end_time": 1690945199
+      },
+      {
+        "id": 733,
+        "line_type": "JP",
+        "title": "例行维护74（提前结束）",
+        "image": "",
+        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 7/24(月) 11:00 〜 19:30前後 ▼詳細 https://bluearc",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1683288407144026112",
+        "start_time": 1690167600,
+        "end_time": 1690197060
+      },
+      {
+        "id": 732,
+        "line_type": "JP",
+        "title": "单曲「優しさの記憶」「ワンダー・ファニー・ハーモニー」发行",
+        "image": "https://static.kivo.wiki/images/timeline/qy10KOv6GwZnSSjeGR4eVLG0DBqRjjGZ.png",
+        "body_summary": "【サブスク配信開始】 メインストーリー最終編「あまねく奇跡の始発点」を彩った楽曲！ 「優しさの記憶」が各種音楽サービスで販売・配信が開始いたしました！ ▼各種音楽サービスはこちら！ https://n",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1683132628432736257",
+        "start_time": 1690128660,
+        "end_time": 1690128660
+      },
       {
         "id": 731,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1680834725798346753",
         "start_time": 1689930045,
         "end_time": 1689930045
-      },
-      {
-        "id": 728,
-        "line_type": "JP",
-        "title": "炸服29（提前结束）",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 サーバー機器を調整するため、下記の時間に臨時メンテナンスを実施いたします。 ▼実施日時 2023年7月21日(金) 11:00 〜 18:00前後 ▼詳細 https://blu",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1681930117365526529",
-        "start_time": 1689908400,
-        "end_time": 1689930540
-      },
-      {
-        "id": 1783,
-        "line_type": "CN",
-        "title": "蔚蓝档案公测版本调整说明",
-        "image": "https://static.kivo.wiki/images/timeline/vQUlj68e2trRIAvwGsrYe7NtkekQ4xmE.jpg",
-        "body_summary": "亲爱的老师，您好。 《蔚蓝档案》现已定档8月3日开启全平台公测。为了改善各位老师的游戏体验，现已对游戏公测内容进行了优化调整。此外，在公测后的版本，我们仍会不断进行优化，争取给老师们带来更好的游戏体验",
-        "type": "Other",
-        "url": "weibo.com/6011443154/NaKdM1Odq",
-        "start_time": 1689840325,
-        "end_time": 1689840325
-      },
-      {
-        "id": 2199,
-        "line_type": "CN",
-        "title": "《蔚蓝档案》商品优化说明",
-        "image": "https://static.kivo.wiki/images/timeline/y3cNAo0oKxUitzWldblVJp6iYPhaK297.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 《蔚蓝档案》现已定档8月3日开启全平台公测。同时将对青辉石内购档位做出优化调整，并追加开服纪念【3★必得】招募礼包。 详细优化调整内容及礼包内容可查看下方图片，感谢您",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/137",
-        "start_time": 1689825657,
-        "end_time": 1689825657
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223896,
+  "time": 1788302290,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 754,
+        "line_type": "JP",
+        "title": "晄轮大祭网站复刻（已关闭）",
+        "image": "https://static.kivo.wiki/images/timeline/nEsjXsdxsAqqepeZS0xepQWWMQ5S1LAj.jpg",
+        "body_summary": "【晄輪大祭公式サイト】 「On your mark ＠ millennium ～キヴォトス晄輪大祭～」の復刻開催を記念して、前回期間限定で公開した「キヴォトス大運動会 晄輪大祭」公式サイトを10/4(",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1697819222980870284",
+        "start_time": 1693630200,
+        "end_time": 1696348800
+      },
+      {
+        "id": 1664,
+        "line_type": "CN",
+        "title": "2nd PV发布",
+        "image": "",
+        "body_summary": "转眼间，《蔚蓝档案》简中服已经上线1个月了，非常感谢老师们在这段时间内对《蔚蓝档案》的支持。 “老师，属于我们的故事才刚刚开始！请尽情期待接下来发生在基沃托斯的故事吧！” https://www.bi",
+        "type": "OutsideGames",
+        "url": "t.bilibili.com/836596063777325145",
+        "start_time": 1693623600,
+        "end_time": 1693661169
+      },
+      {
+        "id": 1515,
+        "line_type": "Globle",
+        "title": "国际服「Phrenapates Showdown」活动PV公开",
+        "image": "",
+        "body_summary": "[Phrenapates Showdown Event Notice] Sensei, the Phrenapates Showdown animation PV is available now! ",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1697536352957735267",
+        "start_time": 1693559179,
+        "end_time": 1693559179
+      },
       {
         "id": 1756,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "bluearchive-cn.com/news/204",
         "start_time": 1693489830,
         "end_time": 1694699430
-      },
-      {
-        "id": 1748,
-        "line_type": "CN",
-        "title": "【区域13】开放",
-        "image": "https://static.kivo.wiki/images/timeline/kCt7UR27xc3RCw5X2sXgljHtSVHchQNP.jpg",
-        "body_summary": "【任务区域13】即将开放！此新区域以主题公园为舞台进行战斗，以重装甲为主的新敌人也将登场。 ■ 开放时间 08月31日（周四）18:00 维护结束后 ■ 开放条件 通关任务（普通难度）12-5 ■ 新",
-        "type": "ContentImprovements",
-        "url": "www.bilibili.com/opus/834817964478824568",
-        "start_time": 1693476042,
-        "end_time": 1693476042
-      },
-      {
-        "id": 2175,
-        "line_type": "CN",
-        "title": "游戏开发部剧情更新",
-        "image": "https://static.kivo.wiki/images/timeline/OQJWWnfE4hfI0Gd9RTvGwdg1OoqPAdGc.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 全新社团及其对应的支线剧情将于 08月31日（周四）18:00 维护结束后 更新！ 这些剧情记录了女生们诙谐幽默但又不失爆发力和深度的青春故事。 ■ 游戏开发部 今年",
-        "type": "OtherStory",
-        "url": "bluearchive-cn.com/news/206",
-        "start_time": 1693476032,
-        "end_time": 1693476032
-      },
-      {
-        "id": 1752,
-        "line_type": "CN",
-        "title": "网页活动【Best Game！ 游戏开发部的制作日记】",
-        "image": "https://static.kivo.wiki/images/timeline/pANnLCmMB9YQcjipyrRdT5wWsHPxFDs9.jpg",
-        "body_summary": "【Best Game！ 游戏开发部的制作日记】特别网页活动即将开启！ 老师！游戏开发部的成员们似乎打算在最近推出他们的最新力作，据说是有史以来最好的游戏！但目前开发似乎遇到了难题，老师，您能帮帮她们吗",
-        "type": "WebEvent",
-        "url": "www.bilibili.com/opus/835189513530638340",
-        "start_time": 1693476012,
-        "end_time": 1695239952
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223878,
+  "time": 1788302275,
   "version": "1.0.0-beta.43"
 }

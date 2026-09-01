@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2356,
+        "line_type": "JP",
+        "title": "TV动画 千夏设定画公开",
+        "image": "https://static.kivo.wiki/images/timeline/CEp4XfejCnOxAo95KSa5KttkP43vVRuL.jpg",
+        "body_summary": "#ブルアカTVアニメ 設定画を紹介✨ 本日は #火宮チナツ 💕 #ブルアカ",
+        "type": "OutsideGames",
+        "url": "twitter.com/BlueArchive_TV/status/1773183237256274018",
+        "start_time": 1711598400,
+        "end_time": 1711598400
+      },
+      {
+        "id": 2348,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒",
+        "image": "",
+        "body_summary": "【制約解除決戦・開催】 先生、降り注ぐ稲妻と、絶え間なく襲ってくる雷球に注意です……！ セトの憤怒は各区間ごとに変化していくようなので、油断せず挑みましょう……！ 「制約解除決戦・セトの憤怒」開催です",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1773169070126624777",
+        "start_time": 1711594800,
+        "end_time": 1713902399
+      },
+      {
+        "id": 2338,
+        "line_type": "CN",
+        "title": "学院交流会2倍1",
+        "image": "https://static.kivo.wiki/images/timeline/PO7hM7pDo7b7z4KVBhBvC7uVeZ90pKRG.jpg",
+        "body_summary": "【道具掉落量2倍活动】即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【学院交流会】道具掉落量2倍 ■ 活动时间 • 03月28日 04:00 ~",
+        "type": "Double",
+        "url": "weibo.com/6011443154/O6EVM9zZn",
+        "start_time": 1711569605,
+        "end_time": 1712174345
+      },
       {
         "id": 2347,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "weibo.com/ttarticle/p/show?id=2309405016567711924588",
         "start_time": 1711526418,
         "end_time": 1711526418
-      },
-      {
-        "id": 2355,
-        "line_type": "JP",
-        "title": "TV动画 伊织设定画公开",
-        "image": "https://static.kivo.wiki/images/timeline/pHxKU7qGTAsxriOddp98HThMXwVR7Jmp.jpg",
-        "body_summary": "#ブルアカTVアニメ 設定画を紹介✨ 本日は #銀鏡イオリ 💕 #ブルアカ",
-        "type": "OutsideGames",
-        "url": "twitter.com/BlueArchive_TV/status/1772820839525728294",
-        "start_time": 1711512000,
-        "end_time": 1711512000
-      },
-      {
-        "id": 2346,
-        "line_type": "JP",
-        "title": "例行维护91",
-        "image": "https://static.kivo.wiki/images/timeline/6E92jmjoyrQEajRAjld9SpxJUnXHvYfx.gif",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/27(水) 11:00 〜 19:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1772503822491070937",
-        "start_time": 1711508400,
-        "end_time": 1711537200
-      },
-      {
-        "id": 2345,
-        "line_type": "JP",
-        "title": "指名手配2倍#35",
-        "image": "https://static.kivo.wiki/images/timeline/0n5I8KcmoNmrG0KrL4udf2IKsV1EAtvQ.jpg",
-        "body_summary": "【キャンペーン予告】 3月27日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ オーパーツにBD、技術ノートと生徒さん達の育成に必要な素材を、この機会に集め",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1772186911089852634",
-        "start_time": 1711483200,
-        "end_time": 1712087999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223787,
+  "time": 1788302197,
   "version": "1.0.0-beta.43"
 }

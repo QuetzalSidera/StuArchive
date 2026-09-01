@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4278,
+        "line_type": "CN",
+        "title": "大决战 佩洛洛斯拉 • 野外战",
+        "image": "https://static.kivo.wiki/images/timeline/x2NMrXFM7o1lKBr5dFGgGWSqi2CDYWqW.png",
+        "body_summary": "在D.U.的附近海域发现了来历不明的巨大怪兽。 这只怪兽的外形看起来很像很久以前沉入海底的桃桃朋友玩偶。 虽然不知道为什么会发生这种事，但无论如何，必须阻止这只巨大怪兽的进击！ ■ 活动时间 • 赛季",
+        "type": "BigRaid",
+        "url": "www.bilibili.com/opus/1091949051513929733",
+        "start_time": 1753326132,
+        "end_time": 1753930932
+      },
+      {
+        "id": 4277,
+        "line_type": "CN",
+        "title": "美咲、野宫、花江（圣诞）爱用品新增",
+        "image": "https://static.kivo.wiki/images/timeline/f2it9qBjCoBWS6idh2GMQsRxKQcWO0bI.png",
+        "body_summary": "【成员爱用品】即将更新！ 07月24日版本更新后，将新增成员“美咲”、“野宫”、“花江（圣诞）”的爱用品，通过爱用品可以使对应成员获得属性增加、基础技能提升等加成各种效果，同时还将解锁全新的成员专属好",
+        "type": "ContentImprovements",
+        "url": "www.bilibili.com/opus/1091902665893347332",
+        "start_time": 1753325830,
+        "end_time": 1753325830
+      },
+      {
+        "id": 4236,
+        "line_type": "CN",
+        "title": "2周年倒计时签到活动",
+        "image": "https://static.kivo.wiki/images/timeline/KON44BWn63hzuAkQTsw6u7febGH1DDsh.png",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 2周年倒计时登录活动即将开始，活动期间累计登录游戏，即可获得青辉石奖励！ ■ 活动时间 07月24日 04:00 ~ 07月31日 13:59 ■ 奖励内容 累计登录",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1477",
+        "start_time": 1753318800,
+        "end_time": 1753923599
+      },
       {
         "id": 5725,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1946553625800774050?s=19",
         "start_time": 1753182000,
         "end_time": 1753182000
-      },
-      {
-        "id": 4239,
-        "line_type": "JP",
-        "title": "活动「夏空のやくそく」",
-        "image": "https://static.kivo.wiki/images/timeline/Q423WLF63LmtbuvO0ExTUhoN8GiHue36.jpg",
-        "body_summary": "【新情報②】 7月22日(火)メンテナンス後、新イベント「夏空のやくそく」が開催されます。 今回のイベントでは、生徒「イチカ(水着)」さんをイベント報酬としてお迎えすることができますよ♪ 詳しい遊び方",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1946534184035704848",
-        "start_time": 1753182000,
-        "end_time": 1754449199
-      },
-      {
-        "id": 4238,
-        "line_type": "JP",
-        "title": "诗乃的战斗通行证 S1",
-        "image": "https://static.kivo.wiki/images/timeline/DhDDFmJiYCcxW6tFAhJBrEzbyVkbeK6V.jpg",
-        "body_summary": "【新情報㉒】 4.5周年を記念して、期間限定コンテンツ「シノンのバトルパス」が開催されます! 「シノンのバトルパス」ではバトルパスのレベルに応じて報酬を獲得できます。 また、有料の成長CHでは特別な報",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1946558686849388875?s=19",
-        "start_time": 1753182000,
-        "end_time": 1753182000
-      },
-      {
-        "id": 4237,
-        "line_type": "JP",
-        "title": "成员招募类型追加：「アーカイブ募集」",
-        "image": "https://static.kivo.wiki/images/timeline/gOOGiVMcImMz6Wf1CygJjvP8vbaIla6M.jpg",
-        "body_summary": "【新情報⑳】 7月22日(火)メンテナンス後より、新しく「アーカイブ募集」が実装されます！ アーカイブ募集とは、ラインナップの生徒さんを、先生自らピックアップ生徒さんに選択できる募集です。 また、ライ",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1946554688226402485",
-        "start_time": 1753182000,
-        "end_time": 1753182000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223560,
+  "time": 1788302002,
   "version": "1.0.0-beta.43"
 }

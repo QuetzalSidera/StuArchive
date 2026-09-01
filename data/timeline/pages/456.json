@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1404,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍15 hard2倍15",
+        "image": "https://static.kivo.wiki/images/timeline/6LYG7wnw9v6RB25xUZuyDjQ9UBMwevBK.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1654742794173394945",
+        "start_time": 1683572409,
+        "end_time": 1684436349
+      },
+      {
+        "id": 1407,
+        "line_type": "Globle",
+        "title": "国际服炸服13",
+        "image": "",
+        "body_summary": "[5/6 (Sat) Temporary Maintenance Notice] We'll be undergoing temporary maintenance on 5/6 (Sat). Mai",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1654778281592516609",
+        "start_time": 1683365432,
+        "end_time": 1683372632
+      },
+      {
+        "id": 1403,
+        "line_type": "Globle",
+        "title": "国际服「Kivotos Halo Festival」小动画",
+        "image": "",
+        "body_summary": "[Kivotos Halo Festival Ep. 1] 'Ep. 1: The Gourmet Research Society' is now available! There will be ",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1654410614813659136",
+        "start_time": 1683277223,
+        "end_time": 1683277223
+      },
       {
         "id": 1402,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1652206080749862913",
         "start_time": 1682967631,
         "end_time": 1683572431
-      },
-      {
-        "id": 1398,
-        "line_type": "Globle",
-        "title": "国际服晄轮大祭障碍物赛跑PV",
-        "image": "",
-        "body_summary": "[Halo Festival Obstacle Race PV] Obstacle Race for Halo Festival is ready to begin. Let's see who wi",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1651541708721537024",
-        "start_time": 1682593202,
-        "end_time": 1682593202
-      },
-      {
-        "id": 678,
-        "line_type": "JP",
-        "title": "违规账号封禁21",
-        "image": "https://static.kivo.wiki/images/timeline/iBiRouQod7j5yFCc8mTfXIcDBgeHkevx.jpg",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1651557760897794049?s=20",
-        "start_time": 1682571195,
-        "end_time": 1682571195
-      },
-      {
-        "id": 2672,
-        "line_type": "JP",
-        "title": "爱用品追加：泉、艾米、日奈（泳装）、日富美（泳装）",
-        "image": "https://static.kivo.wiki/images/timeline/H0CdpERD0LOMUXAKbMq1udGOR83uuAhV.jpg",
-        "body_summary": "【新情報⑫】 4/26(水)メンテナンス後、「イズミ」さん、「エイミ」さん、「ヒナ(水着)」さん、「ヒフミ(水着)」の「愛用品」が実装決定です！ 今回も四名の生徒さんの絆ストーリーが1話追加されます！",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1649740442886606849",
-        "start_time": 1682503254,
-        "end_time": 1682503254
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223915,
+  "time": 1788302307,
   "version": "1.0.0-beta.43"
 }

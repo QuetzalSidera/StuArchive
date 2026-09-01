@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1167,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍9 hard2倍9",
+        "image": "https://static.kivo.wiki/images/timeline/17G0ThktCkrsivwV1iyG8YVBzVHDbXIm.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1563813640976748544",
+        "start_time": 1661799637,
+        "end_time": 1662404377
+      },
+      {
+        "id": 420,
+        "line_type": "JP",
+        "title": "违规账号封禁13",
+        "image": "https://static.kivo.wiki/images/timeline/8lFWsRies9chsUgfXwBZQrKK3okfXHgR.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご確",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1562400578839293954",
+        "start_time": 1661343900,
+        "end_time": 1661343900
+      },
+      {
+        "id": 419,
+        "line_type": "JP",
+        "title": "回忆大厅追加语音：泉",
+        "image": "https://static.kivo.wiki/images/timeline/eDRUusNkuSNBkWSsWGf8aUPTeIe54vs1.jpg",
+        "body_summary": "【トークモーション】 今回のアップデートにて、イズミさんのメモリアルロビーにトークモーションが追加されます！ モーションの追加により今まで以上に可愛らしい姿のイズミさんを見ることができますので、メンテ",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1562364177951649792",
+        "start_time": 1661338800,
+        "end_time": 1661338800
+      },
       {
         "id": 418,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1560552459470536705",
         "start_time": 1661284800,
         "end_time": 1661889599
-      },
-      {
-        "id": 1161,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第三章后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/nqqrrRnV8mYtDwvJPJ8x4spmfbumZRmb.jpg",
-        "body_summary": "[Update Preview] 8/23 (Tue), the second half of Main Story Vol.3 Eden Treaty Ch.3 Our Stories will b",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1560521955111059457",
-        "start_time": 1661238040,
-        "end_time": 1661238040
-      },
-      {
-        "id": 1160,
-        "line_type": "Globle",
-        "title": "国际服总力战 Perorodzilla (Field) 1",
-        "image": "https://static.kivo.wiki/images/timeline/o7iLLisKC0U9x1eRKmL1fdeueJmUKcbm.jpg",
-        "body_summary": "[Total Assault Preview] Perorodzilla(Field Warfare) will be held on 8/23 (Tue)! Do you have your str",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1559797177794367488",
-        "start_time": 1661238035,
-        "end_time": 1661785175
-      },
-      {
-        "id": 1162,
-        "line_type": "Globle",
-        "title": "国际服卡池「What the...? How long have you been there? Forget what you just saw!」",
-        "image": "https://static.kivo.wiki/images/timeline/opMmMII8BYcwehgWwROgo9K45WxTsp7N.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 8/23 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1560914467436630016",
-        "start_time": 1661238010,
-        "end_time": 1661238010
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223976,
+  "time": 1788302360,
   "version": "1.0.0-beta.43"
 }

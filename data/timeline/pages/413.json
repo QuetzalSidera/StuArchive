@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1553,
+        "line_type": "Globle",
+        "title": "国际服任务hard2倍19",
+        "image": "https://static.kivo.wiki/images/timeline/Z6dbmFhciaZLvucWpFAt9BMwAsbOpzdR.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1713089756282704348",
+        "start_time": 1697482838,
+        "end_time": 1697914778
+      },
+      {
+        "id": 1552,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍19",
+        "image": "https://static.kivo.wiki/images/timeline/8posqLLQQo17hR1g45acwcj6YnuwjgAV.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/16 (Mon), Commissions rewards will be doubled! Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1713087244213375303",
+        "start_time": 1697482816,
+        "end_time": 1698087556
+      },
+      {
+        "id": 1650,
+        "line_type": "CN",
+        "title": "任务（困难难度）2倍3",
+        "image": "https://static.kivo.wiki/images/timeline/aLw8ysGs7uQeIbs3ogzBJLWQdVtu1VGV.png",
+        "body_summary": "【任务（困难难度）】道具掉落量2倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【任务（困难难度）】掉落量2倍 ■ 活动时间 10月16日 ",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/852289874267471920",
+        "start_time": 1697400000,
+        "end_time": 1697659199
+      },
       {
         "id": 1649,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "bluearchive-cn.com/news/279",
         "start_time": 1697042988,
         "end_time": 1698252588
-      },
-      {
-        "id": 808,
-        "line_type": "JP",
-        "title": "主线关卡开放：Area24",
-        "image": "https://static.kivo.wiki/images/timeline/AjWXkcvRMKSdXdgJaKG19dTd9TQSFSbq.jpg",
-        "body_summary": "【Area開放予告】 メンテナンス終了後、「任務 Area24」が開放されます！ 各ステージでは「教育BD」や「オーパーツ」が獲得できる他、「Normal 24-5」の初回報酬で「カフェ設備コアLv.",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1712000148103110993",
-        "start_time": 1697014800,
-        "end_time": 1697014800
-      },
-      {
-        "id": 805,
-        "line_type": "JP",
-        "title": "卡池「ステアミルクは湯けむりと共に」卡池复刻「湯けむりは星月夜に溶けて」「革命と極楽のオートノミー」「責務と休息のアンティノミー」",
-        "image": "https://static.kivo.wiki/images/timeline/ToybmIVxaTlFMkM4hTGQODJVERshV4Y2.jpg",
-        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「ステアミルクは湯けむりと共に」を開催します！ 「227号温泉郷の運営記録！」の常設化に合わせて、過去開催のピックアップ募集3種も開催されますので",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1711607554072326605",
-        "start_time": 1697014800,
-        "end_time": 1697597999
-      },
-      {
-        "id": 804,
-        "line_type": "JP",
-        "title": "夏莱的总决算with联邦学生会3",
-        "image": "https://static.kivo.wiki/images/timeline/mQSm4QPw0LsGzMdxazqReljZhHV0p3i7.jpg",
-        "body_summary": "【イベント紹介】 10/11(水)メンテナンス後、「シャーレの総決算with連邦生徒会」が開催されます！ 「任務」などで「AP」を消費すると「高級万年筆」が獲得でき、特設ショップにて様々な「オーパーツ",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1710943188750676451",
-        "start_time": 1697014800,
-        "end_time": 1698116399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223864,
+  "time": 1788302263,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5585,
+        "line_type": "JP",
+        "title": "活动 「嵐過天晴」",
+        "image": "https://static.kivo.wiki/images/timeline/0hg8td4DAJ8cPWgh9aBX4JWDHepvFm9C.jpg",
+        "body_summary": "【新情報 ①】 6月24日(水)メンテナンス後、新イベント「嵐過天晴」が開催されます。 新イベントに合わせてピックアップ募集「淡きこと水のごとし」＆「夏中に能く身を成すを」の開催が決定しました！ 詳し",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2068290034101539126",
+        "start_time": 1782306226,
+        "end_time": 1783515826
+      },
+      {
+        "id": 5584,
+        "line_type": "JP",
+        "title": "卡池「淡きこと水のごとし」＆「夏中に能く身を成すを」",
+        "image": "https://static.kivo.wiki/images/timeline/ioOMrBBEy3f4s8ZiqJqPxiATniAMzsYQ.jpg",
+        "body_summary": "【新情報 ①】 6月24日(水)メンテナンス後、新イベント「嵐過天晴」が開催されます。 新イベントに合わせてピックアップ募集「淡きこと水のごとし」＆「夏中に能く身を成すを」の開催が決定しました！ 詳し",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2068290034101539126",
+        "start_time": 1782305574,
+        "end_time": 1783515174
+      },
+      {
+        "id": 5618,
+        "line_type": "JP",
+        "title": "例行维护#145",
+        "image": "https://static.kivo.wiki/images/timeline/xQl7PDWIRNLv6EE0FNkSoCsrxj7d1kmY.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年6月24日(水) 11:00 〜 19:00前後 ▼詳細 ht",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2069299554793697655",
+        "start_time": 1782270000,
+        "end_time": 1782298800
+      },
       {
         "id": 5625,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "/forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
         "start_time": 1782190800,
         "end_time": 1783364399
-      },
-      {
-        "id": 5672,
-        "line_type": "Globle",
-        "title": "国际服主线剧情第一部EX篇韩语配音",
-        "image": "https://static.kivo.wiki/images/timeline/Hl6wc7tvb5VUDv22waZB9tgVQkO6beD2.jpg",
-        "body_summary": "Main Story KO Dub UpdateAfter the 6/23 (Tue) maintenance, Main Story Ex. Decagrammaton Chapter 1: Sn",
-        "type": "ContentImprovements",
-        "url": "x.com/EN_BlueArchive/status/2069301157340782609",
-        "start_time": 1782190800,
-        "end_time": 1782190800
-      },
-      {
-        "id": 5660,
-        "line_type": "Globle",
-        "title": "国际服卡池「Locking on Sensei's heart... I'm really not used to this.」",
-        "image": "https://static.kivo.wiki/images/timeline/Qrh2IvwzoqMCrJ6f7K1LnNzkYGZ5NnHq.png",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/23 (Tue)! 💌Pick-Up Students:",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2067868735247892501",
-        "start_time": 1782180000,
-        "end_time": 1783389599
-      },
-      {
-        "id": 5626,
-        "line_type": "Globle",
-        "title": "国际服卡池「Practice ike it's real, treat it like it's a game...! I'll do my best...!」",
-        "image": "https://static.kivo.wiki/images/timeline/YRGJ2WQOGHWvzjKRv3iJ2alnpzyPzDyJ.png",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/23 (Tue)! 💌Pick-Up Students:",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2067864962794680486",
-        "start_time": 1782180000,
-        "end_time": 1783389599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223406,
+  "time": 1788301869,
   "version": "1.0.0-beta.43"
 }

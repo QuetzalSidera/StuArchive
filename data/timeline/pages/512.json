@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 399,
+        "line_type": "JP",
+        "title": "屋外戦・ケセド4",
+        "image": "https://static.kivo.wiki/images/timeline/H77LBCSATPf9k4CkLOJCRJEFiG7XVsQN.jpg",
+        "body_summary": "【総力戦・予告】 7月27日(水)11:00より、総力戦「屋外戦・ケセド」が開幕します！ 順位に応じて獲得できる「ケセド(屋外戦)のトロフィー」は「テイラーメイド」のみで製造、獲得可能な「トロフィース",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1551492535356633088",
+        "start_time": 1658890800,
+        "end_time": 1659470399
+      },
+      {
+        "id": 400,
+        "line_type": "JP",
+        "title": "特别依赖3倍 #4",
+        "image": "https://static.kivo.wiki/images/timeline/zy1VIH6ilZza9BSHc6DjQKfgIfNB0we4.jpg",
+        "body_summary": "【キャンペーン予告】 「特別依頼」でのドロップ量が3倍になるキャンペーンがまもなく開催されます！ 🔹開催期間 7月27日(水)4:00～8月3日(水)3:59 1.5 Anniversaryを記念した",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1551764324611686400",
+        "start_time": 1658865600,
+        "end_time": 1659470399
+      },
+      {
+        "id": 1144,
+        "line_type": "Globle",
+        "title": "国际服卡池「I, Nodoka am ready to serve you with all my heart!」",
+        "image": "https://static.kivo.wiki/images/timeline/ubcq7ndxIaDLNDKgpcBGJ1GzCpajLzLP.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 7/26 (Tue)! Target Pick Up Stu",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1550767721821876224",
+        "start_time": 1658818853,
+        "end_time": 1660014053
+      },
       {
         "id": 1142,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "x.com/i/status/1551401885823025152",
         "start_time": 1658718000,
         "end_time": 1659495599
-      },
-      {
-        "id": 398,
-        "line_type": "JP",
-        "title": "免费10连活动1",
-        "image": "https://static.kivo.wiki/images/timeline/HkXCtYSFXXMq41UizWRGSHTsh0Ny4QTZ.jpg",
-        "body_summary": "【無料10回募集キャンペーン】 先生！「1.5 Anniversary」を記念した1日1回無料で10回募集が行えるキャンペーンが本日11:00よりスタートしました！ 最大で100回の生徒さんの募集を行",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1551401885823025152",
-        "start_time": 1658718000,
-        "end_time": 1659495599
-      },
-      {
-        "id": 396,
-        "line_type": "JP",
-        "title": "限定卡池「色に出でにけりわが夏は」&「ものや詠もうと心問ふまで」",
-        "image": "https://static.kivo.wiki/images/timeline/EQKXbr9dKLl8v1CvRrkcyVTgrYCeyh8p.jpg",
-        "body_summary": "【ピックアップ募集・予告】 期間限定ピックアップ募集「色に出でにけりわが夏は」&「ものや詠もうと心問ふまで」がまもなく開催です！ 今回ピックアップ対象の生徒さんは募集期間終了後、常設に追加されません。",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1551039586234953728",
-        "start_time": 1658718000,
-        "end_time": 1659495599
-      },
-      {
-        "id": 1143,
-        "line_type": "Globle",
-        "title": "国际服暑期特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/su5wOC2JcLVI0UNjq53DQoFURA0NYq03.jpg",
-        "body_summary": "[Blue Archive's Summer Vacation Special Gift] Schale has prepared 2 special gifts for your Summer Va",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1550679594633728001",
-        "start_time": 1658545825,
-        "end_time": 1658545825
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223981,
+  "time": 1788302364,
   "version": "1.0.0-beta.43"
 }

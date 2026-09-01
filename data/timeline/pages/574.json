@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 57,
+        "line_type": "JP",
+        "title": "市街地戦・シロ＆クロ",
+        "image": "https://static.kivo.wiki/images/timeline/fVKtS2WNgohMvKcONs2M3QNwVtseE7Vl.jpg",
+        "body_summary": "【総力戦・シロ＆クロ】 メンテナンス後、「総力戦・シロ＆クロ」が開催されます！ どちらも防御タイプは「特殊装甲」で、初めに「シロ」と戦闘を行い、撃破すると今度は「クロ」との戦闘になります！ 今回は順位",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1374949180175577091?s=20",
+        "start_time": 1616665802,
+        "end_time": 1617184202
+      },
+      {
+        "id": 55,
+        "line_type": "JP",
+        "title": "总力战商店追加碎片：花江",
+        "image": "",
+        "body_summary": "【お知らせ】 明日のメンテナンス後、総力戦ショップにて下記のコンテンツが更新されます。 ・各アイテムの交換可能数をリセット ・「ハナエの神名文字」を追加 シーズン毎に交換できるアイテムが限られているた",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1374662401874792451?s=20",
+        "start_time": 1616665715,
+        "end_time": 1616665715
+      },
+      {
+        "id": 49,
+        "line_type": "JP",
+        "title": "例行维护8",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 ご協力をお願いいたします！ ▼実施日時 3/25(木) 12:00 〜 18:00 ▼詳細 bluearchive.jp/news",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1374588553477246977?s=20",
+        "start_time": 1616664843,
+        "end_time": 1616664843
+      },
       {
         "id": 48,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1371712940525592583?s=20",
         "start_time": 1616059197,
         "end_time": 1616059197
-      },
-      {
-        "id": 43,
-        "line_type": "JP",
-        "title": "任务Normal2倍#1",
-        "image": "https://static.kivo.wiki/images/timeline/cMLzIgHypsmKDrutNS0jvEqrwPwMIXHq.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 3月18日(木)04:00〜3月22日(月)03:59 この機会に生徒さんの装備",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1371310214188654595?s=20",
-        "start_time": 1616058867,
-        "end_time": 1616404467
-      },
-      {
-        "id": 42,
-        "line_type": "JP",
-        "title": "ケセド・試作型",
-        "image": "https://static.kivo.wiki/images/timeline/qmBkl4M7d7hjgggf5UTN5sZmoAKfh9Sz.jpg",
-        "body_summary": "【総力戦について】 総力戦 SEASON#1「ケセド・試作型」開催中！ 今回【ショップ】で交換できる各学園の「初級戦術教育BD」の数が増えました！ ※「ケセド・試作型」では順位報酬は存在せず、全先生に",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1369973904488366080?s=20",
-        "start_time": 1615453879,
-        "end_time": 1615972279
-      },
-      {
-        "id": 39,
-        "line_type": "JP",
-        "title": "卡池「その味は身命を賭してでも」",
-        "image": "https://static.kivo.wiki/images/timeline/YA5onyioCdv28MbAsRUku1jU3N9RkxIY.jpg",
-        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「その味は身命を賭してでも」がまもなく開催されます！ 🔷開催期間 2021年3月11日(木) メンテナンス後 ~ 2021年3月18日(木)メンテ",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/1368773477101047808?s=20",
-        "start_time": 1615453325,
-        "end_time": 1616058125
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224056,
+  "time": 1788302428,
   "version": "1.0.0-beta.43"
 }

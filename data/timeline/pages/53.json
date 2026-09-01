@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5332,
+        "line_type": "JP",
+        "title": "特别依赖掉落量大幅提高",
+        "image": "https://static.kivo.wiki/images/timeline/cpG5rK5Co38UtvVn0mxiRndhEabUCSnS.png",
+        "body_summary": "【新情報⑧】 4月21日(火)メンテナンス後より、「特別依頼」でのアイテムドロップ量が大幅にアップします！ #ブルアカ #ブルアカらいぶふぃーばーSP",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2045830947724280173",
+        "start_time": 1776765600,
+        "end_time": 1776765600
+      },
+      {
+        "id": 5325,
+        "line_type": "JP",
+        "title": "家具系列追加：「ヴァルキューレ警察学校」& 胡桃、妮可、音葵、桐乃 家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/bvjpw875EMSQOYGn4jnoDOty4GMnLIQC.png",
+        "body_summary": "【新情報⑥】 次の情報はこちらです♪ 新家具シリーズ「ヴァルキューレ警察学校」と新規家具モーションが追加されます。 今回の対象生徒さんと対象家具及び実装時間などの詳細情報はこちらの画像にてご確認くださ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2045829168290820324",
+        "start_time": 1776765600,
+        "end_time": 1776765600
+      },
+      {
+        "id": 5324,
+        "line_type": "JP",
+        "title": "限定卡池「こちらFOX2、真心はこの胸に」&「こちらFOX3、経験はこの脚に」",
+        "image": "https://static.kivo.wiki/images/timeline/5q4JUWdSxcgUXSdAVXbbWKyNQ5XP4A2w.png",
+        "body_summary": "【新情報⑤】 Ex. 「ロア追跡」編開幕に伴い限定ピックアップ募集「こちらFOX2、真心はこの胸に」＆「こちらFOX3、経験はこの脚に」が開催決定です！ 🔷開催期間 4月21日(火) メンテナンス後 ",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2045828242888929612",
+        "start_time": 1776765600,
+        "end_time": 1778032800
+      },
       {
         "id": 5323,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2045034526229844180",
         "start_time": 1776742028,
         "end_time": 1777341599
-      },
-      {
-        "id": 5345,
-        "line_type": "Globle",
-        "title": "国际服大决战 KAITEN FX Mk.0 (Urban) #6",
-        "image": "https://static.kivo.wiki/images/timeline/9COsXcweBSAdG8Kh2dRhreCBqZdGUfiU.jpg",
-        "body_summary": "[Grand Assault Preview] The Grand Assault - KAITEN FX Mk.0 (Urban Warfare) will start on 4/21 (Tue)!",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/2044309750918078737",
-        "start_time": 1776740891,
-        "end_time": 1777345691
-      },
-      {
-        "id": 5347,
-        "line_type": "Globle",
-        "title": "国际服例行维护#109",
-        "image": "https://static.kivo.wiki/images/timeline/nEwO0wK9AzJogUDFHfxlZliCrG2XQrUl.jpg",
-        "body_summary": "[4/21 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/21 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2045064723817955410",
-        "start_time": 1776736800,
-        "end_time": 1776747600
-      },
-      {
-        "id": 5349,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍 #38",
-        "image": "https://static.kivo.wiki/images/timeline/nkbJQRtnLH451ByC5vgnyqpCDwn1GiYW.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 4/20 (Mon), Scrimmage reward will be doubled! Don't miss out",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2045400687291269365",
-        "start_time": 1776711600,
-        "end_time": 1777316399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223435,
+  "time": 1788301893,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 335,
+        "line_type": "JP",
+        "title": "例行维护43",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 5/11(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1523905715227688964?s=20",
+        "start_time": 1652283258,
+        "end_time": 1652283258
+      },
+      {
+        "id": 334,
+        "line_type": "JP",
+        "title": "卡池「星ひとつ、23.4°見上げて」卡池复刻「夢を奏でる春告げのRPG」",
+        "image": "https://static.kivo.wiki/images/timeline/rRfOdQtqVN73z3FhbtSXoSLkgtfEyHxM.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「星ひとつ、23.4°見上げて」＆復刻ピックアップ募集「夢を奏でる春告げのRPG」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ツクヨ(CV: #後藤彩佐",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1523890603414933506?s=20",
+        "start_time": 1652283177,
+        "end_time": 1653406377
+      },
+      {
+        "id": 333,
+        "line_type": "JP",
+        "title": "联合火力演习3",
+        "image": "https://static.kivo.wiki/images/timeline/BKHlxoSTubrv1URgrQGVUzdfIbmK8raP.jpg",
+        "body_summary": "【合同火力演習・予告】 5月11日(水)メンテナンス終了後、合同火力演習「突破演習」が開始されます！ 今回の演習では、防御を固める敵部隊を正面から突破していただきます！ 情報によると、敵陣に置いてある",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1523498283389571072?s=20",
+        "start_time": 1652283085,
+        "end_time": 1652817625
+      },
       {
         "id": 332,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1519934511168901120",
         "start_time": 1651568459,
         "end_time": 1652756459
-      },
-      {
-        "id": 1087,
-        "line_type": "Globle",
-        "title": "国际服卡池「WHY ARE YOU LOOKING AT ME LIKE THAT? IS IT THAT WEIRD?」",
-        "image": "https://static.kivo.wiki/images/timeline/XXDEq8YSUc8cfL2K0StgvJfnHzB7Rgdh.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 5/3 (Tue)! Target Pick ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1520327099462000640",
-        "start_time": 1651568420,
-        "end_time": 1652756420
-      },
-      {
-        "id": 1088,
-        "line_type": "Globle",
-        "title": "国际服卡池「MY APPEARANCE HAS NO BEARING HERE. ALL I HAVE TO DO IS COMPLETE MY GIVEN TASK.」",
-        "image": "https://static.kivo.wiki/images/timeline/zeLLv28rvBzQJR5WKIHxfUU4JoYWvTnA.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Unique Pick Up Recruitment will begin on 5/3 (Tue)! Target Pick ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1520327481575706626",
-        "start_time": 1651568413,
-        "end_time": 1652756413
-      },
-      {
-        "id": 1094,
-        "line_type": "Globle",
-        "title": "国际服总力战 KAITEN FX Mk.0 (Field) 2",
-        "image": "https://static.kivo.wiki/images/timeline/gnVf9W0Zn9iyh5W3P5zuiQsRlkeIxmhj.jpg",
-        "body_summary": "[Total Assault Preview] KAITEN FX Mk.0(Field Warfare) will be held on 5/3 (Tue)! Do you have your st",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1519209735303618566",
-        "start_time": 1651568411,
-        "end_time": 1651568411
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223996,
+  "time": 1788302378,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 5222,
+        "line_type": "JP",
+        "title": "例行维护#138",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/18(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2033785680950948211",
+        "start_time": 1773838383,
+        "end_time": 1773838383
+      },
+      {
+        "id": 5221,
+        "line_type": "JP",
+        "title": "卡池「書類は踊る、されど進まず」＆「生地よ、踊れ！裁ち縫うは感性の針！」",
+        "image": "https://static.kivo.wiki/images/timeline/TZa7xvgZy3kSmaNYIdPku6wvutdeH97D.jpg",
+        "body_summary": "【ピックアップ募集・予告】 2026年3月18日(水) メンテナンス後より、ピックアップ募集「書類は踊る、されど進まず」＆「生地よ、踊れ！裁ち縫うは感性の針！」を開催します！ 詳細については下記URL",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2033770447129743417",
+        "start_time": 1773838293,
+        "end_time": 1775047893
+      },
+      {
+        "id": 5219,
+        "line_type": "JP",
+        "title": "活动「キヴォトス・未確認ミステリー～邪を払うツチノコ大調査～」",
+        "image": "https://static.kivo.wiki/images/timeline/h7Senqxs90LTminlooNPaLylyDIpLJ0H.jpg",
+        "body_summary": "【新イベント予告】 先生！何やら、とある生徒さんたちが「ツチノコ」探しの旅へ出かけるみたいですよ！ それぞれの目的を胸に、果たして彼女たちは伝説の生物「ツチノコ」を発見できるのでしょうか……？ 新イベ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2032382062527918179",
+        "start_time": 1773837490,
+        "end_time": 1775047090
+      },
       {
         "id": 5220,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2032350955845321136",
         "start_time": 1773415122,
         "end_time": 1773587922
-      },
-      {
-        "id": 5243,
-        "line_type": "Globle",
-        "title": "国际服数位周边「Magical Girl Heavy Caliber Update: Celebrate with Digital Merch!」",
-        "image": "https://static.kivo.wiki/images/timeline/9VBv1uisXWs3HDFsAAlFrhepuyybEIh4.jpg",
-        "body_summary": "Suzumi (Magical) and Reisa (Magical), perfectly transformed into Thermite White and Thermite Pink, a",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2032366055423721497",
-        "start_time": 1773404195,
-        "end_time": 1773404195
-      },
-      {
-        "id": 5213,
-        "line_type": "CN",
-        "title": "炸服#19（排名奖励10次招募券使用期限异常）",
-        "image": "https://static.kivo.wiki/images/timeline/Sf2eMuyUaH0Gx4N4GSZQ0cChpN2v23Rm.jpg",
-        "body_summary": "#蔚蓝档案﻿#蔚蓝档案超话 \"欢迎连接【什亭之箱】，老师。\" 此前我们收到部分老师发来的问题反馈： 在大决战【佩洛洛斯拉（野外战）】奖励领取期间内，部分bilibili服的老师在领取排名奖励后，存在1",
-        "type": "Maintenance",
-        "url": "weibo.com/6011443154/QvSEV2roy",
-        "start_time": 1773374400,
-        "end_time": 1773374400
-      },
-      {
-        "id": 5242,
-        "line_type": "Globle",
-        "title": "国际服活动礼物「Magical Girl Heavy Caliber Update Celebration: Final Special Coupon!」",
-        "image": "https://static.kivo.wiki/images/timeline/OxdeQBhSzuqTfnk7IBzbBi53kZlIVDNi.png",
-        "body_summary": "Twinkle! Bam-bam! Nothing's impossible with love, courage, and the power of friendship! 💫 Sensei, th",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/2032018768616919244",
-        "start_time": 1773317490,
-        "end_time": 1774354290
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223451,
+  "time": 1788301907,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1255,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习3",
+        "image": "https://static.kivo.wiki/images/timeline/7h6DoSAoV8ZeWfEXQ4K9tsyEqAecX436.jpg",
+        "body_summary": "[Joint Firing Drill Preview] 11/29 (Tue) Joint Firing Drill - 'Breakthrough Drill' will start soon! ",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1595311185468960768",
+        "start_time": 1669710226,
+        "end_time": 1701716386
+      },
+      {
+        "id": 1262,
+        "line_type": "Globle",
+        "title": "国际服例行维护27",
+        "image": "",
+        "body_summary": "[11/29 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/29 ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1597077828335325184",
+        "start_time": 1669687233,
+        "end_time": 1669723233
+      },
+      {
+        "id": 1256,
+        "line_type": "Globle",
+        "title": "国际服一周年特别动画PV",
+        "image": "",
+        "body_summary": "[1st Anniversary - Animated PV] \"Sensei, let us reminisce together about this amazing year we had.\" ",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1596082516313755648",
+        "start_time": 1669370402,
+        "end_time": 1669370402
+      },
       {
         "id": 1257,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1594888403677368320",
         "start_time": 1669086032,
         "end_time": 1669086032
-      },
-      {
-        "id": 1253,
-        "line_type": "Globle",
-        "title": "国际服总力战 Chesed (Indoor) 2",
-        "image": "https://static.kivo.wiki/images/timeline/hrxl6F04zVkMg1dC689QcmkYNRb6uvdl.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Chesed (Indoor Warfare) has opened, at 02:00 on 11/2",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1594873304531156994",
-        "start_time": 1669082447,
-        "end_time": 1701197987
-      },
-      {
-        "id": 1251,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「We made it to the beach aboard Crusadie!」",
-        "image": "https://static.kivo.wiki/images/timeline/UQjZ4AxCf1bYvYic4hsKNRlfGTvP9J6d.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A Rerun Pick Up Recruitment will begin on 11/22 (Tue)! Target Pick Up ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1593891831074258949",
-        "start_time": 1669082445,
-        "end_time": 1669600845
-      },
-      {
-        "id": 1250,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Summer Sky's Wishlist」",
-        "image": "https://static.kivo.wiki/images/timeline/RpLCNO1jo5U8g9vuPiZFXSRk16bvJW5I.jpg",
-        "body_summary": "[Event Update Notice] The students pack up and head to the beach to gather everything on their wish ",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1594979006222282755",
-        "start_time": 1669082412,
-        "end_time": 1669600812
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223955,
+  "time": 1788302342,
   "version": "1.0.0-beta.43"
 }

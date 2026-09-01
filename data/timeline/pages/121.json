@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4638,
+        "line_type": "JP",
+        "title": "活动「月華夢騒」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/1lC8vorLrP21daqGzShDvg7i1NzY46VP.jpg",
+        "body_summary": "【イベント予告】 先生！交流会での出来事を描いたあのイベントが復刻開催されるそうです♪ レッドウィンター事務局の皆さんを山海経に招いて行う学園交流会。 「他校の生徒を招き入れることは伝統に反する」と反",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1984818553560994083",
+        "start_time": 1762336800,
+        "end_time": 1762912800
+      },
+      {
+        "id": 4678,
+        "line_type": "JP",
+        "title": "卡池「雪の下に咲く二十一日」＆「雪の上に立つ三日天下」＆「こちらRABBIT1、理想をこの眼に」＆「こちらRABBIT2、規範はこの脚に」＆「こちらRABBIT3、計算はこの胸に」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/HQzq8YgiV0JfTUzf9DLBUe8ncjzC1MK5.jpg",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、復刻ピックアップ募集「雪の下に咲く二十一日」＆「雪の上に立つ三日天下」＆「こちらRABBIT1、理想をこの眼に」＆「こちらRABBIT2、規範はこの脚に」＆「こち",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1985573322239983915",
+        "start_time": 1762329600,
+        "end_time": 1762912799
+      },
+      {
+        "id": 4588,
+        "line_type": "JP",
+        "title": "战术对抗赛S10开幕",
+        "image": "https://static.kivo.wiki/images/timeline/fGZrTUlJjaASd5QKHgdLLWfRneOX4EIY.jpg",
+        "body_summary": "【新情報⑧】 そして少し先にはなりますが11月5日(水)メンテナンス後、戦術対抗戦の新シーズンが開幕します。 詳細については後日公開のお知らせにてご確認ください。",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1979512471644962826",
+        "start_time": 1762311600,
+        "end_time": 1762311600
+      },
       {
         "id": 4587,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1984183576259101072",
         "start_time": 1762221600,
         "end_time": 1762232400
-      },
-      {
-        "id": 4645,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Untangle these twisted threads... Bound by a Hundred Flowers」#2",
-        "image": "https://static.kivo.wiki/images/timeline/31cxkJjvwDK5XRNTlR3V1AJFrGDDtmmr.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 11/4 (Tue)! 💌Pick-Up S",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1984160912773943347",
-        "start_time": 1762221600,
-        "end_time": 1763431199
-      },
-      {
-        "id": 4644,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Stair way to Bitter Sweet You」&「Let's sing a Sweet Rhapsody!!」",
-        "image": "https://static.kivo.wiki/images/timeline/4GibV7bi1HaK57oXjf5RzJNBXmhT0vzE.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 11/4 (Tu",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1984157137916879088",
-        "start_time": 1762221600,
-        "end_time": 1763431199
-      },
-      {
-        "id": 4643,
-        "line_type": "Globle",
-        "title": "国际服卡池「Ah... Would you like to come with me on this journey of ROCK?」",
-        "image": "https://static.kivo.wiki/images/timeline/ObL3MzXrwIMEpkTNpTBgwmkcsV9xqKqR.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 11/4 (Tue)! 💌Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1984153363639103772",
-        "start_time": 1762221600,
-        "end_time": 1763431199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223514,
+  "time": 1788301963,
   "version": "1.0.0-beta.43"
 }

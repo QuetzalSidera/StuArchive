@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1138,
+        "line_type": "Globle",
+        "title": "国际服例行维护18",
+        "image": "",
+        "body_summary": "[7/12 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 7/12 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1546328429913640960",
+        "start_time": 1657594828,
+        "end_time": 1657609228
+      },
+      {
+        "id": 1137,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍8",
+        "image": "https://static.kivo.wiki/images/timeline/GiwLvIYmCKuBNBorg3kMKKIzSFPukpDi.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 7/11 (Mon), the amount of rewards dropped in Bounty will be doub",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1546026435609038849",
+        "start_time": 1657566009,
+        "end_time": 1658170749
+      },
+      {
+        "id": 380,
+        "line_type": "JP",
+        "title": "任务Normal2倍#16",
+        "image": "https://static.kivo.wiki/images/timeline/f6yYIs7gJWKjXxnHOrT2s8UjnnZDyyfe.jpg",
+        "body_summary": "【キャンペーン予告】 7月10日(日)4:00から、「任務(Normal)」でのドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 7月10日(日)4:00～7月17日(日)3:59 生徒",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1545603749866921985",
+        "start_time": 1657396800,
+        "end_time": 1658001599
+      },
       {
         "id": 369,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1542402605325791232",
         "start_time": 1656572400,
         "end_time": 1657090800
-      },
-      {
-        "id": 1131,
-        "line_type": "Globle",
-        "title": "国际服「Hot Springs Resort No. 227」活动预约",
-        "image": "https://static.kivo.wiki/images/timeline/Yp9LSgX9R3199cP8KHjFvcLoelEo2Zil.jpg",
-        "body_summary": "Hot Springs Resort No. 227 is almost open for business! How about pre-registering and relaxing at th",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1541981083943571458",
-        "start_time": 1656471957,
-        "end_time": 1656471957
-      },
-      {
-        "id": 370,
-        "line_type": "JP",
-        "title": "学院交流会2倍#5",
-        "image": "https://static.kivo.wiki/images/timeline/4ULYuOxBQFR4ly16r5divnnGiZzwrSMP.jpg",
-        "body_summary": "【キャンペーン予告】 6月29日(水)4:00より、「学園交流会」のドロップ量が2倍になるキャンペーンが開催されます！ 「スプリング」、「ハンマー」、「銃身」と固有武器強化に必要な素材を集めるチャンス",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1541617583257882624",
-        "start_time": 1656446400,
-        "end_time": 1657051199
-      },
-      {
-        "id": 1132,
-        "line_type": "Globle",
-        "title": "国际服签到活动「Schale's Hot Springs Materials Daily Supply」",
-        "image": "https://static.kivo.wiki/images/timeline/4GPa4W4gY6FzSC0umyRU7C04XoVV4x1U.jpg",
-        "body_summary": "[Schale's Hot Springs Materials Daily Supply] Schale's Daily supplies will be sent from 03:00 AM (UT",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1541982285632745473",
-        "start_time": 1656442854,
-        "end_time": 1657479594
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223985,
+  "time": 1788302368,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 596,
+        "line_type": "JP",
+        "title": "市街地戦・ヒエロニムス4 Torment难度追加",
+        "image": "https://static.kivo.wiki/images/timeline/X8xSEBsTPzA67MvCiTaNwoByoQrBtH6m.jpg",
+        "body_summary": "【総力戦・予告】 3月1日(水)11:00より、「市街地戦・ヒエロニムス」を開催します！ 今回の総力戦より新難易度「Torment」が追加されます…！ BOSSのステータスが大幅に上昇してますので、腕",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1629677745293901825?s=20",
+        "start_time": 1677670353,
+        "end_time": 1678188753
+      },
+      {
+        "id": 595,
+        "line_type": "JP",
+        "title": "课程表2倍#11 & 学院交流会2倍#11",
+        "image": "https://static.kivo.wiki/images/timeline/i6DFdvN7fD9HvDFIh1fXV5jq0mq9rFUT.jpg",
+        "body_summary": "【キャンペーン予告】 2023/3/1(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/3/1(水)4:00 ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1629768342692044800",
+        "start_time": 1677614400,
+        "end_time": 1678219199
+      },
+      {
+        "id": 2086,
+        "line_type": "Globle",
+        "title": "国际服SRT兔子小队社团剧情更新 & 星野（泳装）、静子碎片加入商店",
+        "image": "https://static.kivo.wiki/images/timeline/PBQCjDDQCZZCBlsE2qxlhgbwYZWENVPo.jpg",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1630455256533581824",
+        "start_time": 1677578408,
+        "end_time": 1677578408
+      },
       {
         "id": 1340,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1630462812136042497",
         "start_time": 1677553229,
         "end_time": 1678805969
-      },
-      {
-        "id": 1336,
-        "line_type": "Globle",
-        "title": "国际服例行维护33",
-        "image": "",
-        "body_summary": "[2/28 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/28 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1629076267193753600",
-        "start_time": 1677549605,
-        "end_time": 1677567605
-      },
-      {
-        "id": 1337,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍14",
-        "image": "https://static.kivo.wiki/images/timeline/ElSaGkHjL5d1auqTmH46WhJvCwsPOZyb.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 2/27 (Mon), the amount of rewards dropped in Bounty will be doub",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1629375642776240129",
-        "start_time": 1677524449,
-        "end_time": 1678129189
-      },
-      {
-        "id": 597,
-        "line_type": "JP",
-        "title": "改bug送十连",
-        "image": "",
-        "body_summary": "【不具合修正】 下記のお知らせにて、現在確認された不具合および進捗状況をご報告いたします。 ▼お知らせ https://bluearchive.jp/news/newsJump/297 現在、不具合の",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1630222163218419720?s=20",
-        "start_time": 1677497917,
-        "end_time": 1677497917
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223931,
+  "time": 1788302321,
   "version": "1.0.0-beta.43"
 }

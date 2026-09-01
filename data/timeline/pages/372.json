@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2117,
+        "line_type": "Globle",
+        "title": "国际服「In Search of Hidden Ruins ~Trinity Extracurriculars~」活动特别PV公开",
+        "image": "",
+        "body_summary": "[Event Update Notice] The Trinity Extracurriculars: In Search of Hidden Ruins event has started! ⬇️P",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1752245101701767257",
+        "start_time": 1706601622,
+        "end_time": 1706601622
+      },
+      {
+        "id": 2037,
+        "line_type": "Globle",
+        "title": "国际服例行维护54",
+        "image": "",
+        "body_summary": "[1/30 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 1/30 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1750805784211128428",
+        "start_time": 1706580021,
+        "end_time": 1706605221
+      },
+      {
+        "id": 2039,
+        "line_type": "Globle",
+        "title": "国际服指名手配3倍7",
+        "image": "https://static.kivo.wiki/images/timeline/F9r0ofSy6HzUhsESoky0uT5rHoaeoQL7.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 1/29 (Mon), Bounty rewards will be tripled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1751140482011516966",
+        "start_time": 1706554848,
+        "end_time": 1707159588
+      },
       {
         "id": 2038,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "www.bilibili.com/opus/890882960051404837",
         "start_time": 1706263230,
         "end_time": 1706263230
-      },
-      {
-        "id": 2321,
-        "line_type": "JP",
-        "title": "TV动画 绫音设定画公开",
-        "image": "https://static.kivo.wiki/images/timeline/ayiynSj0jnXvG1wWOU6loNylJBiBv3W3.jpg",
-        "body_summary": "#ブルアカTVアニメ 公式Xオープンを記念して、 キャラ設定画を紹介します✨ 本日は #奥空アヤネ 💕 #ブルアカ",
-        "type": "OutsideGames",
-        "url": "twitter.com/BlueArchive_TV/status/1750790680123687390",
-        "start_time": 1706259600,
-        "end_time": 1706259600
-      },
-      {
-        "id": 2071,
-        "line_type": "JP",
-        "title": "炸服32",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 まもなく臨時メンテナンスの開始時刻です。 先生、ご協力のほどお願いいたします！ ▼実施日時 2024年1月26日(金) 9:00 〜 10:00前後 ▼詳細 https://bl",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1750662370568073237",
-        "start_time": 1706230800,
-        "end_time": 1706234400
-      },
-      {
-        "id": 2069,
-        "line_type": "JP",
-        "title": "3周年会场内动画公开",
-        "image": "https://static.kivo.wiki/images/timeline/ZOtulPbv5KejOG8WiyJttukX8C20X6NX.png",
-        "body_summary": "#1 阿罗娜 【楽しんでますか、先生？】 先生のご要望にお応えして、ブルアカふぇす！会場内で公開されたアロナのメッセージをアップしました！ ※ご視聴の際は、2024年1月20日-21日に開催されたブル",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1750450938509488181",
-        "start_time": 1706178600,
-        "end_time": 1706871600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223815,
+  "time": 1788302221,
   "version": "1.0.0-beta.43"
 }

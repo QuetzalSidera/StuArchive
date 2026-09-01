@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2557,
+        "line_type": "Globle",
+        "title": "国际服例行维护60",
+        "image": "",
+        "body_summary": "[5/14 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 5/14 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1788856515723505952",
+        "start_time": 1715652034,
+        "end_time": 1715670034
+      },
+      {
+        "id": 2554,
+        "line_type": "Globle",
+        "title": "国际服卡池「Sensei! I, Yukari, shall show you the strength of my resolve!」",
+        "image": "https://static.kivo.wiki/images/timeline/HIHGGa6JDZe6fTTL7HOfyUCIuQtBIsX6.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 5/14 (Tue)! Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1788811209736925429",
+        "start_time": 1715652016,
+        "end_time": 1716256816
+      },
+      {
+        "id": 2558,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍27",
+        "image": "https://static.kivo.wiki/images/timeline/UjSkathc6mTMoTMcWs7UG2rh6QKhMz3l.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 5/13 (Mon), Commissions rewards will be doubled! Don't miss ",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1789188691426222213",
+        "start_time": 1715626836,
+        "end_time": 1716231576
+      },
       {
         "id": 2581,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "weibo.com/6011443154/OdO1a6Gsy",
         "start_time": 1715421653,
         "end_time": 1715421653
-      },
-      {
-        "id": 2538,
-        "line_type": "JP",
-        "title": "TV动画 角色PV：亚子",
-        "image": "https://static.kivo.wiki/images/timeline/0Wob2ZD6OMKIIlaOormwcEdlAhcoL2iH.jpg",
-        "body_summary": "🔹💠 #ブルアカTVアニメ 生徒紹介PV💠🔹 「私たちとしても、必要な対処とあらばやむを得ません」 ゲヘナ学園　風紀委員会　3年生 #天雨アコ #ブルアカ https://youtu.be/lLSe0",
-        "type": "OutsideGames",
-        "url": "twitter.com/BlueArchive_TV/status/1789204042905718925",
-        "start_time": 1715418060,
-        "end_time": 1715418060
-      },
-      {
-        "id": 2556,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍7",
-        "image": "https://static.kivo.wiki/images/timeline/dm7UOpYJIzzjcLXuzFXvRAFRlWhhsags.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 5/10 (Fri)! Don't m",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1788828820197564456",
-        "start_time": 1715367624,
-        "end_time": 1715540424
-      },
-      {
-        "id": 2577,
-        "line_type": "CN",
-        "title": "【神名十文字】活动BUG修复",
-        "image": "https://static.kivo.wiki/images/timeline/POjyloXzForaZofUPwnDQhfTkfs9fDGG.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 在05月09日14:00《特殊作战：神名十文字篇》活动开启后，我们收到部分老师发来的异常问题反馈： 14:00活动开启前，已经登录游戏且未下线的玩家，如果未进入活动界",
-        "type": "Other",
-        "url": "weibo.com/6011443154/OdEZ895ax",
-        "start_time": 1715338812,
-        "end_time": 1715338812
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223762,
+  "time": 1788302175,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1823,
+        "line_type": "JP",
+        "title": "「船上のバニーチェイサー」前夜祭1200钻",
+        "image": "https://static.kivo.wiki/images/timeline/TDD3Z5f7YCNzzwl5sbWLpzyUuDCt8RJP.jpg",
+        "body_summary": "【前夜祭】 新イベント「船上のバニーチェイサー」がまもなく開催です！ 本日はその前夜祭ということで、潜入資金として「青輝石×1200」を全ての先生方に特別支給します！ C&Cの皆さんと一緒に支度して、",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1442761273641369601",
+        "start_time": 1632816064,
+        "end_time": 1632816064
+      },
+      {
+        "id": 1824,
+        "line_type": "JP",
+        "title": "活动「船上のバニーチェイサー」PV公开",
+        "image": "",
+        "body_summary": "【イベントPV】 新イベントのPVを公開します！ ミレニアムの問題児「白兎」を追ってやってきた先は他校の豪華クルーズ船！ターゲット確保のため「C＆C」の潜入ミッションスタートです！！ ▽高画質版はこち",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1442323720496824323",
+        "start_time": 1632711764,
+        "end_time": 1632711764
+      },
+      {
+        "id": 179,
+        "line_type": "JP",
+        "title": "卡池「閃きよ、この世界を照らして」",
+        "image": "https://static.kivo.wiki/images/timeline/MgNtAEbszulimpaItw3Cvr2WWYkDsjAC.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「閃きよ、この世界を照らして」がまもなく開催されます！ 🔷ピックアップ生徒 ヒビキ (CV:#名塚佳織) 🔷詳細 https://bluearchive.j",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1440541637617209357",
+        "start_time": 1632391200,
+        "end_time": 1632888000
+      },
       {
         "id": 176,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1435464143750922245",
         "start_time": 1631181601,
         "end_time": 1632366001
-      },
-      {
-        "id": 172,
-        "line_type": "JP",
-        "title": "任务Area15开放 咖啡厅升级",
-        "image": "https://static.kivo.wiki/images/timeline/POtPdw8FigycaU2tfwgwl960NdZeNK6x.jpg",
-        "body_summary": "【エリア解放予告】 【任務】Area15が9/9(木)に解放されます！ 「Normal」15-5を見事にクリアしたら、カフェレベルアップ用アイテム「カフェ設備コアLv.2」が獲得できます！そして「Ha",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1435151112181481472",
-        "start_time": 1631181600,
-        "end_time": 1631181600
-      },
-      {
-        "id": 171,
-        "line_type": "JP",
-        "title": "屋外戦・ケセド2",
-        "image": "https://static.kivo.wiki/images/timeline/vy7bVMRQg2kcOZjnDp1GH7C4wkqMFUgG.jpg",
-        "body_summary": "【総力戦予告】 9月9日(木)メンテナンス後、「屋外戦・ケセド」が開催されます！ 順位に応じて「ケセド(屋外戦)トロフィー」が獲得できるチャンスです！ ぜひ上位を目指して頑張ってくださいね、先生！！ ",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1434804085962641415",
-        "start_time": 1631181600,
-        "end_time": 1631721599
-      },
-      {
-        "id": 173,
-        "line_type": "JP",
-        "title": "例行维护23",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 9/9(木) 12:00 〜 18:00前後 ▼詳細 https://bluearch",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1435792602444427271",
-        "start_time": 1631160000,
-        "end_time": 1631181600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224038,
+  "time": 1788302413,
   "version": "1.0.0-beta.43"
 }

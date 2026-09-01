@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 782,
+        "line_type": "JP",
+        "title": "停止关联推特账号",
+        "image": "https://static.kivo.wiki/images/timeline/PYqk5EVxnB0wyzD1kmu5EpT0jxJCrtuV.gif",
+        "body_summary": "【重要なお知らせ】 9/27(水)メンテナンス後、「ブルーアーカイブ」アカウントと「Twitter」アカウントとの新規連携を終了させていただきます。 当分の間は連携済み「Twitter」アカウントでの",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1703968377709195621",
+        "start_time": 1695812400,
+        "end_time": 1695812400
+      },
+      {
+        "id": 1539,
+        "line_type": "Globle",
+        "title": "国际服炸服15",
+        "image": "",
+        "body_summary": "[9/27 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 9/27 (Wed). Pl",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1706937516325273935",
+        "start_time": 1695801635,
+        "end_time": 1695808835
+      },
+      {
+        "id": 790,
+        "line_type": "JP",
+        "title": "例行维护79",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.5GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 9/27(水) 11",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1706549211276468399",
+        "start_time": 1695783600,
+        "end_time": 1695812400
+      },
       {
         "id": 1908,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1705503518600188095",
         "start_time": 1695718845,
         "end_time": 1696903185
-      },
-      {
-        "id": 1533,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Now, I'll be escorting you, Sensei」",
-        "image": "https://static.kivo.wiki/images/timeline/7pPKyAhdeTxRHUIGg6kzyoh0NoGG8Ru1.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 9/26 (Tu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1705499745098027466",
-        "start_time": 1695718845,
-        "end_time": 1696903185
-      },
-      {
-        "id": 1532,
-        "line_type": "Globle",
-        "title": "国际服卡池「I—I'm sorry. Someone like me... shouldn't be wearing something so pretty...」",
-        "image": "https://static.kivo.wiki/images/timeline/gjEEl9TNYRkMRJ8dOSlgC0HGtj8BRa7d.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/26 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1705495969469747204",
-        "start_time": 1695718845,
-        "end_time": 1696903185
-      },
-      {
-        "id": 1531,
-        "line_type": "Globle",
-        "title": "国际服卡池「This bell... It rings everyday, so it's not very special. But today, it may actually be the best thing ever.」",
-        "image": "https://static.kivo.wiki/images/timeline/T7la573w0LlV05jg9PeTkyxkfojjzmAO.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/26 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1705492202691145889",
-        "start_time": 1695718845,
-        "end_time": 1696903185
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223870,
+  "time": 1788302268,
   "version": "1.0.0-beta.43"
 }

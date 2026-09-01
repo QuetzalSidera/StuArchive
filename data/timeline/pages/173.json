@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 4128,
+        "line_type": "JP",
+        "title": "活动「百ヨリ出ズル一輪ノ 〜いざ尋常に、水上勝負〜」",
+        "image": "https://static.kivo.wiki/images/timeline/QSn4bBvwGDDXZQO5k6gz0XINJ4tYn2Wn.jpg",
+        "body_summary": "【新情報②】 6月25日(水)メンテナンス後、新イベント「百ヨリ出ズル一輪ノ 〜いざ尋常に、水上勝負〜」が開催されます。 詳しい遊び方や報酬などは、後日公開のお知らせにてご確認ください。 #ブルアカ ",
+        "type": "Event",
+        "url": "x.com/blue_archivejp/status/1936383458441642333?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1750821536,
+        "end_time": 1752031136
+      },
+      {
+        "id": 4163,
+        "line_type": "JP",
+        "title": "例行维护 #122",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/25(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1937692272042422597",
+        "start_time": 1750820400,
+        "end_time": 1750849200
+      },
+      {
+        "id": 4161,
+        "line_type": "JP",
+        "title": "指名手配2倍#48",
+        "image": "https://static.kivo.wiki/images/timeline/j8pcf0XtrnpTFJHEi8ShQRQPSWh7g8Ea.jpg",
+        "body_summary": "【キャンペーン予告】 6月25日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔹開催期間 2025年6月25日(水)4:00 ～ 2025年7月2日(水)",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1937058187125072200",
+        "start_time": 1750795200,
+        "end_time": 1751399999
+      },
       {
         "id": 4140,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1937427978964861102",
         "start_time": 1750730400,
         "end_time": 1751939999
-      },
-      {
-        "id": 4159,
-        "line_type": "Globle",
-        "title": "国际服Blue Archive Steam发布延期",
-        "image": "https://static.kivo.wiki/images/timeline/NkafbZMaRCBfvuogQ1j4gbOVx43Ackts.jpg",
-        "body_summary": "[Notice of STEAM Client Launch Delay Due to Platform Review] Sensei, this is Blue Archive. We regret",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1937012744412106856",
-        "start_time": 1750654800,
-        "end_time": 1750654800
-      },
-      {
-        "id": 4167,
-        "line_type": "JP",
-        "title": "活动「百ヨリ出ズル一輪ノ　〜いざ尋常に、水上勝負〜」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ 百鬼夜行の夏の風物詩「百夜水上祭」に参加すべく、海岸を訪れた百花繚乱一同。 水上で行われるサバイバルバトルに皆が沸き立つ中、キキョウさんは何やら",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1936982960257081482",
-        "start_time": 1750647660,
-        "end_time": 1750647660
-      },
-      {
-        "id": 4152,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁 #41",
-        "image": "https://static.kivo.wiki/images/timeline/OLO4JpojOADdif0t3cFSvYPVI37cl7wP.jpg",
-        "body_summary": "[6/23 (Mon) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1937075755764355177",
-        "start_time": 1750608000,
-        "end_time": 1750608000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223578,
+  "time": 1788302016,
   "version": "1.0.0-beta.43"
 }

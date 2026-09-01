@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2398,
+        "line_type": "JP",
+        "title": "屋内戦・ペロロジラ5",
+        "image": "https://static.kivo.wiki/images/timeline/fDV5bXfBn6JhBYGA22rw56LaQak1r9vt.jpg",
+        "body_summary": "【総力戦＆大決戦予告】 先生、今後予定されているロードマップをご紹介します！ 明後日の4月3日(水)より総力戦「屋内戦・ペロロジラ」、4月中旬には大決戦「屋内戦・グレゴリオ」の開催を予定しています。 ",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1774723643920326981",
+        "start_time": 1712113200,
+        "end_time": 1712779199
+      },
+      {
+        "id": 2400,
+        "line_type": "JP",
+        "title": "课程表2倍#22 & 学院交流会2倍#22",
+        "image": "https://static.kivo.wiki/images/timeline/qLtHiwwMbYazDukuizVDGU9t0lgYDqTL.jpg",
+        "body_summary": "【キャンペーン予告】 4月3日(水)4:00より、「スケジュール」及び「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 4月3日(水)4:00 ～ 4月11日(木)",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1774995736637436144",
+        "start_time": 1712088000,
+        "end_time": 1712779199
+      },
+      {
+        "id": 2425,
+        "line_type": "CN",
+        "title": "霞泽美游",
+        "image": "https://static.kivo.wiki/images/timeline/5ykNTXKk6d1B44XM8Bp2tEDZaMXP7ohQ.jpg",
+        "body_summary": "//////////档案启封////////// ■ 霞泽美游 SRT特种学院所属，RABBIT小队狙击手，呼号【RABBIT 4】。 憧憬着活用与生俱来的狙击天赋，美游加入了SRT特种学院。但学院突",
+        "type": "Other",
+        "url": "weibo.com/6011443154/O7SlNvhg8",
+        "start_time": 1712052004,
+        "end_time": 1712052004
+      },
       {
         "id": 2369,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1775027249043186088",
         "start_time": 1712034036,
         "end_time": 1712034036
-      },
-      {
-        "id": 2404,
-        "line_type": "JP",
-        "title": "TV动画：倒计时5天贺图",
-        "image": "https://static.kivo.wiki/images/timeline/Mi9S1G8ACKUkqDn6abE4fCr7gEyNY4GI.jpg",
-        "body_summary": "🔹💠#ブルアカTVアニメ カウントダウン💠🔹 ブルーアーカイブ The Animation 放送開始まで あと5日です！ お祝いにstudio CANDYBOXさんから カウントダウンイラストが届きま",
-        "type": "OutsideGames",
-        "url": "twitter.com/BlueArchive_TV/status/1774995168770277398",
-        "start_time": 1712030400,
-        "end_time": 1712030400
-      },
-      {
-        "id": 2422,
-        "line_type": "CN",
-        "title": "宫子主题PV：温柔依赖症",
-        "image": "https://static.kivo.wiki/images/timeline/9MhacKTUcIktMmAGeARwTHhzJtcWq9HQ.jpg",
-        "body_summary": "对方正在输入 ……！ www.bilibili.com/video/BV1Vz421o7Ks",
-        "type": "OutsideGames",
-        "url": "www.bilibili.com/video/BV1Vz421o7Ks",
-        "start_time": 1712026835,
-        "end_time": 1712026835
-      },
-      {
-        "id": 2374,
-        "line_type": "Globle",
-        "title": "国际服例行维护57",
-        "image": "",
-        "body_summary": "[4/2 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/2 (Tue). 🗓️Maintena",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1773636223174631839",
-        "start_time": 1712025897,
-        "end_time": 1712037657
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223782,
+  "time": 1788302193,
   "version": "1.0.0-beta.43"
 }

@@ -2,17 +2,53 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-08-31T22:28:56Z",
+  "generated_at": "2026-09-01T20:35:00Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5802,
-  "alias_count": 5771,
-  "normalized_alias_count": 5763,
+  "total_items": 5805,
+  "alias_count": 5774,
+  "normalized_alias_count": 5766,
   "by_id": {
+    "5958": {
+      "id": 5958,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5958,
+        "line_type": "CN",
+        "title": "大决战：希罗尼穆斯 • 街区战#2",
+        "image": "https://static.kivo.wiki/images/timeline/fXXEb3SRGWe8rizm2rd7QkX4DXII38rc.jpg",
+        "body_summary": "在崔尼蒂地区古圣堂遗迹地下所发现的神秘存在。 希罗尼穆斯，传说是被称为【诸圣相通】的人造天使系列的完成品，也有传闻说是数秘会根据太古教义制作出来的实验体。 不能对希罗尼穆斯压倒性的力量放任不管，为了基",
+        "type": "BigRaid",
+        "url": "weibo.com/6011443154/Rg4agcQUN",
+        "start_time": 1788415200,
+        "end_time": 1788811199
+      },
+      "detail_path": "timeline/5958.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5958.json"
+    },
+    "5957": {
+      "id": 5957,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5957,
+        "line_type": "CN",
+        "title": "限时复刻招募【恶党圆舞曲 狂徒华尔兹】&【蓝色重金属】&【龙门黑夜】&【得闲饮茶！】",
+        "image": "https://static.kivo.wiki/images/timeline/NrFphghhD9wYgVvfBtNV06LE8v7OGpUK.jpg",
+        "body_summary": "限时复刻招募活动即将开启，请老师不要错过哦！ ■ 招募时间 09月03日 14:00 ~ 09月10日 13:59 ■ 招募内容 • 限时复刻招募【恶党圆舞曲 狂徒华尔兹】即将开启！ 在本次招募中，3",
+        "type": "Gacha",
+        "url": "weibo.com/6011443154/RfUJLmUgU",
+        "start_time": 1788415200,
+        "end_time": 1789019940
+      },
+      "detail_path": "timeline/5957.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5957.json"
+    },
     "5940": {
       "id": 5940,
       "source_path": "timeline/index.json",
@@ -138,6 +174,24 @@
       },
       "detail_path": "timeline/5955.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5955.json"
+    },
+    "5959": {
+      "id": 5959,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5959,
+        "line_type": "JP",
+        "title": "学生生日日历-2026年9月",
+        "image": "https://static.kivo.wiki/images/timeline/0PZRidF1SLoabYFL6Uybxs70MmUNsdO2.jpg",
+        "body_summary": "【カレンダー】 先生、2026年9月の誕生日カレンダーをご用意しました！ ぜひお役立てください。 暦の上では「秋」となる9月ですが、まだまだ暑い日が続いてますね💦 どこか車や電車、戦車などで出かけたり",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2094628921535012979",
+        "start_time": 1788192000,
+        "end_time": 1788192000
+      },
+      "detail_path": "timeline/5959.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5959.json"
     },
     "5938": {
       "id": 5938,
@@ -354,24 +408,6 @@
       },
       "detail_path": "timeline/5944.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5944.json"
-    },
-    "5946": {
-      "id": 5946,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5946,
-        "line_type": "JP",
-        "title": "「ブルアカ 5th Anniversary DJふぇす！つあー☆」线上门票",
-        "image": "https://static.kivo.wiki/images/timeline/T3PFfIq8ZGKvxEi7O3X8OCtihlCVGLgq.jpg",
-        "body_summary": "【5thアニバーサリー】 「ブルアカ 5th Anniversary DJふぇす！つあー☆」 東京公演(夜)の配信視聴チケット の販売を開始しました！ #ブルアカ #ブルアカDJふぇすつあー",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2092205679335653609",
-        "start_time": 1787659200,
-        "end_time": 1792321200
-      },
-      "detail_path": "timeline/5946.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5946.json"
     },
     "5919": {
       "id": 5919,
@@ -884,13 +920,13 @@
       "item": {
         "id": 5916,
         "line_type": "Globle",
-        "title": "国际服例行维护#117延长",
+        "title": "国际服例行维护#117 延长",
         "image": "https://static.kivo.wiki/images/timeline/oWncujgvglqdQc7fxPK6CtQvPhbyS9tA.jpg",
         "body_summary": "[Notice on Maintenance Extension] Dear Sensei, We would like to inform you that the maintenance sche",
         "type": "Maintenance",
         "url": "x.com/EN_BlueArchive/status/2089636308196987014",
-        "start_time": 1787018400,
-        "end_time": 1787392800
+        "start_time": 1787047200,
+        "end_time": 1787047200
       },
       "detail_path": "timeline/5916.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5916.json"
@@ -1039,23 +1075,23 @@
       "detail_path": "timeline/5905.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5905.json"
     },
-    "5899": {
-      "id": 5899,
+    "5960": {
+      "id": 5960,
       "source_path": "timeline/index.json",
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "item": {
-        "id": 5899,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁 #68",
-        "image": "https://static.kivo.wiki/images/timeline/OzFog9GIPr4CRvkNZcWwx2ummZ0lndga.jpg",
-        "body_summary": "[8/13 (Thu) Ban Notice] We have taken disciplinary actions against the players who were found to be ",
+        "id": 5960,
+        "line_type": "JP",
+        "title": "国际服主线第2部序章更新奖励",
+        "image": "https://static.kivo.wiki/images/timeline/pWfIUPTP7emE3KA21SNvhjeBFoz7a8sZ.jpg",
+        "body_summary": "Sensei, Act 2 of the Main Story is about to begin! We prepared special On-Time Gifts for you in anti",
         "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/2087751148669382986",
-        "start_time": 1786884564,
-        "end_time": 1786884564
+        "url": "x.com/EN_BlueArchive/status/2088792859453661194",
+        "start_time": 1786849200,
+        "end_time": 1787540399
       },
-      "detail_path": "timeline/5899.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5899.json"
+      "detail_path": "timeline/5960.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5960.json"
     },
     "5601": {
       "id": 5601,
@@ -1128,6 +1164,24 @@
       },
       "detail_path": "timeline/5900.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5900.json"
+    },
+    "5899": {
+      "id": 5899,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5899,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁 #68",
+        "image": "https://static.kivo.wiki/images/timeline/OzFog9GIPr4CRvkNZcWwx2ummZ0lndga.jpg",
+        "body_summary": "[8/13 (Thu) Ban Notice] We have taken disciplinary actions against the players who were found to be ",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2087751148669382986",
+        "start_time": 1786625364,
+        "end_time": 1786625364
+      },
+      "detail_path": "timeline/5899.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5899.json"
     },
     "5898": {
       "id": 5898,
@@ -1358,7 +1412,7 @@
         "type": "BigRaid",
         "url": "x.com/EN_BlueArchive/status/2084897195615199509",
         "start_time": 1786413600,
-        "end_time": 1786413600
+        "end_time": 1786993199
       },
       "detail_path": "timeline/5880.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5880.json"
@@ -3135,7 +3189,7 @@
         "id": 5906,
         "line_type": "Globle",
         "title": "国际服违规账号封禁 #66",
-        "image": "",
+        "image": "https://static.kivo.wiki/images/timeline/egqMr39JfKvAb8HkrDIvrhDY2hr5hvht.png",
         "body_summary": "[7/21 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
         "type": "Other",
         "url": "x.com/EN_BlueArchive/status/2079515478565732423",
@@ -7783,8 +7837,8 @@
         "body_summary": "[Grand Assault Open Notice] The Grand Assault - Shiro & Kuro (Urban Warfare) has opened 5/19 (Tue) 2",
         "type": "BigRaid",
         "url": "x.com/EN_BlueArchive/status/2056634711104167978",
-        "start_time": 1779197721,
-        "end_time": 1779716121
+        "start_time": 1779156000,
+        "end_time": 1779735600
       },
       "detail_path": "timeline/5459.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5459.json"
@@ -104451,6 +104505,12 @@
     }
   },
   "by_alias": {
+    "大决战:希罗尼穆斯 • 街区战#2": [
+      "5958"
+    ],
+    "限时复刻招募【恶党圆舞曲 狂徒华尔兹】&【蓝色重金属】&【龙门黑夜】&【得闲饮茶!】": [
+      "5957"
+    ],
     "纱织(礼服)家具互动更新": [
       "5940"
     ],
@@ -104471,6 +104531,9 @@
     ],
     "国际服指名手配2倍 #49": [
       "5955"
+    ],
+    "学生生日日历-2026年9月": [
+      "5959"
     ],
     "【无限制决战:获刻玛 • 重装甲】#2": [
       "5938"
@@ -104507,9 +104570,6 @@
     ],
     "例行维护#149": [
       "5944"
-    ],
-    "「ブルアカ 5th Anniversary DJふぇす!つあー☆」线上门票": [
-      "5946"
     ],
     "国际服总力战 KAITEN FX Mk.0 (Urban Warfare) #4": [
       "5919"
@@ -104595,7 +104655,7 @@
     "国际服主线第二部 Vol.EX 第1章更新": [
       "5912"
     ],
-    "国际服例行维护#117延长": [
+    "国际服例行维护#117 延长": [
       "5916"
     ],
     "国际服例行维护 #117": [
@@ -104622,8 +104682,8 @@
     "名草": [
       "5905"
     ],
-    "国际服违规账号封禁 #68": [
-      "5899"
+    "国际服主线第2部序章更新奖励": [
+      "5960"
     ],
     "C108悠星参展": [
       "5601"
@@ -104636,6 +104696,9 @@
     ],
     "大决战:白&黑 • 室内战#2": [
       "5900"
+    ],
+    "国际服违规账号封禁 #68": [
+      "5899"
     ],
     "限时复刻招募【春花护梦归】 & 【潮声唤梦来】 & 【Where there's tea party there's hope】 & 【Where there's Toki there's victory】": [
       "5898"
@@ -121797,6 +121860,12 @@
     ]
   },
   "by_normalized_alias": {
+    "大决战:希罗尼穆斯•街区战#2": [
+      "5958"
+    ],
+    "限时复刻招募【恶党圆舞曲狂徒华尔兹】&【蓝色重金属】&【龙门黑夜】&【得闲饮茶!】": [
+      "5957"
+    ],
     "纱织(礼服)家具互动更新": [
       "5940"
     ],
@@ -121817,6 +121886,9 @@
     ],
     "国际服指名手配2倍#49": [
       "5955"
+    ],
+    "学生生日日历-2026年9月": [
+      "5959"
     ],
     "【无限制决战:获刻玛•重装甲】#2": [
       "5938"
@@ -121854,9 +121926,6 @@
     ],
     "例行维护#149": [
       "5944"
-    ],
-    "「ブルアカ5thanniversarydjふぇす!つあー☆」线上门票": [
-      "5946"
     ],
     "国际服总力战kaitenfxmk.0(urbanwarfare)#4": [
       "5919"
@@ -121969,8 +122038,8 @@
     "名草": [
       "5905"
     ],
-    "国际服违规账号封禁#68": [
-      "5899"
+    "国际服主线第2部序章更新奖励": [
+      "5960"
     ],
     "c108悠星参展": [
       "5601"
@@ -121983,6 +122052,9 @@
     ],
     "大决战:白&黑•室内战#2": [
       "5900"
+    ],
+    "国际服违规账号封禁#68": [
+      "5899"
     ],
     "限时复刻招募【春花护梦归】&【潮声唤梦来】&【wherethere'steapartythere'shope】&【wherethere'stokithere'svictory】": [
       "5898"

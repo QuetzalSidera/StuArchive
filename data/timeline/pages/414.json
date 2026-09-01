@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 808,
+        "line_type": "JP",
+        "title": "主线关卡开放：Area24",
+        "image": "https://static.kivo.wiki/images/timeline/AjWXkcvRMKSdXdgJaKG19dTd9TQSFSbq.jpg",
+        "body_summary": "【Area開放予告】 メンテナンス終了後、「任務 Area24」が開放されます！ 各ステージでは「教育BD」や「オーパーツ」が獲得できる他、「Normal 24-5」の初回報酬で「カフェ設備コアLv.",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1712000148103110993",
+        "start_time": 1697014800,
+        "end_time": 1697014800
+      },
+      {
+        "id": 805,
+        "line_type": "JP",
+        "title": "卡池「ステアミルクは湯けむりと共に」卡池复刻「湯けむりは星月夜に溶けて」「革命と極楽のオートノミー」「責務と休息のアンティノミー」",
+        "image": "https://static.kivo.wiki/images/timeline/ToybmIVxaTlFMkM4hTGQODJVERshV4Y2.jpg",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「ステアミルクは湯けむりと共に」を開催します！ 「227号温泉郷の運営記録！」の常設化に合わせて、過去開催のピックアップ募集3種も開催されますので",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1711607554072326605",
+        "start_time": 1697014800,
+        "end_time": 1697597999
+      },
+      {
+        "id": 804,
+        "line_type": "JP",
+        "title": "夏莱的总决算with联邦学生会3",
+        "image": "https://static.kivo.wiki/images/timeline/mQSm4QPw0LsGzMdxazqReljZhHV0p3i7.jpg",
+        "body_summary": "【イベント紹介】 10/11(水)メンテナンス後、「シャーレの総決算with連邦生徒会」が開催されます！ 「任務」などで「AP」を消費すると「高級万年筆」が獲得でき、特設ショップにて様々な「オーパーツ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1710943188750676451",
+        "start_time": 1697014800,
+        "end_time": 1698116399
+      },
       {
         "id": 803,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1710580726490440100",
         "start_time": 1696917608,
         "end_time": 1697507948
-      },
-      {
-        "id": 2172,
-        "line_type": "CN",
-        "title": "蔚蓝档案官方表情包第二弹！",
-        "image": "https://static.kivo.wiki/images/timeline/dfZwjplfPGkXOcakxdLvgFSPo9GIuLHT.jpg",
-        "body_summary": "#蔚蓝档案 风靡基沃托斯的表情包第二弹也闪亮登场了！老师也想来一起联机吗？ 《蔚蓝档案》官方表情包第二弹现已上架！欢迎老师微信扫描下方二维码或是进QQ微表情商城搜索蔚蓝档案，即可下载全套表情包～ ​​",
-        "type": "OutsideGames",
-        "url": "weibo.com/7834138407/Nnbjv4uBy",
-        "start_time": 1696907160,
-        "end_time": 1696907160
-      },
-      {
-        "id": 1547,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「My childhood dream has always been To be a beautifule bride」",
-        "image": "https://static.kivo.wiki/images/timeline/fL8fSqTGCT5wLeDDeJ7P8SvMvVOoq99U.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 10/10 (Tue)! Pick-Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1710584498453393506",
-        "start_time": 1696903221,
-        "end_time": 1697507961
-      },
-      {
-        "id": 1548,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习14",
-        "image": "https://static.kivo.wiki/images/timeline/oMbvj0m6o1iBjNffpihyDN5va1zoLB6e.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Defense Drill) has opened 10/10 (Tue) 2:00 ",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1711637695704019257",
-        "start_time": 1696903206,
-        "end_time": 1697482746
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223865,
+  "time": 1788302264,
   "version": "1.0.0-beta.43"
 }

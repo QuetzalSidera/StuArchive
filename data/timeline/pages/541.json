@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 306,
+        "line_type": "JP",
+        "title": "回忆大厅追加语音：晴",
+        "image": "https://static.kivo.wiki/images/timeline/KA3X3SZHJEbrR3EmKMdo8tTfGq2JK2LD.jpg",
+        "body_summary": "【トークモーション】 今回のアップデートでは、ハレさんのメモリアルロビーにトークモーションが追加されました！ モーション追加により、以前よりも可愛らしいハレさんの表情を見ることができますので、ぜひメモ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1486564644525572097?s=20",
+        "start_time": 1643278638,
+        "end_time": 1643278638
+      },
+      {
+        "id": 305,
+        "line_type": "JP",
+        "title": "回忆大厅追加：小鸟",
+        "image": "https://static.kivo.wiki/images/timeline/xFqE4nVng6DBt2aTKI26fPvFB1kprWcS.jpg",
+        "body_summary": "【メモリアルロビー】 今回アップデートでは、コトリさんのメモリアルロビーが追加されました！ ぜひ同時に追加されたコトリさんの絆シナリオを体験し、その可愛らしい姿をその目で確かめてくださいね、先生♪ #",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1486549560268840964?s=20",
+        "start_time": 1643278556,
+        "end_time": 1643278556
+      },
+      {
+        "id": 304,
+        "line_type": "JP",
+        "title": "例行维护35",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 1/26(水) 12:00 〜 20:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1485855000148332546?s=20",
+        "start_time": 1643191955,
+        "end_time": 1643191955
+      },
       {
         "id": 303,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1484058109286903808",
         "start_time": 1643092200,
         "end_time": 1643641140
-      },
-      {
-        "id": 914,
-        "line_type": "Globle",
-        "title": "国际服课程表新增区域「the Millennium Study Center」",
-        "image": "https://static.kivo.wiki/images/timeline/giSalRJaHE0Vcp4mLPISLacYMM8WtekT.jpg",
-        "body_summary": "[New Lesson Area] Sensei, did you see that a new area, the Millennium Study Center, was added to Les",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1486594827881877504",
-        "start_time": 1643092200,
-        "end_time": 1643092200
-      },
-      {
-        "id": 913,
-        "line_type": "Globle",
-        "title": "国际服登录奖励「Special Make-Up Work Celebration Login Bonus」",
-        "image": "https://static.kivo.wiki/images/timeline/U5qW7w3DwHzzwEoYoUw2jMS97WzHt2Ux.jpg",
-        "body_summary": "[Special Make-Up Work Celebration Login Bonus] Eden Treaty story update celebratory login bonus even",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1486262642469531648",
-        "start_time": 1643092200,
-        "end_time": 1645556400
-      },
-      {
-        "id": 908,
-        "line_type": "Globle",
-        "title": " 国际服卡池「Even if none of this matters, it's okay, if I'm with you.」",
-        "image": "https://static.kivo.wiki/images/timeline/n8MD4mQV0qbyqlyMjFGwmctpYHkmLP0f.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 1/25 (Tue)! Target Pick-Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1484813285794795522",
-        "start_time": 1643092200,
-        "end_time": 1644289200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224015,
+  "time": 1788302394,
   "version": "1.0.0-beta.43"
 }

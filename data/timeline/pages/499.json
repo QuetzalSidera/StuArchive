@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1214,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍9",
+        "image": "https://static.kivo.wiki/images/timeline/SsCYLbQONn6V9o0NuAkv4ekAAG2N8sgN.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/17 (Mon), Commissions rewards will be doubled! Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1581540445837922305",
+        "start_time": 1666033205,
+        "end_time": 1666637945
+      },
+      {
+        "id": 467,
+        "line_type": "JP",
+        "title": "任务Normal2倍#18",
+        "image": "https://static.kivo.wiki/images/timeline/3JmsViobRycPJbOOOCf6VvRt0UwQRnjN.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「任務(Normal)」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 10月16日(日)4:00〜10月23日(日)3:59 「Area20」が開放さ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1580483528508133376",
+        "start_time": 1665864000,
+        "end_time": 1666468799
+      },
+      {
+        "id": 1211,
+        "line_type": "Globle",
+        "title": "国际服活动 Story Recruitment",
+        "image": "https://static.kivo.wiki/images/timeline/Hz9m8gi3RwiMi4U4DwI9sosOyIqZFz7t.jpg",
+        "body_summary": "[Story Recruitment Event] Time spent with Sensei sure does fly by! If you have any special memories ",
+        "type": "WebEvent",
+        "url": "twitter.com/EN_BlueArchive/status/1580863536783187968",
+        "start_time": 1665742229,
+        "end_time": 1666001429
+      },
       {
         "id": 468,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1578596076793499648",
         "start_time": 1665518400,
         "end_time": 1666123199
-      },
-      {
-        "id": 1203,
-        "line_type": "Globle",
-        "title": "国际服总力战 KAITEN FX Mk.0 (Field) 3",
-        "image": "https://static.kivo.wiki/images/timeline/wAbQZSU9eMkYZ0rbtnt4yj1vMOxFe8KH.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - KAITEN FX Mk.0 (Field Warfare) will start on 10/11 (Tue)",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1577554179580493824",
-        "start_time": 1665453641,
-        "end_time": 1666018781
-      },
-      {
-        "id": 1207,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍1",
-        "image": "https://static.kivo.wiki/images/timeline/jLwGl8hWcBcFWAIdYhBoEjQCTtWXozhY.jpg",
-        "body_summary": "[Double Drop Campaign Preview] For 7 days from 10/11 (Mon), rewards dropped in Scrimmages will be do",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1579033929884962817",
-        "start_time": 1665428440,
-        "end_time": 1666033180
-      },
-      {
-        "id": 460,
-        "line_type": "JP",
-        "title": "晄轮大祭项目推特活动：障害物競走",
-        "image": "",
-        "body_summary": "【#晄輪大祭障害物競走】 先生！ 今回の晄輪大祭の種目は「障害物競走」です！ どのような障害物が生徒さんを阻むのか… ドキドキしますね…！ 下のツイートボタンから誰が勝つか予想しましょう！ #ブルアカ",
-        "type": "WebEvent",
-        "url": "twitter.com/Blue_ArchiveJP/status/1578218555664785409",
-        "start_time": 1665115200,
-        "end_time": 1665115200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223965,
+  "time": 1788302351,
   "version": "1.0.0-beta.43"
 }

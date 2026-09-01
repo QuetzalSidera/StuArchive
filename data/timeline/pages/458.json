@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 669,
+        "line_type": "JP",
+        "title": "回忆大厅追加语音：爱莉",
+        "image": "https://static.kivo.wiki/images/timeline/M2jDFxrdbB8ud5jXjGtrV627M7AeGwwI.jpg",
+        "body_summary": "【トークモーション】 今回のメンテナンス後、アイリさん、スズミさん、そしてヨシミさんのメモリアルロビーにてトークモーションが追加されます！ ぜひ生徒さん達の絆シナリオを体験して、パワーアップされた魅力",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1651058722335256576?s=20",
+        "start_time": 1682484064,
+        "end_time": 1682484064
+      },
+      {
+        "id": 668,
+        "line_type": "JP",
+        "title": "例行维护67",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/26(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1650741538199343105?s=20",
+        "start_time": 1682483965,
+        "end_time": 1682483965
+      },
+      {
+        "id": 667,
+        "line_type": "JP",
+        "title": "活动「白亜の予告状～虚飾の館と美学の在り処～」",
+        "image": "https://static.kivo.wiki/images/timeline/GUhCyGHranQhUpjEe6ONbcrf5GklGMW2.jpg",
+        "body_summary": "【イベント紹介】 4/26(水)メンテナンス後、新イベント「白亜の予告状～虚飾の館と美学の在り処～」を開催します！ イベントではユズ(メイド)さんがお迎え可能です！ ミニゲーム「ゲーム開発部のお掃除大",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1650741714066485248?s=20",
+        "start_time": 1682483919,
+        "end_time": 1683693519
+      },
       {
         "id": 666,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1649702078779129862",
         "start_time": 1682406000,
         "end_time": 1683597540
-      },
-      {
-        "id": 1395,
-        "line_type": "Globle",
-        "title": "国际服「Get Set, Go! Kivotos Halo Festival!」活动PV公开",
-        "image": "",
-        "body_summary": "[Event Update Notice] \"Let's go, Sensei!\" Participate in the Kivotos Halo Festival's grand field day",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1650751493526667264",
-        "start_time": 1682404800,
-        "end_time": 1682404800
-      },
-      {
-        "id": 1388,
-        "line_type": "Globle",
-        "title": "国际服总力战 Goz (Indoor) 1",
-        "image": "https://static.kivo.wiki/images/timeline/XbpisGvB8E3GNYWMNUWK3Ajxf5EiZXwr.jpg",
-        "body_summary": "[Total Assault Preview] Goz(Indoor Warfare) will be held on 4/25 (Tue)! Do you have your strategy al",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1648582205126455296",
-        "start_time": 1682403601,
-        "end_time": 1682967541
-      },
-      {
-        "id": 1391,
-        "line_type": "Globle",
-        "title": "国际服例行维护37",
-        "image": "",
-        "body_summary": "[4/25 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 4/25 (T",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1649352286957608962",
-        "start_time": 1682388026,
-        "end_time": 1682406026
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223917,
+  "time": 1788302309,
   "version": "1.0.0-beta.43"
 }

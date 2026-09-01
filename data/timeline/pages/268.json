@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 3214,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍 #32",
+        "image": "https://static.kivo.wiki/images/timeline/4oXk913NjCyVQekh5HcPsi5RsMeqaXut.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/14 (Mon), Commissions rewards will be doubled! Don't miss",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1844998939810070654",
+        "start_time": 1728932423,
+        "end_time": 1729537223
+      },
+      {
+        "id": 3213,
+        "line_type": "Globle",
+        "title": "国际服任务hard2倍 #28",
+        "image": "https://static.kivo.wiki/images/timeline/FlabAfB1SKaxRcYTYzSFbmmUvD990aU4.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1844996425622450579",
+        "start_time": 1728932416,
+        "end_time": 1729537216
+      },
+      {
+        "id": 3188,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》第5张游戏原声专辑上线",
+        "image": "https://static.kivo.wiki/images/timeline/tV4FXSVFtegHRxnvxGZAHU17BN7IZERp.jpg",
+        "body_summary": "《蔚蓝档案》第5张游戏原声专辑《Blue Archive Original Soundtrack Vol.5 ～Striving for the bloomy festival～》现已上线APPLE ",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/OBkvBspkn",
+        "start_time": 1728788400,
+        "end_time": 1728788400
+      },
       {
         "id": 3195,
         "line_type": "CN",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1844245223385571547",
         "start_time": 1728537352,
         "end_time": 1728537352
-      },
-      {
-        "id": 3207,
-        "line_type": "Globle",
-        "title": "国际服3周年网页活动「Hifumi's Peroro 1-Day Class」",
-        "image": "https://static.kivo.wiki/images/timeline/H7A6UohNK0lFcvMb6ah8GcKhJwxI7Gze.png",
-        "body_summary": "3-Year Anniversary Special Page Reveal – Celebration Event Notice The \"Hifumi's Peroro 1-Day Class\" ",
-        "type": "WebEvent",
-        "url": "x.com/EN_BlueArchive/status/1844245223318159697",
-        "start_time": 1728537346,
-        "end_time": 1728537346
-      },
-      {
-        "id": 3172,
-        "line_type": "JP",
-        "title": "例行维护 #104",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 10月10日(木) 11:00 〜 17:00前後 ▼詳細 https:",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1843894349899411863",
-        "start_time": 1728529200,
-        "end_time": 1728550800
-      },
-      {
-        "id": 3168,
-        "line_type": "JP",
-        "title": "联合火力演习 #32",
-        "image": "https://static.kivo.wiki/images/timeline/N5SH1toBMN5qOsttuABJ0gtblUfKkBwt.jpg",
-        "body_summary": "【合同火力演習・予告】 10月10日(木)11:00より、合同火力演習「防御演習」が開催されます！ 今回の特殊ルールでは、特定の難易度から敵の被ダメージ量が減少すると同時に「SG」武器を使用する生徒さ",
-        "type": "MiniBattle",
-        "url": "twitter.com/Blue_ArchiveJP/status/1842399724084855175",
-        "start_time": 1728525600,
-        "end_time": 1729130399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223691,
+  "time": 1788302113,
   "version": "1.0.0-beta.43"
 }

@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 445,
+        "line_type": "JP",
+        "title": "C100悠星参展",
+        "image": "https://static.kivo.wiki/images/timeline/pXC1B8RfYpGfBhHQmWy43Ww0wz0d0FYd.jpg",
+        "body_summary": "【C100開催中】 本日より #コミックマーケット100 が開幕いたしました。 Yostarブースにて #ブルーアーカイブ の痛車展示とノベルティ配布が行われています。 くれぐれも台風情報に注意し、お",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1558270782778003457",
+        "start_time": 1660359240,
+        "end_time": 1660464000
+      },
+      {
+        "id": 409,
+        "line_type": "JP",
+        "title": "引导任务「アリウス自治区 調査ミッション2」",
+        "image": "https://static.kivo.wiki/images/timeline/BbSaMQnkvcDfVukDXslYmgfN7EJOjy0g.jpg",
+        "body_summary": "【ガイドミッション】 8/9(火)メンテナンス後より、ガイドミッション「アリウス自治区 調査ミッション2」が開始されます。 期間中ミッションクリアで様々な生徒さんの育成素材が入手できる他、イベントアイ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1556565964577460225",
+        "start_time": 1660035600,
+        "end_time": 1662519600
+      },
+      {
+        "id": 407,
+        "line_type": "JP",
+        "title": "卡池「雪代水は廻り行く」卡池复刻「悪は一日にして成らず」",
+        "image": "https://static.kivo.wiki/images/timeline/s89Ak0wyVqKs9EMP5Yr2QgcT14VIsttr.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「雪代水は廻り行く」＆復刻ピックアップ募集「悪は一日にして成らず」がまもなく開催です！ 🔹ピックアップ生徒 ★3 サオリ(CV:#石上静香) ★3 アル(C",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1556505514892111872",
+        "start_time": 1660035600,
+        "end_time": 1661309999
+      },
       {
         "id": 406,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1555841113474359297",
         "start_time": 1660028444,
         "end_time": 1661223644
-      },
-      {
-        "id": 1153,
-        "line_type": "Globle",
-        "title": "国际服活动「New Year's Rhapsody No. 68」",
-        "image": "https://static.kivo.wiki/images/timeline/pQkGY304FuZ1dgRnjWO2L2SRvO0Muw76.jpg",
-        "body_summary": "[New Event Preview] New Year's Rhapsody No. 68 begins on 8/9! We're celebrating a New Year in Kivoto",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1555448518059458564",
-        "start_time": 1660028415,
-        "end_time": 1661223615
-      },
-      {
-        "id": 1157,
-        "line_type": "Globle",
-        "title": "国际服例行维护20",
-        "image": "",
-        "body_summary": "[8/9 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/9 (Tue",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1556475294629842944",
-        "start_time": 1660014040,
-        "end_time": 1660028440
-      },
-      {
-        "id": 408,
-        "line_type": "JP",
-        "title": "例行维护49",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/9(火)11:00 〜 17:00前後 ▼詳細 https://bl",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1556520638629965826",
-        "start_time": 1660014000,
-        "end_time": 1660035600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223978,
+  "time": 1788302362,
   "version": "1.0.0-beta.43"
 }

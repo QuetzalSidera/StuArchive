@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1109,
+        "line_type": "Globle",
+        "title": "国际服开服200天礼物",
+        "image": "https://static.kivo.wiki/images/timeline/2THzmAtNI6HoGJv9HyMKv1LTI43OTQJA.jpg",
+        "body_summary": "[Global Launch 200-Days Celebration Gift] Congratulations for 200 days since coming to Kivotos! Plea",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1530023486168645632",
+        "start_time": 1653642513,
+        "end_time": 1654354773
+      },
+      {
+        "id": 1110,
+        "line_type": "Globle",
+        "title": "国际服半周年&200天纪念音乐会",
+        "image": "",
+        "body_summary": "Congratulations for 0.5-Year Anniversary & 200 days with you, we are inviting Sensei to a special co",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1530088918204329985",
+        "start_time": 1653636621,
+        "end_time": 1653636621
+      },
+      {
+        "id": 352,
+        "line_type": "JP",
+        "title": "过场插图追加3",
+        "image": "",
+        "body_summary": "【ローディングイラスト③】 先生、先日のアップデートにて新しいローディングイラストが追加されたのをお気付きでしたか？ 本日は新たに追加された7枚のイラストを大公開します！ 今後も生徒さん達のプライベー",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1529749330956984320?s=20",
+        "start_time": 1653407968,
+        "end_time": 1653407968
+      },
       {
         "id": 351,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1528964016759902208?s=20",
         "start_time": 1653407422,
         "end_time": 1653407422
-      },
-      {
-        "id": 343,
-        "line_type": "JP",
-        "title": "例行维护44",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどお願いいたします。 ▼実施日時 5/24(火) 11:00 〜 ",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1528616728338440192?s=20",
-        "start_time": 1653407338,
-        "end_time": 1653407338
-      },
-      {
-        "id": 342,
-        "line_type": "JP",
-        "title": "卡池「逃げ水を夢に見て」＆「木枯らしに目を引かれ」",
-        "image": "https://static.kivo.wiki/images/timeline/vWYtO0q7UDNLLFL6pgnj3Hh6V5gPZl4e.jpg",
-        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「逃げ水を夢に見て」＆「木枯らしに目を引かれ」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ミサキ(CV：#土屋李央) ★3 ヒヨリ(CV：#中原麻衣) ",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/1528601642920476672?s=20",
-        "start_time": 1653407083,
-        "end_time": 1654703083
-      },
-      {
-        "id": 340,
-        "line_type": "JP",
-        "title": "指名手配2倍#16 & 课程表2倍#4",
-        "image": "https://static.kivo.wiki/images/timeline/3Ns6H5TLxZrASeG6g8yRcbN4u3tmSxyn.jpg",
-        "body_summary": "【キャンペーン予告】 5月24日(火) 4:00より「指名手配」ならびに「スケジュール」でのドロップ量が2倍になるキャンペーンが開催されます！ いつもより効率的に生徒さんの育成素材が入手できる機会です",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1527121925042241536?s=20",
-        "start_time": 1653406932,
-        "end_time": 1654098132
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223992,
+  "time": 1788302374,
   "version": "1.0.0-beta.43"
 }

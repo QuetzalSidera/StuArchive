@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1859,
+        "line_type": "JP",
+        "title": "例行维护85",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 12/27(水) 11:",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1739526502298079361",
+        "start_time": 1703646000,
+        "end_time": 1703674800
+      },
+      {
+        "id": 5097,
+        "line_type": "JP",
+        "title": "指名手配2倍#33",
+        "image": "https://static.kivo.wiki/images/timeline/mXE4Ord9cwX2ypXPN5UNlwpV3Z1n95KV.png",
+        "body_summary": "▼ 「報酬ドロップ量2倍UPキャンペーン」開催 各キャンペーンについて、詳しくはゲーム内の「キャンペーン確認」ボタンにてご確認ください。",
+        "type": "Double",
+        "url": "bluearchive.jp/news/newsJump/393",
+        "start_time": 1703620800,
+        "end_time": 1704225599
+      },
+      {
+        "id": 2193,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》半周年创作征集活动",
+        "image": "https://static.kivo.wiki/images/timeline/SuIMU3ieBeA0ASBdt8kNcpdWHiIive3C.jpg",
+        "body_summary": "老师，《蔚蓝档案》半周年创作征集活动现已开启，期待您的创作！ 活动时间：2023年12月27日至2024年2月25日 活动期间，在蔚蓝档案超话 中，带上话题 #蔚蓝档案半周年创作征集，发布与《蔚蓝档案",
+        "type": "OutsideGames",
+        "url": "weibo.com/7834138407/Nz2Rra2AX",
+        "start_time": 1703606457,
+        "end_time": 1709049597
+      },
       {
         "id": 1855,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1739544070341726455",
         "start_time": 1703556055,
         "end_time": 1703556055
-      },
-      {
-        "id": 1849,
-        "line_type": "Globle",
-        "title": "国际服卡池「This invincible rabbit is a stickler for the rules.」",
-        "image": "https://static.kivo.wiki/images/timeline/MYGGXzg2j97XMwWlYYmrXhwLxTiJlTHA.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 12/26 (Tue)! Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1738080677772525595",
-        "start_time": 1703556009,
-        "end_time": 1704765549
-      },
-      {
-        "id": 1848,
-        "line_type": "Globle",
-        "title": "国际服卡池「This restless rabbit is determined to succeed.」",
-        "image": "https://static.kivo.wiki/images/timeline/GN7umz49zsf8nVL4ILtI99dZBXexKncJ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 12/26 (Tue)! Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1738076908523532439",
-        "start_time": 1703556009,
-        "end_time": 1704765549
-      },
-      {
-        "id": 1851,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍23",
-        "image": "https://static.kivo.wiki/images/timeline/Q2lcF3j3R3uCw73fthqzB9CmLFPFBm6m.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 12/25 (Mon), Bounty rewards will be doubled! Don't miss out ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1738454391307501812",
-        "start_time": 1703530844,
-        "end_time": 1672599584
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223832,
+  "time": 1788302235,
   "version": "1.0.0-beta.43"
 }

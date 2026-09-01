@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 3124,
+        "line_type": "JP",
+        "title": "例行维护 #103",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/25(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1838458630762565897",
+        "start_time": 1727229600,
+        "end_time": 1727258400
+      },
+      {
+        "id": 3122,
+        "line_type": "JP",
+        "title": "指名手配2倍#40",
+        "image": "https://static.kivo.wiki/images/timeline/epqX8sWGqLY3r5EKXnVjbnWYtzy8xJkW.jpg",
+        "body_summary": "【キャンペーン予告】 9月25日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 9月25日(水)4:00 ～ 10月2日(水)3:59 ぜひご活",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1838141562506899841",
+        "start_time": 1727204400,
+        "end_time": 1727809199
+      },
+      {
+        "id": 3152,
+        "line_type": "Globle",
+        "title": "国际服庆典运营管理部社团剧情更新",
+        "image": "https://static.kivo.wiki/images/timeline/UiVQ78RVlo31olTvUlGrCW4yuifhTTLs.jpg",
+        "body_summary": "[9/24 Update Notice] 9/24 (Tue) scheduled maintenance has ended. ➡️Update Details: https://forum.nex",
+        "type": "OtherStory",
+        "url": "x.com/EN_BlueArchive/status/1838445348496289840",
+        "start_time": 1727172000,
+        "end_time": 1727172000
+      },
       {
         "id": 3202,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1837023893791592778",
         "start_time": 1727143200,
         "end_time": 1728352800
-      },
-      {
-        "id": 3094,
-        "line_type": "Globle",
-        "title": "国际服活动「Rowdy and Cheery」",
-        "image": "https://static.kivo.wiki/images/timeline/LBZ5xWjlK3tJGaEpADyxwbZDdv0Oquf7.jpg",
-        "body_summary": "[Event Preview] Sensei, the Event Story 'Rowdy and Cheery' is coming soon! #BlueArchive",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/1837008792250175774",
-        "start_time": 1727143200,
-        "end_time": 1728352800
-      },
-      {
-        "id": 3100,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍30",
-        "image": "https://static.kivo.wiki/images/timeline/lQeuRfOSWFq0H7VQldP7SGcogXfJ2n8T.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 9/23 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1837386277672325604",
-        "start_time": 1727118000,
-        "end_time": 1727722800
-      },
-      {
-        "id": 3113,
-        "line_type": "CN",
-        "title": "间宵时雨",
-        "image": "https://static.kivo.wiki/images/timeline/Azwsr4KgdUBsEe9ZUA5h5tsDV4KYKv5z.jpg",
-        "body_summary": "//////////档案启封////////// ■ 间宵时雨 遭红冬学院停学处分，在227号旧楼中反省的特别学员。 因为在配给的水果罐头中掺入了酒精而受到处分。她与227号特别班的和香是关系很好的朋",
-        "type": "Other",
-        "url": "weibo.com/6011443154/OxSqEvV3j",
-        "start_time": 1726826400,
-        "end_time": 1726826400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223699,
+  "time": 1788302120,
   "version": "1.0.0-beta.43"
 }

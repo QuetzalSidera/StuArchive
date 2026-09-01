@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 873,
+        "line_type": "Globle",
+        "title": "国际服主线Vol.2更新",
+        "image": "https://static.kivo.wiki/images/timeline/kwXSvhikGJvLYhHFZsgLnxGFY46eGQGb.jpg",
+        "body_summary": "[Update Preview] Sensei, a new main story, Clockwork Flower Pavane will be released on 12/14 (Tue)! ",
+        "type": "MainStory",
+        "url": "twitter.com/EN_BlueArchive/status/1469924982775955456",
+        "start_time": 1639468800,
+        "end_time": 1639468800
+      },
+      {
+        "id": 872,
+        "line_type": "Globle",
+        "title": "国际服卡池「You played our game too, right?」",
+        "image": "https://static.kivo.wiki/images/timeline/R4JSfskEdhrjiDZ7rdAZbawc4bj4XrJ4.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 12/14 (Tue)! Target Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1469592797250732040",
+        "start_time": 1639468800,
+        "end_time": 1640660400
+      },
+      {
+        "id": 870,
+        "line_type": "Globle",
+        "title": "国际服总力战 Chesed（Field）1",
+        "image": "https://static.kivo.wiki/images/timeline/HL9XJUrFGmitTntwk23YEH6WL5bC6j8L.jpg",
+        "body_summary": "[Total Assault Preview] Total Assault - Chesed (Field Warfare) will be held on 12/14 (Tue)! It's tim",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1468852326417170433",
+        "start_time": 1639468800,
+        "end_time": 1640012400
+      },
       {
         "id": 224,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1468083405120503808",
         "start_time": 1638936000,
         "end_time": 1638950400
-      },
-      {
-        "id": 868,
-        "line_type": "Globle",
-        "title": "国际服下载量突破300万",
-        "image": "https://static.kivo.wiki/images/timeline/N9Jm8Ya7xYK00WkyC0HXnFMOSEDFkave.jpg",
-        "body_summary": "💎3-Million Downloads Celebration Gift💎 A thank-you gift for all Senseis that helped us reach 3-milli",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1468415036322287617",
-        "start_time": 1638932400,
-        "end_time": 1638932400
-      },
-      {
-        "id": 217,
-        "line_type": "JP",
-        "title": "指名手配2倍#10",
-        "image": "https://static.kivo.wiki/images/timeline/JCGK4MEGJbDhosxCdz8aQoreMsYwwQbX.jpg",
-        "body_summary": "【キャンペーン予告】 12月8日(水)04:00から、「指名手配」における素材のドロップ量が2倍になるキャンペーンが開催されます！ この機会に、生徒さんたちのスキルを成長させてみてはいかがでしょうか？",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1467705629058170880",
-        "start_time": 1638907200,
-        "end_time": 1639511999
-      },
-      {
-        "id": 867,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁2",
-        "image": "",
-        "body_summary": "[12/7(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1468165674107547649",
-        "start_time": 1638872940,
-        "end_time": 1638872940
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788224024,
+  "time": 1788302402,
   "version": "1.0.0-beta.43"
 }

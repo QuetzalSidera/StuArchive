@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 544,
+        "line_type": "JP",
+        "title": "引导任务「シャーレの回顧録with連邦生徒会」",
+        "image": "https://static.kivo.wiki/images/timeline/OtrOy5lD8Mv1DJlVkkvOyhMxvcqKQof2.jpg",
+        "body_summary": "【ガイドミッション】 メンテナンス終了後、ガイドミッション「シャーレの回顧録with連邦生徒会」が開始されます。 ミッションクリアで、生徒さんの育成素材や「1回募集チケット」を入手できる他、イベントア",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1613053171949240321",
+        "start_time": 1673427600,
+        "end_time": 1677034799
+      },
+      {
+        "id": 542,
+        "line_type": "JP",
+        "title": "卡池「ドレスコードは鋼の白衣」卡池复刻「自由意志のもと誇りにかけて」＆「大聖堂からバザールにかけて」",
+        "image": "https://static.kivo.wiki/images/timeline/QYbHam0ZgDD0ONgRbggPz7Mx3oh1x6f0.jpg",
+        "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「ドレスコードは鋼の白衣」、復刻ピックアップ募集「自由意志のもと誇りにかけて」＆「大聖堂からバザールにかけて」が開催されます！ 詳しくは下記URL",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1612675664901206018",
+        "start_time": 1673427600,
+        "end_time": 1674529199
+      },
+      {
+        "id": 539,
+        "line_type": "JP",
+        "title": "活动复刻「シャーレのハッピー♡バレンタインパトロール」＆「 狐坂ワカモの沈黙と祝宴」",
+        "image": "https://static.kivo.wiki/images/timeline/7fKfHwruGZxR9PIgiD66Tdvx1l7dTHeh.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生！ ワカモさんの先生への思いが爆発したあの怒涛の一日が、当日の生徒さん達の裏話を追加して復活しますよ！ 復刻イベント「シャーレのハッピー♡バレンタインパトロール」＆「 狐",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1610471140245524481",
+        "start_time": 1673427600,
+        "end_time": 1674529199
+      },
       {
         "id": 545,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1611981026141560835",
         "start_time": 1673290804,
         "end_time": 1673895544
-      },
-      {
-        "id": 536,
-        "line_type": "JP",
-        "title": "屋内戦・ヒエロニムス4",
-        "image": "https://static.kivo.wiki/images/timeline/z5FonAKz9o6t2VsFg4nJSxMHCD5nGtnj.jpg",
-        "body_summary": "【総力戦・予告】 2023年1月4日(水)11:00より、「屋内戦・ヒエロニムス」が開催されます！ 今回も順位に応じて「ヒエロニムス(屋内戦)のトロフィー」を獲得できますので、前回以上の高順位を目指し",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1608387453559373826",
-        "start_time": 1672801200,
-        "end_time": 1673380799
-      },
-      {
-        "id": 535,
-        "line_type": "JP",
-        "title": "课程表2倍#10 & 学院交流会2倍#10",
-        "image": "https://static.kivo.wiki/images/timeline/eV19x4Hs1elhdtTkJFWxsPj9aFit4C9W.jpg",
-        "body_summary": "【キャンペーン予告】 2023/1/4(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/1/4(水)4:00 ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1608296912331104257",
-        "start_time": 1672776000,
-        "end_time": 1673380799
-      },
-      {
-        "id": 1290,
-        "line_type": "Globle",
-        "title": "国际服Hieronymus更新特殊补给",
-        "image": "https://static.kivo.wiki/images/timeline/2Mi5o8P5gVKMNmjBoJP3LXRy7gRiFsmK.jpg",
-        "body_summary": "[Hieronymus Update Rewards] Sensei, now you can challenge all the Total Assault bosses in INSANE, ev",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1610209351045619714",
-        "start_time": 1672738820,
-        "end_time": 1672738820
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223945,
+  "time": 1788302333,
   "version": "1.0.0-beta.43"
 }

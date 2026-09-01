@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1440,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍17",
+        "image": "https://static.kivo.wiki/images/timeline/PGVACwf03xNJKdGjs4N5FFN0n56MEeVq.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 6/12 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1667426369494556672",
+        "start_time": 1686596454,
+        "end_time": 1687201194
+      },
+      {
+        "id": 692,
+        "line_type": "JP",
+        "title": "学生介绍：葵",
+        "image": "https://static.kivo.wiki/images/timeline/SBWl9UOoEePXYSShCcXx7SlBntaRTNm9.jpg",
+        "body_summary": "【イベント開催中】 本日は「シャーレの総決算with連邦生徒会」専用ページで案内を勤めているアオイさんをご紹介します！ 専用ページではアオイさんを撫でてあげると、可愛らしい表情も見せてくれるので、ぜひ",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1667381123532587011",
+        "start_time": 1686373200,
+        "end_time": 1686373200
+      },
+      {
+        "id": 688,
+        "line_type": "JP",
+        "title": "网页小游戏：掘地求升",
+        "image": "https://static.kivo.wiki/images/timeline/dwMMjK6hFCF8Z5bzSFUQUWH2c4J80Dwk.jpg",
+        "body_summary": "【#激登_SRT式登頂訓練 】 目を覚ますと、そこは謎の山だった―― 先生、なんとRABBIT小隊員の皆さんが主役を務めるミニゲームが公開されました！ プレイ報酬も用意されているようで、困っている小隊",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1667124735879290880",
+        "start_time": 1686312000,
+        "end_time": 1693483200
+      },
       {
         "id": 687,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1665961736741220353",
         "start_time": 1686106800,
         "end_time": 1686128400
-      },
-      {
-        "id": 682,
-        "line_type": "JP",
-        "title": "课程表2倍#14 & 学院交流会2倍#14",
-        "image": "https://static.kivo.wiki/images/timeline/5JQfvGOv4oGQTAw4eERXWYuXCSHibJLN.jpg",
-        "body_summary": "【キャンペーン予告】 2023/6/7(水)4:00より、「スケジュール」ならびに「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/6/7(水)4:00 ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1664919997981003778",
-        "start_time": 1686081600,
-        "end_time": 1686686399
-      },
-      {
-        "id": 1436,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.2 第二章后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/k3KSo03RW5gqJdgLwzcnw95s5WK0gPHm.jpg",
-        "body_summary": "[Main Story Update] Main Story Clockwork Flower Pavane, Ch. 2 (Second Half) is here! Help the Game D",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1665903836102361088",
-        "start_time": 1686034810,
-        "end_time": 1686034810
-      },
-      {
-        "id": 1435,
-        "line_type": "Globle",
-        "title": "国际服总力战 Chesed (Indoor) 3",
-        "image": "https://static.kivo.wiki/images/timeline/MEnQd4SiRCvW0eH3FPkEkoOJDRvvbQFW.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Chesed (Indoor Warfare) has opened at 2:00 on 6/6 (T",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1665901326218190848",
-        "start_time": 1686016844,
-        "end_time": 1686596384
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223908,
+  "time": 1788302301,
   "version": "1.0.0-beta.43"
 }

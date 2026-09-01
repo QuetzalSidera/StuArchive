@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 625,
+        "line_type": "JP",
+        "title": "任务Normal2倍#24 & 学院交流会2倍#12",
+        "image": "https://static.kivo.wiki/images/timeline/gw7Ge3tiGkt9kfVtr1Rz2cNwjWj9sxti.jpg",
+        "body_summary": "【キャンペーン予告】 4月5日(水)4:00より、「任務(Normal)」＆「学園交流会」での報酬ドロップ量が2倍になるキャンペーンを開催します！ 「任務(Normal)」に追加された「EXTRAステ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1642723837199659008?s=20",
+        "start_time": 1680700775,
+        "end_time": 1681305575
+      },
+      {
+        "id": 621,
+        "line_type": "JP",
+        "title": "联合火力演习14",
+        "image": "https://static.kivo.wiki/images/timeline/XtKOS7VcyNKSQLVTlKE4ia5umMIoEWLk.jpg",
+        "body_summary": "【合同火力演習・予告】 4月5日(水)メンテナンス終了後、合同火力演習「防御演習」が開幕します！ 今回の特殊ルールでは、敵が移動速度減少の代わりに攻撃力を上昇したり、「クラス：タンク」の生徒さん達のH",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1641274137518952448?s=20",
+        "start_time": 1680700294,
+        "end_time": 1681243174
+      },
+      {
+        "id": 1370,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习8",
+        "image": "https://static.kivo.wiki/images/timeline/Pjf6xNtZzNhCaMhnEquDKkRnfFCYySie.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Defense Drill) will start on 4/4 (Tue)! Officia",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1640972055813455873",
+        "start_time": 1680573624,
+        "end_time": 1681153164
+      },
       {
         "id": 1375,
         "line_type": "Globle",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1641817631815774215",
         "start_time": 1680274859,
         "end_time": 1680274859
-      },
-      {
-        "id": 6,
-        "line_type": "CN",
-        "title": "国服微博账号开通",
-        "image": "",
-        "body_summary": "",
-        "type": "OutsideGames",
-        "url": "weibo.com/6011443154/MzNfc26ez",
-        "start_time": 1680272547,
-        "end_time": 1680272547
-      },
-      {
-        "id": 1905,
-        "line_type": "Globle",
-        "title": "国际服彩奈小编应援团换装回 & 晄轮大祭直播",
-        "image": "https://static.kivo.wiki/images/timeline/bOvTnk89QvFPuEth2cmzaR5t5leCHjMC.png",
-        "body_summary": "▎3/31(五)彩奈小編的激烈運動會 ​ 是不是又在整我! 我..我不要運動 ｡ﾟヽ(ﾟ´Д`)ﾉﾟ｡ https://www.youtube.com/@bluearchive4GkyLeknfE ​",
-        "type": "Live",
-        "url": "www.facebook.com/TW.BlueArchive/posts/pfbid0jeMSAhPxZtq553wDKQ5ZVKvBiaBP9JykzRb2nSDhyy7BSoNT1Xht441EG5ebKqoil",
-        "start_time": 1680253203,
-        "end_time": 1680253203
-      },
-      {
-        "id": 620,
-        "line_type": "JP",
-        "title": "特别依赖2倍#28",
-        "image": "https://static.kivo.wiki/images/timeline/sZPV2tB4y1wKUVCtrMUoZOVUVQAh8Pzj.jpg",
-        "body_summary": "【キャンペーン予告】 3/29(水)より、「特別依頼」において各種「レポート」や「クレジット」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/3/29(水)4:00 ~",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1640549594332557312?s=20",
-        "start_time": 1680095425,
-        "end_time": 1680700225
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223923,
+  "time": 1788302314,
   "version": "1.0.0-beta.43"
 }

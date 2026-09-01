@@ -5,16 +5,16 @@
     "max_page": 581,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 92,
+      "BigRaid": 93,
       "ContentImprovements": 421,
       "Double": 965,
       "Event": 522,
-      "Gacha": 825,
+      "Gacha": 826,
       "Live": 88,
       "MainStory": 131,
       "Maintenance": 448,
       "MiniBattle": 208,
-      "Other": 712,
+      "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 253,
@@ -22,6 +22,39 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 1124,
+        "line_type": "Globle",
+        "title": "国际服活动「Special Mission DECAGRAMMATON」1",
+        "image": "https://static.kivo.wiki/images/timeline/c9t58c9Qdw4oQPEE4mywfEHMnUKBjLNM.jpg",
+        "body_summary": "[Event Preview] New content, ‘Special Mission”, will begin on 6/21 (Tue)! Hidden stories that weren’",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1538084109540438016",
+        "start_time": 1655751655,
+        "end_time": 1656990055
+      },
+      {
+        "id": 364,
+        "line_type": "JP",
+        "title": "活动「アビドスリゾート復旧対策委員会」PV公开",
+        "image": "",
+        "body_summary": "【イベントPV】 新イベントのPVを公開します！ ひょんな事からリゾート使用券を手に入れた対策委員会の皆さんと過ごす、ひと夏のバカンスを精一杯楽しみましょうね、先生♪ って……あ、あれは… ワカモさん",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1538718508380725248",
+        "start_time": 1655697600,
+        "end_time": 1655697600
+      },
+      {
+        "id": 1817,
+        "line_type": "JP",
+        "title": "任务Hard2倍#15",
+        "image": "https://static.kivo.wiki/images/timeline/kL0eKJtpMFaD7okvdyY4R4jVxYxKdbxE.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「任務(Hard)」のドロップ量が2倍になるキャンペーンが開催されます！ 「Area19」が追加されてから初の2倍キャンペーンですので、イズナさんの「神名文字」獲得を目指",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1536181638006472705",
+        "start_time": 1655582420,
+        "end_time": 1655841560
+      },
       {
         "id": 363,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1536181566388391936",
         "start_time": 1655175607,
         "end_time": 1655193607
-      },
-      {
-        "id": 1121,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍7",
-        "image": "https://static.kivo.wiki/images/timeline/oLU34R0BHrB25MPPzNMlzggLmuGYjiEB.jpg",
-        "body_summary": "[Double Drop Campaign Preview] From 6/13 (Mon), the amount of rewards dropped in Bounty will be doub",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1535879578379358209",
-        "start_time": 1655146811,
-        "end_time": 1655751551
-      },
-      {
-        "id": 362,
-        "line_type": "JP",
-        "title": "任务Normal2倍#15",
-        "image": "https://static.kivo.wiki/images/timeline/ZH3gqXoOF23MUtjHXBM9MWz4p5s3BJfx.jpg",
-        "body_summary": "【キャンペーン予告】 6月12日(日)4:00から、「任務(Normal)」での報酬量が2倍になるキャンペーンが開催されます！ 新しく解放された「Area19」では「Tier7」装備アイテムの設計図が",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1534732029782544384",
-        "start_time": 1654977600,
-        "end_time": 1655582399
-      },
-      {
-        "id": 360,
-        "line_type": "JP",
-        "title": "卡池「徒桜を拾い集めて」卡池复刻「花散らす仮面舞踏会」",
-        "image": "https://static.kivo.wiki/images/timeline/9SUP3E6UmjYxhDnaUcpyOkiPc1HPVQQj.jpg",
-        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「徒桜を拾い集めて」＆復刻ピックアップ募集「花散らす仮面舞踏会」がまもなく開催です！ 🔹ピックアップ生徒 ★3 アツコ(CV: #花澤香菜) ★3 アズサ ",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1534037468399665154",
-        "start_time": 1654678800,
-        "end_time": 1655866800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788223989,
+  "time": 1788302371,
   "version": "1.0.0-beta.43"
 }
