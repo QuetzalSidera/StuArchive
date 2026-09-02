@@ -17,11 +17,22 @@
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
-      "Raid": 253,
+      "Raid": 254,
       "Trivia": 29,
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2600,
+        "line_type": "JP",
+        "title": "例行维护95",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回のメンテナンスでは、開発エンジンのバージョンアップデートに伴い、約4.3GBのデータダウンロードが必要となりますので、ご協力の",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1792798205715046581",
+        "start_time": 1716346800,
+        "end_time": 1716375600
+      },
       {
         "id": 5096,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1791725408813289983",
         "start_time": 1716231627,
         "end_time": 1716836427
-      },
-      {
-        "id": 2598,
-        "line_type": "JP",
-        "title": "炸服37（提前结束）",
-        "image": "",
-        "body_summary": "【緊急メンテナンスのお知らせ】 先ほどサーバーとの接続が不安定な事象が確認されました。 原因の特定をすべく、只今より緊急メンテナンスを実施いたします。 緊急メンテナンスの終了時刻は5月21日(火)00",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1792519950101582159",
-        "start_time": 1716208620,
-        "end_time": 1716210480
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788302171,
+  "time": 1788387599,
   "version": "1.0.0-beta.43"
 }

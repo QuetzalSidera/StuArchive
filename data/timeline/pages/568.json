@@ -17,11 +17,22 @@
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
-      "Raid": 253,
+      "Raid": 254,
       "Trivia": 29,
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 107,
+        "line_type": "JP",
+        "title": "炸服12",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 ただいま、臨時メンテナンスを実施しております。 メンテナンス中はゲームをご利用いただくことができませんため、ご注意ください。 終了時間は17:30前後を予定しております。 ▼詳細",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1403238302640066560",
+        "start_time": 1623389400,
+        "end_time": 1623403800
+      },
       {
         "id": 105,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/129",
         "start_time": 1622116800,
         "end_time": 1622116800
-      },
-      {
-        "id": 144,
-        "line_type": "JP",
-        "title": "屋内戦·ヒエロニムス1 「EXTREME」难度解放",
-        "image": "",
-        "body_summary": "【総力戦開催中】 トリニティの古聖堂地下にて、正体不明の存在が発見されました！ 正体はゲマトリアが古代の教義をもとに作り上げた実験体ではないかとの噂です…。 真相は謎ですが、このまま放置はできません！",
-        "type": "Raid",
-        "url": "x.com/blue_archivejp/status/1398127194962989061?s=46&t=JCAusYy30IlDEGpeUVCB0g",
-        "start_time": 1622083686,
-        "end_time": 1622688486
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788302422,
+  "time": 1788387825,
   "version": "1.0.0-beta.43"
 }

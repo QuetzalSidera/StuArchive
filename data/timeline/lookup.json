@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-01T20:35:00Z",
+  "generated_at": "2026-09-02T20:31:15Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5805,
-  "alias_count": 5774,
-  "normalized_alias_count": 5766,
+  "total_items": 5806,
+  "alias_count": 5775,
+  "normalized_alias_count": 5767,
   "by_id": {
     "5958": {
       "id": 5958,
@@ -66,6 +66,24 @@
       },
       "detail_path": "timeline/5940.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5940.json"
+    },
+    "5961": {
+      "id": 5961,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5961,
+        "line_type": "JP",
+        "title": "屋内戦・ペロロジラ#6",
+        "image": "https://static.kivo.wiki/images/timeline/7vhVlRguDELyMfZaPUFd3nFF6cD0wwnN.jpg",
+        "body_summary": "【総力戦＆大決戦スケジュール】 先生！今後開催予定の総力戦＆大決戦スケジュールをご紹介します！ 9月2日(水)11:00からは、総力戦「屋内戦・ペロロジラ」、 9月中旬には大決戦「市街地戦・シロ＆クロ",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/2093896886898045165",
+        "start_time": 1788318000,
+        "end_time": 1788897599
+      },
+      "detail_path": "timeline/5961.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5961.json"
     },
     "5956": {
       "id": 5956,
@@ -104514,6 +104532,9 @@
     "纱织(礼服)家具互动更新": [
       "5940"
     ],
+    "屋内戦・ペロロジラ#6": [
+      "5961"
+    ],
     "任务Normal2倍#60": [
       "5956"
     ],
@@ -121868,6 +121889,9 @@
     ],
     "纱织(礼服)家具互动更新": [
       "5940"
+    ],
+    "屋内戦・ペロロジラ#6": [
+      "5961"
     ],
     "任务normal2倍#60": [
       "5956"

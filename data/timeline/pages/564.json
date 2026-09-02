@@ -17,11 +17,22 @@
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
-      "Raid": 253,
+      "Raid": 254,
       "Trivia": 29,
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 155,
+        "line_type": "JP",
+        "title": "例行维护21",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/12(木) 12:00 〜 18:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1425321079778680833",
+        "start_time": 1628740800,
+        "end_time": 1628762400
+      },
       {
         "id": 154,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/140",
         "start_time": 1627560000,
         "end_time": 1627560000
-      },
-      {
-        "id": 151,
-        "line_type": "JP",
-        "title": "回忆大厅追加语音：明里、静子、睦月",
-        "image": "",
-        "body_summary": "【メモリアルロビー】 7月29日(木)のアップデートにて、アカリさん、シズコさん、そしてムツキさんのメモリアルロビーにトークモーションが追加されました！ モーション追加により、以前より皆さんますます表",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1421026049308065803",
-        "start_time": 1627560000,
-        "end_time": 1627560000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788302418,
+  "time": 1788387821,
   "version": "1.0.0-beta.43"
 }

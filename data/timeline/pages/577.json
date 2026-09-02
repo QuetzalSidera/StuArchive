@@ -17,11 +17,22 @@
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
-      "Raid": 253,
+      "Raid": 254,
       "Trivia": 29,
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 65,
+        "line_type": "JP",
+        "title": "炸服7",
+        "image": "",
+        "body_summary": "【通信障害】 先ほど、クラウドサーバー運営側から東京リージョンに障害が起きている連絡を受けました。 しばらくの間、接続が不安定になる可能性がございます。 回復次第、再度報告いたします。 ご迷惑をおかけ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1362833498373988352",
+        "start_time": 1613756160,
+        "end_time": 1613763600
+      },
       {
         "id": 60,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1360091305540423685",
         "start_time": 1613160000,
         "end_time": 1614283200
-      },
-      {
-        "id": 51,
-        "line_type": "JP",
-        "title": "关注数突破20万",
-        "image": "https://static.kivo.wiki/images/timeline/SKsxMrAjBUE4bHvPYcqjvnMgWTnrNsGs.jpg",
-        "body_summary": "【フォロワー数20万人突破】 このたび、『ブルーアーカイブ』公式Twitterのフォロワー数が20万人を突破しました！ ありがとうございます！ 感謝の気持ちを込めて先生方に、 「青輝石×1200」(生",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1360136600575901696",
-        "start_time": 1613122869,
-        "end_time": 1613122869
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788302431,
+  "time": 1788387834,
   "version": "1.0.0-beta.43"
 }

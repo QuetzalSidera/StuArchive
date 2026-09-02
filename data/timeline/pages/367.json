@@ -17,11 +17,22 @@
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
-      "Raid": 253,
+      "Raid": 254,
       "Trivia": 29,
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2102,
+        "line_type": "JP",
+        "title": "联合火力演习24",
+        "image": "https://static.kivo.wiki/images/timeline/GzkvbKJM5UD3dO7aD5uOb8Myn77lZRoZ.jpg",
+        "body_summary": "【合同火力演習・予告】 2月7日(水)メンテナンス後、合同火力演習「防御演習」を開幕します！ 今回のルールでは、ポジション「FRONT」の味方の攻撃力が増加する代わりに、敵のHPが増加するそうです…。",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1753689987395252415",
+        "start_time": 1707303600,
+        "end_time": 1707879599
+      },
       {
         "id": 2223,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/video/BV1Fy421Y7on",
         "start_time": 1707188412,
         "end_time": 1707188412
-      },
-      {
-        "id": 2127,
-        "line_type": "Globle",
-        "title": "国际服总力战 Goz (Field) 1",
-        "image": "https://static.kivo.wiki/images/timeline/VCxkEA4iOOm2Ibnexus3FqYorYLrZdSq.jpg",
-        "body_summary": "[Total Assault Open Notice] The Total Assault - Goz (Field Warfare) has opened 2/6 (Tue) 2:00 AM (UT",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1754761846886654333",
-        "start_time": 1707184824,
-        "end_time": 1707789564
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788302215,
+  "time": 1788387639,
   "version": "1.0.0-beta.43"
 }

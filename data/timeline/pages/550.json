@@ -17,11 +17,22 @@
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
-      "Raid": 253,
+      "Raid": 254,
       "Trivia": 29,
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 218,
+        "line_type": "JP",
+        "title": "炸服17",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 サーバー機器の調整作業を行うため、下記の時間に臨時メンテナンスを実施いたします。 ▼実施日時 2021/12/08(水) 12:00 〜 16:00前後 ご理解、ご協力のほどよろ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1468083405120503808",
+        "start_time": 1638936000,
+        "end_time": 1638950400
+      },
       {
         "id": 868,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1464111338868056064",
         "start_time": 1638273600,
         "end_time": 1638892799
-      },
-      {
-        "id": 215,
-        "line_type": "JP",
-        "title": "例行维护30",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/30(火) 12:00 〜 20:00前後 ▼詳細 https:/",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1465199104230043648",
-        "start_time": 1638244800,
-        "end_time": 1638273600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788302403,
+  "time": 1788387808,
   "version": "1.0.0-beta.43"
 }
