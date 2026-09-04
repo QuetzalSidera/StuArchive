@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 533,
+        "line_type": "JP",
+        "title": "例行维护59",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 ▼実施日時 12/28(水) 11:00 〜 19:00前後 ▼詳細 https://bluearchive.jp/news/ne",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1607617364308422656",
+        "start_time": 1672196400,
+        "end_time": 1672225200
+      },
       {
         "id": 530,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1604310492683546627",
         "start_time": 1671710400,
         "end_time": 1671716580
-      },
-      {
-        "id": 524,
-        "line_type": "JP",
-        "title": "屋内戦・ペロロジラ4",
-        "image": "https://static.kivo.wiki/images/timeline/lsg0AY4EJZ2N7kW3gPCg8R3Yumg9B3C3.jpg",
-        "body_summary": "【総力戦予告】 先生！12月21日(水)11:00より、総力戦「屋内戦・ペロロジラ」が開催されます！ 「ペロロジラ(屋内戦)トロフィー」の獲得を目指して、巨大怪獣(？)「ペロロジラ」を撃退しましょう！",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1604673109465788417",
-        "start_time": 1671591600,
-        "end_time": 1672171199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474925,
+  "time": 1788560824,
   "version": "1.0.0-beta.43"
 }

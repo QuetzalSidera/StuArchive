@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 427,
+        "line_type": "JP",
+        "title": "例行维护51",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/7(水)11:00 〜 17:00前後 ▼詳細 https://bl",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1567029849491124226",
+        "start_time": 1662519600,
+        "end_time": 1662541200
+      },
       {
         "id": 424,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1565987848917884929",
         "start_time": 1662192057,
         "end_time": 1662807657
-      },
-      {
-        "id": 421,
-        "line_type": "JP",
-        "title": "市街地戦・ヒエロニムス3",
-        "image": "https://static.kivo.wiki/images/timeline/bTtoJpCXH12GUfTuZwnjInwoz5Im8pi9.jpg",
-        "body_summary": "【総力戦・予告】 8月31日(水)11:00より、「市街地戦・ヒエロニムス」が開催します！ 先日のアップデートにて、テイラーメイドに新たに「ヒエロニムスのトロフィー」を素材に製造できる「トロフィースタ",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1563360859082326018",
-        "start_time": 1661914800,
-        "end_time": 1662494399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474947,
+  "time": 1788560848,
   "version": "1.0.0-beta.43"
 }

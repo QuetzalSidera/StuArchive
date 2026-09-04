@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 131,
+        "line_type": "JP",
+        "title": "炸服11-百日维新",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 現在発生している接続問題の修正を行うため、緊急メンテナンスを実施いたします。 ▼メンテナンス期間 5/13(木) 18:30 〜 5/13（木）21:00 なお、本件の補填につい",
+        "type": "Maintenance",
+        "url": "x.com/blue_archivejp/status/1392773584909606919?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1620872602,
+        "end_time": 1620959002
+      },
       {
         "id": 129,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/blue_archivejp/status/1390192436694052866?s=46&t=JCAusYy30IlDEGpeUVCB0g",
         "start_time": 1620266462,
         "end_time": 1620266462
-      },
-      {
-        "id": 102,
-        "line_type": "JP",
-        "title": "发推活动【貯めろ！アウトローポイント！】",
-        "image": "",
-        "body_summary": "【貯めろ！アウトローポイント！】 このツイートに「いいね」,「RT」,または「 @Blue_ArchiveJP と #便利屋68アニメ をつけてツイート」！ アウトローポイントを貯めて、豪華賞品が当た",
-        "type": "WebEvent",
-        "url": "x.com/Blue_ArchiveJP/status/1388327320293883907?s=20",
-        "start_time": 1619874759,
-        "end_time": 1619874759
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788475012,
+  "time": 1788560916,
   "version": "1.0.0-beta.43"
 }

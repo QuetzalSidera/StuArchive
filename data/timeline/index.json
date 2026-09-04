@@ -7,15 +7,26 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-09-03T20:31:52Z",
+  "generated_at": "2026-09-04T20:18:14Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 581,
   "synced_pages": 581,
-  "total_items": 5806,
+  "total_items": 5807,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
+    {
+      "id": 5962,
+      "line_type": "JP",
+      "title": "任务Hard2倍#57",
+      "image": "https://static.kivo.wiki/images/timeline/0qhFymdL0XmxnnpjV8cisnaqZUXY6t7p.jpg",
+      "body_summary": "【キャンペーン予告】 2026年9月6日(日) 4:00より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年9月6日(日) 4:00 ～ 202",
+      "type": "Double",
+      "url": "x.com/Blue_ArchiveJP/status/2095784347743965225",
+      "start_time": 1788465600,
+      "end_time": 1788897599
+    },
     {
       "id": 5958,
       "line_type": "CN",
@@ -67949,15 +67960,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=581",
       "path": "timeline/pages/581.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/581.json",
-      "item_count": 6
+      "item_count": 7
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5775,
-    "normalized_alias_count": 5767,
-    "total_items": 5806
+    "alias_count": 5776,
+    "normalized_alias_count": 5768,
+    "total_items": 5807
   }
 }

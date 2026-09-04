@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 524,
+        "line_type": "JP",
+        "title": "屋内戦・ペロロジラ4",
+        "image": "https://static.kivo.wiki/images/timeline/lsg0AY4EJZ2N7kW3gPCg8R3Yumg9B3C3.jpg",
+        "body_summary": "【総力戦予告】 先生！12月21日(水)11:00より、総力戦「屋内戦・ペロロジラ」が開催されます！ 「ペロロジラ(屋内戦)トロフィー」の獲得を目指して、巨大怪獣(？)「ペロロジラ」を撃退しましょう！",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1604673109465788417",
+        "start_time": 1671591600,
+        "end_time": 1672171199
+      },
       {
         "id": 1271,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1605093139118559233",
         "start_time": 1671505223,
         "end_time": 1672023623
-      },
-      {
-        "id": 1275,
-        "line_type": "Globle",
-        "title": "国际服例行维护28",
-        "image": "",
-        "body_summary": "[12/20 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 12/20 ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1604672877571084288",
-        "start_time": 1671501613,
-        "end_time": 1671523213
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474926,
+  "time": 1788560825,
   "version": "1.0.0-beta.43"
 }

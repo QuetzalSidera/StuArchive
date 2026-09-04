@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 486,
+        "line_type": "JP",
+        "title": "屋内戦・ゴズ1",
+        "image": "https://static.kivo.wiki/images/timeline/ipYziZiildmZW9o71X5gIeHsBWBsWR6r.jpg",
+        "body_summary": "【総力戦・予告】 11月2日(水)11:00より、総力戦「屋内戦・ゴズ」が開催されます！ 遂に始まる新BOSS「ゴズ」のと初戦闘です…！ マジシャンのような見た目同様に、トリッキーな攻撃を仕掛けてくる",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1587006559946964993",
+        "start_time": 1667358000,
+        "end_time": 1667937540
+      },
       {
         "id": 487,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1585935824784236544",
         "start_time": 1666951542,
         "end_time": 1667124342
-      },
-      {
-        "id": 1223,
-        "line_type": "Globle",
-        "title": "国际服一周年直播「Kivotos’ 1st Anniversary Celebration Party」",
-        "image": "https://static.kivo.wiki/images/timeline/Y9eqv2BrrPvol9NRc8JFJ45JZFJhxi97.png",
-        "body_summary": "[Special Broadcast Notice for Kivotos’ 1st Anniversary Celebration] Sensei, in celebration of our 1s",
-        "type": "Live",
-        "url": "twitter.com/EN_BlueArchive/status/1585210168446705664",
-        "start_time": 1666951200,
-        "end_time": 1666951200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474935,
+  "time": 1788560835,
   "version": "1.0.0-beta.43"
 }

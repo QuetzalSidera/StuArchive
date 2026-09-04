@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 220,
+        "line_type": "JP",
+        "title": "炸服18",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 まもなく臨時メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 12/8(水) 12:00 〜 16:00前後 ※終了時間は前後する場合がございます ",
+        "type": "Maintenance",
+        "url": "/twitter.com/Blue_ArchiveJP/status/1468407603944648706",
+        "start_time": 1638936000,
+        "end_time": 1638950400
+      },
       {
         "id": 218,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1465184278237822976",
         "start_time": 1638273600,
         "end_time": 1639540800
-      },
-      {
-        "id": 213,
-        "line_type": "JP",
-        "title": "屋外戦・ビナー2",
-        "image": "https://static.kivo.wiki/images/timeline/XEmGACg86m8NCKxK72f4sbcWQnRz6R4B.jpg",
-        "body_summary": "【総力戦予告】 キヴォトスにおける謎の脅威の一つ、「ビナー」が再び観測されました！ アビドスの砂漠地帯に潜むデカグラマトンの三番目の預言者を退けて、トロフィーや報酬の獲得を目指しましょう！ ※総力戦「",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1464111338868056064",
-        "start_time": 1638273600,
-        "end_time": 1638892799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474992,
+  "time": 1788560894,
   "version": "1.0.0-beta.43"
 }

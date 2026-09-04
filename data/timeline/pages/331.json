@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 2530,
+        "line_type": "JP",
+        "title": "例行维护94",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 5/8(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1787724115354542532",
+        "start_time": 1715137200,
+        "end_time": 1715158800
+      },
       {
         "id": 2568,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1781627039080128814",
         "start_time": 1714680030,
         "end_time": 1715025570
-      },
-      {
-        "id": 2607,
-        "line_type": "JP",
-        "title": "网页小游戏：Millennium Logic",
-        "image": "https://static.kivo.wiki/images/timeline/kSZzZzXCymjtmN1MeBKju8mAop46W6We.jpg",
-        "body_summary": "【 #ミレニアムロジック】 先生！モモイさんから連絡が来ています！ どうやら新作ゲームのテストプレイをして欲しいそうです。 クリアするとゲーム内アイテムと交換できるシリアルコードがもらえるようですよ！",
-        "type": "WebEvent",
-        "url": "x.com/Blue_ArchiveJP/status/1795712228978827771",
-        "start_time": 1714656317,
-        "end_time": 1725015600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474765,
+  "time": 1788560660,
   "version": "1.0.0-beta.43"
 }

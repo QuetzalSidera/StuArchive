@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 93,
       "ContentImprovements": 421,
-      "Double": 965,
+      "Double": 966,
       "Event": 522,
       "Gacha": 826,
       "Live": 88,
@@ -22,6 +22,17 @@
       "WebEvent": 132
     },
     "timeline": [
+      {
+        "id": 465,
+        "line_type": "JP",
+        "title": "例行维护54",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 10/12(水)11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1579713511973789697",
+        "start_time": 1665543600,
+        "end_time": 1665565200
+      },
       {
         "id": 461,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1576859706315849728",
         "start_time": 1664938800,
         "end_time": 1665518399
-      },
-      {
-        "id": 459,
-        "line_type": "JP",
-        "title": "特别依赖2倍#23",
-        "image": "https://static.kivo.wiki/images/timeline/oZ2mLrWWgM1vAEwRap6GWsw36s7lk5sJ.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「特別依頼」において各種「レポート」や「クレジット」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2022/10/5(水)4:00 ~ 2022/10",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1577131929534857216",
-        "start_time": 1664913600,
-        "end_time": 1665518399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788474940,
+  "time": 1788560840,
   "version": "1.0.0-beta.43"
 }
