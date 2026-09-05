@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id": 2,
   "display_name": "才羽 桃",
   "names": {
@@ -133,7 +133,7 @@
     "voice_play_icon": "https://static.kivo.wiki/images/students/%E6%89%8D%E7%BE%BD%E6%A1%83%E4%BA%95/voice/play_icon.webp",
     "voice_pause_icon": "https://static.kivo.wiki/images/students/%E6%89%8D%E7%BE%BD%E6%A1%83%E4%BA%95/voice/pause_icon.webp",
     "spine_ids": [
-      337,
+      1873,
       362,
       363,
       1360
@@ -387,15 +387,15 @@
           "description": "无"
         },
         {
-          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁强化技能+",
-          "description": "「创造性品味」升级为「创造性品味+」"
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+          "description": "「创造性品味」升级为「创造性品味+」。"
         },
         {
-          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形战力强化 室内战斗力 D → B",
-          "description": "在室内地形造成1倍伤害。寻找掩体时掩护成功率+30%，攻击时绕过掩体概率增加30%。"
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室内适应性 D -> B",
+          "description": "在室内地形造成1倍伤害。处于掩体掩护下时掩护成功率增加30%，攻击时无视掩体概率30%。"
         },
         {
-          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 贯穿克制伤害增加",
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 贯穿克制伤害增加",
           "description": "攻击类型为贯穿的克制伤害增加10%。"
         }
       ],
@@ -2552,8 +2552,8 @@
   "source": {
     "detail_path": "students/2.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/2.json",
-    "upstream_time": 1788553377,
-    "updated_at": 1788104473,
+    "upstream_time": 1788638351,
+    "updated_at": 1788630522,
     "created_at": 1684169715
   }
 }

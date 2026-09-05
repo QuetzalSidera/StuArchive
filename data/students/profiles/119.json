@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id": 119,
   "display_name": "天见 和香",
   "names": {
@@ -109,7 +109,7 @@
     "voice_pause_icon": "https://static.kivo.wiki/images/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/voice/pause_icon.jpg",
     "spine_ids": [
       500,
-      325
+      1875
     ],
     "model_ids": [
       97,
@@ -360,15 +360,15 @@
           "description": "无"
         },
         {
-          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
-          "description": "「基于美学的观测」升级为「基于美学的观测+」"
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+          "description": "「基于美学的观测」升级为「基于美学的观测+」。"
         },
         {
-          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 室外适应性 B -> A",
-          "description": "在室外地形造成1.1倍伤害。在掩体内时掩护成功率+45%。 攻击时绕过掩体概率增加45%。"
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室外适应性 B -> A",
+          "description": "在室外地形造成1.1倍伤害。处于掩体掩护下时掩护成功率增加45%，攻击时无视掩体概率45%。"
         },
         {
-          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 COST上限增加",
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 COST上限增加",
           "description": "学生在队伍内时，COST上限增加0.5。"
         }
       ],
@@ -2170,8 +2170,8 @@
   "source": {
     "detail_path": "students/119.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/119.json",
-    "upstream_time": 1788553472,
-    "updated_at": 1783655829,
+    "upstream_time": 1788638355,
+    "updated_at": 1788630462,
     "created_at": 1685379450
   }
 }

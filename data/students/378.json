@@ -22,7 +22,7 @@
     "family_name_kr": "시마",
     "given_name_kr": "코노카",
     "family_name_en": "Shima",
-    "given_name_en": "konoka",
+    "given_name_en": "Konoka",
     "family_name_zh_tw": "志真",
     "given_name_zh_tw": "木乃香",
     "family_name_cn": "",
@@ -1578,6 +1578,14 @@
       {
         "id": 60,
         "favorability": 40
+      },
+      {
+        "id": 55,
+        "favorability": 40
+      },
+      {
+        "id": 79,
+        "favorability": 180
       }
     ],
     "furniture": null,
@@ -1589,7 +1597,7 @@
         "type": "Tank",
         "attack_attribute": "Mystic",
         "defensive_attributes": "Light",
-        "is_groupc_control": false,
+        "is_groupc_control": true,
         "team_position": "FRONT",
         "battlefield_position": "STRIKER",
         "rarity": 3,
@@ -1923,10 +1931,10 @@
     "supplementary_uuid": "d9b68b6d-e2fa-4626-887b-c1055f1bb3f0",
     "supplementary_declare_uuid": "a4d329a3-42cd-4146-9c3c-dcadfa2d314a",
     "created_at": 1719403716,
-    "updated_at": 1788192895
+    "updated_at": 1788612553
   },
   "message": "OK",
   "success": true,
-  "time": 1788553528,
+  "time": 1788638359,
   "version": "1.0.0-beta.43"
 }

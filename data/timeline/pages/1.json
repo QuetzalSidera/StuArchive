@@ -2,24 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 581,
+    "max_page": 582,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 93,
-      "ContentImprovements": 421,
+      "ContentImprovements": 422,
       "Double": 966,
-      "Event": 522,
-      "Gacha": 826,
-      "Live": 88,
+      "Event": 523,
+      "Gacha": 829,
+      "Live": 89,
       "MainStory": 131,
       "Maintenance": 448,
-      "MiniBattle": 208,
+      "MiniBattle": 209,
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 254,
       "Trivia": 29,
-      "WebEvent": 132
+      "WebEvent": 133
     },
     "timeline": [
       {
@@ -32,6 +32,28 @@
         "url": "x.com/Blue_ArchiveJP/status/2095784347743965225",
         "start_time": 1788465600,
         "end_time": 1788897599
+      },
+      {
+        "id": 5971,
+        "line_type": "CN",
+        "title": "限时复刻活动【0068 来自歌剧的爱】",
+        "image": "https://static.kivo.wiki/images/timeline/N7oRPAaztutsLDJaA2g8jwG2OIX917z3.png",
+        "body_summary": "便利屋68正在暗中展开行动！ 她们的目标是黑帮联盟的首领【唐·阿兰西诺】。 她们究竟能否成功完成委托呢？ ■ 活动时间 • 活动持续时间：09月03日 14:00 ~ 09月10日 13:59 • 商",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1925",
+        "start_time": 1788415200,
+        "end_time": 1789019999
+      },
+      {
+        "id": 5968,
+        "line_type": "CN",
+        "title": "限时招募【心田深处 暗香无声】",
+        "image": "https://static.kivo.wiki/images/timeline/LqDIAvZbjmp1jEUtdlfzNIBN4cExxsRP.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【心田深处 暗香无声】即将开启！在本次招募中，全新3★成员\"纱织（礼服）\"登场，且招募概率得到提升！ ■ 招募时间 09月03日 14:00 ~ 09月10日 1",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1924",
+        "start_time": 1788415200,
+        "end_time": 1789019999
       },
       {
         "id": 5958,
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2093235885504442605",
         "start_time": 1788228000,
         "end_time": 1788832799
-      },
-      {
-        "id": 5952,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Do you like baseball, Sensei? Because I love it!」&「Trainer. Make sure you stay hydrated.」",
-        "image": "https://static.kivo.wiki/images/timeline/hj1R5LXIIk8XHmvZXAZkL0wdreTWwaI6.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/1 (Tue)! 💌Pick-Up St",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2093232111910097307",
-        "start_time": 1788228000,
-        "end_time": 1788832799
-      },
-      {
-        "id": 5951,
-        "line_type": "Globle",
-        "title": "国际服活动「Pray-Ball! Swing for the Grand Slam!」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/d6wnK8vOMS8E9LIlPHtWiUoOHB0j5Spj.jpg",
-        "body_summary": "[Event Preview] Sensei, the 'Pray-Ball! Swing for the Grand Slam!' event is coming back soon! If you",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2093217011107070300",
-        "start_time": 1788228000,
-        "end_time": 1788832799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788560306,
+  "time": 1788646381,
   "version": "1.0.0-beta.43"
 }

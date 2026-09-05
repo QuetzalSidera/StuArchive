@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id": 621,
   "display_name": "渊上 琴音",
   "names": {
@@ -19,7 +19,7 @@
     "given_name_jp": "コトネ",
     "family_name_en": "Fuchigami",
     "given_name_en": "Kotone",
-    "family_name_kr": "후치가미 ",
+    "family_name_kr": "후치가미",
     "given_name_kr": "코토네",
     "family_name_zh_tw": "",
     "given_name_zh_tw": ""
@@ -830,6 +830,21 @@
         },
         "detail_path": "items/2066.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2066.json"
+      },
+      {
+        "id": 435,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VGnqg4nBK39TZGZBXryzn7mNW1LHDadU.png",
+        "rarity": 1,
+        "name": "伏尼契手稿书页",
+        "description": "从书上撕下的伏尼契手稿的书页。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/435.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/435.json"
       }
     ]
   },
@@ -1906,8 +1921,8 @@
   "source": {
     "detail_path": "students/621.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/621.json",
-    "upstream_time": 1788553137,
-    "updated_at": 1788192237,
+    "upstream_time": 1788638367,
+    "updated_at": 1788599991,
     "created_at": 1787312575
   }
 }

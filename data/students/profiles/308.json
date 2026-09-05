@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id": 308,
   "display_name": "三善 贵音",
   "names": {
@@ -98,7 +98,7 @@
   "assets": {
     "avatar": "https://static.kivo.wiki/images/students/%E4%B8%89%E5%96%84%20%E8%B4%B5%E9%9F%B3/original/Student_Portrait_CH0229_Collection.png",
     "sd_model_image": "https://static.kivo.wiki/images/students/%E4%B8%89%E5%96%84%20%E8%B4%B5%E9%9F%B3/original/EnemyInfo_CH0229.png",
-    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E4%B8%89%E5%96%84%20%E8%B4%B5%E9%9F%B3/original/CH0229_home_Idle_01_5.607300000000513.jpg.png",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E4%B8%89%E5%96%84%20%E8%B4%B5%E9%9F%B3/original/CH0229_home_Idle_01_5.607300000000513.jpg",
     "voice_play_icon": "",
     "voice_pause_icon": "",
     "spine_ids": [
@@ -816,6 +816,36 @@
         },
         "detail_path": "items/19.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
+      },
+      {
+        "id": 407,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6nNP9wQXfnbZD9bpoAjAttYNyWrTAsYf.png",
+        "rarity": 1,
+        "name": "沃普赛克铁矿",
+        "description": "未冶炼的沃普赛克铁矿。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/407.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/407.json"
+      },
+      {
+        "id": 408,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PuNEFl13saEsN4g8miYIgsagFmyyZh7G.png",
+        "rarity": 2,
+        "name": "沃普赛克铁块",
+        "description": "在冶炼中掉出来的沃普赛克铁块。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/408.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/408.json"
       }
     ]
   },
@@ -3341,8 +3371,8 @@
   "source": {
     "detail_path": "students/308.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/308.json",
-    "upstream_time": 1788553490,
-    "updated_at": 1788254435,
+    "upstream_time": 1788638356,
+    "updated_at": 1788587419,
     "created_at": 1692790739
   }
 }

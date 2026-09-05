@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id": 100,
   "display_name": "中务 桐乃",
   "names": {
@@ -127,7 +127,7 @@
     "voice_play_icon": "https://static.kivo.wiki/images/students/%E4%B8%AD%E5%8A%A1%20%E6%A1%90%E4%B9%83/voice/play_icon.jpg",
     "voice_pause_icon": "https://static.kivo.wiki/images/students/%E4%B8%AD%E5%8A%A1%20%E6%A1%90%E4%B9%83/voice/pause_icon.jpg",
     "spine_ids": [
-      333,
+      1863,
       490,
       593,
       1350
@@ -381,15 +381,15 @@
           "description": "无"
         },
         {
-          "title": "固有武器最大等级 Lv.30 → Lv.40 / 解锁被动技能+",
-          "description": "「迅速的处置」升级为「迅速的处置+」"
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+          "description": "「迅速的处置」升级为「迅速的处置+」。"
         },
         {
-          "title": "固有武器最大等级 Lv.40 → Lv.50 / 地形适应性强化 街道适应性 D -> B",
-          "description": "在街道地形造成1倍伤害。在掩体内时掩护成功率+30%。 攻击时绕过掩体概率增加30%。"
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 街道适应性 D -> B",
+          "description": "在街道地形造成1倍伤害。处于掩体掩护下时掩护成功率增加30%，攻击时无视掩体概率30%。"
         },
         {
-          "title": "固有武器最大等级 Lv.50 → Lv.60 / 数据强化 爆发克制伤害增加",
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 爆发克制伤害增加",
           "description": "攻击类型为爆发的克制伤害增加10%。"
         }
       ],
@@ -2523,8 +2523,8 @@
   "source": {
     "detail_path": "students/100.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/100.json",
-    "upstream_time": 1788553529,
-    "updated_at": 1787931105,
+    "upstream_time": 1788638359,
+    "updated_at": 1788629833,
     "created_at": 1685186083
   }
 }

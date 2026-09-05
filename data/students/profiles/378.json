@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id": 378,
   "display_name": "志真 心华",
   "names": {
     "default": "志真 心华",
     "cn": null,
     "jp": "志真 コノカ",
-    "en": "Shima konoka",
+    "en": "Shima Konoka",
     "kr": "시마 코노카",
     "zh_tw": "志真 木乃香",
     "family_name": "志真",
@@ -18,7 +18,7 @@
     "family_name_jp": "志真",
     "given_name_jp": "コノカ",
     "family_name_en": "Shima",
-    "given_name_en": "konoka",
+    "given_name_en": "Konoka",
     "family_name_kr": "시마",
     "given_name_kr": "코노카",
     "family_name_zh_tw": "志真",
@@ -132,7 +132,7 @@
     "defensive_attributes": "Light",
     "rarity": 3,
     "limited": false,
-    "is_groupc_control": false,
+    "is_groupc_control": true,
     "adaptability": {
       "outdoor": "B",
       "indoor": "D",
@@ -1068,6 +1068,44 @@
           },
           "detail_path": "items/60.json",
           "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/60.json"
+        }
+      },
+      {
+        "id": 55,
+        "favorability": 40,
+        "item": {
+          "id": 55,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/by7J8xMfqmduv27IeK1nKurFoNfOetNn.png",
+          "rarity": 3,
+          "name": "百科辞典",
+          "description": "从绑吐司袋的「那个」到装在便当里的那片「草」的名字。 让你感到好奇的一切都在这里。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/55.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/55.json"
+        }
+      },
+      {
+        "id": 79,
+        "favorability": 180,
+        "item": {
+          "id": 79,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/Xz7rTAfL2NSKWeKBtqVEWDWnx5rURwf5.png",
+          "rarity": 4,
+          "name": "街头混混系列第1本",
+          "description": "以「对我们来说只有义气和胆识！」的台词闻名的热议话题之作，街头混混系列第1本。因为主角出乎意料地可爱的感想，所以全集都好评贩售中。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/79.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/79.json"
         }
       }
     ],
@@ -2542,8 +2580,8 @@
   "source": {
     "detail_path": "students/378.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/378.json",
-    "upstream_time": 1788553528,
-    "updated_at": 1788192895,
+    "upstream_time": 1788638359,
+    "updated_at": 1788612553,
     "created_at": 1719403716
   }
 }

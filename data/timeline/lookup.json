@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-04T20:18:14Z",
+  "generated_at": "2026-09-05T19:57:16Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5807,
-  "alias_count": 5776,
-  "normalized_alias_count": 5768,
+  "total_items": 5815,
+  "alias_count": 5784,
+  "normalized_alias_count": 5777,
   "by_id": {
     "5962": {
       "id": 5962,
@@ -30,6 +30,42 @@
       },
       "detail_path": "timeline/5962.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5962.json"
+    },
+    "5971": {
+      "id": 5971,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5971,
+        "line_type": "CN",
+        "title": "限时复刻活动【0068 来自歌剧的爱】",
+        "image": "https://static.kivo.wiki/images/timeline/N7oRPAaztutsLDJaA2g8jwG2OIX917z3.png",
+        "body_summary": "便利屋68正在暗中展开行动！ 她们的目标是黑帮联盟的首领【唐·阿兰西诺】。 她们究竟能否成功完成委托呢？ ■ 活动时间 • 活动持续时间：09月03日 14:00 ~ 09月10日 13:59 • 商",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1925",
+        "start_time": 1788415200,
+        "end_time": 1789019999
+      },
+      "detail_path": "timeline/5971.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5971.json"
+    },
+    "5968": {
+      "id": 5968,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5968,
+        "line_type": "CN",
+        "title": "限时招募【心田深处 暗香无声】",
+        "image": "https://static.kivo.wiki/images/timeline/LqDIAvZbjmp1jEUtdlfzNIBN4cExxsRP.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【心田深处 暗香无声】即将开启！在本次招募中，全新3★成员\"纱织（礼服）\"登场，且招募概率得到提升！ ■ 招募时间 09月03日 14:00 ~ 09月10日 1",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1924",
+        "start_time": 1788415200,
+        "end_time": 1789019999
+      },
+      "detail_path": "timeline/5968.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5968.json"
     },
     "5958": {
       "id": 5958,
@@ -229,24 +265,6 @@
       "detail_path": "timeline/5959.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5959.json"
     },
-    "5938": {
-      "id": 5938,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5938,
-        "line_type": "CN",
-        "title": "【无限制决战：获刻玛 • 重装甲】#2",
-        "image": "https://static.kivo.wiki/images/timeline/C2ApFNJhGWAob6PKgVhyBxtPVEfbWGOw.jpg",
-        "body_summary": "无限制决战\"获刻玛\"即将开启，参与活动即可获得礼物选择盒、合成石、辅导手册及其他各类养成素材 ■ 活动时间 • 赛季持续时间：08月28日 14:00 ~ 09月17日 03:59 ■ 首领\"获刻玛\"",
-        "type": "MiniBattle",
-        "url": "weibo.com/6011443154/Rfj1MgMqh?pagetype=detail",
-        "start_time": 1788076927,
-        "end_time": 1789588740
-      },
-      "detail_path": "timeline/5938.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5938.json"
-    },
     "5949": {
       "id": 5949,
       "source_path": "timeline/index.json",
@@ -319,23 +337,23 @@
       "detail_path": "timeline/5953.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5953.json"
     },
-    "5936": {
-      "id": 5936,
+    "5938": {
+      "id": 5938,
       "source_path": "timeline/index.json",
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "item": {
-        "id": 5936,
+        "id": 5938,
         "line_type": "CN",
-        "title": "【百花缭乱篇】第2章Part2（16~28话）即将更新！",
-        "image": "https://static.kivo.wiki/images/timeline/btozXm0am0W8xt90g4wiIEo98PQIXOnE.jpg",
-        "body_summary": "百花缭乱和老师中了陷阱被困，此时新的恐怖正悄然逼近—— ■ 更新时间 08月27日 14:00后 ■ 更新剧情 第16话《人造花》 第17话《会长归来》 第18话《同床异梦》 第19话《彼岸的记忆》 ",
-        "type": "MainStory",
-        "url": "weibo.com/6011443154/Rf0aO3y7f?pagetype=detail",
-        "start_time": 1787813184,
-        "end_time": 1787813184
+        "title": "【无限制决战：获刻玛 • 重装甲】#2",
+        "image": "https://static.kivo.wiki/images/timeline/C2ApFNJhGWAob6PKgVhyBxtPVEfbWGOw.jpg",
+        "body_summary": "无限制决战\"获刻玛\"即将开启，参与活动即可获得礼物选择盒、合成石、辅导手册及其他各类养成素材 ■ 活动时间 • 赛季持续时间：08月28日 14:00 ~ 09月17日 03:59 ■ 首领\"获刻玛\"",
+        "type": "MiniBattle",
+        "url": "weibo.com/6011443154/Rfj1MgMqh?pagetype=detail",
+        "start_time": 1787896800,
+        "end_time": 1789588740
       },
-      "detail_path": "timeline/5936.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5936.json"
+      "detail_path": "timeline/5938.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5938.json"
     },
     "5937": {
       "id": 5937,
@@ -344,7 +362,7 @@
       "item": {
         "id": 5937,
         "line_type": "CN",
-        "title": "【综合战术测试·射击测试】#11",
+        "title": "【综合战术测试·射击测试】 #12",
         "image": "https://static.kivo.wiki/images/timeline/xZx3ZCvdNyqeagkBN1NQ4TgVeywIcNgl.jpg",
         "body_summary": "【综合战术测试·射击测试】即将开启！ ■ 活动简介 • 综合战术测试是使用3支不同的队伍完成战术测试的一项挑战活动。 • 综合战术测试有4种类型（射击/防御/突破/护卫），将轮流开放，不同类型的挑战机",
         "type": "MiniBattle",
@@ -354,6 +372,24 @@
       },
       "detail_path": "timeline/5937.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5937.json"
+    },
+    "5936": {
+      "id": 5936,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5936,
+        "line_type": "CN",
+        "title": "【百花缭乱篇】第2章Part2（16~28话）更新",
+        "image": "https://static.kivo.wiki/images/timeline/btozXm0am0W8xt90g4wiIEo98PQIXOnE.jpg",
+        "body_summary": "百花缭乱和老师中了陷阱被困，此时新的恐怖正悄然逼近—— ■ 更新时间 08月27日 14:00后 ■ 更新剧情 第16话《人造花》 第17话《会长归来》 第18话《同床异梦》 第19话《彼岸的记忆》 ",
+        "type": "MainStory",
+        "url": "weibo.com/6011443154/Rf0aO3y7f?pagetype=detail",
+        "start_time": 1787810400,
+        "end_time": 1787810400
+      },
+      "detail_path": "timeline/5936.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5936.json"
     },
     "5950": {
       "id": 5950,
@@ -499,24 +535,6 @@
       "detail_path": "timeline/5942.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5942.json"
     },
-    "5932": {
-      "id": 5932,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5932,
-        "line_type": "CN",
-        "title": "迷你故事剧情更新：【与你的不期而遇】",
-        "image": "https://static.kivo.wiki/images/timeline/FJ3PYftYIIH3kQ9zZoNWwO8QLVsIoCG2.jpg",
-        "body_summary": "全新小故事剧情“与你的不期而遇”、即将于08月20日维护后更新！ 堇因千禧年健身房正在修缮而前往其他健身房。在那里，她遇到了意想不到的人。 ■ 剧情开放 《与你的不期而遇 1》 《与你的不期而遇 2》",
-        "type": "OtherStory",
-        "url": "weibo.com/6011443154/Ref2jflfP",
-        "start_time": 1787476111,
-        "end_time": 1787476111
-      },
-      "detail_path": "timeline/5932.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5932.json"
-    },
     "5819": {
       "id": 5819,
       "source_path": "timeline/index.json",
@@ -589,6 +607,24 @@
       "detail_path": "timeline/5934.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5934.json"
     },
+    "5967": {
+      "id": 5967,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5967,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编阿罗娜FOX小队作战服换装回 #38",
+        "image": "https://static.kivo.wiki/images/timeline/ofXawgJxKPvrfzpyg6RMU88z1ZZp9Tk1.jpg",
+        "body_summary": "A little mischief is coming to the Blue Archive Live Stream! 😈 Akugaki Koa joins CM Arcie as our spe",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2089502540068975071",
+        "start_time": 1787270400,
+        "end_time": 1787270400
+      },
+      "detail_path": "timeline/5967.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5967.json"
+    },
     "5904": {
       "id": 5904,
       "source_path": "timeline/index.json",
@@ -596,7 +632,7 @@
       "item": {
         "id": 5904,
         "line_type": "CN",
-        "title": "【百花缭乱篇】第2章Part1（01~15话）即将更新！",
+        "title": "【百花缭乱篇】第2章Part1（01~15话）更新",
         "image": "https://static.kivo.wiki/images/timeline/YMS2eyLbA8rcFolwk5bkO50K9of904ik.jpg",
         "body_summary": "【百花缭乱篇】第2章Part1（01~15话）即将更新！ 名草被黄昏吞噬的手臂日益恶化……正当名草反复回忆过去、深陷痛苦之时，一场意想不到的重逢悄然降临。 ■ 更新时间 08月20日 维护结束后 ■ ",
         "type": "MainStory",
@@ -660,6 +696,60 @@
       },
       "detail_path": "timeline/5925.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5925.json"
+    },
+    "5970": {
+      "id": 5970,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5970,
+        "line_type": "CN",
+        "title": "限时招募【万物浮梦中】",
+        "image": "https://static.kivo.wiki/images/timeline/RIVLarGdVrQR2y144qlL1PMRsLTwWoLU.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【万物浮梦中】即将开启！在本次招募中，全新3★成员\"尼娅\"登场，且招募概率得到提升！ ■ 招募时间 08月20日 维护结束后 ~ 09月03日 13:59 ■ 注",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1910",
+        "start_time": 1787216400,
+        "end_time": 1788415199
+      },
+      "detail_path": "timeline/5970.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5970.json"
+    },
+    "5969": {
+      "id": 5969,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5969,
+        "line_type": "CN",
+        "title": "限时招募【少女啊 勿忘此心】",
+        "image": "https://static.kivo.wiki/images/timeline/9F8uL1MAAs9i5wmMd9Ch7AXPVNkLwu9k.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【少女啊 勿忘此心】即将开启！在本次招募中，全新3★成员\"名草\"登场，且招募概率得到提升！ ■ 招募时间 08月20日 维护结束后 ~ 09月03日 13:59 ",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1911",
+        "start_time": 1787216400,
+        "end_time": 1788415199
+      },
+      "detail_path": "timeline/5969.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5969.json"
+    },
+    "5932": {
+      "id": 5932,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5932,
+        "line_type": "CN",
+        "title": "迷你故事剧情更新：【与你的不期而遇】",
+        "image": "https://static.kivo.wiki/images/timeline/FJ3PYftYIIH3kQ9zZoNWwO8QLVsIoCG2.jpg",
+        "body_summary": "全新小故事剧情“与你的不期而遇”、即将于08月20日维护后更新！ 堇因千禧年健身房正在修缮而前往其他健身房。在那里，她遇到了意想不到的人。 ■ 剧情开放 《与你的不期而遇 1》 《与你的不期而遇 2》",
+        "type": "OtherStory",
+        "url": "weibo.com/6011443154/Ref2jflfP",
+        "start_time": 1787216400,
+        "end_time": 1787216400
+      },
+      "detail_path": "timeline/5932.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5932.json"
     },
     "5928": {
       "id": 5928,
@@ -758,13 +848,13 @@
       "item": {
         "id": 5930,
         "line_type": "CN",
-        "title": "悬赏通缉2倍 #41 & 学院交流会2倍 #31 & 日程2倍 #41",
+        "title": "悬赏通缉2倍 #41 & 学院交流会2倍 #31 & 日程2倍 #41 & 特别委托2倍 #23 & 任务（困难难度）2倍 #27 & 任务（普通难度）2倍 #27",
         "image": "https://static.kivo.wiki/images/timeline/Gn5mpj9dD90umSszW3IN0F4xUoepjOLE.jpg",
         "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程、特别委托】道具掉落量2倍 ■ 活动时间 08月20日 04:00 ~ 08月27日 03:59 二、【任务（普通难度）】道具掉落量2倍",
         "type": "Double",
         "url": "weibo.com/6011443154/Re7zzC2tK",
         "start_time": 1787169600,
-        "end_time": 1787774399
+        "end_time": 1788379199
       },
       "detail_path": "timeline/5930.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5930.json"
@@ -859,6 +949,24 @@
       "detail_path": "timeline/5832.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5832.json"
     },
+    "5966": {
+      "id": 5966,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5966,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战: 霍克玛 #8",
+        "image": "https://static.kivo.wiki/images/timeline/EdGpRgqXMqw9K01jmTO3bppSDV0yQzVc.jpg",
+        "body_summary": "[Final Restriction Release Opening Notice] Final Restriction Release: Chokmah (Defense Type: Heavy A",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2089895127347036669",
+        "start_time": 1787104800,
+        "end_time": 1789412399
+      },
+      "detail_path": "timeline/5966.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5966.json"
+    },
     "5818": {
       "id": 5818,
       "source_path": "timeline/index.json",
@@ -948,6 +1056,42 @@
       },
       "detail_path": "timeline/5912.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5912.json"
+    },
+    "5965": {
+      "id": 5965,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5965,
+        "line_type": "Globle",
+        "title": "国际服网页活动「Who Let The Fox Out？」",
+        "image": "https://static.kivo.wiki/images/timeline/8978AIkADthffwvduD6j45tS5OucQzZX.jpg",
+        "body_summary": "Sensei, traces of a suspicious fox have been spotted in Kivotos! 🦊 Discover the identity behind the ",
+        "type": "WebEvent",
+        "url": "x.com/EN_BlueArchive/status/2089676480339189765",
+        "start_time": 1787050800,
+        "end_time": 1788195600
+      },
+      "detail_path": "timeline/5965.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5965.json"
+    },
+    "5963": {
+      "id": 5963,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5963,
+        "line_type": "Globle",
+        "title": "国际服新功能（模拟总力战）、vol2第二章韩语语音、瓦尔基里家具套装更新",
+        "image": "https://static.kivo.wiki/images/timeline/uH4VCEOjlIDnvqE3clYExKxECesQvjE2.jpg",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/2089654568099713161",
+        "start_time": 1787047200,
+        "end_time": 1787047200
+      },
+      "detail_path": "timeline/5963.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5963.json"
     },
     "5916": {
       "id": 5916,
@@ -5642,7 +5786,7 @@
         "type": "OtherStory",
         "url": "weibo.com/6011443154/R4vGwm8EY",
         "start_time": 1781762400,
-        "end_time": 4102415999
+        "end_time": 1781762400
       },
       "detail_path": "timeline/5605.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5605.json"
@@ -17318,7 +17462,7 @@
       "item": {
         "id": 4893,
         "line_type": "CN",
-        "title": "【对策委员会篇】第3章Part4 （28~34话）即将更新",
+        "title": "【对策委员会篇】第3章Part4 （28~34话）更新",
         "image": "https://static.kivo.wiki/images/timeline/O3mkbZ8PHSLN0YwuZQ83SMktlpGR6RMM.png",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 【对策委员会篇】第3章Part4 （28~34话）即将更新！ 风纪委员长日奈挡在了星野面前， 对策委员会则继续追着列车。 为了解决威胁，大家都在用自己的方式努力着，然",
         "type": "MainStory",
@@ -104544,6 +104688,12 @@
     "任务Hard2倍#57": [
       "5962"
     ],
+    "限时复刻活动【0068 来自歌剧的爱】": [
+      "5971"
+    ],
+    "限时招募【心田深处 暗香无声】": [
+      "5968"
+    ],
     "大决战:希罗尼穆斯 • 街区战#2": [
       "5958"
     ],
@@ -104577,9 +104727,6 @@
     "学生生日日历-2026年9月": [
       "5959"
     ],
-    "【无限制决战:获刻玛 • 重装甲】#2": [
-      "5938"
-    ],
     "阿罗普拉频道 #53": [
       "5949"
     ],
@@ -104592,11 +104739,14 @@
     "国际服老师经验2倍#54": [
       "5953"
     ],
-    "【百花缭乱篇】第2章Part2(16~28话)即将更新!": [
-      "5936"
+    "【无限制决战:获刻玛 • 重装甲】#2": [
+      "5938"
     ],
-    "【综合战术测试·射击测试】#11": [
+    "【综合战术测试·射击测试】 #12": [
       "5937"
+    ],
+    "【百花缭乱篇】第2章Part2(16~28话)更新": [
+      "5936"
     ],
     "制约解除决战:Chokmah #9": [
       "5950"
@@ -104622,9 +104772,6 @@
     "【事件PV】 【ブルアカ】「DIVE into OCEAN!」イベントPV公开": [
       "5942"
     ],
-    "迷你故事剧情更新:【与你的不期而遇】": [
-      "5932"
-    ],
     "任务hard3倍#19": [
       "5819"
     ],
@@ -104637,7 +104784,10 @@
     "奥德赛海洋学院登场告知PV公开": [
       "5934"
     ],
-    "【百花缭乱篇】第2章Part1(01~15话)即将更新!": [
+    "国际服Arcie小编阿罗娜FOX小队作战服换装回 #38": [
+      "5967"
+    ],
+    "【百花缭乱篇】第2章Part1(01~15话)更新": [
       "5904"
     ],
     "国际服热修复补丁#3": [
@@ -104648,6 +104798,15 @@
     ],
     "名草 & 尼娅家具互动更新": [
       "5925"
+    ],
+    "限时招募【万物浮梦中】": [
+      "5970"
+    ],
+    "限时招募【少女啊 勿忘此心】": [
+      "5969"
+    ],
+    "迷你故事剧情更新:【与你的不期而遇】": [
+      "5932"
     ],
     "总力战:格武拉 • 野外战 #2": [
       "5928"
@@ -104664,7 +104823,7 @@
     "例行维护#64": [
       "5931"
     ],
-    "悬赏通缉2倍 #41 & 学院交流会2倍 #31 & 日程2倍 #41": [
+    "悬赏通缉2倍 #41 & 学院交流会2倍 #31 & 日程2倍 #41 & 特别委托2倍 #23 & 任务(困难难度)2倍 #27 & 任务(普通难度)2倍 #27": [
       "5930"
     ],
     "国际服MV《KAGEROU》 发布": [
@@ -104682,6 +104841,9 @@
     "迷你剧情「イブキ家出事件」追加": [
       "5832"
     ],
+    "国际服制约解除作战: 霍克玛 #8": [
+      "5966"
+    ],
     "任务normal3倍#19": [
       "5818"
     ],
@@ -104696,6 +104858,12 @@
     ],
     "国际服主线第二部 Vol.EX 第1章更新": [
       "5912"
+    ],
+    "国际服网页活动「Who Let The Fox Out?」": [
+      "5965"
+    ],
+    "国际服新功能(模拟总力战)、vol2第二章韩语语音、瓦尔基里家具套装更新": [
+      "5963"
     ],
     "国际服例行维护#117 延长": [
       "5916"
@@ -107426,7 +107594,7 @@
     "例行维护 #51": [
       "4928"
     ],
-    "【对策委员会篇】第3章Part4 (28~34话)即将更新": [
+    "【对策委员会篇】第3章Part4 (28~34话)更新": [
       "4893"
     ],
     "限时活动【Say-Bing!】": [
@@ -121905,6 +122073,12 @@
     "任务hard2倍#57": [
       "5962"
     ],
+    "限时复刻活动【0068来自歌剧的爱】": [
+      "5971"
+    ],
+    "限时招募【心田深处暗香无声】": [
+      "5968"
+    ],
     "大决战:希罗尼穆斯•街区战#2": [
       "5958"
     ],
@@ -121938,9 +122112,6 @@
     "学生生日日历-2026年9月": [
       "5959"
     ],
-    "【无限制决战:获刻玛•重装甲】#2": [
-      "5938"
-    ],
     "阿罗普拉频道#53": [
       "5949"
     ],
@@ -121953,12 +122124,14 @@
     "国际服老师经验2倍#54": [
       "5953"
     ],
-    "【百花缭乱篇】第2章part2(16~28话)即将更新!": [
-      "5936"
+    "【无限制决战:获刻玛•重装甲】#2": [
+      "5938"
     ],
-    "【综合战术测试·射击测试】#11": [
-      "5937",
-      "5604"
+    "【综合战术测试·射击测试】#12": [
+      "5937"
+    ],
+    "【百花缭乱篇】第2章part2(16~28话)更新": [
+      "5936"
     ],
     "制约解除决战:chokmah#9": [
       "5950"
@@ -121984,9 +122157,6 @@
     "【事件pv】【ブルアカ】「diveintoocean!」イベントpv公开": [
       "5942"
     ],
-    "迷你故事剧情更新:【与你的不期而遇】": [
-      "5932"
-    ],
     "任务hard3倍#19": [
       "5819"
     ],
@@ -121999,7 +122169,10 @@
     "奥德赛海洋学院登场告知pv公开": [
       "5934"
     ],
-    "【百花缭乱篇】第2章part1(01~15话)即将更新!": [
+    "国际服arcie小编阿罗娜fox小队作战服换装回#38": [
+      "5967"
+    ],
+    "【百花缭乱篇】第2章part1(01~15话)更新": [
       "5904"
     ],
     "国际服热修复补丁#3": [
@@ -122010,6 +122183,15 @@
     ],
     "名草&尼娅家具互动更新": [
       "5925"
+    ],
+    "限时招募【万物浮梦中】": [
+      "5970"
+    ],
+    "限时招募【少女啊勿忘此心】": [
+      "5969"
+    ],
+    "迷你故事剧情更新:【与你的不期而遇】": [
+      "5932"
     ],
     "总力战:格武拉•野外战#2": [
       "5928"
@@ -122026,7 +122208,7 @@
     "例行维护#64": [
       "5931"
     ],
-    "悬赏通缉2倍#41&学院交流会2倍#31&日程2倍#41": [
+    "悬赏通缉2倍#41&学院交流会2倍#31&日程2倍#41&特别委托2倍#23&任务(困难难度)2倍#27&任务(普通难度)2倍#27": [
       "5930"
     ],
     "国际服mv《kagerou》发布": [
@@ -122044,6 +122226,9 @@
     "迷你剧情「イブキ家出事件」追加": [
       "5832"
     ],
+    "国际服制约解除作战:霍克玛#8": [
+      "5966"
+    ],
     "任务normal3倍#19": [
       "5818"
     ],
@@ -122058,6 +122243,12 @@
     ],
     "国际服主线第二部vol.ex第1章更新": [
       "5912"
+    ],
+    "国际服网页活动「wholetthefoxout?」": [
+      "5965"
+    ],
+    "国际服新功能(模拟总力战)、vol2第二章韩语语音、瓦尔基里家具套装更新": [
+      "5963"
     ],
     "国际服例行维护#117延长": [
       "5916"
@@ -122841,6 +123032,9 @@
     ],
     "迷你故事剧情更新:【一段2月19日的记录】": [
       "5605"
+    ],
+    "【综合战术测试·射击测试】#11": [
+      "5604"
     ],
     "限时复刻活动【电脑新春进行曲】": [
       "5564"
@@ -124786,7 +124980,7 @@
     "例行维护#51": [
       "4928"
     ],
-    "【对策委员会篇】第3章part4(28~34话)即将更新": [
+    "【对策委员会篇】第3章part4(28~34话)更新": [
       "4893"
     ],
     "限时活动【say-bing!】": [

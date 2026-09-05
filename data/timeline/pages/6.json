@@ -2,26 +2,92 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 581,
+    "max_page": 582,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 93,
-      "ContentImprovements": 421,
+      "ContentImprovements": 422,
       "Double": 966,
-      "Event": 522,
-      "Gacha": 826,
-      "Live": 88,
+      "Event": 523,
+      "Gacha": 829,
+      "Live": 89,
       "MainStory": 131,
       "Maintenance": 448,
-      "MiniBattle": 208,
+      "MiniBattle": 209,
       "Other": 713,
       "OtherStory": 65,
       "OutsideGames": 897,
       "Raid": 254,
       "Trivia": 29,
-      "WebEvent": 132
+      "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5909,
+        "line_type": "JP",
+        "title": "大决战：屋外戦・ビナー #2",
+        "image": "https://static.kivo.wiki/images/timeline/yIgfsAER95TISirqS3Oxb8Dpljs6Dxt0.png",
+        "body_summary": "【大決戦・予告】 2026年8月19日(水)11:00より、大決戦「屋外戦・ビナー」を開幕します！ 今回難易度「Torment」に挑戦できる防御タイプは「軽装備」と「重装甲」になります。 生徒さん達と",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2088898701121229125",
+        "start_time": 1787108400,
+        "end_time": 1787687999
+      },
+      {
+        "id": 5832,
+        "line_type": "JP",
+        "title": "迷你剧情「イブキ家出事件」追加",
+        "image": "https://static.kivo.wiki/images/timeline/JkdfN5tmgrC31PQ2tNlutC3z4BqE5sNJ.jpg",
+        "body_summary": "【新情報㉑】 ミニストーリーに「イブキ家出事件」が追加されます！！ ▼実装日時 2026年8月19日(水) 11:00 #ブルアカ #ブルアカらいぶほっとの三段活用SP",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/2081357550243795405",
+        "start_time": 1787108400,
+        "end_time": 1787108400
+      },
+      {
+        "id": 5966,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战: 霍克玛 #8",
+        "image": "https://static.kivo.wiki/images/timeline/EdGpRgqXMqw9K01jmTO3bppSDV0yQzVc.jpg",
+        "body_summary": "[Final Restriction Release Opening Notice] Final Restriction Release: Chokmah (Defense Type: Heavy A",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2089895127347036669",
+        "start_time": 1787104800,
+        "end_time": 1789412399
+      },
+      {
+        "id": 5818,
+        "line_type": "JP",
+        "title": "任务normal3倍#19",
+        "image": "https://static.kivo.wiki/images/timeline/GfeuhbrBxJRLVZg3kny7KPBIn1mnelGg.jpg",
+        "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2081349057646305521",
+        "start_time": 1787083200,
+        "end_time": 1787428799
+      },
+      {
+        "id": 5817,
+        "line_type": "JP",
+        "title": "特别依赖3倍#20",
+        "image": "https://static.kivo.wiki/images/timeline/FpX0VYERX1ZE4GgKbwAxRgihZiTgxXV8.jpg",
+        "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2081349057646305521",
+        "start_time": 1787083200,
+        "end_time": 1787687999
+      },
+      {
+        "id": 5914,
+        "line_type": "Globle",
+        "title": "国际服主线第2部序章更新",
+        "image": "https://static.kivo.wiki/images/timeline/Hjinty3GHnzC6jbCOjMhwz7XInc2Xdc1.jpg",
+        "body_summary": "[Main Story Announcement] Main Story Act 2 Prologue is coming soon, Sensei! Please look forward to i",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088143581043363922",
+        "start_time": 1787065722,
+        "end_time": 0
+      },
       {
         "id": 5913,
         "line_type": "Globle",
@@ -45,97 +111,31 @@
         "end_time": 0
       },
       {
-        "id": 5916,
+        "id": 5965,
         "line_type": "Globle",
-        "title": "国际服例行维护#117 延长",
-        "image": "https://static.kivo.wiki/images/timeline/oWncujgvglqdQc7fxPK6CtQvPhbyS9tA.jpg",
-        "body_summary": "[Notice on Maintenance Extension] Dear Sensei, We would like to inform you that the maintenance sche",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2089636308196987014",
+        "title": "国际服网页活动「Who Let The Fox Out？」",
+        "image": "https://static.kivo.wiki/images/timeline/8978AIkADthffwvduD6j45tS5OucQzZX.jpg",
+        "body_summary": "Sensei, traces of a suspicious fox have been spotted in Kivotos! 🦊 Discover the identity behind the ",
+        "type": "WebEvent",
+        "url": "x.com/EN_BlueArchive/status/2089676480339189765",
+        "start_time": 1787050800,
+        "end_time": 1788195600
+      },
+      {
+        "id": 5963,
+        "line_type": "Globle",
+        "title": "国际服新功能（模拟总力战）、vol2第二章韩语语音、瓦尔基里家具套装更新",
+        "image": "https://static.kivo.wiki/images/timeline/uH4VCEOjlIDnvqE3clYExKxECesQvjE2.jpg",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/2089654568099713161",
         "start_time": 1787047200,
         "end_time": 1787047200
-      },
-      {
-        "id": 5896,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #117",
-        "image": "https://static.kivo.wiki/images/timeline/ZlQZ4zVwc3W6GHiAac4b0MDdrG4URtqp.jpg",
-        "body_summary": "[8/18 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/18 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2088188883037225323",
-        "start_time": 1787018400,
-        "end_time": 1787043600
-      },
-      {
-        "id": 5897,
-        "line_type": "Globle",
-        "title": "国际服卡池「Fox 2, Mission complete.」",
-        "image": "https://static.kivo.wiki/images/timeline/rkAqA68LgPSap8gfVGxfX1isrPTrLrLg.jpg",
-        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 8/18 (Tue)! 💌Pic",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2088158689630761308",
-        "start_time": 1787011200,
-        "end_time": 1788227940
-      },
-      {
-        "id": 5895,
-        "line_type": "Globle",
-        "title": "国际服卡池「Fox 3, Going in!」",
-        "image": "https://static.kivo.wiki/images/timeline/cFmyX0wjWZuh4SiiosInOY9WAjLGEZK7.jpg",
-        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 8/18 (Tue)! 💌Pic",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2088192702928298175",
-        "start_time": 1787011200,
-        "end_time": 1788227940
-      },
-      {
-        "id": 5893,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍 #43",
-        "image": "https://static.kivo.wiki/images/timeline/ucB5hsJmARHfULZsvgShGpO2D6ZR9PIc.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 8/17 (Mon), Lesson reward will be doubled! Don't miss out on",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2088521069871403358",
-        "start_time": 1786993200,
-        "end_time": 1787597940
-      },
-      {
-        "id": 5892,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍 #42",
-        "image": "https://static.kivo.wiki/images/timeline/rcoDgy9txDHL1LK6tjl3AZLOM0GAzzo8.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 8/17 (Mon), Scrimmage reward will be doubled! Don't miss out",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2088524843444813859",
-        "start_time": 1786993200,
-        "end_time": 1787597940
-      },
-      {
-        "id": 5924,
-        "line_type": "CN",
-        "title": "尼娅",
-        "image": "https://static.kivo.wiki/images/timeline/7GufQb84LlP58ErSUJr6OyUpKtCqecpX.jpg",
-        "body_summary": "//////////档案启封////////// ■ 尼娅 百鬼夜行联合学院阴阳部的部长。 外人都把她当做理事会长，但百鬼夜行其实有着更复杂的内情。因此，她得到了“不动部长”的称号……这是她的借口，但",
-        "type": "Other",
-        "url": "weibo.com/6011443154/RdMKOljhJ",
-        "start_time": 1786935600,
-        "end_time": 1786935600
-      },
-      {
-        "id": 5790,
-        "line_type": "CN",
-        "title": "任务（困难难度）3倍 #21",
-        "image": "https://static.kivo.wiki/images/timeline/d88lHcbevySkGVmAZQ2amVPvfMWBqQnF.jpg",
-        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 【特别委托】道具掉落量3倍 ■ 活动时间 07月23日 04:00 ~ 07月30日 03:59 【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 07月30",
-        "type": "Double",
-        "url": "weibo.com/6011443154/R9QOXC1g5",
-        "start_time": 1786910400,
-        "end_time": 1787169599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788560311,
+  "time": 1788646387,
   "version": "1.0.0-beta.43"
 }
