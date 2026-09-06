@@ -2,17 +2,215 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-05T19:57:16Z",
+  "generated_at": "2026-09-06T20:00:57Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5815,
-  "alias_count": 5784,
-  "normalized_alias_count": 5777,
+  "total_items": 5829,
+  "alias_count": 5798,
+  "normalized_alias_count": 5791,
   "by_id": {
+    "5983": {
+      "id": 5983,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5983,
+        "line_type": "CN",
+        "title": "任务（困难难度）2倍 #28",
+        "image": "https://static.kivo.wiki/images/timeline/HEtYuNG6tAXismzQAfYHgbHMrtMyaOu1.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程、特别委托】道具掉落量2倍 ■ 活动时间 09月03日 04:00 ~ 09月10日 03:59 二、【学院交流会】道具掉落量2倍 ■ ",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RgdAL3TIV",
+        "start_time": 1789934400,
+        "end_time": 1790193599
+      },
+      "detail_path": "timeline/5983.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5983.json"
+    },
+    "5982": {
+      "id": 5982,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5982,
+        "line_type": "CN",
+        "title": "任务（普通难度）2倍 #28",
+        "image": "https://static.kivo.wiki/images/timeline/bsGXwezSIEdoTo0pAkCuada683QRPXF5.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程、特别委托】道具掉落量2倍 ■ 活动时间 09月03日 04:00 ~ 09月10日 03:59 二、【学院交流会】道具掉落量2倍 ■ ",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RgdAL3TIV",
+        "start_time": 1789588800,
+        "end_time": 1789934399
+      },
+      "detail_path": "timeline/5982.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5982.json"
+    },
+    "5986": {
+      "id": 5986,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5986,
+        "line_type": "JP",
+        "title": "活动「夏空のやくそく」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/m82DJLSJDqiDO2eNUGn3YpndqGsT00yZ.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生！期間限定イベント「夏空のやくそく」が復刻開催されます！ 青い海、白い砂浜、そして夜には幻想的な大爆発！！ 今年の夏はまだまだ終わりませんよ♪ 復刻イベント「夏空のやくそ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2096146476208718020",
+        "start_time": 1789574400,
+        "end_time": 1790218799
+      },
+      "detail_path": "timeline/5986.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5986.json"
+    },
+    "5985": {
+      "id": 5985,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5985,
+        "line_type": "CN",
+        "title": "限时招募【夏日思绪长 念念缭绕在心头 意乱又情迷】",
+        "image": "https://static.kivo.wiki/images/timeline/fnOvVDQtZqrbdyVzagGvTPEjcVdJlGgk.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【夏日思绪长 念念缭绕在心头 意乱又情迷】即将开启！在本次招募中，全新3★成员\"桔梗（泳装）\"和2★成员\"莲华（泳装）\"登场，且招募概率得到提升！ ■ 招募时间 ",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1936",
+        "start_time": 1789034400,
+        "end_time": 1790229599
+      },
+      "detail_path": "timeline/5985.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5985.json"
+    },
+    "5984": {
+      "id": 5984,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5984,
+        "line_type": "CN",
+        "title": "限时招募【苍茫碧海中 百道波光耀长空 碎作花琳琅！】",
+        "image": "https://static.kivo.wiki/images/timeline/9y5X46Xpxq134EL97CoxBeNGslKlokzb.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【苍茫碧海中 百道波光耀长空 碎作花琳琅！】即将开启！在本次招募中，全新3★成员\"紫（泳装）\"登场，且招募概率得到提升！ ■ 招募时间 09月10日 维护结束后 ",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1935",
+        "start_time": 1789034400,
+        "end_time": 1790229599
+      },
+      "detail_path": "timeline/5984.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5984.json"
+    },
+    "5979": {
+      "id": 5979,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5979,
+        "line_type": "CN",
+        "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
+        "image": "https://static.kivo.wiki/images/timeline/S7KblLkCh2Q316mowk6uWdgQVfVAJQnG.jpg",
+        "body_summary": "百花缭乱的大家一起参加了【百夜水上节】，这是一场从100人中决出胜者的水上赛事。究竟最终的冠军会花落谁家呢？ 限时活动【百芳丛中独一枝 \\~堂堂正正，水上争锋~】将于09月10日开启！ 介绍PV：ht",
+        "type": "Event",
+        "url": "weibo.com/6011443154/Rgwsng8H8",
+        "start_time": 1789034400,
+        "end_time": 1790229599
+      },
+      "detail_path": "timeline/5979.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5979.json"
+    },
+    "5975": {
+      "id": 5975,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5975,
+        "line_type": "CN",
+        "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】介绍PV",
+        "image": "https://static.kivo.wiki/images/timeline/WkpasBi9h8Xy73tA5mpRC3HjpdLZOE9x.png",
+        "body_summary": "《蔚蓝档案》限时活动【百芳丛中独一枝 \\~堂堂正正，水上争锋~】介绍PV 百花缭乱的大家一起参加了【百夜水上节】，这是一场从100人中决出胜者的水上赛事。究竟最终的冠军会花落谁家呢？ 限时活动【百芳丛",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/RgwrLhS5l",
+        "start_time": 1789034400,
+        "end_time": 1790229599
+      },
+      "detail_path": "timeline/5975.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5975.json"
+    },
+    "5981": {
+      "id": 5981,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5981,
+        "line_type": "CN",
+        "title": "学院交流会2倍 #32",
+        "image": "https://static.kivo.wiki/images/timeline/YZf5SaSf1U6saAKu5OcQSVxcwI7vvWox.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程、特别委托】道具掉落量2倍 ■ 活动时间 09月03日 04:00 ~ 09月10日 03:59 二、【学院交流会】道具掉落量2倍 ■ ",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RgdAL3TIV",
+        "start_time": 1788984000,
+        "end_time": 1789588799
+      },
+      "detail_path": "timeline/5981.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5981.json"
+    },
+    "5987": {
+      "id": 5987,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5987,
+        "line_type": "JP",
+        "title": "主线剧情第2部 Vol.2「オデュッセイア」篇 第1章「瞳に映る水平線」后篇 更新",
+        "image": "https://static.kivo.wiki/images/timeline/QViRQiDyFatGux9KexOKed0UDoyaT9mf.jpg",
+        "body_summary": "【メインストーリー追加・予告】 オデュッセイアの生徒さんと長い時を過ごしてきた船乗り猫、サミー。 体調が悪化したサミーを下船させるべきか否か、意見は2つに割れてしまう。 結論を出せないミナトさんに、連",
+        "type": "MainStory",
+        "url": "x.com/Blue_ArchiveJP/status/2096116233552982396",
+        "start_time": 1788937200,
+        "end_time": 1788937200
+      },
+      "detail_path": "timeline/5987.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5987.json"
+    },
+    "5976": {
+      "id": 5976,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5976,
+        "line_type": "CN",
+        "title": "紫（泳装）",
+        "image": "https://static.kivo.wiki/images/timeline/Vh8Jen0f7Fr2yPoXUmy9uGUq2x3Kq57e.jpg",
+        "body_summary": "//////////档案启封////////// ■ 紫（泳装） 夏日炎炎，换上了泳装的百花缭乱纠纷调解委员会成员。 因为和喜欢的前辈们一起参加了百夜水上节，显得兴奋不已。属于她的那份开朗性格与别具一",
+        "type": "Other",
+        "url": "weibo.com/6011443154/RgPiKb7BC",
+        "start_time": 1788663600,
+        "end_time": 1788663600
+      },
+      "detail_path": "timeline/5976.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5976.json"
+    },
+    "5972": {
+      "id": 5972,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5972,
+        "line_type": "CN",
+        "title": "莲华（泳装）",
+        "image": "https://static.kivo.wiki/images/timeline/neQ1ZBbpLpGGo6r3a1GbCQoXkBF9PPYU.jpg",
+        "body_summary": "//////////档案启封////////// ■ 莲华（泳装） 夏日炎炎，换上了泳装的百花缭乱纠纷调解委员会突击队长。 为了与成员们一同享受夏日的青春，她参加了百夜水上节。炽热的好胜心与燃烧的激情",
+        "type": "Other",
+        "url": "weibo.com/6011443154/RgFSfmhay",
+        "start_time": 1788577200,
+        "end_time": 1788577200
+      },
+      "detail_path": "timeline/5972.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5972.json"
+    },
     "5962": {
       "id": 5962,
       "source_path": "timeline/index.json",
@@ -30,6 +228,24 @@
       },
       "detail_path": "timeline/5962.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5962.json"
+    },
+    "5973": {
+      "id": 5973,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5973,
+        "line_type": "CN",
+        "title": "炸服#24（【0068 来自歌剧的爱】活动无法正常进入）",
+        "image": "https://static.kivo.wiki/images/timeline/XJxKQfrr335Yc4ZHMUwu1kPQfiBngcdq.gif",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们收到部分老师发来的反馈：当前复刻活动“0068 来自歌剧的爱”存在无法正常进入的问题。 收到问题后我们已紧急展开相关问题的核实与修复工作，对于本次异常问题给老师带",
+        "type": "Maintenance",
+        "url": "weibo.com/6011443154/RgogXjaQv",
+        "start_time": 1788415860,
+        "end_time": 1788415860
+      },
+      "detail_path": "timeline/5973.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5973.json"
     },
     "5971": {
       "id": 5971,
@@ -120,6 +336,24 @@
       },
       "detail_path": "timeline/5940.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5940.json"
+    },
+    "5980": {
+      "id": 5980,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5980,
+        "line_type": "CN",
+        "title": "悬赏通缉2倍 #42 & 日程2倍 #42 & 特别委托2倍 #24",
+        "image": "https://static.kivo.wiki/images/timeline/65Zz4sCQJ4tYcttI6EYudbWouN3UJ4n6.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程、特别委托】道具掉落量2倍 ■ 活动时间 09月03日 04:00 ~ 09月10日 03:59 二、【学院交流会】道具掉落量2倍 ■ ",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RgdAL3TIV",
+        "start_time": 1788379200,
+        "end_time": 1788983999
+      },
+      "detail_path": "timeline/5980.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5980.json"
     },
     "5961": {
       "id": 5961,
@@ -264,24 +498,6 @@
       },
       "detail_path": "timeline/5959.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5959.json"
-    },
-    "5949": {
-      "id": 5949,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5949,
-        "line_type": "JP",
-        "title": "阿罗普拉频道 #53",
-        "image": "https://static.kivo.wiki/images/timeline/HbHOsXkuR2t0lOYjyO7KHl5vzglotPM2.png",
-        "body_summary": "【#アロプラちゃんねる】 先生、こんにちは！アロプラちゃんねるのお時間です！ 8月も末、夏の終わりが近づいてきました。 先生は夏の間にやり残したことはありませんか？ もしあるなら、今のうちにやり尽くし",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2093534100917559489",
-        "start_time": 1788007141,
-        "end_time": 1788007141
-      },
-      "detail_path": "timeline/5949.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5949.json"
     },
     "5939": {
       "id": 5939,
@@ -445,6 +661,24 @@
       "detail_path": "timeline/5943.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5943.json"
     },
+    "5942": {
+      "id": 5942,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5942,
+        "line_type": "JP",
+        "title": "活动「DIVE into OCEAN！」PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/FGh8EorPNXwdS9PyvNOUxkQyoLRdTeQ8.jpg",
+        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ ダイビング部は慢性的な資金不足に頭を悩ませていた。 そして泣く泣く受けたフジツボ掃除で、あろうことか船の爆発事故を起こしてしまう。 その責任を問",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2091722589593079857",
+        "start_time": 1787744746,
+        "end_time": 1788922799
+      },
+      "detail_path": "timeline/5942.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5942.json"
+    },
     "5941": {
       "id": 5941,
       "source_path": "timeline/index.json",
@@ -462,6 +696,24 @@
       },
       "detail_path": "timeline/5941.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5941.json"
+    },
+    "5935": {
+      "id": 5935,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5935,
+        "line_type": "JP",
+        "title": "活动「DIVE into OCEAN！」",
+        "image": "https://static.kivo.wiki/images/timeline/pJPhDU4Q6DDk1WOcH2qjAhcB0hvLlERu.png",
+        "body_summary": "【新イベント予告】 先生！何やら、オデュッセイア海洋高等学校のダイビング部の皆さんが、海底に眠る未知の調査へと繰り出すみたいですよ！ 果てしなく広がる海の試練を乗り越え、無事に目的の場所へ到達できるの",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2090755985392734538",
+        "start_time": 1787742000,
+        "end_time": 1788922799
+      },
+      "detail_path": "timeline/5935.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5935.json"
     },
     "5944": {
       "id": 5944,
@@ -494,7 +746,7 @@
         "type": "Raid",
         "url": "x.com/EN_BlueArchive/status/2089970627046175209",
         "start_time": 1787653227,
-        "end_time": 1788344427
+        "end_time": 1788258027
       },
       "detail_path": "timeline/5919.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5919.json"
@@ -516,24 +768,6 @@
       },
       "detail_path": "timeline/5923.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5923.json"
-    },
-    "5942": {
-      "id": 5942,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5942,
-        "line_type": "JP",
-        "title": "【事件PV】 【ブルアカ】「DIVE into OCEAN！」イベントPV公开",
-        "image": "https://static.kivo.wiki/images/timeline/FGh8EorPNXwdS9PyvNOUxkQyoLRdTeQ8.jpg",
-        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ ダイビング部は慢性的な資金不足に頭を悩ませていた。 そして泣く泣く受けたフジツボ掃除で、あろうことか船の爆発事故を起こしてしまう。 その責任を問",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2091722589593079857",
-        "start_time": 1787571946,
-        "end_time": 1787571946
-      },
-      "detail_path": "timeline/5942.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5942.json"
     },
     "5819": {
       "id": 5819,
@@ -570,24 +804,6 @@
       },
       "detail_path": "timeline/5922.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5922.json"
-    },
-    "5935": {
-      "id": 5935,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5935,
-        "line_type": "JP",
-        "title": "活动「DIVE into OCEAN！」",
-        "image": "https://static.kivo.wiki/images/timeline/pJPhDU4Q6DDk1WOcH2qjAhcB0hvLlERu.png",
-        "body_summary": "【新イベント予告】 先生！何やら、オデュッセイア海洋高等学校のダイビング部の皆さんが、海底に眠る未知の調査へと繰り出すみたいですよ！ 果てしなく広がる海の試練を乗り越え、無事に目的の場所へ到達できるの",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/2090755985392734538",
-        "start_time": 1787310000,
-        "end_time": 1787310000
-      },
-      "detail_path": "timeline/5935.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5935.json"
     },
     "5934": {
       "id": 5934,
@@ -1261,8 +1477,8 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "item": {
         "id": 5960,
-        "line_type": "JP",
-        "title": "国际服主线第2部序章更新奖励",
+        "line_type": "Globle",
+        "title": "国际服主线第2部序章更新礼物",
         "image": "https://static.kivo.wiki/images/timeline/pWfIUPTP7emE3KA21SNvhjeBFoz7a8sZ.jpg",
         "body_summary": "Sensei, Act 2 of the Main Story is about to begin! We prepared special On-Time Gifts for you in anti",
         "type": "Other",
@@ -1578,6 +1794,24 @@
       },
       "detail_path": "timeline/5816.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5816.json"
+    },
+    "5977": {
+      "id": 5977,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5977,
+        "line_type": "Globle",
+        "title": "国际服迷你剧情更新「The Melancholy of Kanbara Misuzu」",
+        "image": "https://static.kivo.wiki/images/timeline/0THlurmqrF7auoXvn6rnMXRyZf0BwXyY.jpg",
+        "body_summary": "",
+        "type": "OtherStory",
+        "url": "x.com/EN_BlueArchive/status/2084500668505817196",
+        "start_time": 1786413600,
+        "end_time": 1786413600
+      },
+      "detail_path": "timeline/5977.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5977.json"
     },
     "5880": {
       "id": 5880,
@@ -9661,6 +9895,24 @@
       "detail_path": "timeline/5321.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5321.json"
     },
+    "5978": {
+      "id": 5978,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5978,
+        "line_type": "Globle",
+        "title": "国际服迷你剧情更新「Ending Manual Transmission」",
+        "image": "https://static.kivo.wiki/images/timeline/nk6sYVMe4ijbfQfsDTvSycl3XPnZZnm1.jpg",
+        "body_summary": "",
+        "type": "OtherStory",
+        "url": "x.com/EN_BlueArchive/status/2046454291381313718",
+        "start_time": 1776747600,
+        "end_time": 1776747600
+      },
+      "detail_path": "timeline/5978.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5978.json"
+    },
     "5657": {
       "id": 5657,
       "source_path": "timeline/index.json",
@@ -16958,7 +17210,7 @@
       "item": {
         "id": 4954,
         "line_type": "JP",
-        "title": "主线vol.EX 第3章PV公开",
+        "title": "主线Ex. 第3章PV公开",
         "image": "https://static.kivo.wiki/images/timeline/sfPN5Nng3UoxWxsyChmfXjW4BDTIyrc5.jpg",
         "body_summary": "【デカグラマトン編第3章】 先生！ 先ほど #ブルアカらいぶ5周年SPDAY2 にてご覧いただいた動画が公開されました！ 遂に鋼鉄大陸に到着です…！ ここからは何度も激戦が予想されます…！ 先生！皆さ",
         "type": "OutsideGames",
@@ -104685,8 +104937,44 @@
     }
   },
   "by_alias": {
+    "任务(困难难度)2倍 #28": [
+      "5983"
+    ],
+    "任务(普通难度)2倍 #28": [
+      "5982"
+    ],
+    "活动「夏空のやくそく」复刻": [
+      "5986"
+    ],
+    "限时招募【夏日思绪长 念念缭绕在心头 意乱又情迷】": [
+      "5985"
+    ],
+    "限时招募【苍茫碧海中 百道波光耀长空 碎作花琳琅!】": [
+      "5984"
+    ],
+    "限时活动【百芳丛中独一枝 ~堂堂正正,水上争锋~】": [
+      "5979"
+    ],
+    "限时活动【百芳丛中独一枝 ~堂堂正正,水上争锋~】介绍PV": [
+      "5975"
+    ],
+    "学院交流会2倍 #32": [
+      "5981"
+    ],
+    "主线剧情第2部 Vol.2「オデュッセイア」篇 第1章「瞳に映る水平線」后篇 更新": [
+      "5987"
+    ],
+    "紫(泳装)": [
+      "5976"
+    ],
+    "莲华(泳装)": [
+      "5972"
+    ],
     "任务Hard2倍#57": [
       "5962"
+    ],
+    "炸服#24(【0068 来自歌剧的爱】活动无法正常进入)": [
+      "5973"
     ],
     "限时复刻活动【0068 来自歌剧的爱】": [
       "5971"
@@ -104702,6 +104990,9 @@
     ],
     "纱织(礼服)家具互动更新": [
       "5940"
+    ],
+    "悬赏通缉2倍 #42 & 日程2倍 #42 & 特别委托2倍 #24": [
+      "5980"
     ],
     "屋内戦・ペロロジラ#6": [
       "5961"
@@ -104726,9 +105017,6 @@
     ],
     "学生生日日历-2026年9月": [
       "5959"
-    ],
-    "阿罗普拉频道 #53": [
-      "5949"
     ],
     "纱织(礼服)": [
       "5939"
@@ -104757,8 +105045,14 @@
     "卡池 「Under 50 bar 計器を契機に」&「Over 20 kHz 調べを標に」": [
       "5943"
     ],
+    "活动「DIVE into OCEAN!」PV公开": [
+      "5942"
+    ],
     "主线剧情第2部 Vol.2「オデュッセイア」篇 第1章「瞳に映る水平線」前篇 更新": [
       "5941"
+    ],
+    "活动「DIVE into OCEAN!」": [
+      "5935"
     ],
     "例行维护#149": [
       "5944"
@@ -104769,17 +105063,11 @@
     "国际服任务Normal2倍": [
       "5923"
     ],
-    "【事件PV】 【ブルアカ】「DIVE into OCEAN!」イベントPV公开": [
-      "5942"
-    ],
     "任务hard3倍#19": [
       "5819"
     ],
     "国际服老师经验2倍#53": [
       "5922"
-    ],
-    "活动「DIVE into OCEAN!」": [
-      "5935"
     ],
     "奥德赛海洋学院登场告知PV公开": [
       "5934"
@@ -104892,7 +105180,7 @@
     "名草": [
       "5905"
     ],
-    "国际服主线第2部序章更新奖励": [
+    "国际服主线第2部序章更新礼物": [
       "5960"
     ],
     "C108悠星参展": [
@@ -104945,6 +105233,9 @@
     ],
     "指名手配3倍#21 & 日程表3倍#16": [
       "5816"
+    ],
+    "国际服迷你剧情更新「The Melancholy of Kanbara Misuzu」": [
+      "5977"
     ],
     "国际服大决战 Perorodzilla (Field) #3": [
       "5880"
@@ -106294,6 +106585,9 @@
     "主线剧情第2部序章更新": [
       "5321"
     ],
+    "国际服迷你剧情更新「Ending Manual Transmission」": [
+      "5978"
+    ],
     "国际服活动「Serenade Promenade」复刻": [
       "5657"
     ],
@@ -107510,7 +107804,7 @@
     "任务(困难难度)3倍 #17": [
       "5715"
     ],
-    "主线vol.EX 第3章PV公开": [
+    "主线Ex. 第3章PV公开": [
       "4954"
     ],
     "主线剧情Ex. 「デカグラマトン」篇第3章「不離一体の空」Part1更新": [
@@ -122070,8 +122364,44 @@
     ]
   },
   "by_normalized_alias": {
+    "任务(困难难度)2倍#28": [
+      "5983"
+    ],
+    "任务(普通难度)2倍#28": [
+      "5982"
+    ],
+    "活动「夏空のやくそく」复刻": [
+      "5986"
+    ],
+    "限时招募【夏日思绪长念念缭绕在心头意乱又情迷】": [
+      "5985"
+    ],
+    "限时招募【苍茫碧海中百道波光耀长空碎作花琳琅!】": [
+      "5984"
+    ],
+    "限时活动【百芳丛中独一枝~堂堂正正,水上争锋~】": [
+      "5979"
+    ],
+    "限时活动【百芳丛中独一枝~堂堂正正,水上争锋~】介绍pv": [
+      "5975"
+    ],
+    "学院交流会2倍#32": [
+      "5981"
+    ],
+    "主线剧情第2部vol.2「オデュッセイア」篇第1章「瞳に映る水平線」后篇更新": [
+      "5987"
+    ],
+    "紫(泳装)": [
+      "5976"
+    ],
+    "莲华(泳装)": [
+      "5972"
+    ],
     "任务hard2倍#57": [
       "5962"
+    ],
+    "炸服#24(【0068来自歌剧的爱】活动无法正常进入)": [
+      "5973"
     ],
     "限时复刻活动【0068来自歌剧的爱】": [
       "5971"
@@ -122087,6 +122417,9 @@
     ],
     "纱织(礼服)家具互动更新": [
       "5940"
+    ],
+    "悬赏通缉2倍#42&日程2倍#42&特别委托2倍#24": [
+      "5980"
     ],
     "屋内戦・ペロロジラ#6": [
       "5961"
@@ -122111,9 +122444,6 @@
     ],
     "学生生日日历-2026年9月": [
       "5959"
-    ],
-    "阿罗普拉频道#53": [
-      "5949"
     ],
     "纱织(礼服)": [
       "5939"
@@ -122142,8 +122472,14 @@
     "卡池「under50bar計器を契機に」&「over20khz調べを標に」": [
       "5943"
     ],
+    "活动「diveintoocean!」pv公开": [
+      "5942"
+    ],
     "主线剧情第2部vol.2「オデュッセイア」篇第1章「瞳に映る水平線」前篇更新": [
       "5941"
+    ],
+    "活动「diveintoocean!」": [
+      "5935"
     ],
     "例行维护#149": [
       "5944"
@@ -122154,17 +122490,11 @@
     "国际服任务normal2倍": [
       "5923"
     ],
-    "【事件pv】【ブルアカ】「diveintoocean!」イベントpv公开": [
-      "5942"
-    ],
     "任务hard3倍#19": [
       "5819"
     ],
     "国际服老师经验2倍#53": [
       "5922"
-    ],
-    "活动「diveintoocean!」": [
-      "5935"
     ],
     "奥德赛海洋学院登场告知pv公开": [
       "5934"
@@ -122277,7 +122607,7 @@
     "名草": [
       "5905"
     ],
-    "国际服主线第2部序章更新奖励": [
+    "国际服主线第2部序章更新礼物": [
       "5960"
     ],
     "c108悠星参展": [
@@ -122330,6 +122660,9 @@
     ],
     "指名手配3倍#21&日程表3倍#16": [
       "5816"
+    ],
+    "国际服迷你剧情更新「themelancholyofkanbaramisuzu」": [
+      "5977"
     ],
     "国际服大决战perorodzilla(field)#3": [
       "5880"
@@ -123679,6 +124012,9 @@
     "主线剧情第2部序章更新": [
       "5321"
     ],
+    "国际服迷你剧情更新「endingmanualtransmission」": [
+      "5978"
+    ],
     "国际服活动「serenadepromenade」复刻": [
       "5657"
     ],
@@ -124896,7 +125232,7 @@
     "任务(困难难度)3倍#17": [
       "5715"
     ],
-    "主线vol.ex第3章pv公开": [
+    "主线ex.第3章pv公开": [
       "4954"
     ],
     "主线剧情ex.「デカグラマトン」篇第3章「不離一体の空」part1更新": [

@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-05T19:57:16Z",
+  "generated_at": "2026-09-06T20:00:57Z",
   "id": 156,
   "display_name": "狮子堂 泉（新年）",
   "names": {
     "default": "狮子堂 泉",
     "cn": "狮子堂 泉",
     "jp": "獅子堂 イズミ",
-    "en": "Shishido Izumi",
+    "en": "Shishidou Izumi",
     "kr": "시시도우 이즈미",
     "zh_tw": "獅子堂 泉",
     "family_name": "狮子堂",
@@ -17,7 +17,7 @@
     "given_name_cn": "泉",
     "family_name_jp": "獅子堂",
     "given_name_jp": "イズミ",
-    "family_name_en": "Shishido",
+    "family_name_en": "Shishidou",
     "given_name_en": "Izumi",
     "family_name_kr": "시시도우",
     "given_name_kr": "이즈미",
@@ -886,6 +886,21 @@
         },
         "detail_path": "items/401.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/401.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
       }
     ]
   },
@@ -2672,8 +2687,8 @@
   "source": {
     "detail_path": "students/156.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/156.json",
-    "upstream_time": 1788638498,
-    "updated_at": 1788227624,
+    "upstream_time": 1788725116,
+    "updated_at": 1788682220,
     "created_at": 1685628126
   }
 }

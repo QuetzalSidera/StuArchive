@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-05T19:57:16Z",
+  "generated_at": "2026-09-06T20:00:57Z",
   "id": 342,
   "display_name": "野正 莱依",
   "names": {
@@ -851,6 +851,21 @@
         },
         "detail_path": "items/1109.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1109.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
       }
     ]
   },
@@ -2286,7 +2301,7 @@
       {
         "description": "ch0245_formation_in_2",
         "category": "formation",
-        "text": "棒球的精髓，就在于本垒打。",
+        "text": "老师，敬请期待吧！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E9%87%8E%E6%AD%A3%20%E8%8E%B1%E4%BE%9D/original/cn/ch0245_formation_in_2.ogg"
       },
@@ -3690,8 +3705,8 @@
   "source": {
     "detail_path": "students/342.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/342.json",
-    "upstream_time": 1788638214,
-    "updated_at": 1788227506,
+    "upstream_time": 1788725050,
+    "updated_at": 1788682123,
     "created_at": 1703676552
   }
 }

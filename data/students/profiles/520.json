@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-05T19:57:16Z",
+  "generated_at": "2026-09-06T20:00:57Z",
   "id": 520,
   "display_name": "冰室 濑名（便服）",
   "names": {
@@ -856,6 +856,21 @@
         },
         "detail_path": "items/425.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/425.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
       }
     ]
   },
@@ -3508,8 +3523,8 @@
   "source": {
     "detail_path": "students/520.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/520.json",
-    "upstream_time": 1788638503,
-    "updated_at": 1788227682,
+    "upstream_time": 1788725121,
+    "updated_at": 1788682275,
     "created_at": 1740302064
   }
 }

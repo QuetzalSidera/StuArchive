@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-05T19:57:16Z",
+  "generated_at": "2026-09-06T20:00:57Z",
   "id": 356,
   "display_name": "锭前 纱织（礼服）",
   "names": {
     "default": "锭前 纱织",
     "cn": "锭前 纱织",
     "jp": "錠前 サオリ",
-    "en": "Jomae Saori",
+    "en": "Joumae Saori",
     "kr": "조마에 사오리",
     "zh_tw": "錠前 沙織",
     "family_name": "锭前",
@@ -17,7 +17,7 @@
     "given_name_cn": "纱织",
     "family_name_jp": "錠前",
     "given_name_jp": "サオリ",
-    "family_name_en": "Jomae",
+    "family_name_en": "Joumae",
     "given_name_en": "Saori",
     "family_name_kr": "조마에",
     "given_name_kr": "사오리",
@@ -694,21 +694,6 @@
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/450.json"
       },
       {
-        "id": 451,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/xuS1EVPokNx7tcdrbUO4OQVlcZlJLPND.png",
-        "rarity": 4,
-        "name": "完整的古代电池",
-        "description": "状态完好的古代电池。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/451.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/451.json"
-      },
-      {
         "id": 403,
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/diuCSFFbrTJU6PMIOOu8biFdBok1RaZV.png",
@@ -887,6 +872,21 @@
         },
         "detail_path": "items/19.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
+      },
+      {
+        "id": 406,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PdvlrYFrLUnW6nsOdVxUbdluVLsXlE2N.png",
+        "rarity": 4,
+        "name": "完整的斐斯托斯圆盘",
+        "description": "状态完整的斐斯托斯圆盘。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/406.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/406.json"
       }
     ]
   },
@@ -2801,8 +2801,8 @@
   "source": {
     "detail_path": "students/356.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/356.json",
-    "upstream_time": 1788638619,
-    "updated_at": 1788496278,
+    "upstream_time": 1788725428,
+    "updated_at": 1788681976,
     "created_at": 1708516110
   }
 }

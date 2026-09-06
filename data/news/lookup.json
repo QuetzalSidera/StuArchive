@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-09-05T19:57:16Z",
+  "generated_at": "2026-09-06T20:00:57Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 84,
-  "alias_count": 84,
-  "normalized_alias_count": 84,
+  "total_items": 85,
+  "alias_count": 85,
+  "normalized_alias_count": 85,
   "by_id": {
+    "150": {
+      "id": 150,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 150,
+        "title": "主线剧情第二部 Vol.2 第1章后半公开 - 9月9日",
+        "image": "https://static.kivo.wiki/images/news/OIsgsK6krlscHNRaXOzOSRAQs5IKs5IL.jpg",
+        "url": ""
+      },
+      "detail_path": "news/150.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/150.json"
+    },
     "149": {
       "id": 149,
       "source_path": "news/index.json",
@@ -1107,6 +1120,9 @@
     }
   },
   "by_alias": {
+    "主线剧情第二部 Vol.2 第1章后半公开 - 9月9日": [
+      "150"
+    ],
     "[广告] 霞枫余音·南京蔚蓝档案ONLY4.0 - 10月4日": [
       "149"
     ],
@@ -1361,6 +1377,9 @@
     ]
   },
   "by_normalized_alias": {
+    "主线剧情第二部vol.2第1章后半公开-9月9日": [
+      "150"
+    ],
     "[广告]霞枫余音·南京蔚蓝档案only4.0-10月4日": [
       "149"
     ],
