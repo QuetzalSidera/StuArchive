@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-06T20:00:57Z",
+  "generated_at": "2026-09-07T21:08:14Z",
   "id": 505,
   "display_name": "早濑 优香（睡衣）",
   "names": {
@@ -62,7 +62,7 @@
     "height": 156,
     "birthday": "03-14",
     "hobby": "计算",
-    "designer": "Owa",
+    "designer": "owa",
     "illustrator": "Paruru",
     "character_voice": "春花兰",
     "character_voice_cn": "小敢",
@@ -155,20 +155,20 @@
       {
         "max_hp": 3179,
         "attack": 209,
-        "defense": 19,
+        "defense": 170,
         "healing": 1387,
-        "accuracy": 104,
-        "evasion": 1050,
-        "crit": 261,
+        "accuracy": 105,
+        "evasion": 227,
+        "crit": 210,
         "crit_res": 100,
         "crit_dmg": 2,
         "crit_dmg_res": 0.5,
-        "stability": 952,
-        "range": 550,
+        "stability": 1324,
+        "range": 450,
         "cc_power": 100,
         "cc_res": 100,
         "recovery_boost": 1,
-        "mag_count": 17
+        "mag_count": 27
       }
     ],
     "skills": {
@@ -3716,8 +3716,8 @@
   "source": {
     "detail_path": "students/505.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/505.json",
-    "upstream_time": 1788725165,
-    "updated_at": 1788228195,
+    "upstream_time": 1788815662,
+    "updated_at": 1788756652,
     "created_at": 1734864160
   }
 }

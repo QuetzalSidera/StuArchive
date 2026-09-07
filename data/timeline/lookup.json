@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-06T20:00:57Z",
+  "generated_at": "2026-09-07T21:08:14Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5829,
-  "alias_count": 5798,
-  "normalized_alias_count": 5791,
+  "total_items": 5839,
+  "alias_count": 5808,
+  "normalized_alias_count": 5801,
   "by_id": {
     "5983": {
       "id": 5983,
@@ -67,6 +67,24 @@
       "detail_path": "timeline/5986.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5986.json"
     },
+    "5997": {
+      "id": 5997,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5997,
+        "line_type": "CN",
+        "title": "桔梗（泳装）& 莲华（泳装）& 紫（泳装）家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/uKJokrCEbg8pXkhnzqP1mOQ60sQDOWYq.gif",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 09月10日 维护结束后 ■ 互动更新 • 桔梗（泳装）& 戏水充气泳池 即使",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/RgZUiAFm5",
+        "start_time": 1789034400,
+        "end_time": 1789034400
+      },
+      "detail_path": "timeline/5997.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5997.json"
+    },
     "5985": {
       "id": 5985,
       "source_path": "timeline/index.json",
@@ -111,7 +129,7 @@
         "id": 5979,
         "line_type": "CN",
         "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
-        "image": "https://static.kivo.wiki/images/timeline/S7KblLkCh2Q316mowk6uWdgQVfVAJQnG.jpg",
+        "image": "https://static.kivo.wiki/images/timeline/KXexqLEpd4BHxob7svkqPc1SABIeh6Ma.png",
         "body_summary": "百花缭乱的大家一起参加了【百夜水上节】，这是一场从100人中决出胜者的水上赛事。究竟最终的冠军会花落谁家呢？ 限时活动【百芳丛中独一枝 \\~堂堂正正，水上争锋~】将于09月10日开启！ 介绍PV：ht",
         "type": "Event",
         "url": "weibo.com/6011443154/Rgwsng8H8",
@@ -174,6 +192,150 @@
       },
       "detail_path": "timeline/5987.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5987.json"
+    },
+    "5989": {
+      "id": 5989,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5989,
+        "line_type": "Globle",
+        "title": "国际服大决战The Grand Assault - Myouki Kurokage (Urban Warfare) #2",
+        "image": "https://static.kivo.wiki/images/timeline/pP6kxkZfEuvtkkyklFpyr6a1psoicN9T.jpg",
+        "body_summary": "[Grand Assault Preview] The Grand Assault - Myouki Kurokage (Urban Warfare) will start on 9/8 (Tue)!",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/2095044053843022071",
+        "start_time": 1788836400,
+        "end_time": 1789415999
+      },
+      "detail_path": "timeline/5989.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5989.json"
+    },
+    "5995": {
+      "id": 5995,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5995,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Sensei! Welcome to the festival! It's a bit embarrassing, but... I hope you like it.」#2 &「Welcome to Hyakkiyako!」",
+        "image": "https://static.kivo.wiki/images/timeline/CKr6ckPuyoutSMtMjGccmCcXWhM0rFBL.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/8 (Tue)! 💌Pick-Up St",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2095772600563798245",
+        "start_time": 1788832800,
+        "end_time": 1789437599
+      },
+      "detail_path": "timeline/5995.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5995.json"
+    },
+    "5992": {
+      "id": 5992,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5992,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #118",
+        "image": "https://static.kivo.wiki/images/timeline/ne36dHl5BuJJ2sPVy46K4hwL2FFvRrtf.jpg",
+        "body_summary": "[9/8 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 9/8 (Tue). 🗓️Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2095799028231332321",
+        "start_time": 1788832800,
+        "end_time": 1788847200
+      },
+      "detail_path": "timeline/5992.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5992.json"
+    },
+    "5991": {
+      "id": 5991,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5991,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Lip balm, Check! Hair rollers, Check!」&「If there's somewhere you want to go, let me know anytime... If it's in Hyakkiyako, I can guide you there.」#2",
+        "image": "https://static.kivo.wiki/images/timeline/om0aMIJhge4Ep137yj0DM7QGQENW3gc7.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/8 (Tue)! 💌Pick-Up St",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2095772600563798245",
+        "start_time": 1788832800,
+        "end_time": 1789437599
+      },
+      "detail_path": "timeline/5991.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5991.json"
+    },
+    "5990": {
+      "id": 5990,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5990,
+        "line_type": "Globle",
+        "title": "国际服卡池 「Ya-ho, Sensei, I was actually looking for you.」",
+        "image": "https://static.kivo.wiki/images/timeline/IemmzqA0rvilp2UpxXY7fySQlZWwZOqx.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/8 (Tue)! 💌Pick-Up Student: 3",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2095768826617180460",
+        "start_time": 1788832800,
+        "end_time": 1789437599
+      },
+      "detail_path": "timeline/5990.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5990.json"
+    },
+    "5994": {
+      "id": 5994,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5994,
+        "line_type": "Globle",
+        "title": "国际服任务 hard2倍 #49",
+        "image": "https://static.kivo.wiki/images/timeline/42qmATdOJjzoPOq2RJyFXMDVbVRQipjL.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2096134988513050716",
+        "start_time": 1788807599,
+        "end_time": 1789412399
+      },
+      "detail_path": "timeline/5994.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5994.json"
+    },
+    "5993": {
+      "id": 5993,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5993,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍#53",
+        "image": "https://static.kivo.wiki/images/timeline/s4m6mW5g636RfpYSo8nonWQH9q12DfNv.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 9/7 (Mon), Commissions rewards will be doubled! Don't miss o",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2096131218349683016",
+        "start_time": 1788807599,
+        "end_time": 1789412399
+      },
+      "detail_path": "timeline/5993.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5993.json"
+    },
+    "5996": {
+      "id": 5996,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5996,
+        "line_type": "CN",
+        "title": "桔梗（泳装）",
+        "image": "https://static.kivo.wiki/images/timeline/QVXwIAm2afYgQQZI04bIpaCZEwdsnfwY.jpg",
+        "body_summary": "//////////档案启封////////// ■ 桔梗（泳装） 夏日炎炎，换上了泳装的百花缭乱纠纷调解委员会作战参谋。 即使勇敢地展示出了自己未曾展现过的一面，但她仍羞于启齿自己不会游泳的事实。这",
+        "type": "Other",
+        "url": "weibo.com/6011443154/RgYJf4mEE",
+        "start_time": 1788750000,
+        "end_time": 1788750000
+      },
+      "detail_path": "timeline/5996.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5996.json"
     },
     "5976": {
       "id": 5976,
@@ -390,6 +552,24 @@
       },
       "detail_path": "timeline/5956.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5956.json"
+    },
+    "5988": {
+      "id": 5988,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5988,
+        "line_type": "Globle",
+        "title": "国际服违规帐号封禁 #70",
+        "image": "https://static.kivo.wiki/images/timeline/xUcv4rlqb9w0v4rn1dSzvCmBfP7OAuqR.jpg",
+        "body_summary": "[9/1 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2094732552926101854",
+        "start_time": 1788258135,
+        "end_time": 1788258135
+      },
+      "detail_path": "timeline/5988.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5988.json"
     },
     "5948": {
       "id": 5948,
@@ -104946,6 +105126,9 @@
     "活动「夏空のやくそく」复刻": [
       "5986"
     ],
+    "桔梗(泳装)& 莲华(泳装)& 紫(泳装)家具互动更新": [
+      "5997"
+    ],
     "限时招募【夏日思绪长 念念缭绕在心头 意乱又情迷】": [
       "5985"
     ],
@@ -104963,6 +105146,30 @@
     ],
     "主线剧情第2部 Vol.2「オデュッセイア」篇 第1章「瞳に映る水平線」后篇 更新": [
       "5987"
+    ],
+    "国际服大决战The Grand Assault - Myouki Kurokage (Urban Warfare) #2": [
+      "5989"
+    ],
+    "国际服卡池复刻「Sensei! Welcome to the festival! It's a bit embarrassing, but... I hope you like it.」#2 &「Welcome to Hyakkiyako!」": [
+      "5995"
+    ],
+    "国际服例行维护 #118": [
+      "5992"
+    ],
+    "国际服卡池复刻「Lip balm, Check! Hair rollers, Check!」&「If there's somewhere you want to go, let me know anytime... If it's in Hyakkiyako, I can guide you there.」#2": [
+      "5991"
+    ],
+    "国际服卡池 「Ya-ho, Sensei, I was actually looking for you.」": [
+      "5990"
+    ],
+    "国际服任务 hard2倍 #49": [
+      "5994"
+    ],
+    "国际服特别依赖2倍#53": [
+      "5993"
+    ],
+    "桔梗(泳装)": [
+      "5996"
     ],
     "紫(泳装)": [
       "5976"
@@ -104999,6 +105206,9 @@
     ],
     "任务Normal2倍#60": [
       "5956"
+    ],
+    "国际服违规帐号封禁 #70": [
+      "5988"
     ],
     "国际服联合火力演习#51": [
       "5948"
@@ -122373,6 +122583,9 @@
     "活动「夏空のやくそく」复刻": [
       "5986"
     ],
+    "桔梗(泳装)&莲华(泳装)&紫(泳装)家具互动更新": [
+      "5997"
+    ],
     "限时招募【夏日思绪长念念缭绕在心头意乱又情迷】": [
       "5985"
     ],
@@ -122390,6 +122603,30 @@
     ],
     "主线剧情第2部vol.2「オデュッセイア」篇第1章「瞳に映る水平線」后篇更新": [
       "5987"
+    ],
+    "国际服大决战thegrandassault-myoukikurokage(urbanwarfare)#2": [
+      "5989"
+    ],
+    "国际服卡池复刻「sensei!welcometothefestival!it'sabitembarrassing,but...ihopeyoulikeit.」#2&「welcometohyakkiyako!」": [
+      "5995"
+    ],
+    "国际服例行维护#118": [
+      "5992"
+    ],
+    "国际服卡池复刻「lipbalm,check!hairrollers,check!」&「ifthere'ssomewhereyouwanttogo,letmeknowanytime...ifit'sinhyakkiyako,icanguideyouthere.」#2": [
+      "5991"
+    ],
+    "国际服卡池「ya-ho,sensei,iwasactuallylookingforyou.」": [
+      "5990"
+    ],
+    "国际服任务hard2倍#49": [
+      "5994"
+    ],
+    "国际服特别依赖2倍#53": [
+      "5993"
+    ],
+    "桔梗(泳装)": [
+      "5996"
     ],
     "紫(泳装)": [
       "5976"
@@ -122426,6 +122663,9 @@
     ],
     "任务normal2倍#60": [
       "5956"
+    ],
+    "国际服违规帐号封禁#70": [
+      "5988"
     ],
     "国际服联合火力演习#51": [
       "5948"
