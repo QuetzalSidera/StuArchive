@@ -9,7 +9,7 @@
       "ContentImprovements": 423,
       "Double": 972,
       "Event": 525,
-      "Gacha": 834,
+      "Gacha": 835,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 451,
@@ -22,6 +22,17 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 520,
+        "line_type": "JP",
+        "title": "例行维护58　（提前结束）",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 12/14(水) 11:00 〜 19:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1602181521875816448",
+        "start_time": 1670986800,
+        "end_time": 1671010200
+      },
       {
         "id": 517,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1599599702055714816",
         "start_time": 1670356800,
         "end_time": 1670961599
-      },
-      {
-        "id": 1266,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍2",
-        "image": "https://static.kivo.wiki/images/timeline/F5xmKCJrF1vdtbk4QcioC712CAuFrMOL.jpg",
-        "body_summary": "[Double Drop Campaign Preview] For 7 days from 12/6 (Tue), rewards dropped in Scrimmages will be dou",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1599297452674203650",
-        "start_time": 1670292603,
-        "end_time": 1670871543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788824141,
+  "time": 1788908915,
   "version": "1.0.0-beta.43"
 }

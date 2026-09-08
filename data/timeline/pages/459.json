@@ -9,7 +9,7 @@
       "ContentImprovements": 423,
       "Double": 972,
       "Event": 525,
-      "Gacha": 834,
+      "Gacha": 835,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 451,
@@ -22,6 +22,17 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 637,
+        "line_type": "JP",
+        "title": "例行维护68",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 5/10(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1655814910746714113",
+        "start_time": 1683687600,
+        "end_time": 1683709200
+      },
       {
         "id": 635,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1652145850364350464?s=20",
         "start_time": 1683089643,
         "end_time": 1683694443
-      },
-      {
-        "id": 632,
-        "line_type": "JP",
-        "title": "GW动画 基沃托斯的大型连休！",
-        "image": "https://static.kivo.wiki/images/timeline/m7mivzCBekMvTRkzCEJsv3S7vHfYA47n.jpg",
-        "body_summary": "【キヴォトスの大型連休！その①】 先生！今日からGWです！ 期間中だけキヴォトスの様子をお届けしちゃいます！ 今回はゲヘナ学園、給食部のフウカさんとジュリさんです！ お二人が料理の練習をするようなので",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1653595232426926080",
-        "start_time": 1683086400,
-        "end_time": 1683432000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788824103,
+  "time": 1788908877,
   "version": "1.0.0-beta.43"
 }

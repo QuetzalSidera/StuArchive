@@ -9,7 +9,7 @@
       "ContentImprovements": 423,
       "Double": 972,
       "Event": 525,
-      "Gacha": 834,
+      "Gacha": 835,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 451,
@@ -22,6 +22,17 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1103,
+        "line_type": "Globle",
+        "title": "国际服例行维护14",
+        "image": "",
+        "body_summary": "[5/17 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 5/17 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1526034705442807809",
+        "start_time": 1652756401,
+        "end_time": 1652770801
+      },
       {
         "id": 1102,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1523135822681501696?s=20",
         "start_time": 1652282811,
         "end_time": 1652282811
-      },
-      {
-        "id": 1096,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁8",
-        "image": "",
-        "body_summary": "[5/10(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1523935874873905153",
-        "start_time": 1652169653,
-        "end_time": 1652169653
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788824186,
+  "time": 1788908959,
   "version": "1.0.0-beta.43"
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-07T21:08:14Z",
+  "generated_at": "2026-09-08T20:44:40Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5839,
-  "alias_count": 5808,
-  "normalized_alias_count": 5801,
+  "total_items": 5840,
+  "alias_count": 5809,
+  "normalized_alias_count": 5802,
   "by_id": {
     "5983": {
       "id": 5983,
@@ -66,6 +66,24 @@
       },
       "detail_path": "timeline/5986.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5986.json"
+    },
+    "5998": {
+      "id": 5998,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5998,
+        "line_type": "CN",
+        "title": "限时限定复刻招募【夏日情愫眉间现】&【吟俳诵句问真心】，限时复刻招募【纵知此景终将逝 离情亦难却】",
+        "image": "https://static.kivo.wiki/images/timeline/QwdspbuElZWPyyRnn7fXcJ3B1tny8OO8.jpg",
+        "body_summary": "限时复刻招募活动即将开启，请老师不要错过哦！ ■ 招募时间 09月10日 维护结束后 ～ 09月24日 13:59 ■ 招募内容 • 限时限定复刻招募【夏日情愫眉间现】即将开启！ 在本次招募中，3★限",
+        "type": "Gacha",
+        "url": "weibo.com/6011443154/Rh89JzbjR",
+        "start_time": 1789034400,
+        "end_time": 1790229599
+      },
+      "detail_path": "timeline/5998.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5998.json"
     },
     "5997": {
       "id": 5997,
@@ -105126,6 +105144,9 @@
     "活动「夏空のやくそく」复刻": [
       "5986"
     ],
+    "限时限定复刻招募【夏日情愫眉间现】&【吟俳诵句问真心】,限时复刻招募【纵知此景终将逝 离情亦难却】": [
+      "5998"
+    ],
     "桔梗(泳装)& 莲华(泳装)& 紫(泳装)家具互动更新": [
       "5997"
     ],
@@ -122582,6 +122603,9 @@
     ],
     "活动「夏空のやくそく」复刻": [
       "5986"
+    ],
+    "限时限定复刻招募【夏日情愫眉间现】&【吟俳诵句问真心】,限时复刻招募【纵知此景终将逝离情亦难却】": [
+      "5998"
     ],
     "桔梗(泳装)&莲华(泳装)&紫(泳装)家具互动更新": [
       "5997"

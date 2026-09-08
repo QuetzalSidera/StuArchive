@@ -9,7 +9,7 @@
       "ContentImprovements": 423,
       "Double": 972,
       "Event": 525,
-      "Gacha": 834,
+      "Gacha": 835,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 451,
@@ -22,6 +22,17 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 478,
+        "line_type": "JP",
+        "title": "炸服23",
+        "image": "",
+        "body_summary": "【接続障害】 10月25日1時55分から接続障害が発生しました。 同障害は緊急対応を経て、3時07分にて解消しました。 お詫びとして下記のアイテムをゲーム内メールにて配布いたします。 ▼補填内容 ・青",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1584608232957673472",
+        "start_time": 1666634100,
+        "end_time": 1666638420
+      },
       {
         "id": 476,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1582989997384339456",
         "start_time": 1666076430,
         "end_time": 1666076430
-      },
-      {
-        "id": 1210,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Ivan Kupala」",
-        "image": "https://static.kivo.wiki/images/timeline/4siLkdhRckjmK1bVYZ3po5Z4Yzx4YH3e.jpg",
-        "body_summary": "[Event Update Notice] 'Ivan Kupala' has returned again this year with a new student! Hurry and set o",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1582260642022535168",
-        "start_time": 1666076422,
-        "end_time": 1666663222
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788824153,
+  "time": 1788908927,
   "version": "1.0.0-beta.43"
 }

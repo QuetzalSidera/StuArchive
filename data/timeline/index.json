@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-09-07T21:08:14Z",
+  "generated_at": "2026-09-08T20:44:40Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 584,
   "synced_pages": 584,
-  "total_items": 5839,
+  "total_items": 5840,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -48,6 +48,17 @@
       "url": "x.com/Blue_ArchiveJP/status/2096146476208718020",
       "start_time": 1789574400,
       "end_time": 1790218799
+    },
+    {
+      "id": 5998,
+      "line_type": "CN",
+      "title": "限时限定复刻招募【夏日情愫眉间现】&【吟俳诵句问真心】，限时复刻招募【纵知此景终将逝 离情亦难却】",
+      "image": "https://static.kivo.wiki/images/timeline/QwdspbuElZWPyyRnn7fXcJ3B1tny8OO8.jpg",
+      "body_summary": "限时复刻招募活动即将开启，请老师不要错过哦！ ■ 招募时间 09月10日 维护结束后 ～ 09月24日 13:59 ■ 招募内容 • 限时限定复刻招募【夏日情愫眉间现】即将开启！ 在本次招募中，3★限",
+      "type": "Gacha",
+      "url": "weibo.com/6011443154/Rh89JzbjR",
+      "start_time": 1789034400,
+      "end_time": 1790229599
     },
     {
       "id": 5997,
@@ -68333,15 +68344,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=584",
       "path": "timeline/pages/584.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/584.json",
-      "item_count": 9
+      "item_count": 10
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5808,
-    "normalized_alias_count": 5801,
-    "total_items": 5839
+    "alias_count": 5809,
+    "normalized_alias_count": 5802,
+    "total_items": 5840
   }
 }

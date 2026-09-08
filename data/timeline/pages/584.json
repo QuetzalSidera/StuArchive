@@ -9,7 +9,7 @@
       "ContentImprovements": 423,
       "Double": 972,
       "Event": 525,
-      "Gacha": 834,
+      "Gacha": 835,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 451,
@@ -22,6 +22,17 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 8,
+        "line_type": "JP",
+        "title": "炸服1",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 現在、ゲームプレイ中に“不明なエラー”と表示され、タイトル画面に戻される不具合を確認しております。 不具合修正のため、只今より臨時メンテナンスを行います。 ご理解、ご協力のほどよ",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1291282035793772545?s=20",
+        "start_time": 1596700800,
+        "end_time": 1596713520
+      },
       {
         "id": 7,
         "line_type": "JP",
@@ -125,6 +136,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1788824257,
+  "time": 1788909026,
   "version": "1.0.0-beta.43"
 }

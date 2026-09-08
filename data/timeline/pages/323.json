@@ -9,7 +9,7 @@
       "ContentImprovements": 423,
       "Double": 972,
       "Event": 525,
-      "Gacha": 834,
+      "Gacha": 835,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 451,
@@ -22,6 +22,17 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2639,
+        "line_type": "JP",
+        "title": "例行维护96",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/5(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1797826106470609188",
+        "start_time": 1717556400,
+        "end_time": 1717578000
+      },
       {
         "id": 2637,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/807",
         "start_time": 1717063233,
         "end_time": 1718258373
-      },
-      {
-        "id": 2623,
-        "line_type": "CN",
-        "title": "总力战 比纳 • 野外战 3",
-        "image": "https://static.kivo.wiki/images/timeline/SFF2u6GphUrjSV1lNHMvNTw2AyJ8dk0Y.jpg",
-        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前正在基沃托斯各地出没。 比纳是神名十文字的第3个先知，在阿拜多斯的沙漠地区首次被发现。 比纳来到这里的目的尚不明确，但可以肯定的是",
-        "type": "Raid",
-        "url": "weibo.com/u/6011443154",
-        "start_time": 1717063204,
-        "end_time": 1717617544
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1788823934,
+  "time": 1788908715,
   "version": "1.0.0-beta.43"
 }
