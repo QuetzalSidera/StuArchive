@@ -16,7 +16,7 @@
       },
       {
         "id": 546,
-        "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/1.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0328_Collection.png",
         "skin": "泳装",
         "skin_cn": "泳装"
       }
@@ -34,9 +34,9 @@
     "family_name_cn": "鬼怒川",
     "given_name_cn": "霞",
     "nick_name": "",
-    "introduction": "",
+    "introduction": "格赫娜学园所属，温泉开发部的部长。\n不论季节、不分场所的开发至上主义，今日也依旧健在。世人都认为她是个离经叛道的人物，但就连这份形象，她也能将其作为达成目的的武器来使用。\n\n> 哈哈哈哈哈——！\n这个世界会轰地一下终结！",
     "introduction_cn": "",
-    "momo_talk_signature": "",
+    "momo_talk_signature": "温泉是人类赠予自身的礼物",
     "main_relation": 30,
     "relation": [
       8,
@@ -47,29 +47,30 @@
     "height": 148,
     "birthday": "05-24",
     "hobby": "爆破、温泉开发",
-    "designer": "",
-    "illustrator": "",
+    "designer": "ramuri",
+    "illustrator": "ramuri",
     "character_voice": "上坂すみれ",
     "character_voice_cn": "周童",
-    "release_date": null,
+    "release_date": "2026-09-09",
     "release_date_cn": null,
     "release_date_global": null,
-    "sd_model_image": "",
-    "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/1.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/EnemyInfo_CH0328.png",
+    "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0328_Collection.png",
     "school": 3,
-    "weapon_type": "",
-    "is_install": false,
+    "weapon_type": "HG",
+    "is_install": true,
     "is_install_cn": false,
     "is_install_global": false,
     "is_npc": false,
     "show_list": true,
     "body_shape": "Small",
     "special_appearance": true,
-    "more": "",
-    "recollection_lobby_image": "",
+    "more": "# 官方图集\n\n## 卡池Banner\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| そして夏は爆破で終わる！ | 暂无 | 暂无 | 暂无 |\n| ![日Banner](images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/kasumi_swimsuit_banner_jp.jpg =450x)) | 暂无 | 暂无 | 暂无 |\n\n\n\n## 官方介绍图\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n|![](images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/kasumi_swimsuit_intro_jp.jpg =450x)| 暂无 | 暂无 | 暂无 |\n",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/kasumi_swimsuit_memoriallobby_jp.jpg",
     "spine": [
       1324,
-      1386
+      1386,
+      1903
     ],
     "model": [
       185
@@ -77,6 +78,41 @@
     "voice_play_icon": "",
     "voice_pause_icon": "",
     "voice": [
+      {
+        "description": "ch0328_cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "様式美こそ、大切にするものだね。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "ch0328_cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "素晴らしい！これほどの蔵書があるとは……。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "ch0328_cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "何やら視線を感じたような……気のせいか。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "ch0328_cafe_monolog_4",
+        "category": "cafe",
+        "text": "",
+        "text_original": "温泉の装飾に……は難しいな。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "ch0328_cafe_monolog_5",
+        "category": "cafe",
+        "text": "",
+        "text_original": "ふむ、このデザイン……参考になるな。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cafe_monolog_5.ogg"
+      },
       {
         "description": "ch0328_cardgame_act_1",
         "category": "event",
@@ -88,7 +124,7 @@
         "description": "ch0328_cardgame_act_2",
         "category": "event",
         "text": "",
-        "text_original": "ハーハッハッハッハ！またあえて嬉しいよ！",
+        "text_original": "ハーハッハッハッハ！またあえて嬉しいよ",
         "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cardgame_act_2.ogg"
       },
       {
@@ -104,6 +140,510 @@
         "text": "",
         "text_original": "ひ、ひ、ひえええぇっ！！！",
         "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_cardgame_act_4.ogg"
+      },
+      {
+        "description": "ch0328_commonskill",
+        "category": "battle",
+        "text": "",
+        "text_original": "プレゼ～ント！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_commonskill.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "プライベートビーチ、か。ブルジョワの極みだな。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_1_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "我々のように理念を持つのはいかがかな？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_1_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "トリニティに数多存在する「潜在的な温泉」――それが未だ埋もれたままでいる。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_2_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "だから、我々が来たのさ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_2_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_3_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ふむ……あれがティーパーティー、か。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_3_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_3_2",
+        "category": "event",
+        "text": "",
+        "text_original": "いいのかね？こうも簡単に接触できて……彼らのSPはどうしたんだ？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_3_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_3_3",
+        "category": "event",
+        "text": "",
+        "text_original": "そんな目で見ないでくれ、先生。別に何もしてやいないさ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_3_3.ogg"
+      },
+      {
+        "description": "ch0328_eventlobby_4",
+        "category": "event",
+        "text": "",
+        "text_original": "ん？なんだ、先生！くすぐったいじゃあないか！っはは！やめたまえよ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlobby_4.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "青い空、広い海！うむ！美しいビーチだ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_1_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ここなら海を一望できる温泉が作れるな！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_1_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "おお、先生？先生じゃあないか！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_2_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "残念ながら温泉はまだできてないぞ？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_2_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "痛いなぁ……まったく、イチカちゃんも少しは手加減してほしいものだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_1_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "私たちの仲だっていうのに……先生もそう思うだろう？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_1_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_2_1",
+        "category": "event",
+        "text": "",
+        "text_original": "――火種が一つ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_2_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_2_2",
+        "category": "event",
+        "text": "",
+        "text_original": "連鎖反応とは、ほんの小さな火種から始まるものさ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_2_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_2_3",
+        "category": "event",
+        "text": "",
+        "text_original": "では――火種を一つ、落としたら。どうなるのか……気になるだろう？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_2_3.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_end_1",
+        "category": "event",
+        "text": "",
+        "text_original": "いやぁ～これは一杯食わされたな！ハーハッハッハッハ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_end_1.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_end_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ん？機嫌が良さそうに見える？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_end_2.ogg"
+      },
+      {
+        "description": "ch0328_eventlogin_season_end_3",
+        "category": "event",
+        "text": "",
+        "text_original": "……そう、見えるんだな？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_eventlogin_season_end_3.ogg"
+      },
+      {
+        "description": "ch0328_exskill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "愉快！痛快！ハーッハッハッハッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exskill_1.ogg"
+      },
+      {
+        "description": "ch0328_exskill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "まるで暴れ牛だな！オ、レ！オ、レ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exskill_2.ogg"
+      },
+      {
+        "description": "ch0328_exskill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "おっと、制御ボタンをつけ忘れてしまったな！ハーッハッハッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exskill_3.ogg"
+      },
+      {
+        "description": "ch0328_exskill_level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "いたた……ハーッハッハッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exskill_level_1.ogg"
+      },
+      {
+        "description": "ch0328_exskill_level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "ぐはっ……！面白いじゃないか！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exskill_level_2.ogg"
+      },
+      {
+        "description": "ch0328_exskill_level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "がはっ……！まあ、こんな時もあるだろう！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exskill_level_3.ogg"
+      },
+      {
+        "description": "ch0328_exweapon_get",
+        "category": "growup",
+        "text": "",
+        "text_original": "リスクは覚悟の上で共にいる、と考えても良いのだな？それなら重畳――地獄行きの片道切符に、最後まで付き合ってもらおうじゃあないか。ハーハッハッハッハ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_exweapon_get.ogg"
+      },
+      {
+        "description": "ch0328_formation_in_1",
+        "category": "formation",
+        "text": "",
+        "text_original": "まだもう１件掘れそうだな！次へ行くぞ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_formation_in_1.ogg"
+      },
+      {
+        "description": "ch0328_formation_in_2",
+        "category": "formation",
+        "text": "",
+        "text_original": "土木？爆破？それとも……？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_formation_in_2.ogg"
+      },
+      {
+        "description": "ch0328_formation_select",
+        "category": "formation",
+        "text": "",
+        "text_original": "ああ！溺れた時もこうしてくれると助かる！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_formation_select.ogg"
+      },
+      {
+        "description": "ch0328_gachaget",
+        "category": "growup",
+        "text": "",
+        "text_original": "……聞こえるかな、火薬が炸裂する音が。火がついた爆弾を止めることはできない――それこそがロマンというものだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_gachaget.ogg"
+      },
+      {
+        "description": "ch0328_growup_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "おや、いいのかな？私にこんなことをして――ひと夏の火傷ではすまないぞ？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_growup_1.ogg"
+      },
+      {
+        "description": "ch0328_growup_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "もらえるものはありがたくいただく主義だが……先生に借りができてしまったな。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_growup_2.ogg"
+      },
+      {
+        "description": "ch0328_growup_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "ここで学んだことを別の場所で活かしても――恨まないでくれよ？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_growup_3.ogg"
+      },
+      {
+        "description": "ch0328_growup_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "これが夏の思い出、というやつかな？胸の奥がスカッとしたよ。ありがとう、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_growup_4.ogg"
+      },
+      {
+        "description": "ch0328_lobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "シャーレ当番は最高だ！追いかけてくる連中がいないからな！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_1_1.ogg"
+      },
+      {
+        "description": "ch0328_lobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まぁ、しかし……道中が不安だがね。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_1_2.ogg"
+      },
+      {
+        "description": "ch0328_lobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "シャーレは良い立地をしている……しかし……",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_2_1.ogg"
+      },
+      {
+        "description": "ch0328_lobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "温泉がないのだけが残念だ……おや、そんな目をしないでくれよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_2_2.ogg"
+      },
+      {
+        "description": "ch0328_lobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "少しずつ燃えていく芯……あれを眺めていると、血が騒ぐんだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_3_1.ogg"
+      },
+      {
+        "description": "ch0328_lobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……花火の話だとも。ハーハッハッハッハ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_3_2.ogg"
+      },
+      {
+        "description": "ch0328_lobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ん？水着を着ているからって泳ぐわけないだろう。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_4_1.ogg"
+      },
+      {
+        "description": "ch0328_lobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……湯船で泳ぐのはマナー違反だからな。披露できなくて残念だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_4_2.ogg"
+      },
+      {
+        "description": "ch0328_lobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "読書？ああ、暇つぶしの一環だ。まあ、趣味と言えないこともないがね。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_5_1.ogg"
+      },
+      {
+        "description": "ch0328_lobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "時は金なり、というだろう？時間は有限だからな。遊んでいてはもったいない。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_lobby_5_2.ogg"
+      },
+      {
+        "description": "ch0328_login_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "おや先生。先に失礼していたよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_login_1_1.ogg"
+      },
+      {
+        "description": "ch0328_login_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ちょっと追われていてね……しばし匿ってはくれないだろうか？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_login_1_2.ogg"
+      },
+      {
+        "description": "ch0328_login_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まさかこんな時に当番とは……いやはや。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_login_2_1.ogg"
+      },
+      {
+        "description": "ch0328_login_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "まぁ、構わないさ。ここにいる限りは追われることはないだろうからな。ハーハッハッハッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_login_2_2.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "知っているだろう？この辺りは治安が悪いんだ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ひと一人消えた程度じゃ、誰も気づかない。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "詰めが甘いよ、先生。一を識って、二を知らず、だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_2.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生が私を助けようとすればするほど…私にとって、良い手駒となる。…",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_3.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_4",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そして――そういうものであればあるほど、手に入れたくなるというのが人の性だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_4.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "私の本性が知りたいと言っていただろう……？感想はいかがかな？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_5_1.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "引き返したいと言っても――もう遅いがね。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_5_2.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_6_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……サプラーイズ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_6_1.ogg"
+      },
+      {
+        "description": "ch0328_memoriallobby_6_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "それっぽかっただろう？そう怖い顔をしないでくれ。冗談だよ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_memoriallobby_6_2.ogg"
+      },
+      {
+        "description": "ch0328_relationship_up_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "おや、これは大変なことになってしまったな。先生のことが気になって仕方がない。面白い変化だ。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_relationship_up_1.ogg"
+      },
+      {
+        "description": "ch0328_relationship_up_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "随分変わった趣味をしているじゃあないか。まあ私にとっては良いことだがな！ハーッハッハッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_relationship_up_2.ogg"
+      },
+      {
+        "description": "ch0328_relationship_up_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "おや、自分が今何をしているのか――理解しているのかな？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_relationship_up_3.ogg"
+      },
+      {
+        "description": "ch0328_relationship_up_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "……私はちゃんと借りを返す性分でね。はてさて、どうしたものか。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_relationship_up_4.ogg"
+      },
+      {
+        "description": "ch0328_season_birthday",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ、今日は私の誕生日だとも！祝ってもらいに来たぞ！いやぁ～なかなか誕生日だというのに落ち着かなくてな！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_birthday.ogg"
+      },
+      {
+        "description": "ch0328_season_birthday_player",
+        "category": "lobby",
+        "text": "",
+        "text_original": "うむ！実にめでたい日だ！遠慮することはない、先生。パーティーをはじめようじゃあないか！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_birthday_player.ogg"
+      },
+      {
+        "description": "ch0328_season_halloween_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ふんふふんふん～今日は愉快な日だな先生！うむ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_halloween_1.ogg"
+      },
+      {
+        "description": "ch0328_season_halloween_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ……そういう日に、するのだがな。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_halloween_2.ogg"
+      },
+      {
+        "description": "ch0328_season_newyear_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あけましておめでとう、先生！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_newyear_1.ogg"
+      },
+      {
+        "description": "ch0328_season_newyear_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "なんだ急に。時節の挨拶は大切だろう？こっちの界隈では特にな。",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_newyear_2.ogg"
+      },
+      {
+        "description": "ch0328_season_xmas_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "クリスマスの時期は寒いからな！温まるものが必要だろう！我ら温泉開発部の出番、というわけだ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_xmas_1.ogg"
+      },
+      {
+        "description": "ch0328_season_xmas_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "そんな顔をするな、先生。我々ほどキヴォトスに貢献している部活は他にないのだぞ？",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/ch0328_season_xmas_2.ogg"
+      },
+      {
+        "description": "CH0328_Title",
+        "category": "lobby",
+        "text": "",
+        "text_original": "うむっ！ブルーアカイブッ！",
+        "file": "https://static.kivo.wiki/voices/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/jp/CH0328_Title.ogg"
       }
     ],
     "voice_cn": [],
@@ -166,61 +706,385 @@
           "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0328_spr_03.png",
           "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0328_spr_99.png"
         ]
+      },
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/kasumi_swimsuit_skill_jp.jpg",
+          "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/kasumi_swimsuit_banner_jp.jpg",
+          "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/kasumi_swimsuit_intro_jp.jpg"
+        ]
       }
     ],
-    "gift_data": null,
-    "furniture": null,
+    "gift_data": [
+      {
+        "id": 56,
+        "favorability": 40
+      },
+      {
+        "id": 70,
+        "favorability": 60
+      },
+      {
+        "id": 76,
+        "favorability": 40
+      },
+      {
+        "id": 96,
+        "favorability": 40
+      },
+      {
+        "id": 43,
+        "favorability": 40
+      },
+      {
+        "id": 87,
+        "favorability": 180
+      },
+      {
+        "id": 68,
+        "favorability": 60
+      },
+      {
+        "id": 128,
+        "favorability": 240
+      }
+    ],
+    "furniture": [
+      2072
+    ],
     "character_datas": [
       {
-        "character_id": 0,
-        "dev_name": "",
+        "character_id": 20061,
+        "dev_name": "CH0328",
         "combat_style": "default",
-        "type": "",
-        "attack_attribute": "",
-        "defensive_attributes": "",
+        "type": "Support",
+        "attack_attribute": "Piercing",
+        "defensive_attributes": "Special",
         "is_groupc_control": false,
-        "team_position": "",
-        "battlefield_position": "",
-        "rarity": 0,
-        "limited": false,
-        "outdoor_adaptability": "",
-        "indoor_adaptability": "",
-        "street_adaptability": "",
-        "equipment": null,
-        "cultivate_material": [],
+        "team_position": "BACK",
+        "battlefield_position": "SPECIAL",
+        "rarity": 3,
+        "limited": true,
+        "outdoor_adaptability": "B",
+        "indoor_adaptability": "S",
+        "street_adaptability": "D",
+        "equipment": [
+          8,
+          10,
+          3
+        ],
+        "cultivate_material": [
+          419,
+          420,
+          421,
+          422,
+          372,
+          373,
+          374,
+          77,
+          80,
+          81,
+          82,
+          158,
+          160,
+          163,
+          165,
+          19
+        ],
         "favorite_equipment": 0,
         "skill": {
-          "ex_skill": [],
-          "passive_skill": []
+          "ex_skill": [
+            {
+              "icon": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/skill_icon/Pj6yUf8uFuRJLgVtbU9CixYFzkM2ldiE.png",
+              "title": "Beat the Drill Beat",
+              "title_cn": "",
+              "preview": "https://static.kivo.wiki/videos/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/skill_preview/ZmjZHtTbdQCWthvFfWpUi16afhXEGNEw.mp4",
+              "max_level": 5,
+              "link_student_id": 0,
+              "is_passive_skill": false,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力331%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加21.6%（持续28秒）<br>之后，对圆形范围内的敌人造成攻击力86.7%的伤害"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力380%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加24.8%（持续28秒）<br>之后，对圆形范围内的敌人造成攻击力99.7%的伤害"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力480%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加31.3%（持续28秒）<br>之后，对圆形范围内的敌人造成攻击力125%的伤害"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力530%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加34.5%（持续28秒）<br>之后，对圆形范围内的敌人造成攻击力138%的伤害"
+                },
+                {
+                  "cost": 3,
+                  "describe": "对1名敌人造成攻击力629%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加41%（持续28秒）<br>之后，对圆形范围内的敌人造成攻击力164%的伤害"
+                }
+              ]
+            }
+          ],
+          "passive_skill": [
+            {
+              "icon": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/skill_icon/AYRi3hKUdKLj7d39Fl53DsF1ZSzmwWwi.png",
+              "title": "「特别」的礼物",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 10,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力126%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加10%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力133%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加10.5%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力139%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加11%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力164%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加13.1%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力171%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加13.6%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力177%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加14.1%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力202%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加16.1%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力209%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加16.6%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力215%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加17.1%（持续27秒）"
+                },
+                {
+                  "cost": 0,
+                  "describe": "每35秒，对1名敌人造成攻击力240%的伤害<br>如目标防御类型为重装甲，在攻击前使其受到的属性克制伤害量增加19.1%（持续27秒）"
+                }
+              ]
+            },
+            {
+              "icon": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/skill_icon/faVXO8Hn8zsrSh8tz5J7h9H2y5TY7OHo.png",
+              "title": "温泉狂热者",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 10,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加14%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加14.7%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加15.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加18.2%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加18.9%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加19.6%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加22.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加23.1%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加23.8%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "攻击力增加26.6%"
+                }
+              ]
+            },
+            {
+              "icon": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/skill_icon/FWTzCQmb0Ntap4DG90UNiCImbbkoW6bi.png",
+              "title": "挺认真的嘛？",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 10,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加15.9%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加16.7%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加17.5%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加20.7%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加21.5%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加22.3%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加25.5%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加26.3%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加27%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "我方的贯穿属性克制倍率增加30.2%"
+                }
+              ]
+            }
+          ]
         },
         "basic": [
           {
-            "max_hp": 0,
-            "attack": 0,
-            "defense": 0,
-            "healing": 0,
-            "accuracy": 0,
-            "evasion": 0,
-            "crit": 0,
-            "crit_res": 0,
-            "crit_dmg": 0,
-            "crit_dmg_res": 0,
-            "stability": 0,
-            "range": 0,
-            "cc_power": 0,
-            "cc_res": 0,
-            "recovery_boost": 0,
-            "mag_count": 0
+            "max_hp": 3284,
+            "attack": 298,
+            "defense": 97,
+            "healing": 2007,
+            "accuracy": 796,
+            "evasion": 1032,
+            "crit": 265,
+            "crit_res": 100,
+            "crit_dmg": 2,
+            "crit_dmg_res": 0.5,
+            "stability": 1076,
+            "range": 1000,
+            "cc_power": 100,
+            "cc_res": 100,
+            "recovery_boost": 1,
+            "mag_count": 1
           }
         ],
         "weapons": {
-          "icon": "",
-          "name": "",
+          "icon": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/weapons_icon.png",
+          "name": "红色莱克特",
           "name_cn": "",
-          "description": "",
+          "description": "霞随身携带的手枪。<br>平日里它的枪声总是被钻头声和爆炸声所淹没，但温泉开发部的工程，正是以这声枪响为始。",
           "description_cn": "",
-          "info": [],
-          "skill": []
+          "info": [
+            {
+              "title": "",
+              "description": ""
+            },
+            {
+              "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+              "description": "「温泉狂热者」升级为「温泉狂热者+」。"
+            },
+            {
+              "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室内适应性 S -> SS",
+              "description": "在室内地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
+            },
+            {
+              "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 COST上限增加",
+              "description": "学生在队伍内时，COST上限增加0.5。"
+            }
+          ],
+          "skill": [
+            {
+              "icon": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/%E6%B3%B3%E8%A3%85/skill_icon/tfmAa0y1jMARB6TO9i0lENVOP6bbbF4z.png",
+              "title": "温泉狂热者+",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 10,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1000，并且攻击力增加14%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1050，并且攻击力增加14.7%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1100，并且攻击力增加15.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1300，并且攻击力增加18.2%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1350，并且攻击力增加18.9%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1400，并且攻击力增加19.6%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1600，并且攻击力增加22.4%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1650，并且攻击力增加23.1%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1700，并且攻击力增加23.8%"
+                },
+                {
+                  "cost": 0,
+                  "describe": "负面效果持续力增加1900，并且攻击力增加26.6%"
+                }
+              ]
+            }
+          ]
         }
       }
     ],
@@ -231,10 +1095,10 @@
     "supplementary_uuid": "d6aa4aa9-a715-4602-b13d-7cddcf74d709",
     "supplementary_declare_uuid": "0e7f3674-7b1b-4458-817a-bac7fc4d17c9",
     "created_at": 1753186236,
-    "updated_at": 1769502242
+    "updated_at": 1788964607
   },
   "message": "OK",
   "success": true,
-  "time": 1788900159,
+  "time": 1788985384,
   "version": "1.0.0-beta.43"
 }

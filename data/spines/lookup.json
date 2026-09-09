@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-09-08T20:44:40Z",
+  "generated_at": "2026-09-09T20:27:02Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1782,
-  "alias_count": 1779,
-  "normalized_alias_count": 1779,
+  "total_items": 1784,
+  "alias_count": 1781,
+  "normalized_alias_count": 1781,
   "by_id": {
     "1": {
       "id": 1,
@@ -23178,6 +23178,32 @@
       },
       "detail_path": "spines/1902.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1902.json"
+    },
+    "1903": {
+      "id": 1903,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1903,
+        "name": "CH0328_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1903.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1903.json"
+    },
+    "1904": {
+      "id": 1904,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1904,
+        "name": "SC221000_01",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1904.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1904.json"
     }
   },
   "by_alias": {
@@ -28520,6 +28546,12 @@
     ],
     "wakamo_mask_spr_HD": [
       "1902"
+    ],
+    "CH0328_home": [
+      "1903"
+    ],
+    "SC221000_01": [
+      "1904"
     ]
   },
   "by_normalized_alias": {
@@ -33862,6 +33894,12 @@
     ],
     "wakamo_mask_spr_hd": [
       "1902"
+    ],
+    "ch0328_home": [
+      "1903"
+    ],
+    "sc221000_01": [
+      "1904"
     ]
   }
 }

@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-09-08T20:44:40Z",
+  "generated_at": "2026-09-09T20:27:02Z",
   "list_key": "timeline",
   "id_key": "id",
-  "max_page": 584,
-  "synced_pages": 584,
-  "total_items": 5840,
+  "max_page": 585,
+  "synced_pages": 585,
+  "total_items": 5844,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -48,6 +48,17 @@
       "url": "x.com/Blue_ArchiveJP/status/2096146476208718020",
       "start_time": 1789574400,
       "end_time": 1790218799
+    },
+    {
+      "id": 6001,
+      "line_type": "CN",
+      "title": "绿、若藻（泳装）、莲华、莲见爱用品新增",
+      "image": "https://static.kivo.wiki/images/timeline/PsYmOCtMDAzeq7fEUBfRG14WCde5Gil5.jpg",
+      "body_summary": "【成员爱用品】即将更新！ 09月10日版本更新后，将新增成员\"绿\"、\"若藻（泳装）\"、\"莲华\"、\"莲见\"的爱用品，通过爱用品可以使对应成员获得属性增加、基础技能提升等加成各种效果，同时还将解锁全新的成",
+      "type": "ContentImprovements",
+      "url": "weibo.com/6011443154/RhhAep7ka",
+      "start_time": 1789034400,
+      "end_time": 1789034400
     },
     {
       "id": 5998,
@@ -116,6 +127,17 @@
       "end_time": 1790229599
     },
     {
+      "id": 6002,
+      "line_type": "CN",
+      "title": "例行维护#65",
+      "image": "https://static.kivo.wiki/images/timeline/8cMT4O3bO5cuQBc4KsLHd8eSu19A5Gpy.jpg",
+      "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 09月10日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+      "type": "Maintenance",
+      "url": "weibo.com/ttarticle/p/show?id=2309405341297430102317",
+      "start_time": 1789020000,
+      "end_time": 1789034400
+    },
+    {
       "id": 5981,
       "line_type": "CN",
       "title": "学院交流会2倍 #32",
@@ -136,6 +158,28 @@
       "url": "x.com/Blue_ArchiveJP/status/2096116233552982396",
       "start_time": 1788937200,
       "end_time": 1788937200
+    },
+    {
+      "id": 5999,
+      "line_type": "Globle",
+      "title": "国际服活动「Balancing Schale's Books with the General Student Council」#18",
+      "image": "https://static.kivo.wiki/images/timeline/ObrGDYp22vfTjH5gq9oGjE5yQFKV7hwO.jpg",
+      "body_summary": "[Mini Event Notice] Balancing Schale's Books with the General Student Council is back! Earn enhancem",
+      "type": "Event",
+      "url": "x.com/EN_BlueArchive/status/2097256127746502930",
+      "start_time": 1788852600,
+      "end_time": 1789437599
+    },
+    {
+      "id": 6000,
+      "line_type": "Globle",
+      "title": "国际服例行维护 #118 延長",
+      "image": "https://static.kivo.wiki/images/timeline/jlqwJ467J1R9uNefY5u4Wd7OTJfgunpx.jpg",
+      "body_summary": "[Extended Maintenance Notice] 9/8 (Tue) Maintenance has been extended, Sensei. ⏰Maintenance is now d",
+      "type": "Maintenance",
+      "url": "x.com/EN_BlueArchive/status/2097199434862047571",
+      "start_time": 1788847200,
+      "end_time": 1788852600
     },
     {
       "id": 5989,
@@ -68345,14 +68389,21 @@
       "path": "timeline/pages/584.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/584.json",
       "item_count": 10
+    },
+    {
+      "page": 585,
+      "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=585",
+      "path": "timeline/pages/585.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/585.json",
+      "item_count": 4
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5809,
-    "normalized_alias_count": 5802,
-    "total_items": 5840
+    "alias_count": 5813,
+    "normalized_alias_count": 5806,
+    "total_items": 5844
   }
 }

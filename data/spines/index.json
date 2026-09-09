@@ -7,13 +7,13 @@
     "api_path": "/data/spines/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/"
   },
-  "generated_at": "2026-09-08T20:44:40Z",
+  "generated_at": "2026-09-09T20:27:02Z",
   "list_key": "spine",
   "id_key": "id",
   "max_page": 179,
   "synced_pages": 179,
-  "total_items": 1782,
-  "details_synced": 1782,
+  "total_items": 1784,
+  "details_synced": 1784,
   "details_enabled": true,
   "items": [
     {
@@ -10707,6 +10707,18 @@
       "name": "wakamo_mask_spr_HD",
       "remark": "面具",
       "type": "spr"
+    },
+    {
+      "id": 1903,
+      "name": "CH0328_home",
+      "remark": "",
+      "type": "home"
+    },
+    {
+      "id": 1904,
+      "name": "SC221000_01",
+      "remark": "",
+      "type": "home"
     }
   ],
   "pages": [
@@ -11961,7 +11973,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/?page=179",
       "path": "spines/pages/179.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/179.json",
-      "item_count": 2
+      "item_count": 4
     }
   ],
   "details": [
@@ -22656,13 +22668,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1902",
       "path": "spines/1902.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1902.json"
+    },
+    {
+      "id": 1903,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1903",
+      "path": "spines/1903.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1903.json"
+    },
+    {
+      "id": 1904,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1904",
+      "path": "spines/1904.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1904.json"
     }
   ],
   "lookup": {
     "path": "spines/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/lookup.json",
-    "alias_count": 1779,
-    "normalized_alias_count": 1779,
-    "total_items": 1782
+    "alias_count": 1781,
+    "normalized_alias_count": 1781,
+    "total_items": 1784
   }
 }

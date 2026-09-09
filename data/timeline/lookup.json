@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-08T20:44:40Z",
+  "generated_at": "2026-09-09T20:27:02Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5840,
-  "alias_count": 5809,
-  "normalized_alias_count": 5802,
+  "total_items": 5844,
+  "alias_count": 5813,
+  "normalized_alias_count": 5806,
   "by_id": {
     "5983": {
       "id": 5983,
@@ -66,6 +66,24 @@
       },
       "detail_path": "timeline/5986.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5986.json"
+    },
+    "6001": {
+      "id": 6001,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6001,
+        "line_type": "CN",
+        "title": "绿、若藻（泳装）、莲华、莲见爱用品新增",
+        "image": "https://static.kivo.wiki/images/timeline/PsYmOCtMDAzeq7fEUBfRG14WCde5Gil5.jpg",
+        "body_summary": "【成员爱用品】即将更新！ 09月10日版本更新后，将新增成员\"绿\"、\"若藻（泳装）\"、\"莲华\"、\"莲见\"的爱用品，通过爱用品可以使对应成员获得属性增加、基础技能提升等加成各种效果，同时还将解锁全新的成",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/RhhAep7ka",
+        "start_time": 1789034400,
+        "end_time": 1789034400
+      },
+      "detail_path": "timeline/6001.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6001.json"
     },
     "5998": {
       "id": 5998,
@@ -175,6 +193,24 @@
       "detail_path": "timeline/5975.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5975.json"
     },
+    "6002": {
+      "id": 6002,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6002,
+        "line_type": "CN",
+        "title": "例行维护#65",
+        "image": "https://static.kivo.wiki/images/timeline/8cMT4O3bO5cuQBc4KsLHd8eSu19A5Gpy.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 09月10日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405341297430102317",
+        "start_time": 1789020000,
+        "end_time": 1789034400
+      },
+      "detail_path": "timeline/6002.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6002.json"
+    },
     "5981": {
       "id": 5981,
       "source_path": "timeline/index.json",
@@ -210,6 +246,42 @@
       },
       "detail_path": "timeline/5987.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5987.json"
+    },
+    "5999": {
+      "id": 5999,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5999,
+        "line_type": "Globle",
+        "title": "国际服活动「Balancing Schale's Books with the General Student Council」#18",
+        "image": "https://static.kivo.wiki/images/timeline/ObrGDYp22vfTjH5gq9oGjE5yQFKV7hwO.jpg",
+        "body_summary": "[Mini Event Notice] Balancing Schale's Books with the General Student Council is back! Earn enhancem",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2097256127746502930",
+        "start_time": 1788852600,
+        "end_time": 1789437599
+      },
+      "detail_path": "timeline/5999.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5999.json"
+    },
+    "6000": {
+      "id": 6000,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6000,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #118 延長",
+        "image": "https://static.kivo.wiki/images/timeline/jlqwJ467J1R9uNefY5u4Wd7OTJfgunpx.jpg",
+        "body_summary": "[Extended Maintenance Notice] 9/8 (Tue) Maintenance has been extended, Sensei. ⏰Maintenance is now d",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2097199434862047571",
+        "start_time": 1788847200,
+        "end_time": 1788852600
+      },
+      "detail_path": "timeline/6000.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6000.json"
     },
     "5989": {
       "id": 5989,
@@ -105144,6 +105216,9 @@
     "活动「夏空のやくそく」复刻": [
       "5986"
     ],
+    "绿、若藻(泳装)、莲华、莲见爱用品新增": [
+      "6001"
+    ],
     "限时限定复刻招募【夏日情愫眉间现】&【吟俳诵句问真心】,限时复刻招募【纵知此景终将逝 离情亦难却】": [
       "5998"
     ],
@@ -105162,11 +105237,20 @@
     "限时活动【百芳丛中独一枝 ~堂堂正正,水上争锋~】介绍PV": [
       "5975"
     ],
+    "例行维护#65": [
+      "6002"
+    ],
     "学院交流会2倍 #32": [
       "5981"
     ],
     "主线剧情第2部 Vol.2「オデュッセイア」篇 第1章「瞳に映る水平線」后篇 更新": [
       "5987"
+    ],
+    "国际服活动「Balancing Schale's Books with the General Student Council」#18": [
+      "5999"
+    ],
+    "国际服例行维护 #118 延長": [
+      "6000"
     ],
     "国际服大决战The Grand Assault - Myouki Kurokage (Urban Warfare) #2": [
       "5989"
@@ -122604,6 +122688,9 @@
     "活动「夏空のやくそく」复刻": [
       "5986"
     ],
+    "绿、若藻(泳装)、莲华、莲见爱用品新增": [
+      "6001"
+    ],
     "限时限定复刻招募【夏日情愫眉间现】&【吟俳诵句问真心】,限时复刻招募【纵知此景终将逝离情亦难却】": [
       "5998"
     ],
@@ -122622,11 +122709,20 @@
     "限时活动【百芳丛中独一枝~堂堂正正,水上争锋~】介绍pv": [
       "5975"
     ],
+    "例行维护#65": [
+      "6002"
+    ],
     "学院交流会2倍#32": [
       "5981"
     ],
     "主线剧情第2部vol.2「オデュッセイア」篇第1章「瞳に映る水平線」后篇更新": [
       "5987"
+    ],
+    "国际服活动「balancingschale'sbookswiththegeneralstudentcouncil」#18": [
+      "5999"
+    ],
+    "国际服例行维护#118延長": [
+      "6000"
     ],
     "国际服大决战thegrandassault-myoukikurokage(urbanwarfare)#2": [
       "5989"
