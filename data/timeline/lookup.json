@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-09T20:27:02Z",
+  "generated_at": "2026-09-10T20:26:36Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5844,
-  "alias_count": 5813,
-  "normalized_alias_count": 5806,
+  "total_items": 5845,
+  "alias_count": 5814,
+  "normalized_alias_count": 5807,
   "by_id": {
     "5983": {
       "id": 5983,
@@ -165,10 +165,10 @@
         "id": 5979,
         "line_type": "CN",
         "title": "限时活动【百芳丛中独一枝 ~堂堂正正，水上争锋~】",
-        "image": "https://static.kivo.wiki/images/timeline/KXexqLEpd4BHxob7svkqPc1SABIeh6Ma.png",
-        "body_summary": "百花缭乱的大家一起参加了【百夜水上节】，这是一场从100人中决出胜者的水上赛事。究竟最终的冠军会花落谁家呢？ 限时活动【百芳丛中独一枝 \\~堂堂正正，水上争锋~】将于09月10日开启！ 介绍PV：ht",
+        "image": "https://static.kivo.wiki/images/timeline/mhz6tE5zqBGVI5orfCCEOvZUo8GQFCHj.png",
+        "body_summary": "百花缭乱的大家一起参加了【百夜水上节】，这是一场从100人中决出胜者的水上赛事。究竟最终的冠军会花落谁家呢？ ■ 活动时间 • 活动持续时间：09月10日 维护结束后 ~ 09月24日 13:59 •",
         "type": "Event",
-        "url": "weibo.com/6011443154/Rgwsng8H8",
+        "url": "bluearchive-cn.com/news/1937",
         "start_time": 1789034400,
         "end_time": 1790229599
       },
@@ -210,6 +210,24 @@
       },
       "detail_path": "timeline/6002.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6002.json"
+    },
+    "6003": {
+      "id": 6003,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6003,
+        "line_type": "CN",
+        "title": "2026教师节礼物",
+        "image": "https://static.kivo.wiki/images/timeline/Na6DHb6oJ9VTg1CnwxKWOgFUR9jJwm0j.jpg",
+        "body_summary": "数字、公式与方程，对被称作“天才”的她们而言，也只是再平常不过的事。 但再耀眼的天才也会遇到解不开的难题，看不清的前路。 而在老师面前，天才也永远愿意做那个举手提问的学生。 ■ 沙勒赠礼 青辉石×60",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/Rhrp5f8ws",
+        "start_time": 1789012800,
+        "end_time": 1789012800
+      },
+      "detail_path": "timeline/6003.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6003.json"
     },
     "5981": {
       "id": 5981,
@@ -105240,6 +105258,9 @@
     "例行维护#65": [
       "6002"
     ],
+    "2026教师节礼物": [
+      "6003"
+    ],
     "学院交流会2倍 #32": [
       "5981"
     ],
@@ -122711,6 +122732,9 @@
     ],
     "例行维护#65": [
       "6002"
+    ],
+    "2026教师节礼物": [
+      "6003"
     ],
     "学院交流会2倍#32": [
       "5981"
