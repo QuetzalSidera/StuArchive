@@ -9,12 +9,12 @@
       "ContentImprovements": 424,
       "Double": 972,
       "Event": 526,
-      "Gacha": 835,
+      "Gacha": 838,
       "Live": 89,
       "MainStory": 132,
       "Maintenance": 453,
       "MiniBattle": 209,
-      "Other": 716,
+      "Other": 717,
       "OtherStory": 67,
       "OutsideGames": 898,
       "Raid": 254,
@@ -22,6 +22,50 @@
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1884,
+        "line_type": "Globle",
+        "title": "国际服引导任务「Arius District Exploration Task」",
+        "image": "https://static.kivo.wiki/images/timeline/BlMX6jL3Q4HKPnjXo07M3zuhsgweeLDZ.jpg",
+        "body_summary": "[11/8 Update Notice] 11/8 (Tue) scheduled maintenance has ended. Update Details: https://m.nexon.com",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1605088107405139970",
+        "start_time": 1671505230,
+        "end_time": 1673924430
+      },
+      {
+        "id": 1277,
+        "line_type": "Globle",
+        "title": "国际服圣诞节礼物",
+        "image": "https://static.kivo.wiki/images/timeline/AKzRdzi8btC46ra8OtrvRWHjN0A4Lxyd.jpg",
+        "body_summary": "[Christmas Gift] We're giving away Christmas gifts every day at 3:00 AM (UTC)! Be sure to check your",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1605093139118559233",
+        "start_time": 1671505223,
+        "end_time": 1672023623
+      },
+      {
+        "id": 1275,
+        "line_type": "Globle",
+        "title": "国际服例行维护28",
+        "image": "",
+        "body_summary": "[12/20 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 12/20 ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1604672877571084288",
+        "start_time": 1671501613,
+        "end_time": 1671523213
+      },
+      {
+        "id": 1274,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍3 学院交流会2倍3",
+        "image": "https://static.kivo.wiki/images/timeline/WkMDXIGaFEqDQQWL4MSm0MdOBSjl7ULS.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 12/19 (Mon), Schedule & Scrimmages rewards will be doubled! ",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1604370881395847168",
+        "start_time": 1671476438,
+        "end_time": 1672081178
+      },
       {
         "id": 522,
         "line_type": "JP",
@@ -87,55 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1602181521875816448",
         "start_time": 1670986800,
         "end_time": 1671010200
-      },
-      {
-        "id": 517,
-        "line_type": "JP",
-        "title": "指名手配2倍#22",
-        "image": "https://static.kivo.wiki/images/timeline/QBowPfvgGW7XtklzDJxWBGfX5x4Z0FB6.jpg",
-        "body_summary": "【キャンペーン予告】 12月14日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 「戦術教育BD」に「戦術ノート」、「オーパーツ」と、生徒さん達の成長に必要",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1601049366768234497",
-        "start_time": 1670961600,
-        "end_time": 1671566399
-      },
-      {
-        "id": 1268,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「When you find Yourself in Need sensei, Ask Me Anything.」",
-        "image": "https://static.kivo.wiki/images/timeline/G1mTuIy40pVWV1bX4504np5HHL9OPtUx.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 12/13 (Tue)! Target Pick Up ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1601504492830203907",
-        "start_time": 1670896827,
-        "end_time": 1671501627
-      },
-      {
-        "id": 1269,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍10",
-        "image": "https://static.kivo.wiki/images/timeline/9qh3Ufn8w6SC7vLSdPjL6QAyRKdqc0kB.jpg",
-        "body_summary": "[Double Drop Campaign Preview] For 7 days from 12/13 (Tue), rewards dropped in Scrimmages will be do",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1601834169000001537",
-        "start_time": 1670896810,
-        "end_time": 1671476350
-      },
-      {
-        "id": 1267,
-        "line_type": "Globle",
-        "title": "国际服卡池「I'll practice turning into a tree to become a great ninja!」",
-        "image": "https://static.kivo.wiki/images/timeline/1hhBnSM76gKx4wdCDbwMrNYvOcakEsAh.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 12/13 (Tue)! Target Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1601501987501137921",
-        "start_time": 1670896802,
-        "end_time": 1671501602
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789080638,
+  "time": 1789166240,
   "version": "1.0.0-beta.43"
 }

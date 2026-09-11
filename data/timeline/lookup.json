@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-10T20:26:36Z",
+  "generated_at": "2026-09-11T20:29:01Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5845,
-  "alias_count": 5814,
-  "normalized_alias_count": 5807,
+  "total_items": 5849,
+  "alias_count": 5818,
+  "normalized_alias_count": 5811,
   "by_id": {
     "5983": {
       "id": 5983,
@@ -66,6 +66,78 @@
       },
       "detail_path": "timeline/5986.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5986.json"
+    },
+    "6006": {
+      "id": 6006,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6006,
+        "line_type": "Globle",
+        "title": "国际服复刻卡池 「Excellent.  All according to plan, More hard-boiled!」「Target confirmed  Later, Sensei.」「Everything's changed since we met.  Not just my look but also my heart.」",
+        "image": "https://static.kivo.wiki/images/timeline/EHsWMOOw9C7MgZqd41FVM5OCLDtGxQiR.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/15 (Tue)! 💌Pick-Up S",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2098313091138138527",
+        "start_time": 1789437600,
+        "end_time": 1790647199
+      },
+      "detail_path": "timeline/6006.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6006.json"
+    },
+    "6005": {
+      "id": 6005,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6005,
+        "line_type": "Globle",
+        "title": "国际服卡池 「...I don't like weeds for their looks.」",
+        "image": "https://static.kivo.wiki/images/timeline/LmB5RjpU3fDeOXXJf9USCLcpzsX6zoZw.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/15 (Tue)! 💌Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2098309315656667282",
+        "start_time": 1789437600,
+        "end_time": 1790647199
+      },
+      "detail_path": "timeline/6005.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6005.json"
+    },
+    "6004": {
+      "id": 6004,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6004,
+        "line_type": "Globle",
+        "title": "国际服卡池 「Prank like it's real! Act like it's a prank」",
+        "image": "https://static.kivo.wiki/images/timeline/K56jI8uP7v0f8Qp8NRJL6HpYZubDSX8U.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 9/15 (Tue)! 💌Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2098305544981451229",
+        "start_time": 1789437600,
+        "end_time": 1790647199
+      },
+      "detail_path": "timeline/6004.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6004.json"
+    },
+    "6007": {
+      "id": 6007,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6007,
+        "line_type": "Globle",
+        "title": "国际服绘里香实装礼物",
+        "image": "https://static.kivo.wiki/images/timeline/6rpotD8phbGXfEayFFWWZP6uDft5SlmV.jpg",
+        "body_summary": "Sensei! Are you excited for your twinkling encounter with Erika? ✨ We prepared a small gift to celeb",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2098313090668646472",
+        "start_time": 1789111800,
+        "end_time": 1791557999
+      },
+      "detail_path": "timeline/6007.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6007.json"
     },
     "6001": {
       "id": 6001,
@@ -105234,6 +105306,18 @@
     "活动「夏空のやくそく」复刻": [
       "5986"
     ],
+    "国际服复刻卡池 「Excellent. All according to plan, More hard-boiled!」「Target confirmed Later, Sensei.」「Everything's changed since we met. Not just my look but also my heart.」": [
+      "6006"
+    ],
+    "国际服卡池 「...I don't like weeds for their looks.」": [
+      "6005"
+    ],
+    "国际服卡池 「Prank like it's real! Act like it's a prank」": [
+      "6004"
+    ],
+    "国际服绘里香实装礼物": [
+      "6007"
+    ],
     "绿、若藻(泳装)、莲华、莲见爱用品新增": [
       "6001"
     ],
@@ -122708,6 +122792,18 @@
     ],
     "活动「夏空のやくそく」复刻": [
       "5986"
+    ],
+    "国际服复刻卡池「excellent.allaccordingtoplan,morehard-boiled!」「targetconfirmedlater,sensei.」「everything'schangedsincewemet.notjustmylookbutalsomyheart.」": [
+      "6006"
+    ],
+    "国际服卡池「...idon'tlikeweedsfortheirlooks.」": [
+      "6005"
+    ],
+    "国际服卡池「pranklikeit'sreal!actlikeit'saprank」": [
+      "6004"
+    ],
+    "国际服绘里香实装礼物": [
+      "6007"
     ],
     "绿、若藻(泳装)、莲华、莲见爱用品新增": [
       "6001"
