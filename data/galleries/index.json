@@ -7,13 +7,13 @@
     "api_path": "/galleries/",
     "upstream_url": "https://api.kivo.wiki/api/v1/galleries/"
   },
-  "generated_at": "2026-09-11T20:29:01Z",
+  "generated_at": "2026-09-12T20:12:32Z",
   "list_key": "gallery",
   "id_key": "id",
   "max_page": 4,
   "synced_pages": 4,
-  "total_items": 37,
-  "details_synced": 37,
+  "total_items": 36,
+  "details_synced": 36,
   "details_enabled": true,
   "items": [
     {
@@ -192,11 +192,6 @@
       "cover": "https://static.kivo.wiki/images/gallery/13/BG_AbandonedCorridor.png"
     },
     {
-      "id": 22,
-      "title": "官方-壁纸&贺图",
-      "cover": "https://static.kivo.wiki/images/gallery/22/01%20%281%29.jpg"
-    },
-    {
       "id": 66,
       "title": "官方日历",
       "cover": "https://static.kivo.wiki/images/gallery/4.%E5%AE%98%E6%96%B9-%E6%97%A5%E6%9C%8D%E5%AD%A6%E7%94%9F%E7%94%9F%E6%97%A5%E6%97%A5%E5%8E%86/202201.jpg"
@@ -229,7 +224,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/galleries/?page=4",
       "path": "galleries/pages/4.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/pages/4.json",
-      "item_count": 7
+      "item_count": 6
     }
   ],
   "details": [
@@ -444,12 +439,6 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/13.json"
     },
     {
-      "id": 22,
-      "upstream_url": "https://api.kivo.wiki/api/v1/galleries/22",
-      "path": "galleries/22.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/22.json"
-    },
-    {
       "id": 66,
       "upstream_url": "https://api.kivo.wiki/api/v1/galleries/66",
       "path": "galleries/66.json",
@@ -459,8 +448,8 @@
   "lookup": {
     "path": "galleries/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/lookup.json",
-    "alias_count": 37,
-    "normalized_alias_count": 37,
-    "total_items": 37
+    "alias_count": 36,
+    "normalized_alias_count": 36,
+    "total_items": 36
   }
 }

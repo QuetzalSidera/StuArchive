@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-09-11T20:29:01Z",
+  "generated_at": "2026-09-12T20:12:32Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 51,
   "synced_pages": 51,
-  "total_items": 505,
-  "details_synced": 505,
+  "total_items": 506,
+  "details_synced": 506,
   "details_enabled": true,
   "items": [
     {
@@ -6593,6 +6593,22 @@
       "main_relation": 0
     },
     {
+      "id": 640,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "萨米",
+      "family_name_jp": "",
+      "given_name_jp": "サミー",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20%E8%90%A8%E7%B1%B3/original/sami-.png",
+      "school": 15,
+      "main_relation": 0
+    },
+    {
       "id": 105,
       "skin": "",
       "skin_jp": "",
@@ -8453,7 +8469,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=51",
       "path": "students/pages/51.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/51.json",
-      "item_count": 5
+      "item_count": 6
     }
   ],
   "details": [
@@ -10924,6 +10940,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/615.json"
     },
     {
+      "id": 640,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/640",
+      "path": "students/640.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/640.json"
+    },
+    {
       "id": 105,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/105",
       "path": "students/105.json",
@@ -11491,9 +11513,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5746,
-    "normalized_alias_count": 3944,
-    "total_items": 505
+    "alias_count": 5748,
+    "normalized_alias_count": 3946,
+    "total_items": 506
   },
   "profiles": [
     {
@@ -13872,6 +13894,11 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/64.json"
     },
     {
+      "id": 640,
+      "path": "students/profiles/640.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/640.json"
+    },
+    {
       "id": 65,
       "path": "students/profiles/65.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/65.json"
@@ -14065,6 +14092,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 513
+    "total_items": 514
   }
 }

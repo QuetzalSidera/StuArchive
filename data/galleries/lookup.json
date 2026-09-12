@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "galleries",
   "description": "Gallery indexes and gallery detail metadata.",
-  "generated_at": "2026-09-11T20:29:01Z",
+  "generated_at": "2026-09-12T20:12:32Z",
   "id_key": "id",
   "source_index": {
     "path": "galleries/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 37,
-  "alias_count": 37,
-  "normalized_alias_count": 37,
+  "total_items": 36,
+  "alias_count": 36,
+  "normalized_alias_count": 36,
   "by_id": {
     "24": {
       "id": 24,
@@ -433,18 +433,6 @@
       "detail_path": "galleries/13.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/13.json"
     },
-    "22": {
-      "id": 22,
-      "source_path": "galleries/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/index.json",
-      "item": {
-        "id": 22,
-        "title": "官方-壁纸&贺图",
-        "cover": "https://static.kivo.wiki/images/gallery/22/01%20%281%29.jpg"
-      },
-      "detail_path": "galleries/22.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/galleries/22.json"
-    },
     "66": {
       "id": 66,
       "source_path": "galleries/index.json",
@@ -564,9 +552,6 @@
     "Y4.AI超分背景图": [
       "13"
     ],
-    "官方-壁纸&贺图": [
-      "22"
-    ],
     "官方日历": [
       "66"
     ]
@@ -676,9 +661,6 @@
     ],
     "y4.ai超分背景图": [
       "13"
-    ],
-    "官方-壁纸&贺图": [
-      "22"
     ],
     "官方日历": [
       "66"

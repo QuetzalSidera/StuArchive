@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-09-11T20:29:01Z",
+  "generated_at": "2026-09-12T20:12:32Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 505,
-  "alias_count": 5746,
-  "normalized_alias_count": 3944,
+  "total_items": 506,
+  "alias_count": 5748,
+  "normalized_alias_count": 3946,
   "by_id": {
     "76": {
       "id": 76,
@@ -10287,6 +10287,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/615.json",
       "profile_path": "students/profiles/615.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/615.json"
+    },
+    "640": {
+      "id": 640,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 640,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "萨米",
+        "family_name_jp": "",
+        "given_name_jp": "サミー",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E8%90%A8%E7%B1%B3/original/sami-.png",
+        "school": 15,
+        "main_relation": 0
+      },
+      "detail_path": "students/640.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/640.json",
+      "profile_path": "students/profiles/640.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/640.json"
     },
     "105": {
       "id": 105,
@@ -30181,6 +30206,12 @@
     "海賊": [
       "615"
     ],
+    "萨米": [
+      "640"
+    ],
+    "サミー": [
+      "640"
+    ],
     "空": [
       "105"
     ],
@@ -42716,6 +42747,12 @@
     ],
     "海賊": [
       "615"
+    ],
+    "萨米": [
+      "640"
+    ],
+    "サミー": [
+      "640"
     ],
     "空": [
       "105"
