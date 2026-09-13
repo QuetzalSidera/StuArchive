@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-12T20:12:32Z",
+  "generated_at": "2026-09-13T20:21:06Z",
   "id": 61,
   "display_name": "龙华 妃咲",
   "names": {
@@ -189,7 +189,7 @@
           "info": [
             {
               "cost": 3,
-              "describe": "使一名我方单位EX技能的伤害量加算42.2%（15秒内）"
+              "describe": "使一名我方单位EX技能的伤害量加算42.4%（15秒内）"
             },
             {
               "cost": 3,
@@ -213,7 +213,7 @@
       "passive_skill": [
         {
           "icon": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/original/skill_icon/FmBIu1spQm2Jhfaqoo5dRKsi5clsBaha.png",
-          "title": "勒令：修身齐家",
+          "title": "敕令：修身齐家",
           "title_cn": "敕令：修身齐家",
           "preview": "",
           "max_level": 10,
@@ -386,7 +386,7 @@
         },
         {
           "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室内适应性 S -> SS",
-          "description": "在室内地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率75%。"
+          "description": "在室内地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率增加75%。"
         },
         {
           "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 COST上限增加",
@@ -1837,7 +1837,7 @@
         "description": "CH0139_Season_Xmas",
         "category": "lobby",
         "text": "圣诞节……嗯，愿你平安度日。我还带了苹果，一起吃吧？",
-        "text_original": "クリスマス……そうじゃな、穏やかな日を過ごしてくれ。リンゴを持ってきが、一緒に食べぬか？",
+        "text_original": "クリスマス……そうじゃな、穏やかな日を過ごしてくれ。リンゴを持ってきたが、一緒に食べぬか？",
         "file": "https://static.kivo.wiki/voices/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/original/jp/CH0139_Season_Xmas.ogg"
       },
       {
@@ -3179,8 +3179,8 @@
   "source": {
     "detail_path": "students/61.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/61.json",
-    "upstream_time": 1789243967,
-    "updated_at": 1788232796,
+    "upstream_time": 1789331295,
+    "updated_at": 1789309763,
     "created_at": 1684825020
   }
 }

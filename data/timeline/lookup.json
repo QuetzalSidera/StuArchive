@@ -2,17 +2,35 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-12T20:12:32Z",
+  "generated_at": "2026-09-13T20:21:06Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5849,
-  "alias_count": 5818,
-  "normalized_alias_count": 5811,
+  "total_items": 5860,
+  "alias_count": 5829,
+  "normalized_alias_count": 5822,
   "by_id": {
+    "6014": {
+      "id": 6014,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6014,
+        "line_type": "JP",
+        "title": "Youtube订阅突破100万人",
+        "image": "https://static.kivo.wiki/images/timeline/WMrFy8kEYpGdkzZOggGPf9qzK5ACFL0j.png",
+        "body_summary": "【公式YouTube登録者数100万人突破】 日頃から『ブルーアーカイブ』公式YouTubeをご覧いただきありがとうございます！ おかげさまで登録者数が100万人を突破したので、感謝を込めて「10回募",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2098245777273549117",
+        "start_time": 1790154000,
+        "end_time": 1790783999
+      },
+      "detail_path": "timeline/6014.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6014.json"
+    },
     "5983": {
       "id": 5983,
       "source_path": "timeline/index.json",
@@ -66,6 +84,78 @@
       },
       "detail_path": "timeline/5986.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5986.json"
+    },
+    "6016": {
+      "id": 6016,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6016,
+        "line_type": "JP",
+        "title": "活动「Say-Bing!」常驻化",
+        "image": "https://static.kivo.wiki/images/timeline/dXg8lyTWvwrcFxuz1quWKSQqcXk1lIxG.png",
+        "body_summary": "【イベント常設化・予告】 2026年9月16日(水) 11:00より、期間限定イベント「Say-Bing!」が常設化されます！ ウォーターパークに派遣されることになったカンナさん、キリノさん、フブキさ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2098970323261829613",
+        "start_time": 1789527600,
+        "end_time": 1789527600
+      },
+      "detail_path": "timeline/6016.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6016.json"
+    },
+    "6015": {
+      "id": 6015,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6015,
+        "line_type": "JP",
+        "title": "大决战：市街地戦・シロ＆クロ #3",
+        "image": "https://static.kivo.wiki/images/timeline/t80wQzGlC6yzXz83CNT35Co99YNSMCSJ.png",
+        "body_summary": "【大決戦・予告】 2026年9月16日(水)11:00より、大決戦「市街地戦・シロ＆クロ」を開幕します！ 今回難易度「Torment」に挑戦できる防御タイプは「軽装備」と「特殊装甲」になります。 生徒",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2098608087074799938",
+        "start_time": 1789527600,
+        "end_time": 1790107199
+      },
+      "detail_path": "timeline/6015.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6015.json"
+    },
+    "6018": {
+      "id": 6018,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6018,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战：赛特之怒 #15",
+        "image": "https://static.kivo.wiki/images/timeline/iRwq8rFim5fssl7ek87OipxgQ6PsSoAg.png",
+        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - The Fury of Set (Defense Type: Speci",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2097943158894084103",
+        "start_time": 1789524000,
+        "end_time": 1791831599
+      },
+      "detail_path": "timeline/6018.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6018.json"
+    },
+    "6008": {
+      "id": 6008,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6008,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #119",
+        "image": "https://static.kivo.wiki/images/timeline/SEezOoXSvIpYE9RCEbefdhT3BUbioNYu.jpg",
+        "body_summary": "[9/15 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 9/15 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2098335749460672922",
+        "start_time": 1789437600,
+        "end_time": 1789452000
+      },
+      "detail_path": "timeline/6008.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6008.json"
     },
     "6006": {
       "id": 6006,
@@ -121,6 +211,24 @@
       "detail_path": "timeline/6004.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6004.json"
     },
+    "6009": {
+      "id": 6009,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6009,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍 #50",
+        "image": "https://static.kivo.wiki/images/timeline/JsARkvAcFaMXjVAonPAvpX8HOzOsLiQP.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 9/14 (Mon), Bounty rewards will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2098667930133172594",
+        "start_time": 1789412400,
+        "end_time": 1790017199
+      },
+      "detail_path": "timeline/6009.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6009.json"
+    },
     "6007": {
       "id": 6007,
       "source_path": "timeline/index.json",
@@ -138,6 +246,42 @@
       },
       "detail_path": "timeline/6007.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6007.json"
+    },
+    "6019": {
+      "id": 6019,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6019,
+        "line_type": "Globle",
+        "title": "国际服主线第二部 Vol.EX 第2章更新",
+        "image": "https://static.kivo.wiki/images/timeline/LESrz3UqqkP8wUVIIkJ2lYrzO80SjIYM.png",
+        "body_summary": "[Main Story Announcement] Ex. Lore Pursuit Chapter 2: What's Inside the Drum Barrel is coming soon, ",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2098290442165211292",
+        "start_time": 1789106400,
+        "end_time": 1789106400
+      },
+      "detail_path": "timeline/6019.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6019.json"
+    },
+    "6010": {
+      "id": 6010,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6010,
+        "line_type": "CN",
+        "title": "【什亭之“响”】修行漫漫，“泉”程有你",
+        "image": "https://static.kivo.wiki/images/timeline/r4kyvRqKN4KjY8AjgQr3MFZoc4zi20JW.jpg",
+        "body_summary": "《蔚蓝档案》【什亭之“响”】修行漫漫，“泉”程有你 想要伤害老师，你们胆子真是肥嘟嘟的！",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV1Q3Yu6aEta/",
+        "start_time": 1789042860,
+        "end_time": 1789042860
+      },
+      "detail_path": "timeline/6010.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6010.json"
     },
     "6001": {
       "id": 6001,
@@ -319,6 +463,24 @@
       "detail_path": "timeline/5981.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5981.json"
     },
+    "6012": {
+      "id": 6012,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6012,
+        "line_type": "JP",
+        "title": "卡池「そして夏は爆破で終わる！」、限定卡池「ただ思惟は夏夜の先にただありて」＆「正しいは波間の煌めきに隠されて」复刻、卡池「緊急浮上 泡影を導べに」＆「監視員、了解。ドーナッツアイス食べたらね」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/dwfcy78ZgqQMjEK25LPhKoFJ3qkRT6kG.png",
+        "body_summary": "【ピックアップ募集・予告】 2026年9月9日(水) メンテナンス後より、ピックアップ募集「そして夏は爆破で終わる！」ならびに、期間限定復刻ピックアップ募集「ただ思惟は夏夜の先にただありて」＆「正しい",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2097188284384575842",
+        "start_time": 1788944400,
+        "end_time": 1790132399
+      },
+      "detail_path": "timeline/6012.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6012.json"
+    },
     "5987": {
       "id": 5987,
       "source_path": "timeline/index.json",
@@ -336,6 +498,78 @@
       },
       "detail_path": "timeline/5987.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5987.json"
+    },
+    "6013": {
+      "id": 6013,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6013,
+        "line_type": "JP",
+        "title": "例行维护#150",
+        "image": "https://static.kivo.wiki/images/timeline/6nlnrujBtROnGGIEe49yQ9JpZ4bkh81Z.png",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年9月9日(水) 11:00 〜 17:00前後 ▼詳細 htt",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2097203422160376062",
+        "start_time": 1788922800,
+        "end_time": 1788944400
+      },
+      "detail_path": "timeline/6013.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6013.json"
+    },
+    "6011": {
+      "id": 6011,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6011,
+        "line_type": "JP",
+        "title": "指名手配2倍#59",
+        "image": "https://static.kivo.wiki/images/timeline/0aNU5He6vGFjLfJLAab69K3rOUM2e37z.png",
+        "body_summary": "【キャンペーン予告】 2026年9月9日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年9月9日(水)4:00 ～ 2026年9月16",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2096796019434684474",
+        "start_time": 1788897600,
+        "end_time": 1789502399
+      },
+      "detail_path": "timeline/6011.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6011.json"
+    },
+    "6017": {
+      "id": 6017,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6017,
+        "line_type": "Globle",
+        "title": "国际服活动常驻化「Rowdy and Cheery」",
+        "image": "https://static.kivo.wiki/images/timeline/2uHhdhIwUeGJleBITWLipGfRGmmiXk5s.png",
+        "body_summary": "[Immortalized Event Notice] The Event Story 'Rowdy and Cheery' has been immortalized today, so you c",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2097252351811707350",
+        "start_time": 1788858000,
+        "end_time": 1788858000
+      },
+      "detail_path": "timeline/6017.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6017.json"
+    },
+    "6020": {
+      "id": 6020,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6020,
+        "line_type": "Globle",
+        "title": "国际服战术对抗赛S11开幕 & 迷你剧情更新「ON AIR: Gehenna(Ep.1-2)」",
+        "image": "https://static.kivo.wiki/images/timeline/kViWxy8BuZGxFFkajEk9vUs2PPnxKrsg.png",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/2097227234599952760",
+        "start_time": 1788854400,
+        "end_time": 1788854400
+      },
+      "detail_path": "timeline/6020.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6020.json"
     },
     "5999": {
       "id": 5999,
@@ -1219,24 +1453,6 @@
       "detail_path": "timeline/5904.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5904.json"
     },
-    "5921": {
-      "id": 5921,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5921,
-        "line_type": "Globle",
-        "title": "国际服热修复补丁#3",
-        "image": "https://static.kivo.wiki/images/timeline/bXBy0OjcBcPNtfxBcTjplrgJQajZVmqb.jpg",
-        "body_summary": "[8/20 Data Patch Notice] We will be having a quick data patch on 8/20 (Thu) for content update. The ",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2090388052439175202",
-        "start_time": 1787223900,
-        "end_time": 1787223900
-      },
-      "detail_path": "timeline/5921.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5921.json"
-    },
     "5933": {
       "id": 5933,
       "source_path": "timeline/index.json",
@@ -1453,24 +1669,6 @@
       "detail_path": "timeline/5920.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5920.json"
     },
-    "5918": {
-      "id": 5918,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5918,
-        "line_type": "Globle",
-        "title": "国际服热补丁修复#2",
-        "image": "https://static.kivo.wiki/images/timeline/pMLDlgvoQDgXjXZ83vjnYxj0QiGnR1hr.jpg",
-        "body_summary": "[8/19 Data Patch Notice] We will be having a quick data patch on 8/19 (Wed) for content update. The ",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2089948456794394699",
-        "start_time": 1787117506,
-        "end_time": 1787117506
-      },
-      "detail_path": "timeline/5918.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5918.json"
-    },
     "5917": {
       "id": 5917,
       "source_path": "timeline/index.json",
@@ -1579,60 +1777,6 @@
       "detail_path": "timeline/5817.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5817.json"
     },
-    "5914": {
-      "id": 5914,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5914,
-        "line_type": "Globle",
-        "title": "国际服主线第2部序章更新",
-        "image": "https://static.kivo.wiki/images/timeline/Hjinty3GHnzC6jbCOjMhwz7XInc2Xdc1.jpg",
-        "body_summary": "[Main Story Announcement] Main Story Act 2 Prologue is coming soon, Sensei! Please look forward to i",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/2088143581043363922",
-        "start_time": 1787065722,
-        "end_time": 0
-      },
-      "detail_path": "timeline/5914.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5914.json"
-    },
-    "5913": {
-      "id": 5913,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5913,
-        "line_type": "Globle",
-        "title": "国际服主线第2部 Vol.0 第一章更新",
-        "image": "https://static.kivo.wiki/images/timeline/CRtFgVDQhYzhcZr2JA5Dxkh7fDFXBPpV.jpg",
-        "body_summary": "[Main Story Announcement] Main Story Act 2, Vol 0. General Student Council Chapter 1: A Spring Day F",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/2088201567833083965",
-        "start_time": 1787065622,
-        "end_time": 0
-      },
-      "detail_path": "timeline/5913.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5913.json"
-    },
-    "5912": {
-      "id": 5912,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5912,
-        "line_type": "Globle",
-        "title": "国际服主线第二部 Vol.EX 第1章更新",
-        "image": "https://static.kivo.wiki/images/timeline/6F8d3O4rWvIxaBckI3zCPUEtUzH3vN6o.jpg",
-        "body_summary": "Ex. Lore Pursuit Chapter 1: High Noon Haze is coming soon, Sensei! Please look forward to it! #BlueA",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/2088151131453317145",
-        "start_time": 1787065178,
-        "end_time": 0
-      },
-      "detail_path": "timeline/5912.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5912.json"
-    },
     "5965": {
       "id": 5965,
       "source_path": "timeline/index.json",
@@ -1686,6 +1830,60 @@
       },
       "detail_path": "timeline/5916.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5916.json"
+    },
+    "5914": {
+      "id": 5914,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5914,
+        "line_type": "Globle",
+        "title": "国际服主线第2部序章更新",
+        "image": "https://static.kivo.wiki/images/timeline/Hjinty3GHnzC6jbCOjMhwz7XInc2Xdc1.jpg",
+        "body_summary": "[Main Story Announcement] Main Story Act 2 Prologue is coming soon, Sensei! Please look forward to i",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088143581043363922",
+        "start_time": 1787032800,
+        "end_time": 1787032800
+      },
+      "detail_path": "timeline/5914.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5914.json"
+    },
+    "5913": {
+      "id": 5913,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5913,
+        "line_type": "Globle",
+        "title": "国际服主线第2部 Vol.0 第一章更新",
+        "image": "https://static.kivo.wiki/images/timeline/CRtFgVDQhYzhcZr2JA5Dxkh7fDFXBPpV.jpg",
+        "body_summary": "[Main Story Announcement] Main Story Act 2, Vol 0. General Student Council Chapter 1: A Spring Day F",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088201567833083965",
+        "start_time": 1787032800,
+        "end_time": 1787032800
+      },
+      "detail_path": "timeline/5913.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5913.json"
+    },
+    "5912": {
+      "id": 5912,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 5912,
+        "line_type": "Globle",
+        "title": "国际服主线第二部 Vol.EX 第1章更新",
+        "image": "https://static.kivo.wiki/images/timeline/6F8d3O4rWvIxaBckI3zCPUEtUzH3vN6o.jpg",
+        "body_summary": "Ex. Lore Pursuit Chapter 1: High Noon Haze is coming soon, Sensei! Please look forward to it! #BlueA",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2088151131453317145",
+        "start_time": 1787032800,
+        "end_time": 1787032800
+      },
+      "detail_path": "timeline/5912.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5912.json"
     },
     "5896": {
       "id": 5896,
@@ -11299,24 +11497,6 @@
       "detail_path": "timeline/5399.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5399.json"
     },
-    "5292": {
-      "id": 5292,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 5292,
-        "line_type": "Globle",
-        "title": "国际服热补丁修复",
-        "image": "https://static.kivo.wiki/images/timeline/Af1CONCqafJEejRF4EYAy5REEKU1qUTT.jpg",
-        "body_summary": "[4/8 Data Patch Notice] We will be having a quick data patch (hotfix) on 4/8 (Wed). The game will be",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2041744330088677576",
-        "start_time": 1775628300,
-        "end_time": 1775628300
-      },
-      "detail_path": "timeline/5292.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5292.json"
-    },
     "5298": {
       "id": 5298,
       "source_path": "timeline/index.json",
@@ -12342,6 +12522,24 @@
       },
       "detail_path": "timeline/5241.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5241.json"
+    },
+    "6021": {
+      "id": 6021,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6021,
+        "line_type": "Globle",
+        "title": "国际服战术对抗赛S10开幕",
+        "image": "https://static.kivo.wiki/images/timeline/G2PjpPxrbzmL7RkbLqVkTViiaf5izcU8.png",
+        "body_summary": "",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/2036307541639176321",
+        "start_time": 1774339200,
+        "end_time": 1774339200
+      },
+      "detail_path": "timeline/6021.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6021.json"
     },
     "5252": {
       "id": 5252,
@@ -105297,6 +105495,9 @@
     }
   },
   "by_alias": {
+    "Youtube订阅突破100万人": [
+      "6014"
+    ],
     "任务(困难难度)2倍 #28": [
       "5983"
     ],
@@ -105305,6 +105506,18 @@
     ],
     "活动「夏空のやくそく」复刻": [
       "5986"
+    ],
+    "活动「Say-Bing!」常驻化": [
+      "6016"
+    ],
+    "大决战:市街地戦・シロ&クロ #3": [
+      "6015"
+    ],
+    "国际服制约解除作战:赛特之怒 #15": [
+      "6018"
+    ],
+    "国际服例行维护 #119": [
+      "6008"
     ],
     "国际服复刻卡池 「Excellent. All according to plan, More hard-boiled!」「Target confirmed Later, Sensei.」「Everything's changed since we met. Not just my look but also my heart.」": [
       "6006"
@@ -105315,8 +105528,17 @@
     "国际服卡池 「Prank like it's real! Act like it's a prank」": [
       "6004"
     ],
+    "国际服指名手配2倍 #50": [
+      "6009"
+    ],
     "国际服绘里香实装礼物": [
       "6007"
+    ],
+    "国际服主线第二部 Vol.EX 第2章更新": [
+      "6019"
+    ],
+    "【什亭之“响”】修行漫漫,“泉”程有你": [
+      "6010"
     ],
     "绿、若藻(泳装)、莲华、莲见爱用品新增": [
       "6001"
@@ -105348,8 +105570,23 @@
     "学院交流会2倍 #32": [
       "5981"
     ],
+    "卡池「そして夏は爆破で終わる!」、限定卡池「ただ思惟は夏夜の先にただありて」&「正しいは波間の煌めきに隠されて」复刻、卡池「緊急浮上 泡影を導べに」&「監視員、了解。ドーナッツアイス食べたらね」复刻": [
+      "6012"
+    ],
     "主线剧情第2部 Vol.2「オデュッセイア」篇 第1章「瞳に映る水平線」后篇 更新": [
       "5987"
+    ],
+    "例行维护#150": [
+      "6013"
+    ],
+    "指名手配2倍#59": [
+      "6011"
+    ],
+    "国际服活动常驻化「Rowdy and Cheery」": [
+      "6017"
+    ],
+    "国际服战术对抗赛S11开幕 & 迷你剧情更新「ON AIR: Gehenna(Ep.1-2)」": [
+      "6020"
     ],
     "国际服活动「Balancing Schale's Books with the General Student Council」#18": [
       "5999"
@@ -105498,9 +105735,6 @@
     "【百花缭乱篇】第2章Part1(01~15话)更新": [
       "5904"
     ],
-    "国际服热修复补丁#3": [
-      "5921"
-    ],
     "C108特别动画公开": [
       "5933"
     ],
@@ -105537,9 +105771,6 @@
     "国际服MV《KAGEROU》 发布": [
       "5920"
     ],
-    "国际服热补丁修复#2": [
-      "5918"
-    ],
     "国际服违规账号封禁#69": [
       "5917"
     ],
@@ -105558,15 +105789,6 @@
     "特别依赖3倍#20": [
       "5817"
     ],
-    "国际服主线第2部序章更新": [
-      "5914"
-    ],
-    "国际服主线第2部 Vol.0 第一章更新": [
-      "5913"
-    ],
-    "国际服主线第二部 Vol.EX 第1章更新": [
-      "5912"
-    ],
     "国际服网页活动「Who Let The Fox Out?」": [
       "5965"
     ],
@@ -105575,6 +105797,15 @@
     ],
     "国际服例行维护#117 延长": [
       "5916"
+    ],
+    "国际服主线第2部序章更新": [
+      "5914"
+    ],
+    "国际服主线第2部 Vol.0 第一章更新": [
+      "5913"
+    ],
+    "国际服主线第二部 Vol.EX 第1章更新": [
+      "5912"
     ],
     "国际服例行维护 #117": [
       "5896"
@@ -107179,9 +107410,6 @@
     "《蔚蓝档案》【今日几分甜】有你的四月": [
       "5399"
     ],
-    "国际服热补丁修复": [
-      "5292"
-    ],
     "国际服红冬推特贴集赞小活动 #1": [
       "5298"
     ],
@@ -107352,6 +107580,9 @@
     ],
     "国际服活动「Radiant Moon, Raucous Dream」复刻": [
       "5241"
+    ],
+    "国际服战术对抗赛S10开幕": [
+      "6021"
     ],
     "国际服违规账号封禁 #59": [
       "5252"
@@ -122784,6 +123015,9 @@
     ]
   },
   "by_normalized_alias": {
+    "youtube订阅突破100万人": [
+      "6014"
+    ],
     "任务(困难难度)2倍#28": [
       "5983"
     ],
@@ -122792,6 +123026,18 @@
     ],
     "活动「夏空のやくそく」复刻": [
       "5986"
+    ],
+    "活动「say-bing!」常驻化": [
+      "6016"
+    ],
+    "大决战:市街地戦・シロ&クロ#3": [
+      "6015"
+    ],
+    "国际服制约解除作战:赛特之怒#15": [
+      "6018"
+    ],
+    "国际服例行维护#119": [
+      "6008"
     ],
     "国际服复刻卡池「excellent.allaccordingtoplan,morehard-boiled!」「targetconfirmedlater,sensei.」「everything'schangedsincewemet.notjustmylookbutalsomyheart.」": [
       "6006"
@@ -122802,8 +123048,17 @@
     "国际服卡池「pranklikeit'sreal!actlikeit'saprank」": [
       "6004"
     ],
+    "国际服指名手配2倍#50": [
+      "6009"
+    ],
     "国际服绘里香实装礼物": [
       "6007"
+    ],
+    "国际服主线第二部vol.ex第2章更新": [
+      "6019"
+    ],
+    "【什亭之“响”】修行漫漫,“泉”程有你": [
+      "6010"
     ],
     "绿、若藻(泳装)、莲华、莲见爱用品新增": [
       "6001"
@@ -122835,8 +123090,23 @@
     "学院交流会2倍#32": [
       "5981"
     ],
+    "卡池「そして夏は爆破で終わる!」、限定卡池「ただ思惟は夏夜の先にただありて」&「正しいは波間の煌めきに隠されて」复刻、卡池「緊急浮上泡影を導べに」&「監視員、了解。ドーナッツアイス食べたらね」复刻": [
+      "6012"
+    ],
     "主线剧情第2部vol.2「オデュッセイア」篇第1章「瞳に映る水平線」后篇更新": [
       "5987"
+    ],
+    "例行维护#150": [
+      "6013"
+    ],
+    "指名手配2倍#59": [
+      "6011"
+    ],
+    "国际服活动常驻化「rowdyandcheery」": [
+      "6017"
+    ],
+    "国际服战术对抗赛s11开幕&迷你剧情更新「onair:gehenna(ep.1-2)」": [
+      "6020"
     ],
     "国际服活动「balancingschale'sbookswiththegeneralstudentcouncil」#18": [
       "5999"
@@ -122985,9 +123255,6 @@
     "【百花缭乱篇】第2章part1(01~15话)更新": [
       "5904"
     ],
-    "国际服热修复补丁#3": [
-      "5921"
-    ],
     "c108特别动画公开": [
       "5933"
     ],
@@ -123024,9 +123291,6 @@
     "国际服mv《kagerou》发布": [
       "5920"
     ],
-    "国际服热补丁修复#2": [
-      "5918"
-    ],
     "国际服违规账号封禁#69": [
       "5917"
     ],
@@ -123045,15 +123309,6 @@
     "特别依赖3倍#20": [
       "5817"
     ],
-    "国际服主线第2部序章更新": [
-      "5914"
-    ],
-    "国际服主线第2部vol.0第一章更新": [
-      "5913"
-    ],
-    "国际服主线第二部vol.ex第1章更新": [
-      "5912"
-    ],
     "国际服网页活动「wholetthefoxout?」": [
       "5965"
     ],
@@ -123062,6 +123317,15 @@
     ],
     "国际服例行维护#117延长": [
       "5916"
+    ],
+    "国际服主线第2部序章更新": [
+      "5914"
+    ],
+    "国际服主线第2部vol.0第一章更新": [
+      "5913"
+    ],
+    "国际服主线第二部vol.ex第1章更新": [
+      "5912"
     ],
     "国际服例行维护#117": [
       "5896"
@@ -124666,9 +124930,6 @@
     "《蔚蓝档案》【今日几分甜】有你的四月": [
       "5399"
     ],
-    "国际服热补丁修复": [
-      "5292"
-    ],
     "国际服红冬推特贴集赞小活动#1": [
       "5298"
     ],
@@ -124839,6 +125100,9 @@
     ],
     "国际服活动「radiantmoon,raucousdream」复刻": [
       "5241"
+    ],
+    "国际服战术对抗赛s10开幕": [
+      "6021"
     ],
     "国际服违规账号封禁#59": [
       "5252"
