@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4319,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #90",
+        "image": "https://static.kivo.wiki/images/timeline/MNOP4LAHPdfC2TjgFfyvTDze6wLtzA8g.jpg",
+        "body_summary": "[8/5 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/5 (Tue). 🗓️Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1951206285069738466",
+        "start_time": 1754359200,
+        "end_time": 1754377200
+      },
       {
         "id": 4317,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1096742235063451656",
         "start_time": 1754193600,
         "end_time": 1754193600
-      },
-      {
-        "id": 4331,
-        "line_type": "CN",
-        "title": "《蔚蓝档案》二周年庆典",
-        "image": "https://static.kivo.wiki/images/timeline/ccEMgoIxlPAWubwdD4TjUMJUF7eqjWFe.png",
-        "body_summary": "老师老师，沙勒入职二周年快乐！ 无论是学院的欢声笑语亦或是基沃托斯大小危机的解决都离不开老师的陪伴与指引，日常的点滴也正因老师的存在而意义非凡！",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/1096728617819308036",
-        "start_time": 1754190420,
-        "end_time": 1754190420
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338526,
+  "time": 1789428255,
   "version": "1.0.0-beta.43"
 }

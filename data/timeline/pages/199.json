@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3903,
+        "line_type": "CN",
+        "title": "限时活动【寻找隐藏的遗产~崔尼蒂的课外活动~】",
+        "image": "https://static.kivo.wiki/images/timeline/ELRVvrd0w49rwYpXHODXIKomUxyXFTWO.jpg",
+        "body_summary": "限时活动【寻找隐藏的遗产\\~崔尼蒂的课外活动~】现已开启！ 偷偷复制姐妹会的经典却被发现的忧，在花子的仲裁下（？）接下了调查遗迹的任务……一场横冲直撞的遗迹探险记在崔尼蒂近海的无人岛上演！ ■ 给老师",
+        "type": "Event",
+        "url": "weibo.com/6011443154/PoL5pm2JA",
+        "start_time": 1745488800,
+        "end_time": 1746856799
+      },
       {
         "id": 3902,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/PoL7rh4B1",
         "start_time": 1745487300,
         "end_time": 1745487300
-      },
-      {
-        "id": 3930,
-        "line_type": "CN",
-        "title": "例行维护 #36",
-        "image": "https://static.kivo.wiki/images/timeline/zZFAlyeHDqjvB538HNjuPm9o6xgeK2Fz.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月24日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405158623734006199",
-        "start_time": 1745474400,
-        "end_time": 1745488800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338570,
+  "time": 1789428294,
   "version": "1.0.0-beta.43"
 }

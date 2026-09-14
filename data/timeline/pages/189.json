@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4038,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习 #34",
+        "image": "https://static.kivo.wiki/images/timeline/qhYAC7jl9HYRNMWs5mw75G9XiBlChX42.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Breakthrough Drill) will start on 5/27 (Tue)! #",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1925151368983298460",
+        "start_time": 1748335701,
+        "end_time": 1748940501
+      },
       {
         "id": 4048,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1428",
         "start_time": 1747911600,
         "end_time": 1748480340
-      },
-      {
-        "id": 4014,
-        "line_type": "JP",
-        "title": "制约解除决战：Chokmah #4",
-        "image": "https://static.kivo.wiki/images/timeline/47x14BHlyfLrhLd6AwLe2KeZHSWnnsNY.jpg",
-        "body_summary": "【新情報⑧】 5月22日(木)11:00より、制約解除決戦「コクマー」が開催されます！ 今回開催される「コクマー」の防御タイプは「重装甲」となります！ ▼開催期間 2025/5/22(木) 11:00",
-        "type": "MiniBattle",
-        "url": "x.com/Blue_ArchiveJP/status/1924062731935924231",
-        "start_time": 1747882800,
-        "end_time": 1750795199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338559,
+  "time": 1789428284,
   "version": "1.0.0-beta.43"
 }

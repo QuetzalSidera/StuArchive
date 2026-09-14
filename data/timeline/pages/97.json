@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5727,
+        "line_type": "CN",
+        "title": "特别委托3倍 #16",
+        "image": "https://static.kivo.wiki/images/timeline/F1EY9sZeYYyRiAhcEko09NR2RZOY52Rw.jpg",
+        "body_summary": "【道具掉落量3倍活动】更新预告 【任务（普通难度）】道具掉落量3倍 开启时间：01月15日 04:00 ~ 01月19日 03:59 【任务（困难难度）】道具掉落量3倍 开启时间：01月19日 04:",
+        "type": "Double",
+        "url": "bluearchive-cn.com/news/1667",
+        "start_time": 1769025600,
+        "end_time": 1769630399
+      },
       {
         "id": 4931,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2013159804592873807",
         "start_time": 1768911683,
         "end_time": 1769343683
-      },
-      {
-        "id": 4962,
-        "line_type": "JP",
-        "title": " 悠星氪金中心连携",
-        "image": "https://static.kivo.wiki/images/timeline/lbPEWHystZrxigox4Y6uGqhzVETCj8zQ.png",
-        "body_summary": "2026年1月20日(火) メンテナンス後より、「Yostar Gamesチャージセンター」に『ブルーアーカイブ』が追加されます。 「Yostar ID」をお持ちの方は、特設サイト「Yostar Ga",
-        "type": "Other",
-        "url": "bluearchive.jp/help/list?type=push&id=sO3TnXtwE",
-        "start_time": 1768906683,
-        "end_time": 1768906683
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338456,
+  "time": 1789428194,
   "version": "1.0.0-beta.43"
 }

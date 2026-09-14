@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5705,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍 #14",
+        "image": "https://static.kivo.wiki/images/timeline/IHLoLIRi0YFVRKUooWAQkBZVJuzguZOS.jpg",
+        "body_summary": "【道具掉落量3倍活动】更新预告 【悬赏通缉】道具掉落量3倍 开启时间：07月17日 04:00 ~ 07月24日 03:59 【任务（普通难度）】道具掉落量3倍 开启时间：07月17日 04:00 ~",
+        "type": "Double",
+        "url": "bluearchive-cn.com/news/1467",
+        "start_time": 1752696000,
+        "end_time": 1753041599
+      },
       {
         "id": 4144,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1943928314550530252",
         "start_time": 1752476400,
         "end_time": 1752821999
-      },
-      {
-        "id": 4250,
-        "line_type": "JP",
-        "title": "满小剧场 #01",
-        "image": "https://static.kivo.wiki/images/timeline/YRXxmALs5WxOiSjLQA0Fjn8258023pdw.png",
-        "body_summary": "【#ちょ～っとお時間貰っちゃうねぇ】 先生、おはようございます♪ さて、今日もお仕事を… おや？遠くから先生を呼ぶ声が聞こえてきますよ！ ▽動画はこちら https://youtube.com/sho",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1944533549006127612",
-        "start_time": 1752467653,
-        "end_time": 1752467653
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338539,
+  "time": 1789428267,
   "version": "1.0.0-beta.43"
 }

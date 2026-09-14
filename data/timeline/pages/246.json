@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3490,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #75",
+        "image": "",
+        "body_summary": "[12/24 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 12/24 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1870031392425574842",
+        "start_time": 1735005600,
+        "end_time": 1735016400
+      },
       {
         "id": 5095,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1870849274352681314",
         "start_time": 1734883200,
         "end_time": 1734883200
-      },
-      {
-        "id": 3444,
-        "line_type": "JP",
-        "title": "「青春あんさんぶる Vol.8」流媒体发行",
-        "image": "https://static.kivo.wiki/images/timeline/hTmqS91iIZ8KvPR4q7MyiRlAbM7rEg66.jpg",
-        "body_summary": "配信開始】 先生！ 「青春あんさんぶるシリーズ」の第8弾が配信開始されました！ 今回はSRT特殊学園のRABBIT小隊の皆さんです！ 曲名は「進み続ける兎たち」 4人の名字が入った歌い出し……。 是非",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1870848519705067696",
-        "start_time": 1734883200,
-        "end_time": 1734883200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338622,
+  "time": 1789428341,
   "version": "1.0.0-beta.43"
 }

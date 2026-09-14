@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5528,
+        "line_type": "JP",
+        "title": "特别依赖2倍#68",
+        "image": "https://static.kivo.wiki/images/timeline/mKUZmlBuggitfgz9J9ptykszdpWaCvwt.png",
+        "body_summary": "【キャンペーン予告】 2026年6月3日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年6月3日(水) 4:00 ～ 2026年6月1",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2061644439265886399",
+        "start_time": 1780430400,
+        "end_time": 1781035140
+      },
       {
         "id": 5534,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2060285435453264202",
         "start_time": 1780081276,
         "end_time": 1780253956
-      },
-      {
-        "id": 5511,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍 #48",
-        "image": "https://static.kivo.wiki/images/timeline/bWWHzmPxbwqiEH3zEcN9tajHRvaopVXr.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 5/29 (Fri)! Don't m",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2060254821416931485",
-        "start_time": 1780068436,
-        "end_time": 1780241236
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338397,
+  "time": 1789428139,
   "version": "1.0.0-beta.43"
 }

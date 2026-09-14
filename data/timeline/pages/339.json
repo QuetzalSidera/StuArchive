@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2501,
+        "line_type": "Globle",
+        "title": "国际服活动「A certain Scientific Record of Youth」",
+        "image": "https://static.kivo.wiki/images/timeline/EBFwd8ZGqx6RLBII6irvA15zw7rEs4Pq.jpg",
+        "body_summary": "[Event Preview] Some mysterious students claiming to be from another world appeared suddenly in the ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1783752873341227088",
+        "start_time": 1714471218,
+        "end_time": 1715652018
+      },
       {
         "id": 2543,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1781627039080128814",
         "start_time": 1714161602,
         "end_time": 1714420742
-      },
-      {
-        "id": 2504,
-        "line_type": "Globle",
-        "title": "国际服2.5周年直播礼物",
-        "image": "https://static.kivo.wiki/images/timeline/N1P2UtjMidTibNIuxUPQ9ZmU8qLgMBCl.jpg",
-        "body_summary": "[2.5-Year Anniversary - Kivotos Live Special Gift] Schale has prepared a special gift for Sensei who",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1783813784664236095",
-        "start_time": 1714122397,
-        "end_time": 1714122397
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338725,
+  "time": 1789428435,
   "version": "1.0.0-beta.43"
 }

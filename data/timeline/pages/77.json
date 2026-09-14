@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5187,
+        "line_type": "Globle",
+        "title": "国际服大决战Shiro & Kuro (Indoor) #4",
+        "image": "https://static.kivo.wiki/images/timeline/r2ku34c7SGWP8StdPZWBR3i2wQunXFzT.jpg",
+        "body_summary": "[Grand Assault Open Notice] The Grand Assault - Shiro & Kuro (Indoor Warfare) has opened 3/3 (Tue) 2",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/2028782858362573259",
+        "start_time": 1772503200,
+        "end_time": 1773107999
+      },
       {
         "id": 5186,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1173541404250472457",
         "start_time": 1772241616,
         "end_time": 1772673616
-      },
-      {
-        "id": 5149,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍 #41",
-        "image": "https://static.kivo.wiki/images/timeline/AO6lUhG0Wg57mbh0V7Ja8UwemTQoQY3A.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/27 (Fri)! Don't m",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2027285070546112684",
-        "start_time": 1772218800,
-        "end_time": 1772391599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338434,
+  "time": 1789428174,
   "version": "1.0.0-beta.43"
 }

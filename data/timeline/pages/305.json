@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2858,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒 #5",
+        "image": "https://static.kivo.wiki/images/timeline/VEtffshHabzfiUrV2NgUXQy026JOJ3QW.jpg",
+        "body_summary": "【新情報⑮】 7月23日(火)11:00より、制約解除決戦「セトの憤怒」が開催されます！ 今回開催される「セトの憤怒」の防御タイプは「特殊装甲」となります！ ▼開催期間 2024/7/23(火) 11",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1815002699030507691",
+        "start_time": 1721703600,
+        "end_time": 1724183940
+      },
       {
         "id": 2882,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1815004688498278541",
         "start_time": 1721646000,
         "end_time": 1721646000
-      },
-      {
-        "id": 2861,
-        "line_type": "JP",
-        "title": "语音鉴赏功能字幕追加",
-        "image": "https://static.kivo.wiki/images/timeline/3F7cNRoC8pnYgORroTbSsL5xv8y2utoC.jpg",
-        "body_summary": "【新情報⑱】 7月22日(月)メンテナンス後、「CV鑑賞モード」に「字幕」が追加されます！ 今後はCV鑑賞モードで音声が再生される際に「字幕」が表示されるようになりますよ！ ※なお、「字幕」はオプショ",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1815004061005193265",
-        "start_time": 1721646000,
-        "end_time": 1721646000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338687,
+  "time": 1789428401,
   "version": "1.0.0-beta.43"
 }

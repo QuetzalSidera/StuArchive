@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1003,
+        "line_type": "Globle",
+        "title": "国际服卡池「... What do I worry about? Being too average I guess ...?」",
+        "image": "https://static.kivo.wiki/images/timeline/5JsBYvPYNnm6kljIpccXqIcqmLjugjUZ.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 2/8 (Tue)! Target Pick-Up Stud",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1489886523541508096",
+        "start_time": 1644303600,
+        "end_time": 1645498800
+      },
       {
         "id": 1002,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1488437090547208194",
         "start_time": 1643745600,
         "end_time": 1644091199
-      },
-      {
-        "id": 1001,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁6",
-        "image": "",
-        "body_summary": "[2/1(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the in",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1488395985101352961",
-        "start_time": 1643725020,
-        "end_time": 1643725020
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338955,
+  "time": 1789428641,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5511,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍 #48",
+        "image": "https://static.kivo.wiki/images/timeline/bWWHzmPxbwqiEH3zEcN9tajHRvaopVXr.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 5/29 (Fri)! Don't m",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2060254821416931485",
+        "start_time": 1780068436,
+        "end_time": 1780241236
+      },
       {
         "id": 5506,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1810",
         "start_time": 1779958800,
         "end_time": 1780552799
-      },
-      {
-        "id": 5491,
-        "line_type": "CN",
-        "title": "圣娅 &明日奈（制服）& 花凛（制服）家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/5s4RjSQXEhgt0JlVC2GWgZeRtt3DfNlk.gif",
-        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 05月28日 维护结束后 ■ 互动更新 • 圣娅 & 茶话会桌子 纯白与镂空雕",
-        "type": "ContentImprovements",
-        "url": "weibo.com/6011443154/R122abXuC?pagetype=profilefeed",
-        "start_time": 1779950146,
-        "end_time": 1779950146
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338398,
+  "time": 1789428140,
   "version": "1.0.0-beta.43"
 }

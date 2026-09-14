@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1156,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍9",
+        "image": "https://static.kivo.wiki/images/timeline/ItihD4ZrN6RgvbgDKniRN05mBS1OzCHu.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 8/8 (Mon), the amount of rewards dropped in Bounty will be doubl",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1556173298832093185",
+        "start_time": 1659985205,
+        "end_time": 1660589945
+      },
       {
         "id": 403,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1550375093649522690",
         "start_time": 1658818848,
         "end_time": 1658818848
-      },
-      {
-        "id": 1147,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第三章前篇更新特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/xX6o62PVo0fl8XOGSxKPsiBlT1vXQaIp.jpg",
-        "body_summary": "[Main Story Update Celebration Special Gift] Sensei, Schale prepared a celebration gift for the Main",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1551824643765325824",
-        "start_time": 1658818845,
-        "end_time": 1658818845
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338924,
+  "time": 1789428611,
   "version": "1.0.0-beta.43"
 }

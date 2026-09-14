@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5696,
+        "line_type": "JP",
+        "title": "活动「嵐過天晴」PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/bLv3kWnx3fBFYmbzRtSDMurLbQNB32M8.jpg",
+        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ 「門主」が長期の休暇を取るのは難しい。 そのため、夏休みを諦めていたキサキさんでしたが、ルミさんの発案により「査察」という名目で避暑地へ行くこと",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2068892090092937567",
+        "start_time": 1782141786,
+        "end_time": 1782141786
+      },
       {
         "id": 5603,
         "line_type": "Other",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2067872510285156812",
         "start_time": 1781895600,
         "end_time": 1782068399
-      },
-      {
-        "id": 5648,
-        "line_type": "CN",
-        "title": "2026年端午祝福",
-        "image": "https://static.kivo.wiki/images/timeline/ypFVE1WaPMFX9FuqV4NybERlHXvb3xRU.png",
-        "body_summary": "这是三人久违的茶会，不过与以往不同的是，她们精心留出了一个位置。 阳光穿过窗边，落在茶桌上，精致的茶具泛着柔和光泽，点心整齐摆放，茶香在暖意中缓缓散开。 三人围坐其间，像往常一样从容，却又比往常多了几",
-        "type": "Other",
-        "url": "bilibili.com/opus/1215489501550346310",
-        "start_time": 1781841600,
-        "end_time": 1782417599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338389,
+  "time": 1789428132,
   "version": "1.0.0-beta.43"
 }

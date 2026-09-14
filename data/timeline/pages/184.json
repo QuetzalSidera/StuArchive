@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4105,
+        "line_type": "JP",
+        "title": "指名手配2倍#47 & 学院交流会2倍#34 & 课程表2倍#34",
+        "image": "https://static.kivo.wiki/images/timeline/x3KskzSBply183Zq9jpe7kRDLCIlDtkq.jpg",
+        "body_summary": "【キャンペーン予告】 6月11日(水)4:00より、「指名手配」、「スケジュール」、「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 🔷開催期間 6月11日(水)4:00 ～ ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1932339847890710888",
+        "start_time": 1749585600,
+        "end_time": 1750190399
+      },
       {
         "id": 4094,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1074944586684563496?spm_id_from=333.1387.0.0",
         "start_time": 1749118464,
         "end_time": 1749125664
-      },
-      {
-        "id": 4088,
-        "line_type": "CN",
-        "title": " 一花、霞家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/vrFQR7Z3dAwU0hXioCBOwRYojyhjipvS.gif",
-        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 06月05日 维护结束后 ■ 互动更新 • 一花 & 大运动会裁判椅 让人可在",
-        "type": "ContentImprovements",
-        "url": "www.bilibili.com/opus/1073719492351098884?spm_id_from=333.1387.0.0",
-        "start_time": 1749106800,
-        "end_time": 1749106800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338554,
+  "time": 1789428279,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5707,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍 #17",
+        "image": "https://static.kivo.wiki/images/timeline/4Y3bYx4Dw8yoAPXqMDu9cwWEWURFY2Mf.jpg",
+        "body_summary": "【道具掉落量3倍活动】更新预告 【任务（普通难度）】道具掉落量3倍 开启时间：01月15日 04:00 ~ 01月19日 03:59 【任务（困难难度）】道具掉落量3倍 开启时间：01月19日 04:",
+        "type": "Double",
+        "url": "bluearchive-cn.com/news/1667",
+        "start_time": 1768420800,
+        "end_time": 1768766399
+      },
       {
         "id": 4919,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2002337422110331142",
         "start_time": 1768248000,
         "end_time": 1768852799
-      },
-      {
-        "id": 4922,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍#36",
-        "image": "https://static.kivo.wiki/images/timeline/gZ0UWPVoYC3dWEgbiP7SyVcdFH7ysoF2.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 1/9 (Fri)! Don't mi",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2009528063902548460",
-        "start_time": 1767985200,
-        "end_time": 1768157999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338461,
+  "time": 1789428198,
   "version": "1.0.0-beta.43"
 }

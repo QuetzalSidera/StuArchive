@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3799,
+        "line_type": "JP",
+        "title": "大决战：屋外戦・ビナー #1",
+        "image": "https://static.kivo.wiki/images/timeline/FI2BcZDZSZUfcdyb13OPN8CfSiD6wpfO.jpg",
+        "body_summary": "【大決戦・予告】 3月19日(水)11:00より、大決戦「屋外戦・ビナー」を開催します！ 今回難易度「Torment」に挑戦できる防御タイプは「軽装備」です！ 普段の防御タイプとは異なるビナーにどう立",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/1901469078273032340",
+        "start_time": 1742353200,
+        "end_time": 1742932799
+      },
       {
         "id": 3686,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1900449318030426603",
         "start_time": 1742263227,
         "end_time": 1743472827
-      },
-      {
-        "id": 3852,
-        "line_type": "Globle",
-        "title": "国际服网页活动「Genryumon Affairs」",
-        "image": "https://static.kivo.wiki/images/timeline/3APoIHnPJU8H9bt4nnemOOgcGLMvWAoV.jpg",
-        "body_summary": "[Mini-Game 'Genryumon Affairs' Now Open] Genryumon Affairs mini-game is now open! Join Kisaki, the p",
-        "type": "WebEvent",
-        "url": "x.com/EN_BlueArchive/status/1902195824760627204",
-        "start_time": 1742263207,
-        "end_time": 1743389947
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338587,
+  "time": 1789428309,
   "version": "1.0.0-beta.43"
 }

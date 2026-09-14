@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5630,
+        "line_type": "CN",
+        "title": "限时活动【异饼危机~甜美的奇迹】介绍PV",
+        "image": "https://static.kivo.wiki/images/timeline/95qcWodjABaVsg4rxlFN7Rxdt2cXOxUs.png",
+        "body_summary": "#蔚蓝档案 朱莉在打工时，接到了制作松饼的任务！令人惊讶的是，她真的做出了看似美味的松饼！ 然而就在这些松饼中，有某种东西开始觉醒…… 限时活动【异饼危机~甜美的奇迹】将于07月02日开启！",
+        "type": "OutsideGames",
+        "url": "bilibili.com/1217700537832570915?spm_id_from=333.1387.0.0",
+        "start_time": 1782972000,
+        "end_time": 1784167199
+      },
       {
         "id": 5688,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2071791334642553079",
         "start_time": 1782788550,
         "end_time": 1782788550
-      },
-      {
-        "id": 5627,
-        "line_type": "Globle",
-        "title": "国际服活动「Game Development Department's Cleanup Operation!」",
-        "image": "https://static.kivo.wiki/images/timeline/sOooZeRBOdp2FIklLXZl4LTjYuiilmzI.jpg",
-        "body_summary": "🔹 Event PeriodEvent Period: 6/30 (Tue) 2:00 AM – 7/14 (Tue) 1:59 AM (UTC)Shop and Event Reward Claim",
-        "type": "Event",
-        "url": "forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3477804",
-        "start_time": 1782785410,
-        "end_time": 1783994399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338385,
+  "time": 1789428128,
   "version": "1.0.0-beta.43"
 }

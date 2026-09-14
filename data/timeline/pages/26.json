@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5590,
+        "line_type": "JP",
+        "title": "任务Hard2倍#56",
+        "image": "https://static.kivo.wiki/images/timeline/Gu5hGyhIFTmlIWUaOsL9um1E7Y2ScrSs.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1784059200,
+        "end_time": 1784663999
+      },
       {
         "id": 5777,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2074804859103314297",
         "start_time": 1784000641,
         "end_time": 1784605441
-      },
-      {
-        "id": 5774,
-        "line_type": "CN",
-        "title": "堇（打工）& 莱依 & 泉（新年）家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/uZQ5JnP1BdtFwxzZm1YXN6PlqbMkebnO.gif",
-        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 07月16日 维护结束后 ■ 互动更新 • 堇（打工）& 辅助引体向上训练器 ",
-        "type": "ContentImprovements",
-        "url": "weibo.com/6011443154/R8tYuyGOx",
-        "start_time": 1783922400,
-        "end_time": 1783922400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338378,
+  "time": 1789428122,
   "version": "1.0.0-beta.43"
 }

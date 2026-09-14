@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3163,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #70",
+        "image": "",
+        "body_summary": "[10/8 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/8 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1842127519064961310",
+        "start_time": 1728352800,
+        "end_time": 1728367200
+      },
       {
         "id": 3158,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/Ozy87kC9f",
         "start_time": 1727935200,
         "end_time": 1729144800
-      },
-      {
-        "id": 3143,
-        "line_type": "CN",
-        "title": "晴奈（新年）、纯子（新年）、风香（新年）家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/NMfj8bU8eWeDiLVq0q4V7ZEas7B5P6RJ.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 10月03日 14:00后 ■ 互动更新 •",
-        "type": "ContentImprovements",
-        "url": "weibo.com/6011443154/OzoHCuGdy",
-        "start_time": 1727935200,
-        "end_time": 1727935200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338655,
+  "time": 1789428370,
   "version": "1.0.0-beta.43"
 }

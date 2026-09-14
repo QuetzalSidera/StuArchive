@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2891,
+        "line_type": "Globle",
+        "title": "国际服总力战 Hieronymus (Indoor) 5",
+        "image": "https://static.kivo.wiki/images/timeline/hp8IY002B6WyrYZ6rYjJpSeQOqJnGBnr.jpg",
+        "body_summary": "[Total Assault Preview] The Total Assault - Hieronymus (Indoor Warfare) will start on 7/30 (Tue)! ➡️",
+        "type": "Raid",
+        "url": "x.com/EN_BlueArchive/status/1816005399713300964",
+        "start_time": 1722304800,
+        "end_time": 1722884400
+      },
       {
         "id": 2930,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1817530452212953220",
         "start_time": 1722168000,
         "end_time": 1722168000
-      },
-      {
-        "id": 2895,
-        "line_type": "Globle",
-        "title": "国际服3.0fes特别直播",
-        "image": "https://static.kivo.wiki/images/timeline/jawsoEgxXF1RdzvOHUZFVWvmWSuLmZGz.jpg",
-        "body_summary": "Sensei, it's almost time for the July Special Live Stream! 🗓️ 7/28(Sun) 11:00 AM (UTC) ~ ⬇️Kivotos L",
-        "type": "Live",
-        "url": "x.com/EN_BlueArchive/status/1816767919302586653",
-        "start_time": 1722164443,
-        "end_time": 1722164443
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338683,
+  "time": 1789428397,
   "version": "1.0.0-beta.43"
 }

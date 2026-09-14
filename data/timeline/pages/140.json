@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4552,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍 #41",
+        "image": "https://static.kivo.wiki/images/timeline/i0zHvQS4FQtntapJEYnBnsSgm67VShEf.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1971832175940211134",
+        "start_time": 1759186800,
+        "end_time": 1759791540
+      },
       {
         "id": 4556,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1115652117066940422?spm_id_from=333.1387.0.0",
         "start_time": 1758798013,
         "end_time": 1759399200
-      },
-      {
-        "id": 4527,
-        "line_type": "CN",
-        "title": "活动【冒失修女与古书馆的魔法师】常驻化更新",
-        "image": "https://static.kivo.wiki/images/timeline/63xx4QANAaEYyPGV9nA1bTjwMmv3HxRy.jpg",
-        "body_summary": "老师！活动【冒失修女与古书馆的魔法师】现已常驻化更新！ 为了修复典籍，日向与老师在崔尼蒂各处东奔西跑。 究竟能不能在仪式开始前完成修复呢？！",
-        "type": "Event",
-        "url": "www.bilibili.com/opus/1116440673060388872?spm_id_from=333.1387.0.0",
-        "start_time": 1758798000,
-        "end_time": 1758798000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338505,
+  "time": 1789428236,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4794,
+        "line_type": "Globle",
+        "title": "国际服诗乃的战斗通行证 S1",
+        "image": "https://static.kivo.wiki/images/timeline/TrI6qAr0rmL9KF2sd2kkfBmpUgSZJWYP.jpg",
+        "body_summary": "🔹 Event ScheduleBattle Pass Schedule: 12/16 (Tue) After Maintenance – 1/13/2026 (Tue) 1:59 AM (UTC)B",
+        "type": "Event",
+        "url": "forum.nexon.com/bluearchive-en/board_view?board=3028&thread=3302503",
+        "start_time": 1765868400,
+        "end_time": 1768269600
+      },
       {
         "id": 4793,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1999403858347405353",
         "start_time": 1765850400,
         "end_time": 1765868400
-      },
-      {
-        "id": 4798,
-        "line_type": "Globle",
-        "title": "国际服课程表3倍 #14",
-        "image": "https://static.kivo.wiki/images/timeline/7WhZx7H4GhVlMlome6D0nLpUq42Od1Of.jpg",
-        "body_summary": "2) Lesson Triple Rewards CampaignEvent Schedule: 12/15 (Mon) 7:00 PM – 12/22 (Mon) 6:59 PM (UTC) * P",
-        "type": "Double",
-        "url": "forum.nexon.com/bluearchive-en/board_view?board=3028&thread=3302503",
-        "start_time": 1765825200,
-        "end_time": 1766429999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338475,
+  "time": 1789428210,
   "version": "1.0.0-beta.43"
 }

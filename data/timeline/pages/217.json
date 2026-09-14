@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3682,
+        "line_type": "JP",
+        "title": "任务Normal2倍#45 & 课程表2倍#31",
+        "image": "https://static.kivo.wiki/images/timeline/rHMmhJHzKyP93Kc8eaeSzi3hVjJlKTaA.jpg",
+        "body_summary": "【キャンペーン予告】 3月12日(水)4:00より、「任務(Normal)」及び「スケジュール」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 3月12日(水)4:00 ～ 3月",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1898932348391223762",
+        "start_time": 1741723200,
+        "end_time": 1742327999
+      },
       {
         "id": 3778,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/PhjaimpBk",
         "start_time": 1741255205,
         "end_time": 1741255205
-      },
-      {
-        "id": 3773,
-        "line_type": "CN",
-        "title": "例行维护 #33",
-        "image": "https://static.kivo.wiki/images/timeline/LjbVbwQHCIhGUJb9H7vqRGBO9hEyzgFi.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 03月06日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405140866762145892",
-        "start_time": 1741240859,
-        "end_time": 1741255259
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338590,
+  "time": 1789428312,
   "version": "1.0.0-beta.43"
 }

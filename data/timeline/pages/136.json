@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4568,
+        "line_type": "CN",
+        "title": "和纱（乐队）主题PV：台前幕后",
+        "image": "https://static.kivo.wiki/images/timeline/ILHTEazTNzX2NlzTrqNUGrHEoFtp1kdm.jpg",
+        "body_summary": "老师一直在看着我，我感觉得到哦~",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV11n4LzMEBN",
+        "start_time": 1760083200,
+        "end_time": 1760083200
+      },
       {
         "id": 4569,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1974006506988433822",
         "start_time": 1759802455,
         "end_time": 1760407255
-      },
-      {
-        "id": 4566,
-        "line_type": "Globle",
-        "title": "国际服特殊调查「The Tree of Sephiroth」#3",
-        "image": "https://static.kivo.wiki/images/timeline/CqCo044rqHAMOZqC3npOhbmTyWpSLKCA.jpg",
-        "body_summary": "[Mini Event Notice] Special Investigation: The Tree of Sephiroth is back! Earn enhancement materials",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/1975459829125947462",
-        "start_time": 1759802449,
-        "end_time": 1760407249
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338500,
+  "time": 1789428232,
   "version": "1.0.0-beta.43"
 }

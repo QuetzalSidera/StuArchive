@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4110,
+        "line_type": "Globle",
+        "title": "国际服3.5fes特别直播",
+        "image": "https://static.kivo.wiki/images/timeline/DyiGJ5yccWXeTnfC4l7WQcLhewdro8fG.jpg",
+        "body_summary": "[Kivotos Live Preview] On Friday, April 11 at 18:00, Blue Archive’s 3.5-Year Anniversary Special Liv",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/1908082113544667454",
+        "start_time": 1744365600,
+        "end_time": 1744365600
+      },
       {
         "id": 3871,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/Pl6eY60wt",
         "start_time": 1744228800,
         "end_time": 1744574399
-      },
-      {
-        "id": 3836,
-        "line_type": "CN",
-        "title": "活动【与联邦理事会一起 沙勒总决算】#2",
-        "image": "https://static.kivo.wiki/images/timeline/ITddKi8Z4vCRDB3kEVCgqx9lrMrXBPr2.jpg",
-        "body_summary": "【与联邦理事会一起 沙勒总决算】活动预告 ■ 活动时间 • 活动持续时间：04月10日 04:00 ~ 04月24日 维护前 • 奖励兑换时间：04月10日 04:00 ~ 05月01日 13:59 ",
-        "type": "Event",
-        "url": "weibo.com/6011443154/PmkrE1Wjs",
-        "start_time": 1744228800,
-        "end_time": 1745474400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338578,
+  "time": 1789428301,
   "version": "1.0.0-beta.43"
 }

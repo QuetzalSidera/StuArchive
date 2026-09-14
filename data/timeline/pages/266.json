@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3229,
+        "line_type": "JP",
+        "title": "屋内戦・グレゴリオ #2",
+        "image": "https://static.kivo.wiki/images/timeline/JQHfNrKhXROfqSCDk20ymFHnrrMQJg74.jpg",
+        "body_summary": "直播情报推文 【新情報 ⑥】 続きましては総力戦の情報になります。 総力戦「グレゴリオ」の開催が決定しました！ 開催期間と詳細情報はこちらの画像にてご確認ください。 #ブルアカ #ブルアカらいぶおーた",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1847968035522613636",
+        "start_time": 1730257200,
+        "end_time": 1730836799
+      },
       {
         "id": 5090,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1849707465383805093",
         "start_time": 1729882800,
         "end_time": 1730055600
-      },
-      {
-        "id": 3259,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-10-25",
-        "image": "https://static.kivo.wiki/images/timeline/W3b78X8QKceYllqddXr8HNW89vfMyTuz.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1849738340008067184",
-        "start_time": 1729850520,
-        "end_time": 1729850520
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338644,
+  "time": 1789428361,
   "version": "1.0.0-beta.43"
 }

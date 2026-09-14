@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5018,
+        "line_type": "CN",
+        "title": "100次免费招募#6",
+        "image": "https://static.kivo.wiki/images/timeline/xoOltcr0dGFE7QleSXc5b0eWb1tuW3N6.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 只要登录游戏就可至多获得100次免费招募次数，这是老师与更多成员相遇的绝好机会，可千万别错过啦！ ■ 活动时间 2026年02月05日 14:00 ~ 02月14日 ",
+        "type": "Other",
+        "url": "bluearchive-cn.com/news/1687",
+        "start_time": 1770271200,
+        "end_time": 1771048799
+      },
       {
         "id": 5017,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2016405887003378016",
         "start_time": 1770084000,
         "end_time": 1770663599
-      },
-      {
-        "id": 5037,
-        "line_type": "JP",
-        "title": "5周年纪念「月導」MV公开",
-        "image": "https://static.kivo.wiki/images/timeline/ivICiNJbzs1GadIpthPUwSFqGXT7dv25.jpg",
-        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はミヤコさんが歌う「月導」です！ ▼動画はこちら https://youtu.be/PM39YKR6bYA",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2018293326273745257",
-        "start_time": 1770080400,
-        "end_time": 1770080400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338448,
+  "time": 1789428186,
   "version": "1.0.0-beta.43"
 }

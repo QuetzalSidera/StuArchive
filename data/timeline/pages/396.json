@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1830,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍22",
+        "image": "https://static.kivo.wiki/images/timeline/WvNoWWOxvUyVOhk1ExTn6gMKW5DEKHgg.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 12/18 (Mon), Commissions rewards will be doubled! Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1735917689434980834",
+        "start_time": 1702926020,
+        "end_time": 1703530760
+      },
       {
         "id": 1978,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/873812810074685494",
         "start_time": 1702497611,
         "end_time": 1702843151
-      },
-      {
-        "id": 1793,
-        "line_type": "JP",
-        "title": "任务Normal2倍#32",
-        "image": "https://static.kivo.wiki/images/timeline/S17VmjY3F6l0piT1xxeYXIqcEgQ4wf9b.jpg",
-        "body_summary": "【キャンペーン予告】 12/14(木)より「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンを開催します！ ▼開催期間 12/14(木)4:00 〜 12/20(水)3:59 生徒さん",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1734951593597149547",
-        "start_time": 1702497600,
-        "end_time": 1703015999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338790,
+  "time": 1789428492,
   "version": "1.0.0-beta.43"
 }

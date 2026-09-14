@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1427,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Look at this, comrade! All I did was drink milk but now I have an awesome mustache」",
+        "image": "https://static.kivo.wiki/images/timeline/mTgMRpDZy3GeuCmHGzZXaAsKgP8qn8Pp.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 5/30 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1662385654045474822",
+        "start_time": 1685430031,
+        "end_time": 1686016771
+      },
       {
         "id": 1424,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1659453840654225408",
         "start_time": 1684825239,
         "end_time": 1684825239
-      },
-      {
-        "id": 1413,
-        "line_type": "Globle",
-        "title": "国际服总力战 Binah (Urban) 3",
-        "image": "https://static.kivo.wiki/images/timeline/0rD3OqtjhTmAzSvsqBj37KB2fpphT9IF.jpg",
-        "body_summary": "[Total Assault Preview] Total Assault: Binah (Urban Warfare) starts 5/23 (Tue)! https://forum.nexon.",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1658729062439989252",
-        "start_time": 1684825200,
-        "end_time": 1685386740
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338858,
+  "time": 1789428553,
   "version": "1.0.0-beta.43"
 }

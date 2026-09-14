@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3699,
+        "line_type": "Globle",
+        "title": "国际服更新课程区域春叶原",
+        "image": "https://static.kivo.wiki/images/timeline/RVY7BqGSugFg8RzTje4rhfEe3SGkawXu.jpg",
+        "body_summary": "[New Area Notice] After the maintenance on 2/18 (Tue), the new area 'Haruhabara' will be added! Buil",
+        "type": "ContentImprovements",
+        "url": "x.com/EN_BlueArchive/status/1891414786329768311",
+        "start_time": 1739872813,
+        "end_time": 1739872813
+      },
       {
         "id": 3701,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1890597201744974263",
         "start_time": 1739649600,
         "end_time": 1739908799
-      },
-      {
-        "id": 3692,
-        "line_type": "Globle",
-        "title": "国际服任务hard3倍 #11",
-        "image": "https://static.kivo.wiki/images/timeline/w1zDcEtyhGDJuXX9FGA2yxCpibixg8PI.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be tripled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1889932521657475465",
-        "start_time": 1739646012,
-        "end_time": 1739818812
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338597,
+  "time": 1789428318,
   "version": "1.0.0-beta.43"
 }

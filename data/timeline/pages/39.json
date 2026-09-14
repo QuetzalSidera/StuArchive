@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5611,
+        "line_type": "JP",
+        "title": "万魔殿小剧场 #24",
+        "image": "https://static.kivo.wiki/images/timeline/FiYxx5iLPHkIEXSZ9gU94Vwm7L1Yk4iK.jpg",
+        "body_summary": "【#ちょっとお時間貰いますね】 先生、おはようございます♪ サツキさんがどこか物憂げな感じです…… 一体どうしたんでしょうか？ #ブルアカ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2066295871264952546",
+        "start_time": 1781481900,
+        "end_time": 1781481900
+      },
       {
         "id": 5563,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/R38Q3l1oq",
         "start_time": 1781172000,
         "end_time": 1781762399
-      },
-      {
-        "id": 5562,
-        "line_type": "CN",
-        "title": "例行维护 #60",
-        "image": "https://static.kivo.wiki/images/timeline/COz7BBjinCiiamjQfqqKbxs74wNPcaQu.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月11日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "www.bluearchive-cn.com/news/1826",
-        "start_time": 1781157600,
-        "end_time": 1781172000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338392,
+  "time": 1789428135,
   "version": "1.0.0-beta.43"
 }

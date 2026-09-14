@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5931,
+        "line_type": "CN",
+        "title": "例行维护#64",
+        "image": "https://static.kivo.wiki/images/timeline/TzNQA47IaInkJBFeSlY84LQyaeXBaNau.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405333687280992286",
+        "start_time": 1787205600,
+        "end_time": 1787220000
+      },
       {
         "id": 5930,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2089676480339189765",
         "start_time": 1787050800,
         "end_time": 1788195600
-      },
-      {
-        "id": 5963,
-        "line_type": "Globle",
-        "title": "国际服新功能（模拟总力战）、vol2第二章韩语语音、瓦尔基里家具套装更新",
-        "image": "https://static.kivo.wiki/images/timeline/uH4VCEOjlIDnvqE3clYExKxECesQvjE2.jpg",
-        "body_summary": "",
-        "type": "ContentImprovements",
-        "url": "x.com/EN_BlueArchive/status/2089654568099713161",
-        "start_time": 1787047200,
-        "end_time": 1787047200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338360,
+  "time": 1789428107,
   "version": "1.0.0-beta.43"
 }

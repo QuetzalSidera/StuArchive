@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4867,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「Say-Bing!」",
+        "image": "https://static.kivo.wiki/images/timeline/rcktjWjrR68sMSDkWjJTfrrjRGEfbrvO.jpg",
+        "body_summary": "[Event Update Notice] The \"Say-Bing!\" Event Story is back! 🗓️Period: 12/30 (Tue) After Maintenance –",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2005906391815577860",
+        "start_time": 1767078000,
+        "end_time": 1767664800
+      },
       {
         "id": 4868,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2005414709910987260",
         "start_time": 1767015777,
         "end_time": 1767015777
-      },
-      {
-        "id": 4866,
-        "line_type": "Globle",
-        "title": "国际服数字音轨发布「Memories in Melody」",
-        "image": "https://static.kivo.wiki/images/timeline/QQTQvLf1mBRMKV5h06xo3kPeE20RAoGU.jpg",
-        "body_summary": "[‘Memories in Melody’ Kikyou Edition Digital Soundtrack Released!] Sensei, the digital soundtrack fo",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2005488952040661218",
-        "start_time": 1766980691,
-        "end_time": 1766980691
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338467,
+  "time": 1789428203,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5454,
+        "line_type": "Globle",
+        "title": "国际服参展Anime Expo 2026",
+        "image": "https://static.kivo.wiki/images/timeline/372AfIPUGOJ8ocvn6Zr8YWhydf8TYoKM.jpg",
+        "body_summary": "Sensei, we are back at Anime Expo! Blue Archive is returning to AX 2026 with a booth, panel session,",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2055317288664850670",
+        "start_time": 1783008000,
+        "end_time": 1783353599
+      },
       {
         "id": 5699,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "bilibili.com/opus/1218442710342434856",
         "start_time": 1782972000,
         "end_time": 1782972000
-      },
-      {
-        "id": 5630,
-        "line_type": "CN",
-        "title": "限时活动【异饼危机~甜美的奇迹】介绍PV",
-        "image": "https://static.kivo.wiki/images/timeline/95qcWodjABaVsg4rxlFN7Rxdt2cXOxUs.png",
-        "body_summary": "#蔚蓝档案 朱莉在打工时，接到了制作松饼的任务！令人惊讶的是，她真的做出了看似美味的松饼！ 然而就在这些松饼中，有某种东西开始觉醒…… 限时活动【异饼危机~甜美的奇迹】将于07月02日开启！",
-        "type": "OutsideGames",
-        "url": "bilibili.com/1217700537832570915?spm_id_from=333.1387.0.0",
-        "start_time": 1782972000,
-        "end_time": 1784167199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338384,
+  "time": 1789428127,
   "version": "1.0.0-beta.43"
 }

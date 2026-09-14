@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3468,
+        "line_type": "JP",
+        "title": "金用河2025新年贺信",
+        "image": "https://static.kivo.wiki/images/timeline/fJ8po5S5lZvlybNxsV8Hnkl5Otktrl4A.jpg",
+        "body_summary": "【プロデューサーレター公開のお知らせ】 『ブルーアーカイブ』統括プロデューサー、キム・ヨンハからのメッセージを公開します。 『ブルーアーカイブ』はまもなく4周年を迎えます。 これもひとえに先生方に支え",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1874002971429888244",
+        "start_time": 1735635660,
+        "end_time": 1735635660
+      },
       {
         "id": 3467,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/P6OQZETJp",
         "start_time": 1735268400,
         "end_time": 1735268400
-      },
-      {
-        "id": 3496,
-        "line_type": "Globle",
-        "title": "国际服叶渚角色曲「It Will Be Alright」MV公开 & 网页活动青辉石礼物",
-        "image": "https://static.kivo.wiki/images/timeline/I6WobfOBUyF0ZWQMxCtE4rzvBL0efovG.jpg",
-        "body_summary": "[It Will Be Alright Music Video Release] Sensei, are you enjoying the Valkyrie Blues Webview Event? ",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/1872477507745640522",
-        "start_time": 1735268400,
-        "end_time": 1735916400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338619,
+  "time": 1789428338,
   "version": "1.0.0-beta.43"
 }

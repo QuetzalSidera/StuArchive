@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5478,
+        "line_type": "JP",
+        "title": "5周年纪念演出「ブルアカみゅーじっく♪3D LIVE」",
+        "image": "https://static.kivo.wiki/images/timeline/n2ZoSkwvohKiYJNNDtnYig4e5RYG5oJ7.jpg",
+        "body_summary": "【5thアニバーサリー】 「ブルアカみゅーじっく♪3D LIVE」 本日開催です！ ご来場される先生は気を付けてお越しください！ 昼公演 開場：10:30　開演11:30 夜公演 開場　16:00　開",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2057974798874280200",
+        "start_time": 1779507000,
+        "end_time": 1779507000
+      },
       {
         "id": 5488,
         "line_type": "CN",
@@ -47,7 +58,7 @@
       {
         "id": 5468,
         "line_type": "Globle",
-        "title": "国际服主线Vol.EX 第三章 Part2更新",
+        "title": "国际服主线EX. 第三章 Part2更新",
         "image": "https://static.kivo.wiki/images/timeline/DjXvKSKE38r36mHMhuxF41r6HK6GPYqS.jpg",
         "body_summary": "[Main Story Announcement] Main Story Ex. Decagrammaton Ch.3 「The Sky of Unity」 Part.2 is coming soon",
         "type": "MainStory",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/R0rvf1EJJ?pagetype=profilefeed",
         "start_time": 1779298680,
         "end_time": 1779298680
-      },
-      {
-        "id": 5471,
-        "line_type": "CN",
-        "title": "活动【纯白的预告信~虚饰之邸与美学所在之处~】常驻化更新",
-        "image": "https://static.kivo.wiki/images/timeline/uxUR9viZMlvNKkFIVB9PS5zagQM13pSW.jpg",
-        "body_summary": "老师，活动【纯白的预告信~ 虚饰之邸与美学所在之处 ~】现已常驻化更新！ 某日，游戏开发部收到了一份委托。委托人误把她们当成了C&C，希望她们保护一处豪宅里的艺术品，以免遭到怪盗偷窃……她们能从怪盗的",
-        "type": "Event",
-        "url": "weibo.com/6011443154/R0qkb6VQZ?pagetype=profilefeed",
-        "start_time": 1779296759,
-        "end_time": 1779296759
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338402,
+  "time": 1789428144,
   "version": "1.0.0-beta.43"
 }

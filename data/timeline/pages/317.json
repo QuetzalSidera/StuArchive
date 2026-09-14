@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2775,
+        "line_type": "JP",
+        "title": "例行维护97",
+        "image": "https://static.kivo.wiki/images/timeline/3VkDXx7QNuN6jbBOMOe4kVrIGMXTu4qr.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 6/26(水) 11:0",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1805481161478881582",
+        "start_time": 1719370800,
+        "end_time": 1719399600
+      },
       {
         "id": 2774,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1804408987930026390",
         "start_time": 1719255630,
         "end_time": 1719860430
-      },
-      {
-        "id": 2780,
-        "line_type": "JP",
-        "title": "阿比多斯小剧场 #25",
-        "image": "https://static.kivo.wiki/images/timeline/GYXYZM24RPC4JcNzluqjdQSoaRQWixOK.png",
-        "body_summary": "【#ちょっとお時間もらいますね】 先生、おはようございます♪ 今日はアビドスの皆さんがやってきましたよ、先生！ 大事なお知らせ…？何でしょうか…？ ▽動画はこちら https://youtube.co",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1805014219974406589",
-        "start_time": 1719187500,
-        "end_time": 1719187500
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338701,
+  "time": 1789428413,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4679,
+        "line_type": "JP",
+        "title": "例行维护 #130",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/5(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1985587863124394279",
+        "start_time": 1762308000,
+        "end_time": 1762329600
+      },
       {
         "id": 4677,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1980891874350002207",
         "start_time": 1762221600,
         "end_time": 1764295200
-      },
-      {
-        "id": 4649,
-        "line_type": "Globle",
-        "title": "国际服任务Hard2倍 #40",
-        "image": "https://static.kivo.wiki/images/timeline/wFOkIiRyXLXeDbqfVRcKkKMVmsx4H8IT.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1984515750879772766",
-        "start_time": 1762196400,
-        "end_time": 1762801199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338490,
+  "time": 1789428223,
   "version": "1.0.0-beta.43"
 }

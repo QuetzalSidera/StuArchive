@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5234,
+        "line_type": "JP",
+        "title": "4周年倒计时登录奖励「4周年カウントダウンログインボーナス」",
+        "image": "https://static.kivo.wiki/images/timeline/jkzN83yI36Lf8PWN8L26BskyXuLOvGy6.jpg",
+        "body_summary": "【新情報⑤】 「4周年カウントダウンログインボーナス」が実施されます！ 毎日ログインして、全ての報酬を受け取りましょう！ 開催時期や、報酬などの詳細についてはこちらの画像にてご確認ください！ #ブルア",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1870793037431140474",
+        "start_time": 1736765808,
+        "end_time": 1737370608
+      },
       {
         "id": 3582,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1876524169254605090",
         "start_time": 1736215200,
         "end_time": 1736794800
-      },
-      {
-        "id": 3506,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Special Summer Mission! RABBIT Squad and the Mystery of the Missing Shrimp」",
-        "image": "https://static.kivo.wiki/images/timeline/u0iy5gGALQYut0ZJ2PKBElcwcw0OBZOy.jpg",
-        "body_summary": "[Event Update Notice] The \"Special Summer Mission! RABBIT Squad and the Mystery of the Missing Shrim",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/1876497742945714507",
-        "start_time": 1736215200,
-        "end_time": 1736992800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338614,
+  "time": 1789428334,
   "version": "1.0.0-beta.43"
 }

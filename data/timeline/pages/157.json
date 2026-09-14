@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4350,
+        "line_type": "CN",
+        "title": "官方频道二周年社区活动",
+        "image": "https://static.kivo.wiki/images/timeline/HE1xbVreU991OhhK6lcfTUij4HNdAw4v.jpg",
+        "body_summary": "​老师，《蔚蓝档案》官方频道二周年社区活动条件已达成，感谢老师的热烈支持~ ■奖励内容 青辉石×1200 闪烁的花束×1 ※可领取时间：08月09日11:00～08月15日 23:59 奖励仅可领取一",
+        "type": "WebEvent",
+        "url": "weibo.com/6011443154?refer_flag=1001030103_",
+        "start_time": 1754708400,
+        "end_time": 1755273540
+      },
       {
         "id": 4356,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1953047725593031036",
         "start_time": 1754478000,
         "end_time": 1754478000
-      },
-      {
-        "id": 4241,
-        "line_type": "JP",
-        "title": "主线关卡开放：Area29 & T10装备追加",
-        "image": "https://static.kivo.wiki/images/timeline/xvYO1tXbwB181SvBcmINIPJXwlQmWUN4.jpg",
-        "body_summary": "【新情報⑪】 そして少し先の情報になりますが、8/6(水)メンテナンス後、任務に新しく「Area29」が追加されます！ また「Area29」の追加に合わせて、「Tier10」の装備が更に追加されます！",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1946545458039627809?s=19",
-        "start_time": 1754478000,
-        "end_time": 1754478000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338524,
+  "time": 1789428253,
   "version": "1.0.0-beta.43"
 }

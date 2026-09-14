@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5942,
+        "line_type": "JP",
+        "title": "活动「DIVE into OCEAN！」PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/FGh8EorPNXwdS9PyvNOUxkQyoLRdTeQ8.jpg",
+        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ ダイビング部は慢性的な資金不足に頭を悩ませていた。 そして泣く泣く受けたフジツボ掃除で、あろうことか船の爆発事故を起こしてしまう。 その責任を問",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2091722589593079857",
+        "start_time": 1787744746,
+        "end_time": 1788922799
+      },
       {
         "id": 5941,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2089502540068975071",
         "start_time": 1787270400,
         "end_time": 1787270400
-      },
-      {
-        "id": 5904,
-        "line_type": "CN",
-        "title": "【百花缭乱篇】第2章Part1（01~15话）更新",
-        "image": "https://static.kivo.wiki/images/timeline/YMS2eyLbA8rcFolwk5bkO50K9of904ik.jpg",
-        "body_summary": "【百花缭乱篇】第2章Part1（01~15话）即将更新！ 名草被黄昏吞噬的手臂日益恶化……正当名草反复回忆过去、深陷痛苦之时，一场意想不到的重逢悄然降临。 ■ 更新时间 08月20日 维护结束后 ■ ",
-        "type": "MainStory",
-        "url": "weibo.com/6011443154/RdDkjug33",
-        "start_time": 1787233672,
-        "end_time": 1787233672
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338358,
+  "time": 1789428105,
   "version": "1.0.0-beta.43"
 }

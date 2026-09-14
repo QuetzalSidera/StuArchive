@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5156,
+        "line_type": "JP",
+        "title": "联合火力演习 #49",
+        "image": "https://static.kivo.wiki/images/timeline/zPdGiRg4mgLCAa5O0uSsUmN3mcCO4V9V.jpg",
+        "body_summary": "【合同火力演習・予告】 2月25日(水)11:00より、合同火力演習「射撃演習」が開幕します！ 今回の演習では、特殊ルールにより「AR」か「SR」の武器を使用する生徒さんに基礎熟練度が加算されるそうな",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2025406091824431467",
+        "start_time": 1771988400,
+        "end_time": 1772567999
+      },
       {
         "id": 5171,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2025105708656541988",
         "start_time": 1771873200,
         "end_time": 1772477999
-      },
-      {
-        "id": 5143,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍 #37",
-        "image": "https://static.kivo.wiki/images/timeline/eom3Nc8Z4JskbR4l2bZFBbpeqWjLZgn2.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 2/23 (Mon), Lesson reward will be doubled! Don't miss out on",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2025103191977984082",
-        "start_time": 1771873200,
-        "end_time": 1772477999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338437,
+  "time": 1789428176,
   "version": "1.0.0-beta.43"
 }

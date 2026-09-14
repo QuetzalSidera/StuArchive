@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3026,
+        "line_type": "CN",
+        "title": "例行维护23",
+        "image": "https://static.kivo.wiki/images/timeline/ZGwbyCuuLS1a6lT5WrvSXk2XBD43R0FF.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月22日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "weibo.com/ttarticle/p/show?id=2309405069838707195999",
+        "start_time": 1724306400,
+        "end_time": 1724320800
+      },
       {
         "id": 3373,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1824642418521919564",
         "start_time": 1724234400,
         "end_time": 1725415199
-      },
-      {
-        "id": 3014,
-        "line_type": "JP",
-        "title": "例行维护 #101",
-        "image": "https://static.kivo.wiki/images/timeline/kAe4TRTzN4vFGbYZlqCJWGF5VohJ7QKs.jpg",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/21(水) 11:00 〜 19:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1825774910805103072",
-        "start_time": 1724205600,
-        "end_time": 1724234400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338671,
+  "time": 1789428385,
   "version": "1.0.0-beta.43"
 }

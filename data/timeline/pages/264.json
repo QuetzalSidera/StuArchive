@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3271,
+        "line_type": "JP",
+        "title": "例行维护 #106",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/6(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1853678865870401654",
+        "start_time": 1730862000,
+        "end_time": 1730883600
+      },
       {
         "id": 3269,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1853719525579207031",
         "start_time": 1730772000,
         "end_time": 1730772000
-      },
-      {
-        "id": 3298,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #72 维护延长",
-        "image": "",
-        "body_summary": "[11/5 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 11/5 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1852274388898554342",
-        "start_time": 1730772000,
-        "end_time": 1730796120
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338642,
+  "time": 1789428359,
   "version": "1.0.0-beta.43"
 }

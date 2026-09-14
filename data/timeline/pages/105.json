@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4901,
+        "line_type": "JP",
+        "title": "2026新年贺图",
+        "image": "https://static.kivo.wiki/images/timeline/CqXVabd30y3911A3Z8ir3P5bwcxGdbZP.jpg",
+        "body_summary": "【ハッピーニューイヤー】 先生！新年あけましておめでとうございます！ 今年も1年、『ブルーアーカイブ』をよろしくお願いしますね♪ #ブルアカ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2006379873326227818",
+        "start_time": 1767276509,
+        "end_time": 1767276509
+      },
       {
         "id": 4900,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1152590553766952976?spm_id_from=333.1387.0.0",
         "start_time": 1767214800,
         "end_time": 1767747599
-      },
-      {
-        "id": 4824,
-        "line_type": "CN",
-        "title": "任务（普通难度）2倍 #23",
-        "image": "https://static.kivo.wiki/images/timeline/pEK0pA68CM0LNaIKWeBEJpKf8F2r9WQO.jpg",
-        "body_summary": "任务（普通难度）】道具掉落量2倍 ■ 活动时间： • 01月01日 04:00 ~ 01月05日 03:59 活动期间，完成【任务（普通难度）】时，获得的道具掉落奖励数量变为2倍。",
-        "type": "Double",
-        "url": "www.bilibili.com/opus/1147194356862550018",
-        "start_time": 1767211200,
-        "end_time": 1767556799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338465,
+  "time": 1789428202,
   "version": "1.0.0-beta.43"
 }

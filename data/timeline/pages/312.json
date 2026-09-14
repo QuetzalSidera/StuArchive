@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2703,
+        "line_type": "JP",
+        "title": "联合火力演习29",
+        "image": "https://static.kivo.wiki/images/timeline/gsaxFGzIinzWy4RDW8We1OuNXOfpQUkd.jpg",
+        "body_summary": "【新情報 ⑤】 7月10日(水)メンテナンス後より、合同火力演習「護衛演習」が開始します！ ▼開催期間 2024/7/10(水) メンテナンス後~7/17(水) 3:59 #ブルアカ #ブルアカらいぶ",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1804839830419022300",
+        "start_time": 1720609200,
+        "end_time": 1721159999
+      },
       {
         "id": 2799,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1809112475461374006",
         "start_time": 1720519233,
         "end_time": 1721095233
-      },
-      {
-        "id": 2786,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Starting now, I will exercise my authority as the winner! No, you can't refuse! Heehee~」2",
-        "image": "https://static.kivo.wiki/images/timeline/AZZ39XroTgiW7vlvfyfHRs8bLwNR27TH.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 7/9 (Tue",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1809108699442786730",
-        "start_time": 1720519228,
-        "end_time": 1721095228
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338695,
+  "time": 1789428408,
   "version": "1.0.0-beta.43"
 }

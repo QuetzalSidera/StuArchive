@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5862,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Thank you. Here's to the future」&「I finally get to wear my school uniform! And it feels...nice! So now what should I do?」",
+        "image": "https://static.kivo.wiki/images/timeline/zyPG5etfICcoiVzdg8jYZwLNXCCVYFe2.jpg",
+        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 8/4 (Tue",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2083089025574052219",
+        "start_time": 1785823200,
+        "end_time": 1787018399
+      },
       {
         "id": 5861,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1231463038992777267?spm_id_from=333.1365.0.0",
         "start_time": 1785592050,
         "end_time": 1785592050
-      },
-      {
-        "id": 5820,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-08-01",
-        "image": "https://static.kivo.wiki/images/timeline/TN9u20sLXPiNe26Yo7HQhoukEstAanwF.jpg",
-        "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2081349057646305521",
-        "start_time": 1785528000,
-        "end_time": 1787515199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338367,
+  "time": 1789428112,
   "version": "1.0.0-beta.43"
 }

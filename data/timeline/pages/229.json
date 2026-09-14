@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3612,
+        "line_type": "Globle",
+        "title": "国际服任务hard3倍 #10",
+        "image": "https://static.kivo.wiki/images/timeline/pvJpCViQ4n1DW5O6Cr3wfW14c7EOSxvD.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be tripled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1885246362251649303",
+        "start_time": 1738522800,
+        "end_time": 1738782000
+      },
       {
         "id": 3611,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1883774441278025885",
         "start_time": 1738177200,
         "end_time": 1738782000
-      },
-      {
-        "id": 3606,
-        "line_type": "Globle",
-        "title": "国际服任务normal3倍 #10",
-        "image": "https://static.kivo.wiki/images/timeline/qc1XtxFy5rOVhDow9caIipuv92wyH6tX.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be Tripled. D",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1883771927396753760",
-        "start_time": 1738177200,
-        "end_time": 1738522800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338603,
+  "time": 1789428324,
   "version": "1.0.0-beta.43"
 }

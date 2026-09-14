@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4149,
+        "line_type": "JP",
+        "title": "「絆ダイアローグ Vol.12」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/t8pXTGXZU91h6C8oTDNFG1hdPULwAStp.jpg",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」の第12弾が配信開始されました！ 今回は放課後スイーツ部のヨシミさん！ ヨシミさんの心情を表していて、とても可愛い楽曲です！ ▼各種音楽サービスはこちら",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1936441226590359972",
+        "start_time": 1750521600,
+        "end_time": 1750521600
+      },
       {
         "id": 4148,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1444",
         "start_time": 1750337967,
         "end_time": 1751522399
-      },
-      {
-        "id": 4121,
-        "line_type": "CN",
-        "title": "堇、宫子、泉（泳装）、花子爱用品新增",
-        "image": "https://static.kivo.wiki/images/timeline/BaMjt4WE9uVLRSZzYZAepZ1mhVXdMmuZ.jpg",
-        "body_summary": "06月19日版本更新后，将新增成员“堇”、“宫子”、“泉（泳装）”、“花子”的爱用品，通过爱用品可以使对应成员获得属性增加、基础技能提升等加成各种效果，同时还将解锁全新的成员专属好感剧情。 ■ 爱用品",
-        "type": "ContentImprovements",
-        "url": "bluearchive-cn.com/news/1445",
-        "start_time": 1750337782,
-        "end_time": 1750337782
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338549,
+  "time": 1789428276,
   "version": "1.0.0-beta.43"
 }

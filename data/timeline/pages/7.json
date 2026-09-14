@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5959,
+        "line_type": "JP",
+        "title": "学生生日日历-2026年9月",
+        "image": "https://static.kivo.wiki/images/timeline/0PZRidF1SLoabYFL6Uybxs70MmUNsdO2.jpg",
+        "body_summary": "【カレンダー】 先生、2026年9月の誕生日カレンダーをご用意しました！ ぜひお役立てください。 暦の上では「秋」となる9月ですが、まだまだ暑い日が続いてますね💦 どこか車や電車、戦車などで出かけたり",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2094628921535012979",
+        "start_time": 1788192000,
+        "end_time": 1788192000
+      },
       {
         "id": 5939,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2092114831931478314",
         "start_time": 1787745210,
         "end_time": 1788922799
-      },
-      {
-        "id": 5942,
-        "line_type": "JP",
-        "title": "活动「DIVE into OCEAN！」PV公开",
-        "image": "https://static.kivo.wiki/images/timeline/FGh8EorPNXwdS9PyvNOUxkQyoLRdTeQ8.jpg",
-        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ ダイビング部は慢性的な資金不足に頭を悩ませていた。 そして泣く泣く受けたフジツボ掃除で、あろうことか船の爆発事故を起こしてしまう。 その責任を問",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2091722589593079857",
-        "start_time": 1787744746,
-        "end_time": 1788922799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338357,
+  "time": 1789428104,
   "version": "1.0.0-beta.43"
 }

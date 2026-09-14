@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4962,
+        "line_type": "JP",
+        "title": " 悠星氪金中心连携",
+        "image": "https://static.kivo.wiki/images/timeline/lbPEWHystZrxigox4Y6uGqhzVETCj8zQ.png",
+        "body_summary": "2026年1月20日(火) メンテナンス後より、「Yostar Gamesチャージセンター」に『ブルーアーカイブ』が追加されます。 「Yostar ID」をお持ちの方は、特設サイト「Yostar Ga",
+        "type": "Other",
+        "url": "bluearchive.jp/help/list?type=push&id=sO3TnXtwE",
+        "start_time": 1768906683,
+        "end_time": 1768906683
+      },
       {
         "id": 4961,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2012795192114626609",
         "start_time": 1768878000,
         "end_time": 1768878000
-      },
-      {
-        "id": 4946,
-        "line_type": "JP",
-        "title": "联合作战「鋼鉄大陸攻略戦」",
-        "image": "https://static.kivo.wiki/images/timeline/ickLuIdl5P012nRKdMGOsvrtRd6rhE1P.jpg",
-        "body_summary": "【新情報⑦】 1月20日(火)メンテナンス後より、連合作戦イベント「鋼鉄大陸攻略戦」が開催されます。 Ex.「デカグラマトン」編 第3章「不離一体の空」との連動イベントとなる他、イベント報酬として生徒",
-        "type": "AlliedOperation",
-        "url": "x.com/Blue_ArchiveJP/status/2012793208200376809",
-        "start_time": 1768878000,
-        "end_time": 1769655599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338458,
+  "time": 1789428195,
   "version": "1.0.0-beta.43"
 }

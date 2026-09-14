@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5321,
+        "line_type": "JP",
+        "title": "主线剧情第2部序章更新",
+        "image": "https://static.kivo.wiki/images/timeline/7Wits85BfB2sGECdVOXS7Ki6oalkDRDy.png",
+        "body_summary": "【新情報②】 物語は新たな1ページへと… 4月21日(火)メンテナンス後、第2部 メインストーリー プロローグの開幕が決定しました！！ #ブルアカ #ブルアカらいぶふぃーばーSP",
+        "type": "MainStory",
+        "url": "x.com/Blue_ArchiveJP/status/2045817794751803587",
+        "start_time": 1776765600,
+        "end_time": 1776765600
+      },
       {
         "id": 5978,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2045396917207937206",
         "start_time": 1776711600,
         "end_time": 1777316399
-      },
-      {
-        "id": 5326,
-        "line_type": "JP",
-        "title": "课程表2倍#43 & 学院交流会2倍#43",
-        "image": "https://static.kivo.wiki/images/timeline/cEZjl6WI11lfJvbg50sJWqia4IlhrAjM.png",
-        "body_summary": "【新情報⑦】https://x.com/Blue_ArchiveJP/status/2045829808932970826 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2045829808932970826",
-        "start_time": 1776711600,
-        "end_time": 1777402799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338414,
+  "time": 1789428156,
   "version": "1.0.0-beta.43"
 }

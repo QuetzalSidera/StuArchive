@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2963,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》一周年动画小剧场",
+        "image": "https://static.kivo.wiki/images/timeline/SHFuFVmTC9yZYqZYTnLteT46lmQMRjoL.png",
+        "body_summary": "老师老师！恭喜您入职沙勒一周年！在这个特殊的节日里，阿洛娜也为您准备了小惊喜哦！嘿嘿，一起来看看吧~ www.bilibili.com/video/BV1h2421Z7uP",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV1h2421Z7uP",
+        "start_time": 1722679219,
+        "end_time": 1722679219
+      },
       {
         "id": 2949,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/Oqri7cOHB",
         "start_time": 1722600120,
         "end_time": 1722600120
-      },
-      {
-        "id": 2933,
-        "line_type": "CN",
-        "title": "优香（体操服）主题PV：盛夏来临之前",
-        "image": "https://static.kivo.wiki/images/timeline/ohhadtOPS20VTXr2GaOv9HzDZXWB6t5n.jpg",
-        "body_summary": "5,4,3,2,1。 这是上场前的倒计时，也是心跳动的节律。 盛夏，就要到了。 www.bilibili.com/video/BV18r421M7cJ/",
-        "type": "OutsideGames",
-        "url": "www.bilibili.com/video/BV18r421M7cJ/",
-        "start_time": 1722567600,
-        "end_time": 1722567600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338680,
+  "time": 1789428394,
   "version": "1.0.0-beta.43"
 }

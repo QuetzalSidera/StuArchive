@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5124,
+        "line_type": "JP",
+        "title": "5周年纪念「わたしたちのクエスト」MV公开",
+        "image": "https://static.kivo.wiki/images/timeline/Pcao2tYK9VjkUCE8tbWg0Df0YswVsDco.jpg",
+        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はゲーム開発部のモモイさん、ミドリさん、ユズさん、アリスさんが歌う「わたしたちのクエスト」です！ ▼動画はこちら",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2021917205680861376",
+        "start_time": 1770868543,
+        "end_time": 1770868543
+      },
       {
         "id": 5123,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1167310265704775704?spm_id_from=333.1387.0.0",
         "start_time": 1770804000,
         "end_time": 1770804000
-      },
-      {
-        "id": 5100,
-        "line_type": "Globle",
-        "title": "国际服制约解除作战：赛特之怒 #12",
-        "image": "https://static.kivo.wiki/images/timeline/I1mYRbDh7oIR0SunSWsMYNjs7nAmi6i6.jpg",
-        "body_summary": "[Final Restriction Release Opening Notice] Final Restriction Release: The Fury of Set (Defense Type:",
-        "type": "MiniBattle",
-        "url": "x.com/EN_BlueArchive/status/2021479317033672848",
-        "start_time": 1770800182,
-        "end_time": 1773132982
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338443,
+  "time": 1789428182,
   "version": "1.0.0-beta.43"
 }

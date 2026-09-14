@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4592,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #95",
+        "image": "https://static.kivo.wiki/images/timeline/DpWVpgDl2Ve1RvDnpIu1CL7W8cA4kuVF.jpg",
+        "body_summary": "[10/21 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/21 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1979110149643211004?s=19",
+        "start_time": 1761012000,
+        "end_time": 1761026400
+      },
       {
         "id": 4593,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1979566892168650955",
         "start_time": 1760803200,
         "end_time": 1760803200
-      },
-      {
-        "id": 4626,
-        "line_type": "JP",
-        "title": "5周年特设网站开放",
-        "image": "https://static.kivo.wiki/images/timeline/Yl6uhojCkBx59qUJQ6lVMfKsSFPafU0b.jpg",
-        "body_summary": "【5thアニバーサリー】 5周年の特設サイトがオープンしました！ そして、今年も「ブルアカふぇす！」が開催決定です！ 開催日：2026/1/17(土)～18(日) 会場：幕張メッセ 国際展示場 展示ホ",
-        "type": "WebEvent",
-        "url": "x.com/Blue_ArchiveJP/status/1979533225560244500?s=19",
-        "start_time": 1760802601,
-        "end_time": 1760802601
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338496,
+  "time": 1789428229,
   "version": "1.0.0-beta.43"
 }

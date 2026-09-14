@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5102,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍#39",
+        "image": "https://static.kivo.wiki/images/timeline/L5i5nmZUF0TeLmYM3mrL6Q7gji2FywPh.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/13 (Fri)! Don't m",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2022204089107468782",
+        "start_time": 1771062085,
+        "end_time": 1771234885
+      },
       {
         "id": 5085,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/video/BV1TPcvzhE8s",
         "start_time": 1771046338,
         "end_time": 1771046338
-      },
-      {
-        "id": 5514,
-        "line_type": "CN",
-        "title": "妃咲主题PV：梅雪初融处，君心亦我心 其一",
-        "image": "https://static.kivo.wiki/images/timeline/xSfBeHw3XU2MICw4a2ft2rtQpOKENKgO.jpg",
-        "body_summary": "不辞山远，不辞水长，与君同游，共看人间岁月长。 www.bilibili.com/video/BV1MccvzYEXy",
-        "type": "OutsideGames",
-        "url": "www.bilibili.com/video/BV1MccvzYEXy",
-        "start_time": 1771046172,
-        "end_time": 1771046172
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338441,
+  "time": 1789428180,
   "version": "1.0.0-beta.43"
 }

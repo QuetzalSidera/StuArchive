@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3915,
+        "line_type": "JP",
+        "title": "活动「ハイランダー鉄道爆走事件〜そして列車はなくなった〜」",
+        "image": "https://static.kivo.wiki/images/timeline/4J1PKyJohcRg0U11MXhVXgBuTOJLbLh4.jpg",
+        "body_summary": "【新情報 ①】 4月22日(火)メンテナンス後、新イベント「ハイランダー鉄道爆走事件〜そして列車はなくなった〜」が開催されます。 今回のイベントでは、生徒「アオバ」さんをイベント報酬としてお迎えするこ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1913911645103161812",
+        "start_time": 1745316000,
+        "end_time": 1746586799
+      },
       {
         "id": 3928,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1913973933998538949",
         "start_time": 1745164800,
         "end_time": 1745164800
-      },
-      {
-        "id": 3954,
-        "line_type": "JP",
-        "title": "「絆ダイアローグ Vol.10」流媒体发行",
-        "image": "https://static.kivo.wiki/images/timeline/udc7iHWdLAo1iLfqMBEZnWrAW8XYoGDK.jpg",
-        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」の第10弾が配信開始されました！ 今回はC&Cのネルさん！ ネルさんが歌うといつもの雰囲気とは違う感じがします…！ 是非、聞いてみてくださいね！ ▼各種",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1913973431189545234",
-        "start_time": 1745164800,
-        "end_time": 1745164800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338572,
+  "time": 1789428296,
   "version": "1.0.0-beta.43"
 }

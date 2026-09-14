@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3671,
+        "line_type": "JP",
+        "title": "特别依赖2倍#54",
+        "image": "https://static.kivo.wiki/images/timeline/1qRcZZWF2v8ZmAwCs6PiJlLKMo9A5F2E.jpg",
+        "body_summary": "【キャンペーン予告】 2025年3月5日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 🔷開催期間 2025年3月5日(水)4:00 ～ 3月12日(水)3",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1896395305068994560",
+        "start_time": 1741147200,
+        "end_time": 1741723199
+      },
       {
         "id": 3669,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1895733241036095806",
         "start_time": 1741028449,
         "end_time": 1741633249
-      },
-      {
-        "id": 3767,
-        "line_type": "CN",
-        "title": "安守实梨",
-        "image": "https://static.kivo.wiki/images/timeline/XKuF2DuSZRfaFOLGZj2W2aEdoKoOxKhH.jpg",
-        "body_summary": "//////////档案启封////////// ■ 安守实梨 引领红冬联邦学院工务部的工务部长。 哪里有需要人力的大规模土木工程，实梨就会奔赴哪里。她工作能力很强，擅长组织人员、现场指挥。但她经常因",
-        "type": "Other",
-        "url": "weibo.com/6011443154/PgR3LwQfG",
-        "start_time": 1740996038,
-        "end_time": 1740996038
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338592,
+  "time": 1789428314,
   "version": "1.0.0-beta.43"
 }

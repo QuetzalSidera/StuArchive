@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4780,
+        "line_type": "JP",
+        "title": "迷你剧情「手動期の終り」追加",
+        "image": "https://static.kivo.wiki/images/timeline/VKSPedHqUMS7xdBEYiWMqggGu8vMWo8V.jpg",
+        "body_summary": "【ミニストーリー追加・予告】 12月17日(水)11:00より、ミニストーリー「手動期の終り」が追加されます！ ぜひ楽しみにしていてくださいね、先生♪ #ブルアカ",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/2000113633750286632",
+        "start_time": 1765940400,
+        "end_time": 1765940400
+      },
       {
         "id": 4779,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1999403858355773877",
         "start_time": 1765868400,
         "end_time": 1766455200
-      },
-      {
-        "id": 4794,
-        "line_type": "Globle",
-        "title": "国际服诗乃的战斗通行证 S1",
-        "image": "https://static.kivo.wiki/images/timeline/TrI6qAr0rmL9KF2sd2kkfBmpUgSZJWYP.jpg",
-        "body_summary": "🔹 Event ScheduleBattle Pass Schedule: 12/16 (Tue) After Maintenance – 1/13/2026 (Tue) 1:59 AM (UTC)B",
-        "type": "Event",
-        "url": "forum.nexon.com/bluearchive-en/board_view?board=3028&thread=3302503",
-        "start_time": 1765868400,
-        "end_time": 1768269600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338474,
+  "time": 1789428209,
   "version": "1.0.0-beta.43"
 }

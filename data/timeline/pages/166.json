@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4234,
+        "line_type": "JP",
+        "title": "PickUp学生神名文字获得机制调整",
+        "image": "https://static.kivo.wiki/images/timeline/K3GURrBMvICDCkCTjgleNfP6yzGbTu9E.jpg",
+        "body_summary": "【新情報⑰】 ピックアップ募集の報酬がリニューアルされます。 7月22日(火)メンテナンス後より、ピックアップ生徒さんをピックアップ募集で初めて獲得した場合、神名文字を追加で100個獲得できるようにな",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1946552527010623978",
+        "start_time": 1753182000,
+        "end_time": 1753182000
+      },
       {
         "id": 4233,
         "line_type": "JP",
@@ -80,7 +91,7 @@
       {
         "id": 4286,
         "line_type": "Globle",
-        "title": "国际服主线Vol.EX 第二章 Part2更新",
+        "title": "国际服主线EX. 第二章 Part2更新",
         "image": "https://static.kivo.wiki/images/timeline/9Z6gj8Spqf9Y5SIT6SQeUcxKyGw6dOkh.jpg",
         "body_summary": "Sensei! Ex. Decagrammaton Chapter 2 Part 2 is now available! Join the Super Phenomenon Task Force an",
         "type": "MainStory",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1947522606837731490",
         "start_time": 1753164560,
         "end_time": 1753164560
-      },
-      {
-        "id": 4414,
-        "line_type": "Globle",
-        "title": "国际服情人节剧情更新「Valentine's Day Promise」",
-        "image": "https://static.kivo.wiki/images/timeline/tF3yya9sotRA4GAV0QAV3qwAJkfgCteA.jpg",
-        "body_summary": "",
-        "type": "OtherStory",
-        "url": "x.com/EN_BlueArchive/status/1947522606837731490",
-        "start_time": 1753164000,
-        "end_time": 1753164000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338534,
+  "time": 1789428262,
   "version": "1.0.0-beta.43"
 }

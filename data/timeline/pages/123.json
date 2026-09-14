@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4697,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #97",
+        "image": "https://static.kivo.wiki/images/timeline/dfNjCkOrwgzwV2PcBGHzulCy312easo9.jpg",
+        "body_summary": "[11/18 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 11/18 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1989256992326594624",
+        "start_time": 1763431200,
+        "end_time": 1763442000
+      },
       {
         "id": 4699,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1134948546135457801",
         "start_time": 1763089200,
         "end_time": 1763089200
-      },
-      {
-        "id": 4698,
-        "line_type": "Globle",
-        "title": "国际服新专辑「Kokoro Gradation」英文版发布",
-        "image": "https://static.kivo.wiki/images/timeline/kg21uFxzMgoTmWOtHZz0IjUcF1qbdHh2.jpg",
-        "body_summary": "Sensei, have you been enjoying “Kokoro Gradation”? This time, the English version—once again featuri",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/1989272104295145587",
-        "start_time": 1763085600,
-        "end_time": 1763085600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338485,
+  "time": 1789428219,
   "version": "1.0.0-beta.43"
 }

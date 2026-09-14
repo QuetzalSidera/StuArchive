@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5828,
+        "line_type": "JP",
+        "title": "抽卡机制更改",
+        "image": "https://static.kivo.wiki/images/timeline/HXVftuEVrKJwxLG3HKEpQCfKm6uBWkw6.jpg",
+        "body_summary": "【新情報⑰】 7月29日(水)メンテナンス後より、生徒募集の仕様がリニューアルされます！ 「呼び出しポイント」の廃止に伴い、新たに「呼び出しチャージ」や「募集回数特典」が実装されます。 ※詳細はこちら",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2081354265256468538/photo/2",
+        "start_time": 1785335230,
+        "end_time": 1785335230
+      },
       {
         "id": 5827,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2081334115308327065",
         "start_time": 1785330223,
         "end_time": 1785898799
-      },
-      {
-        "id": 5874,
-        "line_type": "JP",
-        "title": "违规账号封禁 #58",
-        "image": "https://static.kivo.wiki/images/timeline/kxVinN5Z8OdKdpE0jdG6F4pHgxnbgu2y.png",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/2082436058365751517",
-        "start_time": 1785326400,
-        "end_time": 1785326400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338370,
+  "time": 1789428115,
   "version": "1.0.0-beta.43"
 }

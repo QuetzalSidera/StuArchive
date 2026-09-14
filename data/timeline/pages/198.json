@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3939,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习 #33",
+        "image": "https://static.kivo.wiki/images/timeline/ZJPbki7OM8G6Vm0PbWq9i0vIUzxRvKjf.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Escort Drill) will start on 4/29 (Tue)! ➡️ Offi",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/1914937289005732033",
+        "start_time": 1745856000,
+        "end_time": 1745856000
+      },
       {
         "id": 5647,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1915709872630386888",
         "start_time": 1745532600,
         "end_time": 1746154740
-      },
-      {
-        "id": 3903,
-        "line_type": "CN",
-        "title": "限时活动【寻找隐藏的遗产~崔尼蒂的课外活动~】",
-        "image": "https://static.kivo.wiki/images/timeline/ELRVvrd0w49rwYpXHODXIKomUxyXFTWO.jpg",
-        "body_summary": "限时活动【寻找隐藏的遗产\\~崔尼蒂的课外活动~】现已开启！ 偷偷复制姐妹会的经典却被发现的忧，在花子的仲裁下（？）接下了调查遗迹的任务……一场横冲直撞的遗迹探险记在崔尼蒂近海的无人岛上演！ ■ 给老师",
-        "type": "Event",
-        "url": "weibo.com/6011443154/PoL5pm2JA",
-        "start_time": 1745488800,
-        "end_time": 1746856799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338569,
+  "time": 1789428293,
   "version": "1.0.0-beta.43"
 }

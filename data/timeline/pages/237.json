@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3554,
+        "line_type": "JP",
+        "title": "ASMR发售：和纱、美咲",
+        "image": "https://static.kivo.wiki/images/timeline/PhQxXI9sExJbFvpztUT2D8aE1Xslwdsk.jpg",
+        "body_summary": "【#ブルアカASMR】 「ブルーアーカイブ」のASMR作品第7弾がDLsiteにて販売開始されました！ カズサさんは一緒にスキンケア！ ミサキさんは先生の看病！ 体験版もあるので、是非お聞きください！",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1880631706140717163",
+        "start_time": 1737216000,
+        "end_time": 1737216000
+      },
       {
         "id": 3624,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1878336106619383866",
         "start_time": 1736992800,
         "end_time": 1737597600
-      },
-      {
-        "id": 3509,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.1 第三章 Part4更新",
-        "image": "https://static.kivo.wiki/images/timeline/tgtW5Zq3uobAYBEe1DRwYy2Q8PXcOUXo.jpg",
-        "body_summary": "[Main Story Announcement] Main Story Vol 1. Foreclosure Task Force Chapter 3 Part 4 Traces of a Drea",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/1878321009679540538",
-        "start_time": 1736992800,
-        "end_time": 1736992800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338612,
+  "time": 1789428332,
   "version": "1.0.0-beta.43"
 }

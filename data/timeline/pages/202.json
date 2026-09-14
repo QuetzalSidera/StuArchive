@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3954,
+        "line_type": "JP",
+        "title": "「絆ダイアローグ Vol.10」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/udc7iHWdLAo1iLfqMBEZnWrAW8XYoGDK.jpg",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」の第10弾が配信開始されました！ 今回はC&Cのネルさん！ ネルさんが歌うといつもの雰囲気とは違う感じがします…！ 是非、聞いてみてくださいね！ ▼各種",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1913973431189545234",
+        "start_time": 1745164800,
+        "end_time": 1745164800
+      },
       {
         "id": 3953,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1057128892669624327?spm_id_from=333.1365.0.0",
         "start_time": 1744970400,
         "end_time": 1744970400
-      },
-      {
-        "id": 3888,
-        "line_type": "CN",
-        "title": "下江小春（泳装）",
-        "image": "https://static.kivo.wiki/images/timeline/z2n6NtHSHRP26o3KLsYxxEqQcGsv097o.png",
-        "body_summary": "#蔚蓝档案//////////档案启封////////// ■ 下江小春（泳装） 为了监视老师，一同来到孤岛的补习部成员。 虽然心怀要监督所有人的使命感与责任感，但也不讨厌现在这种放松的氛围。 “泳装",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/1056757807517270038?spm_id_from=333.1365.0.0",
-        "start_time": 1744884000,
-        "end_time": 1744884000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338574,
+  "time": 1789428297,
   "version": "1.0.0-beta.43"
 }

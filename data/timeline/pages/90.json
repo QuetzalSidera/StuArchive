@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5037,
+        "line_type": "JP",
+        "title": "5周年纪念「月導」MV公开",
+        "image": "https://static.kivo.wiki/images/timeline/ivICiNJbzs1GadIpthPUwSFqGXT7dv25.jpg",
+        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日はミヤコさんが歌う「月導」です！ ▼動画はこちら https://youtu.be/PM39YKR6bYA",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2018293326273745257",
+        "start_time": 1770080400,
+        "end_time": 1770080400
+      },
       {
         "id": 5036,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/QpDAOxmke",
         "start_time": 1769828400,
         "end_time": 1769847148
-      },
-      {
-        "id": 5028,
-        "line_type": "JP",
-        "title": "5周年纪念「パフェダイアリーズ」MV公开",
-        "image": "https://static.kivo.wiki/images/timeline/ZkYAK15YjeLtuggxRuk2US4CnCEmFoHY.jpg",
-        "body_summary": "【MV連続公開】 ブルーアーカイブ5周年を記念して、毎日ブルアカ楽曲のMVを公開♪ 本日は放課後スイーツ部のアイリさん、カズサさん、ナツさん、ヨシミさんが歌う「パフェダイアリーズ」です！ ▼動画はこち",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2017206156385804728",
-        "start_time": 1769821200,
-        "end_time": 1769821200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338449,
+  "time": 1789428187,
   "version": "1.0.0-beta.43"
 }

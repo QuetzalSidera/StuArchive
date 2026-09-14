@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3192,
+        "line_type": "CN",
+        "title": "国服蓝光礼盒预售开启",
+        "image": "https://static.kivo.wiki/images/timeline/84PdCMv7p5lp0v1BkZSAKBvhluXn1TN3.png",
+        "body_summary": "【蔚蓝档案 The Animation】蓝光礼盒预售现已开启！ 购买各卷蓝光礼盒即可获得特典礼包码，可兑换特定成员招募券、成员特别记忆大厅、3★成员必得招募券、各类养成素材等丰富礼物！ 同时，在Yos",
+        "type": "Other",
+        "url": "weibo.com/6011443154/OBG7au2mX",
+        "start_time": 1728986400,
+        "end_time": 1728986400
+      },
       {
         "id": 3178,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1136",
         "start_time": 1728615600,
         "end_time": 1728615600
-      },
-      {
-        "id": 3174,
-        "line_type": "JP",
-        "title": "咖啡厅等级10解锁",
-        "image": "https://static.kivo.wiki/images/timeline/SkujkEpmntzEv9DsMkko6sc4rS4fmj4c.jpg",
-        "body_summary": "【カフェランク解禁】 メンテナンス終了後、「任務 Area27」の解放に伴い、カフェランク10が解禁されます！ 「カフェランクアップ」に必要な「カフェ設備コアLv.3」は「Normal」27-5のクリ",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1844271832813445198",
-        "start_time": 1728550800,
-        "end_time": 1728550800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338652,
+  "time": 1789428368,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4012,
+        "line_type": "JP",
+        "title": "迷你剧情「何にも縛られぬ者たち」更新",
+        "image": "https://static.kivo.wiki/images/timeline/moUDp6n9lMeT6B9TeGXu1f6kU85CJNKM.jpg",
+        "body_summary": "【新情報⑥】 ミニストーリーに「何にも縛られぬ者たち」編が追加されます！！ 🔷実装日時 6/18(水) 11:00より",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/1924061281063256322",
+        "start_time": 1750240800,
+        "end_time": 1750240800
+      },
       {
         "id": 4132,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/PwmEqanPq?pagetype=profilefeed",
         "start_time": 1749895200,
         "end_time": 1750327200
-      },
-      {
-        "id": 4099,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍 #21",
-        "image": "https://static.kivo.wiki/images/timeline/oC3zk6IbBvp0KRFxoP0B33tRFg2GKTeL.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 6/13 (Fri)! Don't m",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1933421579024674999",
-        "start_time": 1749890507,
-        "end_time": 1750063307
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338551,
+  "time": 1789428278,
   "version": "1.0.0-beta.43"
 }

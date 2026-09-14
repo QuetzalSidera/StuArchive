@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3298,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #72 维护延长",
+        "image": "",
+        "body_summary": "[11/5 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 11/5 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1852274388898554342",
+        "start_time": 1730772000,
+        "end_time": 1730796120
+      },
       {
         "id": 3299,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/ODLlxqzzA",
         "start_time": 1730318400,
         "end_time": 1730664000
-      },
-      {
-        "id": 3229,
-        "line_type": "JP",
-        "title": "屋内戦・グレゴリオ #2",
-        "image": "https://static.kivo.wiki/images/timeline/JQHfNrKhXROfqSCDk20ymFHnrrMQJg74.jpg",
-        "body_summary": "直播情报推文 【新情報 ⑥】 続きましては総力戦の情報になります。 総力戦「グレゴリオ」の開催が決定しました！ 開催期間と詳細情報はこちらの画像にてご確認ください。 #ブルアカ #ブルアカらいぶおーた",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1847968035522613636",
-        "start_time": 1730257200,
-        "end_time": 1730836799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338643,
+  "time": 1789428360,
   "version": "1.0.0-beta.43"
 }

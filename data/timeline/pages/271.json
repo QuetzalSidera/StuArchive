@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3241,
+        "line_type": "JP",
+        "title": "4周年特设网站开放",
+        "image": "https://static.kivo.wiki/images/timeline/LeAFAyLuvhi3SzyQ0umwKqJsXOp6LCAp.png",
+        "body_summary": "【4thアニバーサリー】 4周年の特設サイトがオープンしました！ そして、今年も「ブルアカふぇす！」が開催決定です！ 開催日：2025/1/17(金)～19(日) 会場：幕張メッセ 国際展示場 展示ホ",
+        "type": "WebEvent",
+        "url": "x.com/Blue_ArchiveJP/status/1847987124001517581",
+        "start_time": 1729432800,
+        "end_time": 1729432800
+      },
       {
         "id": 3242,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1142",
         "start_time": 1729159229,
         "end_time": 1729749629
-      },
-      {
-        "id": 3196,
-        "line_type": "CN",
-        "title": "茜（邦妮）、明日奈（邦妮）、花凛（邦妮）、妮露（邦妮）家具互动更新",
-        "image": "https://static.kivo.wiki/images/timeline/XqWH0VjzTCoiyO0UP2OrA7j4ftIv0WtB.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 10月17日 维护结束后 ■ 互动更新 • ",
-        "type": "ContentImprovements",
-        "url": "bluearchive-cn.com/news/1149",
-        "start_time": 1729159200,
-        "end_time": 1729159200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338650,
+  "time": 1789428366,
   "version": "1.0.0-beta.43"
 }

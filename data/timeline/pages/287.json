@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3109,
+        "line_type": "Globle",
+        "title": "韩服MOM'S TOUCH联动发推活动",
+        "image": "https://static.kivo.wiki/images/timeline/tKBl74Y5xKc39lc5Y8M8s6rd493KPCcW.jpg",
+        "body_summary": "[맘스터치 커뮤니티 이벤트 안내] 선생님, 맘스터치 콜라보를 기념하여 X(트위터) 해시태그 이벤트를 진행합니다! 참여하신 분들 중 추첨을 통해 매주 맘스터치 메뉴를 선물로 드려요.",
+        "type": "WebEvent",
+        "url": "x.com/KR_BlueArchive/status/1830781599270740180",
+        "start_time": 1725336000,
+        "end_time": 1727629200
+      },
       {
         "id": 3108,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/Ou4Kf59Y0",
         "start_time": 1724911213,
         "end_time": 1725479953
-      },
-      {
-        "id": 3040,
-        "line_type": "CN",
-        "title": "特别委托3倍7",
-        "image": "https://static.kivo.wiki/images/timeline/9GJJEpL9Ln8zZVp8CMedRzIwfpXPZles.jpg",
-        "body_summary": "【特别委托】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【特别委托】道具掉落量3倍 ■ 活动时间 08月29日 04:00 ",
-        "type": "Double",
-        "url": "weibo.com/6011443154/OueaJC9UL",
-        "start_time": 1724875215,
-        "end_time": 1725479955
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338668,
+  "time": 1789428382,
   "version": "1.0.0-beta.43"
 }

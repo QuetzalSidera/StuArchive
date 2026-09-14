@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 126,
+        "line_type": "JP",
+        "title": "便利屋68小动画",
+        "image": "",
+        "body_summary": "【#便利屋68アニメ】 「貯めろ！アウトローポイント！」へのご参加ありがとうございました！ アルさんも予算確保ができたようです。 どこから確保してきたんでしょうか？？ 今後も便利屋68にご期待ください",
+        "type": "OutsideGames",
+        "url": "x.com/blue_archivejp/status/1391996492433346564?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1620699036,
+        "end_time": 1620699036
+      },
       {
         "id": 104,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1385505418202386433?s=20",
         "start_time": 1619701174,
         "end_time": 1619701174
-      },
-      {
-        "id": 94,
-        "line_type": "JP",
-        "title": "降井",
-        "image": "",
-        "body_summary": "【新情報②】 それから、この書類に「よろしくね」というメモが貼られていたので言ってしまうのですが…次のピックアップから生徒さんの呼び出しに必要な「呼び出しポイント」が、何と「300」から「200」にな",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1385503969502392324?s=20",
-        "start_time": 1619701004,
-        "end_time": 1619701004
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338990,
+  "time": 1789428672,
   "version": "1.0.0-beta.43"
 }

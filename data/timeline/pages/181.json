@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4121,
+        "line_type": "CN",
+        "title": "堇、宫子、泉（泳装）、花子爱用品新增",
+        "image": "https://static.kivo.wiki/images/timeline/BaMjt4WE9uVLRSZzYZAepZ1mhVXdMmuZ.jpg",
+        "body_summary": "06月19日版本更新后，将新增成员“堇”、“宫子”、“泉（泳装）”、“花子”的爱用品，通过爱用品可以使对应成员获得属性增加、基础技能提升等加成各种效果，同时还将解锁全新的成员专属好感剧情。 ■ 爱用品",
+        "type": "ContentImprovements",
+        "url": "bluearchive-cn.com/news/1445",
+        "start_time": 1750337782,
+        "end_time": 1750337782
+      },
       {
         "id": 4120,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1074198810719158276?spm_id_from=333.1387.0.0",
         "start_time": 1750294800,
         "end_time": 1750899599
-      },
-      {
-        "id": 4012,
-        "line_type": "JP",
-        "title": "迷你剧情「何にも縛られぬ者たち」更新",
-        "image": "https://static.kivo.wiki/images/timeline/moUDp6n9lMeT6B9TeGXu1f6kU85CJNKM.jpg",
-        "body_summary": "【新情報⑥】 ミニストーリーに「何にも縛られぬ者たち」編が追加されます！！ 🔷実装日時 6/18(水) 11:00より",
-        "type": "OtherStory",
-        "url": "x.com/Blue_ArchiveJP/status/1924061281063256322",
-        "start_time": 1750240800,
-        "end_time": 1750240800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338550,
+  "time": 1789428277,
   "version": "1.0.0-beta.43"
 }

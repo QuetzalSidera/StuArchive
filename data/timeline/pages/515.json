@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1163,
+        "line_type": "Globle",
+        "title": "国际服例行维护21",
+        "image": "",
+        "body_summary": "[8/23 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 8/23 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1561548715164217345",
+        "start_time": 1661223628,
+        "end_time": 1661238028
+      },
       {
         "id": 1164,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1555750768728502272",
         "start_time": 1660035600,
         "end_time": 1660679999
-      },
-      {
-        "id": 404,
-        "line_type": "JP",
-        "title": "主线剧情Vol.3「エデン条約」篇第4章「忘れられた神々のためのキリエ」后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/9Qtc7rkXKOONX5usWvEHTFInVuaJUX28.jpg",
-        "body_summary": "【メインストーリー追加・予告】 儀式のタイムリミット―日の出が目前に迫る中、サオリとミカの最後の戦いが幕を開ける。 引き金を引く指先が示す夜明けは果たして― Vol.3「エデン条約」編 第4章「忘れら",
-        "type": "MainStory",
-        "url": "twitter.com/Blue_ArchiveJP/status/1554663429784621056",
-        "start_time": 1660035600,
-        "end_time": 1660035600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338921,
+  "time": 1789428609,
   "version": "1.0.0-beta.43"
 }

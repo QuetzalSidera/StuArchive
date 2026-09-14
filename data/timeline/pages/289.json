@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3033,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍14",
+        "image": "https://static.kivo.wiki/images/timeline/n0G5Q5cNkKdgI2ycpTaLmQrajDp00Rvn.jpg",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 8/23 (Fri)! Don't m",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1826892137587413022",
+        "start_time": 1724439605,
+        "end_time": 1724612405
+      },
       {
         "id": 3018,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/OsOzNsCzN",
         "start_time": 1724320800,
         "end_time": 1724616000
-      },
-      {
-        "id": 3026,
-        "line_type": "CN",
-        "title": "例行维护23",
-        "image": "https://static.kivo.wiki/images/timeline/ZGwbyCuuLS1a6lT5WrvSXk2XBD43R0FF.jpg",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月22日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
-        "type": "Maintenance",
-        "url": "weibo.com/ttarticle/p/show?id=2309405069838707195999",
-        "start_time": 1724306400,
-        "end_time": 1724320800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338670,
+  "time": 1789428384,
   "version": "1.0.0-beta.43"
 }

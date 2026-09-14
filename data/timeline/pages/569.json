@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4,
+        "line_type": "Globle",
+        "title": "国际服首次宣发（推文）",
+        "image": "https://static.kivo.wiki/images/timeline/woJgYwfcHfVaeEqGCvylS1Tx7DrfW5b5.jpg",
+        "body_summary": "",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1427875470754738178",
+        "start_time": 1629296169,
+        "end_time": 1629296169
+      },
       {
         "id": 827,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1418914141859893250",
         "start_time": 1627560027,
         "end_time": 1627560027
-      },
-      {
-        "id": 1033,
-        "line_type": "JP",
-        "title": "限定卡池「海統べる寄り添いの月光」&「夏乱す容赦なき太陽」、限定卡池公告",
-        "image": "https://static.kivo.wiki/images/timeline/OsrHQAxxySeiEVYFRMFLZ7b8W06X0qk3.jpg",
-        "body_summary": "【ピックアップ募集・予告】 イベント限定UP募集「海統べる寄り添いの月光」&「夏乱す容赦なき太陽」がまもなく開催です！ 🔷PU生徒 ★3ヒナ(水着) (CV:#広橋涼) ★3イオリ(水着) (CV:#",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1420311070099443713",
-        "start_time": 1627560000,
-        "end_time": 1628740800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338982,
+  "time": 1789428665,
   "version": "1.0.0-beta.43"
 }

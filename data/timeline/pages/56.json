@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5373,
+        "line_type": "Globle",
+        "title": "国际服卡池「I'll do my best.For our Ninja way...! 」",
+        "image": "https://static.kivo.wiki/images/timeline/MRUryo6OIfBctfQjyOQ7KVXULRjFTYem.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 4/28 (Tue)! 💌Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "x.com/i/status/2047571246347612584",
+        "start_time": 1777383249,
+        "end_time": 1778592849
+      },
       {
         "id": 5369,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2045829808932970826",
         "start_time": 1777057200,
         "end_time": 1777229999
-      },
-      {
-        "id": 5380,
-        "line_type": "CN",
-        "title": "大决战：比纳 • 街区战 #2",
-        "image": "https://static.kivo.wiki/images/timeline/nQsm1D25VYNBU47NJpwIsx0lWN658Ueu.png",
-        "body_summary": "#蔚蓝档案#​ 神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前正在基沃托斯各地出没。 比纳是神名十文字的第3个先知，在阿拜多斯的沙漠地区首次被发现。 比纳来到这里的目的尚不明确",
-        "type": "BigRaid",
-        "url": "www.bilibili.com/opus/1193951088834772994",
-        "start_time": 1777010400,
-        "end_time": 1777319999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338411,
+  "time": 1789428153,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2861,
+        "line_type": "JP",
+        "title": "语音鉴赏功能字幕追加",
+        "image": "https://static.kivo.wiki/images/timeline/3F7cNRoC8pnYgORroTbSsL5xv8y2utoC.jpg",
+        "body_summary": "【新情報⑱】 7月22日(月)メンテナンス後、「CV鑑賞モード」に「字幕」が追加されます！ 今後はCV鑑賞モードで音声が再生される際に「字幕」が表示されるようになりますよ！ ※なお、「字幕」はオプショ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1815004061005193265",
+        "start_time": 1721646000,
+        "end_time": 1721646000
+      },
       {
         "id": 2860,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1815042800695562343",
         "start_time": 1721574000,
         "end_time": 1721574000
-      },
-      {
-        "id": 2869,
-        "line_type": "JP",
-        "title": "OST6 流媒体发行",
-        "image": "https://static.kivo.wiki/images/timeline/S7ree0Th5PpyneZ2bUcoDoaiN1VhXqhv.jpg",
-        "body_summary": "【配信開始】 先生！ 『ブルーアーカイブ』のOST第6弾「Keeping for the abiding belief」のデジタル配信を開始いたしました！ ついに待望の「Usagi Flap」や「Up",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1815042391210172707",
-        "start_time": 1721574000,
-        "end_time": 1721574000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338689,
+  "time": 1789428402,
   "version": "1.0.0-beta.43"
 }

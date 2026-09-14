@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5836,
+        "line_type": "JP",
+        "title": "「青春あんさんぶる vol.19」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/CrHVmG7Jh3jElYPp4y4I9o6qQcTvoYiq.jpg",
+        "body_summary": "【配信開始】 先生！ 「青春あんさんぶるシリーズ」第19弾、ワイルドハント芸術学院・特殊交易部の「特殊交易部はやめられない」が配信開始されました！ ミヨさん、フユさん、リツさんの掛け合いが楽しい、にぎ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2081395958559183301",
+        "start_time": 1785078000,
+        "end_time": 1785078000
+      },
       {
         "id": 5835,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/RahVolTqX",
         "start_time": 1784948400,
         "end_time": 1784948400
-      },
-      {
-        "id": 5800,
-        "line_type": "Globle",
-        "title": "国际服推特帖小活动[The search for something SUPER IMPORTANT!] #2",
-        "image": "https://static.kivo.wiki/images/timeline/iuLVDD2zdBytnlakaZVPcnoelhTfgCFl.jpg",
-        "body_summary": "[The search for something SUPER IMPORTANT! #2] This time I came to ask Rena, but… Looks like she nee",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2080593843351896499",
-        "start_time": 1784887200,
-        "end_time": 1784887200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338373,
+  "time": 1789428117,
   "version": "1.0.0-beta.43"
 }

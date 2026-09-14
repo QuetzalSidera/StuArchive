@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3014,
+        "line_type": "JP",
+        "title": "例行维护 #101",
+        "image": "https://static.kivo.wiki/images/timeline/kAe4TRTzN4vFGbYZlqCJWGF5VohJ7QKs.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/21(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1825774910805103072",
+        "start_time": 1724205600,
+        "end_time": 1724234400
+      },
       {
         "id": 3012,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1824370515169120477",
         "start_time": 1724119202,
         "end_time": 1724137202
-      },
-      {
-        "id": 3006,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍29",
-        "image": "https://static.kivo.wiki/images/timeline/Ksh5vJeILygCe4yX81ByEEZ8XBXT1JOv.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 8/19 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1824702703278404047",
-        "start_time": 1724094051,
-        "end_time": 1724698851
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338672,
+  "time": 1789428386,
   "version": "1.0.0-beta.43"
 }

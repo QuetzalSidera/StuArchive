@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5301,
+        "line_type": "Globle",
+        "title": "国际服红冬推特贴集赞小活动 #4",
+        "image": "https://static.kivo.wiki/images/timeline/yvAZk0BRi4zffSY0lDevg44emHNl6jL9.jpg",
+        "body_summary": "The third flyer from the Anonymous Red Winter Partygoers has arrived! It says: Behold! The students,",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2042830001347715299",
+        "start_time": 1775883600,
+        "end_time": 1775883600
+      },
       {
         "id": 5312,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1189235216926900240?spm_id_from=333.1387.0.0",
         "start_time": 1775707734,
         "end_time": 1775707734
-      },
-      {
-        "id": 5310,
-        "line_type": "CN",
-        "title": "例行维护#56",
-        "image": "https://static.kivo.wiki/images/timeline/Ghf2HSAGiGQG1zYnyjh6BJECQ9ebUfAY.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月09日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号",
-        "type": "Maintenance",
-        "url": "www.bilibili.com/opus/1188864127447072789?spm_id_from=333.1387.0.0",
-        "start_time": 1775707580,
-        "end_time": 1775707580
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338419,
+  "time": 1789428160,
   "version": "1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 2758,
+        "line_type": "CN",
+        "title": "总力战 白&黑 • 室内战 3",
+        "image": "https://static.kivo.wiki/images/timeline/zRdnkEp7OAj28XXpS3P6sP64c4cZY6Lb.jpg",
+        "body_summary": "许久之前因财政困难而停止营业的游乐园【斯兰匹亚】发生了原因不明的诡异现象。 原本已停止运行的娱乐玩偶和各种娱乐设备竟在夜晚自行启动并开始袭击市民。 娱乐玩偶白和黑自行启动的原因尚未查明，但至少可以明确",
+        "type": "Raid",
+        "url": "weibo.com/6011443154/OjZN5Dcs9",
+        "start_time": 1719482410,
+        "end_time": 1720036810
+      },
       {
         "id": 2765,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1804833214458130854",
         "start_time": 1719399600,
         "end_time": 1720580399
-      },
-      {
-        "id": 2775,
-        "line_type": "JP",
-        "title": "例行维护97",
-        "image": "https://static.kivo.wiki/images/timeline/3VkDXx7QNuN6jbBOMOe4kVrIGMXTu4qr.jpg",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 6/26(水) 11:0",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1805481161478881582",
-        "start_time": 1719370800,
-        "end_time": 1719399600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338700,
+  "time": 1789428412,
   "version": "1.0.0-beta.43"
 }

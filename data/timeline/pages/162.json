@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4326,
+        "line_type": "CN",
+        "title": " 登录签到活动【二周年限时登录活动】",
+        "image": "https://static.kivo.wiki/images/timeline/qlgFnoRrgXX68J4MOyqoyMcCN4hbvpJG.png",
+        "body_summary": "二周年限时登录活动即将开始，活动期间累计登录游戏，即可获得10次招募券，限定称号等丰富奖励！老师可千万不要错过啦！ ■ 活动时间 07月31日 04:00 ~ 08月28日 13:59 ■ 奖励内容 ",
+        "type": "Event",
+        "url": "www.bilibili.com/opus/1095257894334496774",
+        "start_time": 1753905600,
+        "end_time": 1756360799
+      },
       {
         "id": 4304,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1949001742319849672",
         "start_time": 1753786157,
         "end_time": 1754390957
-      },
-      {
-        "id": 4291,
-        "line_type": "Globle",
-        "title": "国际服大决战 Gregorius (Indoor) #2",
-        "image": "https://static.kivo.wiki/images/timeline/2j2kBtx9gS0TFyD0HB1ovdOTdY2WcPKT.jpg",
-        "body_summary": "[Grand Assault Preview] The Grand Assault - Gregorius (Indoor Warfare) will start on 7/29 (Tue)! ➡️O",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/1947916509654987161",
-        "start_time": 1753785362,
-        "end_time": 1754390162
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338529,
+  "time": 1789428258,
   "version": "1.0.0-beta.43"
 }

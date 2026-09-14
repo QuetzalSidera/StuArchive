@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4824,
+        "line_type": "CN",
+        "title": "任务（普通难度）2倍 #23",
+        "image": "https://static.kivo.wiki/images/timeline/pEK0pA68CM0LNaIKWeBEJpKf8F2r9WQO.jpg",
+        "body_summary": "任务（普通难度）】道具掉落量2倍 ■ 活动时间： • 01月01日 04:00 ~ 01月05日 03:59 活动期间，完成【任务（普通难度）】时，获得的道具掉落奖励数量变为2倍。",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/1147194356862550018",
+        "start_time": 1767211200,
+        "end_time": 1767556799
+      },
       {
         "id": 4899,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2002341271260836325",
         "start_time": 1767150000,
         "end_time": 1767729599
-      },
-      {
-        "id": 4867,
-        "line_type": "Globle",
-        "title": "国际服活动复刻「Say-Bing!」",
-        "image": "https://static.kivo.wiki/images/timeline/rcktjWjrR68sMSDkWjJTfrrjRGEfbrvO.jpg",
-        "body_summary": "[Event Update Notice] The \"Say-Bing!\" Event Story is back! 🗓️Period: 12/30 (Tue) After Maintenance –",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2005906391815577860",
-        "start_time": 1767078000,
-        "end_time": 1767664800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338466,
+  "time": 1789428203,
   "version": "1.0.0-beta.43"
 }

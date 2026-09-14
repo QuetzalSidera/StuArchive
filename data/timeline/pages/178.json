@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4166,
+        "line_type": "JP",
+        "title": "アロプラ解説#3",
+        "image": "https://static.kivo.wiki/images/timeline/rN0p7aTCXAfanAJl57Y7dA7O3UIk928X.jpg",
+        "body_summary": "【アロプラ解説第三弾！】 先生、アロプラ解説第三弾では制約解除決戦「セトの憤怒」についてお届けします！ ぜひご参考にしてみて下さい！ ▽高画質版はこちら https://youtube.com/wat",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1938070346021949932",
+        "start_time": 1750906800,
+        "end_time": 1750906800
+      },
       {
         "id": 4141,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1936320682339844278",
         "start_time": 1750746094,
         "end_time": 1751350894
-      },
-      {
-        "id": 4139,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍 #38",
-        "image": "https://static.kivo.wiki/images/timeline/pPbUhvDx3l768qfsH5OxHoJCb8Mysk9V.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1936318167225098435",
-        "start_time": 1750745986,
-        "end_time": 1751350786
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338547,
+  "time": 1789428274,
   "version": "1.0.0-beta.43"
 }

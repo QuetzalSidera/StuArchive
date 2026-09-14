@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5586,
+        "line_type": "JP",
+        "title": "指名手配2倍#58",
+        "image": "https://static.kivo.wiki/images/timeline/GOenSHpzVTtaTNLxOSYQ1ZHb83HaActY.jpg",
+        "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
+        "start_time": 1782244800,
+        "end_time": 1782849599
+      },
       {
         "id": 5619,
         "line_type": "JP",
@@ -47,7 +58,7 @@
       {
         "id": 5614,
         "line_type": "Globle",
-        "title": "国际服主线Vol.EX 第三章 Part4更新",
+        "title": "国际服主线EX. 第三章 Part4更新",
         "image": "https://static.kivo.wiki/images/timeline/8M1q0539tKxkX45Xx8m2NIF9WRrtfMMV.jpg",
         "body_summary": "[Main Story Announcement] Main Story Ex. Decagrammaton Ch.3 「The Sky of Unity」 Part.4 is coming soon",
         "type": "MainStory",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2068227349116494051",
         "start_time": 1782154800,
         "end_time": 1782759599
-      },
-      {
-        "id": 5696,
-        "line_type": "JP",
-        "title": "活动「嵐過天晴」PV公开",
-        "image": "https://static.kivo.wiki/images/timeline/bLv3kWnx3fBFYmbzRtSDMurLbQNB32M8.jpg",
-        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ 「門主」が長期の休暇を取るのは難しい。 そのため、夏休みを諦めていたキサキさんでしたが、ルミさんの発案により「査察」という名目で避暑地へ行くこと",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2068892090092937567",
-        "start_time": 1782141786,
-        "end_time": 1782141786
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338388,
+  "time": 1789428131,
   "version": "1.0.0-beta.43"
 }

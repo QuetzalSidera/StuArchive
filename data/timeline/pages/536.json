@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1069,
+        "line_type": "Globle",
+        "title": "国际服卡池「Would like to go with me? It's only 2,000 meters above sea level.」",
+        "image": "https://static.kivo.wiki/images/timeline/zO1EPg1jO0fpdsqJVXNQSiFut7M5tINe.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 4/5 (Tue)! Target Pick Up Stud",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1510180258678394884",
+        "start_time": 1649139600,
+        "end_time": 1650337200
+      },
       {
         "id": 1072,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1509732282671812609",
         "start_time": 1648783820,
         "end_time": 1648783820
-      },
-      {
-        "id": 1067,
-        "line_type": "Globle",
-        "title": "国际服愚人节特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/n3KcERpMLsQ60MuRF283qzutBrzVBYWQ.jpg",
-        "body_summary": "[Schale's April Fools Special Gift] Peroperopero! What a pero-worthy prank! 3 cheers for our idols! ",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1509731024011411456",
-        "start_time": 1648782900,
-        "end_time": 1648782900
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338945,
+  "time": 1789428631,
   "version": "1.0.0-beta.43"
 }

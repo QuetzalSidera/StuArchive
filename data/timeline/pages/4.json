@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,7 +15,7 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
@@ -23,9 +23,20 @@
     },
     "timeline": [
       {
+        "id": 6022,
+        "line_type": "Globle",
+        "title": "国际服迷你剧情更新「ON AIR: Gehenna(Ep.1-2)」",
+        "image": "https://static.kivo.wiki/images/timeline/JP5bIzFxfua9bsPcBfZLHAInunUqCYAd.jpg",
+        "body_summary": "",
+        "type": "OtherStory",
+        "url": "x.com/EN_BlueArchive/status/2097227234599952760",
+        "start_time": 1788854400,
+        "end_time": 1788854400
+      },
+      {
         "id": 6020,
         "line_type": "Globle",
-        "title": "国际服战术对抗赛S11开幕 & 迷你剧情更新「ON AIR: Gehenna(Ep.1-2)」",
+        "title": "国际服战术对抗赛S11开幕",
         "image": "https://static.kivo.wiki/images/timeline/kViWxy8BuZGxFFkajEk9vUs2PPnxKrsg.png",
         "body_summary": "",
         "type": "ContentImprovements",
@@ -47,7 +58,7 @@
       {
         "id": 6000,
         "line_type": "Globle",
-        "title": "国际服例行维护 #118 延長",
+        "title": "国际服例行维护 #118 延长",
         "image": "https://static.kivo.wiki/images/timeline/jlqwJ467J1R9uNefY5u4Wd7OTJfgunpx.jpg",
         "body_summary": "[Extended Maintenance Notice] 9/8 (Tue) Maintenance has been extended, Sensei. ⏰Maintenance is now d",
         "type": "Maintenance",
@@ -58,7 +69,7 @@
       {
         "id": 5989,
         "line_type": "Globle",
-        "title": "国际服大决战The Grand Assault - Myouki Kurokage (Urban Warfare) #2",
+        "title": "国际服大决战 Myouki Kurokage (Urban) #2",
         "image": "https://static.kivo.wiki/images/timeline/pP6kxkZfEuvtkkyklFpyr6a1psoicN9T.jpg",
         "body_summary": "[Grand Assault Preview] The Grand Assault - Myouki Kurokage (Urban Warfare) will start on 9/8 (Tue)!",
         "type": "BigRaid",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2096134988513050716",
         "start_time": 1788807599,
         "end_time": 1789412399
-      },
-      {
-        "id": 5993,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍#53",
-        "image": "https://static.kivo.wiki/images/timeline/s4m6mW5g636RfpYSo8nonWQH9q12DfNv.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 9/7 (Mon), Commissions rewards will be doubled! Don't miss o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2096131218349683016",
-        "start_time": 1788807599,
-        "end_time": 1789412399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338354,
+  "time": 1789428101,
   "version": "1.0.0-beta.43"
 }

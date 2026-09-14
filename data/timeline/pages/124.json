@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4698,
+        "line_type": "Globle",
+        "title": "国际服新专辑「Kokoro Gradation」英文版发布",
+        "image": "https://static.kivo.wiki/images/timeline/kg21uFxzMgoTmWOtHZz0IjUcF1qbdHh2.jpg",
+        "body_summary": "Sensei, have you been enjoying “Kokoro Gradation”? This time, the English version—once again featuri",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/1989272104295145587",
+        "start_time": 1763085600,
+        "end_time": 1763085600
+      },
       {
         "id": 4691,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1987057499179188473",
         "start_time": 1762801200,
         "end_time": 1763405940
-      },
-      {
-        "id": 4672,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍 #34",
-        "image": "https://static.kivo.wiki/images/timeline/udJnhhd9Q50pTR6AN4ewxi6U64CvhOwD.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 11/11 (Mon), Lesson reward will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1987054982735028484",
-        "start_time": 1762801200,
-        "end_time": 1763405940
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338486,
+  "time": 1789428220,
   "version": "1.0.0-beta.43"
 }

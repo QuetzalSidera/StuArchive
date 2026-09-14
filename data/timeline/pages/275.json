@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 586,
+    "max_page": 587,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
@@ -15,13 +15,24 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 67,
+      "OtherStory": 68,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3170,
+        "line_type": "JP",
+        "title": "任务Hard2倍#38",
+        "image": "https://static.kivo.wiki/images/timeline/rLyJMHwChXYcCNNT6oFKeXDpAyzHJgJU.jpg",
+        "body_summary": "【キャンペーン予告】 10/10(木)より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼期間 2024/10/10(木)4:00 ~ 2024/10/16(水)3",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1843487021148582158",
+        "start_time": 1728504000,
+        "end_time": 1729022399
+      },
       {
         "id": 3184,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1843524083407040949",
         "start_time": 1728365340,
         "end_time": 1728365340
-      },
-      {
-        "id": 3163,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #70",
-        "image": "",
-        "body_summary": "[10/8 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/8 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1842127519064961310",
-        "start_time": 1728352800,
-        "end_time": 1728367200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789338654,
+  "time": 1789428370,
   "version": "1.0.0-beta.43"
 }
