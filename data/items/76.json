@@ -12,6 +12,14 @@
     "gift": {
       "students": [
         {
+          "id": 346,
+          "skin": "礼服",
+          "family_name": "空崎",
+          "given_name": "日奈",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%A9%BA%E5%B4%8E%20%E6%97%A5%E5%A5%88/%E7%A4%BC%E6%9C%8D/avatar.png",
+          "favorability": 60
+        },
+        {
           "id": 350,
           "skin": "礼服",
           "family_name": "陆八魔",
@@ -36,11 +44,11 @@
           "favorability": 60
         },
         {
-          "id": 346,
-          "skin": "礼服",
-          "family_name": "空崎",
-          "given_name": "日奈",
-          "avatar": "https://static.kivo.wiki/images/students/%E7%A9%BA%E5%B4%8E%20%E6%97%A5%E5%A5%88/%E7%A4%BC%E6%9C%8D/avatar.png",
+          "id": 101,
+          "skin": "",
+          "family_name": "黑崎",
+          "given_name": "小雪",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E5%B4%8E%20%E5%B0%8F%E9%9B%AA/avatar.png",
           "favorability": 60
         },
         {
@@ -49,14 +57,6 @@
           "family_name": "空崎",
           "given_name": "日奈",
           "avatar": "https://static.kivo.wiki/images/students/%E7%A9%BA%E5%B4%8E%20%E6%97%A5%E5%A5%88/%E6%B3%B3%E8%A3%85/avatar.png",
-          "favorability": 60
-        },
-        {
-          "id": 101,
-          "skin": "",
-          "family_name": "黑崎",
-          "given_name": "小雪",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E5%B4%8E%20%E5%B0%8F%E9%9B%AA/avatar.png",
           "favorability": 60
         },
         {
@@ -84,19 +84,11 @@
           "favorability": 60
         },
         {
-          "id": 216,
+          "id": 214,
           "skin": "",
-          "family_name": "京极",
-          "given_name": "皋月",
-          "avatar": "https://static.kivo.wiki/images/students/%E4%BA%AC%E6%9E%81%20%E7%9A%8B%E6%9C%88/original/Student_Portrait_CH0080_Collection.png",
-          "favorability": 40
-        },
-        {
-          "id": 347,
-          "skin": "",
-          "family_name": "元宫",
-          "given_name": "千明",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/original/Student_Portrait_CH0238_Collection.png",
+          "family_name": "千鸟",
+          "given_name": "满",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%8D%83%E9%B8%9F%20%E6%BB%A1/avatar.png",
           "favorability": 40
         },
         {
@@ -140,19 +132,19 @@
           "favorability": 40
         },
         {
+          "id": 216,
+          "skin": "",
+          "family_name": "京极",
+          "given_name": "皋月",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%BA%AC%E6%9E%81%20%E7%9A%8B%E6%9C%88/original/Student_Portrait_CH0080_Collection.png",
+          "favorability": 40
+        },
+        {
           "id": 353,
           "skin": "礼服",
           "family_name": "伊草",
           "given_name": "遥香",
           "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%8D%89%20%E9%81%A5%E9%A6%99/%E7%A4%BC%E6%9C%8D/Student_Portrait_CH0247_Collection.png",
-          "favorability": 40
-        },
-        {
-          "id": 214,
-          "skin": "",
-          "family_name": "千鸟",
-          "given_name": "满",
-          "avatar": "https://static.kivo.wiki/images/students/%E5%8D%83%E9%B8%9F%20%E6%BB%A1/avatar.png",
           "favorability": 40
         },
         {
@@ -217,6 +209,14 @@
           "family_name": "火宫",
           "given_name": "千夏",
           "avatar": "https://static.kivo.wiki/images/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/avatar.png",
+          "favorability": 40
+        },
+        {
+          "id": 8,
+          "skin": "",
+          "family_name": "空井",
+          "given_name": "咲",
+          "avatar": "https://static.kivo.wiki/images/students/%E7%A9%BA%E4%BA%95%E5%92%B2/avatar.png",
           "favorability": 40
         },
         {
@@ -300,11 +300,11 @@
           "favorability": 40
         },
         {
-          "id": 8,
+          "id": 347,
           "skin": "",
-          "family_name": "空井",
-          "given_name": "咲",
-          "avatar": "https://static.kivo.wiki/images/students/%E7%A9%BA%E4%BA%95%E5%92%B2/avatar.png",
+          "family_name": "元宫",
+          "given_name": "千明",
+          "avatar": "https://static.kivo.wiki/images/students/%E5%85%83%E5%AE%AB%20%E5%8D%83%E6%98%8E/original/Student_Portrait_CH0238_Collection.png",
           "favorability": 40
         },
         {
@@ -388,6 +388,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1789422675,
+  "time": 1789506839,
   "version": "1.0.0-beta.43"
 }
