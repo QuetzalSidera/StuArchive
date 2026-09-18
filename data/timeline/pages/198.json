@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3944,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #83",
+        "image": "https://static.kivo.wiki/images/timeline/BiC8EEo2Zgir61Inm6a4E5CQXoJai1qB.jpg",
+        "body_summary": "[4/29 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/29 (Tue). Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1915692259275649479",
+        "start_time": 1745892000,
+        "end_time": 1745906400
+      },
+      {
+        "id": 3946,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍 #36",
+        "image": "https://static.kivo.wiki/images/timeline/T14gPMiCnLboRdWsr9yesPueHlf41OV5.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1916024451067506826",
+        "start_time": 1745866800,
+        "end_time": 1746471540
+      },
       {
         "id": 3939,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/KR_BlueArchive/status/1915601664087613926",
         "start_time": 1745550046,
         "end_time": 1745550046
-      },
-      {
-        "id": 3880,
-        "line_type": "Globle",
-        "title": "国际服柴大将拉面店联动",
-        "image": "https://static.kivo.wiki/images/timeline/VA2cDtmkpCaKs4FJYdg8V9vWIpvm4lAf.jpg",
-        "body_summary": "[‘마스터 시바의 특제라멘’ 용산 팝업 스토어 오픈 예정 안내] 마스터 시바의 특제라멘 조리 Ver.부터 다양한 현장 구매 굿즈까지 모두 만나볼 수 있는 ‘마스터 시바의 특제라멘’",
-        "type": "OutsideGames",
-        "url": "x.com/KR_BlueArchive/status/1911283207414104550",
-        "start_time": 1745546400,
-        "end_time": 1746792000
-      },
-      {
-        "id": 3945,
-        "line_type": "Globle",
-        "title": "国际服新专辑「Twinkle☆Magic」MV公开特别礼物",
-        "image": "https://static.kivo.wiki/images/timeline/mUQa0nV7SiB0zuVLqnW8irXtEZ5Pm2w5.jpg",
-        "body_summary": "[‘Twinkle☆Magic’ MV Release – Special Reward Notice] Sensei, the 'Twinkle☆Magic' MV is now available",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/1915709872630386888",
-        "start_time": 1745532600,
-        "end_time": 1746154740
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685558,
+  "time": 1789769778,
   "version": "1.0.0-beta.43"
 }

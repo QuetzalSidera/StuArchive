@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5330,
+        "line_type": "JP",
+        "title": "任务Hard2倍#54",
+        "image": "https://static.kivo.wiki/images/timeline/Piz7fMlAEdtBTL3vtwCTcsNcuOAuKZ91.png",
+        "body_summary": "【新情報⑦】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブルア",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2045829808932970826",
+        "start_time": 1779217200,
+        "end_time": 1779821999
+      },
+      {
+        "id": 5459,
+        "line_type": "Globle",
+        "title": "国际服大决战 Shiro & Kuro (Urban) #2",
+        "image": "https://static.kivo.wiki/images/timeline/FgNTds2l2rpDu7yb4QJwxOkVsIjqJbqC.jpg",
+        "body_summary": "[Grand Assault Open Notice] The Grand Assault - Shiro & Kuro (Urban Warfare) has opened 5/19 (Tue) 2",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/2056634711104167978",
+        "start_time": 1779156000,
+        "end_time": 1779735600
+      },
       {
         "id": 5452,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2055256886685900937",
         "start_time": 1778846400,
         "end_time": 1780973999
-      },
-      {
-        "id": 5445,
-        "line_type": "Globle",
-        "title": "国际服4.5周年更新介绍视频公开",
-        "image": "https://static.kivo.wiki/images/timeline/hiJ9eOU4Ph4GzgqfRnGRbCA8XNsPPLW0.png",
-        "body_summary": "Happy 4.5-year anniversary, Sensei! CM Arcie + May 2026 Update = All the intel you’ve been waiting f",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2054871845245988886",
-        "start_time": 1778837400,
-        "end_time": 1778837400
-      },
-      {
-        "id": 5448,
-        "line_type": "Globle",
-        "title": "国际服主线EX. 第三章 Part1更新",
-        "image": "https://static.kivo.wiki/images/timeline/2K8eM0Y53R3ENqW4fW2pL0IzE3HhzplR.jpg",
-        "body_summary": "[Main Story Announcement] Main Story Ex. Decagrammaton Ch.3 「The Sky of Unity」 Part.1 is coming soon",
-        "type": "MainStory",
-        "url": "x.com/EN_BlueArchive/status/2055166288893448534",
-        "start_time": 1778824800,
-        "end_time": 1778824800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685410,
+  "time": 1789769636,
   "version": "1.0.0-beta.43"
 }

@@ -159,7 +159,7 @@
         "description": "CH0240_Battle_Move_2",
         "category": "battle",
         "text": "还有漏网之鱼，去下一个地方吧。",
-        "text_original": "まだ残党がいるわ。次に向かわよ。",
+        "text_original": "まだ残党がいるわ。次に向かうわよ。",
         "file": "https://static.kivo.wiki/voices/students/%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2/%E7%A4%BC%E6%9C%8D/11O274qj2uk4m8mAOfnvyvGHHFI6xrUM.ogg"
       },
       {
@@ -2213,6 +2213,10 @@
                 },
                 {
                   "cost": 1,
+                  "describe": "攻击力增加15.4%"
+                },
+                {
+                  "cost": 1,
                   "describe": "攻击力增加18.2%"
                 },
                 {
@@ -2226,10 +2230,6 @@
                 {
                   "cost": 1,
                   "describe": "攻击力增加22.4%"
-                },
-                {
-                  "cost": 1,
-                  "describe": "攻击力增加23.1%"
                 },
                 {
                   "cost": 1,
@@ -2407,10 +2407,10 @@
     "supplementary_uuid": "9f58ce1d-91bd-40ad-a17b-ee6d4f8c5739",
     "supplementary_declare_uuid": "2f91a180-a02a-4326-ac36-1ff80e13208f",
     "created_at": 1708139755,
-    "updated_at": 1789310485
+    "updated_at": 1789730638
   },
   "message": "OK",
   "success": true,
-  "time": 1789678915,
+  "time": 1789762912,
   "version": "1.0.0-beta.43"
 }

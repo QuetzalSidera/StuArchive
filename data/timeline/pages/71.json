@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5416,
+        "line_type": "Globle",
+        "title": "国际服例行维护#107",
+        "image": "https://static.kivo.wiki/images/timeline/STGZEfq7myjIYH9CcgMZVwHdArxhgdOV.jpg",
+        "body_summary": "[3/24 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 3/24 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2034918733823795568",
+        "start_time": 1774317600,
+        "end_time": 1774328399
+      },
+      {
+        "id": 5253,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习 #45",
+        "image": "https://static.kivo.wiki/images/timeline/PiCOpy77b3mw9SBz04JpcqiGgchPydL7.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Escort Drill) has opened 3/24 (Tue) 2:00 AM",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2036339732381053349",
+        "start_time": 1774317600,
+        "end_time": 1774897140
+      },
       {
         "id": 5233,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/1182122748943532032?spm_id_from=333.1365.0.0",
         "start_time": 1774100221,
         "end_time": 1774100221
-      },
-      {
-        "id": 5216,
-        "line_type": "CN",
-        "title": "樱子（偶像）",
-        "image": "https://static.kivo.wiki/images/timeline/Z6JzJUWGOSAQY11dnFOpePN7BP30jVY4.jpg",
-        "body_summary": "//////////档案启封////////// ■ 樱子（偶像） 崔尼蒂偶像组合【Antique Seraphim】的成员。 为了消除学员们对姐妹会的误解，改善社团形象，自告奋勇参加了偶像活动。她心",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/1182076363247452166?spm_id_from=333.1365.0.0",
-        "start_time": 1774066535,
-        "end_time": 1774066535
-      },
-      {
-        "id": 5231,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍 #43",
-        "image": "https://static.kivo.wiki/images/timeline/DwZSLOHlC2gLFKNy32mi6cwPGJ7kClQZ.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 3/20 (Fri)! Don't m",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2034891119788794077",
-        "start_time": 1774032838,
-        "end_time": 1774205638
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685430,
+  "time": 1789769656,
   "version": "1.0.0-beta.43"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-17T20:57:48Z",
+  "generated_at": "2026-09-18T20:25:39Z",
   "id": 513,
   "display_name": "角楯 花凛（制服）",
   "names": {
@@ -28,7 +28,7 @@
     "default": "制服",
     "cn": "制服",
     "jp": "制服",
-    "zh_tw": "",
+    "zh_tw": "制服",
     "skins": [
       {
         "id": 175,
@@ -194,7 +194,7 @@
           "info": [
             {
               "cost": 7,
-              "describe": "对一名敌方造成与攻击力512%的伤害（根据对象当前的HP造成比例为1~3倍的伤害）（对象的HP越少伤害越大）；使用EX技能时，如果对象的HP低于20%，则自身暴击伤害率增加21.1%、攻击力增加11.1%、防御贯通值增加396（持续30秒）"
+              "describe": "对一名敌方造成与攻击力521%的伤害（根据对象当前的HP造成比例为1~3倍的伤害）（对象的HP越少伤害越大）；使用EX技能时，如果对象的HP低于20%，则自身暴击伤害率增加21.1%、攻击力增加11.1%、防御贯通值增加396（持续30秒）"
             },
             {
               "cost": 7,
@@ -210,7 +210,7 @@
             },
             {
               "cost": 7,
-              "describe": "对一名敌方造成与攻击力911%的伤害（根据对象当前的HP造成比例为1~3倍的伤害）（对象的HP越少伤害越大）；使用EX技能时，如果对象的HP低于20%，则自身暴击伤害率增加40.2%、攻击力增加21.1%、防御贯通值增加751（持续30秒）"
+              "describe": "对一名敌方造成与攻击力991%的伤害（根据对象当前的HP造成比例为1~3倍的伤害）（对象的HP越少伤害越大）；使用EX技能时，如果对象的HP低于20%，则自身暴击伤害率增加40.2%、攻击力增加21.1%、防御贯通值增加751（持续30秒）"
             }
           ]
         }
@@ -1420,7 +1420,7 @@
         "description": "ch0282_season_xmas",
         "category": "lobby",
         "text": "总觉得这身打扮对过圣诞来说有点太普通了……‘只要合适就行’？ 谢谢你。",
-        "text_original": "クリスマスを過ごすのに、この服装は平凡すぎる気が……",
+        "text_original": "クリスマスを過ごすのに、この服装は平凡すぎる気が…………似合ってるから大丈夫？あ、ありがとう。",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E6%A0%A1%E6%9C%8D/jp/ch0282_season_xmas.ogg"
       },
       {
@@ -2335,8 +2335,8 @@
   "source": {
     "detail_path": "students/513.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/513.json",
-    "upstream_time": 1789679001,
-    "updated_at": 1789309919,
+    "upstream_time": 1789763106,
+    "updated_at": 1789744717,
     "created_at": 1737273672
   }
 }

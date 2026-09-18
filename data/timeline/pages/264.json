@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3231,
+        "line_type": "JP",
+        "title": "战术对抗战S8开幕",
+        "image": "https://static.kivo.wiki/images/timeline/LfMn9VHCTFbeX2cclBRx8b7L8GsClS5j.jpg",
+        "body_summary": "【新情報 ⑧】 11月6日(水)メンテナンス後、戦術対抗戦の新シーズンが開幕されます。 それに伴いランキングリセットとグループシャッフルが行われます。 詳細については後日公開のお知らせにてご確認くださ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1847969420859347427",
+        "start_time": 1730883600,
+        "end_time": 1730883600
+      },
+      {
+        "id": 3230,
+        "line_type": "JP",
+        "title": "联合火力演习 #33",
+        "image": "https://static.kivo.wiki/images/timeline/Pscfj9ladsJW7v7D3P4asFi8MsP0ugTH.jpg",
+        "body_summary": "【新情報 ⑦】 11月6日(水)メンテナンス後より、合同火力演習「護衛演習」が開始されます！ 今回開催される「護衛演習」の地形は屋内戦で、防御タイプは軽装備となります！ ▼開催期間 2024/11/6",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1847968780582064473",
+        "start_time": 1730883600,
+        "end_time": 1731441599
+      },
       {
         "id": 3271,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1852244185715241401",
         "start_time": 1730800800,
         "end_time": 1731405600
-      },
-      {
-        "id": 3302,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁 #36",
-        "image": "",
-        "body_summary": "[11/5 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1853731748401828289",
-        "start_time": 1730799060,
-        "end_time": 1730799060
-      },
-      {
-        "id": 4635,
-        "line_type": "Globle",
-        "title": "国际服战术对抗赛S7开幕",
-        "image": "https://static.kivo.wiki/images/timeline/OzozG2wfoCkls1cSGaSejZtpTRhffPHf.jpg",
-        "body_summary": "[11/5 Update Notice] 11/5 (Tue) scheduled maintenance has ended. ➡️Update Details: https://forum.nex",
-        "type": "ContentImprovements",
-        "url": "x.com/EN_BlueArchive/status/1853719525579207031",
-        "start_time": 1730772000,
-        "end_time": 1730772000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685623,
+  "time": 1789769841,
   "version": "1.0.0-beta.43"
 }

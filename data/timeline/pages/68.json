@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 5275,
+        "line_type": "JP",
+        "title": "例行维护#139",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/1(水) 11:00 〜 17:00前後 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2038859126567207387",
+        "start_time": 1775012400,
+        "end_time": 1775034000
+      },
+      {
+        "id": 5273,
+        "line_type": "JP",
+        "title": "课程表2倍#42 & 学院交流会2倍#42",
+        "image": "https://static.kivo.wiki/images/timeline/bS6GVAPKsTgXeYEvgpa02mz805rnF8UP.jpg",
+        "body_summary": "【キャンペーン予告】 4月1日(水)4:00より、「スケジュール」、「学園交流会」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 4月1日(水)4:00 ～ 4月8日(水)3:",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2038451955262263536",
+        "start_time": 1774987200,
+        "end_time": 1775591999
+      },
       {
         "id": 5281,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2037424380473487608",
         "start_time": 1774922400,
         "end_time": 1775527140
-      },
-      {
-        "id": 5248,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「My outfit won't hinder my prayers, even if it's just a swimsuit.」&「Hey, Sensei... I hope you don't mind... I... made you a drink.」",
-        "image": "https://static.kivo.wiki/images/timeline/ZXh4GqAYh2WybDoNyhZHGliXQTjKZ8cB.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 3/31 (Tu",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2037428154160337044",
-        "start_time": 1774922400,
-        "end_time": 1775527140
-      },
-      {
-        "id": 5247,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Our superstar, reisa is here! 」&「Medicine knows no boarders! 」",
-        "image": "https://static.kivo.wiki/images/timeline/qbNmVz11zP4wrbRyRxT2pdm4YTfBCA5z.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 3/31 (Tue)! 💌Pick-Up S",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2037431930069643628",
-        "start_time": 1774922400,
-        "end_time": 1775527140
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685428,
+  "time": 1789769653,
   "version": "1.0.0-beta.43"
 }

@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4165,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 25-06-27",
+        "image": "https://static.kivo.wiki/images/timeline/E7kMfR4MVwOoaKQ9vGGWAige3G5BvYpv.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1938507698771005492",
+        "start_time": 1751018400,
+        "end_time": 1751018400
+      },
+      {
+        "id": 4119,
+        "line_type": "CN",
+        "title": "大决战 白&黑 • 室内战",
+        "image": "https://static.kivo.wiki/images/timeline/qmxzSiltLDuQ7Gaj0BtpGg3AUHFtLU0l.png",
+        "body_summary": "许久之前因财政困难而停止营业的游乐园【斯兰匹亚】发生了原因不明的诡异现象。 原本已停止运行的娱乐玩偶和各种娱乐设备竟在夜晚自行启动并开始袭击市民。 娱乐玩偶白和黑自行启动的原因尚未查明，但至少可以明确",
+        "type": "BigRaid",
+        "url": "bluearchive-cn.com/news/1447",
+        "start_time": 1750917600,
+        "end_time": 1751486399
+      },
       {
         "id": 4166,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1937692272042422597",
         "start_time": 1750820400,
         "end_time": 1750849200
-      },
-      {
-        "id": 4161,
-        "line_type": "JP",
-        "title": "指名手配2倍#48",
-        "image": "https://static.kivo.wiki/images/timeline/j8pcf0XtrnpTFJHEi8ShQRQPSWh7g8Ea.jpg",
-        "body_summary": "【キャンペーン予告】 6月25日(水)4:00より、「指名手配」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔹開催期間 2025年6月25日(水)4:00 ～ 2025年7月2日(水)",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1937058187125072200",
-        "start_time": 1750795200,
-        "end_time": 1751399999
-      },
-      {
-        "id": 4140,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍 #30",
-        "image": "https://static.kivo.wiki/images/timeline/shKbxHbd71swbyQhsk3D6U60y94PKCcB.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 6/24 (Tue), Lesson reward will be doubled! Don't miss out on",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1936320682339844278",
-        "start_time": 1750746094,
-        "end_time": 1751350894
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685538,
+  "time": 1789769759,
   "version": "1.0.0-beta.43"
 }

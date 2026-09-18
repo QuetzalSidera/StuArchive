@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-17T20:57:48Z",
+  "generated_at": "2026-09-18T20:25:39Z",
   "id": 350,
   "display_name": "陆八魔 爱露（礼服）",
   "names": {
@@ -296,6 +296,10 @@
             },
             {
               "cost": 1,
+              "describe": "攻击力增加15.4%"
+            },
+            {
+              "cost": 1,
               "describe": "攻击力增加18.2%"
             },
             {
@@ -309,10 +313,6 @@
             {
               "cost": 1,
               "describe": "攻击力增加22.4%"
-            },
-            {
-              "cost": 1,
-              "describe": "攻击力增加23.1%"
             },
             {
               "cost": 1,
@@ -1127,7 +1127,7 @@
         "description": "CH0240_Battle_Move_2",
         "category": "battle",
         "text": "还有漏网之鱼，去下一个地方吧。",
-        "text_original": "まだ残党がいるわ。次に向かわよ。",
+        "text_original": "まだ残党がいるわ。次に向かうわよ。",
         "file": "https://static.kivo.wiki/voices/students/%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2/%E7%A4%BC%E6%9C%8D/11O274qj2uk4m8mAOfnvyvGHHFI6xrUM.ogg"
       },
       {
@@ -2966,8 +2966,8 @@
   "source": {
     "detail_path": "students/350.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/350.json",
-    "upstream_time": 1789678915,
-    "updated_at": 1789310485,
+    "upstream_time": 1789762912,
+    "updated_at": 1789730638,
     "created_at": 1708139755
   }
 }

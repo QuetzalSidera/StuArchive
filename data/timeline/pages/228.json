@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 3678,
+        "line_type": "Globle",
+        "title": "国际服炸服 #21",
+        "image": "",
+        "body_summary": "[2/5 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 2/5 (Wed). Plea",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1886367860085383580",
+        "start_time": 1738720839,
+        "end_time": 1738729839
+      },
+      {
+        "id": 3648,
+        "line_type": "JP",
+        "title": "4周年回顾PV公开",
+        "image": "https://static.kivo.wiki/images/timeline/mbSoLyblXjKTYmEUlPSvudUXm4oHNlql.jpg",
+        "body_summary": "【振り返り動画公開】 先日のブルアカふぇすでご覧いただきました、 3周年から4周年までのブルーアーカイブのイベントをまとめた動画を改めてご紹介します！ 先生！ これからもよろしくお願いしますね！ ▼動",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1886716578831401042",
+        "start_time": 1738666860,
+        "end_time": 1738666860
+      },
       {
         "id": 3730,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1885916094520865184",
         "start_time": 1738573200,
         "end_time": 1739329199
-      },
-      {
-        "id": 3643,
-        "line_type": "JP",
-        "title": "例行维护 #113",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/3(月) 11:00 〜 17:00前後 ▼詳細 https://b",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1885931207151722604",
-        "start_time": 1738551600,
-        "end_time": 1738573200
-      },
-      {
-        "id": 3641,
-        "line_type": "JP",
-        "title": "特别依赖3倍#14 课程表3倍#13 学院交流会3倍#12",
-        "image": "https://static.kivo.wiki/images/timeline/Z4cSVDW6BOgzvJXiwBCIdLNhQY6sXret.jpg",
-        "body_summary": "【キャンペーン予告】 2月3日(月)4:00より、「特別依頼」、「スケジュール」、「学園交流会」での報酬ドロップ量が3倍になるキャンペーンが開催されます。 周年記念のこの特別な機会を、ぜひお役立てくだ",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1885583978020954404",
-        "start_time": 1738526400,
-        "end_time": 1739303999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685588,
+  "time": 1789769807,
   "version": "1.0.0-beta.43"
 }

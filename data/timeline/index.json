@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-09-17T20:57:48Z",
+  "generated_at": "2026-09-18T20:25:39Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 587,
   "synced_pages": 587,
-  "total_items": 5861,
+  "total_items": 5864,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -50,15 +50,15 @@
       "end_time": 1789934399
     },
     {
-      "id": 5986,
+      "id": 6023,
       "line_type": "JP",
-      "title": "活动「夏空のやくそく」复刻",
-      "image": "https://static.kivo.wiki/images/timeline/m82DJLSJDqiDO2eNUGn3YpndqGsT00yZ.jpg",
-      "body_summary": "【イベント復刻開催予告】 先生！期間限定イベント「夏空のやくそく」が復刻開催されます！ 青い海、白い砂浜、そして夜には幻想的な大爆発！！ 今年の夏はまだまだ終わりませんよ♪ 復刻イベント「夏空のやくそ",
-      "type": "Event",
-      "url": "x.com/Blue_ArchiveJP/status/2096146476208718020",
-      "start_time": 1789574400,
-      "end_time": 1790218799
+      "title": "迷你剧情「竜宮への道」更新",
+      "image": "https://static.kivo.wiki/images/timeline/KXAwglbGFcbwaj0Nrvq5AGa3z0mtk49u.jpg",
+      "body_summary": "【ミニストーリー追加】 先生！ミニストーリー「竜宮への道」が公開されました！ ヴァルキューレ矯正局で起きた集団脱獄事件。 脱獄したばかりのナナミさんは、兎にも角にもで海を目指して行動し始め…。 #ブル",
+      "type": "OtherStory",
+      "url": "x.com/Blue_ArchiveJP/status/2100042301200580919",
+      "start_time": 1789527600,
+      "end_time": 1789527600
     },
     {
       "id": 6016,
@@ -92,6 +92,17 @@
       "url": "x.com/EN_BlueArchive/status/2097943158894084103",
       "start_time": 1789524000,
       "end_time": 1791831599
+    },
+    {
+      "id": 6024,
+      "line_type": "JP",
+      "title": "「特別依頼」2倍#70",
+      "image": "https://static.kivo.wiki/images/timeline/C4cSESC7KnL2rEpBpjXF0xkSAegFa3OY.jpg",
+      "body_summary": "【キャンペーン予告】 2026年9月16日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年9月16日(水) 4:00 ～ 2026年9",
+      "type": "Double",
+      "url": "x.com/Blue_ArchiveJP/status/2099695262671438056",
+      "start_time": 1789502400,
+      "end_time": 1790107199
     },
     {
       "id": 6008,
@@ -301,6 +312,17 @@
       "url": "x.com/Blue_ArchiveJP/status/2097188284384575842",
       "start_time": 1788944400,
       "end_time": 1790132399
+    },
+    {
+      "id": 5986,
+      "line_type": "JP",
+      "title": "活动「夏空のやくそく」复刻",
+      "image": "https://static.kivo.wiki/images/timeline/m82DJLSJDqiDO2eNUGn3YpndqGsT00yZ.jpg",
+      "body_summary": "【イベント復刻開催予告】 先生！期間限定イベント「夏空のやくそく」が復刻開催されます！ 青い海、白い砂浜、そして夜には幻想的な大爆発！！ 今年の夏はまだまだ終わりませんよ♪ 復刻イベント「夏空のやくそ",
+      "type": "Event",
+      "url": "x.com/Blue_ArchiveJP/status/2096146476208718020",
+      "start_time": 1788940800,
+      "end_time": 1790128799
     },
     {
       "id": 5987,
@@ -36583,7 +36605,7 @@
     {
       "id": 2643,
       "line_type": "Globle",
-      "title": "国际服战术对抗赛S6开幕 & 阴阳部社团剧情更新",
+      "title": "国际服战术对抗赛S6开幕",
       "image": "https://static.kivo.wiki/images/timeline/E4oqMQNrNlNQKv1lsM8IaGn7sBRvino1.jpg",
       "body_summary": "",
       "type": "ContentImprovements",
@@ -36623,6 +36645,17 @@
       "url": "twitter.com/EN_BlueArchive/status/1788811209736925429",
       "start_time": 1715652016,
       "end_time": 1716256816
+    },
+    {
+      "id": 6025,
+      "line_type": "Globle",
+      "title": "国际服阴阳部社团剧情更新",
+      "image": "https://static.kivo.wiki/images/timeline/J4UVhUqTRe7A8aXUyRbMaCoMuuf2BrCX.jpg",
+      "body_summary": "",
+      "type": "OtherStory",
+      "url": "x.com/EN_BlueArchive/status/1790274853389693124",
+      "start_time": 1715652000,
+      "end_time": 1715652000
     },
     {
       "id": 2558,
@@ -68596,15 +68629,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=587",
       "path": "timeline/pages/587.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/587.json",
-      "item_count": 1
+      "item_count": 4
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5830,
-    "normalized_alias_count": 5823,
-    "total_items": 5861
+    "alias_count": 5833,
+    "normalized_alias_count": 5826,
+    "total_items": 5864
   }
 }

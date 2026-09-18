@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,46 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1190,
+        "line_type": "Globle",
+        "title": "国际服例行维护23",
+        "image": "",
+        "body_summary": "[9/20 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 9/20 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1571695607088959488",
+        "start_time": 1663639254,
+        "end_time": 1663657254
+      },
+      {
+        "id": 1183,
+        "line_type": "Globle",
+        "title": "国际服特别依赖3倍2",
+        "image": "https://static.kivo.wiki/images/timeline/59PjpQYo0iTsI753YLtNBPkzq42XUd0o.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 9/19 (Mon), Commissions rewards will be tripled! Don't miss ",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1571393596690874368",
+        "start_time": 1663614016,
+        "end_time": 1664218756
+      },
+      {
+        "id": 435,
+        "line_type": "JP",
+        "title": "优香小剧场第12回",
+        "image": "https://static.kivo.wiki/images/timeline/V2VqtDucvR2oHQftlCEwGlIiQh4J4A5J.png",
+        "body_summary": "【#ちょっとお時間いただけますか】 先生、おはようございます♪ ついに12回目ですね！ この3カ月間、毎週ユウカさんに会えて先生も嬉しかったんじゃないですか？ 最後も楽しみましょう！ ▼動画はこちら ",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1571636435072954368",
+        "start_time": 1663545900,
+        "end_time": 1663545900
+      },
       {
         "id": 432,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1568524700677943296",
         "start_time": 1662800424,
         "end_time": 1662800424
-      },
-      {
-        "id": 1185,
-        "line_type": "Globle",
-        "title": "国际服卡池「Sensei, would you like to go on a patrol with me this evening?」",
-        "image": "https://static.kivo.wiki/images/timeline/VgfF25tMjYLMmOm7wqTWbrob5L3bZ7XH.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 9/10 (Sat)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1567438382506344448",
-        "start_time": 1662775214,
-        "end_time": 1663639214
-      },
-      {
-        "id": 1184,
-        "line_type": "Globle",
-        "title": "国际服卡池「If you ever have bodies- I mean, wounded- that need transporting, please let me know.」",
-        "image": "https://static.kivo.wiki/images/timeline/AtkG2ii86om1TmAwVQ0eFJUQjpSXSo8c.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 9/10 (Sat)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1567437645302693890",
-        "start_time": 1662775214,
-        "end_time": 1663639214
-      },
-      {
-        "id": 1187,
-        "line_type": "Globle",
-        "title": "国际服每日免费十连 1",
-        "image": "https://static.kivo.wiki/images/timeline/7THKdShH2hn5rA13Gd5eHPXhF7Tfx6pO.jpg",
-        "body_summary": "[Daily Free Recruitment x10 Event] Starting today, use one Recruitment x10 per day for free! You can",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1568418988337627137",
-        "start_time": 1662775209,
-        "end_time": 1662775209
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685870,
+  "time": 1789770080,
   "version": "1.0.0-beta.43"
 }

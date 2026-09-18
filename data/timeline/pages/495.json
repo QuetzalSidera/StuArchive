@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,46 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 507,
+        "line_type": "JP",
+        "title": "卡池「雪夜は星月のしずくに酔って」卡池复刻「湯けむりは星月夜に溶けて」「責務と休息のアンティノミー」「革命と極楽のオートノミー」",
+        "image": "https://static.kivo.wiki/images/timeline/ZtNKUja8mKwbwBdfRimlcvQNf3Xti0IF.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「雪夜は星月のしずくに酔って」がまもなく開催されます！ また、「227号温泉郷の運営記録！」の復刻に合わせて、復刻ピックアップ募集3種も同時に開催いたします",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1597455367272742914",
+        "start_time": 1669806000,
+        "end_time": 1670381999
+      },
+      {
+        "id": 506,
+        "line_type": "JP",
+        "title": "活动复刻「227号温泉郷の運営記録！」",
+        "image": "https://static.kivo.wiki/images/timeline/LcIljY26Mz8tfm2xNg4AZKVZBx5ciQ9Y.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生、冬の寒さも本格的となって来ましたね。 こう寒い日が増えると、また“あの温泉郷”で温まりたくはなりませんか？ 復刻イベント「227号温泉郷の運営記録！」まもなく開催です！",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1596428615667023874",
+        "start_time": 1669806000,
+        "end_time": 1670381999
+      },
+      {
+        "id": 505,
+        "line_type": "JP",
+        "title": "联合火力演习10",
+        "image": "https://static.kivo.wiki/images/timeline/vHUXs6D9mMsXLhwSI9CoUZrPLvMTBiye.jpg",
+        "body_summary": "【合同火力演習・予告】 11月30日(水)メンテナンス終了後、合同火力演習「射撃演習」が開始されます！ 今回の特殊ルールではEXスキルによる敵へのダメージが無効となるルールがありますが、先生はどういっ",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1596066269500882944",
+        "start_time": 1669806000,
+        "end_time": 1670356799
+      },
       {
         "id": 508,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1595311185468960768",
         "start_time": 1669710226,
         "end_time": 1701716386
-      },
-      {
-        "id": 1262,
-        "line_type": "Globle",
-        "title": "国际服例行维护27",
-        "image": "",
-        "body_summary": "[11/29 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/29 ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1597077828335325184",
-        "start_time": 1669687233,
-        "end_time": 1669723233
-      },
-      {
-        "id": 1256,
-        "line_type": "Globle",
-        "title": "国际服一周年特别动画PV",
-        "image": "",
-        "body_summary": "[1st Anniversary - Animated PV] \"Sensei, let us reminisce together about this amazing year we had.\" ",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1596082516313755648",
-        "start_time": 1669370402,
-        "end_time": 1669370402
-      },
-      {
-        "id": 1257,
-        "line_type": "Globle",
-        "title": "国际服年龄分级调整",
-        "image": "",
-        "body_summary": "Sensei, please make sure you read the following notice about the upcoming Teen Version and Age Ratin",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1596058611477753856",
-        "start_time": 1669365002,
-        "end_time": 1669365002
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685854,
+  "time": 1789770065,
   "version": "1.0.0-beta.43"
 }

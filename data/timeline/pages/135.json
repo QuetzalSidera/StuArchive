@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,35 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 4543,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍 #16",
+        "image": "https://static.kivo.wiki/images/timeline/aa6z8p9LgZJ79bPWndDgtjGTwqn6SZPm.png",
+        "body_summary": "【任务（普通难度）】道具掉落量3倍 开启时间：10月16日 04:00 ~ 10月20日 03:59 活动期间，完成【任务（普通难度）】时，获得的道具掉落奖励数量变为3倍。",
+        "type": "Double",
+        "url": "www.bilibili.com/opus/1118327022668480566",
+        "start_time": 1760558400,
+        "end_time": 1760903999
+      },
+      {
+        "id": 4605,
+        "line_type": "JP",
+        "title": "夏莱的总决算with联邦学生会 #14",
+        "image": "https://static.kivo.wiki/images/timeline/YkS2XVWoVeIxTPkWTQYk0bjkNZksxios.jpg",
+        "body_summary": "【イベント紹介】 10/15(水)11:00より、「シャーレの総決算with連邦生徒会」が開催されます！ 今回のイベントでは「財務用電卓」を消費して、「在庫管理」に参加することができます。 「備品」の",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1977977781989593408",
+        "start_time": 1760468581,
+        "end_time": 1761073381
+      },
       {
         "id": 4604,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1975818445137596909",
         "start_time": 1760403600,
         "end_time": 1760983199
-      },
-      {
-        "id": 4576,
-        "line_type": "Globle",
-        "title": "国际服任务Hard2倍 #39",
-        "image": "https://static.kivo.wiki/images/timeline/rIW3QgzPqUacxSfl8QhOjObMNJoaFWOz.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1976908122615955668",
-        "start_time": 1760382000,
-        "end_time": 1760986800
-      },
-      {
-        "id": 4575,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍 #32",
-        "image": "https://static.kivo.wiki/images/timeline/Y41QOQljpjnJYJZfjVEMgT3UINQbVc37.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 10/13 (Mon), Scrimmage reward will be doubled! Don't miss ou",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/1976905607061102711",
-        "start_time": 1760378400,
-        "end_time": 1760983199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685495,
+  "time": 1789769719,
   "version": "1.0.0-beta.43"
 }

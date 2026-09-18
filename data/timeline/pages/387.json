@@ -7,7 +7,7 @@
       "AlliedOperation": 14,
       "BigRaid": 95,
       "ContentImprovements": 426,
-      "Double": 974,
+      "Double": 975,
       "Event": 528,
       "Gacha": 839,
       "Live": 89,
@@ -15,13 +15,46 @@
       "Maintenance": 452,
       "MiniBattle": 210,
       "Other": 718,
-      "OtherStory": 68,
+      "OtherStory": 70,
       "OutsideGames": 899,
       "Raid": 254,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1871,
+        "line_type": "JP",
+        "title": "联合火力演习23",
+        "image": "https://static.kivo.wiki/images/timeline/UQZf7pQrObdkCT8mYOfcyhpPI8xQDCj0.jpg",
+        "body_summary": "【合同火力演習・予告】 1月10日(水)メンテナンス後、合同火力演習「射撃演習」が開幕します！ 今回のルールでは敵のHPが増加する代わりに、味方の会心値が増加する他、トリニティ所属の生徒さんの攻撃力が",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1743558340482080785",
+        "start_time": 1704877200,
+        "end_time": 1705435199
+      },
+      {
+        "id": 1890,
+        "line_type": "JP",
+        "title": "夏莱的总决算with联邦学生会6",
+        "image": "https://static.kivo.wiki/images/timeline/B2MVgGYpEKzuHMyfCXWKATUyzLL8RoTh.jpg",
+        "body_summary": "【イベント紹介】 1/10(水)メンテナンス後、「シャーレの総決算with連邦生徒会」を開催します！ 「任務」などで「AP」を消費すると「高級万年筆」が獲得可能の他、集めた「高級万年筆」は特設ショップ",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1744192747421171834",
+        "start_time": 1704873600,
+        "end_time": 1706061599
+      },
+      {
+        "id": 1914,
+        "line_type": "JP",
+        "title": "例行维护86",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 1/10(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1744599998829039869",
+        "start_time": 1704855640,
+        "end_time": 1705460440
+      },
       {
         "id": 1891,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "bluearchive-cn.com/news/461",
         "start_time": 1704772857,
         "end_time": 1704772857
-      },
-      {
-        "id": 1877,
-        "line_type": "Globle",
-        "title": "国际服例行维护53",
-        "image": "",
-        "body_summary": "[1/9 Maintenance Notice] We're currently under our 1/9 (Tue) scheduled maintenance, and the game is ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1744539487022293485",
-        "start_time": 1704765618,
-        "end_time": 1704783618
-      },
-      {
-        "id": 1876,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍21 hard2倍21",
-        "image": "https://static.kivo.wiki/images/timeline/IIjEx7qzTgDLfDOPc8VkpREeUqWMKaxD.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1743527822470340708",
-        "start_time": 1704740402,
-        "end_time": 1705517942
-      },
-      {
-        "id": 1889,
-        "line_type": "JP",
-        "title": "阿比多斯小剧场第1期",
-        "image": "https://static.kivo.wiki/images/timeline/dGglE0gUhO7JifE8uPGL1CQmrLvquPpu.png",
-        "body_summary": "【#ちょっとお時間もらいますね】 先生、おはようございます♪ 今週からアビドスの生徒さんたちが順番にいらっしゃるようです♪ 今日はどなたでしょうか…？ 楽しみですね！ ▽動画はこちら https://",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1744133058775720075",
-        "start_time": 1704668400,
-        "end_time": 1704668400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789685747,
+  "time": 1789769961,
   "version": "1.0.0-beta.43"
 }
