@@ -2,26 +2,70 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 588,
+    "max_page": 589,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 427,
+      "ContentImprovements": 429,
       "Double": 977,
       "Event": 531,
-      "Gacha": 839,
+      "Gacha": 844,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 451,
       "MiniBattle": 211,
-      "Other": 723,
+      "Other": 721,
       "OtherStory": 71,
-      "OutsideGames": 899,
+      "OutsideGames": 898,
       "Raid": 255,
       "Trivia": 29,
       "WebEvent": 133
     },
     "timeline": [
+      {
+        "id": 1247,
+        "line_type": "Globle",
+        "title": "国际服例行维护26",
+        "image": "",
+        "body_summary": "[11/15 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 11/15 ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1591989304326332416",
+        "start_time": 1668477648,
+        "end_time": 1668495648
+      },
+      {
+        "id": 1222,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习2",
+        "image": "https://static.kivo.wiki/images/timeline/vfoc8B4khoIdRpgLJxn8gAZGDTxMAAFv.jpg",
+        "body_summary": "[Joint Firing Drill Preview] 11/1 (Tue) Joint Firing Drill - 'Defense Drill' will start soon! The De",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1585164325315936257",
+        "start_time": 1668477607,
+        "end_time": 1669057147
+      },
+      {
+        "id": 1246,
+        "line_type": "Globle",
+        "title": "国际服任务normal3倍3 hard3倍3",
+        "image": "https://static.kivo.wiki/images/timeline/lS6EXGnh7vUpjzzboZKMCTvgYgDdSNKW.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions will be tripled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1591687309547560961",
+        "start_time": 1668452439,
+        "end_time": 1669057179
+      },
+      {
+        "id": 1244,
+        "line_type": "Globle",
+        "title": "国际服炸服10",
+        "image": "",
+        "body_summary": "[11/11(Fri) Temporary Maintenance Notice] We'll be undergoing temporary maintenance on 11/11 (Fri). ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1590675650636967936",
+        "start_time": 1668132044,
+        "end_time": 1668139244
+      },
       {
         "id": 1883,
         "line_type": "Globle",
@@ -87,55 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1589090380804341761",
         "start_time": 1667937600,
         "end_time": 1668542399
-      },
-      {
-        "id": 1241,
-        "line_type": "Globle",
-        "title": "国际服主线关卡开放：Area18",
-        "image": "https://static.kivo.wiki/images/timeline/0YeEC7OARkQtlLc6hhhxXFbeLm91arMu.jpg",
-        "body_summary": "[New Mission Available Notice] Check out Mission Area 18 in the 11/8 (Tue) update. Acquire Advanced ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1590267956944052227",
-        "start_time": 1667898059,
-        "end_time": 1667898059
-      },
-      {
-        "id": 1237,
-        "line_type": "Globle",
-        "title": "国际服总力战 Hod (Urban) 2",
-        "image": "https://static.kivo.wiki/images/timeline/ZyU7h9vjNYhRLfeOh3kTt501UO3lDdhW.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - Hod (Urban Warfare) will start on 11/8 (Tue)! https://di",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1589135493882556416",
-        "start_time": 1667898056,
-        "end_time": 1668438056
-      },
-      {
-        "id": 1243,
-        "line_type": "Globle",
-        "title": "国际服更新「Expert Permit」",
-        "image": "https://static.kivo.wiki/images/timeline/mcacMZaS5SR36DVe5is8brmWirhYBcHp.jpg",
-        "body_summary": "[Expert Permit Shop Update Notice] You can get the Expert Permits added in the 11/8 update as Daily ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1590630346021904384",
-        "start_time": 1667898051,
-        "end_time": 1667898051
-      },
-      {
-        "id": 1235,
-        "line_type": "Globle",
-        "title": "国际服卡池「Oh. Ugh... I'm not really ready... Ahhh——!」",
-        "image": "https://static.kivo.wiki/images/timeline/J7SpZqSPAX31PSrFKRuqm4GBvNKbevYJ.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 11/8 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1589180791266975744",
-        "start_time": 1667898047,
-        "end_time": 1669082447
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1789943709,
+  "time": 1790036246,
   "version": "1.0.0-beta.43"
 }

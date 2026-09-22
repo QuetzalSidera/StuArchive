@@ -2,17 +2,107 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-20T20:21:18Z",
+  "generated_at": "2026-09-21T21:43:01Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5877,
-  "alias_count": 5846,
-  "normalized_alias_count": 5839,
+  "total_items": 5881,
+  "alias_count": 5872,
+  "normalized_alias_count": 5865,
   "by_id": {
+    "6043": {
+      "id": 6043,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6043,
+        "line_type": "CN",
+        "title": "庆典复刻招募【温柔地奏响天空的方式】",
+        "image": "https://static.kivo.wiki/images/timeline/wEmBWRwTLmZulCPO9563QfnBVKKEpOVE.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 庆典复刻招募【温柔地奏响天空的方式】即将开启！在本次招募中，3★限定成员\"日奈（礼服）\"登场，且招募概率得到提升！ ■ 招募时间 10月01日 14:00 ~ 10月08",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1957",
+        "start_time": 1790834400,
+        "end_time": 1791439199
+      },
+      "detail_path": "timeline/6043.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6043.json"
+    },
+    "6042": {
+      "id": 6042,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6042,
+        "line_type": "CN",
+        "title": "庆典招募【短暂的星夜之梦】",
+        "image": "https://static.kivo.wiki/images/timeline/5XGRIrNpMu15DshQXJoNf0ziopiQ8mB5.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 庆典招募【短暂的星夜之梦】即将开启！在本次招募中，全新3★限定成员\"未花（泳装）\"登场，且招募概率得到提升！ ■ 招募时间 10月01日 14:00 ~ 10月08日 1",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1959",
+        "start_time": 1790834400,
+        "end_time": 1791439199
+      },
+      "detail_path": "timeline/6042.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6042.json"
+    },
+    "6041": {
+      "id": 6041,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6041,
+        "line_type": "CN",
+        "title": "庆典招募【盛夏波浪 如你所愿】",
+        "image": "https://static.kivo.wiki/images/timeline/YwDP5mX9HhlXtJ5xUPexY48uKQiTrlJ9.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 庆典招募【盛夏波浪 如你所愿】即将开启！在本次招募中，全新3★限定成员\"渚（泳装）\"登场，且招募概率得到提升！ ■ 招募时间 10月01日 14:00 ~ 10月08日 ",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1958",
+        "start_time": 1790834400,
+        "end_time": 1791439199
+      },
+      "detail_path": "timeline/6041.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6041.json"
+    },
+    "6040": {
+      "id": 6040,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6040,
+        "line_type": "CN",
+        "title": "限时限定招募【思绪飘散在漫漫夏夜里】",
+        "image": "https://static.kivo.wiki/images/timeline/s0iatXamQx2T2ltjG6qz8wuH6BmjXLiR.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时限定招募【思绪飘散在漫漫夏夜里】即将开启！在本次招募中，全新3★限定成员\"圣娅（泳装）\"登场，且招募概率得到提升！ ■ 招募时间 09月24日 维护结束后 ~ 10月",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1960",
+        "start_time": 1790244000,
+        "end_time": 1790834399
+      },
+      "detail_path": "timeline/6040.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6040.json"
+    },
+    "6039": {
+      "id": 6039,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6039,
+        "line_type": "CN",
+        "title": "限时限定招募【秩序隐匿于粼粼波光中】",
+        "image": "https://static.kivo.wiki/images/timeline/uFUge6RtOfzs8nPrSswFUDQQugti0IiP.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时限定招募【秩序隐匿于粼粼波光中】即将开启！在本次招募中，全新3★限定成员\"莲见（泳装）\"登场，且招募概率得到提升！ ■ 招募时间 09月24日 维护结束后 ~ 10月",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1961",
+        "start_time": 1790244000,
+        "end_time": 1790834399
+      },
+      "detail_path": "timeline/6039.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6039.json"
+    },
     "6032": {
       "id": 6032,
       "source_path": "timeline/index.json",
@@ -308,7 +398,7 @@
       "item": {
         "id": 6024,
         "line_type": "JP",
-        "title": "「特別依頼」2倍#70",
+        "title": "特別依頼2倍#70",
         "image": "https://static.kivo.wiki/images/timeline/C4cSESC7KnL2rEpBpjXF0xkSAegFa3OY.jpg",
         "body_summary": "【キャンペーン予告】 2026年9月16日(水)4:00より、「特別依頼」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年9月16日(水) 4:00 ～ 2026年9",
         "type": "Double",
@@ -668,7 +758,7 @@
       "item": {
         "id": 6002,
         "line_type": "CN",
-        "title": "例行维护#65",
+        "title": "例行维护 #66",
         "image": "https://static.kivo.wiki/images/timeline/8cMT4O3bO5cuQBc4KsLHd8eSu19A5Gpy.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 09月10日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -1100,7 +1190,7 @@
       "item": {
         "id": 5973,
         "line_type": "CN",
-        "title": "炸服#24（【0068 来自歌剧的爱】活动无法正常进入）",
+        "title": "炸服 #23（【0068 来自歌剧的爱】活动无法正常进入）",
         "image": "https://static.kivo.wiki/images/timeline/XJxKQfrr335Yc4ZHMUwu1kPQfiBngcdq.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们收到部分老师发来的反馈：当前复刻活动“0068 来自歌剧的爱”存在无法正常进入的问题。 收到问题后我们已紧急展开相关问题的核实与修复工作，对于本次异常问题给老师带",
         "type": "Maintenance",
@@ -1658,7 +1748,7 @@
       "item": {
         "id": 5819,
         "line_type": "JP",
-        "title": "任务hard3倍#19",
+        "title": "任务Hard3倍#19",
         "image": "https://static.kivo.wiki/images/timeline/1akMhP6ZA81lbt73IqbqKfFCT3bZva52.jpg",
         "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
         "type": "Double",
@@ -1910,7 +2000,7 @@
       "item": {
         "id": 5931,
         "line_type": "CN",
-        "title": "例行维护#64",
+        "title": "例行维护 #65",
         "image": "https://static.kivo.wiki/images/timeline/TzNQA47IaInkJBFeSlY84LQyaeXBaNau.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -2036,7 +2126,7 @@
       "item": {
         "id": 5818,
         "line_type": "JP",
-        "title": "任务normal3倍#19",
+        "title": "任务Normal3倍#19",
         "image": "https://static.kivo.wiki/images/timeline/GfeuhbrBxJRLVZg3kny7KPBIn1mnelGg.jpg",
         "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
         "type": "Double",
@@ -2378,7 +2468,7 @@
       "item": {
         "id": 5902,
         "line_type": "CN",
-        "title": "例行维护#63",
+        "title": "例行维护 #64",
         "image": "https://static.kivo.wiki/images/timeline/qoskGAsVaN72NJDU9rn9QzwcriNDbAU4.jpg",
         "body_summary": "“欢迎连接什亭之箱，老师。” 我们计划于 08月13日 14:00 进行一次临时维护更新，预计持续2小时，维护开始后将暂时无法登录游戏，在游戏中的老师会被系统强制要求下线。 为确保账号数据正常，请在维",
         "type": "Maintenance",
@@ -2756,7 +2846,7 @@
       "item": {
         "id": 5815,
         "line_type": "JP",
-        "title": "任务hard3倍#18",
+        "title": "任务Hard3倍#18",
         "image": "https://static.kivo.wiki/images/timeline/IHVSZUEbq6bcnXF4N3jLm8sTWpIO53QN.jpg",
         "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
         "type": "Double",
@@ -2918,7 +3008,7 @@
       "item": {
         "id": 5813,
         "line_type": "JP",
-        "title": "任务normal3倍#18",
+        "title": "任务Normal3倍#18",
         "image": "https://static.kivo.wiki/images/timeline/AsYyhKy6wW4GpsMlKUtQaWuucPexM3lZ.jpg",
         "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
         "type": "Double",
@@ -3152,7 +3242,7 @@
       "item": {
         "id": 5869,
         "line_type": "CN",
-        "title": "炸服#23（【账号经验值】2倍活动未按时正常开启）",
+        "title": "炸服 #22（【账号经验值】2倍活动未按时正常开启）",
         "image": "https://static.kivo.wiki/images/timeline/DbDaQCQY3WIjHieuRRuW2HlQBnQc7QWO.gif",
         "body_summary": "“欢迎连接什亭之箱，老师。” 我们收到部分老师发来关于【账号经验值】2倍活动未按时正常开启的反馈，并开展了相关问题的核实工作。 经讨论，后续的处理方案如下： 1、【账号经验值2倍】活动时间调整 调整本",
         "type": "Maintenance",
@@ -3260,7 +3350,7 @@
       "item": {
         "id": 5868,
         "line_type": "CN",
-        "title": "例行维护#62",
+        "title": "例行维护 #63",
         "image": "https://static.kivo.wiki/images/timeline/92sdVMub1HVEbSET7DwhAu4js9lbhfrQ.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月30日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -4556,7 +4646,7 @@
       "item": {
         "id": 5770,
         "line_type": "CN",
-        "title": "炸服#22（熟练证书商店价格异常、总力战任务奖励发放异常）",
+        "title": "炸服 #21（熟练证书商店价格异常、总力战任务奖励发放异常）",
         "image": "https://static.kivo.wiki/images/timeline/n43Q2zbqKYOFbMotvFE0mwYTbnzlfRx3.gif",
         "body_summary": "“欢迎连接什亭之箱，老师。” 在07月16日维护更新结束后，我们收到部分老师发来的问题反馈，当前我们正紧急展开相关问题的核实与修复，具体反馈如下： 问题一： ■ 问题描述 熟练证书商店中“妮露（制服）",
         "type": "Maintenance",
@@ -4754,7 +4844,7 @@
       "item": {
         "id": 5771,
         "line_type": "CN",
-        "title": "例行维护#61",
+        "title": "例行维护 #62",
         "image": "https://static.kivo.wiki/images/timeline/76QVNJEQf568He4VNBbZ1w6C5GDivg6w.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月16日 10:00 开始进行维护更新，预计持续8小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -5006,7 +5096,7 @@
       "item": {
         "id": 5746,
         "line_type": "CN",
-        "title": "炸服#21（任务（困难难度）道具掉落量2倍活动异常）",
+        "title": "炸服 #20（任务（困难难度）道具掉落量2倍活动异常）",
         "image": "https://static.kivo.wiki/images/timeline/6l6vHEvUATI6ale9G8VgIHafmmmy2keC.gif",
         "body_summary": "#蔚蓝档案#​ “欢迎连接什亭之箱，老师。” 此前我们收到部分老师发来关于【任务（困难难度）】道具掉落量2倍活动未按时正常开启的反馈，并开展了相关问题的核实工作。 目前【任务（困难难度）】道具掉落量2",
         "type": "Maintenance",
@@ -5906,7 +5996,7 @@
       "item": {
         "id": 5687,
         "line_type": "CN",
-        "title": "炸服#20（大决战界面存在显示信息异常）",
+        "title": "炸服 #19（大决战界面存在显示信息异常）",
         "image": "https://static.kivo.wiki/images/timeline/CJJgGtqqOrIKqZO75rX7BsQHh5AQJS0Q.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们收到部分老师发来的反馈：大决战：格里高利（室内战）进入奖励结算期后，大决战界面存在显示信息异常的问题。 收到问题后我们已紧急展开相关问题的核实与修复工作，目前已于",
         "type": "Maintenance",
@@ -7310,7 +7400,7 @@
       "item": {
         "id": 5562,
         "line_type": "CN",
-        "title": "例行维护 #60",
+        "title": "例行维护 #61",
         "image": "https://static.kivo.wiki/images/timeline/COz7BBjinCiiamjQfqqKbxs74wNPcaQu.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月11日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -8228,7 +8318,7 @@
       "item": {
         "id": 5499,
         "line_type": "CN",
-        "title": "例行维护 #59",
+        "title": "例行维护 #60",
         "image": "https://static.kivo.wiki/images/timeline/Y4bAVytqWl6nvozHZhlGNsfX1OvsYKp3.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 05月28日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -9344,7 +9434,7 @@
       "item": {
         "id": 5457,
         "line_type": "CN",
-        "title": "例行维护 #58",
+        "title": "例行维护 #59",
         "image": "https://static.kivo.wiki/images/timeline/nXSZTgdE2amccdasIelEf08VeSU6g5rI.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 05月14日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号",
         "type": "Maintenance",
@@ -10082,7 +10172,7 @@
       "item": {
         "id": 5411,
         "line_type": "CN",
-        "title": "例行维护#57",
+        "title": "例行维护 #58",
         "image": "https://static.kivo.wiki/images/timeline/sVO7FByaktvftxxITc0c9BDE36zbbO3e.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月30日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号",
         "type": "Maintenance",
@@ -11630,7 +11720,7 @@
       "item": {
         "id": 5310,
         "line_type": "CN",
-        "title": "例行维护#56",
+        "title": "例行维护 #57",
         "image": "https://static.kivo.wiki/images/timeline/Ghf2HSAGiGQG1zYnyjh6BJECQ9ebUfAY.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月09日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号",
         "type": "Maintenance",
@@ -12638,7 +12728,7 @@
       "item": {
         "id": 5395,
         "line_type": "CN",
-        "title": "例行维护#55",
+        "title": "例行维护 #56",
         "image": "https://static.kivo.wiki/images/timeline/oikujSGVAzdYPn3WtjXzEigoiW7Xhpyd.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 03月26日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号",
         "type": "Maintenance",
@@ -13376,7 +13466,7 @@
       "item": {
         "id": 5213,
         "line_type": "CN",
-        "title": "炸服#19（排名奖励10次招募券使用期限异常）",
+        "title": "炸服 #18（排名奖励10次招募券使用期限异常）",
         "image": "https://static.kivo.wiki/images/timeline/Sf2eMuyUaH0Gx4N4GSZQ0cChpN2v23Rm.jpg",
         "body_summary": "#蔚蓝档案﻿#蔚蓝档案超话 \"欢迎连接【什亭之箱】，老师。\" 此前我们收到部分老师发来的问题反馈： 在大决战【佩洛洛斯拉（野外战）】奖励领取期间内，部分bilibili服的老师在领取排名奖励后，存在1",
         "type": "Maintenance",
@@ -13484,7 +13574,7 @@
       "item": {
         "id": 5212,
         "line_type": "CN",
-        "title": "例行维护 #54",
+        "title": "例行维护 #55",
         "image": "https://static.kivo.wiki/images/timeline/J8VRFSQsF4M2dwg2Um19Tj6ZvilYWmIc.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 03月12日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -15122,7 +15212,7 @@
       "item": {
         "id": 5112,
         "line_type": "CN",
-        "title": "炸服#18（“时”好感度剧情、角色信息、本地化）",
+        "title": "炸服 #17（“时”好感度剧情、角色信息、本地化）",
         "image": "https://static.kivo.wiki/images/timeline/gAkjmVmP61qqLWjmDqUVH7YB0zNeGmQN.jpg",
         "body_summary": "“欢迎连接什亭之箱，老师。” 我们计划于 02月14日14:00 进行一次临时维护更新，预计持续1小时，维护开始后将暂时无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号数据正常，请在维护前",
         "type": "Maintenance",
@@ -15518,7 +15608,7 @@
       "item": {
         "id": 5108,
         "line_type": "CN",
-        "title": "炸服#17（网页活动【玄龙共舞，携友同行】存在异常问题）",
+        "title": "炸服 #16（网页活动【玄龙共舞，携友同行】存在异常问题）",
         "image": "https://static.kivo.wiki/images/timeline/wxgztCOndUPiUWakhtJF7CM6Qua9w2PA.jpg",
         "body_summary": "#蔚蓝档案#​ \"欢迎连接【什亭之箱】，老师。\" 在02月11日维护结束后，我们收到部分老师发来的问题反馈： • 成员\"时\"的爱用品处于异常解锁状态，且存在部分本地化异常问题。 • 网页活动【玄龙共舞",
         "type": "Maintenance",
@@ -15536,7 +15626,7 @@
       "item": {
         "id": 5107,
         "line_type": "CN",
-        "title": "炸服#16（\"时\"爱用品状态异常）",
+        "title": "炸服 #15（\"时\"爱用品状态异常）",
         "image": "https://static.kivo.wiki/images/timeline/NvRj9Z9SiWdwzRugPzmwbdDXA1Rh1XBu.jpg",
         "body_summary": "#蔚蓝档案#​ \"欢迎连接【什亭之箱】，老师。\" 在02月11日维护结束后，我们收到部分老师发来的问题反馈： 成员\"时\"的爱用品处于异常解锁状态，且存在部分本地化异常问题。 收到问题后我们已紧急展开相",
         "type": "Maintenance",
@@ -15662,7 +15752,7 @@
       "item": {
         "id": 5105,
         "line_type": "CN",
-        "title": "例行维护 #53",
+        "title": "例行维护 #54",
         "image": "https://static.kivo.wiki/images/timeline/p396pxCujwRszGVmuRphQCsYenDXN4lx.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 02月11日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -16868,7 +16958,7 @@
       "item": {
         "id": 5039,
         "line_type": "JP",
-        "title": " 指名手配3倍 #19 任务normal3倍 #17 任务hard3倍 #17",
+        "title": "指名手配3倍#19 & 任务Normal3倍#17 & 任务Hard3倍#17",
         "image": "https://static.kivo.wiki/images/timeline/B5PIeWopctUNuNWR2ufKB9MUd98tVT3k.jpg",
         "body_summary": "【キャンペーン予告】 1月29日(木)4:00より、「指名手配」、「任務(Normal)」、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 🔹開催期間 1月29日(木)",
         "type": "Double",
@@ -16976,7 +17066,7 @@
       "item": {
         "id": 5014,
         "line_type": "CN",
-        "title": "例行维护 #52",
+        "title": "例行维护 #53",
         "image": "https://static.kivo.wiki/images/timeline/P4BHxClVPsHASL59KfI6xzTIgl4Tuiv9.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 01月29日 10:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -17732,7 +17822,7 @@
       "item": {
         "id": 4957,
         "line_type": "JP",
-        "title": "指名手配3倍 #18 任务normal3倍 #16 任务hard3倍 #16",
+        "title": "指名手配3倍#18 & 任务Normal3倍#16 & 任务Hard3倍#16",
         "image": "https://static.kivo.wiki/images/timeline/P8WtX0WvonBUWagpcvdxP8i5PHxR5ymc.jpg",
         "body_summary": "【キャンペーン予告】 1月20日(火)4:00より、「指名手配」、「任務(Normal)」、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます。 周年記念のこの特別な機会を、",
         "type": "Double",
@@ -18542,7 +18632,7 @@
       "item": {
         "id": 4928,
         "line_type": "CN",
-        "title": "例行维护 #51",
+        "title": "例行维护 #52",
         "image": "https://static.kivo.wiki/images/timeline/4BR0UZh7607crdTyQsRcNIKvjEcl0gxd.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 01月08日14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号",
         "type": "Maintenance",
@@ -20342,7 +20432,7 @@
       "item": {
         "id": 4829,
         "line_type": "CN",
-        "title": "例行维护 #50",
+        "title": "例行维护 #51",
         "image": "https://static.kivo.wiki/images/timeline/7r8DTYmZkwdRrQ8JWjPsqVyEQIcru3Tn.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月18日14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号",
         "type": "Maintenance",
@@ -21296,7 +21386,7 @@
       "item": {
         "id": 4761,
         "line_type": "CN",
-        "title": "例行维护 #49",
+        "title": "例行维护 #50",
         "image": "https://static.kivo.wiki/images/timeline/rpsuLuuYRxT1kwfE4p7NhNMaytMd3CtV.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月04日14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号",
         "type": "Maintenance",
@@ -22016,7 +22106,7 @@
       "item": {
         "id": 4730,
         "line_type": "CN",
-        "title": "例行维护 #48",
+        "title": "例行维护 #49",
         "image": "https://static.kivo.wiki/images/timeline/CuOP0COMQATpLxqrvu6MiPQYhlYWoymu.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 11月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -22862,7 +22952,7 @@
       "item": {
         "id": 4731,
         "line_type": "CN",
-        "title": "例行维护 #47",
+        "title": "例行维护 #48",
         "image": "https://static.kivo.wiki/images/timeline/GqVh6xUSxw7rc5KyMutIx4kHJKwEGfhE.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 11月06日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -23330,7 +23420,7 @@
       "item": {
         "id": 4656,
         "line_type": "CN",
-        "title": "炸服#15（佩洛洛斯拉总力战BUG）",
+        "title": "炸服 #14（佩洛洛斯拉总力战BUG）",
         "image": "https://static.kivo.wiki/images/timeline/Avh8OjfVoOnuIUwaK8dfsST2QEh75Bwi.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈，在总力战“佩洛洛斯拉（室内战）”Torment难度下存在以下异常问题： 1、佩洛洛斯拉在释放技能“吸收佩洛洛小兵” ，眩晕量值未正常增加 2",
         "type": "Maintenance",
@@ -23672,7 +23762,7 @@
       "item": {
         "id": 4616,
         "line_type": "CN",
-        "title": "例行维护#46",
+        "title": "例行维护 #47",
         "image": "https://static.kivo.wiki/images/timeline/74R6Nxwp38h8809ZKkA1ITyqjrzn4zyj.png",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 10月23日14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号",
         "type": "Maintenance",
@@ -25076,7 +25166,7 @@
       "item": {
         "id": 4537,
         "line_type": "CN",
-        "title": " 例行维护 #45",
+        "title": " 例行维护 #46",
         "image": "https://static.kivo.wiki/images/timeline/o2udFKV2ft4ZrGdBz9L2WKafu4aqDoRk.png",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 10月02日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -26228,7 +26318,7 @@
       "item": {
         "id": 4480,
         "line_type": "CN",
-        "title": "例行维护 #44",
+        "title": "例行维护 #45",
         "image": "https://static.kivo.wiki/images/timeline/PvmBIp2uyhqc5fImXnIWzVZ7i1gMX59n.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 09月11日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -26966,7 +27056,7 @@
       "item": {
         "id": 4440,
         "line_type": "CN",
-        "title": "例行维护 #43",
+        "title": "例行维护 #44",
         "image": "https://static.kivo.wiki/images/timeline/OO5BzG4N4BagEBWzWMhotwdBLatFZ9u7.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月28日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。为确保账号",
         "type": "Maintenance",
@@ -27938,7 +28028,7 @@
       "item": {
         "id": 4365,
         "line_type": "JP",
-        "title": "任务hard3倍 #15",
+        "title": "任务Hard3倍#15",
         "image": "https://static.kivo.wiki/images/timeline/L9IqYiae84XYIlIpKCVSKQCYKOnt1KSh.jpg",
         "body_summary": "【キャンペーン予告】 8月17日(日)より、4.5周年を記念して「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ぜひこの機会に生徒さんの「神名文字」や装備の「設計図」を",
         "type": "Double",
@@ -28010,7 +28100,7 @@
       "item": {
         "id": 4397,
         "line_type": "CN",
-        "title": "炸服#14（特殊情况下【简易作战】模式手动通关任务关卡行动点消耗异常）",
+        "title": "炸服 #13（特殊情况下【简易作战】模式手动通关任务关卡行动点消耗异常）",
         "image": "https://static.kivo.wiki/images/timeline/ZQpu3zsthrGdBAmU5FO6xFAJxIEXOTQ6.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈08月14日维护结束后，在部分特殊情况下选择【简易作战】模式并手动通关任务关卡时会出现行动点消耗异常的问题。在得知该情况后我们已紧急开展核实、",
         "type": "Maintenance",
@@ -28046,7 +28136,7 @@
       "item": {
         "id": 4399,
         "line_type": "CN",
-        "title": "例行维护 #42",
+        "title": "例行维护 #43",
         "image": "https://static.kivo.wiki/images/timeline/Lt0VgpBn45UHW3lXxPkeZYggI5QswDND.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月14日 14:00 开始进行维护更新，预计持续6小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -28244,7 +28334,7 @@
       "item": {
         "id": 4363,
         "line_type": "JP",
-        "title": "任务normal3倍 #15",
+        "title": "任务Normal3倍#15",
         "image": "https://static.kivo.wiki/images/timeline/n0VRRfmuDlEQ31MTNng9vSzQuBYnc6Cy.jpg",
         "body_summary": "【キャンペーン予告】 8月13日(水)4:00より、4.5周年を記念して「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 8月13日(水)4:00 〜 8",
         "type": "Double",
@@ -28946,7 +29036,7 @@
       "item": {
         "id": 4306,
         "line_type": "JP",
-        "title": "任务hard3倍 #14",
+        "title": "任务Hard3倍#14",
         "image": "https://static.kivo.wiki/images/timeline/tvKnYPUUbWeNCIcAoRARWEOGUiZsP75B.jpg",
         "body_summary": "【キャンペーン予告】 8月3日(日)4:00より、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 8月3日(日)4:00 〜 8月6日(水)3:59 4.5",
         "type": "Double",
@@ -29396,7 +29486,7 @@
       "item": {
         "id": 4303,
         "line_type": "JP",
-        "title": "任务normal3倍 #14",
+        "title": "任务Normal3倍#14",
         "image": "https://static.kivo.wiki/images/timeline/HZp3kNv8h1BKrKOLKQav3XO4DkwSjx3n.jpg",
         "body_summary": "【キャンペーン予告】 7月30日(水)4:00より、4.5周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 7月30日(水)4:00〜8月3",
         "type": "Double",
@@ -29684,7 +29774,7 @@
       "item": {
         "id": 4281,
         "line_type": "CN",
-        "title": "《蔚蓝档案》限时活动【阳光绽放 她们的小夜曲】介绍PV",
+        "title": "限时活动【阳光绽放 她们的小夜曲】介绍PV",
         "image": "https://static.kivo.wiki/images/timeline/CzQCpHxo3bZyg8OyKbKJvReBiqbYZ2lX.jpg",
         "body_summary": "老师前来协助真琴筹办【歌赫娜特别宴会】。但没有想到的是，各种在歌赫娜习以为常的事件接踵而来……？！老师究竟能否帮助学员们顺利筹办宴会？ 限时活动【阳光绽放 她们的小夜曲】将于07月31日开启！ htt",
         "type": "OutsideGames",
@@ -29702,7 +29792,7 @@
       "item": {
         "id": 4280,
         "line_type": "CN",
-        "title": "例行维护 #41",
+        "title": "例行维护 #42",
         "image": "https://static.kivo.wiki/images/timeline/jWRhpXi2wRaJJL3oiuH0He3fthksEjyb.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月24日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -31826,7 +31916,7 @@
       "item": {
         "id": 4179,
         "line_type": "CN",
-        "title": "例行维护 #40",
+        "title": "例行维护 #41",
         "image": "https://static.kivo.wiki/images/timeline/NOGLoDZpLAau34e1M9Bxk0yAZ760LjxR.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月03日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -32834,7 +32924,7 @@
       "item": {
         "id": 4151,
         "line_type": "CN",
-        "title": "例行维护 #39",
+        "title": "例行维护 #40",
         "image": "https://static.kivo.wiki/images/timeline/SoAakVbw2Tx8eYQzu1iMGRHeT2FKjn82.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月19日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -33374,7 +33464,7 @@
       "item": {
         "id": 4089,
         "line_type": "CN",
-        "title": "例行维护 #38",
+        "title": "例行维护 #39",
         "image": "https://static.kivo.wiki/images/timeline/hFHwyZuZTQHO49Luq2enorhKLFsktr3e.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月05日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -33392,7 +33482,7 @@
       "item": {
         "id": 4091,
         "line_type": "CN",
-        "title": "炸服#13（限时活动【Trip-Trap-Train】活动积分兑换商店兑换比异常）",
+        "title": "炸服#12（限时活动【Trip-Trap-Train】活动积分兑换商店兑换比异常）",
         "image": "https://static.kivo.wiki/images/timeline/rIfH2RxJoNPR6mdm4vo1vrtPgjJCZwdL.gif",
         "body_summary": "\"欢迎连接【什亭之箱】，老师。\" 我们收到部分老师发来关于在限时活动【Trip-Trap-Train】内，活动积分兑换商店兑换比异常的问题，并开展了相关问题的核实工作。 该异常问题已经于 06月05日",
         "type": "Maintenance",
@@ -34616,7 +34706,7 @@
       "item": {
         "id": 4023,
         "line_type": "CN",
-        "title": "炸服#12（3倍掉落活动未按时生效）",
+        "title": "炸服#11（3倍掉落活动未按时生效）",
         "image": "https://static.kivo.wiki/images/timeline/YtcZMjxe3XYpMVlScqdxmHPEtiayQuU8.gif",
         "body_summary": "“欢迎连接什亭之箱，老师。” 我们收到部分老师发来关于【特别委托】-【信用回收】道具掉落量3倍活动未按时正常生效，并开展了相关问题的核实工作，并已于09:45进行修复，老师们可以正常进行刷取。 对于0",
         "type": "Maintenance",
@@ -34760,8 +34850,8 @@
       "item": {
         "id": 4022,
         "line_type": "CN",
-        "title": "例行维护 #37",
-        "image": "https://static.kivo.wiki/images/timeline/8GtJQf5agYEzcsENHtOkfRdkDoWZPOFw.gif",
+        "title": "例行维护 #38",
+        "image": "https://static.kivo.wiki/images/timeline/uq0xIop4rbAfKkrRTkMuJmaaYpAzwwVV.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 05月15日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的老师会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
         "url": "weibo.com/ttarticle/p/show?id=2309405166146860482624",
@@ -36110,7 +36200,7 @@
       "item": {
         "id": 3930,
         "line_type": "CN",
-        "title": "例行维护 #36",
+        "title": "例行维护 #37",
         "image": "https://static.kivo.wiki/images/timeline/zZFAlyeHDqjvB538HNjuPm9o6xgeK2Fz.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月24日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -37316,7 +37406,7 @@
       "item": {
         "id": 3838,
         "line_type": "CN",
-        "title": "炸服 #11 （任务系统显示异常）",
+        "title": "炸服 #10 （任务系统显示异常）",
         "image": "https://static.kivo.wiki/images/timeline/EVJsTrwPqJ5qGkyAKNitMP7LhQx5J8Yy.gif",
         "body_summary": "“欢迎连接什亭之箱，老师。” 我们收到部分老师发来关于游戏内任务系统完成状态显示异常的反馈，并开展了相关问题的核实修复工作，关于此问题的处理方案将尽快在后续公布。 对于本次异常问题给老师带来的不便，我",
         "type": "Maintenance",
@@ -37550,7 +37640,7 @@
       "item": {
         "id": 3832,
         "line_type": "CN",
-        "title": "炸服 #10 （比纳大决战BUG）",
+        "title": "炸服 #9 （比纳大决战BUG）",
         "image": "https://static.kivo.wiki/images/timeline/msr4Xq4LEB1zviEEMbio2XGcbyvTVqOx.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们收到部分老师发来的异常问题反馈：大决战比纳（BETA）存在首领血量降低进入第二、第三阶段后，重新进入战斗时首领阶段表现异常的问题，当前我们正紧急展开相关问题的核实",
         "type": "Maintenance",
@@ -37712,7 +37802,7 @@
       "item": {
         "id": 3830,
         "line_type": "CN",
-        "title": "例行维护 #35",
+        "title": "例行维护 #36",
         "image": "https://static.kivo.wiki/images/timeline/X1tTxArkpzQj82KH2rq6tIKLQpfOqhwG.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 04月03日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -38540,7 +38630,7 @@
       "item": {
         "id": 3795,
         "line_type": "CN",
-        "title": "例行维护 #34",
+        "title": "例行维护 #35",
         "image": "https://static.kivo.wiki/images/timeline/rU7ZonszVGPEc86HB4FAJ3HExsEsmWaU.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 03月20日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -38918,7 +39008,7 @@
       "item": {
         "id": 3785,
         "line_type": "CN",
-        "title": "炸服 #9（霍德总力战BUG）",
+        "title": "炸服 #8（霍德总力战BUG）",
         "image": "https://static.kivo.wiki/images/timeline/DxewtKBCjqJ9jDskn6oLag2ZYF0auACO.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈，在总力战活动【霍德（室内）】第2阶段中【侵蚀之柱】召唤存在相关异常问题。 在得知该情况后我们已紧急开展该问题的核实，相关问题处理方案请关注后",
         "type": "Maintenance",
@@ -39011,7 +39101,7 @@
         "title": "白子（泳装）家具互动更新",
         "image": "https://static.kivo.wiki/images/timeline/nY21qtFTcQdYdrhVUBBEMPK4QEwNy4hV.png",
         "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 03月13日 14:00 ■ 互动更新 • 白子（泳装） & 活跳跳旗鱼的展示",
-        "type": "Other",
+        "type": "ContentImprovements",
         "url": "weibo.com/6011443154/PhV3fb0oz",
         "start_time": 1741845615,
         "end_time": 1741845615
@@ -39188,7 +39278,7 @@
       "item": {
         "id": 3778,
         "line_type": "CN",
-        "title": "炸服 #8（咖啡厅设备核芯异常）",
+        "title": "炸服 #7（咖啡厅设备核芯异常）",
         "image": "https://static.kivo.wiki/images/timeline/kSVHDC0McI0olXmHJBaANvOEeTLUPCGb.jpg",
         "body_summary": "\"欢迎连接什亭之箱，老师。\" 此前我们收到部分老师反馈03月06日维护结束后发放的【双倍掉落活动异常返还】邮件中包含\"咖啡厅设备核芯\"的异常问题。在得知该情况后我们已紧急开展核实、修复计划。 我们计划",
         "type": "Maintenance",
@@ -39350,7 +39440,7 @@
       "item": {
         "id": 3773,
         "line_type": "CN",
-        "title": "例行维护 #33",
+        "title": "例行维护 #34",
         "image": "https://static.kivo.wiki/images/timeline/LjbVbwQHCIhGUJb9H7vqRGBO9hEyzgFi.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 03月06日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -40412,7 +40502,7 @@
       "item": {
         "id": 3657,
         "line_type": "JP",
-        "title": "任务hard3倍 #13",
+        "title": "任务Hard3倍#13",
         "image": "https://static.kivo.wiki/images/timeline/ROKQNqpECPj3pCOG0iUG8TcV0krEwsHN.jpg",
         "body_summary": "【キャンペーン予告】 2月16日(日)4:00より、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 2月16日(日)4:00〜2月19日(水)3:59 この",
         "type": "Double",
@@ -40556,7 +40646,7 @@
       "item": {
         "id": 3741,
         "line_type": "CN",
-        "title": "例行维护 #32",
+        "title": "例行维护 #33",
         "image": "https://static.kivo.wiki/images/timeline/kURxlqL7geauyJ9ps0RNnOt3CS27diuM.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 02月13日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -40772,7 +40862,7 @@
       "item": {
         "id": 3655,
         "line_type": "JP",
-        "title": "任务normal3倍 #13",
+        "title": "任务Normal3倍#13",
         "image": "https://static.kivo.wiki/images/timeline/MhIaKaYNlmzuKNc3l0TGwFRTRmyV0gw1.jpg",
         "body_summary": "【キャンペーン予告】 2月12日(水)4:00より、4周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 2月12日(水)4:00〜2月16日",
         "type": "Double",
@@ -41384,7 +41474,7 @@
       "item": {
         "id": 3639,
         "line_type": "JP",
-        "title": "任务hard3倍 #12",
+        "title": "任务Hard3倍#12",
         "image": "https://static.kivo.wiki/images/timeline/F9ni2YMWX0AYc8C78M7IrEU725O47N7R.jpg",
         "body_summary": "【キャンペーン予告】 1月31日(金)4:00より、4周年を記念した「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 1月31日(金)4:00〜2月3日(月)",
         "type": "Double",
@@ -41726,7 +41816,7 @@
       "item": {
         "id": 3578,
         "line_type": "JP",
-        "title": "任务normal3倍 #12",
+        "title": "任务Normal3倍#12",
         "image": "https://static.kivo.wiki/images/timeline/8bwIIpiZcEu1oMJpolwIcTRRuZSAOHkc.jpg",
         "body_summary": "【キャンペーン予告】 1月27日(月)4:00より、4周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 1月27日(月)4:00〜1月31日",
         "type": "Double",
@@ -42176,7 +42266,7 @@
       "item": {
         "id": 3631,
         "line_type": "CN",
-        "title": "例行维护 #31",
+        "title": "例行维护 #32",
         "image": "https://static.kivo.wiki/images/timeline/QePuqLiCH5A3QIcx4SEoqru2MXbA5GhW.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 01月23日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -43583,7 +43673,7 @@
         "title": "《蔚蓝档案》01月02日功能新增/优化说明",
         "image": "https://static.kivo.wiki/images/timeline/KSF7rFooHKSV9GQmfxRfT4oAZ8NXHAOo.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为了改善各位老师的游戏体验，《蔚蓝档案》将于2025年01月02日进行一次维护更新，本次维护更新需要老师重新安装客户端。维护更新结束后，什亭之箱将有大量功能新增及优化",
-        "type": "Other",
+        "type": "ContentImprovements",
         "url": "weibo.com/ttarticle/p/show?id=2309405116979366461965",
         "start_time": 1735812000,
         "end_time": 1735812000
@@ -43688,7 +43778,7 @@
       "item": {
         "id": 3541,
         "line_type": "CN",
-        "title": "例行维护 #30",
+        "title": "例行维护 #31",
         "image": "https://static.kivo.wiki/images/timeline/iZeiZhU7X2yxSLwHGBh4ffWS3HwgKW4p.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 01月02日 08:00 开始进行维护更新，预计持续8小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -44732,7 +44822,7 @@
       "item": {
         "id": 3452,
         "line_type": "CN",
-        "title": "例行维护 #29",
+        "title": "例行维护 #30",
         "image": "https://static.kivo.wiki/images/timeline/HUUq3Jmkif77Es9PwWgHEoD67L4guCmS.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月19日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -45488,7 +45578,7 @@
       "item": {
         "id": 3413,
         "line_type": "CN",
-        "title": "例行维护 #28",
+        "title": "例行维护 #29",
         "image": "https://static.kivo.wiki/images/timeline/eGHWUYqMidZsMZtztgSfBjfRWjuciPgB.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 12月05日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -47486,7 +47576,7 @@
       "item": {
         "id": 3370,
         "line_type": "CN",
-        "title": "例行维护 #27 & 维护延长",
+        "title": "例行维护 #28 & 维护延长",
         "image": "https://static.kivo.wiki/images/timeline/vhds4BC68yOIJUi6FkyDpWsSxPvdqWL0.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 11月07日 10:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -49124,7 +49214,7 @@
       "item": {
         "id": 3193,
         "line_type": "CN",
-        "title": "例行维护 #26",
+        "title": "例行维护 #27",
         "image": "https://static.kivo.wiki/images/timeline/NhCJwa6rVlnAApHHwaHmsruwsPGcDSFq.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 10月17日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -50402,7 +50492,7 @@
       "item": {
         "id": 3133,
         "line_type": "CN",
-        "title": "例行维护 #25 & 维护延长",
+        "title": "例行维护 #26 & 维护延长",
         "image": "https://static.kivo.wiki/images/timeline/g9biDyOyFwAo9Ltf9SzkvK6rr8tAHSJL.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 09月26日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -51518,7 +51608,7 @@
       "item": {
         "id": 3067,
         "line_type": "CN",
-        "title": "例行维护24",
+        "title": "例行维护 #25",
         "image": "https://static.kivo.wiki/images/timeline/W9aXAkvNq4sdkWc4y7OGFSIi1PWK8Q36.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 09月05日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -52310,7 +52400,7 @@
       "item": {
         "id": 3026,
         "line_type": "CN",
-        "title": "例行维护23",
+        "title": "例行维护 #24",
         "image": "https://static.kivo.wiki/images/timeline/ZGwbyCuuLS1a6lT5WrvSXk2XBD43R0FF.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月22日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -52724,7 +52814,7 @@
       "item": {
         "id": 3011,
         "line_type": "JP",
-        "title": "任务hard3倍 #11",
+        "title": "任务Hard3倍#11",
         "image": "https://static.kivo.wiki/images/timeline/t9rCLZR8coGz7VQR67BKKwqETo2QUnZF.jpg",
         "body_summary": "【キャンペーン予告】 8月18日(日)より、3.5周年を記念した「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ぜひこの機会に生徒さんの「神名文字」や装備の「設計図」を",
         "type": "Double",
@@ -52994,7 +53084,7 @@
       "item": {
         "id": 2986,
         "line_type": "JP",
-        "title": "任务normal3倍 #11",
+        "title": "任务Normal3倍#11",
         "image": "https://static.kivo.wiki/images/timeline/yJJxMkbPyX2tRqVQvNzrD1lEJGmHJ4e8.jpg",
         "body_summary": "【キャンペーン予告】 8月14日(水)4:00より、3.5周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 8月14日(水)4:00〜8月1",
         "type": "Double",
@@ -53714,7 +53804,7 @@
       "item": {
         "id": 2944,
         "line_type": "JP",
-        "title": "任务hard3倍 #10",
+        "title": "任务Hard3倍#10",
         "image": "https://static.kivo.wiki/images/timeline/zx7xlCvvjqHy1IwLhrGFTAIFTCZXNbGk.jpg",
         "body_summary": "【キャンペーン予告】 8月4日(日)より、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ぜひこの機会に生徒さんの「神名文字」や装備の「設計図」を集めてはいかがでしょう",
         "type": "Double",
@@ -54038,7 +54128,7 @@
       "item": {
         "id": 2928,
         "line_type": "CN",
-        "title": "例行维护22",
+        "title": "例行维护 #23",
         "image": "https://static.kivo.wiki/images/timeline/iFpsNqJfMUoVh0l0YVMFHOppKkPxEFfN.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 08月01日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -54200,7 +54290,7 @@
       "item": {
         "id": 2943,
         "line_type": "JP",
-        "title": "任务normal3倍 #10",
+        "title": "任务Normal3倍#10",
         "image": "https://static.kivo.wiki/images/timeline/fLvNWFiMcdb7JPhGcRhxujt8hqx2U4Py.jpg",
         "body_summary": "【キャンペーン予告】 7月31日(水)4:00より、3.5周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 7月31日(水)4:00〜8月4",
         "type": "Double",
@@ -55712,7 +55802,7 @@
       "item": {
         "id": 2833,
         "line_type": "CN",
-        "title": "例行维护21 维护延长",
+        "title": "例行维护 #22 &维护延长",
         "image": "https://static.kivo.wiki/images/timeline/xCR2vmj38fyqqB3Zy99FEhd1KTLCMKqs.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月18日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -57026,7 +57116,7 @@
       "item": {
         "id": 2764,
         "line_type": "CN",
-        "title": "例行维护20",
+        "title": "例行维护 #21",
         "image": "https://static.kivo.wiki/images/timeline/8aojufiRGmw7zI4jLrK2wBLJ0eiTtwQV.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月27日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -58124,7 +58214,7 @@
       "item": {
         "id": 2744,
         "line_type": "CN",
-        "title": "例行维护19",
+        "title": "例行维护 #20",
         "image": "https://static.kivo.wiki/images/timeline/tvFtLL9ZNvb3xewmmzeFuY12iP2pXMUN.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 06月13日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -58844,7 +58934,7 @@
       "item": {
         "id": 2630,
         "line_type": "CN",
-        "title": "例行维护18",
+        "title": "例行维护 #19",
         "image": "https://static.kivo.wiki/images/timeline/QMs25oN7iOhHkvS4saus2OxV2f3IZCMj.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 05月30日 14:00 开始进行维护更新，预计持续4小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
         "type": "Maintenance",
@@ -59618,7 +59708,7 @@
       "item": {
         "id": 2613,
         "line_type": "CN",
-        "title": "炸服7 & 启动画面调整",
+        "title": "例行维护 #18",
         "image": "https://static.kivo.wiki/images/timeline/u3zFimLjmB5n4heGrTejV74in6jmzuj2.gif",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 05月20日 14:00 开始进行维护更新，预计持续3小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
         "type": "Maintenance",
@@ -61868,7 +61958,7 @@
       "item": {
         "id": 2511,
         "line_type": "CN",
-        "title": "炸服6",
+        "title": "炸服#6（佩洛洛斯拉总力战BUG）",
         "image": "https://static.kivo.wiki/images/timeline/ujLNtL3uOsvt8L3KW6NA3voQnqVFtYbo.gif",
         "body_summary": "#蔚蓝档案 “欢迎连接什亭之箱，老师。” 我们计划于 04月19日 19:00 进行一次临时维护更新，预计持续2小时，维护开始后将暂时无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号数据",
         "type": "Maintenance",
@@ -65918,7 +66008,7 @@
       "item": {
         "id": 2245,
         "line_type": "CN",
-        "title": "炸服5",
+        "title": "炸服#5（限时复刻活动【樱花烂漫庆典大骚动！】部分挑战关卡的关卡首领的生命值异常）",
         "image": "https://static.kivo.wiki/images/timeline/5g75cbt8R9qw6QPy3PkmE7ZWcWWfDJTN.png",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们计划于 02月26日 11:00 进行一次临时维护更新，预计持续1小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号数据正常，请在维",
         "type": "Maintenance",
@@ -66242,7 +66332,7 @@
       "item": {
         "id": 2238,
         "line_type": "CN",
-        "title": "炸服4 & 【战术对抗赛】异常问题修复",
+        "title": "炸服#4（【战术对抗赛】异常）",
         "image": "https://static.kivo.wiki/images/timeline/BoXqBlNUtiwmy0KzgbQBnf8Cw7WhAm1H.png",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 接部分玩家反馈，我们观察到【战术对抗赛】中出现特定情况下无法正常战斗的异常问题，当前我们正在紧急开展核实，修复工作。针对本次异常问题的具体修复及补偿方案将于后续通过官",
         "type": "Maintenance",
@@ -66692,7 +66782,7 @@
       "item": {
         "id": 2234,
         "line_type": "CN",
-        "title": "炸服3",
+        "title": "炸服#3（霍德总力战BUG）",
         "image": "https://static.kivo.wiki/images/timeline/Obizjw5uYltTUAcypPmYCkgRDHjyzwec.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们计划于 02月14日 04:00 进行一次临时维护更新，预计持续2小时，维护开始后将暂时无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号数据正常，请",
         "type": "Maintenance",
@@ -67016,7 +67106,7 @@
       "item": {
         "id": 2222,
         "line_type": "CN",
-        "title": "炸服2（更新临时维护）",
+        "title": "炸服#2（更新临时维护）",
         "image": "https://static.kivo.wiki/images/timeline/eDvE7YnPCc4juSnpjWSOnY6kN6fV06we.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们计划于 02月08日 14:00 进行一次临时维护更新，预计持续2小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账号数据正常，请在维",
         "type": "Maintenance",
@@ -67268,7 +67358,7 @@
       "item": {
         "id": 2108,
         "line_type": "JP",
-        "title": "任务normal3倍 #9",
+        "title": "任务Normal3倍#9",
         "image": "https://static.kivo.wiki/images/timeline/BJn98S8ZAZRnBRtJE2c9R36c4kERSosG.jpg",
         "body_summary": "【キャンペーン予告】 2月7日(水)4:00より「任務(Normal)」の報酬ドロップ量が3倍になるキャンペーンが開催されます！ 🔷開催期間 2月7日(水)4:00～2月21日(水)3:59 この特別",
         "type": "Double",
@@ -67916,7 +68006,7 @@
       "item": {
         "id": 4955,
         "line_type": "JP",
-        "title": "特别依赖3倍 #10 & 任务hard3倍#9",
+        "title": "特别依赖3倍#10 & 任务Hard3倍#9",
         "image": "https://static.kivo.wiki/images/timeline/vgQ1PTbp48h1Tkff9J0vHjGz1xDOKf5u.jpg",
         "body_summary": "【キャンペーン予告】 まもなく「特別依頼」ならびに「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンを開催します。 いつも以上に報酬が獲得できるチャンスですので、ぜひご活用ください！ 🔷開",
         "type": "Double",
@@ -72920,7 +73010,7 @@
       "item": {
         "id": 1022,
         "line_type": "JP",
-        "title": "例行维护83",
+        "title": "例行维护 #83",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/22(水) 11:00 〜 19:00前後 ▼詳細 bluearc",
         "type": "Maintenance",
@@ -73514,7 +73604,7 @@
       "item": {
         "id": 1624,
         "line_type": "CN",
-        "title": "炸服1",
+        "title": "炸服#1（游戏无法登录）",
         "image": "https://static.kivo.wiki/images/timeline/eUTaRXqlnYONevOiTQhIhdfZr6zf7vP6.jpg",
         "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈游戏出现间歇性无法登录的情况。在得知该情况后我们已紧急开展核实、修复计划。 经核实，在00:04~00:07期间，出现网络波动导致老师无法正常",
         "type": "Maintenance",
@@ -73730,7 +73820,7 @@
       "item": {
         "id": 929,
         "line_type": "JP",
-        "title": "例行维护82",
+        "title": "例行维护 #82",
         "image": "",
         "body_summary": "【定期メンテナンス】 ただいま、メンテナンスが終了しました! お礼として下記特別手当をメールにて配布いたします。 メンテ協力のお礼 ・青輝石 × 720 ▼詳細 https://bluearchive",
         "type": "Maintenance",
@@ -78896,7 +78986,7 @@
       "item": {
         "id": 1726,
         "line_type": "CN",
-        "title": "蔚蓝档案开服版本助力追加",
+        "title": "《蔚蓝档案》开服版本助力追加",
         "image": "https://static.kivo.wiki/images/timeline/gwESprUSxbwOPaik3dPSizWEbuE4S45X.jpg",
         "body_summary": "《蔚蓝档案》开服版本助力追加 “欢迎连接【什亭之箱】，老师。” 感谢大家对蔚蓝档案的喜爱与支持，蔚蓝档案开服至今受到大量老师的关注，我们也收到许多老师对于当前版本进度及活动助力相关的建议和反馈。为优化",
         "type": "Other",
@@ -78914,7 +79004,7 @@
       "item": {
         "id": 753,
         "line_type": "JP",
-        "title": "任务hard3倍 #8",
+        "title": "任务Hard3倍#8",
         "image": "https://static.kivo.wiki/images/timeline/erhTRdXSOo5OJT34nbitroavgZfv2hW1.jpg",
         "body_summary": "【キャンペーン予告】 8月13日(日)より、「任務(Hard)」の報酬ドロップ量が3倍になるキャンペーンが開催されます！ いつも以上に生徒さんの「神名文字」や装備の「設計図」などを獲得できる3倍キャン",
         "type": "Double",
@@ -78986,7 +79076,7 @@
       "item": {
         "id": 2166,
         "line_type": "CN",
-        "title": "蔚蓝档案官方微博账号粉丝数突破10万",
+        "title": "《蔚蓝档案》官方微博账号粉丝数突破10万",
         "image": "https://static.kivo.wiki/images/timeline/POPBVJAxeevjZY1xGIdougIeoWKRtINe.jpg",
         "body_summary": "感谢来自各位老师的关注，《蔚蓝档案》官方微博账号粉丝数现已突破10万！ 为感谢老师的支持，现已通过游戏内邮件发放【10次招募券*1】作为感谢礼物！现在就可以在邮件内领取了哦！ ■ 邮件发放时间 08月",
         "type": "Other",
@@ -79256,7 +79346,7 @@
       "item": {
         "id": 749,
         "line_type": "JP",
-        "title": "任务normal3倍 #8",
+        "title": "任务Normal3倍#8",
         "image": "https://static.kivo.wiki/images/timeline/Vg59BL2HDfaT0yquYCnYOXtVQ93SUmeG.jpg",
         "body_summary": "【キャンペーン予告】 8月9日(水)4:00より「任務(Normal)」の報酬ドロップ量が3倍になるキャンペーンが開催されます！ 2.5周年記念のこのチャンスに、生徒さんの装備や装備の設計図などを沢山",
         "type": "Double",
@@ -79364,7 +79454,7 @@
       "item": {
         "id": 757,
         "line_type": "JP",
-        "title": "任务hard3倍 #7",
+        "title": "任务Hard3倍#7",
         "image": "https://static.kivo.wiki/images/timeline/N3MjFeRVJRdtvuOLpc3rRfU4F65AH251.jpg",
         "body_summary": "【キャンペーン予告】 8月6日(日)より、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 2.5周年記念の特別な機会を活かして、生徒さんの「神名文字」や装備の「設計図」",
         "type": "Double",
@@ -79400,7 +79490,7 @@
       "item": {
         "id": 2164,
         "line_type": "CN",
-        "title": "蔚蓝档案国服主题曲EP-Blue Canvas",
+        "title": "《蔚蓝档案》国服主题曲EP-Blue Canvas",
         "image": "",
         "body_summary": "#蔚蓝档案#蔚蓝档案公测上线《蔚蓝档案》国服主题曲EP-Blue Canvas 作词・作曲・编曲：丸山真由子 演唱：ClariS 当蔚蓝的色调重叠，就再次启程寻找吧！ 来吧老师！一起留下我们相逢的奇迹",
         "type": "OutsideGames",
@@ -79482,24 +79572,6 @@
       },
       "detail_path": "timeline/1789.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/1789.json"
-    },
-    "1775": {
-      "id": 1775,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 1775,
-        "line_type": "CN",
-        "title": "国服公测正式开服",
-        "image": "https://static.kivo.wiki/images/timeline/VD1jOAFYLpPHFDY2HXxn3A5wdVl73LhB.jpg",
-        "body_summary": "《蔚蓝档案》公测正式开服！[阿洛娜][蔚蓝档案] 老师，终于见面了！属于我们的故事，将在今天开始！ 游戏下载地址：网页链接 ​​​",
-        "type": "Other",
-        "url": "weibo.com/6011443154/NcQd57sAa",
-        "start_time": 1691031616,
-        "end_time": 1691031616
-      },
-      "detail_path": "timeline/1775.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/1775.json"
     },
     "1715": {
       "id": 1715,
@@ -79598,7 +79670,7 @@
       "item": {
         "id": 747,
         "line_type": "JP",
-        "title": "任务normal3倍 #7",
+        "title": "任务Normal3倍#7",
         "image": "https://static.kivo.wiki/images/timeline/S5drnvE6pj5Cd1IzUf4vpbg4ZJU3rDzZ.jpg",
         "body_summary": "【キャンペーン予告】 8月2日(水)4:00より、2.5周年を記念した「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 8月2日(水)4:00〜8月6日(",
         "type": "Double",
@@ -84371,7 +84443,7 @@
         "title": "国服开服水角色",
         "image": "https://static.kivo.wiki/images/timeline/oGmL8wJWVljuLlZx8PN3kiabUgLGB6r0.jpg",
         "body_summary": "//////////档案启封////////// ■砂狼白子 砂狼白子喜欢运动，是阿拜多斯对策委员会的突击队长。 因为沉默寡言、面无表情，所以给人一种很冷漠的印象，但其实是比任何一个人都爱惜阿拜多斯的",
-        "type": "OutsideGames",
+        "type": "Other",
         "url": "",
         "start_time": 1680924300,
         "end_time": 1690991999
@@ -86150,7 +86222,7 @@
       "item": {
         "id": 588,
         "line_type": "JP",
-        "title": "任务hard3倍 #6",
+        "title": "任务Hard3倍#6",
         "image": "https://static.kivo.wiki/images/timeline/3cpMzvgjXBFjFAAQTVipvf2YITmuEWyd.jpg",
         "body_summary": "【キャンペーン予告】 2月19日(日)より、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 2周年記念最後の3倍キャンペーンです！ ぜひこの機会に生徒さんの「神名文字」",
         "type": "Double",
@@ -86258,7 +86330,7 @@
       "item": {
         "id": 585,
         "line_type": "JP",
-        "title": "任务normal3倍 #6",
+        "title": "任务Normal3倍#6",
         "image": "https://static.kivo.wiki/images/timeline/DTY6p8Y6EWoXTIgD8Lveu1iVtnlrEA6X.jpg",
         "body_summary": "【キャンペーン予告】 2月15日(水)4:00より、「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 2月15日(水)4:00〜2月19日(日)3:59 ",
         "type": "Double",
@@ -86654,7 +86726,7 @@
       "item": {
         "id": 576,
         "line_type": "JP",
-        "title": "任务hard3倍 #5",
+        "title": "任务Hard3倍#5",
         "image": "https://static.kivo.wiki/images/timeline/KugcPXArfhPASrKpUHR0nFfOgq93O7kY.jpg",
         "body_summary": "【キャンペーン予告】 2月5日(日)より、「任務(Hard)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ 2周年記念のこの特別な機会に、生徒さんの「神名文字」や装備の「設計図」などを集",
         "type": "Double",
@@ -87014,7 +87086,7 @@
       "item": {
         "id": 566,
         "line_type": "JP",
-        "title": "任务normal3倍 #5",
+        "title": "任务Normal3倍#5",
         "image": "https://static.kivo.wiki/images/timeline/cvcfvNpb9sA3qrYnCZpJITsaA1UgJRlS.jpg",
         "body_summary": "【キャンペーン予告】 1月31日(火)4:00より、2周年を記念して「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 1月31日(火)4:00〜2月5日(",
         "type": "Double",
@@ -92882,7 +92954,7 @@
       "item": {
         "id": 411,
         "line_type": "JP",
-        "title": "任务hard3倍 #4",
+        "title": "任务Hard3倍#4",
         "image": "https://static.kivo.wiki/images/timeline/eXYuJOmTbDysoWRId4PepIP6kYuXvrZY.jpg",
         "body_summary": "【キャンペーン予告】 8月18日(木)より、「任務(Hard)」のドロップ量が3倍になるキャンペーンが開催されます！ 1.5周年記念最後の3倍キャンペーンです！ 生徒さんの「神名文字」や装備の「設計図",
         "type": "Double",
@@ -93170,7 +93242,7 @@
       "item": {
         "id": 405,
         "line_type": "JP",
-        "title": "任务normal3倍 #4",
+        "title": "任务Normal3倍#4",
         "image": "https://static.kivo.wiki/images/timeline/v9NZMUgkRWJYr71IVLgXKQPHK7et87TG.jpg",
         "body_summary": "【キャンペーン予告】 8月9日(火)4:00より「任務(Normal)」のドロップ量が3倍になるキャンペーンが開催されます！ 1.5周年記念のこのチャンスに、生徒さんの装備や装備の設計図を沢山集めて強",
         "type": "Double",
@@ -97886,7 +97958,7 @@
       "item": {
         "id": 1016,
         "line_type": "Globle",
-        "title": "国际服例行维护8",
+        "title": "国际服例行维护 #8",
         "image": "",
         "body_summary": "[2/22 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/22 (T",
         "type": "Maintenance",
@@ -97958,7 +98030,7 @@
       "item": {
         "id": 265,
         "line_type": "JP",
-        "title": "任务hard3倍 #3",
+        "title": "任务Hard3倍#3",
         "image": "https://static.kivo.wiki/images/timeline/7cgv1J1J9hXnBW3eLpUj7chke7AMDKon.jpg",
         "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が3倍になるキャンペーンがまもなく開催されます！ 🔹開催期間 2月20日(日)04:00～2月23日(水)03:59 1stアニバーサリー最後のキ",
         "type": "Double",
@@ -98030,7 +98102,7 @@
       "item": {
         "id": 261,
         "line_type": "JP",
-        "title": "任务normal3倍 #3",
+        "title": "任务Normal3倍#3",
         "image": "https://static.kivo.wiki/images/timeline/xL5dfIe1pHZ3L1goDhTAoWjpVFYHR0SU.jpg",
         "body_summary": "【キャンペーン予告】 2月16日(水)04:00から、「任務(Normal)」の報酬量が3倍キャンペーンの第2弾が開催されます！ 新しく解放された「Area17」では「Tier6」装備アイテムの設計図",
         "type": "Double",
@@ -98264,7 +98336,7 @@
       "item": {
         "id": 1006,
         "line_type": "Globle",
-        "title": "国际服例行维护7",
+        "title": "国际服例行维护 #7",
         "image": "",
         "body_summary": "[2/8 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/8 (Tue",
         "type": "Maintenance",
@@ -98300,7 +98372,7 @@
       "item": {
         "id": 255,
         "line_type": "JP",
-        "title": "任务hard3倍 #2",
+        "title": "任务Hard3倍#2",
         "image": "https://static.kivo.wiki/images/timeline/UWf0o8Ya9COscL1cqdYUv2MCKHYEQyek.jpg",
         "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が3倍になるキャンペーンがまもなく開催されます！ 🔷開催期間 2月6日(日)04:00～2月9日(水)03:59 1stアニバーサリー記念キャンペ",
         "type": "Double",
@@ -98390,7 +98462,7 @@
       "item": {
         "id": 252,
         "line_type": "JP",
-        "title": "任务normal3倍 #2",
+        "title": "任务Normal3倍#2",
         "image": "https://static.kivo.wiki/images/timeline/AYO3PdqZqI4mI8s5ltEKRlqVsotKYqed.jpg",
         "body_summary": "【キャンペーン予告】 2月2日(水)04:00から、「任務(Normal)」の報酬量が3倍になるキャンペーンが開催されます！ 1stアニバーサリー記念のこのお得なチャンス！ぜひ生徒さんの装備や、装備の",
         "type": "Double",
@@ -98768,7 +98840,7 @@
       "item": {
         "id": 911,
         "line_type": "Globle",
-        "title": "国际服例行维护6",
+        "title": "国际服例行维护 #6",
         "image": "",
         "body_summary": "[1/25 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 1/25 (T",
         "type": "Maintenance",
@@ -101144,7 +101216,7 @@
       "item": {
         "id": 41,
         "line_type": "JP",
-        "title": "例行维护6",
+        "title": "例行维护 #6",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/11(木) 14:00 〜 20:00 ▼詳細 bluearchi",
         "type": "Maintenance",
@@ -102494,7 +102566,7 @@
       "item": {
         "id": 161,
         "line_type": "JP",
-        "title": "任务hard3倍 #1",
+        "title": "任务Hard3倍#1",
         "image": "https://static.kivo.wiki/images/timeline/tMdfZmaolERYqQlmkf57E2YXFqsU1dOi.jpg",
         "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が3倍になるキャンペーンがまもなく開催されます！ 🔷開催期間 8月23日(月)04:00～8月26日(木)03:59 ハーフアニバーサリー記念の最",
         "type": "Double",
@@ -102530,7 +102602,7 @@
       "item": {
         "id": 158,
         "line_type": "JP",
-        "title": "任务normal3倍 #1",
+        "title": "任务Normal3倍#1",
         "image": "https://static.kivo.wiki/images/timeline/kMzCXpNveX91qKl9Zugp8CUD8FuM1TPN.jpg",
         "body_summary": "【キャンペーン予告】 8月19日(木)04:00から、「任務(Normal)」の報酬量が3倍になるキャンペーンが開催されます！ ハーフアニバーサリー記念のお得なこのチャンス！ぜひ生徒さんたちの装備や、",
         "type": "Double",
@@ -102638,7 +102710,7 @@
       "item": {
         "id": 155,
         "line_type": "JP",
-        "title": "例行维护21",
+        "title": "例行维护 #21",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/12(木) 12:00 〜 18:00前後 ▼詳細 https://",
         "type": "Maintenance",
@@ -103124,7 +103196,7 @@
       "item": {
         "id": 117,
         "line_type": "JP",
-        "title": "例行维护18",
+        "title": "例行维护 #18",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/8(木) 12:00 〜 16:00前後 ▼詳細 https://b",
         "type": "Maintenance",
@@ -103286,7 +103358,7 @@
       "item": {
         "id": 113,
         "line_type": "JP",
-        "title": "例行维护17",
+        "title": "例行维护 #17",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/24(木) 12:00 〜 18:00前後 ▼詳細 https://",
         "type": "Maintenance",
@@ -103394,7 +103466,7 @@
       "item": {
         "id": 103,
         "line_type": "JP",
-        "title": "例行维护16",
+        "title": "例行维护 #16",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/10(木) 12:00 〜 18:00前後 ▼詳細 https://",
         "type": "Maintenance",
@@ -103556,7 +103628,7 @@
       "item": {
         "id": 140,
         "line_type": "JP",
-        "title": "例行维护15",
+        "title": "例行维护 #15",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にてメンテナンスを行います。 ▼実施日時 5/27(木) 12:00 〜 20:00前後 今回いくつか新機能が追加されますので、少しコチラでも紹介します！ 詳",
         "type": "Maintenance",
@@ -103718,7 +103790,7 @@
       "item": {
         "id": 129,
         "line_type": "JP",
-        "title": "例行维护14",
+        "title": "例行维护 #14",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 5/13(木) 12:00 〜 18:00前後 ▼詳細 https:/",
         "type": "Maintenance",
@@ -103916,7 +103988,7 @@
       "item": {
         "id": 99,
         "line_type": "JP",
-        "title": "例行维护13",
+        "title": "例行维护 #13",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/29(木) 12:00 〜 20:00 ▼詳細 https://b",
         "type": "Maintenance",
@@ -104042,7 +104114,7 @@
       "item": {
         "id": 92,
         "line_type": "JP",
-        "title": "例行维护12",
+        "title": "例行维护 #12",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/22(木) 12:00 〜 18:00 ▼詳細 https://b",
         "type": "Maintenance",
@@ -104150,7 +104222,7 @@
       "item": {
         "id": 85,
         "line_type": "JP",
-        "title": "例行维护11",
+        "title": "例行维护 #11",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/15(木) 12:00 〜 18:00 ▼詳細 https://b",
         "type": "Maintenance",
@@ -104186,7 +104258,7 @@
       "item": {
         "id": 83,
         "line_type": "JP",
-        "title": "例行维护10",
+        "title": "例行维护 #10",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力をお願いいたします！ ▼実施日時 4/8(木) 12:00 〜 20:00 ▼詳細 https://bluearch",
         "type": "Maintenance",
@@ -104294,7 +104366,7 @@
       "item": {
         "id": 78,
         "line_type": "JP",
-        "title": "例行维护9",
+        "title": "例行维护 #9",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 4/1(木) 12:00 〜 18:00 ▼詳細 bluearchiv",
         "type": "Maintenance",
@@ -104492,7 +104564,7 @@
       "item": {
         "id": 49,
         "line_type": "JP",
-        "title": "例行维护8",
+        "title": "例行维护 #8",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 ご協力をお願いいたします！ ▼実施日時 3/25(木) 12:00 〜 18:00 ▼詳細 bluearchive.jp/news",
         "type": "Maintenance",
@@ -104582,7 +104654,7 @@
       "item": {
         "id": 47,
         "line_type": "JP",
-        "title": "例行维护7",
+        "title": "例行维护 #7",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/18(木) 12:00 〜 16:00 ▼詳細 bluearchi",
         "type": "Maintenance",
@@ -104798,7 +104870,7 @@
       "item": {
         "id": 29,
         "line_type": "JP",
-        "title": "例行维护5",
+        "title": "例行维护 #5",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/4(木) 14:00 〜 18:00 ▼詳細 bluearchiv",
         "type": "Maintenance",
@@ -104906,7 +104978,7 @@
       "item": {
         "id": 76,
         "line_type": "JP",
-        "title": "例行维护4",
+        "title": "例行维护 #4",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/25(木) 14:00 〜 20:00 ▼詳細 https://b",
         "type": "Maintenance",
@@ -104996,7 +105068,7 @@
       "item": {
         "id": 60,
         "line_type": "JP",
-        "title": "例行维护3",
+        "title": "例行维护 #3",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/18(木) 14:00 〜 20:00 ▼詳細 https://b",
         "type": "Maintenance",
@@ -105176,7 +105248,7 @@
       "item": {
         "id": 32,
         "line_type": "JP",
-        "title": "例行维护2",
+        "title": "例行维护 #2",
         "image": "",
         "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/11(木) 14:00 〜 21:00 ▼更新内容 https:/",
         "type": "Maintenance",
@@ -105572,7 +105644,7 @@
       "item": {
         "id": 9,
         "line_type": "JP",
-        "title": "例行维护1",
+        "title": "例行维护 #1",
         "image": "",
         "body_summary": "【メンテナンス】 現在開催中のクローズドβテストにつきまして、新規コンテンツ追加のため、下記の日時にメンテナンスを実施いたします。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/11",
         "type": "Maintenance",
@@ -105801,6 +105873,21 @@
     }
   },
   "by_alias": {
+    "庆典复刻招募【温柔地奏响天空的方式】": [
+      "6043"
+    ],
+    "庆典招募【短暂的星夜之梦】": [
+      "6042"
+    ],
+    "庆典招募【盛夏波浪 如你所愿】": [
+      "6041"
+    ],
+    "限时限定招募【思绪飘散在漫漫夏夜里】": [
+      "6040"
+    ],
+    "限时限定招募【秩序隐匿于粼粼波光中】": [
+      "6039"
+    ],
     "莲见(泳装)": [
       "6032"
     ],
@@ -105849,7 +105936,7 @@
     "国际服制约解除作战:赛特之怒 #15": [
       "6018"
     ],
-    "「特別依頼」2倍#70": [
+    "特別依頼2倍#70": [
       "6024"
     ],
     "国际服活动常驻化「From Opera 0068 with Love!」": [
@@ -105909,7 +105996,7 @@
     "限时活动【百芳丛中独一枝 ~堂堂正正,水上争锋~】介绍PV": [
       "5975"
     ],
-    "例行维护#65": [
+    "例行维护 #66": [
       "6002"
     ],
     "2026教师节礼物": [
@@ -105981,7 +106068,7 @@
     "任务Hard2倍#57": [
       "5962"
     ],
-    "炸服#24(【0068 来自歌剧的爱】活动无法正常进入)": [
+    "炸服 #23(【0068 来自歌剧的爱】活动无法正常进入)": [
       "5973"
     ],
     "限时复刻活动【0068 来自歌剧的爱】": [
@@ -106074,7 +106161,7 @@
     "国际服任务Normal2倍": [
       "5923"
     ],
-    "任务hard3倍#19": [
+    "任务Hard3倍#19": [
       "5819"
     ],
     "国际服老师经验2倍#53": [
@@ -106116,7 +106203,7 @@
     "活动【与联邦理事会一起 沙勒总决算】#12": [
       "5929"
     ],
-    "例行维护#64": [
+    "例行维护 #65": [
       "5931"
     ],
     "悬赏通缉2倍 #41 & 学院交流会2倍 #31 & 日程2倍 #41 & 特别委托2倍 #23 & 任务(困难难度)2倍 #27 & 任务(普通难度)2倍 #27": [
@@ -106137,7 +106224,7 @@
     "国际服制约解除作战: 霍克玛 #8": [
       "5966"
     ],
-    "任务normal3倍#19": [
+    "任务Normal3倍#19": [
       "5818"
     ],
     "特别依赖3倍#20": [
@@ -106194,7 +106281,7 @@
     "阿洛娜的日程笔记(第30期)": [
       "5903"
     ],
-    "例行维护#63": [
+    "例行维护 #64": [
       "5902"
     ],
     "大决战:白&黑 • 室内战#2": [
@@ -106257,7 +106344,7 @@
     "国际服特别依赖2倍 #52": [
       "5882"
     ],
-    "任务hard3倍#18": [
+    "任务Hard3倍#18": [
       "5815"
     ],
     "国际服 Cafe Memorial 一周年庆典礼物": [
@@ -106284,7 +106371,7 @@
     "特别依赖3倍#19": [
       "5814"
     ],
-    "任务normal3倍#18": [
+    "任务Normal3倍#18": [
       "5813"
     ],
     "国际服违规账号封禁 #67": [
@@ -106323,7 +106410,7 @@
     "【什亭之“响”】全速剧透": [
       "5872"
     ],
-    "炸服#23(【账号经验值】2倍活动未按时正常开启)": [
+    "炸服 #22(【账号经验值】2倍活动未按时正常开启)": [
       "5869"
     ],
     "老师经验2倍集中通知 26-08-01": [
@@ -106341,7 +106428,7 @@
     "【凯撒集团出品】全新故事集《小孩子才做选择》": [
       "5871"
     ],
-    "例行维护#62": [
+    "例行维护 #63": [
       "5868"
     ],
     "【海兰德列车】咖啡厅套装更新": [
@@ -106557,7 +106644,7 @@
     "《蔚蓝档案》x 模玩熊 夏日出行系列PV:时篇": [
       "5773"
     ],
-    "炸服#22(熟练证书商店价格异常、总力战任务奖励发放异常)": [
+    "炸服 #21(熟练证书商店价格异常、总力战任务奖励发放异常)": [
       "5770"
     ],
     "限时招募【肌肉第1 努力第2】": [
@@ -106590,7 +106677,7 @@
     "活动【盛情款待茶歇时光】": [
       "5749"
     ],
-    "例行维护#61": [
+    "例行维护 #62": [
       "5771"
     ],
     "大决战:屋内戦・ホド #1": [
@@ -106632,7 +106719,7 @@
     "泉(新年)": [
       "5747"
     ],
-    "炸服#21(任务(困难难度)道具掉落量2倍活动异常)": [
+    "炸服 #20(任务(困难难度)道具掉落量2倍活动异常)": [
       "5746"
     ],
     "任务(困难难度)2倍 #26": [
@@ -106782,7 +106869,7 @@
     "《蔚蓝档案》BW2026宣传PV": [
       "5688"
     ],
-    "炸服#20(大决战界面存在显示信息异常)": [
+    "炸服 #19(大决战界面存在显示信息异常)": [
       "5687"
     ],
     "活动【与联邦理事会一起 沙勒总决算】#11": [
@@ -107016,7 +107103,7 @@
     "限时复刻招募【响彻圣夜的慈爱颂歌】&【赠与雪夜的温暖祝福!】": [
       "5559"
     ],
-    "例行维护 #60": [
+    "例行维护 #61": [
       "5562"
     ],
     "国际服LINE Stickers表情包第三弹上线": [
@@ -107170,7 +107257,7 @@
     "圣娅 &明日奈(制服)& 花凛(制服)家具互动更新": [
       "5491"
     ],
-    "例行维护 #59": [
+    "例行维护 #60": [
       "5499"
     ],
     "限时活动【Code BOX 逼近千禧年的阴影 ~一个问题与两个答案~】介绍PV": [
@@ -107356,7 +107443,7 @@
     "总力战:格兹 • 室内战 #5": [
       "5456"
     ],
-    "例行维护 #58": [
+    "例行维护 #59": [
       "5457"
     ],
     "国际服4.5周年预更新网站公开": [
@@ -107479,7 +107566,7 @@
     "限时活动【秘密的午夜派对 伴随钟声的捉迷藏】": [
       "5381"
     ],
-    "例行维护#57": [
+    "例行维护 #58": [
       "5411"
     ],
     "悬赏通缉2倍 #39 & 日程2倍 #39": [
@@ -107737,7 +107824,7 @@
     "阿洛娜的日程笔记(第27期)": [
       "5311"
     ],
-    "例行维护#56": [
+    "例行维护 #57": [
       "5310"
     ],
     "迷你故事剧情更新:【海兰德运行日志】、【无人认领的礼物】": [
@@ -107905,7 +107992,7 @@
     "悬赏通缉2倍 #37 & 日程2倍 #37": [
       "5396"
     ],
-    "例行维护#55": [
+    "例行维护 #56": [
       "5395"
     ],
     "【百鬼夜行】咖啡厅套装更新": [
@@ -108028,7 +108115,7 @@
     "国际服数位周边「Magical Girl Heavy Caliber Update: Celebrate with Digital Merch!」": [
       "5243"
     ],
-    "炸服#19(排名奖励10次招募券使用期限异常)": [
+    "炸服 #18(排名奖励10次招募券使用期限异常)": [
       "5213"
     ],
     "国际服活动礼物「Magical Girl Heavy Caliber Update Celebration: Final Special Coupon!」": [
@@ -108046,7 +108133,7 @@
     "限时复刻活动【寻找隐藏的遗产~崔尼蒂的课外活动~】": [
       "5207"
     ],
-    "例行维护 #54": [
+    "例行维护 #55": [
       "5212"
     ],
     "悬赏通缉2倍 #36 & 学院交流会2倍 #26 & 日程2倍 #36": [
@@ -108319,7 +108406,7 @@
     "网页活动【鼓乐鸣,钟鼎盛】": [
       "5113"
     ],
-    "炸服#18(“时”好感度剧情、角色信息、本地化)": [
+    "炸服 #17(“时”好感度剧情、角色信息、本地化)": [
       "5112"
     ],
     "限时复刻招募【守护,终将化作未来】&【全年无休 沉迷研啾!】&【蒸腾热气 搅动牛奶】": [
@@ -108385,10 +108472,10 @@
     "国际服更新课程区域狂猎艺术学院 & 小雪、海夏、桃井、晴奈(体操服)爱用品更新": [
       "5237"
     ],
-    "炸服#17(网页活动【玄龙共舞,携友同行】存在异常问题)": [
+    "炸服 #16(网页活动【玄龙共舞,携友同行】存在异常问题)": [
       "5108"
     ],
-    "炸服#16(\"时\"爱用品状态异常)": [
+    "炸服 #15(\"时\"爱用品状态异常)": [
       "5107"
     ],
     "网页活动【玄龙共舞,携友同行】": [
@@ -108409,7 +108496,7 @@
     "【区域27】开放": [
       "5084"
     ],
-    "例行维护 #53": [
+    "例行维护 #54": [
       "5105"
     ],
     "《蔚蓝档案》妃咲主题微信红包封面": [
@@ -108611,7 +108698,7 @@
     "《蔚蓝档案》特别PV【色彩流转,本真未改】": [
       "5051"
     ],
-    "指名手配3倍 #19 任务normal3倍 #17 任务hard3倍 #17": [
+    "指名手配3倍#19 & 任务Normal3倍#17 & 任务Hard3倍#17": [
       "5039"
     ],
     "《蔚蓝档案》专属个性装扮第二期": [
@@ -108629,7 +108716,7 @@
     "网页活动【山海同辉~蔚然春风临,兰心臻情意~】": [
       "5040"
     ],
-    "例行维护 #52": [
+    "例行维护 #53": [
       "5014"
     ],
     "5周年纪念「これが私のハードボイルド!?」MV公开": [
@@ -108755,7 +108842,7 @@
     "违规账号封禁 #52": [
       "4963"
     ],
-    "指名手配3倍 #18 任务normal3倍 #16 任务hard3倍 #16": [
+    "指名手配3倍#18 & 任务Normal3倍#16 & 任务Hard3倍#16": [
       "4957"
     ],
     "悠星氪金中心连携": [
@@ -108890,7 +108977,7 @@
     "日奈、星野、千世爱用品新增": [
       "4886"
     ],
-    "例行维护 #51": [
+    "例行维护 #52": [
       "4928"
     ],
     "【对策委员会篇】第3章Part4 (28~34话)更新": [
@@ -109190,7 +109277,7 @@
     "国际服取消主播宣传活动": [
       "4848"
     ],
-    "例行维护 #50": [
+    "例行维护 #51": [
       "4829"
     ],
     "学院交流会2倍 #24": [
@@ -109349,7 +109436,7 @@
     "限时活动【对策委员会的夜间紧急会议】": [
       "4757"
     ],
-    "例行维护 #49": [
+    "例行维护 #50": [
       "4761"
     ],
     "对策委员会篇第3章【梦之遗痕】08~16话更新": [
@@ -109470,7 +109557,7 @@
     "悬赏通缉2倍 #33 & 日程2倍 #33 & 学院交流会2倍 #22": [
       "4689"
     ],
-    "例行维护 #48": [
+    "例行维护 #49": [
       "4730"
     ],
     "制约解除决战:Chokmah #6": [
@@ -109611,7 +109698,7 @@
     "限时复刻活动【纯白的预告信~虚饰之邸与美学所在之处~】": [
       "4692"
     ],
-    "例行维护 #47": [
+    "例行维护 #48": [
       "4731"
     ],
     "国际服#28 CM Arcie特别PV": [
@@ -109689,7 +109776,7 @@
     "国际服签到礼物「Sensei, I'm always truly grateful.」": [
       "4646"
     ],
-    "炸服#15(佩洛洛斯拉总力战BUG)": [
+    "炸服 #14(佩洛洛斯拉总力战BUG)": [
       "4656"
     ],
     "阿洛娜的日程笔记(第23期)": [
@@ -109746,7 +109833,7 @@
     "庆典运营管理部社团故事更新": [
       "4612"
     ],
-    "例行维护#46": [
+    "例行维护 #47": [
       "4616"
     ],
     "悬赏通缉2倍 #32": [
@@ -109980,7 +110067,7 @@
     "国际服2025秋季开发者的信": [
       "4560"
     ],
-    "例行维护 #45": [
+    "例行维护 #46": [
       "4537"
     ],
     "枫、果穗、好美、美游爱用品新增": [
@@ -110172,7 +110259,7 @@
     "明里(新年)家具互动更新": [
       "4452"
     ],
-    "例行维护 #44": [
+    "例行维护 #45": [
       "4480"
     ],
     "限时复刻活动【新年开胃菜 ~一局定输赢~】": [
@@ -110295,7 +110382,7 @@
     "限时活动:0068 来自歌剧的爱": [
       "4450"
     ],
-    "例行维护 #43": [
+    "例行维护 #44": [
       "4440"
     ],
     "悬赏通缉2倍 #30 & 日程2倍 #30": [
@@ -110457,7 +110544,7 @@
     "直播「ブルアカらいぶ!みに♪ ~りとらい~」": [
       "4359"
     ],
-    "任务hard3倍 #15": [
+    "任务Hard3倍#15": [
       "4365"
     ],
     "《蔚蓝档案》联合雅安文旅开展的【碧峰峡景区】打卡活动已经开启!": [
@@ -110469,13 +110556,13 @@
     "国际服老师经验2倍 #27": [
       "4373"
     ],
-    "炸服#14(特殊情况下【简易作战】模式手动通关任务关卡行动点消耗异常)": [
+    "炸服 #13(特殊情况下【简易作战】模式手动通关任务关卡行动点消耗异常)": [
       "4397"
     ],
     "限时复刻活动【圣堂的圣夜祝福 ~救护骑士团的礼物~】": [
       "4424"
     ],
-    "例行维护 #42": [
+    "例行维护 #43": [
       "4399"
     ],
     "限时复刻招募【响彻圣夜的慈爱颂歌】": [
@@ -110509,7 +110596,7 @@
     "社团剧情「茶话会」篇追加": [
       "4346"
     ],
-    "任务normal3倍 #15": [
+    "任务Normal3倍#15": [
       "4363"
     ],
     "大决战:市街地戦・ビナー #4": [
@@ -110623,7 +110710,7 @@
     "《蔚蓝档案》特别PV【清辉遍洒,她的独奏曲】": [
       "4329"
     ],
-    "任务hard3倍 #14": [
+    "任务Hard3倍#14": [
       "4306"
     ],
     "蔚蓝档案仲夏夜舞会主题cafe预约开启~": [
@@ -110698,7 +110785,7 @@
     "《蔚蓝档案》×CoCo都可 联动PV:Co爱特调,蔚蓝心动!": [
       "4325"
     ],
-    "任务normal3倍 #14": [
+    "任务Normal3倍#14": [
       "4303"
     ],
     "国际服任务normal3倍 #13": [
@@ -110746,10 +110833,10 @@
     "限时复刻招募【清新梦想的可能性】": [
       "4266"
     ],
-    "《蔚蓝档案》限时活动【阳光绽放 她们的小夜曲】介绍PV": [
+    "限时活动【阳光绽放 她们的小夜曲】介绍PV": [
       "4281"
     ],
-    "例行维护 #41": [
+    "例行维护 #42": [
       "4280"
     ],
     "等级上限提升至90级": [
@@ -111100,7 +111187,7 @@
     "国际服参展Anime Expo 2025": [
       "4134"
     ],
-    "例行维护 #40": [
+    "例行维护 #41": [
       "4179"
     ],
     "悬赏通缉2倍 #29 & 日程2倍 #29": [
@@ -111268,7 +111355,7 @@
     "音濑小玉(露营)": [
       "4083"
     ],
-    "例行维护 #39": [
+    "例行维护 #40": [
       "4151"
     ],
     "悬赏通缉2倍 #28 & 日程2倍 #28": [
@@ -111358,10 +111445,10 @@
     "国际服例行维护 #86": [
       "4076"
     ],
-    "例行维护 #38": [
+    "例行维护 #39": [
       "4089"
     ],
-    "炸服#13(限时活动【Trip-Trap-Train】活动积分兑换商店兑换比异常)": [
+    "炸服#12(限时活动【Trip-Trap-Train】活动积分兑换商店兑换比异常)": [
       "4091"
     ],
     "一花、霞家具互动更新": [
@@ -111565,7 +111652,7 @@
     "直播「ブルアカらいぶ!みに♪」": [
       "4002"
     ],
-    "炸服#12(3倍掉落活动未按时生效)": [
+    "炸服#11(3倍掉落活动未按时生效)": [
       "4023"
     ],
     "蔚蓝档案UtopiaFesti游戏音乐嘉年华": [
@@ -111589,7 +111676,7 @@
     "阿洛娜的日程笔记(第19期)": [
       "4024"
     ],
-    "例行维护 #37": [
+    "例行维护 #38": [
       "4022"
     ],
     "悬赏通缉3倍 #13 & 特别委托3倍 #11": [
@@ -111814,7 +111901,7 @@
     "官方频道社区活动奖励【寻找隐藏的遗产~崔尼蒂的课外活动~】": [
       "3931"
     ],
-    "例行维护 #36": [
+    "例行维护 #37": [
       "3930"
     ],
     "DJMAX x Blue Archive 联动DLC发售": [
@@ -112015,7 +112102,7 @@
     "限时复刻招募【全年无休 沉迷研啾!】": [
       "3833"
     ],
-    "炸服 #11 (任务系统显示异常)": [
+    "炸服 #10 (任务系统显示异常)": [
       "3838"
     ],
     "悬赏通缉2倍 #26": [
@@ -112054,7 +112141,7 @@
     "国际服学院交流会2倍 #26": [
       "3869"
     ],
-    "炸服 #10 (比纳大决战BUG)": [
+    "炸服 #9 (比纳大决战BUG)": [
       "3832"
     ],
     "限时限定复刻招募【夏日情愫眉间现】": [
@@ -112081,7 +112168,7 @@
     "三森(泳装)家具互动更新": [
       "3823"
     ],
-    "例行维护 #35": [
+    "例行维护 #36": [
       "3830"
     ],
     "日程2倍 #25 & 学院交流会2倍 #16": [
@@ -112219,7 +112306,7 @@
     "美游(泳装)、宫子(泳装)、咲(泳装)家具互动更新": [
       "3791"
     ],
-    "例行维护 #34": [
+    "例行维护 #35": [
       "3795"
     ],
     "青春记录 第100话": [
@@ -112282,7 +112369,7 @@
     "霞泽美游(泳装)": [
       "3788"
     ],
-    "炸服 #9(霍德总力战BUG)": [
+    "炸服 #8(霍德总力战BUG)": [
       "3785"
     ],
     "总力战 霍德 • 室内战": [
@@ -112327,7 +112414,7 @@
     "任务Normal2倍#45 & 课程表2倍#31": [
       "3682"
     ],
-    "炸服 #8(咖啡厅设备核芯异常)": [
+    "炸服 #7(咖啡厅设备核芯异常)": [
       "3778"
     ],
     "国际服大决战 Perorodzilla (Field) #2": [
@@ -112354,7 +112441,7 @@
     "卡班诺的兔子篇第2章【We Were RABBITs!】1~10话更新": [
       "3775"
     ],
-    "例行维护 #33": [
+    "例行维护 #34": [
       "3773"
     ],
     "限时招募【工务之道 始于足下】": [
@@ -112531,7 +112618,7 @@
     "任务(困难难度)2倍 #15": [
       "3749"
     ],
-    "任务hard3倍 #13": [
+    "任务Hard3倍#13": [
       "3657"
     ],
     "国际服任务hard3倍 #11": [
@@ -112555,7 +112642,7 @@
     "限时招募复刻【芬芳藏不住 绽放必有时】&【此身不长久 惜取豆蔻年!】&【抬头23.4° 可见星光一点】": [
       "3739"
     ],
-    "例行维护 #32": [
+    "例行维护 #33": [
       "3741"
     ],
     "限时复刻活动【不忍之心】": [
@@ -112591,7 +112678,7 @@
     "大决战:屋内戦・グレゴリオ #2": [
       "3651"
     ],
-    "任务normal3倍 #13": [
+    "任务Normal3倍#13": [
       "3655"
     ],
     "指名手配3倍 #15": [
@@ -112693,7 +112780,7 @@
     "学生生日日历 - 2025年2月": [
       "3640"
     ],
-    "任务hard3倍 #12": [
+    "任务Hard3倍#12": [
       "3639"
     ],
     "总力战 白&黑 • 街区战 #5": [
@@ -112750,7 +112837,7 @@
     "4周年限定卡池「自由主義者はとく駆けり」&「合理主義者はかく語れり」、限定卡池「しどけなく水面揺らす十日」复刻": [
       "3561"
     ],
-    "任务normal3倍 #12": [
+    "任务Normal3倍#12": [
       "3578"
     ],
     "4周年声优寄语": [
@@ -112825,7 +112912,7 @@
     "国际服3.5周年特别登录奖励": [
       "3597"
     ],
-    "例行维护 #31": [
+    "例行维护 #32": [
       "3631"
     ],
     "【慈爱的怪盗】的预告信": [
@@ -113074,7 +113161,7 @@
     "限时招募【捆束庭中千般草 采撷心间一点春】": [
       "3549"
     ],
-    "例行维护 #30": [
+    "例行维护 #31": [
       "3541"
     ],
     "任务(普通难度)2倍 #14": [
@@ -113248,7 +113335,7 @@
     "一切奇迹的起点篇第4章【雷纳帕提斯决战】更新": [
       "3453"
     ],
-    "例行维护 #29": [
+    "例行维护 #30": [
       "3452"
     ],
     "小雪家具互动更新": [
@@ -113374,7 +113461,7 @@
     "一切奇迹的起点篇第3章【阿特拉哈西斯方舟占领战】更新": [
       "3415"
     ],
-    "例行维护 #28": [
+    "例行维护 #29": [
       "3413"
     ],
     "限时活动【阿特拉哈西斯方舟占领战】": [
@@ -113704,7 +113791,7 @@
     "未花主题PV:献给罪人的安魂曲": [
       "3371"
     ],
-    "例行维护 #27 & 维护延长": [
+    "例行维护 #28 & 维护延长": [
       "3370"
     ],
     "悬赏通缉3倍 #9 日程3倍 #9 学院交流会3倍 #7 特别委托3倍 #8": [
@@ -113977,7 +114064,7 @@
     "总力战 格兹 • 室内战 #2": [
       "3187"
     ],
-    "例行维护 #26": [
+    "例行维护 #27": [
       "3193"
     ],
     "限定限时复刻招募【不容分说的孤注一掷】&【艳光四射的金玉满堂】&【出其不意的帽子戏法】": [
@@ -114190,7 +114277,7 @@
     "紧急总力战 白&黑 • 街区战 4": [
       "3114"
     ],
-    "例行维护 #25 & 维护延长": [
+    "例行维护 #26 & 维护延长": [
       "3133"
     ],
     "时雨主题PV:凛冬特调": [
@@ -114376,9 +114463,8 @@
     "限定限时招募复刻【威震七海的温柔月光】&【扰乱夏日的无情艳阳】": [
       "3047"
     ],
-    "例行维护24": [
-      "3067",
-      "180"
+    "例行维护 #25": [
+      "3067"
     ],
     "任务(普通难度)3倍 #7": [
       "3066"
@@ -114509,9 +114595,8 @@
     "紧急总力战 希罗尼穆斯 • 街区战 2": [
       "2995"
     ],
-    "例行维护23": [
-      "3026",
-      "173"
+    "例行维护 #24": [
+      "3026"
     ],
     "蔚蓝档案 × MuMu模拟器阿洛娜联动主题装扮": [
       "3373"
@@ -114579,7 +114664,7 @@
     "MX离职人员新项目「Project KV」从公开到中止 - 时间线合集": [
       "3063"
     ],
-    "任务hard3倍 #11": [
+    "任务Hard3倍#11": [
       "3011"
     ],
     "明星日鞠": [
@@ -114624,7 +114709,7 @@
     "特别依赖3倍#13": [
       "3008"
     ],
-    "任务normal3倍 #11": [
+    "任务Normal3倍#11": [
       "2986"
     ],
     "国际服活动常驻化「Schale's Happy ♥ Valentine Patrol」": [
@@ -114744,7 +114829,7 @@
     "3.5周年当日": [
       "2945"
     ],
-    "任务hard3倍 #10": [
+    "任务Hard3倍#10": [
       "2944"
     ],
     "玛丽(体操服)好感提升异常问题补偿方案": [
@@ -114798,9 +114883,8 @@
     "活动【Get Set, Go! ~基沃托斯晄轮大会~】": [
       "2934"
     ],
-    "例行维护22": [
-      "2928",
-      "163"
+    "例行维护 #23": [
+      "2928"
     ],
     "玛丽(体操服)主题PV:半日之闲": [
       "2932"
@@ -114826,7 +114910,7 @@
     "特别依赖3倍#12": [
       "2876"
     ],
-    "任务normal3倍 #10": [
+    "任务Normal3倍#10": [
       "2943"
     ],
     "国际服炸服20 稳定化作业": [
@@ -115079,7 +115163,7 @@
     "活动【晄轮大会即将开幕登录奖励】": [
       "2824"
     ],
-    "例行维护21 维护延长": [
+    "例行维护 #22 &维护延长": [
       "2833"
     ],
     "【综合战术测试 • 防御测试】2": [
@@ -115298,9 +115382,9 @@
     "活动复刻【夏日天空的愿望清单】": [
       "2765"
     ],
-    "例行维护20": [
+    "例行维护 #21": [
       "2764",
-      "149"
+      "155"
     ],
     "制约解除决战:赛特之怒 #4": [
       "2704"
@@ -115482,9 +115566,8 @@
     "悬赏通缉3倍5 日程3倍5 学院交流会3倍3": [
       "2741"
     ],
-    "例行维护19": [
-      "2744",
-      "122"
+    "例行维护 #20": [
+      "2744"
     ],
     "大决战:屋外戦・ホバークラフト #1": [
       "2690"
@@ -115603,9 +115686,8 @@
     "活动【阿拜多斯度假村重建对策委员会】": [
       "2633"
     ],
-    "例行维护18": [
-      "2630",
-      "117"
+    "例行维护 #19": [
+      "2630"
     ],
     "悬赏通缉2倍14 日程2倍14 学院交流会2倍5": [
       "2626"
@@ -115733,8 +115815,9 @@
     "炸服37(提前结束)": [
       "2598"
     ],
-    "炸服7 & 启动画面调整": [
-      "2613"
+    "例行维护 #18": [
+      "2613",
+      "117"
     ],
     "国际服2.5周年礼物": [
       "2654"
@@ -115779,8 +115862,7 @@
       "2611"
     ],
     "例行维护17": [
-      "2588",
-      "113"
+      "2588"
     ],
     "亚津子主题PV:小雏菊的密语": [
       "2586"
@@ -115957,8 +116039,7 @@
       "2546"
     ],
     "例行维护16": [
-      "2563",
-      "103"
+      "2563"
     ],
     "悬赏通缉2倍12 日程2倍12 特别委托2倍8 学院交流会2倍3": [
       "2562"
@@ -116110,9 +116191,8 @@
     "3周年Fanart获奖作品发表": [
       "2461"
     ],
-    "炸服6": [
-      "2511",
-      "54"
+    "炸服#6(佩洛洛斯拉总力战BUG)": [
+      "2511"
     ],
     "总力战 佩洛洛斯拉 • 室内战 2": [
       "2445"
@@ -116127,8 +116207,7 @@
       "2450"
     ],
     "例行维护15": [
-      "2508",
-      "140"
+      "2508"
     ],
     "伊吕波主题PV:碧海之约": [
       "2509"
@@ -116323,8 +116402,7 @@
       "2380"
     ],
     "例行维护14": [
-      "2426",
-      "129"
+      "2426"
     ],
     "TV动画:倒计时3天贺图": [
       "2406"
@@ -116759,8 +116837,7 @@
       "2256"
     ],
     "例行维护13": [
-      "2255",
-      "99"
+      "2255"
     ],
     "忧主题PV:忧的特别推荐": [
       "2261"
@@ -116789,9 +116866,8 @@
     "国际服课程表2倍16": [
       "2155"
     ],
-    "炸服5": [
-      "2245",
-      "30"
+    "炸服#5(限时复刻活动【樱花烂漫庆典大骚动!】部分挑战关卡的关卡首领的生命值异常)": [
+      "2245"
     ],
     "任务(困难难度)3倍4": [
       "2246"
@@ -116844,7 +116920,7 @@
     "活动「0068 オペラより愛をこめて!」": [
       "2120"
     ],
-    "炸服4 & 【战术对抗赛】异常问题修复": [
+    "炸服#4(【战术对抗赛】异常)": [
       "2238"
     ],
     "例行维护89": [
@@ -116919,9 +116995,8 @@
     "网页活动【狐坂若藻的甜蜜追逐】": [
       "2232"
     ],
-    "炸服3": [
-      "2234",
-      "25"
+    "炸服#3(霍德总力战BUG)": [
+      "2234"
     ],
     "特别依赖3倍 #11": [
       "2111"
@@ -116974,7 +117049,7 @@
     "网页活动【老师的工作记录!】": [
       "2226"
     ],
-    "炸服2(更新临时维护)": [
+    "炸服#2(更新临时维护)": [
       "2222"
     ],
     "庆典招募【太阳和雨的擦肩而过】": [
@@ -117016,7 +117091,7 @@
     "例行维护88": [
       "2110"
     ],
-    "任务normal3倍 #9": [
+    "任务Normal3倍#9": [
       "2108"
     ],
     "指名手配3倍 #11 课程表3倍 #9 学院交流会3倍 #9": [
@@ -117124,7 +117199,7 @@
     "屋内戦・ヒエロニムス5": [
       "2072"
     ],
-    "特别依赖3倍 #10 & 任务hard3倍#9": [
+    "特别依赖3倍#10 & 任务Hard3倍#9": [
       "4955"
     ],
     "国际服「Go, Go, Sensei! Arona's Special Bonus!」登录奖励": [
@@ -117665,8 +117740,7 @@
       "1980"
     ],
     "例行维护10": [
-      "1982",
-      "83"
+      "1982"
     ],
     "限时招募【彩色玻璃的甜美邀请】": [
       "2054"
@@ -117795,8 +117869,7 @@
       "1958"
     ],
     "例行维护9": [
-      "1966",
-      "78"
+      "1966"
     ],
     "日程区域【千禧年学习区】更新": [
       "2192"
@@ -117931,8 +118004,7 @@
       "1626"
     ],
     "例行维护8": [
-      "1636",
-      "49"
+      "1636"
     ],
     "小瞬主题PV:孩子气的小小冒险": [
       "2184"
@@ -117961,7 +118033,7 @@
     "夏莱的总决算with联邦学生会5": [
       "1025"
     ],
-    "例行维护83": [
+    "例行维护 #83": [
       "1022"
     ],
     "Blue Archive X ANIPLUS AGF 2023周边": [
@@ -118060,9 +118132,8 @@
     "国际服课程表2倍12 学院交流会2倍12": [
       "1586"
     ],
-    "炸服1": [
-      "1624",
-      "8"
+    "炸服#1(游戏无法登录)": [
+      "1624"
     ],
     "百日纪念": [
       "1622"
@@ -118097,7 +118168,7 @@
     "主线剧情Vol.5「百花繚乱」篇第1章「いつかの芽吹きを待ち侘びて」前篇更新": [
       "930"
     ],
-    "例行维护82": [
+    "例行维护 #82": [
       "929"
     ],
     "战术对抗战S6开幕": [
@@ -118245,8 +118316,7 @@
       "1654"
     ],
     "例行维护6": [
-      "1660",
-      "41"
+      "1660"
     ],
     "提示:咖啡厅2号店升级材料来源": [
       "824"
@@ -118411,8 +118481,7 @@
       "1644"
     ],
     "例行维护5": [
-      "1648",
-      "29"
+      "1648"
     ],
     "悬赏通缉2倍4 日程2倍4 任务(普通难度)2倍3": [
       "1647"
@@ -118517,8 +118586,7 @@
       "1689"
     ],
     "例行维护4": [
-      "1693",
-      "76"
+      "1693"
     ],
     "【区域14】开放": [
       "1688"
@@ -118656,8 +118724,7 @@
       "1676"
     ],
     "例行维护3": [
-      "1679",
-      "60"
+      "1679"
     ],
     "悬赏通缉2倍2 日程2倍2": [
       "1677"
@@ -118795,8 +118862,7 @@
       "1747"
     ],
     "例行维护2": [
-      "1754",
-      "32"
+      "1754"
     ],
     "特别依赖2倍#34": [
       "796"
@@ -118925,8 +118991,7 @@
       "1730"
     ],
     "例行维护1": [
-      "1733",
-      "9"
+      "1733"
     ],
     "庆典部剧情、修行部剧情更新": [
       "1731"
@@ -118964,10 +119029,10 @@
     "国际服课程表3倍 #6 & 学院交流会3倍 #6": [
       "1499"
     ],
-    "蔚蓝档案开服版本助力追加": [
+    "《蔚蓝档案》开服版本助力追加": [
       "1726"
     ],
-    "任务hard3倍 #8": [
+    "任务Hard3倍#8": [
       "753"
     ],
     "在线更新1": [
@@ -118979,7 +119044,7 @@
     "封禁公示说明1": [
       "2173"
     ],
-    "蔚蓝档案官方微博账号粉丝数突破10万": [
+    "《蔚蓝档案》官方微博账号粉丝数突破10万": [
       "2166"
     ],
     "国际服活动复刻「The Clumsy Sister and the Magician of the Old Library」": [
@@ -119024,7 +119089,7 @@
     "复刻卡池「やがて未来に変わる庇護」&「年がら年中無我夢チュー!」&「しずこころなく梅咲き誇る!」": [
       "750"
     ],
-    "任务normal3倍 #8": [
+    "任务Normal3倍#8": [
       "749"
     ],
     "话题趣闻 - 双刀死神小桃meme的起源 [二创]": [
@@ -119042,13 +119107,13 @@
     "国际服指名手配3倍6": [
       "1491"
     ],
-    "任务hard3倍 #7": [
+    "任务Hard3倍#7": [
       "757"
     ],
     "阿罗普拉频道 #1": [
       "2692"
     ],
-    "蔚蓝档案国服主题曲EP-Blue Canvas": [
+    "《蔚蓝档案》国服主题曲EP-Blue Canvas": [
       "2164"
     ],
     "限时招募【崭新的篇章】": [
@@ -119060,9 +119125,6 @@
     ],
     "蔚蓝档案公测正式开服": [
       "1789"
-    ],
-    "国服公测正式开服": [
-      "1775"
     ],
     "蔚蓝档案公测PV【与你的日常,就是奇迹!】": [
       "1715"
@@ -119079,7 +119141,7 @@
     "课程表3倍 #7 学院交流会3倍 #7": [
       "748"
     ],
-    "任务normal3倍 #7": [
+    "任务Normal3倍#7": [
       "747"
     ],
     "蔚蓝档案公测版本招募说明": [
@@ -120171,7 +120233,7 @@
     "国际服特别依赖3倍4 任务hard3倍4": [
       "1333"
     ],
-    "任务hard3倍 #6": [
+    "任务Hard3倍#6": [
       "588"
     ],
     "关注数突破60万": [
@@ -120189,7 +120251,7 @@
     "课程表3倍 #6 学院交流会3倍 #6": [
       "586"
     ],
-    "任务normal3倍 #6": [
+    "任务Normal3倍#6": [
       "585"
     ],
     "国际服卡池复刻「It's a contact, Sensei. Make sure that you think about it carefully. We have a l.o.t of time.」": [
@@ -120255,7 +120317,7 @@
     "国际服每日免费十连 2": [
       "1319"
     ],
-    "任务hard3倍 #5": [
+    "任务Hard3倍#5": [
       "576"
     ],
     "2周年当日": [
@@ -120315,7 +120377,7 @@
     "课程表3倍 #5 学院交流会3倍#5": [
       "567"
     ],
-    "任务normal3倍 #5": [
+    "任务Normal3倍#5": [
       "566"
     ],
     "2周年倒计时贺图": [
@@ -121288,7 +121350,7 @@
     "活动「放課後スイーツ物語 甘い秘密と銃撃戦」PV公开": [
       "414"
     ],
-    "任务hard3倍 #4": [
+    "任务Hard3倍#4": [
       "411"
     ],
     "国际服彩奈小编浴衣换装": [
@@ -121336,7 +121398,7 @@
     "例行维护49": [
       "408"
     ],
-    "任务normal3倍 #4": [
+    "任务Normal3倍#4": [
       "405"
     ],
     "国际服指名手配2倍9": [
@@ -122122,7 +122184,7 @@
     "国际服卡池「Arrived at the objective. Let's go straight to the next mission.」": [
       "1014"
     ],
-    "国际服例行维护8": [
+    "国际服例行维护 #8": [
       "1016"
     ],
     "国际服活动「Summer Sky Wishlist」": [
@@ -122134,7 +122196,7 @@
     "活动「どたばたシスターと古書館の魔術師」PV公开": [
       "267"
     ],
-    "任务hard3倍 #3": [
+    "任务Hard3倍#3": [
       "265"
     ],
     "国际服百日纪念礼物": [
@@ -122146,7 +122208,7 @@
     "市街地戦・シロ&クロ4": [
       "262"
     ],
-    "任务normal3倍 #3": [
+    "任务Normal3倍#3": [
       "261"
     ],
     "特别依赖3倍 #3": [
@@ -122185,13 +122247,13 @@
     "国际服总力战 Binah (Field)": [
       "1002"
     ],
-    "国际服例行维护7": [
+    "国际服例行维护 #7": [
       "1006"
     ],
     "国际服指名手配2倍4": [
       "1005"
     ],
-    "任务hard3倍 #2": [
+    "任务Hard3倍#2": [
       "255"
     ],
     "3rd PV公开": [
@@ -122206,7 +122268,7 @@
     "市街地戦・ホド1": [
       "1798"
     ],
-    "任务normal3倍 #2": [
+    "任务Normal3倍#2": [
       "252"
     ],
     "国际服违规账号封禁6": [
@@ -122269,7 +122331,7 @@
     "国际服卡池「What did you think, Sensei? Was my equipment helpful?」": [
       "907"
     ],
-    "国际服例行维护6": [
+    "国际服例行维护 #6": [
       "911"
     ],
     "国际服指名手配2倍3 特别依赖2倍3": [
@@ -122665,6 +122727,9 @@
     "活动「初音ミクのスペシャルライブ in キヴォトス~リハーサル編~」": [
       "201"
     ],
+    "例行维护 #6": [
+      "41"
+    ],
     "音乐「Blue New World」公开": [
       "200"
     ],
@@ -122806,6 +122871,9 @@
     "市街地戦・ヒエロニムス2": [
       "176"
     ],
+    "例行维护24": [
+      "180"
+    ],
     "特别依赖2倍#9": [
       "177"
     ],
@@ -122826,6 +122894,9 @@
     ],
     "屋外戦・ケセド2": [
       "171"
+    ],
+    "例行维护23": [
+      "173"
     ],
     "特别依赖2倍#8": [
       "170"
@@ -122869,6 +122940,9 @@
     "战术对抗战S2开幕": [
       "932"
     ],
+    "例行维护22": [
+      "163"
+    ],
     "山海经活动礼物": [
       "164"
     ],
@@ -122878,13 +122952,13 @@
     "首次推出并非单纯服装更替,而是年龄改变的换装角色": [
       "994"
     ],
-    "任务hard3倍 #1": [
+    "任务Hard3倍#1": [
       "161"
     ],
     "国际服首次PV公开": [
       "828"
     ],
-    "任务normal3倍 #1": [
+    "任务Normal3倍#1": [
       "158"
     ],
     "国际服首次宣发(推文)": [
@@ -122901,9 +122975,6 @@
     ],
     "市街地戦・シロ&クロ3": [
       "153"
-    ],
-    "例行维护21": [
-      "155"
     ],
     "特别依赖3倍#1": [
       "154"
@@ -122944,6 +123015,9 @@
     "屋外戦・KAITEN FX Mk.0 1": [
       "1797"
     ],
+    "例行维护20": [
+      "149"
+    ],
     "LINE表情包 Vol.1": [
       "966"
     ],
@@ -122974,6 +123048,9 @@
     "任天堂红白机与世嘉SG-1000、SC-3000发售纪念日贺图": [
       "3176"
     ],
+    "例行维护19": [
+      "122"
+    ],
     "特别依赖2倍#7": [
       "120"
     ],
@@ -123001,6 +123078,9 @@
     "屋内戦・ヒエロニムス 緊急襲来": [
       "110"
     ],
+    "例行维护 #17": [
+      "113"
+    ],
     "特别依赖2倍#6": [
       "111"
     ],
@@ -123015,6 +123095,9 @@
     ],
     "卡池「淫らを温ねて正しきを知るっ」": [
       "105"
+    ],
+    "例行维护 #16": [
+      "103"
     ],
     "指名手配2倍#5": [
       "106"
@@ -123040,6 +123123,9 @@
     "屋内戦·ヒエロニムス1 「EXTREME」难度解放": [
       "144"
     ],
+    "例行维护 #15": [
+      "140"
+    ],
     "卡池「花散らす仮面舞踏会」": [
       "136"
     ],
@@ -123063,6 +123149,9 @@
     ],
     "炸服11-百日维新": [
       "131"
+    ],
+    "例行维护 #14": [
+      "129"
     ],
     "卡池「夢を奏でる春告げのRPG」": [
       "127"
@@ -123094,6 +123183,9 @@
     "卡池「晴れのち失脚、所により大荒れ」": [
       "100"
     ],
+    "例行维护 #13": [
+      "99"
+    ],
     "屋外戦・ケセド": [
       "98"
     ],
@@ -123112,7 +123204,7 @@
     "「革命のイワン・クパーラ 髭とプリンとレッドウィンター」活动PV公开": [
       "97"
     ],
-    "例行维护12": [
+    "例行维护 #12": [
       "92"
     ],
     "特别依赖2倍#3": [
@@ -123130,11 +123222,14 @@
     "大蛇梗图": [
       "86"
     ],
-    "例行维护11": [
+    "例行维护 #11": [
       "85"
     ],
     "任务Normal2倍#2": [
       "84"
+    ],
+    "例行维护 #10": [
+      "83"
     ],
     "市街地戦・ビナー": [
       "82"
@@ -123150,6 +123245,9 @@
     ],
     "愚人节彩蛋1": [
       "77"
+    ],
+    "例行维护 #9": [
+      "78"
     ],
     "特别依赖2倍#2": [
       "72"
@@ -123181,6 +123279,9 @@
     "总力战商店追加碎片:花江": [
       "55"
     ],
+    "例行维护 #8": [
+      "49"
+    ],
     "卡池「機械たちは旅立ちの夢を見るか?」": [
       "48"
     ],
@@ -123193,7 +123294,7 @@
     "生放送「ブルアカらいぶ!」": [
       "40"
     ],
-    "例行维护7": [
+    "例行维护 #7": [
       "47"
     ],
     "卡池「悪は一日にして成らず」": [
@@ -123229,6 +123330,9 @@
     "特别依赖2倍#1": [
       "33"
     ],
+    "例行维护 #5": [
+      "29"
+    ],
     "下载量突破100万": [
       "35"
     ],
@@ -123244,6 +123348,9 @@
     "卡池「祭り囃子はしのぶれど」": [
       "70"
     ],
+    "例行维护 #4": [
+      "76"
+    ],
     "「桜花爛漫お祭り騒ぎ!~空に徒花 地に忍び~」活动PV公开": [
       "75"
     ],
@@ -123255,6 +123362,9 @@
     ],
     "炸服7": [
       "65"
+    ],
+    "例行维护 #3": [
+      "60"
     ],
     "官方四格连载开始": [
       "59"
@@ -123274,14 +123384,23 @@
     "发推活动:#アロナとのバレンタイン": [
       "56"
     ],
+    "炸服6": [
+      "54"
+    ],
     "情人节登录奖励": [
       "50"
     ],
     "关注数突破20万": [
       "51"
     ],
+    "例行维护 #2": [
+      "32"
+    ],
     "卡池「赤の季節、黒の制服」": [
       "31"
+    ],
+    "炸服5": [
+      "30"
     ],
     "炸服4": [
       "28"
@@ -123291,6 +123410,9 @@
     ],
     "首次达成Play Store人气第一": [
       "26"
+    ],
+    "炸服3": [
+      "25"
     ],
     "炸服2": [
       "24"
@@ -123337,11 +123459,17 @@
     "CBT测试结束": [
       "10"
     ],
+    "例行维护 #1": [
+      "9"
+    ],
     "CBT大蛇": [
       "12"
     ],
     "话题趣闻 - 花凛的回忆大厅CG在各群聊中扩散": [
       "993"
+    ],
+    "炸服1": [
+      "8"
     ],
     "CBT测试开启": [
       "7"
@@ -123372,6 +123500,21 @@
     ]
   },
   "by_normalized_alias": {
+    "庆典复刻招募【温柔地奏响天空的方式】": [
+      "6043"
+    ],
+    "庆典招募【短暂的星夜之梦】": [
+      "6042"
+    ],
+    "庆典招募【盛夏波浪如你所愿】": [
+      "6041"
+    ],
+    "限时限定招募【思绪飘散在漫漫夏夜里】": [
+      "6040"
+    ],
+    "限时限定招募【秩序隐匿于粼粼波光中】": [
+      "6039"
+    ],
     "莲见(泳装)": [
       "6032"
     ],
@@ -123420,7 +123563,7 @@
     "国际服制约解除作战:赛特之怒#15": [
       "6018"
     ],
-    "「特別依頼」2倍#70": [
+    "特別依頼2倍#70": [
       "6024"
     ],
     "国际服活动常驻化「fromopera0068withlove!」": [
@@ -123480,7 +123623,7 @@
     "限时活动【百芳丛中独一枝~堂堂正正,水上争锋~】介绍pv": [
       "5975"
     ],
-    "例行维护#65": [
+    "例行维护#66": [
       "6002"
     ],
     "2026教师节礼物": [
@@ -123552,7 +123695,7 @@
     "任务hard2倍#57": [
       "5962"
     ],
-    "炸服#24(【0068来自歌剧的爱】活动无法正常进入)": [
+    "炸服#23(【0068来自歌剧的爱】活动无法正常进入)": [
       "5973"
     ],
     "限时复刻活动【0068来自歌剧的爱】": [
@@ -123687,7 +123830,7 @@
     "活动【与联邦理事会一起沙勒总决算】#12": [
       "5929"
     ],
-    "例行维护#64": [
+    "例行维护#65": [
       "5931"
     ],
     "悬赏通缉2倍#41&学院交流会2倍#31&日程2倍#41&特别委托2倍#23&任务(困难难度)2倍#27&任务(普通难度)2倍#27": [
@@ -123765,7 +123908,7 @@
     "阿洛娜的日程笔记(第30期)": [
       "5903"
     ],
-    "例行维护#63": [
+    "例行维护#64": [
       "5902"
     ],
     "大决战:白&黑•室内战#2": [
@@ -123894,7 +124037,7 @@
     "【什亭之“响”】全速剧透": [
       "5872"
     ],
-    "炸服#23(【账号经验值】2倍活动未按时正常开启)": [
+    "炸服#22(【账号经验值】2倍活动未按时正常开启)": [
       "5869"
     ],
     "老师经验2倍集中通知26-08-01": [
@@ -123912,7 +124055,7 @@
     "【凯撒集团出品】全新故事集《小孩子才做选择》": [
       "5871"
     ],
-    "例行维护#62": [
+    "例行维护#63": [
       "5868"
     ],
     "【海兰德列车】咖啡厅套装更新": [
@@ -124128,7 +124271,7 @@
     "《蔚蓝档案》x模玩熊夏日出行系列pv:时篇": [
       "5773"
     ],
-    "炸服#22(熟练证书商店价格异常、总力战任务奖励发放异常)": [
+    "炸服#21(熟练证书商店价格异常、总力战任务奖励发放异常)": [
       "5770"
     ],
     "限时招募【肌肉第1努力第2】": [
@@ -124161,7 +124304,7 @@
     "活动【盛情款待茶歇时光】": [
       "5749"
     ],
-    "例行维护#61": [
+    "例行维护#62": [
       "5771"
     ],
     "大决战:屋内戦・ホド#1": [
@@ -124203,7 +124346,7 @@
     "泉(新年)": [
       "5747"
     ],
-    "炸服#21(任务(困难难度)道具掉落量2倍活动异常)": [
+    "炸服#20(任务(困难难度)道具掉落量2倍活动异常)": [
       "5746"
     ],
     "任务(困难难度)2倍#26": [
@@ -124353,7 +124496,7 @@
     "《蔚蓝档案》bw2026宣传pv": [
       "5688"
     ],
-    "炸服#20(大决战界面存在显示信息异常)": [
+    "炸服#19(大决战界面存在显示信息异常)": [
       "5687"
     ],
     "活动【与联邦理事会一起沙勒总决算】#11": [
@@ -124587,7 +124730,7 @@
     "限时复刻招募【响彻圣夜的慈爱颂歌】&【赠与雪夜的温暖祝福!】": [
       "5559"
     ],
-    "例行维护#60": [
+    "例行维护#61": [
       "5562"
     ],
     "国际服linestickers表情包第三弹上线": [
@@ -124741,7 +124884,7 @@
     "圣娅&明日奈(制服)&花凛(制服)家具互动更新": [
       "5491"
     ],
-    "例行维护#59": [
+    "例行维护#60": [
       "5499"
     ],
     "限时活动【codebox逼近千禧年的阴影~一个问题与两个答案~】介绍pv": [
@@ -124927,7 +125070,7 @@
     "总力战:格兹•室内战#5": [
       "5456"
     ],
-    "例行维护#58": [
+    "例行维护#59": [
       "5457"
     ],
     "国际服4.5周年预更新网站公开": [
@@ -125050,7 +125193,7 @@
     "限时活动【秘密的午夜派对伴随钟声的捉迷藏】": [
       "5381"
     ],
-    "例行维护#57": [
+    "例行维护#58": [
       "5411"
     ],
     "悬赏通缉2倍#39&日程2倍#39": [
@@ -125308,7 +125451,7 @@
     "阿洛娜的日程笔记(第27期)": [
       "5311"
     ],
-    "例行维护#56": [
+    "例行维护#57": [
       "5310"
     ],
     "迷你故事剧情更新:【海兰德运行日志】、【无人认领的礼物】": [
@@ -125476,7 +125619,7 @@
     "悬赏通缉2倍#37&日程2倍#37": [
       "5396"
     ],
-    "例行维护#55": [
+    "例行维护#56": [
       "5395"
     ],
     "【百鬼夜行】咖啡厅套装更新": [
@@ -125599,7 +125742,7 @@
     "国际服数位周边「magicalgirlheavycaliberupdate:celebratewithdigitalmerch!」": [
       "5243"
     ],
-    "炸服#19(排名奖励10次招募券使用期限异常)": [
+    "炸服#18(排名奖励10次招募券使用期限异常)": [
       "5213"
     ],
     "国际服活动礼物「magicalgirlheavycaliberupdatecelebration:finalspecialcoupon!」": [
@@ -125617,7 +125760,7 @@
     "限时复刻活动【寻找隐藏的遗产~崔尼蒂的课外活动~】": [
       "5207"
     ],
-    "例行维护#54": [
+    "例行维护#55": [
       "5212"
     ],
     "悬赏通缉2倍#36&学院交流会2倍#26&日程2倍#36": [
@@ -125890,7 +126033,7 @@
     "网页活动【鼓乐鸣,钟鼎盛】": [
       "5113"
     ],
-    "炸服#18(“时”好感度剧情、角色信息、本地化)": [
+    "炸服#17(“时”好感度剧情、角色信息、本地化)": [
       "5112"
     ],
     "限时复刻招募【守护,终将化作未来】&【全年无休沉迷研啾!】&【蒸腾热气搅动牛奶】": [
@@ -125956,10 +126099,10 @@
     "国际服更新课程区域狂猎艺术学院&小雪、海夏、桃井、晴奈(体操服)爱用品更新": [
       "5237"
     ],
-    "炸服#17(网页活动【玄龙共舞,携友同行】存在异常问题)": [
+    "炸服#16(网页活动【玄龙共舞,携友同行】存在异常问题)": [
       "5108"
     ],
-    "炸服#16(\"时\"爱用品状态异常)": [
+    "炸服#15(\"时\"爱用品状态异常)": [
       "5107"
     ],
     "网页活动【玄龙共舞,携友同行】": [
@@ -125980,7 +126123,7 @@
     "【区域27】开放": [
       "5084"
     ],
-    "例行维护#53": [
+    "例行维护#54": [
       "5105"
     ],
     "《蔚蓝档案》妃咲主题微信红包封面": [
@@ -126182,7 +126325,7 @@
     "《蔚蓝档案》特别pv【色彩流转,本真未改】": [
       "5051"
     ],
-    "指名手配3倍#19任务normal3倍#17任务hard3倍#17": [
+    "指名手配3倍#19&任务normal3倍#17&任务hard3倍#17": [
       "5039"
     ],
     "《蔚蓝档案》专属个性装扮第二期": [
@@ -126200,7 +126343,7 @@
     "网页活动【山海同辉~蔚然春风临,兰心臻情意~】": [
       "5040"
     ],
-    "例行维护#52": [
+    "例行维护#53": [
       "5014"
     ],
     "5周年纪念「これが私のハードボイルド!?」mv公开": [
@@ -126327,7 +126470,7 @@
     "违规账号封禁#52": [
       "4963"
     ],
-    "指名手配3倍#18任务normal3倍#16任务hard3倍#16": [
+    "指名手配3倍#18&任务normal3倍#16&任务hard3倍#16": [
       "4957"
     ],
     "悠星氪金中心连携": [
@@ -126462,7 +126605,7 @@
     "日奈、星野、千世爱用品新增": [
       "4886"
     ],
-    "例行维护#51": [
+    "例行维护#52": [
       "4928"
     ],
     "【对策委员会篇】第3章part4(28~34话)更新": [
@@ -126762,7 +126905,7 @@
     "国际服取消主播宣传活动": [
       "4848"
     ],
-    "例行维护#50": [
+    "例行维护#51": [
       "4829"
     ],
     "学院交流会2倍#24": [
@@ -126921,7 +127064,7 @@
     "限时活动【对策委员会的夜间紧急会议】": [
       "4757"
     ],
-    "例行维护#49": [
+    "例行维护#50": [
       "4761"
     ],
     "对策委员会篇第3章【梦之遗痕】08~16话更新": [
@@ -127042,7 +127185,7 @@
     "悬赏通缉2倍#33&日程2倍#33&学院交流会2倍#22": [
       "4689"
     ],
-    "例行维护#48": [
+    "例行维护#49": [
       "4730"
     ],
     "制约解除决战:chokmah#6": [
@@ -127183,7 +127326,7 @@
     "限时复刻活动【纯白的预告信~虚饰之邸与美学所在之处~】": [
       "4692"
     ],
-    "例行维护#47": [
+    "例行维护#48": [
       "4731"
     ],
     "国际服#28cmarcie特别pv": [
@@ -127261,7 +127404,7 @@
     "国际服签到礼物「sensei,i'malwaystrulygrateful.」": [
       "4646"
     ],
-    "炸服#15(佩洛洛斯拉总力战bug)": [
+    "炸服#14(佩洛洛斯拉总力战bug)": [
       "4656"
     ],
     "阿洛娜的日程笔记(第23期)": [
@@ -127318,7 +127461,7 @@
     "庆典运营管理部社团故事更新": [
       "4612"
     ],
-    "例行维护#46": [
+    "例行维护#47": [
       "4616"
     ],
     "悬赏通缉2倍#32": [
@@ -127550,7 +127693,7 @@
     "国际服2025秋季开发者的信": [
       "4560"
     ],
-    "例行维护#45": [
+    "例行维护#46": [
       "4537"
     ],
     "枫、果穗、好美、美游爱用品新增": [
@@ -127742,7 +127885,7 @@
     "明里(新年)家具互动更新": [
       "4452"
     ],
-    "例行维护#44": [
+    "例行维护#45": [
       "4480"
     ],
     "限时复刻活动【新年开胃菜~一局定输赢~】": [
@@ -127865,7 +128008,7 @@
     "限时活动:0068来自歌剧的爱": [
       "4450"
     ],
-    "例行维护#43": [
+    "例行维护#44": [
       "4440"
     ],
     "悬赏通缉2倍#30&日程2倍#30": [
@@ -128039,13 +128182,13 @@
     "国际服老师经验2倍#27": [
       "4373"
     ],
-    "炸服#14(特殊情况下【简易作战】模式手动通关任务关卡行动点消耗异常)": [
+    "炸服#13(特殊情况下【简易作战】模式手动通关任务关卡行动点消耗异常)": [
       "4397"
     ],
     "限时复刻活动【圣堂的圣夜祝福~救护骑士团的礼物~】": [
       "4424"
     ],
-    "例行维护#42": [
+    "例行维护#43": [
       "4399"
     ],
     "限时复刻招募【响彻圣夜的慈爱颂歌】": [
@@ -128317,10 +128460,10 @@
     "限时复刻招募【清新梦想的可能性】": [
       "4266"
     ],
-    "《蔚蓝档案》限时活动【阳光绽放她们的小夜曲】介绍pv": [
+    "限时活动【阳光绽放她们的小夜曲】介绍pv": [
       "4281"
     ],
-    "例行维护#41": [
+    "例行维护#42": [
       "4280"
     ],
     "等级上限提升至90级": [
@@ -128671,7 +128814,7 @@
     "国际服参展animeexpo2025": [
       "4134"
     ],
-    "例行维护#40": [
+    "例行维护#41": [
       "4179"
     ],
     "悬赏通缉2倍#29&日程2倍#29": [
@@ -128839,7 +128982,7 @@
     "音濑小玉(露营)": [
       "4083"
     ],
-    "例行维护#39": [
+    "例行维护#40": [
       "4151"
     ],
     "悬赏通缉2倍#28&日程2倍#28": [
@@ -128929,10 +129072,10 @@
     "国际服例行维护#86": [
       "4076"
     ],
-    "例行维护#38": [
+    "例行维护#39": [
       "4089"
     ],
-    "炸服#13(限时活动【trip-trap-train】活动积分兑换商店兑换比异常)": [
+    "炸服#12(限时活动【trip-trap-train】活动积分兑换商店兑换比异常)": [
       "4091"
     ],
     "一花、霞家具互动更新": [
@@ -129136,7 +129279,7 @@
     "直播「ブルアカらいぶ!みに♪」": [
       "4002"
     ],
-    "炸服#12(3倍掉落活动未按时生效)": [
+    "炸服#11(3倍掉落活动未按时生效)": [
       "4023"
     ],
     "蔚蓝档案utopiafesti游戏音乐嘉年华": [
@@ -129160,7 +129303,7 @@
     "阿洛娜的日程笔记(第19期)": [
       "4024"
     ],
-    "例行维护#37": [
+    "例行维护#38": [
       "4022"
     ],
     "悬赏通缉3倍#13&特别委托3倍#11": [
@@ -129386,7 +129529,7 @@
     "官方频道社区活动奖励【寻找隐藏的遗产~崔尼蒂的课外活动~】": [
       "3931"
     ],
-    "例行维护#36": [
+    "例行维护#37": [
       "3930"
     ],
     "djmaxxbluearchive联动dlc发售": [
@@ -129587,7 +129730,7 @@
     "限时复刻招募【全年无休沉迷研啾!】": [
       "3833"
     ],
-    "炸服#11(任务系统显示异常)": [
+    "炸服#10(任务系统显示异常)": [
       "3838"
     ],
     "悬赏通缉2倍#26": [
@@ -129626,7 +129769,7 @@
     "国际服学院交流会2倍#26": [
       "3869"
     ],
-    "炸服#10(比纳大决战bug)": [
+    "炸服#9(比纳大决战bug)": [
       "3832"
     ],
     "限时限定复刻招募【夏日情愫眉间现】": [
@@ -129653,7 +129796,7 @@
     "三森(泳装)家具互动更新": [
       "3823"
     ],
-    "例行维护#35": [
+    "例行维护#36": [
       "3830"
     ],
     "日程2倍#25&学院交流会2倍#16": [
@@ -129791,7 +129934,7 @@
     "美游(泳装)、宫子(泳装)、咲(泳装)家具互动更新": [
       "3791"
     ],
-    "例行维护#34": [
+    "例行维护#35": [
       "3795"
     ],
     "青春记录第100话": [
@@ -129854,7 +129997,7 @@
     "霞泽美游(泳装)": [
       "3788"
     ],
-    "炸服#9(霍德总力战bug)": [
+    "炸服#8(霍德总力战bug)": [
       "3785"
     ],
     "总力战霍德•室内战": [
@@ -129899,7 +130042,7 @@
     "任务normal2倍#45&课程表2倍#31": [
       "3682"
     ],
-    "炸服#8(咖啡厅设备核芯异常)": [
+    "炸服#7(咖啡厅设备核芯异常)": [
       "3778"
     ],
     "国际服大决战perorodzilla(field)#2": [
@@ -129926,7 +130069,7 @@
     "卡班诺的兔子篇第2章【wewererabbits!】1~10话更新": [
       "3775"
     ],
-    "例行维护#33": [
+    "例行维护#34": [
       "3773"
     ],
     "限时招募【工务之道始于足下】": [
@@ -130127,7 +130270,7 @@
     "限时招募复刻【芬芳藏不住绽放必有时】&【此身不长久惜取豆蔻年!】&【抬头23.4°可见星光一点】": [
       "3739"
     ],
-    "例行维护#32": [
+    "例行维护#33": [
       "3741"
     ],
     "限时复刻活动【不忍之心】": [
@@ -130397,7 +130540,7 @@
     "国际服3.5周年特别登录奖励": [
       "3597"
     ],
-    "例行维护#31": [
+    "例行维护#32": [
       "3631"
     ],
     "【慈爱的怪盗】的预告信": [
@@ -130646,7 +130789,7 @@
     "限时招募【捆束庭中千般草采撷心间一点春】": [
       "3549"
     ],
-    "例行维护#30": [
+    "例行维护#31": [
       "3541"
     ],
     "任务(普通难度)2倍#14": [
@@ -130820,7 +130963,7 @@
     "一切奇迹的起点篇第4章【雷纳帕提斯决战】更新": [
       "3453"
     ],
-    "例行维护#29": [
+    "例行维护#30": [
       "3452"
     ],
     "小雪家具互动更新": [
@@ -130946,7 +131089,7 @@
     "一切奇迹的起点篇第3章【阿特拉哈西斯方舟占领战】更新": [
       "3415"
     ],
-    "例行维护#28": [
+    "例行维护#29": [
       "3413"
     ],
     "限时活动【阿特拉哈西斯方舟占领战】": [
@@ -131277,7 +131420,7 @@
     "未花主题pv:献给罪人的安魂曲": [
       "3371"
     ],
-    "例行维护#27&维护延长": [
+    "例行维护#28&维护延长": [
       "3370"
     ],
     "悬赏通缉3倍#9日程3倍#9学院交流会3倍#7特别委托3倍#8": [
@@ -131550,7 +131693,7 @@
     "总力战格兹•室内战#2": [
       "3187"
     ],
-    "例行维护#26": [
+    "例行维护#27": [
       "3193"
     ],
     "限定限时复刻招募【不容分说的孤注一掷】&【艳光四射的金玉满堂】&【出其不意的帽子戏法】": [
@@ -131763,7 +131906,7 @@
     "紧急总力战白&黑•街区战4": [
       "3114"
     ],
-    "例行维护#25&维护延长": [
+    "例行维护#26&维护延长": [
       "3133"
     ],
     "时雨主题pv:凛冬特调": [
@@ -131949,9 +132092,8 @@
     "限定限时招募复刻【威震七海的温柔月光】&【扰乱夏日的无情艳阳】": [
       "3047"
     ],
-    "例行维护24": [
-      "3067",
-      "180"
+    "例行维护#25": [
+      "3067"
     ],
     "任务(普通难度)3倍#7": [
       "3066"
@@ -132082,9 +132224,8 @@
     "紧急总力战希罗尼穆斯•街区战2": [
       "2995"
     ],
-    "例行维护23": [
-      "3026",
-      "173"
+    "例行维护#24": [
+      "3026"
     ],
     "蔚蓝档案×mumu模拟器阿洛娜联动主题装扮": [
       "3373"
@@ -132371,9 +132512,8 @@
     "活动【getset,go!~基沃托斯晄轮大会~】": [
       "2934"
     ],
-    "例行维护22": [
-      "2928",
-      "163"
+    "例行维护#23": [
+      "2928"
     ],
     "玛丽(体操服)主题pv:半日之闲": [
       "2932"
@@ -132649,7 +132789,7 @@
     "活动【晄轮大会即将开幕登录奖励】": [
       "2824"
     ],
-    "例行维护21维护延长": [
+    "例行维护#22&维护延长": [
       "2833"
     ],
     "【综合战术测试•防御测试】2": [
@@ -132868,9 +133008,9 @@
     "活动复刻【夏日天空的愿望清单】": [
       "2765"
     ],
-    "例行维护20": [
+    "例行维护#21": [
       "2764",
-      "149"
+      "155"
     ],
     "制约解除决战:赛特之怒#4": [
       "2704"
@@ -133050,9 +133190,8 @@
     "悬赏通缉3倍5日程3倍5学院交流会3倍3": [
       "2741"
     ],
-    "例行维护19": [
-      "2744",
-      "122"
+    "例行维护#20": [
+      "2744"
     ],
     "大决战:屋外戦・ホバークラフト#1": [
       "2690"
@@ -133171,9 +133310,8 @@
     "活动【阿拜多斯度假村重建对策委员会】": [
       "2633"
     ],
-    "例行维护18": [
-      "2630",
-      "117"
+    "例行维护#19": [
+      "2630"
     ],
     "悬赏通缉2倍14日程2倍14学院交流会2倍5": [
       "2626"
@@ -133301,8 +133439,9 @@
     "炸服37(提前结束)": [
       "2598"
     ],
-    "炸服7&启动画面调整": [
-      "2613"
+    "例行维护#18": [
+      "2613",
+      "117"
     ],
     "国际服2.5周年礼物": [
       "2654"
@@ -133347,8 +133486,7 @@
       "2611"
     ],
     "例行维护17": [
-      "2588",
-      "113"
+      "2588"
     ],
     "亚津子主题pv:小雏菊的密语": [
       "2586"
@@ -133525,8 +133663,7 @@
       "2546"
     ],
     "例行维护16": [
-      "2563",
-      "103"
+      "2563"
     ],
     "悬赏通缉2倍12日程2倍12特别委托2倍8学院交流会2倍3": [
       "2562"
@@ -133678,9 +133815,8 @@
     "3周年fanart获奖作品发表": [
       "2461"
     ],
-    "炸服6": [
-      "2511",
-      "54"
+    "炸服#6(佩洛洛斯拉总力战bug)": [
+      "2511"
     ],
     "总力战佩洛洛斯拉•室内战2": [
       "2445"
@@ -133695,8 +133831,7 @@
       "2450"
     ],
     "例行维护15": [
-      "2508",
-      "140"
+      "2508"
     ],
     "伊吕波主题pv:碧海之约": [
       "2509"
@@ -133891,8 +134026,7 @@
       "2380"
     ],
     "例行维护14": [
-      "2426",
-      "129"
+      "2426"
     ],
     "tv动画:倒计时3天贺图": [
       "2406"
@@ -134327,8 +134461,7 @@
       "2256"
     ],
     "例行维护13": [
-      "2255",
-      "99"
+      "2255"
     ],
     "忧主题pv:忧的特别推荐": [
       "2261"
@@ -134357,9 +134490,8 @@
     "国际服课程表2倍16": [
       "2155"
     ],
-    "炸服5": [
-      "2245",
-      "30"
+    "炸服#5(限时复刻活动【樱花烂漫庆典大骚动!】部分挑战关卡的关卡首领的生命值异常)": [
+      "2245"
     ],
     "任务(困难难度)3倍4": [
       "2246"
@@ -134412,7 +134544,7 @@
     "活动「0068オペラより愛をこめて!」": [
       "2120"
     ],
-    "炸服4&【战术对抗赛】异常问题修复": [
+    "炸服#4(【战术对抗赛】异常)": [
       "2238"
     ],
     "例行维护89": [
@@ -134487,9 +134619,8 @@
     "网页活动【狐坂若藻的甜蜜追逐】": [
       "2232"
     ],
-    "炸服3": [
-      "2234",
-      "25"
+    "炸服#3(霍德总力战bug)": [
+      "2234"
     ],
     "特别依赖3倍#11": [
       "2111"
@@ -134543,7 +134674,7 @@
     "网页活动【老师的工作记录!】": [
       "2226"
     ],
-    "炸服2(更新临时维护)": [
+    "炸服#2(更新临时维护)": [
       "2222"
     ],
     "庆典招募【太阳和雨的擦肩而过】": [
@@ -135231,8 +135362,7 @@
       "1980"
     ],
     "例行维护10": [
-      "1982",
-      "83"
+      "1982"
     ],
     "限时招募【彩色玻璃的甜美邀请】": [
       "2054"
@@ -135361,8 +135491,7 @@
       "1958"
     ],
     "例行维护9": [
-      "1966",
-      "78"
+      "1966"
     ],
     "日程区域【千禧年学习区】更新": [
       "2192"
@@ -135497,8 +135626,7 @@
       "1626"
     ],
     "例行维护8": [
-      "1636",
-      "49"
+      "1636"
     ],
     "小瞬主题pv:孩子气的小小冒险": [
       "2184"
@@ -135527,7 +135655,7 @@
     "夏莱的总决算with联邦学生会5": [
       "1025"
     ],
-    "例行维护83": [
+    "例行维护#83": [
       "1022"
     ],
     "bluearchivexaniplusagf2023周边": [
@@ -135626,9 +135754,8 @@
     "国际服课程表2倍12学院交流会2倍12": [
       "1586"
     ],
-    "炸服1": [
-      "1624",
-      "8"
+    "炸服#1(游戏无法登录)": [
+      "1624"
     ],
     "百日纪念": [
       "1622"
@@ -135663,7 +135790,7 @@
     "主线剧情vol.5「百花繚乱」篇第1章「いつかの芽吹きを待ち侘びて」前篇更新": [
       "930"
     ],
-    "例行维护82": [
+    "例行维护#82": [
       "929"
     ],
     "战术对抗战s6开幕": [
@@ -135811,8 +135938,7 @@
       "1654"
     ],
     "例行维护6": [
-      "1660",
-      "41"
+      "1660"
     ],
     "提示:咖啡厅2号店升级材料来源": [
       "824"
@@ -135977,8 +136103,7 @@
       "1644"
     ],
     "例行维护5": [
-      "1648",
-      "29"
+      "1648"
     ],
     "悬赏通缉2倍4日程2倍4任务(普通难度)2倍3": [
       "1647"
@@ -136083,8 +136208,7 @@
       "1689"
     ],
     "例行维护4": [
-      "1693",
-      "76"
+      "1693"
     ],
     "【区域14】开放": [
       "1688"
@@ -136222,8 +136346,7 @@
       "1676"
     ],
     "例行维护3": [
-      "1679",
-      "60"
+      "1679"
     ],
     "悬赏通缉2倍2日程2倍2": [
       "1677"
@@ -136361,8 +136484,7 @@
       "1747"
     ],
     "例行维护2": [
-      "1754",
-      "32"
+      "1754"
     ],
     "特别依赖2倍#34": [
       "796"
@@ -136491,8 +136613,7 @@
       "1730"
     ],
     "例行维护1": [
-      "1733",
-      "9"
+      "1733"
     ],
     "庆典部剧情、修行部剧情更新": [
       "1731"
@@ -136530,7 +136651,7 @@
     "国际服课程表3倍#6&学院交流会3倍#6": [
       "1499"
     ],
-    "蔚蓝档案开服版本助力追加": [
+    "《蔚蓝档案》开服版本助力追加": [
       "1726"
     ],
     "任务hard3倍#8": [
@@ -136545,7 +136666,7 @@
     "封禁公示说明1": [
       "2173"
     ],
-    "蔚蓝档案官方微博账号粉丝数突破10万": [
+    "《蔚蓝档案》官方微博账号粉丝数突破10万": [
       "2166"
     ],
     "国际服活动复刻「theclumsysisterandthemagicianoftheoldlibrary」": [
@@ -136614,7 +136735,7 @@
     "阿罗普拉频道#1": [
       "2692"
     ],
-    "蔚蓝档案国服主题曲ep-bluecanvas": [
+    "《蔚蓝档案》国服主题曲ep-bluecanvas": [
       "2164"
     ],
     "限时招募【崭新的篇章】": [
@@ -136626,9 +136747,6 @@
     ],
     "蔚蓝档案公测正式开服": [
       "1789"
-    ],
-    "国服公测正式开服": [
-      "1775"
     ],
     "蔚蓝档案公测pv【与你的日常,就是奇迹!】": [
       "1715"
@@ -139679,7 +139797,7 @@
     "国际服卡池「arrivedattheobjective.let'sgostraighttothenextmission.」": [
       "1014"
     ],
-    "国际服例行维护8": [
+    "国际服例行维护#8": [
       "1016"
     ],
     "国际服活动「summerskywishlist」": [
@@ -139742,7 +139860,7 @@
     "国际服总力战binah(field)": [
       "1002"
     ],
-    "国际服例行维护7": [
+    "国际服例行维护#7": [
       "1006"
     ],
     "国际服指名手配2倍4": [
@@ -139826,7 +139944,7 @@
     "国际服卡池「whatdidyouthink,sensei?wasmyequipmenthelpful?」": [
       "907"
     ],
-    "国际服例行维护6": [
+    "国际服例行维护#6": [
       "911"
     ],
     "国际服指名手配2倍3特别依赖2倍3": [
@@ -140222,6 +140340,9 @@
     "活动「初音ミクのスペシャルライブinキヴォトス~リハーサル編~」": [
       "201"
     ],
+    "例行维护#6": [
+      "41"
+    ],
     "音乐「bluenewworld」公开": [
       "200"
     ],
@@ -140363,6 +140484,9 @@
     "市街地戦・ヒエロニムス2": [
       "176"
     ],
+    "例行维护24": [
+      "180"
+    ],
     "特别依赖2倍#9": [
       "177"
     ],
@@ -140383,6 +140507,9 @@
     ],
     "屋外戦・ケセド2": [
       "171"
+    ],
+    "例行维护23": [
+      "173"
     ],
     "特别依赖2倍#8": [
       "170"
@@ -140426,6 +140553,9 @@
     "战术对抗战s2开幕": [
       "932"
     ],
+    "例行维护22": [
+      "163"
+    ],
     "山海经活动礼物": [
       "164"
     ],
@@ -140458,9 +140588,6 @@
     ],
     "市街地戦・シロ&クロ3": [
       "153"
-    ],
-    "例行维护21": [
-      "155"
     ],
     "特别依赖3倍#1": [
       "154"
@@ -140501,6 +140628,9 @@
     "屋外戦・kaitenfxmk.01": [
       "1797"
     ],
+    "例行维护20": [
+      "149"
+    ],
     "line表情包vol.1": [
       "966"
     ],
@@ -140531,6 +140661,9 @@
     "任天堂红白机与世嘉sg-1000、sc-3000发售纪念日贺图": [
       "3176"
     ],
+    "例行维护19": [
+      "122"
+    ],
     "特别依赖2倍#7": [
       "120"
     ],
@@ -140558,6 +140691,9 @@
     "屋内戦・ヒエロニムス緊急襲来": [
       "110"
     ],
+    "例行维护#17": [
+      "113"
+    ],
     "特别依赖2倍#6": [
       "111"
     ],
@@ -140572,6 +140708,9 @@
     ],
     "卡池「淫らを温ねて正しきを知るっ」": [
       "105"
+    ],
+    "例行维护#16": [
+      "103"
     ],
     "指名手配2倍#5": [
       "106"
@@ -140597,6 +140736,9 @@
     "屋内戦·ヒエロニムス1「extreme」难度解放": [
       "144"
     ],
+    "例行维护#15": [
+      "140"
+    ],
     "卡池「花散らす仮面舞踏会」": [
       "136"
     ],
@@ -140620,6 +140762,9 @@
     ],
     "炸服11-百日维新": [
       "131"
+    ],
+    "例行维护#14": [
+      "129"
     ],
     "卡池「夢を奏でる春告げのrpg」": [
       "127"
@@ -140651,6 +140796,9 @@
     "卡池「晴れのち失脚、所により大荒れ」": [
       "100"
     ],
+    "例行维护#13": [
+      "99"
+    ],
     "屋外戦・ケセド": [
       "98"
     ],
@@ -140669,7 +140817,7 @@
     "「革命のイワン・クパーラ髭とプリンとレッドウィンター」活动pv公开": [
       "97"
     ],
-    "例行维护12": [
+    "例行维护#12": [
       "92"
     ],
     "特别依赖2倍#3": [
@@ -140687,11 +140835,14 @@
     "大蛇梗图": [
       "86"
     ],
-    "例行维护11": [
+    "例行维护#11": [
       "85"
     ],
     "任务normal2倍#2": [
       "84"
+    ],
+    "例行维护#10": [
+      "83"
     ],
     "市街地戦・ビナー": [
       "82"
@@ -140707,6 +140858,9 @@
     ],
     "愚人节彩蛋1": [
       "77"
+    ],
+    "例行维护#9": [
+      "78"
     ],
     "特别依赖2倍#2": [
       "72"
@@ -140738,6 +140892,9 @@
     "总力战商店追加碎片:花江": [
       "55"
     ],
+    "例行维护#8": [
+      "49"
+    ],
     "卡池「機械たちは旅立ちの夢を見るか?」": [
       "48"
     ],
@@ -140750,7 +140907,7 @@
     "生放送「ブルアカらいぶ!」": [
       "40"
     ],
-    "例行维护7": [
+    "例行维护#7": [
       "47"
     ],
     "卡池「悪は一日にして成らず」": [
@@ -140786,6 +140943,9 @@
     "特别依赖2倍#1": [
       "33"
     ],
+    "例行维护#5": [
+      "29"
+    ],
     "下载量突破100万": [
       "35"
     ],
@@ -140801,6 +140961,9 @@
     "卡池「祭り囃子はしのぶれど」": [
       "70"
     ],
+    "例行维护#4": [
+      "76"
+    ],
     "「桜花爛漫お祭り騒ぎ!~空に徒花地に忍び~」活动pv公开": [
       "75"
     ],
@@ -140812,6 +140975,9 @@
     ],
     "炸服7": [
       "65"
+    ],
+    "例行维护#3": [
+      "60"
     ],
     "官方四格连载开始": [
       "59"
@@ -140831,14 +140997,23 @@
     "发推活动:#アロナとのバレンタイン": [
       "56"
     ],
+    "炸服6": [
+      "54"
+    ],
     "情人节登录奖励": [
       "50"
     ],
     "关注数突破20万": [
       "51"
     ],
+    "例行维护#2": [
+      "32"
+    ],
     "卡池「赤の季節、黒の制服」": [
       "31"
+    ],
+    "炸服5": [
+      "30"
     ],
     "炸服4": [
       "28"
@@ -140848,6 +141023,9 @@
     ],
     "首次达成playstore人气第一": [
       "26"
+    ],
+    "炸服3": [
+      "25"
     ],
     "炸服2": [
       "24"
@@ -140894,11 +141072,17 @@
     "cbt测试结束": [
       "10"
     ],
+    "例行维护#1": [
+      "9"
+    ],
     "cbt大蛇": [
       "12"
     ],
     "话题趣闻-花凛的回忆大厅cg在各群聊中扩散": [
       "993"
+    ],
+    "炸服1": [
+      "8"
     ],
     "cbt测试开启": [
       "7"
