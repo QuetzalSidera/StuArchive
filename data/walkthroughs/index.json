@@ -7,15 +7,180 @@
     "api_path": "/walkthroughs/",
     "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/"
   },
-  "generated_at": "2026-09-21T21:43:01Z",
+  "generated_at": "2026-09-22T20:54:31Z",
   "list_key": "walkthrough",
   "id_key": "id",
-  "max_page": 10,
-  "synced_pages": 10,
-  "total_items": 100,
-  "details_synced": 100,
+  "max_page": 11,
+  "synced_pages": 11,
+  "total_items": 101,
+  "details_synced": 101,
   "details_enabled": true,
   "items": [
+    {
+      "id": 137,
+      "user": {
+        "id": 28086,
+        "user_name": "Cerevere",
+        "introduction": "",
+        "avatar": "https://static.kivo.wiki/images/avatar/default_avatar.png"
+      },
+      "title": "比较粗暴",
+      "server": "Global",
+      "game_mode": "Universal",
+      "enemy_defensive_attributes": "Rainbow",
+      "level_terrain": "Other",
+      "introduce_summary": "个人习惯的开荒简单配队，不缺治疗的话玛丽换谁都可以，晴也一样 cost消耗普遍比较低，不卡手 等级有多少拉多少，优先盾野水花，其他的保证不死就行 装备同理，技能也是保证盾野和水花的等级优先哦",
+      "team": [
+        {
+          "student": [
+            {
+              "student_id": 373,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 20,
+              "skill_level": [
+                5,
+                7,
+                7,
+                7
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 300,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 20,
+              "skill_level": [
+                5,
+                7,
+                7,
+                7
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 340,
+              "level": 80,
+              "star_level": 3,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                4,
+                6,
+                6,
+                6
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 498,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 18,
+              "skill_level": [
+                5,
+                7,
+                7,
+                8
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 572,
+              "level": 80,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 18,
+              "skill_level": [
+                5,
+                8,
+                8,
+                8
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 58,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                8,
+                9
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            }
+          ],
+          "initial_skills": [
+            373,
+            340,
+            572
+          ],
+          "timeline": []
+        }
+      ],
+      "reference_score": 0,
+      "is_favorite": false,
+      "state": 1,
+      "favorite_num": 0,
+      "created_at": 1790103398,
+      "updated_at": 1790103651
+    },
     {
       "id": 136,
       "user": {
@@ -26465,9 +26630,22 @@
       "path": "walkthroughs/pages/10.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/pages/10.json",
       "item_count": 10
+    },
+    {
+      "page": 11,
+      "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/?page=11",
+      "path": "walkthroughs/pages/11.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/pages/11.json",
+      "item_count": 1
     }
   ],
   "details": [
+    {
+      "id": 137,
+      "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/137",
+      "path": "walkthroughs/137.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/137.json"
+    },
     {
       "id": 136,
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/136",
@@ -27072,8 +27250,8 @@
   "lookup": {
     "path": "walkthroughs/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/lookup.json",
-    "alias_count": 100,
-    "normalized_alias_count": 100,
-    "total_items": 100
+    "alias_count": 101,
+    "normalized_alias_count": 101,
+    "total_items": 101
   }
 }

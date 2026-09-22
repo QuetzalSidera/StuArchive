@@ -2,17 +2,189 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-09-21T21:43:01Z",
+  "generated_at": "2026-09-22T20:54:31Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 100,
-  "alias_count": 100,
-  "normalized_alias_count": 100,
+  "total_items": 101,
+  "alias_count": 101,
+  "normalized_alias_count": 101,
   "by_id": {
+    "137": {
+      "id": 137,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 137,
+        "user": {
+          "id": 28086,
+          "user_name": "Cerevere",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/default_avatar.png"
+        },
+        "title": "比较粗暴",
+        "server": "Global",
+        "game_mode": "Universal",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "个人习惯的开荒简单配队，不缺治疗的话玛丽换谁都可以，晴也一样 cost消耗普遍比较低，不卡手 等级有多少拉多少，优先盾野水花，其他的保证不死就行 装备同理，技能也是保证盾野和水花的等级优先哦",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 373,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  5,
+                  7,
+                  7,
+                  7
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 300,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  5,
+                  7,
+                  7,
+                  7
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 340,
+                "level": 80,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  4,
+                  6,
+                  6,
+                  6
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 498,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 18,
+                "skill_level": [
+                  5,
+                  7,
+                  7,
+                  8
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 572,
+                "level": 80,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 18,
+                "skill_level": [
+                  5,
+                  8,
+                  8,
+                  8
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 58,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  8,
+                  9
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              373,
+              340,
+              572
+            ],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1790103398,
+        "updated_at": 1790103651
+      },
+      "detail_path": "walkthroughs/137.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/137.json"
+    },
     "136": {
       "id": 136,
       "source_path": "walkthroughs/index.json",
@@ -27093,6 +27265,9 @@
     }
   },
   "by_alias": {
+    "比较粗暴": [
+      "137"
+    ],
     "主线推图简易模式": [
       "136"
     ],
@@ -27395,6 +27570,9 @@
     ]
   },
   "by_normalized_alias": {
+    "比较粗暴": [
+      "137"
+    ],
     "主线推图简易模式": [
       "136"
     ],

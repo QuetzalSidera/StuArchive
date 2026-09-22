@@ -2,8 +2,503 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 10,
+    "max_page": 11,
     "walkthrough": [
+      {
+        "id": 91,
+        "user": {
+          "id": 17913,
+          "user_name": "Nod6EPDB",
+          "introduction": "In the name of Kane（走错片场）",
+          "avatar": "https://static.kivo.wiki/images/avatar/17913/JIKCxYWXRl3GuVF4frrNyEM2C67pzhqs.png"
+        },
+        "title": "S37个人配队参考（看手里有啥上啥）",
+        "server": "Global",
+        "game_mode": "JointFirepowerExercise",
+        "enemy_defensive_attributes": "Special",
+        "level_terrain": "Outdoor",
+        "introduce_summary": "（注：任何“推荐xxxx”为自己在作战时的实际培养程度） 主要是有什么就把什么放上去了 三阶规则：我方单位使用≤2COST的EX技能时，对前卫君造成其生命值上限25%的伤害 四阶规则：前卫君的生命值越",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 93,
+                "level": 75,
+                "star_level": 5,
+                "weapon_level": 2,
+                "favorability": 17,
+                "skill_level": [
+                  3,
+                  3,
+                  3,
+                  3
+                ],
+                "equipment_level": [
+                  3,
+                  3,
+                  3
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 157,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 1,
+                "favorability": 19,
+                "skill_level": [
+                  4,
+                  7,
+                  3,
+                  3
+                ],
+                "equipment_level": [
+                  5,
+                  4,
+                  5
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 373,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 3,
+                "favorability": 25,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 1,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 25,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 43,
+                "level": 90,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 16,
+                "skill_level": [
+                  5,
+                  7,
+                  3,
+                  4
+                ],
+                "equipment_level": [
+                  4,
+                  4,
+                  4
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 185,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 3,
+                "favorability": 23,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  6,
+                  5,
+                  4,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 25,
+                "attack_talent_level": 25,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 61,
+                "level": 90,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 19,
+                "skill_level": [
+                  5,
+                  6,
+                  6,
+                  10
+                ],
+                "equipment_level": [
+                  4,
+                  5,
+                  5
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              373,
+              43,
+              61
+            ],
+            "timeline": [
+              {
+                "timing": "9费（提前1-2费用于Buff施加延迟）",
+                "operate": "使用圣娅和妃咲的EX技能，施加至星野（临战）",
+                "remark": "顺序可随意切换"
+              },
+              {
+                "timing": "前一时间轴操作完成后+星野（临战）完成“镇压攻击”子技能后",
+                "operate": "使用星野（临战）的EX技能，施加至AMAS（SMG）",
+                "remark": ""
+              },
+              {
+                "timing": "AMAS（SMG）和AMAS（AR）显示使用集火技能时",
+                "operate": "使用椿的EX技能，阻止敌方爆发集火",
+                "remark": "提前积攒4费"
+              }
+            ]
+          },
+          {
+            "student": [
+              {
+                "student_id": 74,
+                "level": 85,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 17,
+                "skill_level": [
+                  4,
+                  3,
+                  3,
+                  7
+                ],
+                "equipment_level": [
+                  4,
+                  5,
+                  5,
+                  1
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 135,
+                "level": 90,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  7
+                ],
+                "equipment_level": [
+                  3,
+                  4,
+                  3
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 136,
+                "level": 90,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 18,
+                "skill_level": [
+                  4,
+                  4,
+                  4,
+                  4
+                ],
+                "equipment_level": [
+                  4,
+                  4,
+                  5
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 152,
+                "level": 85,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  4,
+                  7,
+                  7,
+                  7
+                ],
+                "equipment_level": [
+                  4,
+                  5,
+                  2,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 39,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 19,
+                "skill_level": [
+                  4,
+                  7,
+                  7,
+                  10
+                ],
+                "equipment_level": [
+                  5,
+                  3,
+                  5
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 227,
+                "level": 80,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 14,
+                "skill_level": [
+                  5,
+                  8,
+                  7,
+                  8
+                ],
+                "equipment_level": [
+                  4,
+                  3,
+                  3
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              74,
+              135,
+              39
+            ],
+            "timeline": [
+              {
+                "timing": "6费（可提前1费）",
+                "operate": "使用亚子、白子*TERROR的EX技能",
+                "remark": "亚子的EX技能施加于白子*TERROR"
+              },
+              {
+                "timing": "AMAS（SMG）和AMAS（AR）显示使用集火技能时",
+                "operate": "使用日富美的EX技能，阻止敌方爆发集火",
+                "remark": "提前积攒5费"
+              }
+            ]
+          },
+          {
+            "student": [
+              {
+                "student_id": 101,
+                "level": 86,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  4,
+                  8,
+                  6,
+                  7
+                ],
+                "equipment_level": [
+                  4,
+                  4,
+                  4
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 373,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 2,
+                "favorability": 22,
+                "skill_level": [
+                  4,
+                  8,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  4,
+                  5,
+                  3
+                ],
+                "character_data_index": 1,
+                "max_hp_talent_level": 13,
+                "attack_talent_level": 13,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 35,
+                "level": 85,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  4,
+                  3,
+                  6,
+                  3
+                ],
+                "equipment_level": [
+                  4,
+                  4,
+                  5
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 142,
+                "level": 90,
+                "star_level": 4,
+                "weapon_level": 0,
+                "favorability": 20,
+                "skill_level": [
+                  4,
+                  6,
+                  7,
+                  7
+                ],
+                "equipment_level": [
+                  4,
+                  6,
+                  5
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 124,
+                "level": 74,
+                "star_level": 3,
+                "weapon_level": 0,
+                "favorability": 13,
+                "skill_level": [
+                  2,
+                  2,
+                  2,
+                  10
+                ],
+                "equipment_level": [
+                  3,
+                  3,
+                  2
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 133,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 1,
+                "favorability": 20,
+                "skill_level": [
+                  3,
+                  10,
+                  4,
+                  10
+                ],
+                "equipment_level": [
+                  4,
+                  3,
+                  4
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              373,
+              35,
+              142
+            ],
+            "timeline": [
+              {
+                "timing": "6费",
+                "operate": "直接使用星野（临战）的EX，施加至AMAS（SMG）",
+                "remark": ""
+              },
+              {
+                "timing": "前卫君生命值降至75%时",
+                "operate": "使用亚津子的EX技能",
+                "remark": ""
+              },
+              {
+                "timing": "AMAS（SMG）和AMAS（AR）显示使用集火技能时",
+                "operate": "使用玲纱的EX技能，阻止敌方爆发集火",
+                "remark": "提前积攒3费"
+              }
+            ]
+          }
+        ],
+        "reference_score": 211405,
+        "is_favorite": false,
+        "state": 0,
+        "favorite_num": 0,
+        "created_at": 1755191464,
+        "updated_at": 1755424309
+      },
       {
         "id": 90,
         "user": {
@@ -2372,176 +2867,11 @@
         "favorite_num": 0,
         "created_at": 1742693047,
         "updated_at": 1747906681
-      },
-      {
-        "id": 77,
-        "user": {
-          "id": 14518,
-          "user_name": "hoshino0102blue",
-          "introduction": "栀子梦",
-          "avatar": "https://static.kivo.wiki/images/avatar/14518/UhSv7Bi7eJY1DYDLvyzrsgEx1hHTiQnv.png"
-        },
-        "title": "特别委托攻略",
-        "server": "China",
-        "game_mode": "Commissions",
-        "enemy_defensive_attributes": "Heavy",
-        "level_terrain": "Indoor",
-        "introduce_summary": "包过",
-        "team": [
-          {
-            "student": [
-              {
-                "student_id": 42,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 74,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 78,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 2,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 49,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 91,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              }
-            ],
-            "initial_skills": [
-              42,
-              74,
-              49
-            ],
-            "timeline": []
-          }
-        ],
-        "reference_score": 0,
-        "is_favorite": false,
-        "state": 0,
-        "favorite_num": 1,
-        "created_at": 1742634778,
-        "updated_at": 1747906681
       }
     ]
   },
   "message": "请求成功",
   "success": true,
-  "time": 1790036443,
+  "time": 1790118488,
   "version": "1.0.0-beta.43"
 }
