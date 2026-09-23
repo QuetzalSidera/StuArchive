@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 35,
+        "name": "伊吕波的手工巧克力棒",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VUQxl4YtLePDrxLBMxqES3lXv6N1Rx5J.png",
+        "rarity": 1,
+        "description": "与伊吕波购物归途中得到的，手工棒状巧克力。其中一根还残留着「痕迹」。"
+      },
+      {
+        "id": 423,
+        "name": "以太粉末",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/1akm7LQMhHxoRHgRZB2RVCTzdWcQ9ydj.png",
+        "rarity": 1,
+        "description": "从空气中萃取的最基本型态的乙太粉末。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 425,
+        "name": "以太结晶",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/7ePxOziD6D7KabB9WxzgkxXDaENoWNxm.png",
+        "rarity": 3,
+        "description": "仅收集纯粹的乙太提炼成结晶形态的乙太结晶。可用来进行各种制造及强化。"
+      },
       {
         "id": 426,
         "name": "以太精髓",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/fKMUjCvCRC3qg1GO3w9rbifCRXHyDKXz.png",
         "rarity": 3,
         "description": "用于学生的能力解放而发行的教材。"
-      },
-      {
-        "id": 1415,
-        "name": "应用卫生练习册",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/0NI6TBy6mOAxdnBrft3jiq1O0D14EMuE.png",
-        "rarity": 3,
-        "description": "用于学生的能力解放而发行的教材。"
-      },
-      {
-        "id": 259,
-        "name": "樱花糯米糕",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lwJFRWJx6Ek07MR0gU5UdVaC5tgCnmNX.png",
-        "rarity": 1,
-        "description": "百鬼夜行的传统茶室百夜堂的畅销甜点。柔软浓厚的香甜确实无敌。"
-      },
-      {
-        "id": 30,
-        "name": "樱花巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/vNvrVyHuHE9ZK5QyJ7AEainHS95ThkxS.png",
-        "rarity": 1,
-        "description": "弥守所准备的樱花形手工巧克力。即使不会读心术，吃上一口想必也能感受到她的心意吧。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111413,
+  "time": 1790198576,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 2,
+        "name": "基础战术教育BD（千禧）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/qvolYaW24A8ZdJfbpLfOwtlxTxxzNrke.png",
+        "rarity": 1,
+        "description": "把千禧学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 21,
         "name": "基础战术教育BD（山海经）",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/TjfNM8jt4st5ZBvLnHjFkUscealNZzVD.png",
         "rarity": 1,
         "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个阿比多斯、千禧或红冬的基础战术教育BD）"
-      },
-      {
-        "id": 359,
-        "name": "基础战术教育BD选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/1PIAEczOweHGSe7l8gNy25jj6ffdA6aU.png",
-        "rarity": 1,
-        "description": "可选择需要的战术教育BD的选择券"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111369,
+  "time": 1790198524,
   "version": "1.0.0-beta.43"
 }

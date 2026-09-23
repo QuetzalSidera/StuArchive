@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 38,
+        "name": "高级饼干组合",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/L0d8wH7POHKkkcz2lAGf3rbNJ2no0Q8y.png",
+        "rarity": 3,
+        "description": "清香的甜味堪称一绝的薛丁格高级饼干组合。时常以50%的几率装入其他物品来代替饼干。"
+      },
+      {
+        "id": 87,
+        "name": "高级蛋形工艺品",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/LM8V6Tn8wLpH2da6gjNfRmnDk9xlpyKB.png",
+        "rarity": 4,
+        "description": "蛋形模样的身体上镶嵌着美丽宝石并雕刻着几何图形的精巧工艺品。当然温暖地抱着它也不会孵出小鸡来。"
+      },
+      {
+        "id": 93,
+        "name": "高级自助餐招待券",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/Hj2JxOusBmHPIOKO4EayXXeoweytSFXT.png",
+        "rarity": 3,
+        "description": "可以享用基沃托斯第一主厨所在餐厅的高级自助餐的招待券。 相当昂贵。"
+      },
       {
         "id": 86,
         "name": "古典诗集",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/cxDGFwnq6Bj7ukbFd7wCpbV67NTYawnP.png",
         "rarity": 3,
         "description": "只看一眼就觉得很贵的金箔坛。小心山寨品！"
-      },
-      {
-        "id": 88,
-        "name": "可爱器皿组合",
-        "type": "gift",
-        "icon": "https://static.kivo.wiki/images/item/icon/5EDUsPsCoptQbRUIe6WPUhB7eMqDtOoR.png",
-        "rarity": 3,
-        "description": "画有可爱吉祥物动物角色的餐具组合。 每年名列基沃托斯餐具销售前10名的传统强者。"
-      },
-      {
-        "id": 1271,
-        "name": "雷蛇北海巨妖萌猫V2耳机",
-        "type": "gift",
-        "icon": "https://static.kivo.wiki/images/item/icon/huqs457g1kCjrVe9lsDnAJVPlp2SMNxJ.png",
-        "rarity": 3,
-        "description": "雷蛇游戏耳机。电竞少女必备，戴上就能变可爱的猫耳耳机！还有RGB幻彩灯效哦~<br>（赠予任意学生时 ＋60 好感经验。）<br>（国服限定礼物）"
-      },
-      {
-        "id": 73,
-        "name": "蕾丝枕头",
-        "type": "gift",
-        "icon": "https://static.kivo.wiki/images/item/icon/lHb23E5E33ryQlDAdnqlCXNDLd2grqlQ.png",
-        "rarity": 4,
-        "description": "利用高级材质制成的蕾丝枕头。乍看之下可能很是很简单的设计，但如同它的名字，拥有着少女们的梦想。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111428,
+  "time": 1790198592,
   "version": "1.0.0-beta.43"
 }

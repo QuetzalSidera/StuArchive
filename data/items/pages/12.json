@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1666,
+        "name": "传说的记录板兑换券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/HT2LAW9pYVRl5rqUGDkI0hRbkbhqi2lH.png",
+        "rarity": 1,
+        "description": "获得时可兑换为传说的记录板的兑换券。若已获得该家具，则改为获得一个奥秘之书。"
+      },
       {
         "id": 461,
         "name": "传统温泉乡系列家具抽选箱",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ZNu8mp8NDXCDOOy5fLaT6Z3sJFSwvBhA.png",
         "rarity": 1,
         "description": "可在大决战商店中使用的硬币。"
-      },
-      {
-        "id": 1752,
-        "name": "大理石方块",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/jUBIMk3ITcRw9lhxyguHzLUxFQsruiWO.png",
-        "rarity": 1,
-        "description": "雕刻用的大理石方块 。 在纯白的表面上雕刻你的梦想吧 。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111349,
+  "time": 1790198502,
   "version": "1.0.0-beta.43"
 }

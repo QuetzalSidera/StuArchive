@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1090,
+        "name": "普拉娜的普拉娜巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/nCPm5LJS4NuPgFrO4egAG6d72Afs7tTR.png",
+        "rarity": 1,
+        "description": "普拉娜瞒着阿罗娜做的巧克力。味道很符合老师的口味。"
+      },
       {
         "id": 472,
         "name": "普雷纳帕特斯的大人的卡片",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/xnMxNjTU1GEj71wI73RyAffOU5bHrK5Z.png",
         "rarity": 1,
         "description": "启动工艺室时所需的楔石。"
-      },
-      {
-        "id": 385,
-        "name": "启动石碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/06YTdOujsH08idUtoaPFmpwT9H636AtS.png",
-        "rarity": 1,
-        "description": "启动工艺室时所需的楔石的碎片。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111383,
+  "time": 1790198541,
   "version": "1.0.0-beta.43"
 }

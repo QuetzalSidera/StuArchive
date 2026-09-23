@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 186,
+        "name": "没收的违法便宜点心",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/7jhLhAdi3bBGfe42XmuUwdlpiHhWvCKR.png",
+        "rarity": 1,
+        "description": "在情人节巡逻工作途中从问题儿童手中没收的便宜点心。据说是未经许可便在地下社会制造流通的商品。因为不健康的口味在问题儿童间非常有人气。"
+      },
       {
         "id": 197,
         "name": "美食的证明（抹茶口味）",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/U3vqUa18VdLa5DcJFBWOwtFEFRXTPTug.png",
         "rarity": 1,
         "description": "在学园祭各处分发的蛋糕。对某些人来说，它足以成为造访学园祭的理由，其味道堪称绝品。"
-      },
-      {
-        "id": 1616,
-        "name": "谜之货物",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lxnGps1cuEPcttwLxyKHgPDB7GBxHoQu.png",
-        "rarity": 1,
-        "description": "装有货物的木箱。虽然很在意里面装的是什么，但不应随意打开。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111376,
+  "time": 1790198532,
   "version": "1.0.0-beta.43"
 }

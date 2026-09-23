@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 398,
+        "name": "高级制造用原料",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tyzs90lCaExv16kaq8KWeFZ6Bb7Zs1n1.png",
+        "rarity": 3,
+        "description": "用于制造的主原料"
+      },
       {
         "id": 389,
         "name": "高级总力战硬币",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/QC3Gl9Y1Vbri0CBzxtDwfJ7xtjW8Y9cM.png",
         "rarity": 3,
         "description": "枪支上用于输送弹丸的铁管零件，以铬合金制作而成，坚固耐久不会生锈。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 1385,
-        "name": "工务部传单",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/o5sBtzq06g6i5orFhhs4ev8QHAqTUDTl.png",
-        "rarity": 1,
-        "description": "工务部发放的谜之传单。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111359,
+  "time": 1790198514,
   "version": "1.0.0-beta.43"
 }

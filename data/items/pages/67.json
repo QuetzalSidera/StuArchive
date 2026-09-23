@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1109,
+        "name": "修复中的古代火箭",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/gFNcfsVH32yscrPwklOWFlDQMhlsKfYh.png",
+        "rarity": 3,
+        "description": "一枚枚碎片被收集起来修复中的古代火箭，用于制造和强化。"
+      },
+      {
+        "id": 1105,
+        "name": "修复中的黄金飞行器",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/njP5fAgwlQRhS3GOf9Q3Q0owHPnj9uuG.png",
+        "rarity": 3,
+        "description": "一枚枚碎片被收集起来修复中的黄金飞行器。用于制造和强化。"
+      },
+      {
+        "id": 1035,
+        "name": "修复中的中空十二面体",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/4bHKLXrCORCOj9VpN1oCmFJm0HyTuUyF.png",
+        "rarity": 3,
+        "description": " 一枚枚碎片被收集起来修复中的中空十二面体。用于制造和强化。"
+      },
       {
         "id": 442,
         "name": "修好的水晶埴轮",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/6gUZkKT8PAGjhAIvuoKaiF1bIWtRd7s9.png",
         "rarity": 1,
         "description": "玄武商会发行的餐券。带去玄武商会的话就能享受一番热情款待。"
-      },
-      {
-        "id": 395,
-        "name": "悬赏通缉硬币",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/sbcsJfH7syFfUeXxffMcjwoxGecFTp2c.png",
-        "rarity": 1,
-        "description": "可于悬赏通缉商店中使用的硬币。"
-      },
-      {
-        "id": 232,
-        "name": "学院交流会传单",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/03mjBMag62tw2yawRZtZkyGuByRWHWuY.png",
-        "rarity": 1,
-        "description": "公告百鬼夜行和格黑娜学园间的交流会将要举办的传单。上面除了有主办人尼娅的问候，也有这次交流会的主要行程。"
-      },
-      {
-        "id": 540,
-        "name": "雪花吊坠设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/V1quhYGIoPhLTBoljzHascprImdHrQ2o.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111406,
+  "time": 1790198568,
   "version": "1.0.0-beta.43"
 }

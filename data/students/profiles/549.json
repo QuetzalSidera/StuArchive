@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "id": 549,
   "display_name": "白尾 艾利",
   "names": {
@@ -604,7 +604,24 @@
       }
     ],
     "favorite_equipment": {
-      "id": 0
+      "id": 84,
+      "name": "古老的魔法帽",
+      "name_cn": "",
+      "is_favorite": true,
+      "info": [
+        {
+          "description": "如同艾利分身一般的魔法帽。 正因为有了这顶帽子，才有了如今的艾利。\n - T1\n暴击伤害 +1000",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/1HEVt5M0EMWLxFt8jvvsG4lOo5RVfrIx.png"
+        },
+        {
+          "description": "如同艾利分身一般的魔法帽。 正因为有了这顶帽子，才有了如今的艾利。\n - T1\n暴击伤害 +1000\n- T2\n「魔导书的指引+」\n每35秒，令1名敌方的暴击伤害抵抗率减少38.2%，施加「魔导书」（持续28秒）\n造成攻击力446%的伤害\n攻击持有「魔导书」的目标时，伤害增加量额外增加1倍。之后，解除目标的「魔导书」",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/JCx1HEyGGBvnigPZRPdkzCf5AzhrfmBT.png"
+        }
+      ],
+      "detail_path": "equipments/84.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/84.json"
     },
     "cultivate_materials": [
       {
@@ -2618,8 +2635,8 @@
   "source": {
     "detail_path": "students/549.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/549.json",
-    "upstream_time": 1790110932,
-    "updated_at": 1789746507,
+    "upstream_time": 1790197743,
+    "updated_at": 1790180689,
     "created_at": 1755484470
   }
 }

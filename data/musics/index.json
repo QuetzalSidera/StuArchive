@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 100,
   "synced_pages": 100,
-  "total_items": 995,
-  "details_synced": 995,
+  "total_items": 997,
+  "details_synced": 997,
   "details_enabled": true,
   "items": [
     {
@@ -8970,6 +8970,24 @@
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_373"
+    },
+    {
+      "id": 1015,
+      "title": "Theme_377",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_377"
+    },
+    {
+      "id": 1016,
+      "title": "Theme_375",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_375"
     }
   ],
   "pages": [
@@ -9671,7 +9689,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=100",
       "path": "musics/pages/100.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/100.json",
-      "item_count": 5
+      "item_count": 7
     }
   ],
   "details": [
@@ -15644,13 +15662,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1014",
       "path": "musics/1014.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1014.json"
+    },
+    {
+      "id": 1015,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1015",
+      "path": "musics/1015.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1015.json"
+    },
+    {
+      "id": 1016,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1016",
+      "path": "musics/1016.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1016.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1308,
-    "normalized_alias_count": 1308,
-    "total_items": 995
+    "alias_count": 1310,
+    "normalized_alias_count": 1310,
+    "total_items": 997
   }
 }

@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 48,
+        "name": "高级技术笔记（圣三一） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/cp3TRDjFkgNtEeQbRY4BqgYXTvwZI5E3.png",
+        "rarity": 3,
+        "description": "归纳圣三一学园战术核心的秘法笔记。"
+      },
       {
         "id": 123,
         "name": "高级技术笔记（瓦尔基里） ",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/uA9hI8lAznhIX9L2yIAG1nhmhSLQI4OM.png",
         "rarity": 4,
         "description": "使用时，以相同的概率获得1个高级礼物的礼物箱"
-      },
-      {
-        "id": 578,
-        "name": "高级强化石",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/yLu6G4ak7mUlGU5dge6ZK2rWVRcLM499.png",
-        "rarity": 3,
-        "description": "可强化装备的神秘强化石"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111356,
+  "time": 1790198510,
   "version": "1.0.0-beta.43"
 }

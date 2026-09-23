@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1385,
+        "name": "工务部传单",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/o5sBtzq06g6i5orFhhs4ev8QHAqTUDTl.png",
+        "rarity": 1,
+        "description": "工务部发放的谜之传单。"
+      },
       {
         "id": 1347,
         "name": "公文包",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/GIJSl5xs3fLwlVT1rIPPOY7LpmIX4ULj.png",
         "rarity": 1,
         "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 878,
-        "name": "拐杖糖",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/FbMJOvPrpwqVXPBNUDQ7pZxeBxGsqiLi.png",
-        "rarity": 1,
-        "description": "做成拐杖造型的圣诞节糖果。通常是薄荷口味。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111360,
+  "time": 1790198515,
   "version": "1.0.0-beta.43"
 }

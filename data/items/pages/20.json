@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 578,
+        "name": "高级强化石",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/yLu6G4ak7mUlGU5dge6ZK2rWVRcLM499.png",
+        "rarity": 3,
+        "description": "可强化装备的神秘强化石"
+      },
       {
         "id": 153,
         "name": "高级战术教育BD（阿比多斯）",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/kXaXmYRRa7JkFLS6gxuhmDPyyvswTFWS.png",
         "rarity": 3,
         "description": "把千禧学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 24,
-        "name": "高级战术教育BD（山海经）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OsFm2vCNBrv3ztWun7eJMV8MKKahmCmC.png",
-        "rarity": 3,
-        "description": "把山海经学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111357,
+  "time": 1790198512,
   "version": "1.0.0-beta.43"
 }

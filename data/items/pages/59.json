@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 230,
+        "name": "甜蜜的干杯",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/UwlGlXJgYslWt7jfGVL4CY41EyVamXsv.png",
+        "rarity": 1,
+        "description": "菲娜带来的酒杯造型巧克力因为是情人节的纪念品，所以实际上并是酒杯，里面装的也不是酒。"
+      },
+      {
+        "id": 1585,
+        "name": "铁砂掌巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8hPUrhzsDMLLqRHM2D8rqUkUS9zw7qYm.png",
+        "rarity": 1,
+        "description": "据说是丽情用“特殊方法”制作的铁砂掌巧克力。那清晰可见的拳印是她弄上的。"
+      },
+      {
+        "id": 2078,
+        "name": "铜碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/AvKjy1G9ojsRrslZPyS2PKVs6veML58w.png",
+        "rarity": 1,
+        "description": "铜85%，锡5%，锌5%，铅5%。表面浮现着由碱式碳酸铜形成的绿色铜锈，从断面则能窥见其氧化前鲜艳的黄褐色金属光泽。"
+      },
       {
         "id": 317,
         "name": "骰子",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/IcxUXmDPysHONKZMvygr3JIdhkOKbg1N.png",
         "rarity": 1,
         "description": "可以固定骰子的点数的票券。选择6点后会消耗此券。"
-      },
-      {
-        "id": 1332,
-        "name": "骰子固定券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lrR1cDjIlEAvcyZFxFkcnRtjN3VzMIdH.png",
-        "rarity": 1,
-        "description": "可以固定骰子的点数的票券。谁也不知道会是固定为几点的券。"
-      },
-      {
-        "id": 444,
-        "name": "图腾柱碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/m2CM7AGMNUzvW0OqLBwrkmy4SGJk4rWx.png",
-        "rarity": 1,
-        "description": "图腾柱的碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1901,
-        "name": "土豆蛋糕",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/AKq98uXDIWcDzlFKPyDsS2BGvkQ94D08.png",
-        "rarity": 1,
-        "description": "将小麦粉和炼乳、砂糖、可可和肉桂等混合后制成的巧克力蛋糕。 不论是谁都有着无限的可能性。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111398,
+  "time": 1790198558,
   "version": "1.0.0-beta.43"
 }

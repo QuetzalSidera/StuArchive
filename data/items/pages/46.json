@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 385,
+        "name": "启动石碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/06YTdOujsH08idUtoaPFmpwT9H636AtS.png",
+        "rarity": 1,
+        "description": "启动工艺室时所需的楔石的碎片。"
+      },
       {
         "id": 1902,
         "name": "千层蜂蜜蛋糕",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/kl3bvgnxwtPqSj6ccLmX6nP1LcNygrDa.png",
         "rarity": 1,
         "description": "为转换心情、提升士气或缓解紧张而制作的硬币……似乎是这样。"
-      },
-      {
-        "id": 1828,
-        "name": "前卫硬币B",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/oT7MOc6icEjZifwsJ6ZK2Lrzk0FcX287.png",
-        "rarity": 1,
-        "description": "为培养创造力和反应能力而制作的硬币……似乎是这样。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111384,
+  "time": 1790198543,
   "version": "1.0.0-beta.43"
 }

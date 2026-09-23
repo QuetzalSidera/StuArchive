@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 532,
+        "name": "诅咒娃娃设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/OAjzdyzdHve7nDNZbTpnEwhoGflTNFfS.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
+      {
+        "id": 380,
+        "name": "最高级合成用启动石",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/fuj9FLIvKRirGfKsJ0K0z3PSOrvYG5FB.png",
+        "rarity": 4,
+        "description": "启动工艺室的合成物质功能时所需的楔石。"
+      },
+      {
+        "id": 103,
+        "name": "最高级技术笔记（阿比多斯） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/vf9zKSIhfxMENKOSeR2vlhJvJACbMgAs.png",
+        "rarity": 4,
+        "description": "归纳阿比多斯高中战术核心的秘法笔记。 "
+      },
       {
         "id": 110,
         "name": "最高级技术笔记（阿里乌斯） ",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/piMfewngLgT1NnQmXKspMOC2GiUCeSME.png",
         "rarity": 4,
         "description": "归纳狂猎艺术学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 9,
-        "name": "最高级技术笔记（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ZMHprx0mm96FH4qRCdYlQ6YLgQ9jDjqS.png",
-        "rarity": 4,
-        "description": "归纳千禧科学学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 18,
-        "name": "最高级技术笔记（山海经）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/HAptV2QMo6uqjdV2rGJuS4OEmuk40cvZ.png",
-        "rarity": 4,
-        "description": "归纳山海经高级中学战术核心的秘法笔记。"
-      },
-      {
-        "id": 51,
-        "name": "最高级技术笔记（圣三一） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/RaKBZzTjancr9D4OVW7PfUGcoflpEw6h.png",
-        "rarity": 4,
-        "description": "归纳圣三一学园战术核心的秘法笔记。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111419,
+  "time": 1790198583,
   "version": "1.0.0-beta.43"
 }

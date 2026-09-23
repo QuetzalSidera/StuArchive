@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1108,
+        "name": "坏掉的古代火箭",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jOl4eUYt2W0QFeFTF6iOttsvLmIP0g5g.png",
+        "rarity": 2,
+        "description": "被破坏到无法确定原始形状的古代火箭。可用来进行各种制造及强化。"
+      },
       {
         "id": 1104,
         "name": "坏掉的黄金飞行器",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/yWRpBIj8oSsVRG04ukiJmCl7ZBxWj64j.png",
         "rarity": 1,
         "description": "黄金色闪耀的稀有羊毛制成的线，被用于制造和强化。"
-      },
-      {
-        "id": 1925,
-        "name": "徽章的万能设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/5MP2yCHMi0NAPUzNVJTMovkE92VCwG42.png",
-        "rarity": 1,
-        "description": "可以制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111364,
+  "time": 1790198519,
   "version": "1.0.0-beta.43"
 }

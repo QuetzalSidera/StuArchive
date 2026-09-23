@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 24,
+        "name": "高级战术教育BD（山海经）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/OsFm2vCNBrv3ztWun7eJMV8MKKahmCmC.png",
+        "rarity": 3,
+        "description": "把山海经学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 183,
         "name": "高级战术教育BD（圣三一）",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/OwDiQ0B1H3ierW6Fx1uNN3BmWBFPOtF5.png",
         "rarity": 3,
         "description": "可选择需要的战术教育BD的选择券"
-      },
-      {
-        "id": 398,
-        "name": "高级制造用原料",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/tyzs90lCaExv16kaq8KWeFZ6Bb7Zs1n1.png",
-        "rarity": 3,
-        "description": "用于制造的主原料"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111358,
+  "time": 1790198513,
   "version": "1.0.0-beta.43"
 }

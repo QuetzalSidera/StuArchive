@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 248,
+        "name": "薄荷巧克力百汇圣代",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XFOJEle166bnS7CdagrX00CkmSskjsCI.png",
+        "rarity": 1,
+        "description": "拥有独特口味的薄荷巧克力百汇圣代可同时享受到沁凉、香甜的甜点。"
+      },
       {
         "id": 41,
         "name": "补给品的巧克力焦糖",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/8xfV6I2IeG98ZPN5ofMiukR9eurQygCB.png",
         "rarity": 4,
         "description": "从茶会系列家具中任意选择一个家具兑换的选择箱。"
-      },
-      {
-        "id": 1387,
-        "name": "柴关特大拉面",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CUIpHkJMbgxjwb3rIYEXEYqFqoSM3JRn.png",
-        "rarity": 1,
-        "description": "浸染着老板温柔的、柴关拉面的特制菜。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111346,
+  "time": 1790198499,
   "version": "1.0.0-beta.43"
 }

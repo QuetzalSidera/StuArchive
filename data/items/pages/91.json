@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 17,
+        "name": "樱桃玫瑰唇彩",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/BAL2NMc09N9HxonVDbzDwIRQiYvK6wcA.png",
+        "rarity": 3,
+        "description": "柔和、鲜明的色彩达成和谐的唇彩，大受喜欢打扮的女性欢迎的爆红商品。"
+      },
+      {
+        "id": 141,
+        "name": "营养满分综合维生素果冻",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/oMFrt1yswhz9vsbOYR6kop05bjsRaUev.png",
+        "rarity": 4,
+        "description": "含有综合维生素的营养果冻商品。果冻拥有各种水果的味道，吃起来也很有趣。要小心可能一不小心就吃完了一整桶！"
+      },
+      {
+        "id": 272,
+        "name": "游戏杂志 『HIT GIRLS 』",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/9NZLTowSBpL2FWKP1wIr3jN0UX7vifED.png",
+        "rarity": 3,
+        "description": "不放过任何琐碎的情报。 收录基沃托斯最新游戏发售消息、经典游戏攻略、游戏周边发售等消息的游戏杂志。"
+      },
       {
         "id": 147,
         "name": "针线组合",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/5BD7FiNFwI4orV8OTQAcURiTzX7XxVux.png",
         "rarity": 4,
         "description": "写有227号温泉乡导览内容的看板。可以了解温泉乡的构造及资讯。"
-      },
-      {
-        "id": 903,
-        "name": "2nd PV纪念播放器",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/xV98l74xUzKOZaQ2hgNkyiqjgnecFrte.png",
-        "rarity": 4,
-        "description": "可播放2nd PV视频的机器"
-      },
-      {
-        "id": 904,
-        "name": "3rd PV纪念播放器",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/DT6M3II6sh94r3ycoXrj9zeqsL3fptCv.png",
-        "rarity": 4,
-        "description": "可播放3rd PV视频的机器"
-      },
-      {
-        "id": 906,
-        "name": "4.5th PV纪念播放器",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/SYwqEy2aAdpQox9Kf9bZGc4VMhoRhb7C.png",
-        "rarity": 4,
-        "description": "可播放4.5th PV视频的机器"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111431,
+  "time": 1790198596,
   "version": "1.0.0-beta.43"
 }

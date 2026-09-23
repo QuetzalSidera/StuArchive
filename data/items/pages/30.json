@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 607,
+        "name": "基础技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/KhJOVkH1pX3b7yDxQ8DRmrXOWwIvTvjk.png",
+        "rarity": 1,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用（随机获得一个格黑娜、山海经或瓦尔基里的一般技术笔记）"
+      },
       {
         "id": 618,
         "name": "基础技术笔记箱",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/uN0goZ7DIAudojC1FPAgYEtoczG3MEPq.png",
         "rarity": 1,
         "description": "把红冬学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 2,
-        "name": "基础战术教育BD（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/qvolYaW24A8ZdJfbpLfOwtlxTxxzNrke.png",
-        "rarity": 1,
-        "description": "把千禧学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111368,
+  "time": 1790198523,
   "version": "1.0.0-beta.43"
 }

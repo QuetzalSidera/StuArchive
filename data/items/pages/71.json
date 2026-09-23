@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 597,
+        "name": "一般技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/qjRHL38hBm4zW0GdkxVFm1uv4ouGeWJP.png",
+        "rarity": 2,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的一般技术笔记）"
+      },
+      {
+        "id": 609,
+        "name": "一般技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/4gxm0cpHcWZ2IwUzGrmGfdHd2vXjFy8N.png",
+        "rarity": 2,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用（随机获得一个格黑娜、山海经或瓦尔基里的一般技术笔记）"
+      },
+      {
+        "id": 619,
+        "name": "一般技术笔记箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/hAj7EDEleuu2YCV5hBoOCNvXsuCuURDH.png",
+        "rarity": 2,
+        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个百鬼夜行、圣三一或阿里乌斯的一般技术笔记）"
+      },
       {
         "id": 630,
         "name": "一般技术笔记箱",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/09f8H8A2fjBVocGOtaxUb2jrhPaOmlW8.png",
         "rarity": 2,
         "description": "把百鬼夜行学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 160,
-        "name": "一般战术教育BD（格赫娜）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/VyzqmgBm2COPMaUnUpTpELaHVTnnsVft.png",
-        "rarity": 2,
-        "description": "把格赫娜学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 1611,
-        "name": "一般战术教育BD（海兰德）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/hO0XJZG628rWKr7ccrwdKzqPojGtgtQE.png",
-        "rarity": 2,
-        "description": "把海兰德学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 190,
-        "name": "一般战术教育BD（红冬）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/xGMgyv5A6Fv4i5Itm6YVuPq0L2nRXkiv.png",
-        "rarity": 2,
-        "description": "把红冬学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111410,
+  "time": 1790198573,
   "version": "1.0.0-beta.43"
 }

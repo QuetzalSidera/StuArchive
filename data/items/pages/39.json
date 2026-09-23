@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1616,
+        "name": "谜之货物",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lxnGps1cuEPcttwLxyKHgPDB7GBxHoQu.png",
+        "rarity": 1,
+        "description": "装有货物的木箱。虽然很在意里面装的是什么，但不应随意打开。"
+      },
       {
         "id": 1908,
         "name": "谜之健康用品",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/MBfus6kWelTBOLcko3GrYhf87l95cL6z.png",
         "rarity": 1,
         "description": "可在自动售货机上使用的储值卡。只要随身带着，在面吉拉面自动售货机消费时就会自动打折。"
-      },
-      {
-        "id": 1319,
-        "name": "明太子味薯片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/D9CTCDUrwK7SQbSMQlWHnFWDwUY1SWws.png",
-        "rarity": 1,
-        "description": "桃香喜欢吃的明太子味薯片。其咸咸的风味堪称绝品。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111377,
+  "time": 1790198534,
   "version": "1.0.0-beta.43"
 }

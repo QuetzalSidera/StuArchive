@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 126,
+        "name": "手工巧克力SNAIL",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Rh6ZYoj3q9XjdtLAccp8qCL7Y7jOdbmY.png",
+        "rarity": 1,
+        "description": "爱丽丝以游戏内的怪兽“Snail”为灵感制作而成的手工巧克力道具，但不管怎么看都看不出Snail的影子。"
+      },
       {
         "id": 1078,
         "name": "手工巧克力棒",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/nTn7BjJQZDjo1OhQQgtU9phtA5ZCL5gv.png",
         "rarity": 1,
         "description": "水豚造型的固体入浴剂。放到水中会渐渐融化并散发柑橘香"
-      },
-      {
-        "id": 283,
-        "name": "水中活动装备",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/r2ik4YrCGiM7K2ojbkDLoH1eDdo66Hhe.png",
-        "rarity": 1,
-        "description": "包含潜水面镜及呼吸器等的正式水中活动装备。不建议用于水深50m以下。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111395,
+  "time": 1790198555,
   "version": "1.0.0-beta.43"
 }

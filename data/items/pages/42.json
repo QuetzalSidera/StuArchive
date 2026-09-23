@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 2003,
+        "name": "女王之星",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XXXhh2fEEsfezQ7VZ23F0amzbMlxKnQc.png",
+        "rarity": 1,
+        "description": "胜利的象征。据说只要集齐五颗，也许能得到能够实现任何愿望的“Queen任意券”？"
+      },
       {
         "id": 528,
         "name": "暖暖贴设计图",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/RC3WGoclu3LPGck6zqDJFaKpxqUwHM8v.png",
         "rarity": 4,
         "description": "可以选择任意欧帕兹的选择箱。"
-      },
-      {
-        "id": 508,
-        "name": "佩洛洛背包设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/aBDypqnMzqoyuquXRJvgjrdaAo0DSaff.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111380,
+  "time": 1790198537,
   "version": "1.0.0-beta.43"
 }

@@ -7,13 +7,13 @@
     "api_path": "/data/equipments/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/"
   },
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "list_key": "equipment",
   "id_key": "id",
   "max_page": 8,
   "synced_pages": 8,
-  "total_items": 75,
-  "details_synced": 75,
+  "total_items": 78,
+  "details_synced": 78,
   "details_enabled": true,
   "items": [
     {
@@ -540,6 +540,27 @@
       "name_cn": "",
       "is_favorite": true,
       "icon": "https://static.kivo.wiki/images/equipment/icon/4w70Me5eODEjh4CDRffvpcXGglL5TaKb.png"
+    },
+    {
+      "id": 84,
+      "name": "古老的魔法帽",
+      "name_cn": "",
+      "is_favorite": true,
+      "icon": "https://static.kivo.wiki/images/equipment/icon/1HEVt5M0EMWLxFt8jvvsG4lOo5RVfrIx.png"
+    },
+    {
+      "id": 85,
+      "name": "女仆的花边围裙",
+      "name_cn": "",
+      "is_favorite": true,
+      "icon": "https://static.kivo.wiki/images/equipment/icon/YUunJuGplpZpO9qRmKYDeTs0TNBxGfPE.png"
+    },
+    {
+      "id": 86,
+      "name": "爱书之人的坐垫",
+      "name_cn": "",
+      "is_favorite": true,
+      "icon": "https://static.kivo.wiki/images/equipment/icon/kModCtqIwXN2JJB11oqAqzEVg8GC10D7.png"
     }
   ],
   "pages": [
@@ -597,7 +618,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/?page=8",
       "path": "equipments/pages/8.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/pages/8.json",
-      "item_count": 5
+      "item_count": 8
     }
   ],
   "details": [
@@ -1050,13 +1071,31 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/83",
       "path": "equipments/83.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/83.json"
+    },
+    {
+      "id": 84,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/84",
+      "path": "equipments/84.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/84.json"
+    },
+    {
+      "id": 85,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/85",
+      "path": "equipments/85.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/85.json"
+    },
+    {
+      "id": 86,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/equipments/86",
+      "path": "equipments/86.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/86.json"
     }
   ],
   "lookup": {
     "path": "equipments/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/lookup.json",
-    "alias_count": 76,
-    "normalized_alias_count": 76,
-    "total_items": 75
+    "alias_count": 79,
+    "normalized_alias_count": 79,
+    "total_items": 78
   }
 }

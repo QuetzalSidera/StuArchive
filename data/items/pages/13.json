@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1752,
+        "name": "大理石方块",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jUBIMk3ITcRw9lhxyguHzLUxFQsruiWO.png",
+        "rarity": 1,
+        "description": "雕刻用的大理石方块 。 在纯白的表面上雕刻你的梦想吧 。"
+      },
       {
         "id": 111,
         "name": "大量的板状巧克力",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/gVOpv1xerqu7yTsIzcJH044UizHJe5Ym.png",
         "rarity": 1,
         "description": "引导游客用的导游旗。给方向感差的学生们指路大有用处。"
-      },
-      {
-        "id": 1365,
-        "name": "倒计时日历",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Mx19VPvSsdO57Gzhac8FsViRrvvcJb9s.png",
-        "rarity": 1,
-        "description": "一天天倒数，直至决战之日的日历。时不我待！"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111350,
+  "time": 1790198504,
   "version": "1.0.0-beta.43"
 }

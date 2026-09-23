@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1986,
+        "name": "设施入场券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6SoZcO0ZULgylDwxRHEP2SIXKYcJwp0T.png",
+        "rarity": 1,
+        "description": "用于进入观光设施的入场券。团购有优惠。"
+      },
       {
         "id": 169,
         "name": "社长的顶级巧克力",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/gI7xhlLQiqs7hfEH58bcuSVONDyTC8kQ.png",
         "rarity": 1,
         "description": "扣动板机时向撞针传递力量的零件，由于管理不善处处生锈。用于强化固有武器。  用于强化 AR、GL、RL 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 592,
-        "name": "生锈的击针",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/pnghQljOPDJxBKUbAXVwP7vIlaYlGvsf.png",
-        "rarity": 1,
-        "description": "用来撞击并引燃弹丸雷管的金属棒，未经保养，到处都生锈了。用于强化固有武器。  用于强化任何类型武器时提供 1.5 倍经验"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111391,
+  "time": 1790198551,
   "version": "1.0.0-beta.43"
 }

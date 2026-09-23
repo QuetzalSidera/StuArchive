@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1622,
+        "name": "海兰德导盲砖",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/8rOi0i7hKloyPeTEwH3PVi3hyRMmDw00.png",
+        "rarity": 2,
+        "description": "仅凭足底触感就能辨别行进路线的铺设物。海兰德规定必须铺设。"
+      },
+      {
+        "id": 1649,
+        "name": "海兰德地板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Y8tHGpw6z7Rycpl7Qij8B1YaTLC0T3nI.png",
+        "rarity": 3,
+        "description": "仿佛方格纸般的地板。拿来布置物品用正好。"
+      },
+      {
+        "id": 1620,
+        "name": "海兰德发车时刻表",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Rxb4KY1OluYfIvgajcG99bGDPlF3nSr3.png",
+        "rarity": 2,
+        "description": "用于指示下一站目的地和发车时间的发车时刻表。由于经常损坏，必须得定期检修。"
+      },
+      {
+        "id": 1644,
+        "name": "海兰德高级餐车桌",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/e247ZIwbpgGVfdgmqiz4cdG5c9YbnIFq.png",
+        "rarity": 3,
+        "description": "特等座专用餐车桌。竟然还能点套餐料理！"
+      },
       {
         "id": 1624,
         "name": "海兰德高级储物柜",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/SoslY40JUqSWF5osLaqsofhIxyUSuiPU.png",
         "rarity": 2,
         "description": "放于站内的广告展板。据说各车站的广告申请方式不尽相同。"
-      },
-      {
-        "id": 1621,
-        "name": "海兰德候车室长椅",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/EcQqxD5J7U9O1v2BLhbkXIJaFA46GwFE.png",
-        "rarity": 2,
-        "description": "可供多人就坐的长椅。卧躺或者岔开腿坐，都很不文明！"
-      },
-      {
-        "id": 1631,
-        "name": "海兰德列车墙面隔断A",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/txjuyWgQCGBWOrlpcIszs3LqJCGH0hZZ.png",
-        "rarity": 2,
-        "description": "以列车车身为主题制作的隔断。虽然窗户无法开关，但也别有一番趣味。"
-      },
-      {
-        "id": 1639,
-        "name": "海兰德列车墙面隔断B",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/ziZsKtB3RC2j7cq1cymb43xHZNZISMjr.png",
-        "rarity": 3,
-        "description": "以列车车厢为主题制作的隔断。窗户比A型更厚。"
-      },
-      {
-        "id": 1623,
-        "name": "海兰德普通储物柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/XkK3lnEsD3ZqupbBfdWD4aOGwDhXkL2C.png",
-        "rarity": 2,
-        "description": "支付信用点后，能寄存物品一段时间的储物柜。使用起来很方便。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111471,
+  "time": 1790198641,
   "version": "1.0.0-beta.43"
 }

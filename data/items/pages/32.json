@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 359,
+        "name": "基础战术教育BD选择券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/1PIAEczOweHGSe7l8gNy25jj6ffdA6aU.png",
+        "rarity": 1,
+        "description": "可选择需要的战术教育BD的选择券"
+      },
       {
         "id": 1310,
         "name": "吉兆鲷",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/7BJrNt5QOhnxPgxQHoEBB8gdl5us7mBx.png",
         "rarity": 2,
         "description": "从蓝色稀有度家具中任意选择一个家具兑换的选择箱。"
-      },
-      {
-        "id": 2048,
-        "name": "家具选择箱(紫)",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Mvef3w1mxdddlKKkmKmB6AHeQV0XiXiy.png",
-        "rarity": 4,
-        "description": "从紫色稀有度家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111370,
+  "time": 1790198525,
   "version": "1.0.0-beta.43"
 }

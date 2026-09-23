@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 878,
+        "name": "拐杖糖",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FbMJOvPrpwqVXPBNUDQ7pZxeBxGsqiLi.png",
+        "rarity": 1,
+        "description": "做成拐杖造型的圣诞节糖果。通常是薄荷口味。"
+      },
       {
         "id": 1360,
         "name": "观剧镜",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/OjT6bHXPShFxqhXJWBs24Z3UDf5NVQNf.png",
         "rarity": 1,
         "description": "乘坐海兰德列车时能获得的纪念品。上面印有可爱的吉祥物。"
-      },
-      {
-        "id": 2043,
-        "name": "海兰德列车系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/zpEK3xU4jAtuuR9slXqzo77rPbstzyHq.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个海兰德列车系列家具的抽选箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111361,
+  "time": 1790198516,
   "version": "1.0.0-beta.43"
 }

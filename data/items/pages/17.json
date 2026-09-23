@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1320,
+        "name": "干净的发箍",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ELZX0DM7xBcEL2ZZImWQGXGnY78z8F6I.png",
+        "rarity": 1,
+        "description": "发带的一种。据说，整理干净的发箍是展示女仆之力的必需品。"
+      },
       {
         "id": 509,
         "name": "绀蓝书包设计图",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/grREVEjh1t34VO4gfTpif869nZK0fR7O.png",
         "rarity": 1,
         "description": "装有甜甜的葡萄汁的玻璃材质鸡尾酒杯。单手握持，轻轻摇晃就能营造出老式的气氛。"
-      },
-      {
-        "id": 102,
-        "name": "高级技术笔记（阿比多斯） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/SsnK46yabxaYkC6soU4O4lcAW9eAJvlE.png",
-        "rarity": 3,
-        "description": "归纳阿比多斯高中战术核心的秘法笔记。 "
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111354,
+  "time": 1790198508,
   "version": "1.0.0-beta.43"
 }

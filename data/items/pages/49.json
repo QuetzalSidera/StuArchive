@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 310,
+        "name": "巧克力硬币",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/HCGxkdLuS58OA0qb5OzAdvp59Yoi0DZC.png",
+        "rarity": 1,
+        "description": "Golden Fleece号的代表性零食之一。虽然不是真正的硬币，但因为滋味可口，在学生之间很受欢迎。"
+      },
       {
         "id": 1084,
         "name": "巧克力月饼",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/uI6jSA1WHFPRUqn0ciKDo8pbKaltfTVj.png",
         "rarity": 1,
         "description": "茱莉为了送给老师而倾尽全力制作的手工巧克力。不尝味道，光是用看的的确可以感受到茱莉百分之百的真心。"
-      },
-      {
-        "id": 98,
-        "name": "情人节佩洛洛",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/GE55PcfittaZTMf81YEEWg70hIeIWrfJ.png",
-        "rarity": 1,
-        "description": "为庆祝情人节而推出的佩洛洛造型巧克力。因为是季节限定商品，所以在粉丝之间引起了一阵风潮。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111387,
+  "time": 1790198546,
   "version": "1.0.0-beta.43"
 }

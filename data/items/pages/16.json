@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 403,
+        "name": "斐斯托斯圆盘碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/diuCSFFbrTJU6PMIOOu8biFdBok1RaZV.png",
+        "rarity": 1,
+        "description": "斐斯托斯圆盘的碎块。可用来进行各种制造及强化。"
+      },
       {
         "id": 1825,
         "name": "分析U盘",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/S6DhAQjf6oqo93pbYAGg3zzzCPLumLYI.png",
         "rarity": 1,
         "description": "放在码头上干硬的海星。既不能食用也不易腐烂，村民们很是受此困扰，但美游却对它有奇妙的亲近感。"
-      },
-      {
-        "id": 1320,
-        "name": "干净的发箍",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ELZX0DM7xBcEL2ZZImWQGXGnY78z8F6I.png",
-        "rarity": 1,
-        "description": "发带的一种。据说，整理干净的发箍是展示女仆之力的必需品。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111353,
+  "time": 1790198507,
   "version": "1.0.0-beta.43"
 }

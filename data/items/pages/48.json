@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 132,
+        "name": "巧克力螺丝",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/zqlSQUWAzY05vPIxy0ygbc3NJ4IFL7iP.png",
+        "rarity": 1,
+        "description": "雕刻成螺丝造型并镶上银箔的巧克力。外观看起来就跟真的螺丝一样，但可不能拿来当成工具使用。"
+      },
       {
         "id": 45,
         "name": "巧克力墨水",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/RnTe1vohdULxALuiOm0ic7hQenZfjS7I.png",
         "rarity": 1,
         "description": "玛丽送的修女像。用巧克力做成的。可能从一开始就不是做来吃的，只是拿来摆着好看而已。"
-      },
-      {
-        "id": 310,
-        "name": "巧克力硬币",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/HCGxkdLuS58OA0qb5OzAdvp59Yoi0DZC.png",
-        "rarity": 1,
-        "description": "Golden Fleece号的代表性零食之一。虽然不是真正的硬币，但因为滋味可口，在学生之间很受欢迎。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111386,
+  "time": 1790198545,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 419,
+        "name": "罗洪特抄本书页",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/kExnyIZoWTDCzQwYyfA885Mu5A3y7Fxd.png",
+        "rarity": 1,
+        "description": "从书上撕下的罗洪特抄本的书页。可用来进行各种制造及强化。"
+      },
       {
         "id": 520,
         "name": "罗蕾莱徽章设计图",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/lOVCfzuFBbwQgCCOHvIY2Yv8mwm4KwhM.png",
         "rarity": 1,
         "description": "可以制作装备的设计图。"
-      },
-      {
-        "id": 186,
-        "name": "没收的违法便宜点心",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/7jhLhAdi3bBGfe42XmuUwdlpiHhWvCKR.png",
-        "rarity": 1,
-        "description": "在情人节巡逻工作途中从问题儿童手中没收的便宜点心。据说是未经许可便在地下社会制造流通的商品。因为不健康的口味在问题儿童间非常有人气。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111375,
+  "time": 1790198531,
   "version": "1.0.0-beta.43"
 }

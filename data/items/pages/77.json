@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1831,
+        "name": "运输船系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/wiXCFPkJNgnXMIguS5Pf8rkldsYOjDzL.png",
+        "rarity": 4,
+        "description": "从运输船系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      {
+        "id": 1322,
+        "name": "宅邸邀请函",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/dUkMEvCP8lMUFY6yX6kwVcgDnEEPKyUU.png",
+        "rarity": 1,
+        "description": "从历史悠久的宅邸寄来的邀请函。有传言说，那里同时发生了多起离奇事件。"
+      },
+      {
+        "id": 1093,
+        "name": "战略领袖亲手制作的巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0WIiUlRAXOifVy8PDmIvuPoae8bo4yE8.png",
+        "rarity": 1,
+        "description": "果穗为老师做的手工巧克力。乍一看像是简单的宣传商品，但精心刻下的每一个字都很讲究。"
+      },
       {
         "id": 503,
         "name": "战术长靴设计图",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/i2qZbIXQI9nG2WBIjY9cK1JWwOPo62rS.png",
         "rarity": 1,
         "description": "原木桌，包含能遮挡阳光的遮阳伞。优雅的淑女即使在海边也不能错过午茶时间。"
-      },
-      {
-        "id": 493,
-        "name": "针织连指手套设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/RWbCQkswyB6W1O1Z2RgUZfLB8COsp9Nx.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 486,
-        "name": "针织毛线帽设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/M1zan4z8mvqZlDEpOfml5lV9wdWiN6jT.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 499,
-        "name": "珍珠纱线手套设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/BfAjCe5zljyY3pfDMWIppTPbqiygXUkB.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111416,
+  "time": 1790198579,
   "version": "1.0.0-beta.43"
 }

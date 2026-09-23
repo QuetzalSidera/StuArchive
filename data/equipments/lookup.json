@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "equipments",
   "description": "Equipment records.",
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "id_key": "id",
   "source_index": {
     "path": "equipments/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 75,
-  "alias_count": 76,
-  "normalized_alias_count": 76,
+  "total_items": 78,
+  "alias_count": 79,
+  "normalized_alias_count": 79,
   "by_id": {
     "2": {
       "id": 2,
@@ -1062,6 +1062,48 @@
       },
       "detail_path": "equipments/83.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/83.json"
+    },
+    "84": {
+      "id": 84,
+      "source_path": "equipments/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/index.json",
+      "item": {
+        "id": 84,
+        "name": "古老的魔法帽",
+        "name_cn": "",
+        "is_favorite": true,
+        "icon": "https://static.kivo.wiki/images/equipment/icon/1HEVt5M0EMWLxFt8jvvsG4lOo5RVfrIx.png"
+      },
+      "detail_path": "equipments/84.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/84.json"
+    },
+    "85": {
+      "id": 85,
+      "source_path": "equipments/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/index.json",
+      "item": {
+        "id": 85,
+        "name": "女仆的花边围裙",
+        "name_cn": "",
+        "is_favorite": true,
+        "icon": "https://static.kivo.wiki/images/equipment/icon/YUunJuGplpZpO9qRmKYDeTs0TNBxGfPE.png"
+      },
+      "detail_path": "equipments/85.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/85.json"
+    },
+    "86": {
+      "id": 86,
+      "source_path": "equipments/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/index.json",
+      "item": {
+        "id": 86,
+        "name": "爱书之人的坐垫",
+        "name_cn": "",
+        "is_favorite": true,
+        "icon": "https://static.kivo.wiki/images/equipment/icon/kModCtqIwXN2JJB11oqAqzEVg8GC10D7.png"
+      },
+      "detail_path": "equipments/86.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/86.json"
     }
   },
   "by_alias": {
@@ -1292,6 +1334,15 @@
     ],
     "花形发夹": [
       "83"
+    ],
+    "古老的魔法帽": [
+      "84"
+    ],
+    "女仆的花边围裙": [
+      "85"
+    ],
+    "爱书之人的坐垫": [
+      "86"
     ]
   },
   "by_normalized_alias": {
@@ -1522,6 +1573,15 @@
     ],
     "花形发夹": [
       "83"
+    ],
+    "古老的魔法帽": [
+      "84"
+    ],
+    "女仆的花边围裙": [
+      "85"
+    ],
+    "爱书之人的坐垫": [
+      "86"
     ]
   }
 }

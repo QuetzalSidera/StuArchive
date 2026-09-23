@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 181,
+        "name": "问题儿童悔过书",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/WpmlnWpfOICob51Cm6i7lsT4KQnygMrV.png",
+        "rarity": 1,
+        "description": "負責情人節巡邏工作的老師制服問題兒童後收到的悔過書。內容出乎意料地紮實。"
+      },
+      {
+        "id": 408,
+        "name": "沃普赛克铁块",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PuNEFl13saEsN4g8miYIgsagFmyyZh7G.png",
+        "rarity": 2,
+        "description": "在冶炼中掉出来的沃普赛克铁块。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 407,
+        "name": "沃普赛克铁矿",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6nNP9wQXfnbZD9bpoAjAttYNyWrTAsYf.png",
+        "rarity": 1,
+        "description": "未冶炼的沃普赛克铁矿。可用来进行各种制造及强化。"
+      },
       {
         "id": 299,
         "name": "乌龟菇",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/PX1fU5mgxJ10hGQ7OiKfniKSr5ipSYb5.png",
         "rarity": 1,
         "description": "用于制造的主原料"
-      },
-      {
-        "id": 243,
-        "name": "夏日用忍法图鉴卷轴",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/tB58daVrl9C8uSaD2MyJD2mK8Xni5dfu.png",
-        "rarity": 1,
-        "description": "写有许多能在夏日使用的各种忍法（创作）的卷轴。大多都与会在夏天发生的安全事故有关。对忍者来说，也是安全第一！"
-      },
-      {
-        "id": 287,
-        "name": "夏天用混混太阳眼镜",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/18XqjzlExG2A6ojtKdTBRTQG9Esfo84Z.png",
-        "rarity": 1,
-        "description": "风纪委员会从引发夏日海边骚动的滋事份子—海边的混混手中没收的太阳眼镜。 上面有因无谓的抵抗而留下的痕迹。"
-      },
-      {
-        "id": 166,
-        "name": "献给你一口的休息时间",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/sJsYowMbVXbLBp1uY3zuZE74skfZ2DUp.png",
-        "rarity": 1,
-        "description": "亚子严选食材亲手制作而成的巧克力。就如同秘书一样的贴心，有意识地打造出让便于人无意识间入口的巧克力。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111403,
+  "time": 1790198564,
   "version": "1.0.0-beta.43"
 }

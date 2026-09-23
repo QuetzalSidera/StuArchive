@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 508,
+        "name": "佩洛洛背包设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/aBDypqnMzqoyuquXRJvgjrdaAo0DSaff.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 494,
         "name": "佩洛洛隔热手套设计图",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/Y5tUbm63fw83s9M81JjpJw1JpYtu5E3N.png",
         "rarity": 2,
         "description": "破损得难以看出外形的安迪基西拉装置。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 365,
-        "name": "破损的长发娃娃",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Ekl2EGoitOD5eF70ZHxRjGJLWg63tNN2.png",
-        "rarity": 2,
-        "description": "严重破损、外观难辨的长发娃娃。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111381,
+  "time": 1790198539,
   "version": "1.0.0-beta.43"
 }

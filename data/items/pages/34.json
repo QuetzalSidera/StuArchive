@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1370,
+        "name": "救生圈",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XkNpwVkKPcL4H5Jbchel5sDqvpY0ku6l.png",
+        "rarity": 1,
+        "description": "援救溺水者时使用的救生圈。投出前请确认绳索是否绑好。"
+      },
       {
         "id": 1371,
         "name": "救生衣",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/aHYJQIO6GfXfRoqBJ0WlupGnb6cCJ5ic.png",
         "rarity": 1,
         "description": "春香为了老师所准备的超昂贵巧克力。99.99%这个数字代表的或许不只是巧克力的纯度而已。"
-      },
-      {
-        "id": 518,
-        "name": "可可恶魔徽章设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/rsJynA3E6dXFvKRZTnodscfHEQMYgCyT.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111372,
+  "time": 1790198527,
   "version": "1.0.0-beta.43"
 }

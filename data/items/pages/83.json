@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 5,
+        "name": "最高级战术教育BD（千禧）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XhSP6sOpQ1XWugZvFYjNKOPWfdr57beX.png",
+        "rarity": 4,
+        "description": "把千禧学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 26,
+        "name": "最高级战术教育BD（山海经）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/4TkNuNjmWRIOGaRDWTgsEB5K6giLc7RH.png",
+        "rarity": 4,
+        "description": "把山海经学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 185,
+        "name": "最高级战术教育BD（圣三一）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/sgAnDz1Y6JojaExj2gqgiOvSrSFKbstu.png",
+        "rarity": 4,
+        "description": "把圣三一学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 138,
         "name": "最高级战术教育BD（瓦尔基里）",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/AauWBfZtVsmFsEEMY9YUjAGanqrgqBmC.png",
         "rarity": 4,
         "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个阿比多斯、千禧或红冬的基础战术教育BD）"
-      },
-      {
-        "id": 363,
-        "name": "最高级战术教育BD选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/X8v6trxz4Uhe5DpiPYKBzQv9Ijw7FJcE.png",
-        "rarity": 4,
-        "description": "可选择需要的战术教育BD的选择券  选择获得以下物品中的一件"
-      },
-      {
-        "id": 1582,
-        "name": "最强☆巧克力可丽饼",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/s7ZJB5ASPO09KcSsrp3GaRLKASpwR51D.png",
-        "rarity": 1,
-        "description": "绮良在多次失败后完成的手工可丽饼。那份真心是打不了分的。"
-      },
-      {
-        "id": 32,
-        "name": "最强的巧克力恐龙",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/3vwcU55gdB7IhMDJWM6Eqr5w2tnYhtlJ.png",
-        "rarity": 1,
-        "description": "枫制作的最强巧克力恐龙。将失败的恐龙挖掘巧克力的碎片组合，凭借这一逆转性的想法制作而成。这块看着有趣吃着开心的巧克力，强烈彰显着她的个性。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111422,
+  "time": 1790198587,
   "version": "1.0.0-beta.43"
 }

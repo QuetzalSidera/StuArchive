@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1822,
+        "name": "忍者耳饰",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CIPB8uNTRpraIo499qZ3ttTullrZY8DV.png",
+        "rarity": 1,
+        "description": "造型简约的耳环。乍看只是普通饰品，但你深知这个形状背后的真意。"
+      },
       {
         "id": 191,
         "name": "忍者巧克力第49号组合！",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ObFqdQoUQlDXuIPom6oQD7ctMA1pvdmM.png",
         "rarity": 4,
         "description": "使用时以相同的概率获得1个三一教室系列家具的抽选箱。"
-      },
-      {
-        "id": 1410,
-        "name": "三一教室系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ZvyjvYMUain4XaKAUISyT0cvhzPl530Z.png",
-        "rarity": 4,
-        "description": "从三一教室系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111389,
+  "time": 1790198549,
   "version": "1.0.0-beta.43"
 }

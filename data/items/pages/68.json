@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 395,
+        "name": "悬赏通缉硬币",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/sbcsJfH7syFfUeXxffMcjwoxGecFTp2c.png",
+        "rarity": 1,
+        "description": "可于悬赏通缉商店中使用的硬币。"
+      },
+      {
+        "id": 232,
+        "name": "学院交流会传单",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/03mjBMag62tw2yawRZtZkyGuByRWHWuY.png",
+        "rarity": 1,
+        "description": "公告百鬼夜行和格黑娜学园间的交流会将要举办的传单。上面除了有主办人尼娅的问候，也有这次交流会的主要行程。"
+      },
+      {
+        "id": 540,
+        "name": "雪花吊坠设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/V1quhYGIoPhLTBoljzHascprImdHrQ2o.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 500,
         "name": "雪靴设计图",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/0415lHUZ4CCwfrE68SgAdDoyGPyUX0bR.png",
         "rarity": 1,
         "description": "装满了潜水所需空气的气瓶。下潜前必须确认剩余气压。"
-      },
-      {
-        "id": 1515,
-        "name": "妖怪MAX梅干味",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/aFjFX2FUTW368fBOlxTf9bKQ5POuACeq.png",
-        "rarity": 1,
-        "description": "难以形容的「妖怪MAX」。<br>据狂热爱好者所说，其残留于口中的梅干香味让人欲罢不能。"
-      },
-      {
-        "id": 1895,
-        "name": "妖怪巧克力玛芬",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/THRv7kG9BFinSyTSHkOanHPbsfiDrKfp.png",
-        "rarity": 1,
-        "description": "装饰着可爱妖怪的玛芬蛋糕。总感觉看着它的时候听得到庚的声音。"
-      },
-      {
-        "id": 2068,
-        "name": "咬嘴",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Nb5ihugq00IhNI29WQcbckM3sCHzjEtq.png",
-        "rarity": 1,
-        "description": "连接在呼吸管上的咬嘴。由于初学者有时会咬得很紧，潜水部通常常备备用件。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111407,
+  "time": 1790198569,
   "version": "1.0.0-beta.43"
 }

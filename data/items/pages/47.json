@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1828,
+        "name": "前卫硬币B",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/oT7MOc6icEjZifwsJ6ZK2Lrzk0FcX287.png",
+        "rarity": 1,
+        "description": "为培养创造力和反应能力而制作的硬币……似乎是这样。"
+      },
       {
         "id": 2069,
         "name": "潜水配重",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/t1ABjTtXQ3YN3alozijib9WRcihiZUPU.png",
         "rarity": 1,
         "description": "和实际的凉鞋尺寸一样大的特大巧克力。有着和外观不相称的结实，甚至穿着走路也没有任何问题。"
-      },
-      {
-        "id": 132,
-        "name": "巧克力螺丝",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/zqlSQUWAzY05vPIxy0ygbc3NJ4IFL7iP.png",
-        "rarity": 1,
-        "description": "雕刻成螺丝造型并镶上银箔的巧克力。外观看起来就跟真的螺丝一样，但可不能拿来当成工具使用。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111385,
+  "time": 1790198544,
   "version": "1.0.0-beta.43"
 }

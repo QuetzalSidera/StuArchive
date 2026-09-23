@@ -2,8 +2,56 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1023,
+        "name": "新鲜鱼箱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/SpRGHSzFfr4D6mwdxNJ8ceXaJgjQGSon.png",
+        "rarity": 4,
+        "description": "装了满满的鱼的鱼箱。如果不小心把它拿起来，鱼可能会逃走哦！"
+      },
+      {
+        "id": 698,
+        "name": "汹涌波浪横幅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/rk4cYX8cZWfYxJiATmxxQPKcy7chXtct.png",
+        "rarity": 3,
+        "description": "画着汹涌波浪的横幅。加强了大海的凉爽。"
+      },
+      {
+        "id": 1558,
+        "name": "休息室长椅·A型",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/jQyAqR512NSCu6zFnMX8Os1eLMtlKFnC.png",
+        "rarity": 3,
+        "description": "呈A字形状的长椅。配有柔软的坐垫，坐上去很舒服。"
+      },
+      {
+        "id": 1537,
+        "name": "休息室的显示屏",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/CJzWVMopgQ0yXHmpx6uaVr7UuPpF2FNJ.png",
+        "rarity": 2,
+        "description": "为造访休息室的学生提供信息的显示器。可以进行触屏操作。"
+      },
+      {
+        "id": 1562,
+        "name": "休息室地图显示屏",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/EavGbc9EnBEjSIJcv08sVYFGRevuQLWs.png",
+        "rarity": 3,
+        "description": "显示着千禧塔休息室地图的显示屏。有想去的地方就在这里确认一下吧！"
+      },
+      {
+        "id": 1578,
+        "name": "休息室引导机器人",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/fwaGRgCNk26xrTRexhLtiqsO4aiSxD57.png",
+        "rarity": 4,
+        "description": "休息室内引路的机器人。因为面板上会显示感情丰富的表情，在学生当中很有人气。"
+      },
       {
         "id": 1577,
         "name": "休息室引导无人机",
@@ -35,59 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/kegAM6LBTV6cEzx1C9yNVt4Yp7K6I7hs.png",
         "rarity": 4,
         "description": "玄龙门代代相传的宝座。尽管外观相当华丽，可坐在上面的感觉很难说是舒服的。"
-      },
-      {
-        "id": 1690,
-        "name": "雪花白大理石图案地毯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/cX5tSJPiHwnxDtHcJ5jEXR7cYG2d8e2Y.png",
-        "rarity": 2,
-        "description": "模仿高级大理石图案的地毯，工艺精湛，与真品难以区分。"
-      },
-      {
-        "id": 767,
-        "name": "雪花花纹渐层背景",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/o9UfUe5B3UxnWq52eemTYDpRWXkqb9kk.png",
-        "rarity": 4,
-        "description": "呼应着冬日氛围的雪花花纹渐层背景。看似冰冷却带给人一股温暖的感受。"
-      },
-      {
-        "id": 2005,
-        "name": "训练场地板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/fyH7qRNwx8fOgYv6OmXppGbG02HIp5Zn.png",
-        "rarity": 2,
-        "description": "铺了一层柔软的沙子的训练场地板。就算摔倒也没问题。"
-      },
-      {
-        "id": 2028,
-        "name": "训练场回廊地板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/blEaMAKR3WQj2EPBkUz2TiJE4MCDYYc9.png",
-        "rarity": 3,
-        "description": "回廊的石板路面。请勿奔跑。"
-      },
-      {
-        "id": 2016,
-        "name": "训练用靶纸",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/Lng6T8ZInogNKFtreVK0imamzjVX8ufy.png",
-        "rarity": 2,
-        "description": "训练用靶纸。重要的是弹着组。"
-      },
-      {
-        "id": 2032,
-        "name": "训练用木人桩",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/Lkhit8CMRXVACUnvfzKTGWdKMMLcLIJ9.png",
-        "rarity": 3,
-        "description": "训练用的木桩。精神上的混乱会表现为动作的混乱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111525,
+  "time": 1790198698,
   "version": "1.0.0-beta.43"
 }

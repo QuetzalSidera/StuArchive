@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1319,
+        "name": "明太子味薯片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/D9CTCDUrwK7SQbSMQlWHnFWDwUY1SWws.png",
+        "rarity": 1,
+        "description": "桃香喜欢吃的明太子味薯片。其咸咸的风味堪称绝品。"
+      },
       {
         "id": 378,
         "name": "磨耗的温尼珀索基石头",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/CC7r23CChuW8HIsIyqf5WhDjqToz7rhP.png",
         "rarity": 1,
         "description": "在会场捡到的遗失物。为了失主着想，还是尽快送还吧。"
-      },
-      {
-        "id": 1671,
-        "name": "木雕人偶（桔梗）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lFsCIpUlrXsJ5DntxIJFdbosqKJWJBa4.png",
-        "rarity": 1,
-        "description": "桔梗做的自己的木雕人偶。似乎很容易浮在水上。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111378,
+  "time": 1790198535,
   "version": "1.0.0-beta.43"
 }

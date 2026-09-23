@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "list_key": "model",
   "id_key": "id",
   "max_page": 54,
   "synced_pages": 54,
-  "total_items": 531,
-  "details_synced": 531,
+  "total_items": 533,
+  "details_synced": 533,
   "details_enabled": true,
   "items": [
     {
@@ -2670,6 +2670,16 @@
       "id": 548,
       "name": "CH0369_Halo",
       "type": "halo"
+    },
+    {
+      "id": 549,
+      "name": "CH0320_Halo",
+      "type": "halo"
+    },
+    {
+      "id": 550,
+      "name": "CH0321_Halo",
+      "type": "halo"
     }
   ],
   "pages": [
@@ -3049,7 +3059,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=54",
       "path": "models/pages/54.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/54.json",
-      "item_count": 1
+      "item_count": 3
     }
   ],
   "details": [
@@ -6238,13 +6248,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/548",
       "path": "models/548.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/548.json"
+    },
+    {
+      "id": 549,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/549",
+      "path": "models/549.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/549.json"
+    },
+    {
+      "id": 550,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/550",
+      "path": "models/550.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/550.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 531,
-    "normalized_alias_count": 531,
-    "total_items": 531
+    "alias_count": 533,
+    "normalized_alias_count": 533,
+    "total_items": 533
   }
 }

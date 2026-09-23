@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1698,
+        "name": "古典书车",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/DTKbWBLdtrIpvhaRGBfeVRaU99fgL1p4.png",
+        "rarity": 2,
+        "description": "运书用的书车。在圣三一，纸质书比电子书更受欢迎，图书管理员们推着它忙得团团转。"
+      },
+      {
+        "id": 1241,
+        "name": "古典双层餐车",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Lypuo4VL0519PcuGi5YxqZL6ul26PKav.png",
+        "rarity": 3,
+        "description": "无论下午茶还是晚宴都适用的古典双层餐车。总是保持着清洁，等待贵宾的光临。"
+      },
+      {
+        "id": 1254,
+        "name": "古典台灯桌",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/NFfa4kt95Tc82lkJAKQelGckxx4NGcJ2.png",
+        "rarity": 2,
+        "description": "散发着朦胧光芒的古典桌子。无论放在何处都能营造出清爽的气氛。"
+      },
+      {
+        "id": 1114,
+        "name": "古典图案地毯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/7U5A0Vg3tjYvcbpCUC9sFt7G9FyT9KY3.png",
+        "rarity": 2,
+        "description": "花纹独特的古典图案地毯。最适合放在正式场合。"
+      },
       {
         "id": 1471,
         "name": "古风的草垫",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/OjpIMDaOJTPcqLXwUGLMaphwigiOJ84B.png",
         "rarity": 2,
         "description": "百鬼夜行里经常使用的椅子。因为靠背很硬，不太受欢迎。"
-      },
-      {
-        "id": 1055,
-        "name": "古风烹饪台",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/sGwavnV0B7jFgqDu2hrlrrDrnWzh6KpM.png",
-        "rarity": 4,
-        "description": "从温暖的汤到烧烤！适用于任何菜肴的古风烹饪台！"
-      },
-      {
-        "id": 1495,
-        "name": "古风纹章的隔板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/staR2zyBdcrpM5FHRU1ksDReF7QwIVTn.png",
-        "rarity": 3,
-        "description": "雕刻着古风图案的木质隔板。"
-      },
-      {
-        "id": 1493,
-        "name": "古风纹章的屏风",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/PGlATSpJ3iZZo0tm9xKYZ9fY0RX6CCIg.png",
-        "rarity": 3,
-        "description": "绘着百鬼夜行风格图案的折叠屏风。"
-      },
-      {
-        "id": 1138,
-        "name": "挂钟",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/5f0tD6HCaXbXlM0Ho1vXaOpb3Ue3Wjgm.png",
-        "rarity": 4,
-        "description": "用浑厚的声音报时的挂钟，声音传达到很远的地方。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111467,
+  "time": 1790198636,
   "version": "1.0.0-beta.43"
 }

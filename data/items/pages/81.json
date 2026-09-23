@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 9,
+        "name": "最高级技术笔记（千禧）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ZMHprx0mm96FH4qRCdYlQ6YLgQ9jDjqS.png",
+        "rarity": 4,
+        "description": "归纳千禧科学学院战术核心的秘法笔记。"
+      },
+      {
+        "id": 18,
+        "name": "最高级技术笔记（山海经）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/HAptV2QMo6uqjdV2rGJuS4OEmuk40cvZ.png",
+        "rarity": 4,
+        "description": "归纳山海经高级中学战术核心的秘法笔记。"
+      },
+      {
+        "id": 51,
+        "name": "最高级技术笔记（圣三一） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/RaKBZzTjancr9D4OVW7PfUGcoflpEw6h.png",
+        "rarity": 4,
+        "description": "归纳圣三一学园战术核心的秘法笔记。"
+      },
       {
         "id": 124,
         "name": "最高级技术笔记（瓦尔基里） ",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/mC1Zg2voN7UtgDppRFPJTLAfYhpetDx9.png",
         "rarity": 4,
         "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个阿比多斯、千禧或红冬的最高级技术笔记）"
-      },
-      {
-        "id": 355,
-        "name": "最高级技术笔记选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/KWkjsvB2Kklpxo8SoAVFyRiLPIudBQC6.png",
-        "rarity": 4,
-        "description": "可以选择需要的技术笔记的选择券"
-      },
-      {
-        "id": 579,
-        "name": "最高级强化石",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/iBcLLpNSL6nWNnTUzSo4LDie1KnSsKHZ.png",
-        "rarity": 4,
-        "description": "可强化装备的神秘强化石"
-      },
-      {
-        "id": 154,
-        "name": "最高级战术教育BD（阿比多斯）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/QO0km0VmW1fzLOa7TAFVSSMs0Mzw7R4f.png",
-        "rarity": 4,
-        "description": "把阿比多斯学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111420,
+  "time": 1790198584,
   "version": "1.0.0-beta.43"
 }

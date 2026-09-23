@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 355,
+        "name": "最高级技术笔记选择券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/KWkjsvB2Kklpxo8SoAVFyRiLPIudBQC6.png",
+        "rarity": 4,
+        "description": "可以选择需要的技术笔记的选择券"
+      },
+      {
+        "id": 579,
+        "name": "最高级强化石",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/iBcLLpNSL6nWNnTUzSo4LDie1KnSsKHZ.png",
+        "rarity": 4,
+        "description": "可强化装备的神秘强化石"
+      },
+      {
+        "id": 154,
+        "name": "最高级战术教育BD（阿比多斯）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/QO0km0VmW1fzLOa7TAFVSSMs0Mzw7R4f.png",
+        "rarity": 4,
+        "description": "把阿比多斯学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 146,
         "name": "最高级战术教育BD（阿里乌斯）",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/wuNEugdK1fZIA3mXcfP9upLw00FLPd5Q.png",
         "rarity": 4,
         "description": "把狂猎学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 5,
-        "name": "最高级战术教育BD（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/XhSP6sOpQ1XWugZvFYjNKOPWfdr57beX.png",
-        "rarity": 4,
-        "description": "把千禧学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 26,
-        "name": "最高级战术教育BD（山海经）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/4TkNuNjmWRIOGaRDWTgsEB5K6giLc7RH.png",
-        "rarity": 4,
-        "description": "把山海经学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 185,
-        "name": "最高级战术教育BD（圣三一）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/sgAnDz1Y6JojaExj2gqgiOvSrSFKbstu.png",
-        "rarity": 4,
-        "description": "把圣三一学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111421,
+  "time": 1790198585,
   "version": "1.0.0-beta.43"
 }

@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1332,
+        "name": "骰子固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lrR1cDjIlEAvcyZFxFkcnRtjN3VzMIdH.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。谁也不知道会是固定为几点的券。"
+      },
+      {
+        "id": 444,
+        "name": "图腾柱碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/m2CM7AGMNUzvW0OqLBwrkmy4SGJk4rWx.png",
+        "rarity": 1,
+        "description": "图腾柱的碎片。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 1901,
+        "name": "土豆蛋糕",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/AKq98uXDIWcDzlFKPyDsS2BGvkQ94D08.png",
+        "rarity": 1,
+        "description": "将小麦粉和炼乳、砂糖、可可和肉桂等混合后制成的巧克力蛋糕。 不论是谁都有着无限的可能性。"
+      },
       {
         "id": 313,
         "name": "兔子贴纸",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/kPSmm9gIXTa3GZjIEi6zWB8nO4XKYque.png",
         "rarity": 4,
         "description": "状态完好的长发娃娃。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 581,
-        "name": "完整的弹簧",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OpyvhsUuKUfPOENau1gH21hlL4CqhiwT.png",
-        "rarity": 2,
-        "description": "推进枪械的枪栓时使用的弹簧，被完好无损地保存就跟新的一样。用于强化固有武器。  用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 406,
-        "name": "完整的斐斯托斯圆盘",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/PdvlrYFrLUnW6nsOdVxUbdluVLsXlE2N.png",
-        "rarity": 4,
-        "description": "状态完整的斐斯托斯圆盘。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 439,
-        "name": "完整的伏尼契手稿",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CDTYWIIxOk1qlk8J0cE4JhqD6MKehSec.png",
-        "rarity": 4,
-        "description": "状态完整的伏尼契手稿。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111399,
+  "time": 1790198560,
   "version": "1.0.0-beta.43"
 }

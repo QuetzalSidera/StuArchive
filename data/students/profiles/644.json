@@ -1,0 +1,1914 @@
+{
+  "schema_version": "1.0.0",
+  "profile_type": "student",
+  "generated_at": "2026-09-23T21:06:29Z",
+  "id": 644,
+  "display_name": "仁木 安娜",
+  "names": {
+    "default": "仁木 安娜",
+    "cn": "仁木 安娜",
+    "jp": "仁木 アンナ",
+    "en": "Niki Anna",
+    "kr": "니키 안나",
+    "zh_tw": null,
+    "family_name": "仁木",
+    "given_name": "安娜",
+    "family_name_cn": "仁木",
+    "given_name_cn": "安娜",
+    "family_name_jp": "仁木",
+    "given_name_jp": "アンナ",
+    "family_name_en": "Niki",
+    "given_name_en": "Anna",
+    "family_name_kr": "니키",
+    "given_name_kr": "안나",
+    "family_name_zh_tw": " ",
+    "given_name_zh_tw": " "
+  },
+  "skin": {
+    "default": "",
+    "cn": "",
+    "jp": "",
+    "zh_tw": "",
+    "skins": [
+      {
+        "id": 644,
+        "avatar": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/Student_Portrait_CH0320_Collection.png",
+        "skin": "",
+        "skin_cn": ""
+      }
+    ]
+  },
+  "intro": {
+    "default": "红冬联邦学园所属，不过现在因为受到惩戒处分，是个在183号特别班被关禁闭的学生。在183号特别班担任班级委员长。\n\n虽说是前途无量的精英研究者，但是因为进行草率的研究而引起了事故，被分进了183号特别班。专攻机械工学，就任主任一职。因为非常喜欢得到他人的认可和表扬，至今仍然珍惜地贴身佩戴着从前被授予的勋章。感觉内心十分希望他人问起勋章的来源。\n\n>轮到本天才出场了呢！",
+    "cn": "",
+    "momo_talk_signature": "随时接受业务相关的联络。",
+    "more": "# 官方图集\n\n## 卡池Banner\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| グラファイトの輝き！ ブレーンバスター！ | 暂无 | 暂无 | 暂无 |\n|![HSy736PaYAAJRlu.jpg](https://kivo.wiki/files/27333/4hprqHnWsUsJUQanjykM4op1iTYqjUxv.jpg =450x) |  |  |  |\n\n## 官方介绍图\n\n| 日服 | 简中服 | 繁中服 | 国际服 |\n| :---: | :---: | :---: | :---: |\n| ![HSoNoyeagAEyiAO_1.jpg](https://kivo.wiki/files/27333/H0UKU9pTBUQhue3n5GlLezrqhQkRZuVN.jpg =450x) | 暂无 | 暂无 | 暂无 |"
+  },
+  "profile": {
+    "age": 16,
+    "grade": "二年生",
+    "height": 165,
+    "birthday": "03-10",
+    "hobby": "回收物品、制作奖状裱框",
+    "designer": "ramuri",
+    "illustrator": "ramuri",
+    "character_voice": "高森奈津美",
+    "character_voice_cn": "",
+    "nick_name": "",
+    "body_shape": "Large"
+  },
+  "affiliation": {
+    "school": {
+      "id": 5,
+      "name": "红冬联邦学园",
+      "name_cn": "红冬联邦学院",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E7%BA%A2%E5%86%AC%E8%81%94%E9%82%A6%E5%AD%A6%E5%9B%AD_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E7%BA%A2%E5%86%AC%E8%81%94%E9%82%A6%E5%AD%A6%E5%9B%AD_preview.png",
+      "detail_path": "schools/5.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/5.json"
+    },
+    "main_relation": {
+      "id": 159,
+      "name": "183号特别班",
+      "name_cn": "",
+      "image": "https://static.kivo.wiki/images/relation/je5S7KxY8YNkznwHInOWM6SbwR2u8mOg.png",
+      "description": "",
+      "detail_path": "relations/159.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/159.json"
+    },
+    "relations": []
+  },
+  "implementation": {
+    "jp": {
+      "installed": true,
+      "release_date": "2026-09-23"
+    },
+    "global": {
+      "installed": false,
+      "release_date": null
+    },
+    "cn": {
+      "installed": false,
+      "release_date": null
+    },
+    "is_npc": false,
+    "show_list": true,
+    "special_appearance": false
+  },
+  "assets": {
+    "avatar": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/Student_Portrait_CH0320_Collection.png",
+    "sd_model_image": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/EnemyInfo_CH0320.png",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/CH0320_home_Idle_01_4.jpg",
+    "voice_play_icon": "",
+    "voice_pause_icon": "",
+    "spine_ids": [
+      1905,
+      1909
+    ],
+    "model_ids": [
+      549
+    ]
+  },
+  "combat": {
+    "character_id": 10151,
+    "dev_name": "CH0320",
+    "weapon_type": "HG",
+    "role": "Dealer",
+    "combat_style": "default",
+    "battlefield_position": "STRIKER",
+    "team_position": "MIDDLE",
+    "attack_attribute": "Piercing",
+    "defensive_attributes": "Light",
+    "rarity": 3,
+    "limited": false,
+    "is_groupc_control": false,
+    "adaptability": {
+      "outdoor": "D",
+      "indoor": "S",
+      "street": "B"
+    },
+    "basic": [
+      {
+        "max_hp": 2489,
+        "attack": 319,
+        "defense": 19,
+        "healing": 1665,
+        "accuracy": 404,
+        "evasion": 790,
+        "crit": 202,
+        "crit_res": 100,
+        "crit_dmg": 2,
+        "crit_dmg_res": 0.5,
+        "stability": 984,
+        "range": 650,
+        "cc_power": 100,
+        "cc_res": 100,
+        "recovery_boost": 1,
+        "mag_count": 5
+      }
+    ],
+    "skills": {
+      "ex_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/skill_icon/VatsGn8maCoouRXkz1r2zeMnxGIgzEuo.png",
+          "title": "请看好了！",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/skill_preview/feU7hIsc0f0Smw9ndkwb1FmpvNnsLFmg.mp4",
+          "max_level": 5,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 6,
+              "describe": "对1名敌人造成攻击力1176%的伤害<br>持有4个「勋章」时，本次攻击必定暴击"
+            },
+            {
+              "cost": 6,
+              "describe": "对1名敌人造成攻击力1352%的伤害<br>持有4个「勋章」时，本次攻击必定暴击"
+            },
+            {
+              "cost": 6,
+              "describe": "对1名敌人造成攻击力1705%的伤害<br>持有4个「勋章」时，本次攻击必定暴击"
+            },
+            {
+              "cost": 6,
+              "describe": "对1名敌人造成攻击力1882%的伤害<br>持有4个「勋章」时，本次攻击必定暴击"
+            },
+            {
+              "cost": 6,
+              "describe": "对1名敌人造成攻击力2235%的伤害<br>持有4个「勋章」时，本次攻击必定暴击"
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/skill_icon/Vhe9MOaptnqpaYXPkZ0biProUYtcLlty.png",
+          "title": "这可得发勋章了！",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加10%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加10.5%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加11%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加13%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加13.5%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加14%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加16.1%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加16.6%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加17.1%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方击败8名敌人时，获得1个「勋章」（每场战斗4次）<br>最多重复4个「勋章」，每1个「勋章」令自身造成的伤害量增加19.1%"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/skill_icon/C6VgsS7WT8y4b09assVnjr3bUykmRkm8.png",
+          "title": "开始热处理！",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "暴击值增加14%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加14.7%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加15.4%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加18.2%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加18.9%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加19.6%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加22.4%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加23.1%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加23.8%"
+            },
+            {
+              "cost": 1,
+              "describe": "暴击值增加26.6%"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/skill_icon/6fThAxGMo12x3bh20yw5iEdFNqDqja9S.png",
+          "title": "感觉不错！",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加12.5%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加13.1%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加13.8%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加16.3%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加16.9%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加17.5%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加20%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加20.7%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加21.3%（最多重复3次）"
+            },
+            {
+              "cost": 1,
+              "describe": "每50秒，贯穿属性克制倍率增加23.8%（最多重复3次）"
+            }
+          ]
+        }
+      ]
+    },
+    "weapon": {
+      "icon": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/Weapon_Icon_CH0320.png",
+      "name": "火药式射钉枪",
+      "name_cn": "",
+      "description": "凝结安娜的机械工学技术的结晶所作的枪。<br>用以替代钻头在目标上钻孔。",
+      "description_cn": "",
+      "info": [
+        {
+          "title": "",
+          "description": ""
+        },
+        {
+          "title": "固有武器最大等级 Lv.30 -> Lv.40 / 解锁被动技能+",
+          "description": "「开始热处理！」升级为「开始热处理！+」。"
+        },
+        {
+          "title": "固有武器最大等级 Lv.40 -> Lv.50 / 地形适应性强化 室内适应性 S -> SS",
+          "description": "在室内地形造成1.3倍伤害。处于掩体掩护下时掩护成功率增加75%，攻击时无视掩体概率增加75%。"
+        },
+        {
+          "title": "固有武器最大等级 Lv.50 -> Lv.60 / 数据强化 贯穿克制伤害增加",
+          "description": "攻击类型为贯穿的克制伤害增加10%。"
+        }
+      ],
+      "skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/skill_icon/P3xU76l0bReBWqmQ2QfWbrdRI8wATd4f.png",
+          "title": "开始热处理！+",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 10,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "攻击力增加314，并且暴击值增加14%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加329，并且暴击值增加14.7%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加345，并且暴击值增加15.4%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加408，并且暴击值增加18.2%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加423，并且暴击值增加18.9%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加439，并且暴击值增加19.6%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加502，并且暴击值增加22.4%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加517，并且暴击值增加23.1%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加533，并且暴击值增加23.8%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加596，并且暴击值增加26.6%"
+            }
+          ]
+        }
+      ]
+    },
+    "equipment": [
+      {
+        "id": 7,
+        "name": "帽子",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "单色鸭舌帽\n运动品牌“薮猫”推出的蓝色鸭舌帽。可以添加各种不同种类的徽章以展现自己的个性，是非常受欢迎的时尚单品。\n攻击力 +5%~8%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/3ZAKAGWWirc9DU5Fl7bRFKU9vKg668z2.png"
+          },
+          {
+            "description": "针织帽\n户外品牌“玛纳斯卢”针对女生推出的针织帽。虽然保温性能较差，但其可爱的设计牢牢地抓住了少女们的心。\n攻击力 +10%~13%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/9LSpacTVg1qMOf2U6vL4MJxfaS85Uz2Z.png"
+          },
+          {
+            "description": "老大哥礼帽\n帽子上有MomoFriends角色形象之一的老大哥玩偶。听说戴上这顶帽子就可以感受到老大哥的视线。\n攻击力 +20%~25%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/52repCqORIh3DfahPTmCbTXH4OGZjqon.png"
+          },
+          {
+            "description": "蝴蝶结贝雷帽\n白色蝴蝶结贝雷帽是崔尼蒂的女生最喜欢戴的帽子。据戴过这顶帽子的人说，想让这顶贝雷帽呈现出完美的弧度比想象中要难很多。\n攻击力 +20%~25% \n暴击伤害+400~800",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/etLAn9MeWAmDSqorTaD87f00BWN2QQx0.png"
+          },
+          {
+            "description": "防弹头盔\n结实的防弹头盔，可以挡住任何飞向头部的物品。外侧包裹着一层柔软的材质棉，可以贴上可爱布贴等稍加装饰。\n攻击力 +27%~30% \n暴击伤害 +900~1200",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/qsMk5cIXtGuwiFNb19wusMfN2TYuGCeF.png"
+          },
+          {
+            "description": "褶边小礼帽\n拥有华丽的褶边装饰的小礼帽。帽檐下面隐藏着用来固定帽子的小发夹。\n攻击力 +31%~35% \n暴击伤害 +1250~1600",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/I1hWlQudhOoVj1CXBk6pEwy0w8k2cye7.png"
+          },
+          {
+            "description": "遮阳帽\n遮盖住脸部上半部的遮阳帽和口罩组合在一起，可以尽量减少脸部暴露的范围，所以也可以拿来当成防晒的对策。\n攻击力 +36%~40% \n暴击伤害 +1600~1800",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/nbhxO8EYkbnprUcWgq2msErPtEeRCpxh.png"
+          },
+          {
+            "description": "叶饰礼帽\n将树叶插入缎带当作装饰的编织礼帽。非常适合度假穿搭。\n攻击力 +41~45% \n暴击伤害 +1800~2000",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/q3SoWc51DnqFj42qAf9A1ngSL6qOAM2W.png"
+          },
+          {
+            "description": "水手帽\n用条纹稍加点缀的白色水手帽。这款设计简约的帽子同时也是奥德赛海洋学院的校帽。\n攻击力 +46%~48% \n暴击伤害 +2000",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/OFrl2VAMXm67TOqhZvO1UQhJrp3svSnh.png"
+          },
+          {
+            "description": "游戏头盔\n可以装载饮料的帽子。通过吸管就能在不放开手柄的情况下补充水分。\n攻击力 +49%~50%\n暴击伤害 +2000",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/WfDNSki8bUj7xJPgNzpR8dIiKlHbLM3F.png"
+          }
+        ],
+        "detail_path": "equipments/7.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/7.json"
+      },
+      {
+        "id": 6,
+        "name": "发夹",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "网球发带\n运动品牌“薮猫”的网球发带。具有高吸水性，以防止在运动中被汗水干扰视野。\n最大生命值 +250~400",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8I9ILkRFh8jBcyDaFEvuhQ5nsKZj8pcZ.png"
+          },
+          {
+            "description": "发圈\n头绳为绸缎材质，弹性较好。在吃饭时，可以用它把头发绑起来。\n最大生命值 +500~650",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/qpljf4oPCHBDW2w9DN1DD0NH8qHu5dyq.png"
+          },
+          {
+            "description": "MomoTalk发夹\n带有MomoTalk图标的桃子形状发夹。摸一摸桃子，就会散发出淡淡的桃香。\n最大生命值 +750~900",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/l4r52vKZSFx0mEIxwL1WezH55cL47X2l.png"
+          },
+          {
+            "description": "翅膀发夹\n奢侈品牌“维罗妮卡”以天使的翅膀为原型制作的发夹。但实际上，并不太受圣三一女生们的欢迎。\n最大生命值 +1000~1250 \n群控抵抗 +5%~10%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/mw0HZz9e7SkOoUPVQilKYYZ5JH433Fgo.png"
+          },
+          {
+            "description": "多功能发夹\n将一端打磨得非常锋利，必要时可用作开瓶器或者小刀的多功能发夹。正常使用时也可能会不小心伤到手，需要格外注意。\n最大生命值 +2000~3000 \n群控抵抗 +12%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/WRpJRpUuNMYxbinBAEfHhzSoWKzp7Ve6.png"
+          },
+          {
+            "description": "蝙蝠发夹\n看起来像黑色蝴蝶结的蝙蝠发夹。让佩戴者散发出一种小恶魔似的魅力。\n最大生命值 +3250~4500 \n群控抵抗 +22%~24%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/SQ4kyumib7fkHcUrAyWovKU06gCDAcmI.png"
+          },
+          {
+            "description": "艺术字发夹\n用文字做成的发夹。虽然单词本身并没有什么太大的意义，却充分可以刺激时尚人的感性。\n最大生命值 +4700~6500 \n群控抵抗 +25%~28%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/lp2S4Mpcro3N4q8INJxxhQ85PerIwDy6.png"
+          },
+          {
+            "description": "树叶发夹\n叶子形状的发夹。平时要配戴的话有点困难，但适合在需要打扮的日子使用。\n最大生命值 +6700~8500 \n群控抵抗 +29%~32%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kuVrzZp0XXzcxC2DpjrC3qljxhuUPL2y.png"
+          },
+          {
+            "description": "船锚发夹\n带有两个钩子的船锚状发夹。虽然设计得十分漂亮，但据说实际用起来有点不方便，绑头发时经常将头发缠在钩子上。\n最大生命值 +9000~11000 \n群控抵抗 +32%~34%\n暴击值 +50~150",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7hutqdJaOerYCATLihUAXBAVLHwR5AO8.png"
+          },
+          {
+            "description": "防电磁波发卡\n据说能够隔绝电磁波并激活大脑的发卡。但其效果真假存疑。\n最大生命值 +11500~13000\n群控抵抗 +35%~36%\n暴击值 +150",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/aotSIkCGNFY1tLDjPgPuIWXsNcddDoUy.png"
+          }
+        ],
+        "detail_path": "equipments/6.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/6.json"
+      },
+      {
+        "id": 3,
+        "name": "手表",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "防水数码手表\n运动品牌“薮猫”出品的数码手表。因为是防水手表，所以在游泳的时候也可以佩戴，不用担心出现故障。\n暴击值 +50～80",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/zDJSDsUTBOIkBDCgqFmg0wzwXezqQLBG.png"
+          },
+          {
+            "description": "皮带手表\n户外品牌“玛纳斯卢”出品的皮带手表。因表带是皮革，可以有效防止手腕变凉。\n暴击值 +100～130",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/3ugwm2xOtF5vCEeOaNUkwDiqthLwKAGq.png"
+          },
+          {
+            "description": "波浪猫手表\n印有MomoFriends中的波浪猫形象的手表。根据时间变化，作为指针的波浪猫的双臂会奇怪地扭曲。\n暴击值 +150～180",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/oGmJwAK99lO9uINWhe0vWAA0Z7bCRkRq.png"
+          },
+          {
+            "description": "复古怀表\n印有“维罗妮卡”标识的复古怀表。与手表相比，虽然确认时间时不太方便，但作为时尚单品很受人们的欢迎。\n暴击值 +200～250 \n暴击伤害 +500～1000",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/k5cVvYVIm7pDdMA7iL2jFme6GkZr0I5u.png"
+          },
+          {
+            "description": "防尘手表\n迷彩专业品牌“风山”制作的防尘手表。因加强了防尘功能，所以可以在恶劣的环境中安心使用，不用担心会出故障。\n暴击值 +260～280 \n暴击伤害 +1100～1500 \n最大生命值 +2.5%～5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7k69foiE3JIKvvKIZNkflSfvYs912PCu.png"
+          },
+          {
+            "description": "哥特风手表\n带有复杂花纹的哥特风手表。与古典风格的衣服很搭，但缺点是很难看懂时间。\n暴击值 +290～320 \n暴击伤害 +1600～1800 \n最大生命值 +5.5%～7%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Vt0GwwEa4CeXxE9c6XoGx92w54KyyPfo.png"
+          },
+          {
+            "description": "街头时尚手表\n同时有现代和可爱的设计而大受好评的街头时尚手表。“三步”在此使用了和手环组合成套装一起贩卖的策略。\n暴击值 +330～360 \n暴击伤害 +1900～2100 \n最大生命值 +7.5%～9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/dSi3bJlpDM5nzMbyFaQUEPQfMpHZro2B.png"
+          },
+          {
+            "description": "罗蕾莱手表\n现代时尚品牌“罗蕾莱”发售的手表。使用木头和皮革的精致设计，营造出独特的氛围。\n暴击值 +370～400\n暴击伤害 +2200～2400\n最大生命值 +9.5%～11%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/zOhrgsFS6iwJPoj4q8htFJJZNLjNBuxa.png"
+          },
+          {
+            "description": "潜水表\n海洋运动品牌【哈耳庇厄】推出的潜水用智能手表。除了防水之外，它在深水中也能确认水下环境，不必担心水压。\n暴击值 +410~440\n暴击伤害 +2450~2500\n最大生命值 +11.5%~13%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/xUFWFX1QqfyimpjglWx0tWZc5J1otiWm.png"
+          },
+          {
+            "description": "智能屏手表\n带触摸屏的手表。虽然能在其上移植市面上的游戏，但要流畅运行还是有点困难。\n暴击值 +450～480\n暴击伤害 +2550～2600\n最大生命值 +13%～15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5qjc0ZjbGn0hSBL84zo7o47qrjzWdfMJ.png"
+          }
+        ],
+        "detail_path": "equipments/3.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/3.json"
+      }
+    ],
+    "favorite_equipment": {
+      "id": 0
+    },
+    "cultivate_materials": [
+      {
+        "id": 62,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ajElyPv2rKUXO9NcQIn9yeEXVjwrkuIK.png",
+        "rarity": 1,
+        "name": "基础技术笔记（红冬） ",
+        "description": "归纳红冬学园战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/62.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/62.json"
+      },
+      {
+        "id": 64,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/nKVHi3mMGPKiyB4YFBXaBy2aa68v571p.png",
+        "rarity": 2,
+        "name": "一般技术笔记（红冬）",
+        "description": "归纳红冬学园战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/64.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/64.json"
+      },
+      {
+        "id": 65,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/anbKM6yla3G8tfE8R1e8xbJar4ZYY4JU.png",
+        "rarity": 3,
+        "name": "高级技术笔记（红冬） ",
+        "description": "归纳红冬学园战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/65.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/65.json"
+      },
+      {
+        "id": 66,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/KnxLLMn6Jg3PpCGOXEliUPsCiIosgTAT.png",
+        "rarity": 4,
+        "name": "最高级技术笔记（红冬） ",
+        "description": "归纳红冬学园战术核心的秘法笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/66.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/66.json"
+      },
+      {
+        "id": 189,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uN0goZ7DIAudojC1FPAgYEtoczG3MEPq.png",
+        "rarity": 1,
+        "name": "基础战术教育BD（红冬）",
+        "description": "把红冬学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/189.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/189.json"
+      },
+      {
+        "id": 190,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/xGMgyv5A6Fv4i5Itm6YVuPq0L2nRXkiv.png",
+        "rarity": 2,
+        "name": "一般战术教育BD（红冬）",
+        "description": "把红冬学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/190.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/190.json"
+      },
+      {
+        "id": 192,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/k9bSX8ZnpCQ4cNaFTrwT90IaWmgCJBDr.png",
+        "rarity": 3,
+        "name": "高级战术教育BD（红冬）",
+        "description": "把红冬学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/192.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/192.json"
+      },
+      {
+        "id": 193,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/9wugjYIxAmNxqYS8KeyeNZa4WSvMTjqr.png",
+        "rarity": 4,
+        "name": "最高级战术教育BD（红冬）",
+        "description": "把红冬学生的战术活动记录成视频的教育用BD。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/193.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/193.json"
+      },
+      {
+        "id": 403,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/diuCSFFbrTJU6PMIOOu8biFdBok1RaZV.png",
+        "rarity": 1,
+        "name": "斐斯托斯圆盘碎片",
+        "description": "斐斯托斯圆盘的碎块。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/403.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/403.json"
+      },
+      {
+        "id": 404,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/EMtvGlQ0XNIVEELt9QO6OBui1b2Ch4Xv.png",
+        "rarity": 2,
+        "name": "破损的斐斯托斯圆盘",
+        "description": "破损得难以看出外形的斐斯托斯圆盘。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/404.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/404.json"
+      },
+      {
+        "id": 405,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/msyqeC9aqmzRwSlAopg98Mf4F6D3LJnD.png",
+        "rarity": 3,
+        "name": "磨损的斐斯托斯圆盘",
+        "description": "过于老旧，磨损得体无完肤的斐斯托斯圆盘。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/405.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/405.json"
+      },
+      {
+        "id": 406,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/PdvlrYFrLUnW6nsOdVxUbdluVLsXlE2N.png",
+        "rarity": 4,
+        "name": "完整的斐斯托斯圆盘",
+        "description": "状态完整的斐斯托斯圆盘。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/406.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/406.json"
+      },
+      {
+        "id": 364,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/T6LXgHtBVtpzzuEITZwgf6jX4WZKcTcp.png",
+        "rarity": 1,
+        "name": "长发娃娃碎片",
+        "description": "长发娃娃的部分碎片。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/364.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/364.json"
+      },
+      {
+        "id": 365,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Ekl2EGoitOD5eF70ZHxRjGJLWg63tNN2.png",
+        "rarity": 2,
+        "name": "破损的长发娃娃",
+        "description": "严重破损、外观难辨的长发娃娃。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/365.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/365.json"
+      },
+      {
+        "id": 366,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/inWTUs1XKvsJi6lhUfHBwE7gCHD6MAhV.png",
+        "rarity": 3,
+        "name": "修复的长发娃娃",
+        "description": "拼凑碎片修复的长发娃娃。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/366.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/366.json"
+      },
+      {
+        "id": 19,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
+        "rarity": 4,
+        "name": "奥秘之书",
+        "description": "记载着战术奥秘的技术笔记。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/19.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
+      }
+    ]
+  },
+  "preferences": {
+    "gifts": [
+      {
+        "id": 271,
+        "favorability": 40,
+        "item": {
+          "id": 271,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/9OEWneXtxzqxbpLbESoNCiD80KG5pakn.png",
+          "rarity": 3,
+          "name": "禁忌之恋 ~不被允许的恋情才更加美好~",
+          "description": "最近人气恋爱小说作者「恋爱鲤鱼」的最新作！ 无法实现的禁忌之恋，令人魂牵梦萦的话题作品！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/271.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/271.json"
+        }
+      },
+      {
+        "id": 272,
+        "favorability": 40,
+        "item": {
+          "id": 272,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/9NZLTowSBpL2FWKP1wIr3jN0UX7vifED.png",
+          "rarity": 3,
+          "name": "游戏杂志 『HIT GIRLS 』",
+          "description": "不放过任何琐碎的情报。 收录基沃托斯最新游戏发售消息、经典游戏攻略、游戏周边发售等消息的游戏杂志。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/272.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/272.json"
+        }
+      },
+      {
+        "id": 54,
+        "favorability": 40,
+        "item": {
+          "id": 54,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/dMD9ViN9PFCEPXsTp4wA28xcUSrpD9s7.png",
+          "rarity": 3,
+          "name": "<枪、可爱、青春>",
+          "description": "枪、可爱、青春。追溯基沃托斯大众文化的起源 ，分析其根源的今天最佳畅销之作。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/54.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/54.json"
+        }
+      },
+      {
+        "id": 61,
+        "favorability": 40,
+        "item": {
+          "id": 61,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/sauesdlFSZRVOeA2TfjwqGm57nvchdC9.png",
+          "rarity": 3,
+          "name": "超绝兔子侦探~被烟雾遮掩的温泉滑倒事件~",
+          "description": "绝不错过如果察觉事件的征兆就会竖起的纯白耳朵！超绝兔子侦探系列第3篇！ 这次的舞台是温泉！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/61.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/61.json"
+        }
+      },
+      {
+        "id": 86,
+        "favorability": 40,
+        "item": {
+          "id": 86,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/HsRWKopwYT2TYit7Cq69Ma6oypqxtIDV.png",
+          "rarity": 3,
+          "name": "古典诗集",
+          "description": "古意盎然的古典诗集。 古典文学的古雅就在你手中。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/86.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/86.json"
+        }
+      },
+      {
+        "id": 55,
+        "favorability": 60,
+        "item": {
+          "id": 55,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/by7J8xMfqmduv27IeK1nKurFoNfOetNn.png",
+          "rarity": 3,
+          "name": "百科辞典",
+          "description": "从绑吐司袋的「那个」到装在便当里的那片「草」的名字。 让你感到好奇的一切都在这里。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/55.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/55.json"
+        }
+      },
+      {
+        "id": 79,
+        "favorability": 240,
+        "item": {
+          "id": 79,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/Xz7rTAfL2NSKWeKBtqVEWDWnx5rURwf5.png",
+          "rarity": 4,
+          "name": "街头混混系列第1本",
+          "description": "以「对我们来说只有义气和胆识！」的台词闻名的热议话题之作，街头混混系列第1本。因为主角出乎意料地可爱的感想，所以全集都好评贩售中。",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/79.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/79.json"
+        }
+      },
+      {
+        "id": 63,
+        "favorability": 40,
+        "item": {
+          "id": 63,
+          "type": "gift",
+          "icon": "https://static.kivo.wiki/images/item/icon/NbstLjzEyJDFP9uQIVjVHYmR3mxM79KF.png",
+          "rarity": 3,
+          "name": "健康辅助食品",
+          "description": "只喝一口力量就会泉涌而出！ 很适合送给重要的人的健康食品！",
+          "article_id": 0,
+          "gift": {},
+          "furniture": {
+            "comfort": 0
+          },
+          "detail_path": "items/63.json",
+          "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/63.json"
+        }
+      }
+    ],
+    "furniture": [
+      {
+        "id": 2075,
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/mfIcmSIpnaR3uxetsHMNtFVhXUadsMvP.png",
+        "rarity": 4,
+        "name": "机械工程工作台",
+        "description": "重视原则的工程师所使用的工作台。她似乎对机械工程有着浓厚的兴趣。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 350
+        },
+        "detail_path": "items/2075.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2075.json"
+      }
+    ]
+  },
+  "media": {
+    "gallery": [
+      {
+        "title": "官方图集",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HSy736PaYAAJRlu.jpg",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%AE%98%E6%96%B9%E5%9B%BE%E9%9B%86/HSoNoyeagAEyiAO_1.jpg"
+        ]
+      },
+      {
+        "title": "初始立绘差分",
+        "images": [
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_00.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_01.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_02.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_03.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_04.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_05.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_06.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_07.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_09.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_10.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_13.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_15.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_14.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_18.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_17.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_12.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_19.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_20.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_16.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_22.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_11.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_21.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_24.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_23.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_25.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_26.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_08.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_29.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_30.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_27.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_28.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_31.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_32.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_34.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_99.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_33.png",
+          "https://static.kivo.wiki/images/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/gallery/%E5%88%9D%E5%A7%8B%E7%AB%8B%E7%BB%98%E5%B7%AE%E5%88%86/CH0320_spr_Idle_01.png"
+        ]
+      }
+    ],
+    "voice": [
+      {
+        "description": "ch0320_battle_buffed_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "共同著書に感謝します。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_buffed_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_buffself_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_buffself_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_covered_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "天才的な遮蔽をご覧あれ。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_covered_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_damage_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_damage_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_damage_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_damage_2.ogg"
+      },
+      {
+        "description": "ch0320_battle_damage_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_damage_3.ogg"
+      },
+      {
+        "description": "ch0320_battle_defense_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "ロープワーク、回避！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_defense_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "あまり慣れていませんが……やってみましょう！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_in_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "う、撃たないでください！私は特別クラスの学級委員長ですよ！？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_in_2.ogg"
+      },
+      {
+        "description": "ch0320_battle_move_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "はぁ……はぁ……くっ、持久力が。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_move_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_move_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "走りは……専門外です。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_move_2.ogg"
+      },
+      {
+        "description": "ch0320_battle_recovery_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "勲章をいただけるよう、連絡してみましょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_recovery_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_retire",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_retire.ogg"
+      },
+      {
+        "description": "ch0320_battle_shout_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_shout_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_shout_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_shout_2.ogg"
+      },
+      {
+        "description": "ch0320_battle_shout_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_shout_3.ogg"
+      },
+      {
+        "description": "ch0320_battle_tacticalaction_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "はっ！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_tacticalaction_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "天才科学者の勝利、ですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_victory_1.ogg"
+      },
+      {
+        "description": "ch0320_battle_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "原理を理解すれば簡単です。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_battle_victory_2.ogg"
+      },
+      {
+        "description": "ch0320_cafe_monolog_1",
+        "category": "cafe",
+        "text": "",
+        "text_original": "（サインペンの準備、よし）",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_cafe_monolog_1.ogg"
+      },
+      {
+        "description": "ch0320_cafe_monolog_2",
+        "category": "cafe",
+        "text": "",
+        "text_original": "この椅子、素晴らしいですね。座れるし、軽いから振り回しやすい……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_cafe_monolog_2.ogg"
+      },
+      {
+        "description": "ch0320_cafe_monolog_3",
+        "category": "cafe",
+        "text": "",
+        "text_original": "素敵なデザイン……感銘を受けました。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_cafe_monolog_3.ogg"
+      },
+      {
+        "description": "ch0320_cafe_monolog_4",
+        "category": "cafe",
+        "text": "",
+        "text_original": "ああ……気づいてしまったのですね。ええ、そうです。私が仁木アンナです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_cafe_monolog_4.ogg"
+      },
+      {
+        "description": "ch0320_cafe_monolog_5",
+        "category": "cafe",
+        "text": "",
+        "text_original": "（この部屋からレスリングの才能の波動を感じます……）",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_cafe_monolog_5.ogg"
+      },
+      {
+        "description": "ch0320_commonskill",
+        "category": "battle",
+        "text": "",
+        "text_original": "天才が一緒で嬉しいですよね？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_commonskill.ogg"
+      },
+      {
+        "description": "ch0320_eventlobby_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ええ、私がその天才ですよ。正真正銘のホンモノ、です。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlobby_1_1.ogg"
+      },
+      {
+        "description": "ch0320_eventlobby_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ほ、ほんおに……ほんおの、れすから……！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlobby_1_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlobby_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ナデナデ……？ふ、ふつう、握手をするものでは？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlobby_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlobby_3",
+        "category": "event",
+        "text": "",
+        "text_original": "レッドウィンターにおける発明のほとんどは私たちが行ったものです。まぁ……本意ではありませんが。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlobby_3.ogg"
+      },
+      {
+        "description": "ch0320_eventlobby_4",
+        "category": "event",
+        "text": "",
+        "text_original": "特別クラス脱しゅ……修了の日は近いですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlobby_4.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_1.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_2",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_3",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_3.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_4",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_4.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_5",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_5.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_act_1",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_act_1.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_act_2",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_act_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_act_3",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_act_3.ogg"
+      },
+      {
+        "description": "ch0320_eventlocation_act_4",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlocation_act_4.ogg"
+      },
+      {
+        "description": "ch0320_eventlogin_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "レッドウィンターが誇る科学者の学級――183号特別クラスへ、ようこそ！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlogin_1_1.ogg"
+      },
+      {
+        "description": "ch0320_eventlogin_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "そして、私が183号特別クラスの委員長、仁木アンナです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlogin_1_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlogin_2",
+        "category": "event",
+        "text": "",
+        "text_original": "戦車づくり？そんなのお茶の子さいさいです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlogin_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlogin_season_1",
+        "category": "event",
+        "text": "",
+        "text_original": "進捗？え、ええ！もちろん、順調ですよ！ええ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlogin_season_1.ogg"
+      },
+      {
+        "description": "ch0320_eventlogin_season_2",
+        "category": "event",
+        "text": "",
+        "text_original": "自信？も、もちろんありますとも……ええ……あはは……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlogin_season_2.ogg"
+      },
+      {
+        "description": "ch0320_eventlogin_season_end",
+        "category": "event",
+        "text": "",
+        "text_original": "うっ……うっ……ありがとう……ございました……っ！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventlogin_season_end.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ノルマを先に終わらせましょう。サインはまた後ほど。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_1.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_2",
+        "category": "event",
+        "text": "",
+        "text_original": "すぐに終わらせて休憩に入りましょう、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_2.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_day_end",
+        "category": "event",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_day_end.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_get_1",
+        "category": "event",
+        "text": "",
+        "text_original": "称賛と褒賞は、いくらあっても構いません。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_get_1.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_get_2",
+        "category": "event",
+        "text": "",
+        "text_original": "先生にも報酬が必要です。ええ、当然。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_get_2.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_login_1",
+        "category": "event",
+        "text": "",
+        "text_original": "リストがこんなに……管理職としての腕がなりますね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_login_1.ogg"
+      },
+      {
+        "description": "ch0320_eventmission_login_2",
+        "category": "event",
+        "text": "",
+        "text_original": "「リストを確認すること」ええ、Todoリストにも書いてありました。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventmission_login_2.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_1_1",
+        "category": "event",
+        "text": "",
+        "text_original": "その……私も買いたいものがあるのですが……一緒に探してくださると、嬉しいです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_1_1.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_1_2",
+        "category": "event",
+        "text": "",
+        "text_original": "えっと……GOST5632を100kgほど……見つけたら、教えて下さいね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_1_2.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ど、どうしました？私は買ってあげることはできませんよ？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_2.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_buy_1",
+        "category": "event",
+        "text": "",
+        "text_original": "調達契約も必要ないのですね、助かりました。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_buy_1.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_buy_2",
+        "category": "event",
+        "text": "",
+        "text_original": "ここで頑張ったら……恩赦がもらえたり、しませんかね？しませんよね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_buy_2.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_buy_3",
+        "category": "event",
+        "text": "",
+        "text_original": "素晴らしい判断です。ええ、私の業績と同じくらい。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_buy_3.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_buy_4",
+        "category": "event",
+        "text": "",
+        "text_original": "計算も完璧ですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_buy_4.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_end",
+        "category": "event",
+        "text": "",
+        "text_original": "「閉店セール」はないのですか……？新聞にはあるって……ええっ……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_end.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_login_1",
+        "category": "event",
+        "text": "",
+        "text_original": "ショッピング、ですね。いつも買ってきてもらっているので、自分で来たのは久しぶりです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_login_1.ogg"
+      },
+      {
+        "description": "ch0320_eventshop_login_2",
+        "category": "event",
+        "text": "",
+        "text_original": "お買い物……ど、どうやるのでしたっけ？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_eventshop_login_2.ogg"
+      },
+      {
+        "description": "ch0320_exskill_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "科学とロープワークの融合っ！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exskill_1.ogg"
+      },
+      {
+        "description": "ch0320_exskill_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "生まれつき優秀でごめんなさい。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exskill_2.ogg"
+      },
+      {
+        "description": "ch0320_exskill_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "リングがあったら鬼に金棒だったのに……！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exskill_3.ogg"
+      },
+      {
+        "description": "ch0320_exskill_level_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "必殺技、いきます！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exskill_level_1.ogg"
+      },
+      {
+        "description": "ch0320_exskill_level_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "うりゃあっ！！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exskill_level_2.ogg"
+      },
+      {
+        "description": "ch0320_exskill_level_3",
+        "category": "battle",
+        "text": "",
+        "text_original": "ババーン！これでどうでしょう！？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exskill_level_3.ogg"
+      },
+      {
+        "description": "ch0320_exweapon_get",
+        "category": "growup",
+        "text": "",
+        "text_original": "ありがとうございます、先生。いただいたこちら、電動工具と同じくらい多用な使い道があって……本当に助かります。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_exweapon_get.ogg"
+      },
+      {
+        "description": "ch0320_formation_in_1",
+        "category": "formation",
+        "text": "",
+        "text_original": "科学者にお任せあれ。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_formation_in_1.ogg"
+      },
+      {
+        "description": "ch0320_formation_in_2",
+        "category": "formation",
+        "text": "",
+        "text_original": "編成……いい肩書ですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_formation_in_2.ogg"
+      },
+      {
+        "description": "ch0320_formation_select",
+        "category": "formation",
+        "text": "",
+        "text_original": "わっ！高い！空中殺法を使ってもいいですか？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_formation_select.ogg"
+      },
+      {
+        "description": "ch0320_gachaget",
+        "category": "growup",
+        "text": "",
+        "text_original": "183号特別クラスの学級委員長、仁木アンナです。ごめんなさいね、サインはまた今度。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_gachaget.ogg"
+      },
+      {
+        "description": "ch0320_growup_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "ただでさえ天才なのに……このままでは、もっと天才になってしまいます……本当に、いいんですか、先生？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_growup_1.ogg"
+      },
+      {
+        "description": "ch0320_growup_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "もう勲章をつける場所がありません……ズボンにでもつけましょうか。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_growup_2.ogg"
+      },
+      {
+        "description": "ch0320_growup_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "また実績が増えてしまいましたね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_growup_3.ogg"
+      },
+      {
+        "description": "ch0320_growup_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "ふふ……自分の才能が恐ろしいくらいです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_growup_4.ogg"
+      },
+      {
+        "description": "ch0320_lobby_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ああ、こちらは私のイチオシの勲章です。触ってみますか？金メッキなのでとてもしっかりしているんです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_1.ogg"
+      },
+      {
+        "description": "ch0320_lobby_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "シャーレは暖かいですね。183号特別クラスよりも、ずっと……少し、暑いくらい。いいですね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_2.ogg"
+      },
+      {
+        "description": "ch0320_lobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "書類がたくさん……先生も、私と同じ管理職だったなんて……！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_3_1.ogg"
+      },
+      {
+        "description": "ch0320_lobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "シャーレも連帯責任制なんですか？お互い大変ですね……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_3_2.ogg"
+      },
+      {
+        "description": "ch0320_lobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "工学で守るべきものはただ一つ。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_4_1.ogg"
+      },
+      {
+        "description": "ch0320_lobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "動くべきものが動き、それ以外は静止する。それだけです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_4_2.ogg"
+      },
+      {
+        "description": "ch0320_lobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ここ、工具が少なすぎる気がします……。これではヘリくらいしか作れません。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_5_1.ogg"
+      },
+      {
+        "description": "ch0320_lobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "予備の部品、作っておいてもいいですか？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_lobby_5_2.ogg"
+      },
+      {
+        "description": "ch0320_login_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "こんにちは、先生。今日は何をお手伝いしましょう？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_login_1.ogg"
+      },
+      {
+        "description": "ch0320_login_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "良い天気……勲章授与にふさわしい日です。そうは思いませんか？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_login_2.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_1_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "本当に、飾って、しまいました……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_1_1.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_1_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……そんな勇気、私にはないと思っていたのに。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_1_2.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_2_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生が、私に……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_2_1.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_2_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……ふふっ、そんな表彰コメント、初めて聞きました。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_2_2.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_2_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ありがとうございます、このような賞をいただくことができて、本当に光栄です。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_2_3.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_3_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "……もっと、自慢話や苦労話が出てくるかと思ったのですが。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_3_1.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_3_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "今はもう、感極まってしまって……何がなんだか。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_3_2.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_4_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ありがとうございます、先生。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_4_1.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_4_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "こんな日が来るだなんて、本当に思っていなくて……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_4_2.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_4_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "夢が一気に、全て叶ってしまったような……そんな気持ちです。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_4_3.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_5_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "これからも、ずっと……",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_5_1.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_5_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ええ！ずっと……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_5_2.ogg"
+      },
+      {
+        "description": "ch0320_memoriallobby_5_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ふふっ……！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_memoriallobby_5_3.ogg"
+      },
+      {
+        "description": "ch0320_relationship_up_1",
+        "category": "growup",
+        "text": "",
+        "text_original": "もし私が……ただの一般人だったら……それでも先生は、私を…………い、いえ、今のは聞かなかったことに。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_relationship_up_1.ogg"
+      },
+      {
+        "description": "ch0320_relationship_up_2",
+        "category": "growup",
+        "text": "",
+        "text_original": "先生からいただけるお褒めの言葉……いつもいただけるものだとは思っていません。本当に……ありがとうございます。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_relationship_up_2.ogg"
+      },
+      {
+        "description": "ch0320_relationship_up_3",
+        "category": "growup",
+        "text": "",
+        "text_original": "見栄っ張りな私を……嫌いにならないでいてくださって、ありがとうございます。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_relationship_up_3.ogg"
+      },
+      {
+        "description": "ch0320_relationship_up_4",
+        "category": "growup",
+        "text": "",
+        "text_original": "先生と共に過ごすすべての時間が――私にとって、最高の勲章です。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_relationship_up_4.ogg"
+      },
+      {
+        "description": "ch0320_season_birthday",
+        "category": "lobby",
+        "text": "",
+        "text_original": "とても些細なことなのですが……今日は何月何日か、分かりますか？あ、いえ……ふと気になって。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_birthday.ogg"
+      },
+      {
+        "description": "ch0320_season_birthday_player",
+        "category": "lobby",
+        "text": "",
+        "text_original": "先生、お誕生日おめでとうございます。ええ……まさに、歴史的な瞬間と言えるでしょう。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_birthday_player.ogg"
+      },
+      {
+        "description": "ch0320_season_halloween_1",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ハロウィーンって、驚いたらお菓子がもらえる日だと思っているのですが……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_halloween_1.ogg"
+      },
+      {
+        "description": "ch0320_season_halloween_2",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ええ……先程、稼働中のCNC加工機からビットがブッ壊れた音がして……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_halloween_2.ogg"
+      },
+      {
+        "description": "ch0320_season_halloween_3",
+        "category": "lobby",
+        "text": "",
+        "text_original": "すっごく驚いたので……お菓子、もらえたりしますか？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_halloween_3.ogg"
+      },
+      {
+        "description": "ch0320_season_newyear",
+        "category": "lobby",
+        "text": "",
+        "text_original": "あけましておめでとうございます、先生。本年も閃きの絶えない素晴らしい一年となりますよう。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_newyear.ogg"
+      },
+      {
+        "description": "ch0320_season_xmas",
+        "category": "lobby",
+        "text": "",
+        "text_original": "同士サンタ、今年も来てくださるのでしょうか？煙突が楽に通れるよう、色々と準備しておいたのですが……。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_season_xmas.ogg"
+      },
+      {
+        "description": "ch0320_tactic_defeat_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_tactic_defeat_1.ogg"
+      },
+      {
+        "description": "ch0320_tactic_defeat_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_tactic_defeat_2.ogg"
+      },
+      {
+        "description": "ch0320_tactic_in_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "サインのお願い、断りづらいんですよね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_tactic_in_1.ogg"
+      },
+      {
+        "description": "ch0320_tactic_in_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "学術大会のようなものでしょうか？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_tactic_in_2.ogg"
+      },
+      {
+        "description": "ch0320_tactic_victory_1",
+        "category": "battle",
+        "text": "",
+        "text_original": "まだ知識の１０％も使ってませんけど？",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_tactic_victory_1.ogg"
+      },
+      {
+        "description": "ch0320_tactic_victory_2",
+        "category": "battle",
+        "text": "",
+        "text_original": "とても簡単な定理でしたね。",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/ch0320_tactic_victory_2.ogg"
+      },
+      {
+        "description": "CH0320_Title",
+        "category": "lobby",
+        "text": "",
+        "text_original": "ブルーアーカイブ！",
+        "file": "https://static.kivo.wiki/voices/students/%E4%BB%81%E6%9C%A8%20%E5%AE%89%E5%A8%9C/original/jp/CH0320_Title.ogg"
+      }
+    ],
+    "voice_cn": [],
+    "voice_kr": []
+  },
+  "source": {
+    "detail_path": "students/644.json",
+    "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/644.json",
+    "upstream_time": 1790197622,
+    "updated_at": 1790182052,
+    "created_at": 1790167402
+  }
+}

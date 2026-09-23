@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1671,
+        "name": "木雕人偶（桔梗）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lFsCIpUlrXsJ5DntxIJFdbosqKJWJBa4.png",
+        "rarity": 1,
+        "description": "桔梗做的自己的木雕人偶。似乎很容易浮在水上。"
+      },
       {
         "id": 1672,
         "name": "木雕人偶（莲华）",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/aWoQpNGi8OV8RHNkEXIS739uImuvE1hd.png",
         "rarity": 1,
         "description": "岛上四处结有的柠檬。"
-      },
-      {
-        "id": 2003,
-        "name": "女王之星",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/XXXhh2fEEsfezQ7VZ23F0amzbMlxKnQc.png",
-        "rarity": 1,
-        "description": "胜利的象征。据说只要集齐五颗，也许能得到能够实现任何愿望的“Queen任意券”？"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111379,
+  "time": 1790198536,
   "version": "1.0.0-beta.43"
 }

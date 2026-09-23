@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 77,
+        "name": "基础技术笔记（格赫娜） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/2YuUol1u3sTXaMtYcF8akSMhOOLRdpii.png",
+        "rarity": 1,
+        "description": "归纳格赫娜学园战术核心的秘法笔记。 "
+      },
       {
         "id": 62,
         "name": "基础技术笔记（红冬） ",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/RSKLqOlQVyYMw8wpH7p1ozFA0PjcEhJs.png",
         "rarity": 1,
         "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的基础技术笔记）"
-      },
-      {
-        "id": 607,
-        "name": "基础技术笔记箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/KhJOVkH1pX3b7yDxQ8DRmrXOWwIvTvjk.png",
-        "rarity": 1,
-        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用（随机获得一个格黑娜、山海经或瓦尔基里的一般技术笔记）"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111367,
+  "time": 1790198522,
   "version": "1.0.0-beta.43"
 }

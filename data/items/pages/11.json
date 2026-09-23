@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 295,
+        "name": "潮水钢盔",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/P8UHxFA7CWxK3apvgZk0lsD9HLhhkYBN.png",
+        "rarity": 1,
+        "description": "风纪委员会从引发夏日贫民窟骚动的滋事份子—潮水头盔团手中没收的头盔。 上面有因无谓的抵抗而留下的痕迹。"
+      },
       {
         "id": 1346,
         "name": "车票",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/nLx9WiKJBsmOIstbdoo7oTV1JqAYO7Vl.png",
         "rarity": 1,
         "description": "说明书上说，能提供如同用纸笔作画般的手感，但实际上……"
-      },
-      {
-        "id": 1666,
-        "name": "传说的记录板兑换券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/HT2LAW9pYVRl5rqUGDkI0hRbkbhqi2lH.png",
-        "rarity": 1,
-        "description": "获得时可兑换为传说的记录板的兑换券。若已获得该家具，则改为获得一个奥秘之书。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111348,
+  "time": 1790198501,
   "version": "1.0.0-beta.43"
 }

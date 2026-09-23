@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 102,
+        "name": "高级技术笔记（阿比多斯） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SsnK46yabxaYkC6soU4O4lcAW9eAJvlE.png",
+        "rarity": 3,
+        "description": "归纳阿比多斯高中战术核心的秘法笔记。 "
+      },
       {
         "id": 109,
         "name": "高级技术笔记（阿里乌斯） ",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/kLNbMdPEbqqtg2qEBjCZj9CMcy5cgYAZ.png",
         "rarity": 3,
         "description": "归纳山海经高级中学战术核心的秘法笔记。"
-      },
-      {
-        "id": 48,
-        "name": "高级技术笔记（圣三一） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/cp3TRDjFkgNtEeQbRY4BqgYXTvwZI5E3.png",
-        "rarity": 3,
-        "description": "归纳圣三一学园战术核心的秘法笔记。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111355,
+  "time": 1790198509,
   "version": "1.0.0-beta.43"
 }

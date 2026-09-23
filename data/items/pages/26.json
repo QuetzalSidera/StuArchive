@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 257,
+        "name": "红豆面包",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/uXfww1Azs4tgD9XnzJC01G1zIAazSq8B.png",
+        "rarity": 1,
+        "description": "进行吃面包竞走时使用的包着塑料袋的红豆面包。虽是只有包着豆沙馅的简单面包，但却大受部分女武神警察学园学生好评。"
+      },
       {
         "id": 264,
         "name": "红胡须勋章",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/q0xTsuFv1twTPnwFyxSOTCZG1qDjWpmA.png",
         "rarity": 1,
         "description": "塞满了用于整理仪容的工具套装。除了用于化妆这样的基本功能，若是熟练使用还能用于伪装。"
-      },
-      {
-        "id": 1108,
-        "name": "坏掉的古代火箭",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/jOl4eUYt2W0QFeFTF6iOttsvLmIP0g5g.png",
-        "rarity": 2,
-        "description": "被破坏到无法确定原始形状的古代火箭。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111363,
+  "time": 1790198518,
   "version": "1.0.0-beta.43"
 }

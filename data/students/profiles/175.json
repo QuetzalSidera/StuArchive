@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "id": 175,
   "display_name": "角楯 花凛",
   "names": {
@@ -637,7 +637,24 @@
       }
     ],
     "favorite_equipment": {
-      "id": 0
+      "id": 85,
+      "name": "女仆的花边围裙",
+      "name_cn": "",
+      "is_favorite": true,
+      "info": [
+        {
+          "description": "花凛平时总是穿着的围裙。 因为可以说是女仆的象征，所以她一直都十分爱惜地使用着。\n- T1\n防御贯穿值 +600",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/YUunJuGplpZpO9qRmKYDeTs0TNBxGfPE.png"
+        },
+        {
+          "description": "花凛平时总是穿着的围裙。 因为可以说是女仆的象征，所以她一直都十分爱惜地使用着。\n- T1\n防御贯穿值 +600\n- T2\n「火力支援，开始+」\n战斗开始时，赋予「代号02」\n持有「代号02」期间，EX技能的追加伤害也适用于大型敌人\n每40秒，对1名敌人造成攻击力579%的伤害\n并施加晕厥状态（持续3.1秒）",
+          "description_cn": "",
+          "icon": "https://static.kivo.wiki/images/equipment/icon/KwwcRvVcjJ4n9yyKs3hg8LR1HpEc8CDB.png"
+        }
+      ],
+      "detail_path": "equipments/85.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/85.json"
     },
     "cultivate_materials": [
       {
@@ -1962,8 +1979,8 @@
   "source": {
     "detail_path": "students/175.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/175.json",
-    "upstream_time": 1790110888,
-    "updated_at": 1789997056,
+    "upstream_time": 1790197734,
+    "updated_at": 1790180743,
     "created_at": 1685638189
   }
 }

@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 98,
+        "name": "情人节佩洛洛",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/GE55PcfittaZTMf81YEEWg70hIeIWrfJ.png",
+        "rarity": 1,
+        "description": "为庆祝情人节而推出的佩洛洛造型巧克力。因为是季节限定商品，所以在粉丝之间引起了一阵风潮。"
+      },
       {
         "id": 199,
         "name": "情人节神圣骷髅人",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/t9VcuJlWOnbbtExQzG3yIxybPytt97im.png",
         "rarity": 1,
         "description": "满准备的定制巧克力。饱含重视着忍术研究部同伴们的心意。将其送出时慌乱的过程，想必也是其中所蕴藏着的一道风味。"
-      },
-      {
-        "id": 1822,
-        "name": "忍者耳饰",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CIPB8uNTRpraIo499qZ3ttTullrZY8DV.png",
-        "rarity": 1,
-        "description": "造型简约的耳环。乍看只是普通饰品，但你深知这个形状背后的真意。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111388,
+  "time": 1790198548,
   "version": "1.0.0-beta.43"
 }

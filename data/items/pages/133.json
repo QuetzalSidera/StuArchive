@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 700,
+        "name": "海滩缤纷救生衣",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/YUPGCo6YwX9ojyCtuKRfEnOjHQXcBAB8.png",
+        "rarity": 3,
+        "description": "在哪都很显眼的缤纷救生衣。去海边玩必备的物品。"
+      },
+      {
+        "id": 1289,
+        "name": "海滩冲浪板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/J89KtbrrFq1adwczxdPD5PoQabE4Umo9.png",
+        "rarity": 2,
+        "description": "冲浪者们插在沙滩上的冲浪板。展现出其主人的个性。"
+      },
+      {
+        "id": 704,
+        "name": "海滩海景窗",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/NKEeC4rFFYTba3ooWXm1rB803T2yaK9s.png",
+        "rarity": 3,
+        "description": "遥望大海的海景窗。能让狭窄空间一瞬间变得宽敞。"
+      },
+      {
+        "id": 709,
+        "name": "海滩海景阳台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/5DjmlFF8X1kOMuSFiyzNWflGnfWsQdrs.png",
+        "rarity": 4,
+        "description": "能一眼望尽大海的夏日海景阳台。带来一丝夏日清新海洋的香气。"
+      },
       {
         "id": 690,
         "name": "海滩凉感垫子",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/NjiiL1i4hEdMnHDPS96CjLmiWCbkX8xg.png",
         "rarity": 3,
         "description": "细沙铺成的地板。能营造出海边漫步的氛围。"
-      },
-      {
-        "id": 1288,
-        "name": "海滩躺椅与迷你桌",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/FwvvE3Bc5U3OOelBFyzjITtmIPWLfxa9.png",
-        "rarity": 2,
-        "description": "享受日光浴的理想海滩躺椅。配上小桌和饮料，享受惬意时光。"
-      },
-      {
-        "id": 1284,
-        "name": "海滩野餐套装",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/p0PUXgXsuTcQWy4WS7493pkhvfBVeuU7.png",
-        "rarity": 3,
-        "description": "在海边，清凉的日荫和冷藏箱是必不可少的。完美的野餐套装。"
-      },
-      {
-        "id": 702,
-        "name": "海滩原木地板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/CrRsx3S2wYgIkA9iqDc1kC3zeQCoooIl.png",
-        "rarity": 3,
-        "description": "海滩原木地板。干净排列好的原木纹理使人拥有安全感。"
-      },
-      {
-        "id": 1258,
-        "name": "豪华瓷砖",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/WFFUG9Nbs5u59ZuVBKD0ySWXNFIqFLho.png",
-        "rarity": 3,
-        "description": "点缀着宴会会场地板的瓷砖。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111474,
+  "time": 1790198644,
   "version": "1.0.0-beta.43"
 }

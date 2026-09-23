@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 531,
-  "alias_count": 531,
-  "normalized_alias_count": 531,
+  "total_items": 533,
+  "alias_count": 533,
+  "normalized_alias_count": 533,
   "by_id": {
     "1": {
       "id": 1,
@@ -6384,6 +6384,30 @@
       },
       "detail_path": "models/548.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/548.json"
+    },
+    "549": {
+      "id": 549,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 549,
+        "name": "CH0320_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/549.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/549.json"
+    },
+    "550": {
+      "id": 550,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 550,
+        "name": "CH0321_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/550.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/550.json"
     }
   },
   "by_alias": {
@@ -7979,6 +8003,12 @@
     ],
     "CH0369_Halo": [
       "548"
+    ],
+    "CH0320_Halo": [
+      "549"
+    ],
+    "CH0321_Halo": [
+      "550"
     ]
   },
   "by_normalized_alias": {
@@ -9574,6 +9604,12 @@
     ],
     "ch0369_halo": [
       "548"
+    ],
+    "ch0320_halo": [
+      "549"
+    ],
+    "ch0321_halo": [
+      "550"
     ]
   }
 }

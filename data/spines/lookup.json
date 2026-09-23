@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1784,
-  "alias_count": 1781,
-  "normalized_alias_count": 1781,
+  "total_items": 1790,
+  "alias_count": 1787,
+  "normalized_alias_count": 1787,
   "by_id": {
     "1": {
       "id": 1,
@@ -23204,6 +23204,84 @@
       },
       "detail_path": "spines/1904.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1904.json"
+    },
+    "1905": {
+      "id": 1905,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1905,
+        "name": "CH0320_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1905.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1905.json"
+    },
+    "1906": {
+      "id": 1906,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1906,
+        "name": "CH0321_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1906.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1906.json"
+    },
+    "1907": {
+      "id": 1907,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1907,
+        "name": "CH0322_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1907.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1907.json"
+    },
+    "1908": {
+      "id": 1908,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1908,
+        "name": "NP0305_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1908.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1908.json"
+    },
+    "1909": {
+      "id": 1909,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1909,
+        "name": "CH0320_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1909.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1909.json"
+    },
+    "1910": {
+      "id": 1910,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1910,
+        "name": "CH0321_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1910.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1910.json"
     }
   },
   "by_alias": {
@@ -28552,6 +28630,24 @@
     ],
     "SC221000_01": [
       "1904"
+    ],
+    "CH0320_spr": [
+      "1905"
+    ],
+    "CH0321_spr": [
+      "1906"
+    ],
+    "CH0322_spr": [
+      "1907"
+    ],
+    "NP0305_spr": [
+      "1908"
+    ],
+    "CH0320_home": [
+      "1909"
+    ],
+    "CH0321_home": [
+      "1910"
     ]
   },
   "by_normalized_alias": {
@@ -33900,6 +33996,24 @@
     ],
     "sc221000_01": [
       "1904"
+    ],
+    "ch0320_spr": [
+      "1905"
+    ],
+    "ch0321_spr": [
+      "1906"
+    ],
+    "ch0322_spr": [
+      "1907"
+    ],
+    "np0305_spr": [
+      "1908"
+    ],
+    "ch0320_home": [
+      "1909"
+    ],
+    "ch0321_home": [
+      "1910"
     ]
   }
 }

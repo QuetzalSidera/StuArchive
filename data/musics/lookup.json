@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 995,
-  "alias_count": 1308,
-  "normalized_alias_count": 1308,
+  "total_items": 997,
+  "alias_count": 1310,
+  "normalized_alias_count": 1310,
   "by_id": {
     "1": {
       "id": 1,
@@ -15932,6 +15932,38 @@
       },
       "detail_path": "musics/1014.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1014.json"
+    },
+    "1015": {
+      "id": 1015,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1015,
+        "title": "Theme_377",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_377"
+      },
+      "detail_path": "musics/1015.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1015.json"
+    },
+    "1016": {
+      "id": 1016,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1016,
+        "title": "Theme_375",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_375"
+      },
+      "detail_path": "musics/1016.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1016.json"
     }
   },
   "by_alias": {
@@ -19859,6 +19891,12 @@
     ],
     "Theme_373": [
       "1014"
+    ],
+    "Theme_377": [
+      "1015"
+    ],
+    "Theme_375": [
+      "1016"
     ]
   },
   "by_normalized_alias": {
@@ -23786,6 +23824,12 @@
     ],
     "theme_373": [
       "1014"
+    ],
+    "theme_377": [
+      "1015"
+    ],
+    "theme_375": [
+      "1016"
     ]
   }
 }

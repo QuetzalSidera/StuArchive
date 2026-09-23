@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 2048,
+        "name": "家具选择箱(紫)",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Mvef3w1mxdddlKKkmKmB6AHeQV0XiXiy.png",
+        "rarity": 4,
+        "description": "从紫色稀有度家具中任意选择一个家具兑换的选择箱。"
+      },
       {
         "id": 221,
         "name": "甲虫皇后卡牌包",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/jjajKlA35qMwZZ5TTxxFQ7FjA2Gyu66c.png",
         "rarity": 1,
         "description": "号称包治百病的万能药。话虽如此，切忌过度依赖或过量服用！"
-      },
-      {
-        "id": 1370,
-        "name": "救生圈",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/XkNpwVkKPcL4H5Jbchel5sDqvpY0ku6l.png",
-        "rarity": 1,
-        "description": "援救溺水者时使用的救生圈。投出前请确认绳索是否绑好。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111371,
+  "time": 1790198526,
   "version": "1.0.0-beta.43"
 }

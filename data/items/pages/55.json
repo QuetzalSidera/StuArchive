@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 542,
+        "name": "十字架项圈设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/gfuMj0zYFcyPkEJ9qyvXdRckhnICl4DI.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
       {
         "id": 2002,
         "name": "石块",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/vaW8msVJTpihlFwghzBU6y5XPYNFxHg6.png",
         "rarity": 1,
         "description": "手工制作的花环。"
-      },
-      {
-        "id": 126,
-        "name": "手工巧克力SNAIL",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Rh6ZYoj3q9XjdtLAccp8qCL7Y7jOdbmY.png",
-        "rarity": 1,
-        "description": "爱丽丝以游戏内的怪兽“Snail”为灵感制作而成的手工巧克力道具，但不管怎么看都看不出Snail的影子。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111393,
+  "time": 1790198554,
   "version": "1.0.0-beta.43"
 }

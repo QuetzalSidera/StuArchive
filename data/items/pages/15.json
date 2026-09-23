@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 1355,
+        "name": "多功能绳",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XGbhnKM6baZnC3YDYNoaKaAeV842IQ4K.png",
+        "rarity": 1,
+        "description": "适用于户外多种用途的高弹性绳。含有千禧开发的新材料，有着足以绑住坦克的强度。"
+      },
       {
         "id": 511,
         "name": "恶魔翅膀手提包设计图",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/2TIXS683BGme83mUVxHIMQRwoDH4IvDC.png",
         "rarity": 1,
         "description": "纺自己作曲留下的乐谱。从热情的抒情诗到死亡金属，跨度非常广。"
-      },
-      {
-        "id": 403,
-        "name": "斐斯托斯圆盘碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/diuCSFFbrTJU6PMIOOu8biFdBok1RaZV.png",
-        "rarity": 1,
-        "description": "斐斯托斯圆盘的碎块。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111352,
+  "time": 1790198506,
   "version": "1.0.0-beta.43"
 }

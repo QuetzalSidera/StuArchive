@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 283,
+        "name": "水中活动装备",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/r2ik4YrCGiM7K2ojbkDLoH1eDdo66Hhe.png",
+        "rarity": 1,
+        "description": "包含潜水面镜及呼吸器等的正式水中活动装备。不建议用于水深50m以下。"
+      },
       {
         "id": 1680,
         "name": "私人沙滩手册",
@@ -69,25 +77,17 @@
         "description": "枪支上用于输送弹丸的铁管零件，以钛合金制作而成，更加轻盈坚固。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
       },
       {
-        "id": 1386,
-        "name": "炭烤鸡肉串",
+        "id": 2079,
+        "name": "钛碎片",
         "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/BMdiwIAj2nMFJjAkgWbBT2htyVyfJJuq.png",
+        "icon": "https://static.kivo.wiki/images/item/icon/TzolX9l9aZLio0pUMf2suqpjonMs5Rg9.png",
         "rarity": 1,
-        "description": "用炭火细细烤出的鸡肉串。散发着美味的香气。"
-      },
-      {
-        "id": 47,
-        "name": "特别功劳勋章巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/h6GUin1SUk1y6AeD2zNZcF6RVkFerJPg.png",
-        "rarity": 1,
-        "description": "玛丽娜达成了切流恩卡的生产目标后，作为奖励从切里诺那里得到的勋章。尽管因为它的原材料是巧克力所以吃掉就没了，但那份努力与名誉将会永远留在记忆中。"
+        "description": "通过克罗尔法还原四氯化钛制得，钛纯度高达99%。含杂质为铁，氧，以及微量的氮。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111396,
+  "time": 1790198556,
   "version": "1.0.0-beta.43"
 }

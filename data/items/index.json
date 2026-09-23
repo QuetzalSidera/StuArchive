@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-09-22T20:54:31Z",
+  "generated_at": "2026-09-23T21:06:29Z",
   "list_key": "item",
   "id_key": "id",
-  "max_page": 200,
-  "synced_pages": 200,
-  "total_items": 1997,
-  "details_synced": 1997,
+  "max_page": 201,
+  "synced_pages": 201,
+  "total_items": 2004,
+  "details_synced": 2004,
   "details_enabled": true,
   "items": [
     {
@@ -647,6 +647,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/sQzCq3CbBcXUl5k6cKSTLDbb5rOptRhV.png",
       "rarity": 1,
       "description": "可用于制作装备的设计图。"
+    },
+    {
+      "id": 2080,
+      "name": "玻璃碎片",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/zOueS093DKXHteb0m6DtxO0jl1tBc8ms.png",
+      "rarity": 1,
+      "description": "二氧化硅81%，三氧化二硼13%，氧化钠4%，氧化铝2%。热膨胀系数较低。"
     },
     {
       "id": 248,
@@ -4561,6 +4569,14 @@
       "description": "枪支上用于输送弹丸的铁管零件，以钛合金制作而成，更加轻盈坚固。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
     },
     {
+      "id": 2079,
+      "name": "钛碎片",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/TzolX9l9aZLio0pUMf2suqpjonMs5Rg9.png",
+      "rarity": 1,
+      "description": "通过克罗尔法还原四氯化钛制得，钛纯度高达99%。含杂质为铁，氧，以及微量的氮。"
+    },
+    {
       "id": 1386,
       "name": "炭烤鸡肉串",
       "type": "default",
@@ -4655,6 +4671,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/8hPUrhzsDMLLqRHM2D8rqUkUS9zw7qYm.png",
       "rarity": 1,
       "description": "据说是丽情用“特殊方法”制作的铁砂掌巧克力。那清晰可见的拳印是她弄上的。"
+    },
+    {
+      "id": 2078,
+      "name": "铜碎片",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/AvKjy1G9ojsRrslZPyS2PKVs6veML58w.png",
+      "rarity": 1,
+      "description": "铜85%，锡5%，锌5%，铅5%。表面浮现着由碱式碳酸铜形成的绿色铜锈，从断面则能窥见其氧化前鲜艳的黄褐色金属光泽。"
     },
     {
       "id": 317,
@@ -7318,7 +7342,15 @@
       "type": "furniture",
       "icon": "https://static.kivo.wiki/images/item/icon/LjlJ1ck9UB9P2ziHLWhPxQhMsRm9pqge.png",
       "rarity": 4,
-      "description": "可以播放6th PV视频的机器"
+      "description": "可播放6th PV视频的机器"
+    },
+    {
+      "id": 2077,
+      "name": "7th PV纪念播放器",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/9NplhTTmIXx3Mty2LwQCfidephynNDAC.png",
+      "rarity": 4,
+      "description": "可播放7th PV视频的机器。"
     },
     {
       "id": 1270,
@@ -10841,6 +10873,14 @@
       "description": "花香四溢的喷泉。散发出清凉的香气。"
     },
     {
+      "id": 2074,
+      "name": "化学工作台",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/1AjZ1oBOw6PZy8JtleakFhwjojuWRQQU.png",
+      "rarity": 4,
+      "description": "喜欢恶作剧的工程师所使用的化学工作台。不知为何，周围飘散着一股甜甜的，令人感觉十分美味的香气。"
+    },
+    {
       "id": 1605,
       "name": "划船用人造池塘",
       "type": "furniture",
@@ -10999,6 +11039,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/qMpx4Dol96M28vHDM3QlNxg72RGRMPwX.png",
       "rarity": 2,
       "description": "霍德（室内战）的荣誉银奖杯"
+    },
+    {
+      "id": 2075,
+      "name": "机械工程工作台",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/mfIcmSIpnaR3uxetsHMNtFVhXUadsMvP.png",
+      "rarity": 4,
+      "description": "重视原则的工程师所使用的工作台。她似乎对机械工程有着浓厚的兴趣。"
     },
     {
       "id": 691,
@@ -14417,6 +14465,14 @@
       "description": "训练用的木桩。精神上的混乱会表现为动作的混乱。"
     },
     {
+      "id": 2076,
+      "name": "研究委托公告板",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/q1DoIULp4jUNnTB0foMUDx6tmqDI5Zrt.png",
+      "rarity": 4,
+      "description": "帮助那些需要科学力量的人解决问题吧。努力争取把投入的成本给赚回来！"
+    },
+    {
       "id": 1306,
       "name": "演出大屏幕",
       "type": "furniture",
@@ -17392,7 +17448,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=200",
       "path": "items/pages/200.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/200.json",
-      "item_count": 7
+      "item_count": 10
+    },
+    {
+      "page": 201,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=201",
+      "path": "items/pages/201.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/201.json",
+      "item_count": 4
     }
   ],
   "details": [
@@ -17869,6 +17932,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/535",
       "path": "items/535.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/535.json"
+    },
+    {
+      "id": 2080,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2080",
+      "path": "items/2080.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2080.json"
     },
     {
       "id": 248,
@@ -20805,6 +20874,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/591.json"
     },
     {
+      "id": 2079,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2079",
+      "path": "items/2079.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2079.json"
+    },
+    {
       "id": 1386,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1386",
       "path": "items/1386.json",
@@ -20875,6 +20950,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1585",
       "path": "items/1585.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1585.json"
+    },
+    {
+      "id": 2078,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2078",
+      "path": "items/2078.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2078.json"
     },
     {
       "id": 317,
@@ -22873,6 +22954,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1732",
       "path": "items/1732.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1732.json"
+    },
+    {
+      "id": 2077,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2077",
+      "path": "items/2077.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2077.json"
     },
     {
       "id": 1270,
@@ -25515,6 +25602,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1249.json"
     },
     {
+      "id": 2074,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2074",
+      "path": "items/2074.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2074.json"
+    },
+    {
       "id": 1605,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1605",
       "path": "items/1605.json",
@@ -25633,6 +25726,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1433",
       "path": "items/1433.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1433.json"
+    },
+    {
+      "id": 2075,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2075",
+      "path": "items/2075.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2075.json"
     },
     {
       "id": 691,
@@ -28197,6 +28296,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2032.json"
     },
     {
+      "id": 2076,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2076",
+      "path": "items/2076.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2076.json"
+    },
+    {
       "id": 1306,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1306",
       "path": "items/1306.json",
@@ -29382,8 +29487,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1965,
-    "normalized_alias_count": 1965,
-    "total_items": 1997
+    "alias_count": 1972,
+    "normalized_alias_count": 1972,
+    "total_items": 2004
   }
 }

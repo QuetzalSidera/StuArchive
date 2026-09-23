@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 200,
+    "max_page": 201,
     "item": [
+      {
+        "id": 365,
+        "name": "破损的长发娃娃",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/Ekl2EGoitOD5eF70ZHxRjGJLWg63tNN2.png",
+        "rarity": 2,
+        "description": "严重破损、外观难辨的长发娃娃。可用来进行各种制造及强化。"
+      },
       {
         "id": 404,
         "name": "破损的斐斯托斯圆盘",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ak5kuECqMRjiGUvOT4T2sYoLXpG7aT1X.png",
         "rarity": 2,
         "description": "已破损到无法看出形体的圆盘坠饰。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1090,
-        "name": "普拉娜的普拉娜巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/nCPm5LJS4NuPgFrO4egAG6d72Afs7tTR.png",
-        "rarity": 1,
-        "description": "普拉娜瞒着阿罗娜做的巧克力。味道很符合老师的口味。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790111382,
+  "time": 1790198540,
   "version": "1.0.0-beta.43"
 }
