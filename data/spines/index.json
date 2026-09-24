@@ -7,13 +7,13 @@
     "api_path": "/data/spines/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/"
   },
-  "generated_at": "2026-09-23T21:06:29Z",
+  "generated_at": "2026-09-24T21:09:57Z",
   "list_key": "spine",
   "id_key": "id",
-  "max_page": 179,
-  "synced_pages": 179,
-  "total_items": 1790,
-  "details_synced": 1790,
+  "max_page": 180,
+  "synced_pages": 180,
+  "total_items": 1792,
+  "details_synced": 1792,
   "details_enabled": true,
   "items": [
     {
@@ -10755,6 +10755,18 @@
       "name": "CH0321_home",
       "remark": "",
       "type": "home"
+    },
+    {
+      "id": 1911,
+      "name": "feiniaomashi_home",
+      "remark": "2026中秋",
+      "type": "home"
+    },
+    {
+      "id": 1912,
+      "name": "toki_2026_midautumn",
+      "remark": "2026中秋",
+      "type": "spr"
     }
   ],
   "pages": [
@@ -12010,6 +12022,13 @@
       "path": "spines/pages/179.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/179.json",
       "item_count": 10
+    },
+    {
+      "page": 180,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/?page=180",
+      "path": "spines/pages/180.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/180.json",
+      "item_count": 2
     }
   ],
   "details": [
@@ -22752,13 +22771,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1910",
       "path": "spines/1910.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1910.json"
+    },
+    {
+      "id": 1911,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1911",
+      "path": "spines/1911.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1911.json"
+    },
+    {
+      "id": 1912,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1912",
+      "path": "spines/1912.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1912.json"
     }
   ],
   "lookup": {
     "path": "spines/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/lookup.json",
-    "alias_count": 1787,
-    "normalized_alias_count": 1787,
-    "total_items": 1790
+    "alias_count": 1789,
+    "normalized_alias_count": 1789,
+    "total_items": 1792
   }
 }
