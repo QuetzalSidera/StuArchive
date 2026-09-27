@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "StuArchive",
   "description": "A static JSON mirror of public Blue Archive data exposed by Kivo Wiki.",
-  "generated_at": "2026-09-26T20:40:02Z",
+  "generated_at": "2026-09-27T20:54:45Z",
   "generator": "scripts/sync.py",
   "source": {
     "site": "https://kivo.wiki/",
@@ -26,7 +26,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/",
       "path": "meta/api-root.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/api-root.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "statistics",
@@ -35,7 +35,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/statistics/index",
       "path": "meta/statistics.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/statistics.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-event",
@@ -44,7 +44,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/event.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/event.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-event-jp",
@@ -53,7 +53,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/events/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/jp.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-event-cn",
@@ -62,7 +62,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=cn",
       "path": "current/events/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-raid",
@@ -74,7 +74,7 @@
       "fetched_at": "2026-09-24T21:09:57Z",
       "stale": true,
       "sync_error": "Network error for https://api.kivo.wiki/api/v1/data/raid/now?server=jp: The read operation timed out",
-      "sync_attempted_at": "2026-09-26T20:40:02Z"
+      "sync_attempted_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-raid-jp",
@@ -86,7 +86,7 @@
       "fetched_at": "2026-09-24T21:09:57Z",
       "stale": true,
       "sync_error": "Network error for https://api.kivo.wiki/api/v1/data/raid/now?server=jp: The read operation timed out",
-      "sync_attempted_at": "2026-09-26T20:40:02Z"
+      "sync_attempted_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-raid-cn",
@@ -95,7 +95,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=cn",
       "path": "current/raids/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/cn.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-pick-up",
@@ -104,7 +104,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-up.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-up.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-pick-up-jp",
@@ -113,7 +113,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-ups/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "current-pick-up-cn",
@@ -122,7 +122,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=cn",
       "path": "current/pick-ups/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/cn.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "lucky-item",
@@ -131,7 +131,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/lucky_item/",
       "path": "current/lucky-item.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/lucky-item.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "students-birthday-week",
@@ -140,7 +140,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/birthday/week",
       "path": "current/students-birthday-week.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/students-birthday-week.json",
-      "fetched_at": "2026-09-26T20:40:02Z"
+      "fetched_at": "2026-09-27T20:54:45Z"
     },
     {
       "name": "students",
@@ -358,8 +358,8 @@
       "details_available": true,
       "lookup_path": "musics/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-      "lookup_alias_count": 1310,
-      "lookup_normalized_alias_count": 1310
+      "lookup_alias_count": 1312,
+      "lookup_normalized_alias_count": 1312
     },
     {
       "name": "timeline",
@@ -369,15 +369,15 @@
       "path": "timeline/index.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "list_key": "timeline",
-      "max_page": 589,
-      "synced_pages": 589,
-      "total_items": 5881,
+      "max_page": 593,
+      "synced_pages": 593,
+      "total_items": 5922,
       "details_synced": 0,
       "details_available": true,
       "lookup_path": "timeline/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-      "lookup_alias_count": 5872,
-      "lookup_normalized_alias_count": 5865
+      "lookup_alias_count": 5912,
+      "lookup_normalized_alias_count": 5905
     },
     {
       "name": "walkthroughs",
@@ -434,7 +434,7 @@
       "lookup_normalized_alias_count": 8
     }
   ],
-  "request_count": 7673,
+  "request_count": 7677,
   "sync_errors": [
     {
       "name": "current-raid",
