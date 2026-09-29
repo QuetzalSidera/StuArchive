@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1140,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁11",
+        "image": "",
+        "body_summary": "[7/19(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1549289228772581377",
+        "start_time": 1658214160,
+        "end_time": 1658214160
+      },
       {
         "id": 389,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1546373724349337600",
         "start_time": 1657969200,
         "end_time": 1657981320
-      },
-      {
-        "id": 381,
-        "line_type": "JP",
-        "title": "屋外戦・ビナー3",
-        "image": "https://static.kivo.wiki/images/timeline/pJEtTW9Q3tGn5ldIM1WFaD00ZBKIxL6V.jpg",
-        "body_summary": "【総力戦・予告】 7月13日(水)11:00より、総力戦「屋外戦・ビナー」が開幕します！ 総力戦ではサークルメンバーの他、新たに追加された「フレンドシステム」で登録した先生の力もお借りできます。 この",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1545966301394665472",
-        "start_time": 1657681200,
-        "end_time": 1658260799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550403,
+  "time": 1790643187,
   "version": "1.0.0-beta.43"
 }

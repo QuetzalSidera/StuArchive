@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 3678,
+        "line_type": "Globle",
+        "title": "国际服炸服 #21",
+        "image": "",
+        "body_summary": "[2/5 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 2/5 (Wed). Plea",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1886367860085383580",
+        "start_time": 1738720839,
+        "end_time": 1738729839
+      },
       {
         "id": 3648,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1885916094520865184",
         "start_time": 1738573200,
         "end_time": 1739329199
-      },
-      {
-        "id": 3643,
-        "line_type": "JP",
-        "title": "例行维护 #113",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/3(月) 11:00 〜 17:00前後 ▼詳細 https://b",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1885931207151722604",
-        "start_time": 1738551600,
-        "end_time": 1738573200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550089,
+  "time": 1790642898,
   "version": "1.0.0-beta.43"
 }

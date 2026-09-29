@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 810,
+        "line_type": "JP",
+        "title": "特别依赖2倍#36",
+        "image": "https://static.kivo.wiki/images/timeline/LFuMLYz3wwAOBqsSXA6aOdU2Rx2WGJuv.jpg",
+        "body_summary": "【キャンペーン予告】 「特別依頼」において「レポート」と「クレジット」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2023/10/18(水)4:00 ~ 2023/10/24",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1713389424715980811",
+        "start_time": 1697572800,
+        "end_time": 1698091199
+      },
       {
         "id": 2095,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1713089756282704348",
         "start_time": 1697482838,
         "end_time": 1697914778
-      },
-      {
-        "id": 1552,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍19",
-        "image": "https://static.kivo.wiki/images/timeline/8posqLLQQo17hR1g45acwcj6YnuwjgAV.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 10/16 (Mon), Commissions rewards will be doubled! Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1713087244213375303",
-        "start_time": 1697482816,
-        "end_time": 1698087556
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550294,
+  "time": 1790643087,
   "version": "1.0.0-beta.43"
 }

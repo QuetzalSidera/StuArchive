@@ -60,7 +60,7 @@
     "is_install_global": false,
     "is_npc": false,
     "show_list": true,
-    "body_shape": "Medium",
+    "body_shape": "Large",
     "special_appearance": true,
     "more": "",
     "recollection_lobby_image": "",
@@ -88,7 +88,22 @@
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/jp/ch0329_cardgame_act_1_2.ogg"
       }
     ],
-    "voice_cn": [],
+    "voice_cn": [
+      {
+        "description": "ch0329_cardgame_act_1_1",
+        "category": "event",
+        "text": "哟呼，我们是第一次见呢，你喜欢温泉吗？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/cn/ch0329_cardgame_act_1_1.ogg"
+      },
+      {
+        "description": "ch0329_cardgame_act_1_2",
+        "category": "event",
+        "text": "呼呜~很好！那我就来告诉你更多温泉的魅力吧。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/cn/ch0329_cardgame_act_1_2.ogg"
+      }
+    ],
     "voice_kr": [
       {
         "description": "ch0329_cardgame_act_1_1",
@@ -191,10 +206,10 @@
     "supplementary_uuid": "3d06ec6c-66ec-44e3-876f-22f9aba54021",
     "supplementary_declare_uuid": "155c75b8-42d7-42d4-9cf6-b358bf0e586a",
     "created_at": 1753188341,
-    "updated_at": 1789997386
+    "updated_at": 1790584787
   },
   "message": "OK",
   "success": true,
-  "time": 1790542751,
+  "time": 1790636035,
   "version": "1.0.0-beta.43"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-27T20:54:45Z",
+  "generated_at": "2026-09-28T22:56:58Z",
   "id": 547,
   "display_name": "下仓 惠（泳装）",
   "names": {
@@ -61,7 +61,7 @@
     "character_voice": "爱原亚里沙",
     "character_voice_cn": "美加",
     "nick_name": "",
-    "body_shape": "Medium"
+    "body_shape": "Large"
   },
   "affiliation": {
     "school": {
@@ -215,7 +215,22 @@
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/jp/ch0329_cardgame_act_1_2.ogg"
       }
     ],
-    "voice_cn": [],
+    "voice_cn": [
+      {
+        "description": "ch0329_cardgame_act_1_1",
+        "category": "event",
+        "text": "哟呼，我们是第一次见呢，你喜欢温泉吗？",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/cn/ch0329_cardgame_act_1_1.ogg"
+      },
+      {
+        "description": "ch0329_cardgame_act_1_2",
+        "category": "event",
+        "text": "呼呜~很好！那我就来告诉你更多温泉的魅力吧。",
+        "text_original": "",
+        "file": "https://static.kivo.wiki/voices/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/cn/ch0329_cardgame_act_1_2.ogg"
+      }
+    ],
     "voice_kr": [
       {
         "description": "ch0329_cardgame_act_1_1",
@@ -236,8 +251,8 @@
   "source": {
     "detail_path": "students/547.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/547.json",
-    "upstream_time": 1790542751,
-    "updated_at": 1789997386,
+    "upstream_time": 1790636035,
+    "updated_at": 1790584787,
     "created_at": 1753188341
   }
 }

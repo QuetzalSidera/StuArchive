@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2150,
+        "line_type": "Globle",
+        "title": "国际服大决战 Perorodzilla (Field)",
+        "image": "https://static.kivo.wiki/images/timeline/BzZXZBTImx7avkHWIlFh8gihWvQDg9ic.jpg",
+        "body_summary": "[Grand Assault Open Notice] The Grand Assault - Perorodzilla (Field Warfare) has opened 2/20 (Tue) a",
+        "type": "BigRaid",
+        "url": "twitter.com/EN_BlueArchive/status/1759837852001808491",
+        "start_time": 1708412452,
+        "end_time": 1708999192
+      },
       {
         "id": 2138,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/BlueArchive_TV/status/1759125600080380222",
         "start_time": 1708246800,
         "end_time": 1708246800
-      },
-      {
-        "id": 2139,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍4",
-        "image": "https://static.kivo.wiki/images/timeline/v4zWehzIa3GqTMigov9Ny2BqtPrs3Ohv.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/16 (Fri)! Don't m",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1758388239583588845",
-        "start_time": 1708110040,
-        "end_time": 1708282780
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550240,
+  "time": 1790643036,
   "version": "1.0.0-beta.43"
 }

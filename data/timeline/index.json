@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-09-27T20:54:45Z",
+  "generated_at": "2026-09-28T22:56:58Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 593,
   "synced_pages": 593,
-  "total_items": 5922,
+  "total_items": 5923,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -202,6 +202,17 @@
       "url": "x.com/EN_BlueArchive/status/2103741362730410359",
       "start_time": 1790622000,
       "end_time": 1791226799
+    },
+    {
+      "id": 6085,
+      "line_type": "CN",
+      "title": "渚（泳装）",
+      "image": "https://static.kivo.wiki/images/timeline/4wUpAFPik0uh4O8ksYAdTI6FYIOscW4d.jpg",
+      "body_summary": "//////////档案启封////////// ■ 渚（泳装） 茶话会的主持者，同时也是【菲利乌斯】分派的领袖。 半是被强行带来度假的她，无时无刻不在担忧着剩下的工作。然而，她心中似乎并不讨厌现在的",
+      "type": "Other",
+      "url": "weibo.com/6011443154/RkaHFq6bc",
+      "start_time": 1790564400,
+      "end_time": 1790564400
     },
     {
       "id": 6082,
@@ -550,7 +561,7 @@
       "title": "国际服开发者来信与特别礼品通知",
       "image": "https://static.kivo.wiki/images/timeline/r05T6ngrOjAN4MJEblgDIrXmu8T4sl3N.jpg",
       "body_summary": "[Developer’s Letter and Special Gift Notice] Sensei, fall is just around the corner! 🍂 To express ou",
-      "type": "Event",
+      "type": "Other",
       "url": "x.com/EN_BlueArchive/status/2102593811943743669",
       "start_time": 1790132400,
       "end_time": 1790524799
@@ -69309,15 +69320,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=593",
       "path": "timeline/pages/593.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/593.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5912,
-    "normalized_alias_count": 5905,
-    "total_items": 5922
+    "alias_count": 5913,
+    "normalized_alias_count": 5906,
+    "total_items": 5923
   }
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-27T20:54:45Z",
+  "generated_at": "2026-09-28T22:56:58Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5922,
-  "alias_count": 5912,
-  "normalized_alias_count": 5905,
+  "total_items": 5923,
+  "alias_count": 5913,
+  "normalized_alias_count": 5906,
   "by_id": {
     "6065": {
       "id": 6065,
@@ -318,6 +318,24 @@
       },
       "detail_path": "timeline/6051.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6051.json"
+    },
+    "6085": {
+      "id": 6085,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6085,
+        "line_type": "CN",
+        "title": "渚（泳装）",
+        "image": "https://static.kivo.wiki/images/timeline/4wUpAFPik0uh4O8ksYAdTI6FYIOscW4d.jpg",
+        "body_summary": "//////////档案启封////////// ■ 渚（泳装） 茶话会的主持者，同时也是【菲利乌斯】分派的领袖。 半是被强行带来度假的她，无时无刻不在担忧着剩下的工作。然而，她心中似乎并不讨厌现在的",
+        "type": "Other",
+        "url": "weibo.com/6011443154/RkaHFq6bc",
+        "start_time": 1790564400,
+        "end_time": 1790564400
+      },
+      "detail_path": "timeline/6085.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6085.json"
     },
     "6082": {
       "id": 6082,
@@ -887,7 +905,7 @@
         "title": "国际服开发者来信与特别礼品通知",
         "image": "https://static.kivo.wiki/images/timeline/r05T6ngrOjAN4MJEblgDIrXmu8T4sl3N.jpg",
         "body_summary": "[Developer’s Letter and Special Gift Notice] Sensei, fall is just around the corner! 🍂 To express ou",
-        "type": "Event",
+        "type": "Other",
         "url": "x.com/EN_BlueArchive/status/2102593811943743669",
         "start_time": 1790132400,
         "end_time": 1790524799
@@ -106662,6 +106680,9 @@
     "国际服课程表2倍 #44": [
       "6051"
     ],
+    "渚(泳装)": [
+      "6085"
+    ],
     "2026中秋节礼物": [
       "6082"
     ],
@@ -124409,6 +124430,9 @@
     ],
     "国际服课程表2倍#44": [
       "6051"
+    ],
+    "渚(泳装)": [
+      "6085"
     ],
     "2026中秋节礼物": [
       "6082"

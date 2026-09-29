@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1521,
+        "line_type": "Globle",
+        "title": "国际服活动「The Restoration Project: D.U. Shiratori City」",
+        "image": "https://static.kivo.wiki/images/timeline/XytAipGECKUFxptI6N4jlJaeGVLBE5XR.jpg",
+        "body_summary": "[Event Update Notice] The Restoration Project: D.U. Shiratori City event is starting! The damage to ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1700433863787557145",
+        "start_time": 1694250025,
+        "end_time": 1695088825
+      },
       {
         "id": 1669,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1698637122562134142",
         "start_time": 1693944000,
         "end_time": 1694548800
-      },
-      {
-        "id": 3516,
-        "line_type": "Globle",
-        "title": "国际服联合作战「The Phrenapates Showdown」",
-        "image": "https://static.kivo.wiki/images/timeline/90iK7IlSIIzLnl2QhcumryM3zovbpixa.jpg",
-        "body_summary": "[Main Story and Event Notice] Main Story Final Episode Chapter 4 'The Phrenapates Showdown' begins t",
-        "type": "AlliedOperation",
-        "url": "x.com/EN_BlueArchive/status/1698932710876799161",
-        "start_time": 1693908000,
-        "end_time": 1695088800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550306,
+  "time": 1790643097,
   "version": "1.0.0-beta.43"
 }

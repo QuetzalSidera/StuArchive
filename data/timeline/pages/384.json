@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2037,
+        "line_type": "Globle",
+        "title": "国际服例行维护54",
+        "image": "",
+        "body_summary": "[1/30 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 1/30 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1750805784211128428",
+        "start_time": 1706580021,
+        "end_time": 1706605221
+      },
       {
         "id": 2039,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/BlueArchive_TV/status/1750790680123687390",
         "start_time": 1706259600,
         "end_time": 1706259600
-      },
-      {
-        "id": 2071,
-        "line_type": "JP",
-        "title": "炸服32",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 まもなく臨時メンテナンスの開始時刻です。 先生、ご協力のほどお願いいたします！ ▼実施日時 2024年1月26日(金) 9:00 〜 10:00前後 ▼詳細 https://bl",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1750662370568073237",
-        "start_time": 1706230800,
-        "end_time": 1706234400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550250,
+  "time": 1790643046,
   "version": "1.0.0-beta.43"
 }

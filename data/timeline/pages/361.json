@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2348,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒",
+        "image": "",
+        "body_summary": "【制約解除決戦・開催】 先生、降り注ぐ稲妻と、絶え間なく襲ってくる雷球に注意です……！ セトの憤怒は各区間ごとに変化していくようなので、油断せず挑みましょう……！ 「制約解除決戦・セトの憤怒」開催です",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1773169070126624777",
+        "start_time": 1711594800,
+        "end_time": 1713902399
+      },
       {
         "id": 2338,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/BlueArchive_TV/status/1772820839525728294",
         "start_time": 1711512000,
         "end_time": 1711512000
-      },
-      {
-        "id": 2346,
-        "line_type": "JP",
-        "title": "例行维护91",
-        "image": "https://static.kivo.wiki/images/timeline/6E92jmjoyrQEajRAjld9SpxJUnXHvYfx.gif",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/27(水) 11:00 〜 19:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1772503822491070937",
-        "start_time": 1711508400,
-        "end_time": 1711537200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550226,
+  "time": 1790643023,
   "version": "1.0.0-beta.43"
 }

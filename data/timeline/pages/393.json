@@ -8,13 +8,13 @@
       "BigRaid": 95,
       "ContentImprovements": 431,
       "Double": 988,
-      "Event": 534,
+      "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 213,
-      "Other": 725,
+      "Other": 727,
       "OtherStory": 72,
       "OutsideGames": 906,
       "Raid": 257,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1871,
+        "line_type": "JP",
+        "title": "联合火力演习23",
+        "image": "https://static.kivo.wiki/images/timeline/UQZf7pQrObdkCT8mYOfcyhpPI8xQDCj0.jpg",
+        "body_summary": "【合同火力演習・予告】 1月10日(水)メンテナンス後、合同火力演習「射撃演習」が開幕します！ 今回のルールでは敵のHPが増加する代わりに、味方の会心値が増加する他、トリニティ所属の生徒さんの攻撃力が",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1743558340482080785",
+        "start_time": 1704877200,
+        "end_time": 1705435199
+      },
       {
         "id": 1890,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/461",
         "start_time": 1704772857,
         "end_time": 1704772857
-      },
-      {
-        "id": 1877,
-        "line_type": "Globle",
-        "title": "国际服例行维护53",
-        "image": "",
-        "body_summary": "[1/9 Maintenance Notice] We're currently under our 1/9 (Tue) scheduled maintenance, and the game is ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1744539487022293485",
-        "start_time": 1704765618,
-        "end_time": 1704783618
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790550261,
+  "time": 1790643055,
   "version": "1.0.0-beta.43"
 }
