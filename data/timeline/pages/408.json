@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1603,
+        "line_type": "Globle",
+        "title": "国际服总力战 Perorodzilla (Field) 3",
+        "image": "https://static.kivo.wiki/images/timeline/t4SykXfGdXgGiwLpFCWvlaDyEhe6Fx5C.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Perorodzilla (Field Warfare) has opened 11/28 (Tue) ",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1729380033851187544",
+        "start_time": 1701154856,
+        "end_time": 1701630056
+      },
+      {
+        "id": 1602,
+        "line_type": "Globle",
+        "title": "国际服卡池「Black and White Amid a world of gray, she shines like a beacon of hope.」",
+        "image": "https://static.kivo.wiki/images/timeline/GBGuzX35MifPi6GsjfDOAPKpq5dWcws8.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 11/28 (Tue)! Pick-Up Student: ",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1728341504215896402",
+        "start_time": 1701154830,
+        "end_time": 1702346370
+      },
       {
         "id": 1600,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "b23.tv/0gTrPve",
         "start_time": 1700892000,
         "end_time": 1700917959
-      },
-      {
-        "id": 1031,
-        "line_type": "JP",
-        "title": "音效错误bug",
-        "image": "",
-        "body_summary": "【不具合修正】 下記の不具合が修正されました。 ・ 音声一覧にて、生徒ムツキ（正月）さんのボイスが正しく適用されていない ・ メインストーリーVol.5「百花繚乱」編において、18話、20話に一部のS",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1727974839187857621",
-        "start_time": 1700816013,
-        "end_time": 1700816013
-      },
-      {
-        "id": 1637,
-        "line_type": "CN",
-        "title": "《蔚蓝档案》第2张游戏原声专辑上线",
-        "image": "https://static.kivo.wiki/images/timeline/QWQybh9RI1IX9JBcGfgHqzZ3JthtWBKJ.jpg",
-        "body_summary": "《蔚蓝档案》第2张游戏原声专辑《Blue Archive Original Soundtrack Vol.2 ~Searching for the unknown truth~》现已上线APPLE M",
-        "type": "OutsideGames",
-        "url": "b23.tv/a8YJJaw",
-        "start_time": 1700794800,
-        "end_time": 1700831422
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643070,
+  "time": 1790727407,
   "version": "1.0.0-beta.43"
 }

@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 931,
+        "line_type": "JP",
+        "title": "战术对抗战S3开幕",
+        "image": "",
+        "body_summary": "戦術対抗戦シーズン3（屋内戦）開催",
+        "type": "ContentImprovements",
+        "url": "bluearchive.jp/news/newsJump/173",
+        "start_time": 1639562437,
+        "end_time": 1639562437
+      },
+      {
+        "id": 237,
+        "line_type": "JP",
+        "title": "卡池「湯けむりは星月夜に溶けて」",
+        "image": "https://static.kivo.wiki/images/timeline/dwuNaDUfQuaQpipvAiF7nnkOHaVKWuXs.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「湯けむりは星月夜に溶けて」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ノドカ(温泉)(CV：#佐藤聡美) 🔹詳細 https://bluearchiv",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1470619616007565312",
+        "start_time": 1639562400,
+        "end_time": 1640750400
+      },
       {
         "id": 223,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1469955181743939590",
         "start_time": 1639468800,
         "end_time": 1640026800
-      },
-      {
-        "id": 873,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.2更新",
-        "image": "https://static.kivo.wiki/images/timeline/kwXSvhikGJvLYhHFZsgLnxGFY46eGQGb.jpg",
-        "body_summary": "[Update Preview] Sensei, a new main story, Clockwork Flower Pavane will be released on 12/14 (Tue)! ",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1469924982775955456",
-        "start_time": 1639468800,
-        "end_time": 1639468800
-      },
-      {
-        "id": 872,
-        "line_type": "Globle",
-        "title": "国际服卡池「You played our game too, right?」",
-        "image": "https://static.kivo.wiki/images/timeline/R4JSfskEdhrjiDZ7rdAZbawc4bj4XrJ4.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 12/14 (Tue)! Target Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1469592797250732040",
-        "start_time": 1639468800,
-        "end_time": 1640660400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643221,
+  "time": 1790727590,
   "version": "1.0.0-beta.43"
 }

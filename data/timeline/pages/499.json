@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 522,
+        "line_type": "JP",
+        "title": "任务Normal2倍#21",
+        "image": "https://static.kivo.wiki/images/timeline/oseuyHsVhzLpbnJEjZmkQy2xzy9aF7ov.jpg",
+        "body_summary": "【キャンペーン予告】 まもなく「任務(Normal)」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 12月18日(日)4:00〜12月25日(日)3:59 不足している生徒さん",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1603224557506416641",
+        "start_time": 1671307200,
+        "end_time": 1671911999
+      },
+      {
+        "id": 521,
+        "line_type": "JP",
+        "title": "迷你剧情追加「万魔殿のレッドウィンター巡回録」",
+        "image": "https://static.kivo.wiki/images/timeline/ZhBsQ43bJrwQi7EA1lldkhIFfoffdqjm.jpg",
+        "body_summary": "【ミニストーリー】 メンテナンス終了後、新コンテンツ「ミニストーリー」が追加されます！ 第一弾は、万魔殿が極秘裏に行ったとされるレッドウィンター巡回での一部始終を記録した物語…！ いつもの生徒さん達と",
+        "type": "OtherStory",
+        "url": "twitter.com/Blue_ArchiveJP/status/1602936513305509888",
+        "start_time": 1671010200,
+        "end_time": 1671015600
+      },
       {
         "id": 519,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1601501987501137921",
         "start_time": 1670896802,
         "end_time": 1671501602
-      },
-      {
-        "id": 516,
-        "line_type": "JP",
-        "title": "任务Normal2倍#20",
-        "image": "https://static.kivo.wiki/images/timeline/8y9SuYJ4wzmw6Q7M0OeHjp6SLBn8qJ9t.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」の報酬ドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 12月11日(日)4:00〜12月14日(水)3:59 この機会に生徒さん達",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1600777274693124098",
-        "start_time": 1670702400,
-        "end_time": 1670961599
-      },
-      {
-        "id": 515,
-        "line_type": "JP",
-        "title": "卡池复刻「機械たちは旅立ちの夢を見るか？」＆「夢を奏でる春告げのRPG 」＆「共鳴する風信子」",
-        "image": "https://static.kivo.wiki/images/timeline/XLoh2WcE2Xinon5wBoaj8OqfZGz18g3q.jpg",
-        "body_summary": "【ピックアップ募集・予告】 復刻ピックアップ募集「機械たちは旅立ちの夢を見るか？」＆「夢を奏でる春告げのRPG 」＆「共鳴する風信子」の3種がまもなく開催されます！ 詳しくは下記URLよりご確認くださ",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1599690176791719937",
-        "start_time": 1670382000,
-        "end_time": 1670986799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643160,
+  "time": 1790727517,
   "version": "1.0.0-beta.43"
 }

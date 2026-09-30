@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 172,
+        "line_type": "JP",
+        "title": "任务Area15开放 咖啡厅升级",
+        "image": "https://static.kivo.wiki/images/timeline/POtPdw8FigycaU2tfwgwl960NdZeNK6x.jpg",
+        "body_summary": "【エリア解放予告】 【任務】Area15が9/9(木)に解放されます！ 「Normal」15-5を見事にクリアしたら、カフェレベルアップ用アイテム「カフェ設備コアLv.2」が獲得できます！そして「Ha",
+        "type": "ContentImprovements",
+        "url": "twitter.com/Blue_ArchiveJP/status/1435151112181481472",
+        "start_time": 1631181600,
+        "end_time": 1631181600
+      },
+      {
+        "id": 171,
+        "line_type": "JP",
+        "title": "屋外戦・ケセド2",
+        "image": "https://static.kivo.wiki/images/timeline/vy7bVMRQg2kcOZjnDp1GH7C4wkqMFUgG.jpg",
+        "body_summary": "【総力戦予告】 9月9日(木)メンテナンス後、「屋外戦・ケセド」が開催されます！ 順位に応じて「ケセド(屋外戦)トロフィー」が獲得できるチャンスです！ ぜひ上位を目指して頑張ってくださいね、先生！！ ",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1434804085962641415",
+        "start_time": 1631181600,
+        "end_time": 1631721599
+      },
       {
         "id": 173,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/144",
         "start_time": 1629979200,
         "end_time": 1629979200
-      },
-      {
-        "id": 166,
-        "line_type": "JP",
-        "title": "回忆大厅追加语音：泉奈、绿、桃",
-        "image": "",
-        "body_summary": "【メモリアルロビー】 今回のアップデートでは、イズナさん、ミドリさん、そしてモモイさんのメモリアルロビーにトークモーションが追加されます！ 3人の生徒さんが、以前よりますます表情豊かになりますので、ぜ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1430817003690893314",
-        "start_time": 1629979200,
-        "end_time": 1629979200
-      },
-      {
-        "id": 165,
-        "line_type": "JP",
-        "title": "卡池「やがて未来に変わる庇護」",
-        "image": "https://static.kivo.wiki/images/timeline/HP1TsDUSdiSzKPAU2CDSPx754qaXQ1OR.jpg",
-        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「やがて未来に変わる庇護」がまもなく開催されます！ 🔷開催期間 2021年8月26日(木) メンテナンス後 ~ 2021年9月9日(木)メンテナン",
-        "type": "Gacha",
-        "url": "twitter.com/Blue_ArchiveJP/status/1430443590409363459",
-        "start_time": 1629979200,
-        "end_time": 1631160000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643233,
+  "time": 1790727606,
   "version": "1.0.0-beta.43"
 }

@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 473,
+        "line_type": "JP",
+        "title": "晄轮大祭项目推特活动：トライアスロン",
+        "image": "",
+        "body_summary": "【#晄輪大祭トライアスロン】 先生！ 今回の晄輪大祭の種目は「トライアスロン」です！ スイム、バイク、ランとそれぞれ過酷な競技… どのようなドラマが待っているのでしょうか…！ 下のツイートボタンから誰",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1583291987763118080",
+        "start_time": 1666324800,
+        "end_time": 1666324800
+      },
+      {
+        "id": 472,
+        "line_type": "JP",
+        "title": "卡池复刻「閃きよ、この世界を照らして」＆「夜明けに珈琲を 手の甲に誓いを」",
+        "image": "https://static.kivo.wiki/images/timeline/0UerAm7sxjXXiPB6aJ3GGqZQuJPI7byv.jpg",
+        "body_summary": "【ピックアップ募集・予告】 復刻ピックアップ募集「閃きよ、この世界を照らして」＆「夜明けに珈琲を 手の甲に誓いを」がまもなく開催されます！ 🔹ピックアップ生徒 ★3 ヒビキ(CV: #名塚佳織) ★3",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1582235054427713537",
+        "start_time": 1666148400,
+        "end_time": 1666753199
+      },
       {
         "id": 469,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1581842440536719360",
         "start_time": 1666058433,
         "end_time": 1666076433
-      },
-      {
-        "id": 1214,
-        "line_type": "Globle",
-        "title": "国际服特别依赖2倍9",
-        "image": "https://static.kivo.wiki/images/timeline/SsCYLbQONn6V9o0NuAkv4ekAAG2N8sgN.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 10/17 (Mon), Commissions rewards will be doubled! Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1581540445837922305",
-        "start_time": 1666033205,
-        "end_time": 1666637945
-      },
-      {
-        "id": 467,
-        "line_type": "JP",
-        "title": "任务Normal2倍#18",
-        "image": "https://static.kivo.wiki/images/timeline/3JmsViobRycPJbOOOCf6VvRt0UwQRnjN.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「任務(Normal)」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 10月16日(日)4:00〜10月23日(日)3:59 「Area20」が開放さ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1580483528508133376",
-        "start_time": 1665864000,
-        "end_time": 1666468799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643171,
+  "time": 1790727530,
   "version": "1.0.0-beta.43"
 }

@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 32,
+        "line_type": "JP",
+        "title": "例行维护 #2",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/11(木) 14:00 〜 21:00 ▼更新内容 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1359367398294388739",
+        "start_time": 1613023200,
+        "end_time": 1613048400
+      },
+      {
+        "id": 31,
+        "line_type": "JP",
+        "title": "卡池「赤の季節、黒の制服」",
+        "image": "https://static.kivo.wiki/images/timeline/sBFB99KGuTAqIhY4lPcMgYRvo6q0Cr8B.jpg",
+        "body_summary": "【ピックアップ募集予告】 バレンタインピックアップ募集「赤の季節、黒の制服」が明日から開催です！ 🔷開催期間 2021年2月11日(木) メンテナンス後 ~ 2021年2月25日(木)13:59 🔷ピ",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1359351402762391552",
+        "start_time": 1613023200,
+        "end_time": 1614232799
+      },
       {
         "id": 30,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1357187138551377922",
         "start_time": 1612414800,
         "end_time": 1613023200
-      },
-      {
-        "id": 690,
-        "line_type": "JP",
-        "title": "学生介绍：桃香",
-        "image": "https://static.kivo.wiki/images/timeline/HiV2RCDeHCn1Ra0igLD7adExPzrcjxCr.jpg",
-        "body_summary": "【生徒紹介】 モモカさん、またお菓子を食べてます。 同じ生徒会でも、リンさんと正反対の怠け者さんですね。 でも周囲の批判を気にしない所はそっくりです。 「お昼ごはんのデリバリーが来たから、また連絡する",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1356437287995805696",
-        "start_time": 1612238400,
-        "end_time": 1612238400
-      },
-      {
-        "id": 689,
-        "line_type": "JP",
-        "title": "学生介绍：凛",
-        "image": "https://static.kivo.wiki/images/timeline/Aa55y2IXqykgYvb41wKqFXkIvNwDdLW5.jpg",
-        "body_summary": "【生徒紹介】 首席行政官のリンさん！ 今は行方不明の生徒会長の代行で忙しそう…！ 冷徹な仕事ぶりで多くの生徒さんに怖がられてますが、ご本人はあまり気にしてないそうです。 「ここから先は、全て先生にかか",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1356074850909999105",
-        "start_time": 1612152000,
-        "end_time": 1612152000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643251,
+  "time": 1790727627,
   "version": "1.0.0-beta.43"
 }

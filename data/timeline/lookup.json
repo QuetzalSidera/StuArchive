@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-28T22:56:58Z",
+  "generated_at": "2026-09-29T21:53:33Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5923,
-  "alias_count": 5913,
-  "normalized_alias_count": 5906,
+  "total_items": 5925,
+  "alias_count": 5915,
+  "normalized_alias_count": 5908,
   "by_id": {
     "6065": {
       "id": 6065,
@@ -193,6 +193,24 @@
       "detail_path": "timeline/6073.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6073.json"
     },
+    "6087": {
+      "id": 6087,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6087,
+        "line_type": "CN",
+        "title": "未花（泳装）& 渚（泳装）家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/8Zq1jztzAjq3EYo0hrAvZcnmBk1r9nt1.gif",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 10月01日 14:00后 ■ 互动更新 • 未花（泳装） & 海边的秋千 坐",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/Rklje8B4a",
+        "start_time": 1790661600,
+        "end_time": 1790661600
+      },
+      "detail_path": "timeline/6087.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6087.json"
+    },
     "6045": {
       "id": 6045,
       "source_path": "timeline/index.json",
@@ -210,6 +228,24 @@
       },
       "detail_path": "timeline/6045.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6045.json"
+    },
+    "6086": {
+      "id": 6086,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6086,
+        "line_type": "CN",
+        "title": "未花（泳装）",
+        "image": "https://static.kivo.wiki/images/timeline/LNlVqqOBfQznvHGyGOCO8E5OvhYbWT9z.jpg",
+        "body_summary": "//////////档案启封////////// ■ 未花（泳装） 茶话会的一员，同时也是一手策划了这次海滩度假计划的人。 她怀着为朋友着想的心发起了这次度假，但计划却进行得磕磕绊绊。最近的她格外为此",
+        "type": "Other",
+        "url": "weibo.com/6011443154/Rkk8aeWOE",
+        "start_time": 1790650800,
+        "end_time": 1790650800
+      },
+      "detail_path": "timeline/6086.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6086.json"
     },
     "6050": {
       "id": 6050,
@@ -487,8 +523,8 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "item": {
         "id": 6076,
-        "line_type": "Globle",
-        "title": "总力站：霍德·街区战",
+        "line_type": "CN",
+        "title": "总力战：霍德·街区战",
         "image": "https://static.kivo.wiki/images/timeline/IfXuhNE9sRsYrDLgRMgUMNC1aTK72QP6.jpg",
         "body_summary": "霍德原本是千禧年自管区通讯网的AI处理器，受到不明AI攻击后，开始宣称自己是神名十文字的第8个先知。 如果这个集结千禧年技术精华的运算系统持续失控，千禧年自管区的安全将失去保障。 ■ 活动时间 • 赛",
         "type": "Raid",
@@ -650,7 +686,7 @@
       "item": {
         "id": 6077,
         "line_type": "CN",
-        "title": "崔尼蒂理事会社团故事更新",
+        "title": "茶话会社团故事更新",
         "image": "https://static.kivo.wiki/images/timeline/WNuGZ8MBrxYDMXHGMXHGuOOs37QZ8ugN.jpg",
         "body_summary": "全新社团故事将于09月24日维护结束后更新！ ■ 茶话会 崔尼蒂理事会——茶话会的少女们优雅而又有些手忙脚乱的日常。 ■ 解锁条件： 拥有1名或以上茶话会成员 ■ 剧情开放： 《甜蜜与怀旧 1》 《甜",
         "type": "OtherStory",
@@ -2345,7 +2381,7 @@
         "title": "制约解除决战：Chokmah #9",
         "image": "https://static.kivo.wiki/images/timeline/AqU0Rx5nvkmG0lWVwoS1THACnRY4jrgt.png",
         "body_summary": "【制約解除決戦・開催】 先生！キヴォトス極地の火山に「コクマー」が姿を現しました！ 「コクマー」のEXスキル「夜明けを待つ」が発動すると、戦闘が終了するまで火炎放射を浴びることになってしまいます…。 ",
-        "type": "Raid",
+        "type": "MiniBattle",
         "url": "x.com/Blue_ArchiveJP/status/2092794628865220736",
         "start_time": 1787799600,
         "end_time": 1790107199
@@ -106659,8 +106695,14 @@
     "市街地戦・ドラム缶ガニ #2": [
       "6073"
     ],
+    "未花(泳装)& 渚(泳装)家具互动更新": [
+      "6087"
+    ],
     "国际服联合火力演习#52": [
       "6045"
+    ],
+    "未花(泳装)": [
+      "6086"
     ],
     "国际服例行维护 #120": [
       "6050"
@@ -106707,7 +106749,7 @@
     "网页活动【月饼复制危机!泡泡月饼大作战】": [
       "6080"
     ],
-    "总力站:霍德·街区战": [
+    "总力战:霍德·街区战": [
       "6076"
     ],
     "国服累计登录奖励": [
@@ -106735,7 +106777,7 @@
       "6067",
       "5075"
     ],
-    "崔尼蒂理事会社团故事更新": [
+    "茶话会社团故事更新": [
       "6077"
     ],
     "制约解除决战:Tiphareth #6": [
@@ -124410,8 +124452,14 @@
     "市街地戦・ドラム缶ガニ#2": [
       "6073"
     ],
+    "未花(泳装)&渚(泳装)家具互动更新": [
+      "6087"
+    ],
     "国际服联合火力演习#52": [
       "6045"
+    ],
+    "未花(泳装)": [
+      "6086"
     ],
     "国际服例行维护#120": [
       "6050"
@@ -124458,7 +124506,7 @@
     "网页活动【月饼复制危机!泡泡月饼大作战】": [
       "6080"
     ],
-    "总力站:霍德·街区战": [
+    "总力战:霍德·街区战": [
       "6076"
     ],
     "国服累计登录奖励": [
@@ -124486,7 +124534,7 @@
       "6067",
       "5075"
     ],
-    "崔尼蒂理事会社团故事更新": [
+    "茶话会社团故事更新": [
       "6077"
     ],
     "制约解除决战:tiphareth#6": [

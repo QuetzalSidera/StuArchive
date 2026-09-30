@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 798,
+        "line_type": "JP",
+        "title": "官网新增漫画＃あおはるレコード",
+        "image": "",
+        "body_summary": "【お知らせ】 先生！この度「ブルーアーカイブ」公式ホームページにて、過去に投稿した＃あおはるレコード 「作:せるげい(@pattundo)先生」が一挙に見れるようになりました！ ぜひ下記URLよりお楽",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1696436543521747022?s=20",
+        "start_time": 1693313727,
+        "end_time": 1693313727
+      },
+      {
+        "id": 1513,
+        "line_type": "Globle",
+        "title": "国际服总力战特别补给",
+        "image": "https://static.kivo.wiki/images/timeline/1GZGV26qD1lwprjFn5y6B4PW1aeVXOqD.jpg",
+        "body_summary": "[Total Assaut Special Supplies Notice] Sensei, check out these 5-day special supplies celebrating th",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1696358734858248373",
+        "start_time": 1693278033,
+        "end_time": 1693926033
+      },
       {
         "id": 1509,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/832220351080431620",
         "start_time": 1692820800,
         "end_time": 1693166340
-      },
-      {
-        "id": 789,
-        "line_type": "JP",
-        "title": "回忆大厅追加语音：小鸟",
-        "image": "https://static.kivo.wiki/images/timeline/ybI7DXBOtrEOVTrk76Zcs8njg3FzDYDC.jpg",
-        "body_summary": "【トークモーション】 8/23(水)のアップデートにて、コトリさんとウタハさんのメモリアルロビーにトークモーションが追加されました！ ぜひ生徒さん達の絆シナリオを体験して、よりパワーアップした魅力的な",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1694620783954546971?s=20",
-        "start_time": 1692794774,
-        "end_time": 1692794774
-      },
-      {
-        "id": 785,
-        "line_type": "JP",
-        "title": "回忆大厅追加语音：歌原",
-        "image": "https://static.kivo.wiki/images/timeline/G3Af4BofTt0RrKU9mrIsXd4Xwd7zySg0.jpg",
-        "body_summary": "【トークモーション】 8/23(水)のアップデートにて、コトリさんとウタハさんのメモリアルロビーにトークモーションが追加されました！ ぜひ生徒さん達の絆シナリオを体験して、よりパワーアップした魅力的な",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1694620783954546971?s=20",
-        "start_time": 1692794728,
-        "end_time": 1692794728
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643101,
+  "time": 1790727445,
   "version": "1.0.0-beta.43"
 }

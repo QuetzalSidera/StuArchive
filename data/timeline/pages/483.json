@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1336,
+        "line_type": "Globle",
+        "title": "国际服例行维护33",
+        "image": "",
+        "body_summary": "[2/28 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 2/28 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1629076267193753600",
+        "start_time": 1677549605,
+        "end_time": 1677567605
+      },
+      {
+        "id": 1337,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍14",
+        "image": "https://static.kivo.wiki/images/timeline/ElSaGkHjL5d1auqTmH46WhJvCwsPOZyb.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 2/27 (Mon), the amount of rewards dropped in Bounty will be doub",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1629375642776240129",
+        "start_time": 1677524449,
+        "end_time": 1678129189
+      },
       {
         "id": 597,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1626897793930653696",
         "start_time": 1677009630,
         "end_time": 1677614370
-      },
-      {
-        "id": 1334,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁16",
-        "image": "",
-        "body_summary": "[2/21(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1627951772169023489",
-        "start_time": 1676968966,
-        "end_time": 1676968966
-      },
-      {
-        "id": 1331,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习6",
-        "image": "https://static.kivo.wiki/images/timeline/0woqDTuZNL9tK9Hqr6mU4UX9pniBvoyy.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Breakthrough Drill) has opened, at 02:00 AM",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1627850600145735681",
-        "start_time": 1676944834,
-        "end_time": 1677524374
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643144,
+  "time": 1790727498,
   "version": "1.0.0-beta.43"
 }

@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 914,
+        "line_type": "Globle",
+        "title": "国际服课程表新增区域「the Millennium Study Center」",
+        "image": "https://static.kivo.wiki/images/timeline/giSalRJaHE0Vcp4mLPISLacYMM8WtekT.jpg",
+        "body_summary": "[New Lesson Area] Sensei, did you see that a new area, the Millennium Study Center, was added to Les",
+        "type": "ContentImprovements",
+        "url": "twitter.com/EN_BlueArchive/status/1486594827881877504",
+        "start_time": 1643092200,
+        "end_time": 1643092200
+      },
+      {
+        "id": 913,
+        "line_type": "Globle",
+        "title": "国际服登录奖励「Special Make-Up Work Celebration Login Bonus」",
+        "image": "https://static.kivo.wiki/images/timeline/U5qW7w3DwHzzwEoYoUw2jMS97WzHt2Ux.jpg",
+        "body_summary": "[Special Make-Up Work Celebration Login Bonus] Eden Treaty story update celebratory login bonus even",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1486262642469531648",
+        "start_time": 1643092200,
+        "end_time": 1645556400
+      },
       {
         "id": 908,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1481121799232372742?s=20",
         "start_time": 1642758259,
         "end_time": 1642758259
-      },
-      {
-        "id": 300,
-        "line_type": "JP",
-        "title": "网站活动：第二次基沃托斯定期测试",
-        "image": "",
-        "body_summary": "【第二回キヴォトス定期テスト】 先生！ キヴォトスにテスト期間がまたやってきました！ 前回同様、テストの問題数は10問のようです！ 今回も、テストの問題をぬす…お借りしてきました！前回も難しかったです",
-        "type": "WebEvent",
-        "url": "x.com/Blue_ArchiveJP/status/1484088413338759169?s=20",
-        "start_time": 1642672917,
-        "end_time": 1643104917
-      },
-      {
-        "id": 298,
-        "line_type": "JP",
-        "title": "任务Normal2倍#10",
-        "image": "https://static.kivo.wiki/images/timeline/vPb8jR3L6CvAbAkn0AeArwuekadtdxHN.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ 生徒さんの装備や装備の設計図集めのため、この機会を見逃さずに頑張ってくださいね、先生♪ ▼開",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1482548422842654722?s=20",
-        "start_time": 1642586367,
-        "end_time": 1642931967
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643215,
+  "time": 1790727583,
   "version": "1.0.0-beta.43"
 }

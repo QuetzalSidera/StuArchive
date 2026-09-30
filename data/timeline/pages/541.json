@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1080,
+        "line_type": "Globle",
+        "title": "国际服例行维护12",
+        "image": "",
+        "body_summary": "[Maintenance Notice] We're currently under our 4/19 (Tue) scheduled maintenance, Sensei. The game is",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1516250235596591107",
+        "start_time": 1650337231,
+        "end_time": 1650351631
+      },
+      {
+        "id": 317,
+        "line_type": "JP",
+        "title": "特别依赖2倍#17 & 指名手配2倍#14",
+        "image": "https://static.kivo.wiki/images/timeline/FEOEmutlpbDioKrFJmufs5DlUulI69Ov.jpg",
+        "body_summary": "【キャンペーン予告】 4月13日より、「特別依頼」と「指名手配」でのドロップ量が2倍になるキャンペーンが開催されます！ 🔹開催期間 4月13日(水)04:00～4月20日(水)03:59 スキルアップ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1513713743490076675?s=20",
+        "start_time": 1649858594,
+        "end_time": 1650463394
+      },
       {
         "id": 316,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1510180359236775939",
         "start_time": 1649242800,
         "end_time": 1649242800
-      },
-      {
-        "id": 1066,
-        "line_type": "JP",
-        "title": "课程表2倍#2",
-        "image": "https://static.kivo.wiki/images/timeline/lNPjjtlziDxGwchW8zl8An4vEcJmc8pM.jpg",
-        "body_summary": "【キャンペーン予告】 4月6日(水)04:00より、「スケジュール」でのドロップ量が2倍になるキャンペーンが開催されます！ 生徒さんの神名文字やスキル育成に必要な「ノート」や「BD」獲得のためにご活用",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1510542716689559557",
-        "start_time": 1649188848,
-        "end_time": 1649793588
-      },
-      {
-        "id": 1065,
-        "line_type": "JP",
-        "title": "任务Normal2倍#13",
-        "image": "https://static.kivo.wiki/images/timeline/foTbnH0AOiqQ8lkfcaxKsoadYKyb5Ce5.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 4月6日(水)04:00〜4月10日(日)03:59 この機会に不足している生徒",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1510452196198203394",
-        "start_time": 1649188842,
-        "end_time": 1649534382
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643202,
+  "time": 1790727568,
   "version": "1.0.0-beta.43"
 }

@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 818,
+        "line_type": "JP",
+        "title": "例行维护81",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 10/24(火) 11:00 〜 19:00前後 ▼詳細 https:/",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1716333667919052936",
+        "start_time": 1698116400,
+        "end_time": 1698145200
+      },
+      {
+        "id": 1565,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「An Unconcealed Heart」",
+        "image": "https://static.kivo.wiki/images/timeline/LQpdbxXDNkIuYIQUEMTFZWS3oMv28qJm.jpg",
+        "body_summary": "[Event Update Notice] The \"An Unconcealed Heart\" Event Story is back! 🗓️Period: 10/24 (Tue) 2:00 AM ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1716711118117523905",
+        "start_time": 1698112850,
+        "end_time": 1698717590
+      },
       {
         "id": 1563,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/855258886359220280?spm_id_from=333.999.0.0",
         "start_time": 1697968860,
         "end_time": 1697989967
-      },
-      {
-        "id": 1653,
-        "line_type": "CN",
-        "title": "剑先鹤城（泳装）",
-        "image": "https://static.kivo.wiki/images/timeline/GezEBc6y4YMBydKAfXqMFPfSQPcjKLXU.jpg",
-        "body_summary": "//////////档案启封////////// ■剑先鹤城（泳装） 来到夏日海滩寻找青春浪漫的崔尼蒂正义实现部部长。 为了享受难得的暑假，正努力克制自己作为崔尼蒂战略兵器暴力的一面，试着享受青春……",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/854887711005212726?spm_id_from=333.999.0.0",
-        "start_time": 1697882400,
-        "end_time": 1697903319
-      },
-      {
-        "id": 815,
-        "line_type": "JP",
-        "title": "专辑「青春あんさんぶる Vol.1」发行",
-        "image": "https://static.kivo.wiki/images/timeline/Mcpj7CewzZXmCQh3lGH8Ztl9ourZDmRA.png",
-        "body_summary": "【配信開始】 先生！ ブルアカのキャラクターソング「青春あんさんぶるシリーズ」が始まります！ 記念すべき第1回目は、この私！ アロナちゃんが歌わせていただきます！ 是非、聞いてみてくださいね！ ▼各種",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1715383657278648468",
-        "start_time": 1697817900,
-        "end_time": 1697817900
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643085,
+  "time": 1790727424,
   "version": "1.0.0-beta.43"
 }

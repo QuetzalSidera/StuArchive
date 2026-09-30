@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 57,
+        "line_type": "JP",
+        "title": "市街地戦・シロ＆クロ",
+        "image": "https://static.kivo.wiki/images/timeline/fVKtS2WNgohMvKcONs2M3QNwVtseE7Vl.jpg",
+        "body_summary": "【総力戦・シロ＆クロ】 メンテナンス後、「総力戦・シロ＆クロ」が開催されます！ どちらも防御タイプは「特殊装甲」で、初めに「シロ」と戦闘を行い、撃破すると今度は「クロ」との戦闘になります！ 今回は順位",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1374949180175577091?s=20",
+        "start_time": 1616665802,
+        "end_time": 1617184202
+      },
+      {
+        "id": 55,
+        "line_type": "JP",
+        "title": "总力战商店追加碎片：花江",
+        "image": "",
+        "body_summary": "【お知らせ】 明日のメンテナンス後、総力戦ショップにて下記のコンテンツが更新されます。 ・各アイテムの交換可能数をリセット ・「ハナエの神名文字」を追加 シーズン毎に交換できるアイテムが限られているた",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1374662401874792451?s=20",
+        "start_time": 1616665715,
+        "end_time": 1616665715
+      },
       {
         "id": 49,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1371712940525592583?s=20",
         "start_time": 1616059197,
         "end_time": 1616059197
-      },
-      {
-        "id": 43,
-        "line_type": "JP",
-        "title": "任务Normal2倍#1",
-        "image": "https://static.kivo.wiki/images/timeline/cMLzIgHypsmKDrutNS0jvEqrwPwMIXHq.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が二倍になるキャンペーンがまもなく開催されます！ ▼開催期間 3月18日(木)04:00〜3月22日(月)03:59 この機会に生徒さんの装備",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1371310214188654595?s=20",
-        "start_time": 1616058867,
-        "end_time": 1616404467
-      },
-      {
-        "id": 42,
-        "line_type": "JP",
-        "title": "ケセド・試作型",
-        "image": "https://static.kivo.wiki/images/timeline/qmBkl4M7d7hjgggf5UTN5sZmoAKfh9Sz.jpg",
-        "body_summary": "【総力戦について】 総力戦 SEASON#1「ケセド・試作型」開催中！ 今回【ショップ】で交換できる各学園の「初級戦術教育BD」の数が増えました！ ※「ケセド・試作型」では順位報酬は存在せず、全先生に",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/1369973904488366080?s=20",
-        "start_time": 1615453879,
-        "end_time": 1615972279
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643247,
+  "time": 1790727622,
   "version": "1.0.0-beta.43"
 }

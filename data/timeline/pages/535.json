@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 343,
+        "line_type": "JP",
+        "title": "例行维护44",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどお願いいたします。 ▼実施日時 5/24(火) 11:00 〜 ",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1528616728338440192?s=20",
+        "start_time": 1653407338,
+        "end_time": 1653407338
+      },
+      {
+        "id": 342,
+        "line_type": "JP",
+        "title": "卡池「逃げ水を夢に見て」＆「木枯らしに目を引かれ」",
+        "image": "https://static.kivo.wiki/images/timeline/vWYtO0q7UDNLLFL6pgnj3Hh6V5gPZl4e.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「逃げ水を夢に見て」＆「木枯らしに目を引かれ」がまもなく開催です！ 🔹ピックアップ生徒 ★3 ミサキ(CV：#土屋李央) ★3 ヒヨリ(CV：#中原麻衣) ",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1528601642920476672?s=20",
+        "start_time": 1653407083,
+        "end_time": 1654703083
+      },
       {
         "id": 340,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1525310126277926912?s=20",
         "start_time": 1652888325,
         "end_time": 1653406725
-      },
-      {
-        "id": 1099,
-        "line_type": "Globle",
-        "title": "国际服卡池「There you are, Master! Me and my cute bunny outfit have been waiting!」",
-        "image": "https://static.kivo.wiki/images/timeline/YfpDp0YSkn33fmd1bNywsPRcGCboL8mz.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 5/17 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1525400532076085248",
-        "start_time": 1652774417,
-        "end_time": 1653966017
-      },
-      {
-        "id": 1098,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第二章前篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/sDpOWnKqdqhRmiJ9JHg57HzG3RDrf88k.jpg",
-        "body_summary": "[Update Preview] Sensei, the first half of Main Story Vol.3 Eden Treaty Ch.2, Paradise Paradox will ",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1524645549634248704",
-        "start_time": 1652770859,
-        "end_time": 1652770859
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643196,
+  "time": 1790727560,
   "version": "1.0.0-beta.43"
 }

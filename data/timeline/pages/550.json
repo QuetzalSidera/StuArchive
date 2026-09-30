@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1011,
+        "line_type": "Globle",
+        "title": "国际服百日纪念礼物",
+        "image": "https://static.kivo.wiki/images/timeline/YOu9bXve0ZTwsYCBpkiW1NnTsFpdQlmE.jpg",
+        "body_summary": "[HAPPY 100th Day Gift from Schale🎁] Sensei, Schale prepared a celebration gift to celebrate your 100",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1493782189531619331",
+        "start_time": 1645009200,
+        "end_time": 1645009200
+      },
+      {
+        "id": 263,
+        "line_type": "JP",
+        "title": "卡池复刻「淫らを温ねて正しきを知るっ」＆「その味は身命を賭してでも」",
+        "image": "https://static.kivo.wiki/images/timeline/yIXlGZ4D59v0n7j9qDmShz3QD7K9RHPw.jpg",
+        "body_summary": "【ピックアップ募集・予告】 復刻ピックアップ募集「淫らを温ねて正しきを知るっ」＆「その味は身命を賭してでも」がまもなく開催されます！ 🔹ピックアップ生徒 ★3 コハル(CV：#赤尾ひかる) ★3 ハル",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1493450254171009028",
+        "start_time": 1644984000,
+        "end_time": 1645588800
+      },
       {
         "id": 262,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1490158616506105857",
         "start_time": 1644404400,
         "end_time": 1644984000
-      },
-      {
-        "id": 259,
-        "line_type": "JP",
-        "title": "例行维护36",
-        "image": "",
-        "body_summary": "【定期メンテナンス】 まもなく定期メンテナンスの開始時刻です！ 先生、ご協力のほどお願いいたします！ ▼実施日時 2/9(水) 12:00 〜 19:00前後 ▼詳細 https://bluearch",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1491237929989316609",
-        "start_time": 1644379200,
-        "end_time": 1644404400
-      },
-      {
-        "id": 257,
-        "line_type": "JP",
-        "title": "指名手配3倍 #3 课程表3倍 #2 学院交流会3倍 #2",
-        "image": "https://static.kivo.wiki/images/timeline/VjFOBfgx7Hz8CtEexvYaM6fhGnLgqxdd.jpg",
-        "body_summary": "【キャンペーン予告】 2月9日(水)04:00より、「指名手配」「スケジュール」「学園交流会」でのドロップ量が3倍になるキャンペーンが開催されます！ いつもより効率的に素材を入手できるチャンスですので",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1490249197240475648",
-        "start_time": 1644350400,
-        "end_time": 1644955199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643211,
+  "time": 1790727579,
   "version": "1.0.0-beta.43"
 }

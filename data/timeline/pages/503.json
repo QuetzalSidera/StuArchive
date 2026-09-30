@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1253,
+        "line_type": "Globle",
+        "title": "国际服总力战 Chesed (Indoor) 2",
+        "image": "https://static.kivo.wiki/images/timeline/hrxl6F04zVkMg1dC689QcmkYNRb6uvdl.jpg",
+        "body_summary": "[Total Assault Open Notice] The Total Assault - Chesed (Indoor Warfare) has opened, at 02:00 on 11/2",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1594873304531156994",
+        "start_time": 1669082447,
+        "end_time": 1701197987
+      },
+      {
+        "id": 1251,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「We made it to the beach aboard Crusadie!」",
+        "image": "https://static.kivo.wiki/images/timeline/UQjZ4AxCf1bYvYic4hsKNRlfGTvP9J6d.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A Rerun Pick Up Recruitment will begin on 11/22 (Tue)! Target Pick Up ",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1593891831074258949",
+        "start_time": 1669082445,
+        "end_time": 1669600845
+      },
       {
         "id": 1250,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1592716586959441923",
         "start_time": 1668568231,
         "end_time": 1669640371
-      },
-      {
-        "id": 497,
-        "line_type": "JP",
-        "title": "例行维护56 （延长）",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/16(水) 11:00 〜 17:00前後 ▼詳細 https:/",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1592397043313496064",
-        "start_time": 1668567600,
-        "end_time": 1668600000
-      },
-      {
-        "id": 493,
-        "line_type": "JP",
-        "title": "任务Hard2倍#19",
-        "image": "https://static.kivo.wiki/images/timeline/wvPw9gVT0VTj5AU6y5Xd8gBl9B6HuiSN.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます！ ▼期間 2022/11/16(水)4:00 ~ 2022/11/19(土)3:59 生徒さ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1590268147570855936",
-        "start_time": 1668542400,
-        "end_time": 1668801599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790643164,
+  "time": 1790727522,
   "version": "1.0.0-beta.43"
 }

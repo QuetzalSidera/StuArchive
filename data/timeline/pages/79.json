@@ -6,22 +6,44 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 95,
-      "ContentImprovements": 431,
+      "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
       "Gacha": 847,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 455,
-      "MiniBattle": 213,
-      "Other": 727,
+      "MiniBattle": 214,
+      "Other": 728,
       "OtherStory": 72,
       "OutsideGames": 906,
-      "Raid": 257,
+      "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 5222,
+        "line_type": "JP",
+        "title": "例行维护#138",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/18(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2033785680950948211",
+        "start_time": 1773838383,
+        "end_time": 1773838383
+      },
+      {
+        "id": 5221,
+        "line_type": "JP",
+        "title": "卡池「書類は踊る、されど進まず」＆「生地よ、踊れ！裁ち縫うは感性の針！」",
+        "image": "https://static.kivo.wiki/images/timeline/TZa7xvgZy3kSmaNYIdPku6wvutdeH97D.jpg",
+        "body_summary": "【ピックアップ募集・予告】 2026年3月18日(水) メンテナンス後より、ピックアップ募集「書類は踊る、されど進まず」＆「生地よ、踊れ！裁ち縫うは感性の針！」を開催します！ 詳細については下記URL",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2033770447129743417",
+        "start_time": 1773838293,
+        "end_time": 1775047893
+      },
       {
         "id": 5219,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2032350955845321136",
         "start_time": 1773415122,
         "end_time": 1773587922
-      },
-      {
-        "id": 5243,
-        "line_type": "Globle",
-        "title": "国际服数位周边「Magical Girl Heavy Caliber Update: Celebrate with Digital Merch!」",
-        "image": "https://static.kivo.wiki/images/timeline/9VBv1uisXWs3HDFsAAlFrhepuyybEIh4.jpg",
-        "body_summary": "Suzumi (Magical) and Reisa (Magical), perfectly transformed into Thermite White and Thermite Pink, a",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2032366055423721497",
-        "start_time": 1773404195,
-        "end_time": 1773404195
-      },
-      {
-        "id": 5213,
-        "line_type": "CN",
-        "title": "炸服 #18（排名奖励10次招募券使用期限异常）",
-        "image": "https://static.kivo.wiki/images/timeline/Sf2eMuyUaH0Gx4N4GSZQ0cChpN2v23Rm.jpg",
-        "body_summary": "#蔚蓝档案﻿#蔚蓝档案超话 \"欢迎连接【什亭之箱】，老师。\" 此前我们收到部分老师发来的问题反馈： 在大决战【佩洛洛斯拉（野外战）】奖励领取期间内，部分bilibili服的老师在领取排名奖励后，存在1",
-        "type": "Maintenance",
-        "url": "weibo.com/6011443154/QvSEV2roy",
-        "start_time": 1773374400,
-        "end_time": 1773374400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790642744,
+  "time": 1790727001,
   "version": "1.0.0-beta.43"
 }
