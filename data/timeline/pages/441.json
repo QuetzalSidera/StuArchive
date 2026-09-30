@@ -5,7 +5,7 @@
     "max_page": 593,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 95,
+      "BigRaid": 96,
       "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 780,
+        "line_type": "JP",
+        "title": "例行维护76",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/23(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1693865675721445752?s=20",
+        "start_time": 1692708146,
+        "end_time": 1692708146
+      },
       {
         "id": 1740,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1693457902340816975?s=20",
         "start_time": 1692621526,
         "end_time": 1692621526
-      },
-      {
-        "id": 771,
-        "line_type": "JP",
-        "title": "C102特别动画公开：星野（泳装）",
-        "image": "https://static.kivo.wiki/images/timeline/zGLzQdakLKJCv9pjj2TH5Pi5mubvBkNO.png",
-        "body_summary": "【動画公開】 ご要望にお応えして、#コミックマーケット102 で放映された映像を公開いたしました！ 最後はホシノさんです！ ※ブース内で公開されたものである点にご注意ください。 ▼ホシノさんの特別動画",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1692778420407570884?s=20",
-        "start_time": 1692448586,
-        "end_time": 1692448586
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790727447,
+  "time": 1790811894,
   "version": "1.0.0-beta.43"
 }

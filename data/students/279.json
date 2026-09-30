@@ -2369,9 +2369,9 @@
         "indoor_adaptability": "S",
         "street_adaptability": "D",
         "equipment": [
-          3,
+          8,
           6,
-          8
+          3
         ],
         "cultivate_material": [
           120,
@@ -2405,15 +2405,15 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
+                  "cost": 4,
                   "describe": "对1名敌方单位造成攻击力290%的伤害/ 减少目标10.9%防御力 、 攻击力 、 暴击抵抗力 (持续50秒)."
                 },
                 {
-                  "cost": 1,
+                  "cost": 4,
                   "describe": "对1名敌人造成334%攻击力的伤害/ 减少目标12.6%防御力、攻击力、暴击抵抗力（持续50秒）"
                 },
                 {
-                  "cost": 1,
+                  "cost": 4,
                   "describe": "对1名敌人造成421%攻击力的伤害/ 减少目标15.9%防御力、攻击力、暴击抵抗力（持续50秒）"
                 },
                 {
@@ -2608,7 +2608,7 @@
         ],
         "weapons": {
           "icon": "https://static.kivo.wiki/images/students/%E7%A9%BA%E4%BA%95%20%E5%92%B2/%E6%B3%B3%E8%A3%85/weapons_icon.png",
-          "name": "RABBIT-26式机关枪",
+          "name": "RABBIT-26式重机枪",
           "name_cn": "RABBIT-26式机关枪",
           "description": "SRT特殊学园配给咲的制式机关枪。<br>因为特别怕湿气和盐分，在海边就经常发生故障， 但是对于一丝不苟的咲来说，并不是什么大问题。",
           "description_cn": "SRT特种学院配备给咲的制式重机枪。<br>由于不耐潮湿与盐分，它在海边时常发生故障，但对认真的咲来说，这不算什么大问题。",
@@ -2647,7 +2647,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "弱体状态持续力 提升1000； 命中值 提升14.7%"
+                  "describe": "弱体状态持续力 提升1050； 命中值 提升14.7%"
                 },
                 {
                   "cost": 1,
@@ -2694,10 +2694,10 @@
     "supplementary_uuid": "87e3a656-03c2-45a5-9fa0-d6222b526b24",
     "supplementary_declare_uuid": "582d4d11-9084-4a9a-9800-0ba521a8d67f",
     "created_at": 1687347490,
-    "updated_at": 1789884029
+    "updated_at": 1790780502
   },
   "message": "OK",
   "success": true,
-  "time": 1790719368,
+  "time": 1790805409,
   "version": "1.0.0-beta.43"
 }

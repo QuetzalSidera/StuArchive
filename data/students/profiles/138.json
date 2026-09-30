@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-29T21:53:33Z",
+  "generated_at": "2026-09-30T21:53:28Z",
   "id": 138,
   "display_name": "美甘 妮露（邦妮）",
   "names": {
@@ -153,7 +153,7 @@
     "defensive_attributes": "Heavy",
     "rarity": 3,
     "limited": true,
-    "is_groupc_control": false,
+    "is_groupc_control": true,
     "adaptability": {
       "outdoor": "S",
       "indoor": "D",
@@ -161,10 +161,10 @@
     },
     "basic": [
       {
-        "max_hp": 3121,
-        "attack": 204,
+        "max_hp": 3040,
+        "attack": 185,
         "defense": 27,
-        "healing": 1533,
+        "healing": 1802,
         "accuracy": 109,
         "evasion": 1303,
         "crit": 219,
@@ -193,11 +193,11 @@
           "info": [
             {
               "cost": 4,
-              "describe": "移动至指定位置后，生成具有治疗力276%的护盾 （持续20秒）<br>对圆形范围内的敌人造成攻击力366%的伤害。并施加嘲讽状态（持续3秒）。"
+              "describe": "移动至指定位置后，生成具有治疗力276%的护盾 （持续20秒）<br>对圆形范围内的敌人造成攻击力366%的伤害。"
             },
             {
               "cost": 4,
-              "describe": "移动至指定位置后，生成治疗力297%的护盾（持续20秒内）<br>对圆形范围内的敌人造成攻击力394%的伤害。并施加嘲讽状态（持续3秒）。"
+              "describe": "移动至指定位置后，生成治疗力297%的护盾（持续20秒内）<br>对圆形范围内的敌人造成攻击力394%的伤害。"
             },
             {
               "cost": 4,
@@ -1092,21 +1092,21 @@
       {
         "description": "CH0101_Battle_Retire",
         "category": "battle",
-        "text": "",
+        "text": "ぐぅ！",
         "text_original": "ぐぅ！",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/3oVUSw4906DCi99Cy93JUjszFuAAqq4a.ogg"
       },
       {
         "description": "CH0101_Battle_Shout_1",
         "category": "battle",
-        "text": "",
+        "text": "はっ！",
         "text_original": "はっ！",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/z4eF8eQEqJodBkjIhBvsDTTyb4vVFhsi.ogg"
       },
       {
         "description": "CH0101_Battle_Shout_2",
         "category": "battle",
-        "text": "",
+        "text": "ほら！",
         "text_original": "ほら！",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/f5gMIKuZyCMA3doquKocXknbiCAPEfoO.ogg"
       },
@@ -1120,7 +1120,7 @@
       {
         "description": "CH0101_Battle_TacticalAction_1",
         "category": "battle",
-        "text": "",
+        "text": "うっし！",
         "text_original": "うっし！",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/X2NpHFYEsOaiKV91PXbSoiT11JffIAtj.ogg"
       },
@@ -1224,21 +1224,21 @@
       },
       {
         "description": "CH0101_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "我呀，习惯提前把事情处理好。",
         "text_original": "やるからには徹底的にやるタイプでな。",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/NtFPtuXS4vDwalAIYSxMhsHisDPRnGjp.ogg"
       },
       {
         "description": "CH0101_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "干净利落地收尾吧。",
         "text_original": "おらっ、片付け始めんぞ！",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/pwwKqmmfryyQc5VmHmMFTd4ElUNyUJAt.ogg"
       },
       {
         "description": "CH0101_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "收拾残局？我可是专家！",
         "text_original": "後片付けなら任せとけ、あたしの専門分野だ！",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/hrLY9cxxfK9GOFQZEgtMHqJN9hgePnkU.ogg"
@@ -1261,7 +1261,7 @@
         "description": "CH0101_ExSkill_3",
         "category": "battle",
         "text": "想死吗你！",
-        "text_original": "打ちのめされたぇのか！？",
+        "text_original": "ぶちのめされてぇのか！？",
         "file": "https://static.kivo.wiki/voices/students/%E7%BE%8E%E7%94%98%20%E5%B0%BC%E7%A6%84/%E5%85%94%E5%A5%B3%E9%83%8E/Ox2Re8oFm4RWpN4GxragbuRvuy3zQ7QJ.ogg"
       },
       {
@@ -2722,8 +2722,8 @@
   "source": {
     "detail_path": "students/138.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/138.json",
-    "upstream_time": 1790718674,
-    "updated_at": 1789311529,
+    "upstream_time": 1790805399,
+    "updated_at": 1790769387,
     "created_at": 1685502727
   }
 }

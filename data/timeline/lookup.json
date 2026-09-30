@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-09-29T21:53:33Z",
+  "generated_at": "2026-09-30T21:53:28Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5925,
-  "alias_count": 5915,
-  "normalized_alias_count": 5908,
+  "total_items": 5926,
+  "alias_count": 5916,
+  "normalized_alias_count": 5909,
   "by_id": {
     "6065": {
       "id": 6065,
@@ -102,6 +102,24 @@
       },
       "detail_path": "timeline/6059.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6059.json"
+    },
+    "6088": {
+      "id": 6088,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6088,
+        "line_type": "CN",
+        "title": "大决战：回转 FX Mk.0 • 野外战",
+        "image": "https://static.kivo.wiki/images/timeline/pTTjgQUJZBxkPtjzzqbDi80iuMd45zxK.jpg",
+        "body_summary": "回转者的秘密武器神秘登场，阻断了通往基地的路线。 回转者投入了至今为止掠夺到手的资金和技术，正在这里制造巨型合体机器人【回转 FX Mk.0】。 虽然这个机器人看起来很酷，但考虑到回转者一直以来的恶行",
+        "type": "BigRaid",
+        "url": "weibo.com/6011443154/RktyF757M",
+        "start_time": 1790920800,
+        "end_time": 1791230399
+      },
+      "detail_path": "timeline/6088.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6088.json"
     },
     "6043": {
       "id": 6043,
@@ -106680,6 +106698,9 @@
     "悬赏通缉3倍 #23 & 日程3倍 #23": [
       "6059"
     ],
+    "大决战:回转 FX Mk.0 • 野外战": [
+      "6088"
+    ],
     "庆典复刻招募【温柔地奏响天空的方式】": [
       "6043"
     ],
@@ -124436,6 +124457,9 @@
     ],
     "悬赏通缉3倍#23&日程3倍#23": [
       "6059"
+    ],
+    "大决战:回转fxmk.0•野外战": [
+      "6088"
     ],
     "庆典复刻招募【温柔地奏响天空的方式】": [
       "6043"

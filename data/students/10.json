@@ -35,7 +35,7 @@
     "given_name_cn": "爱理",
     "nick_name": "冰淇淋",
     "introduction": "圣三一综合学园所属，放学后的甜点部的开朗成员。\n\n个性悠然自得，最重视和朋友一边享用甜点一边聊天的时光。\n喜欢的东西是冰淇淋，最近迷上了薄荷巧克力的滋味。",
-    "introduction_cn": "崔尼蒂甜点部的成员，性格活泼开朗。\n\n性格悠闲自在的她，非常珍惜和朋友们一起吃甜点聊天的时间。最喜欢吃的甜点是冰淇淋，最近迷上了薄荷巧克力口味。",
+    "introduction_cn": "崔尼蒂甜点部的成员，性格活泼开朗。\n\n性格悠闲自在的她，非常珍惜和朋友们一起吃甜点聊天的时间。最喜欢吃的甜点是冰淇淋，最近迷上了薄荷巧克力味。",
     "momo_talk_signature": "薄荷巧克力最棒了！",
     "main_relation": 13,
     "relation": null,
@@ -128,7 +128,7 @@
       },
       {
         "description": "Airi_EventMission_Login_2",
-        "category": "other",
+        "category": "event",
         "text": "",
         "text_original": "今日も頑張ります！",
         "file": "https://static.kivo.wiki/voices/students/%E6%A0%97%E6%9D%91%20%E7%88%B1%E8%8E%89/vygmuBFSZYIQlmNLyVfSVgVDOMptCyIo.ogg"
@@ -186,7 +186,7 @@
         "description": "Airi_Formation_In_1",
         "category": "formation",
         "text": "我会全力帮忙的！",
-        "text_original": "全力つてお手伝いします!",
+        "text_original": "全力でお手伝いします！",
         "file": "https://static.kivo.wiki/voices/students/%E6%A0%97%E6%9D%91%20%E7%88%B1%E8%8E%89/jmtulhSGl8LJdHdCH5jbAfN92MYQaGdd.ogg"
       },
       {
@@ -1303,7 +1303,7 @@
     "character_datas": [
       {
         "character_id": 23000,
-        "dev_name": "Airi",
+        "dev_name": "Airi_default",
         "combat_style": "default",
         "type": "Support",
         "attack_attribute": "Explosive",
@@ -1313,7 +1313,7 @@
         "battlefield_position": "SPECIAL",
         "rarity": 2,
         "limited": false,
-        "outdoor_adaptability": "B",
+        "outdoor_adaptability": "D",
         "indoor_adaptability": "A",
         "street_adaptability": "A",
         "equipment": [
@@ -1336,7 +1336,8 @@
           405,
           435,
           437,
-          438
+          438,
+          406
         ],
         "favorite_equipment": 0,
         "skill": {
@@ -1352,24 +1353,24 @@
               "derived_skills": [],
               "info": [
                 {
-                  "cost": 1,
-                  "describe": "对圆形范围内的敌人造成攻击力265%伤害/移动速度减少22.8%(20秒内)"
-                },
-                {
-                  "cost": 1,
-                  "describe": "对圆形范围内的敌人造成攻击力305%伤害/移动速度减少22.8%(20秒内)"
-                },
-                {
-                  "cost": 1,
-                  "describe": "对圆形范围内的敌人造成攻击力345%伤害/移动速度减少22.8%，攻击速度减少26.2%(20秒内)"
-                },
-                {
-                  "cost": 1,
-                  "describe": "对圆形范围内的敌人造成攻击力384%伤害/移动速度减少22.8%，攻击速度减少26.2%(20秒内)"
+                  "cost": 5,
+                  "describe": "对圆形范围内的敌人造成攻击力265%伤害/移动速度减少22.8%(20秒内)（仅在范围内时维持效果）"
                 },
                 {
                   "cost": 5,
-                  "describe": "对圆形范围内的敌人造成攻击力464%伤害/移动速度减少22.8%，攻击速度减少26.2%(20秒内)"
+                  "describe": "对圆形范围内的敌人造成攻击力305%伤害/移动速度减少22.8%(20秒内)（仅在范围内时维持效果）"
+                },
+                {
+                  "cost": 5,
+                  "describe": "对圆形范围内的敌人造成攻击力345%伤害/移动速度减少22.8%，攻击速度减少26.2%(20秒内)（仅在范围内时维持效果）"
+                },
+                {
+                  "cost": 5,
+                  "describe": "对圆形范围内的敌人造成攻击力384%伤害/移动速度减少22.8%，攻击速度减少26.2%(20秒内)（仅在范围内时维持效果）"
+                },
+                {
+                  "cost": 5,
+                  "describe": "对圆形范围内的敌人造成攻击力464%伤害/移动速度减少22.8%，攻击速度减少26.2%(20秒内)（仅在范围内时维持效果）"
                 }
               ]
             }
@@ -1535,10 +1536,10 @@
         },
         "basic": [
           {
-            "max_hp": 6191,
-            "attack": 1563,
+            "max_hp": 2369,
+            "attack": 184,
             "defense": 20,
-            "healing": 3246,
+            "healing": 1726,
             "accuracy": 99,
             "evasion": 1196,
             "crit": 199,
@@ -1641,10 +1642,10 @@
     "supplementary_uuid": "dcdb12de-7543-4223-9095-bdc1ac1fc148",
     "supplementary_declare_uuid": "39466734-4ce9-473d-9413-b61b52225b82",
     "created_at": 1684408118,
-    "updated_at": 1790277177
+    "updated_at": 1790774736
   },
   "message": "OK",
   "success": true,
-  "time": 1790718530,
+  "time": 1790805391,
   "version": "1.0.0-beta.43"
 }

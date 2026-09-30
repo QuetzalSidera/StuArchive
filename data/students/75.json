@@ -33,7 +33,7 @@
     "given_name_jp": "イズミ",
     "family_name_kr": "시시도우",
     "given_name_kr": "이즈미",
-    "family_name_en": "Shishido",
+    "family_name_en": "Shishidou",
     "given_name_en": "Izumi",
     "family_name_zh_tw": "獅子堂",
     "given_name_zh_tw": "泉",
@@ -150,7 +150,7 @@
         "description": "IzumiSwimsuit_Battle_In_2",
         "category": "battle",
         "text": "赶紧解决掉去吃饭吧！",
-        "text_original": "ご飯の前にばっばと終わらせよ",
+        "text_original": "ご飯の前に、ぱっぱと終わらせよう！",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/qzFt5pwuHvEkUoH5FxbK2ShbJRVpR2fU.ogg"
       },
       {
@@ -164,7 +164,7 @@
         "description": "IzumiSwimsuit_Battle_Move_2",
         "category": "battle",
         "text": "快点解决，然后去买点冷饮吧！",
-        "text_original": "じゃじゃっと片付けて。何か冷たい飲み物でも買えに行こう？",
+        "text_original": "ちゃちゃっと片付けて、何か冷たい飲み物でも買いに行こ！",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/KH7HQnU2D76MLuw2agigfceOhIQQq7ya.ogg"
       },
       {
@@ -269,7 +269,7 @@
         "description": "IzumiSwimsuit_EventShop_1",
         "category": "event",
         "text": "随便看随便挑！这儿好吃的可多啦！",
-        "text_original": "思い存分見ててね！おいしいものがた～くさんいるから！",
+        "text_original": "思う存分見てってね！美味しそうなものもたっくさんあるから！",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/geopK6nEKWKI9PJKJAfjTDem1YkjkZth.ogg"
       },
       {
@@ -323,21 +323,21 @@
       },
       {
         "description": "IzumiSwimsuit_EventShop_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "海之家的营业时间差不多过去一半了……要好好享受到最后哦！",
         "text_original": "この海の家営業期間も、そろそろ折り返しなんだって、 最後まで楽しまないとね！",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/lXDi0bx2DUYQNnxfy9Hdo4GCDgivZzeC.ogg"
       },
       {
         "description": "IzumiSwimsuit_EventShop_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "马上就要到最后的阶段了，加油！",
         "text_original": "そろそろラストスパートだね！頑張ろう！",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/LLdTq3ouh1NbgjLLsWHJ1Z7V8Mr1Iju0.ogg"
       },
       {
         "description": "IzumiSwimsuit_EventShop_Season_3",
-        "category": "lobby",
+        "category": "event",
         "text": "老师，今天是最后一天营业日了！想要的东西都拿到了吗？",
         "text_original": "今日が最終日だよ、先生。ほしいものは全部手に入った？",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/4CJKVRzfZW90cuYRvCEhv26BEUfjwR2L.ogg"
@@ -647,7 +647,7 @@
         "description": "IzumiSwimsuit_Tactic_Victory_2",
         "category": "battle",
         "text": "好耶！这样就结束了吧？那我要去吃柠檬炒面咯！",
-        "text_original": "よし！これで終わりだよね！ じゃ早くレモン（-）食べに行かないと",
+        "text_original": "よしっ！これで終わりだよね？じゃあ早くレモン焼きそばを食べに行かないと！",
         "file": "https://static.kivo.wiki/voices/students/%E7%8B%AE%E5%AD%90%E5%A0%82%20%E6%B3%89/%E6%B3%B3%E8%A3%85/PoZAaYsa7ffqwd1TYl0AGwQHYmwkUbsM.ogg"
       }
     ],
@@ -1865,13 +1865,13 @@
         "type": "Support",
         "attack_attribute": "Explosive",
         "defensive_attributes": "Light",
-        "is_groupc_control": false,
+        "is_groupc_control": true,
         "team_position": "BACK",
         "battlefield_position": "STRIKER",
         "rarity": 1,
         "limited": true,
-        "outdoor_adaptability": "C",
-        "indoor_adaptability": "A",
+        "outdoor_adaptability": "A",
+        "indoor_adaptability": "C",
         "street_adaptability": "B",
         "equipment": [
           9,
@@ -2204,10 +2204,10 @@
     "supplementary_uuid": "4dd57686-7292-4420-9e7f-00521b548572",
     "supplementary_declare_uuid": "4de4a7e9-90f4-455a-9969-1ae53c97510e",
     "created_at": 1684942960,
-    "updated_at": 1789310043
+    "updated_at": 1790768854
   },
   "message": "OK",
   "success": true,
-  "time": 1790718671,
+  "time": 1790805396,
   "version": "1.0.0-beta.43"
 }

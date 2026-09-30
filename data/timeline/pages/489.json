@@ -5,7 +5,7 @@
     "max_page": 593,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 95,
+      "BigRaid": 96,
       "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1310,
+        "line_type": "Globle",
+        "title": "国际服例行维护31",
+        "image": "",
+        "body_summary": "[1/31 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 1/31 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1618886097337225216",
+        "start_time": 1675130435,
+        "end_time": 1675152035
+      },
       {
         "id": 567,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1618443714468392960",
         "start_time": 1674705600,
         "end_time": 1674705600
-      },
-      {
-        "id": 1308,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁14",
-        "image": "",
-        "body_summary": "[1/24(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-ga",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1618185836742467585",
-        "start_time": 1674640555,
-        "end_time": 1674640555
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790727505,
+  "time": 1790811942,
   "version": "1.0.0-beta.43"
 }

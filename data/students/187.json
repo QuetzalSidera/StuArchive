@@ -1694,7 +1694,7 @@
         "type": "Dealer",
         "attack_attribute": "Piercing",
         "defensive_attributes": "Special",
-        "is_groupc_control": true,
+        "is_groupc_control": false,
         "team_position": "FRONT",
         "battlefield_position": "STRIKER",
         "rarity": 3,
@@ -1703,9 +1703,9 @@
         "indoor_adaptability": "S",
         "street_adaptability": "B",
         "equipment": [
-          2,
           7,
-          10
+          10,
+          2
         ],
         "cultivate_material": [
           2,
@@ -1806,7 +1806,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "每40秒， 攻击力 提升41.6%(持续20秒)"
+                  "describe": "每40秒， 攻击力 提升42.8%(持续20秒)"
                 },
                 {
                   "cost": 1,
@@ -1817,7 +1817,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E4%B9%99%E8%8A%B1%20%E5%A0%87/skill_icon/GHNi9mlfsraYdWgSl5asHuBUhxLWq5at.png",
               "title": "定点射击",
-              "title_cn": "定点射击",
+              "title_cn": "定点攻击",
               "preview": "",
               "max_level": 10,
               "link_student_id": 0,
@@ -1944,7 +1944,7 @@
           "icon": "https://static.kivo.wiki/images/students/%E4%B9%99%E8%8A%B1%20%E5%A0%87/weapons_icon.png",
           "name": "千禧年最新式哑铃",
           "name_cn": "千禧年最新式哑铃",
-          "description": "堇平时用来健身的半自动霞弹枪。<br>每发射一次子弹就做俯卧撑，可以发挥出色的健身功效。",
+          "description": "堇平时用来健身的半自动霰弹枪。<br>每发射一次子弹就做俯卧撑，可以发挥出色的健身功效。",
           "description_cn": "堇平时用来健身的半自动霰弹枪。<br>每发射一次子弹就做俯卧撑，可以发挥出色的健身功效。",
           "info": [
             {
@@ -2028,10 +2028,10 @@
     "supplementary_uuid": "447d8c68-8088-4fff-8754-7fcd294ed327",
     "supplementary_declare_uuid": "707ea643-aa7d-4f03-a679-8cb04c21b1e0",
     "created_at": 1685714126,
-    "updated_at": 1789997611
+    "updated_at": 1790769698
   },
   "message": "OK",
   "success": true,
-  "time": 1790718673,
+  "time": 1790805397,
   "version": "1.0.0-beta.43"
 }

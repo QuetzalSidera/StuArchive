@@ -1908,7 +1908,7 @@
         "type": "Dealer",
         "attack_attribute": "Explosive",
         "defensive_attributes": "Heavy",
-        "is_groupc_control": false,
+        "is_groupc_control": true,
         "team_position": "BACK",
         "battlefield_position": "STRIKER",
         "rarity": 3,
@@ -1919,7 +1919,7 @@
         "equipment": [
           7,
           6,
-          8
+          4
         ],
         "cultivate_material": [
           77,
@@ -2096,7 +2096,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "使用EX技能时，攻击力增加9.1%（效果最多可叠加5次"
+                  "describe": "使用EX技能时，攻击力增加9.1%（效果最多可叠加5次）"
                 },
                 {
                   "cost": 1,
@@ -2227,7 +2227,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "CC强化力增加27，暴击值增加26.6.％"
+                  "describe": "CC强化力增加27，暴击值增加26.6％"
                 }
               ]
             }
@@ -2242,10 +2242,10 @@
     "supplementary_uuid": "bdc7069c-63f3-4b2b-ab33-e95c0aec7acc",
     "supplementary_declare_uuid": "a35779b0-9259-4ef4-b94c-f5e78b475495",
     "created_at": 1685420439,
-    "updated_at": 1790568563
+    "updated_at": 1790769136
   },
   "message": "OK",
   "success": true,
-  "time": 1790718669,
+  "time": 1790805395,
   "version": "1.0.0-beta.43"
 }

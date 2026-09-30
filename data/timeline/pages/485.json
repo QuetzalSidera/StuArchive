@@ -5,7 +5,7 @@
     "max_page": 593,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 95,
+      "BigRaid": 96,
       "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 585,
+        "line_type": "JP",
+        "title": "任务Normal3倍#6",
+        "image": "https://static.kivo.wiki/images/timeline/DTY6p8Y6EWoXTIgD8Lveu1iVtnlrEA6X.jpg",
+        "body_summary": "【キャンペーン予告】 2月15日(水)4:00より、「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 2月15日(水)4:00〜2月19日(日)3:59 ",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1625042271044517889",
+        "start_time": 1676404800,
+        "end_time": 1676750399
+      },
       {
         "id": 1328,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1625379309882945538",
         "start_time": 1676336449,
         "end_time": 1678755589
-      },
-      {
-        "id": 1326,
-        "line_type": "Globle",
-        "title": "国际服任务normal3倍4",
-        "image": "https://static.kivo.wiki/images/timeline/35nXYKN5zBAeaNb1wUIoWHVAcdVQx0wr.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be tripled. D",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1624302212473143297",
-        "start_time": 1676314810,
-        "end_time": 1676919550
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790727500,
+  "time": 1790811938,
   "version": "1.0.0-beta.43"
 }

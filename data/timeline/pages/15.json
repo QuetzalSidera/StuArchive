@@ -5,7 +5,7 @@
     "max_page": 593,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 95,
+      "BigRaid": 96,
       "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 5923,
+        "line_type": "Globle",
+        "title": "国际服任务Normal2倍",
+        "image": "https://static.kivo.wiki/images/timeline/i4CqPYdC3DBG7hzO1rlnWKRLb6hzplEo.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2091057786553844111",
+        "start_time": 1787598000,
+        "end_time": 1788202799
+      },
       {
         "id": 5819,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "bluearchive-cn.com/news/1911",
         "start_time": 1787216400,
         "end_time": 1788415199
-      },
-      {
-        "id": 5932,
-        "line_type": "CN",
-        "title": "迷你故事剧情更新：【与你的不期而遇】",
-        "image": "https://static.kivo.wiki/images/timeline/FJ3PYftYIIH3kQ9zZoNWwO8QLVsIoCG2.jpg",
-        "body_summary": "全新小故事剧情“与你的不期而遇”、即将于08月20日维护后更新！ 堇因千禧年健身房正在修缮而前往其他健身房。在那里，她遇到了意想不到的人。 ■ 剧情开放 《与你的不期而遇 1》 《与你的不期而遇 2》",
-        "type": "OtherStory",
-        "url": "weibo.com/6011443154/Ref2jflfP",
-        "start_time": 1787216400,
-        "end_time": 1787216400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790726922,
+  "time": 1790811502,
   "version": "1.0.0-beta.43"
 }

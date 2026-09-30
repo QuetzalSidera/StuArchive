@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-29T21:53:33Z",
+  "generated_at": "2026-09-30T21:53:28Z",
   "id": 269,
   "display_name": "剑先 鹤城（泳装）",
   "names": {
@@ -186,15 +186,15 @@
             },
             {
               "cost": 3,
-              "describe": "一般攻击变更为可造成攻击力117%伤害(20秒间)"
+              "describe": "一般攻击变更为可造成攻击力117%伤害(25秒间)"
             },
             {
               "cost": 3,
-              "describe": "一般攻击变更为可造成攻击力142%伤害(20秒间)"
+              "describe": "一般攻击变更为可造成攻击力142%伤害(25秒间)"
             },
             {
               "cost": 3,
-              "describe": "一般攻击变更为可造成攻击力167%伤害(20秒间)"
+              "describe": "一般攻击变更为可造成攻击力167%伤害(30秒间)"
             }
           ]
         }
@@ -236,7 +236,7 @@
             },
             {
               "cost": 1,
-              "describe": "每35秒对1个敌人造成攻击力309%伤害"
+              "describe": "每35秒对1个敌人造成攻击力305%伤害"
             },
             {
               "cost": 1,
@@ -362,8 +362,8 @@
       "icon": "https://static.kivo.wiki/images/students/%E5%89%91%E5%85%88%20%E9%B9%A4%E5%9F%8E/%E6%B3%B3%E8%A3%85/weapons_icon.png",
       "name": "Blood & Gunpowder",
       "name_cn": "血与火药",
-      "description": "鹤城使用的双持霰弹枪 在水中也没有任何问题，拥有超高火力。",
-      "description_cn": "鹤城使用的两把霰弹枪。\\n\\n不管是在沙子里还是在水中，都能毫无阻碍地释放出超强火力。",
+      "description": "鹤城使用的双持霰弹枪。<br>在水中也没有任何问题，拥有超高火力。",
+      "description_cn": "鹤城使用的两把霰弹枪。<br>不管是在沙子里还是在水中，都能毫无阻碍地释放出超强火力。",
       "info": [
         {
           "title": "无",
@@ -2626,8 +2626,8 @@
   "source": {
     "detail_path": "students/269.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/269.json",
-    "upstream_time": 1790718667,
-    "updated_at": 1789310864,
+    "upstream_time": 1790805393,
+    "updated_at": 1790775953,
     "created_at": 1685845701
   }
 }

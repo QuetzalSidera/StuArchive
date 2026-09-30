@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-29T21:53:33Z",
+  "generated_at": "2026-09-30T21:53:28Z",
   "id": 302,
   "display_name": "古关 忧（泳装）",
   "names": {
@@ -151,7 +151,7 @@
         "cc_power": 100,
         "cc_res": 100,
         "recovery_boost": 1,
-        "mag_count": 7
+        "mag_count": 5
       }
     ],
     "skills": {
@@ -171,11 +171,11 @@
               "describe": "在以自身为中心的圆形范围内，使除自己以外的4名队友向自身的位置移动后，附加一定时间的36.9%贯通加伤效果（45秒）"
             },
             {
-              "cost": 1,
+              "cost": 4,
               "describe": "在以自身为中心的圆形范围内，使除自己以外的4名队友向自身的位置移动后，附加一定时间的42.4%贯通加伤效果（45秒）"
             },
             {
-              "cost": 1,
+              "cost": 4,
               "describe": "在以自身为中心的圆形范围内，使除自己以外的4名队友向自身的位置移动后，附加一定时间的53.5%贯通加伤效果（45秒）"
             },
             {
@@ -238,7 +238,7 @@
             },
             {
               "cost": 1,
-              "describe": "获得3个线索点数时，为前排的队友附加28.9%一定时间的贯通加伤效果 （30秒）技能发动后，消耗3个线索点数"
+              "describe": "获得3个线索点数时，为前排的队友附加28.9%一定时间的贯通加伤效果（30秒）技能发动后，消耗3个线索点数"
             }
           ]
         },
@@ -306,7 +306,7 @@
           "info": [
             {
               "cost": 1,
-              "describe": "除自己以外的队友使用ex技能达到2次时，攻击力增加22.6(30秒)，并获得1个线索点数"
+              "describe": "除自己以外的队友使用ex技能达到2次时，攻击力增加22.6%(30秒)，并获得1个线索点数"
             },
             {
               "cost": 1,
@@ -342,7 +342,7 @@
             },
             {
               "cost": 1,
-              "describe": "除自己以外的队友使用ex技能达到2次时，攻击力增加43.6%(30秒)，并获得1个线索点数"
+              "describe": "除自己以外的队友使用ex技能达到2次时，攻击力增加43.1%(30秒)，并获得1个线索点数"
             }
           ]
         }
@@ -428,6 +428,66 @@
       ]
     },
     "equipment": [
+      {
+        "id": 9,
+        "name": "鞋子",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
+          },
+          {
+            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
+          },
+          {
+            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
+          },
+          {
+            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
+          },
+          {
+            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
+          },
+          {
+            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
+          },
+          {
+            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
+          },
+          {
+            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
+          },
+          {
+            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
+          },
+          {
+            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
+          }
+        ],
+        "detail_path": "equipments/9.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
+      },
       {
         "id": 6,
         "name": "发夹",
@@ -547,66 +607,6 @@
         ],
         "detail_path": "equipments/2.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/2.json"
-      },
-      {
-        "id": 9,
-        "name": "鞋子",
-        "name_cn": "",
-        "is_favorite": false,
-        "info": [
-          {
-            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
-          },
-          {
-            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
-          },
-          {
-            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
-          },
-          {
-            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
-          },
-          {
-            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
-          },
-          {
-            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
-          },
-          {
-            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
-          },
-          {
-            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
-          },
-          {
-            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
-          },
-          {
-            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
-          }
-        ],
-        "detail_path": "equipments/9.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
       }
     ],
     "favorite_equipment": {
@@ -3220,8 +3220,8 @@
   "source": {
     "detail_path": "students/302.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/302.json",
-    "upstream_time": 1790718665,
-    "updated_at": 1790103120,
+    "upstream_time": 1790805391,
+    "updated_at": 1790780257,
     "created_at": 1690117443
   }
 }

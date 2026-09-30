@@ -5,7 +5,7 @@
     "max_page": 593,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 95,
+      "BigRaid": 96,
       "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 14,
+        "line_type": "JP",
+        "title": "日服开服延期",
+        "image": "",
+        "body_summary": "【リリース時期変更のお知らせ】 2020年内に予定していた『ブルーアーカイブ -Blue Archive-』のリリースを、2021年初頭に変更させていただきます。 楽しみにお待ちいただいていた皆さまに",
+        "type": "Trivia",
+        "url": "twitter.com/Blue_ArchiveJP/status/1335856811342065664",
+        "start_time": 1607303270,
+        "end_time": 1607303270
+      },
       {
         "id": 13,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1283959657816449024",
         "start_time": 1594994968,
         "end_time": 1594994968
-      },
-      {
-        "id": 989,
-        "line_type": "JP",
-        "title": "游戏名正式确定为《Blue Archive（蔚蓝档案）》",
-        "image": "https://static.kivo.wiki/images/timeline/QqgtygHC5W8tOH2ySEO28ZkXgKtg1tEG.png",
-        "body_summary": "据悉，由手游《HIT：我守护的一切》的开发商韩国NATGames开发中的RPG手游《Project MX》（暂译：MX计划）的正式名称很可能就是《Blue Archive》（暂译：蓝色档案）。 近日，",
-        "type": "Trivia",
-        "url": "www.thisisgame.com/webzine/news/nboard/4/?n=103699",
-        "start_time": 1587355506,
-        "end_time": 1587355506
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790727629,
+  "time": 1790812036,
   "version": "1.0.0-beta.43"
 }

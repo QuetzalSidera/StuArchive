@@ -35,7 +35,7 @@
     "given_name_cn": "美游",
     "nick_name": "",
     "introduction": "为了执行潜入作战而造访渔村的SRT特殊学园所属RABBIT小队的狙击手。\n\n带着垂钓用具在码头轻松悠闲地挥动鱼线。虽说偶尔也会钓上来不得了的东西引起周围的注意……但天生存在感薄弱这点，在这不可思议的村子里也还是没失效啊。",
-    "introduction_cn": "SRT特种学院所属，RABBIT小队的狙击手，为了执行潜入行动来到了偏僻的渔村。\n\n她带上了钓具，大部分时间都待在码头边垂钓。时不时，她会因为钓到大鱼而受到周围钓客的注目……但她与生俱来的微薄存在感，在这奇妙的渔村里依旧如常。\"",
+    "introduction_cn": "SRT特种学院所属，RABBIT小队的狙击手，为了执行潜入行动来到了偏僻的渔村。\n\n她带上了钓具，大部分时间都待在码头边垂钓。时不时，她会因为钓到大鱼而受到周围钓客的注目……但她与生俱来的微薄存在感，在这奇妙的渔村里依旧如常。",
     "momo_talk_signature": "车到山前必有路",
     "main_relation": 44,
     "relation": [
@@ -1765,7 +1765,7 @@
         "limited": true,
         "outdoor_adaptability": "B",
         "indoor_adaptability": "A",
-        "street_adaptability": "A",
+        "street_adaptability": "C",
         "equipment": [
           7,
           6,
@@ -1974,7 +1974,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "增加队友15.6％的暴击伤害率"
+                  "describe": "增加队友15.5％的暴击伤害率"
                 },
                 {
                   "cost": 1,
@@ -2092,10 +2092,10 @@
     "supplementary_uuid": "534adf1f-dbc9-4ba0-ba4b-59804cd65978",
     "supplementary_declare_uuid": "a4349d5c-cd8d-4300-a0d0-fd5067117ac7",
     "created_at": 1687347345,
-    "updated_at": 1789803782
+    "updated_at": 1790776383
   },
   "message": "OK",
   "success": true,
-  "time": 1790719369,
+  "time": 1790805410,
   "version": "1.0.0-beta.43"
 }

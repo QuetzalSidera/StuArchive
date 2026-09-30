@@ -5,7 +5,7 @@
     "max_page": 593,
     "type_num": {
       "AlliedOperation": 14,
-      "BigRaid": 95,
+      "BigRaid": 96,
       "ContentImprovements": 432,
       "Double": 988,
       "Event": 533,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2480,
+        "line_type": "JP",
+        "title": "炸服35（提前结束）",
+        "image": "",
+        "body_summary": "【臨時メンテナンス】 サーバー機器を調整するため、下記の時間に臨時メンテナンスを実施いたします。 ▼実施日時 2024年4月22日(月) 11:00 〜 17:00前後 ▼詳細 https://blu",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1781880807713538419",
+        "start_time": 1713754800,
+        "end_time": 1713771300
+      },
       {
         "id": 2479,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/OajbHuQ0x",
         "start_time": 1713434440,
         "end_time": 1714629580
-      },
-      {
-        "id": 2450,
-        "line_type": "CN",
-        "title": "忍术研究部社团剧情更新",
-        "image": "https://static.kivo.wiki/images/timeline/brIQ0RUV6uhcewyZuxnEuUWtCmn8xkkh.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 全新社团及其对应的支线剧情将于 04月18日 维护结束后 更新！ 这些剧情记录了女生们诙谐幽默但又不失爆发力和深度的青春故事。 ■ 忍术研究部 忍术研究部，堂堂登场！",
-        "type": "OtherStory",
-        "url": "bluearchive-cn.com/news/693",
-        "start_time": 1713434407,
-        "end_time": 1713434407
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790727328,
+  "time": 1790811810,
   "version": "1.0.0-beta.43"
 }
