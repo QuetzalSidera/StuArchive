@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-30T21:53:28Z",
+  "generated_at": "2026-10-01T22:22:02Z",
   "id": 24,
   "display_name": "室笠 茜",
   "names": {
@@ -157,15 +157,15 @@
     "is_groupc_control": false,
     "adaptability": {
       "outdoor": "A",
-      "indoor": "B",
+      "indoor": "D",
       "street": "A"
     },
     "basic": [
       {
-        "max_hp": 15082,
-        "attack": 471,
+        "max_hp": 2319,
+        "attack": 108,
         "defense": 19,
-        "healing": 2060,
+        "healing": 1532,
         "accuracy": 101,
         "evasion": 1119,
         "crit": 203,
@@ -332,43 +332,43 @@
           "info": [
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少6.7%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少6.7%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少7%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少7%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少7.4%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少7.4%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少8.7%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少8.7%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少9%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少9%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少9.4%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少9.4%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少10.7%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少10.7%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少11%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少11%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少11.4%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少11.4%（持续30秒）（冷却时间5秒）"
             },
             {
               "cost": 1,
-              "describe": "攻击时10%闪避值减少12.7%(30秒内)(冷却时间 5秒)"
+              "describe": "攻击时，以10%的概率使敌方1人的闪避值减少12.7%（持续30秒）（冷却时间5秒）"
             }
           ]
         }
@@ -1653,7 +1653,7 @@
       {
         "description": "akane_exskill_level_1",
         "category": "battle",
-        "text": "优雅的消除掉吧。",
+        "text": "优雅地消除掉吧。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%A4%E7%AC%A0%20%E8%8C%9C/3UEVMoEB5PFufwrH8Pl6DLbQmM8khfc9.ogg"
       },
@@ -1667,7 +1667,7 @@
       {
         "description": "akane_exskill_level_3",
         "category": "battle",
-        "text": "诚心诚意的拜托各位了，再会。",
+        "text": "诚心诚意地拜托各位了。再会。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%A4%E7%AC%A0%20%E8%8C%9C/6TPRRi8pISpVe5z3uRe5U3ln1SY1LkE5.ogg"
       },
@@ -2441,8 +2441,8 @@
   "source": {
     "detail_path": "students/24.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/24.json",
-    "upstream_time": 1790805110,
-    "updated_at": 1789802806,
+    "upstream_time": 1790893659,
+    "updated_at": 1790815627,
     "created_at": 1684504380
   }
 }

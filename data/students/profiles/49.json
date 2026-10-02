@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-09-30T21:53:28Z",
+  "generated_at": "2026-10-01T22:22:02Z",
   "id": 49,
   "display_name": "爱清 风香（新年）",
   "names": {
@@ -161,7 +161,7 @@
         "crit": 270,
         "crit_res": 100,
         "crit_dmg": 2,
-        "crit_dmg_res": 1,
+        "crit_dmg_res": 0.5,
         "stability": 1477,
         "range": 1000,
         "cc_power": 100,
@@ -184,23 +184,23 @@
           "info": [
             {
               "cost": 3,
-              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加18.3%（持续35秒）"
+              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加18.3%（持续35秒）"
             },
             {
               "cost": 3,
-              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加21.1%（持续35秒）"
+              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加21.1%（持续35秒）"
             },
             {
               "cost": 3,
-              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加26.6%（持续35秒）"
+              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加26.6%（持续35秒）"
             },
             {
               "cost": 3,
-              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加29.3%（持续35秒）"
+              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加29.3%（持续35秒）"
             },
             {
               "cost": 2,
-              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加32.1%（持续35秒）"
+              "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加32.1%（持续35秒）"
             }
           ]
         }
@@ -1124,21 +1124,21 @@
       },
       {
         "description": "CH0177_EventLogin_Season_1.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "嗯……现在正是 展露我厨艺的时候！我会努力的…… 如果您能给我一些关注， 就更好了。",
         "text_original": "はい…今こそ料理の腕前を披露するときですね！ 私、頑張りますから…見守ってくださると嬉しいです。",
         "file": "https://static.kivo.wiki/voices/students/%E7%88%B1%E6%B8%85%20%E6%9E%AB%E9%A6%99/%E6%AD%A3%E6%9C%88/abjMkv3vjx5mIYnkdHcuYczwSCQTmLUX.ogg"
       },
       {
         "description": "CH0177_EventLogin_Season_2.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "不知道为什么， 事情好像变得很复杂…… 但我要做的事没有变。就是全力以赴，仅此而已。而且……因为有老师陪着我， 我感觉心里十分踏实！",
         "text_original": "なんだかすごいことになってしまいましたが、私のやることは変わりません。 ただ最善を尽くす、それだけです。 それに…先生がそばにいてくださりますから百人力です！",
         "file": "https://static.kivo.wiki/voices/students/%E7%88%B1%E6%B8%85%20%E6%9E%AB%E9%A6%99/%E6%AD%A3%E6%9C%88/Qfe5kiznklnRHzm8glfJ5t5gy1DQ35kf.ogg"
       },
       {
         "description": "CH0177_EventLogin_Season_End.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "能顺利结束真是太好了。老，老师？ 我做的菜…… 合不合您的胃口？",
         "text_original": "無事に終わって良かったです。 その…私の料理、お口に合いましたか？",
         "file": "https://static.kivo.wiki/voices/students/%E7%88%B1%E6%B8%85%20%E6%9E%AB%E9%A6%99/%E6%AD%A3%E6%9C%88/amf58rajLVsmX1Rrydjqs7BDLlBqA1DJ.ogg"
@@ -2356,8 +2356,8 @@
   "source": {
     "detail_path": "students/49.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/49.json",
-    "upstream_time": 1790805111,
-    "updated_at": 1789309562,
+    "upstream_time": 1790893536,
+    "updated_at": 1790860648,
     "created_at": 1684764581
   }
 }

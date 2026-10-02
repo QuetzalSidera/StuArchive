@@ -41,7 +41,7 @@
     "given_name_cn": "优香",
     "nick_name": "邮箱,没包人,半包人,管账婆",
     "introduction": "千禧科学学园所属，学生会「研讨会」的会计。\n\n在理科比例较高的千禧科学学院中也是首屈一指的数学奇才，总揽千禧科学学院的预算管理。\n\n专长珠算。有着烦恼复杂的事情或心理纠结时靠打算盘冷静下来的习惯。",
-    "introduction_cn": "在千禧年科技的理事会——“研讨会”中担任着会计要职。\n即使是在理科生众多的千禧年科技，她也是其中屈指可数的数学天才，全权管理着千禧年的各类预算。\n特长是使用算盘。每当思绪复杂或内心纠结时，她都会以拨弄算珠的方式来平复心态。\n\n「我的计算很完美。\n保持冷静行动吧！」",
+    "introduction_cn": "在千禧年科技的理事会——“研讨会”中担任着会计要职。\n\n即使是在理科生众多的千禧年科技，她也是其中屈指可数的数学天才，全权管理着千禧年的各类预算。\n\n特长是使用算盘。每当思绪复杂或内心纠结时，她都会以拨弄算珠的方式来平复心态。",
     "momo_talk_signature": "一切尽在掌握之中",
     "main_relation": 34,
     "relation": [
@@ -2808,8 +2808,8 @@
         "street_adaptability": "B",
         "equipment": [
           9,
-          2,
-          5
+          5,
+          2
         ],
         "cultivate_material": [
           2,
@@ -2886,7 +2886,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "每15秒对1名敌人造成攻击力322%伤害"
+                  "describe": "每15秒对1名敌人造成攻击力332%伤害"
                 },
                 {
                   "cost": 1,
@@ -3026,10 +3026,10 @@
         },
         "basic": [
           {
-            "max_hp": 3357,
-            "attack": 132,
+            "max_hp": 3147,
+            "attack": 119,
             "defense": 29,
-            "healing": 1645,
+            "healing": 1505,
             "accuracy": 100,
             "evasion": 1440,
             "crit": 200,
@@ -3137,10 +3137,10 @@
     "supplementary_uuid": "2e0ec843-304f-42dc-ac9d-57b328ce8fb6",
     "supplementary_declare_uuid": "fc6b927c-2759-437a-8848-efec93220351",
     "created_at": 1684769974,
-    "updated_at": 1790102487
+    "updated_at": 1790861576
   },
   "message": "OK",
   "success": true,
-  "time": 1790805397,
+  "time": 1790893573,
   "version": "1.0.0-beta.43"
 }

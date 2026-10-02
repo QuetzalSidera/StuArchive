@@ -183,21 +183,21 @@
       },
       {
         "description": "CH0177_EventLogin_Season_1.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "嗯……现在正是 展露我厨艺的时候！我会努力的…… 如果您能给我一些关注， 就更好了。",
         "text_original": "はい…今こそ料理の腕前を披露するときですね！ 私、頑張りますから…見守ってくださると嬉しいです。",
         "file": "https://static.kivo.wiki/voices/students/%E7%88%B1%E6%B8%85%20%E6%9E%AB%E9%A6%99/%E6%AD%A3%E6%9C%88/abjMkv3vjx5mIYnkdHcuYczwSCQTmLUX.ogg"
       },
       {
         "description": "CH0177_EventLogin_Season_2.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "不知道为什么， 事情好像变得很复杂…… 但我要做的事没有变。就是全力以赴，仅此而已。而且……因为有老师陪着我， 我感觉心里十分踏实！",
         "text_original": "なんだかすごいことになってしまいましたが、私のやることは変わりません。 ただ最善を尽くす、それだけです。 それに…先生がそばにいてくださりますから百人力です！",
         "file": "https://static.kivo.wiki/voices/students/%E7%88%B1%E6%B8%85%20%E6%9E%AB%E9%A6%99/%E6%AD%A3%E6%9C%88/Qfe5kiznklnRHzm8glfJ5t5gy1DQ35kf.ogg"
       },
       {
         "description": "CH0177_EventLogin_Season_End.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "能顺利结束真是太好了。老，老师？ 我做的菜…… 合不合您的胃口？",
         "text_original": "無事に終わって良かったです。 その…私の料理、お口に合いましたか？",
         "file": "https://static.kivo.wiki/voices/students/%E7%88%B1%E6%B8%85%20%E6%9E%AB%E9%A6%99/%E6%AD%A3%E6%9C%88/amf58rajLVsmX1Rrydjqs7BDLlBqA1DJ.ogg"
@@ -1540,23 +1540,23 @@
               "info": [
                 {
                   "cost": 3,
-                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加18.3%（持续35秒）"
+                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加18.3%（持续35秒）"
                 },
                 {
                   "cost": 3,
-                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加21.1%（持续35秒）"
+                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加21.1%（持续35秒）"
                 },
                 {
                   "cost": 3,
-                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加26.6%（持续35秒）"
+                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加26.6%（持续35秒）"
                 },
                 {
                   "cost": 3,
-                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加29.3%（持续35秒）"
+                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加29.3%（持续35秒）"
                 },
                 {
                   "cost": 2,
-                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（向上取整）/暴击伤害增加32.1%（持续35秒）"
+                  "describe": "使我方一人的Ex技能COST最多减少50%（使用Ex技能1次）（减少值向下取整）/暴击伤害增加32.1%（持续35秒）"
                 }
               ]
             }
@@ -1731,7 +1731,7 @@
             "crit": 270,
             "crit_res": 100,
             "crit_dmg": 2,
-            "crit_dmg_res": 1,
+            "crit_dmg_res": 0.5,
             "stability": 1477,
             "range": 1000,
             "cc_power": 100,
@@ -1833,10 +1833,10 @@
     "supplementary_uuid": "4539ebd1-d963-46cc-807c-2eeffe042e1c",
     "supplementary_declare_uuid": "a9afd42c-e162-4ca7-9516-b8c1c46ef5ed",
     "created_at": 1684764581,
-    "updated_at": 1789309562
+    "updated_at": 1790860648
   },
   "message": "OK",
   "success": true,
-  "time": 1790805111,
+  "time": 1790893536,
   "version": "1.0.0-beta.43"
 }
