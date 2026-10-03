@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-01T22:22:02Z",
+  "generated_at": "2026-10-02T21:50:32Z",
   "id": 79,
   "display_name": "静山 真白",
   "names": {
@@ -147,7 +147,7 @@
     },
     "basic": [
       {
-        "max_hp": 2520,
+        "max_hp": 2521,
         "attack": 347,
         "defense": 20,
         "healing": 1892,
@@ -159,7 +159,7 @@
         "crit_dmg_res": 0.5,
         "stability": 2300,
         "range": 1000,
-        "cc_power": 1000,
+        "cc_power": 100,
         "cc_res": 100,
         "recovery_boost": 1,
         "mag_count": 0
@@ -363,7 +363,7 @@
       "icon": "https://static.kivo.wiki/images/students/%E9%9D%99%E5%B1%B1%20%E7%9C%9F%E7%99%BD/weapons_icon.png",
       "name": "正义的显现",
       "name_cn": "正义的显现",
-      "description": "真白在正义实现委员会活动时所使用的狙击枪。<br>体积上不便于随身携带，不过对于胸怀正义的麻白来说不构成任何问题。",
+      "description": "真白在正义实现委员会活动时所使用的狙击枪。<br>体积上不便于随身携带，不过对于胸怀正义的真白来说不构成任何问题。",
       "description_cn": "真白在参加正义实现部的活动时使用的狙击枪。<br>虽然拿着有点吃力，但因为真白有着对正义的信念，所以这不成问题。",
       "info": [
         {
@@ -1052,7 +1052,7 @@
         "description": "Mashiro_ExSkill_3.ogg",
         "category": "battle",
         "text": "已发现目标，在射程范围内。",
-        "text_original": "ターゲット補足…距離は十分です。",
+        "text_original": "ターゲット捕捉……距離は十分です。",
         "file": "https://static.kivo.wiki/voices/students/%E9%9D%99%E5%B1%B1%20%E7%9C%9F%E7%99%BD/sl6hDvTz3wrVEa7XiJK8mr0DUVfMSesw.ogg"
       },
       {
@@ -1932,8 +1932,8 @@
   "source": {
     "detail_path": "students/79.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/79.json",
-    "upstream_time": 1790893468,
-    "updated_at": 1789310129,
+    "upstream_time": 1790977992,
+    "updated_at": 1790926869,
     "created_at": 1685016003
   }
 }

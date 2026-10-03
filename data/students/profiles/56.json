@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-01T22:22:02Z",
+  "generated_at": "2026-10-02T21:50:32Z",
   "id": 56,
   "display_name": "水羽 三森（泳装）",
   "names": {
@@ -161,7 +161,7 @@
         "range": 1000,
         "cc_power": 100,
         "cc_res": 100,
-        "recovery_boost": 7,
+        "recovery_boost": 1,
         "mag_count": 0
       }
     ],
@@ -179,23 +179,23 @@
           "info": [
             {
               "cost": 3,
-              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度16.6%(持续20秒） ※遮蔽物额外获得弥守49.5%的生命值"
-            },
-            {
-              "cost": 1,
-              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度16.6%(持续20秒） ※遮蔽物额外获得弥守57%的生命值"
-            },
-            {
-              "cost": 1,
-              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度21.6%(持续20秒） ※遮蔽物额外获得弥守71.8%的生命值"
+              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度16.6%(持续20秒） ※遮蔽物额外获得弥守49.5%的生命值 ※仅在范围内期间维持效果"
             },
             {
               "cost": 3,
-              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度26.6%(持续20秒） ※遮蔽物额外获得弥守79.3%的生命值"
+              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度16.6%(持续20秒） ※遮蔽物额外获得弥守57%的生命值 ※仅在范围内期间维持效果"
             },
             {
               "cost": 3,
-              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度31.6%(持续20秒） ※遮蔽物额外获得弥守94.1%的生命值"
+              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度21.6%(持续20秒） ※遮蔽物额外获得弥守71.8%的生命值 ※仅在范围内期间维持效果"
+            },
+            {
+              "cost": 3,
+              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度26.6%(持续20秒） ※遮蔽物额外获得弥守79.3%的生命值 ※仅在范围内期间维持效果"
+            },
+            {
+              "cost": 3,
+              "describe": "设置遮蔽物 增加圆形范围内队友攻击速度31.6%(持续20秒） ※遮蔽物额外获得弥守94.1%的生命值 ※仅在范围内期间维持效果"
             }
           ]
         }
@@ -1269,7 +1269,7 @@
         "description": "CH0183_EventLobby_4_1.ogg",
         "category": "event",
         "text": "解决事件看起来很难……但只要有大家在，就没有问题！",
-        "text_original": "事件を解決するのは……難しい気もしますが、さんと協力すれば、きっと大丈夫ですよね。",
+        "text_original": "事件を解決するのは…難しい気もしますが、皆さんと協力すれば、きっと大丈夫ですよね。",
         "file": "https://static.kivo.wiki/voices/students/%E6%B0%B4%E7%BE%BD%20%E5%BC%A5%E5%AE%88/%E6%B3%B3%E8%A3%85/DEW6fwhby0ZjdPTdnabsSIC4Rje5YCUC.ogg"
       },
       {
@@ -1283,7 +1283,7 @@
         "description": "CH0183_EventLogin_1.ogg",
         "category": "event",
         "text": "啊，老师，欢迎回来！这里是海之家哦，我准备了很多东西哦！",
-        "text_original": "海の家ですよ。頑張って準備いたしました！",
+        "text_original": "あ、おかえりなさい、先生。海の家ですよ。頑張って準備いたしました！",
         "file": "https://static.kivo.wiki/voices/students/%E6%B0%B4%E7%BE%BD%20%E5%BC%A5%E5%AE%88/%E6%B3%B3%E8%A3%85/zFgdTsZdViHq0XO2SXmluSEpTJdSBWsx.ogg"
       },
       {
@@ -1725,7 +1725,7 @@
       {
         "description": "ch0183_exskill_3",
         "category": "battle",
-        "text": "大海真美啊……嗯，我一直等著你呢。",
+        "text": "大海真美呀……嗯，我一直等着您呢。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E6%B0%B4%E7%BE%BD%20%E5%BC%A5%E5%AE%88/%E6%B3%B3%E8%A3%85/cn/ch0183_exskill_3.ogg"
       },
@@ -1760,7 +1760,7 @@
       {
         "description": "ch0183_formation_in_1",
         "category": "formation",
-        "text": "嗯,老师,我一直等著你呢。",
+        "text": "嗯，老师，我一直等着您呢。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E6%B0%B4%E7%BE%BD%20%E5%BC%A5%E5%AE%88/%E6%B3%B3%E8%A3%85/cn/ch0183_formation_in_1.ogg"
       },
@@ -2380,8 +2380,8 @@
   "source": {
     "detail_path": "students/56.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/56.json",
-    "upstream_time": 1790893747,
-    "updated_at": 1789803652,
+    "upstream_time": 1790978307,
+    "updated_at": 1790910314,
     "created_at": 1684809387
   }
 }
