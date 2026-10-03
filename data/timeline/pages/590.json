@@ -14,14 +14,47 @@
       "MainStory": 133,
       "Maintenance": 455,
       "MiniBattle": 214,
-      "Other": 728,
+      "Other": 729,
       "OtherStory": 72,
-      "OutsideGames": 906,
+      "OutsideGames": 908,
       "Raid": 256,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 56,
+        "line_type": "JP",
+        "title": "发推活动：#アロナとのバレンタイン",
+        "image": "",
+        "body_summary": "【キャンぺーン】 先生、今日は何の日か知ってますか？ そう、バレンタインデーです！ 今、公式アカウント( @Blue_ArchiveJP )をフォローして、 「#アロナとのバレンタイン」でツイートする",
+        "type": "WebEvent",
+        "url": "twitter.com/Blue_ArchiveJP/status/1360808487698194436",
+        "start_time": 1613296193,
+        "end_time": 1613900993
+      },
+      {
+        "id": 54,
+        "line_type": "JP",
+        "title": "炸服6",
+        "image": "",
+        "body_summary": "【緊急メンテナンス】 現在ログインに関わる不具合が確認されたため、これから、緊急メンテナンスを行わせていただきます。 進展がございましたらあらためてご案内いたします。 ご不便をおかけしてしまい申し訳あ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1360459432560238593",
+        "start_time": 1613197320,
+        "end_time": 1613218380
+      },
+      {
+        "id": 50,
+        "line_type": "JP",
+        "title": "情人节登录奖励",
+        "image": "https://static.kivo.wiki/images/timeline/v05sDRwCjMbvyv1Wi7V8Z7NiytvrqLKL.jpg",
+        "body_summary": "【予告】 バレンタインログインボーナスイベントがまもなく開催です！ 🔷開催期間 2021年2月13日(土) 04:00 ~ 2021年2月26日(金) 04:00 期間中に合計7日間ログインをすると、",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1360091305540423685",
+        "start_time": 1613160000,
+        "end_time": 1614283200
+      },
       {
         "id": 51,
         "line_type": "JP",
@@ -98,44 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1357628807675482115",
         "start_time": 1612502742,
         "end_time": 1612502742
-      },
-      {
-        "id": 25,
-        "line_type": "JP",
-        "title": "炸服3",
-        "image": "",
-        "body_summary": "【緊急メンテナンスのお知らせ】 現在深刻な不具合を確認いたしましたため、 本日1:00~6:00の間、緊急メンテナンスを行わせていただきます。 なお、進展がありましたら、あらためてご案内いたします。 ",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1357357815862489088?s=20",
-        "start_time": 1612458000,
-        "end_time": 1612476000
-      },
-      {
-        "id": 24,
-        "line_type": "JP",
-        "title": "炸服2",
-        "image": "",
-        "body_summary": "【緊急メンテナンスのお知らせ】 現在、予想以上のアクセス集中によるサーバー混雑のため、 15:30より緊急メンテナンスを行わせていただきます。 状況が判明次第、追ってお知らせいたします。 ご不便をおか",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1357237311256231937",
-        "start_time": 1612423800,
-        "end_time": 1612436400
-      },
-      {
-        "id": 22,
-        "line_type": "JP",
-        "title": "开始服务",
-        "image": "https://static.kivo.wiki/images/timeline/dyvsAoKExQdRkLc789wRmkJsD3vdGGHE.jpg",
-        "body_summary": "┏━━━━━━━━━━━━━━━━━━━┓ ✨『ブルーアーカイブ』✨ ✨サービス開始です！✨ ┗━━━━━━━━━━━━━━━━━━━┛ 『ブルーアーカイブ』の正式サービスを開始いたしました！ たくさ",
-        "type": "Other",
-        "url": "twitter.com/Blue_ArchiveJP/status/1357177196419321856",
-        "start_time": 1612414934,
-        "end_time": 1612414934
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1790986004,
+  "time": 1791067731,
   "version": "1.0.0-beta.43"
 }

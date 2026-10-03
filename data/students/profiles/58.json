@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-02T21:50:32Z",
+  "generated_at": "2026-10-03T20:36:49Z",
   "id": 58,
   "display_name": "砂狼 白子（泳装）",
   "names": {
@@ -138,7 +138,7 @@
   "assets": {
     "avatar": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/avatar.png",
     "sd_model_image": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/sd_model.png",
-    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/CH0188_home_Idle_01_3.6246999999999963.jpg",
+    "recollection_lobby_image": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/download.jpg",
     "voice_play_icon": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/voice/play_icon.png",
     "voice_pause_icon": "https://static.kivo.wiki/images/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/voice/pause_icon.png",
     "spine_ids": [
@@ -178,14 +178,14 @@
         "accuracy": 660,
         "evasion": 786,
         "crit": 254,
-        "crit_res": 200,
+        "crit_res": 100,
         "crit_dmg": 2,
         "crit_dmg_res": 0.5,
         "stability": 1582,
         "range": 1000,
         "cc_power": 100,
         "cc_res": 100,
-        "recovery_boost": 7,
+        "recovery_boost": 1,
         "mag_count": 15
       }
     ],
@@ -215,7 +215,7 @@
             },
             {
               "cost": 3,
-              "describe": "减少一个敌人28.8%的防御力(30秒)，并造成949%的攻击力的伤害"
+              "describe": "减少一个敌人28.8%的防御力(30秒)，并造成940%的攻击力的伤害"
             },
             {
               "cost": 3,
@@ -237,43 +237,43 @@
           "info": [
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加11.5%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加11.5%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加12.1%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加12.1%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加12.7%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加12.7%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加15%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加15%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加15.5%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加15.5%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加16.1%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加16.1%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加18.4%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加18.4%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加19%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加19%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加19.6%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加19.6%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             },
             {
               "cost": 1,
-              "describe": "战斗开始时，除自身外队友暴击率增加21.9%(60秒），并且EX技能Cost花费减少1（每场战斗中只发动一次）"
+              "describe": "战斗开始时，除自身外队友暴击率增加21.9%(60秒），并且EX技能Cost花费减少1（仅限1次EX技能使用，每场战斗中只发动一次）"
             }
           ]
         },
@@ -1133,7 +1133,7 @@
         "description": "CH0188_Formation_In_1.ogg",
         "category": "formation",
         "text": "啊，正好这里有钓具。",
-        "text_original": "なんど、ここに釣りの道具が…",
+        "text_original": "なんと、ここに釣りの道具が。",
         "file": "https://static.kivo.wiki/voices/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/Zo1w1kQSFKYG6t23ppHHkPQ26zc2B5Jr.ogg"
       },
       {
@@ -1189,7 +1189,7 @@
         "description": "CH0188_Lobby_2.ogg",
         "category": "lobby",
         "text": "老师，有什么事情想做吗？要不要去什么地方？ 肚子饿了吗？",
-        "text_original": "先生、何かしたい事ある？どこに行って、何したい、それどもお腹空いた？",
+        "text_original": "先生、なにかしたいことある？どこに行って、何したい？それともお腹空いた？",
         "file": "https://static.kivo.wiki/voices/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/huVJ4O49w3qbGBQYTYtMAov6D6dvsZQd.ogg"
       },
       {
@@ -1428,7 +1428,7 @@
       {
         "description": "ch0188_exskill_1",
         "category": "battle",
-        "text": "嗯……嗯！",
+        "text": "……！！嘿。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/cn/ch0188_exskill_1.ogg"
       },
@@ -1491,7 +1491,7 @@
       {
         "description": "ch0188_gachaget",
         "category": "growup",
-        "text": "\"钓鱼时间到了， 老师，走吧。\"",
+        "text": "钓鱼时间到了，老师，走吧。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E7%A0%82%E7%8B%BC%20%E7%99%BD%E5%AD%90/%E6%B3%B3%E8%A3%85/cn/ch0188_gachaget.ogg"
       },
@@ -2076,8 +2076,8 @@
   "source": {
     "detail_path": "students/58.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/58.json",
-    "upstream_time": 1790977449,
-    "updated_at": 1789309723,
+    "upstream_time": 1791059588,
+    "updated_at": 1791004112,
     "created_at": 1684810316
   }
 }

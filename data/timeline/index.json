@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-10-02T21:50:32Z",
+  "generated_at": "2026-10-03T20:36:49Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 593,
   "synced_pages": 593,
-  "total_items": 5926,
+  "total_items": 5929,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -70,6 +70,39 @@
       "url": "www.weibo.com/6011443154/RjhjL4WO0",
       "start_time": 1791403200,
       "end_time": 1792007940
+    },
+    {
+      "id": 6091,
+      "line_type": "CN",
+      "title": "《蔚蓝档案》EP-梦路的花",
+      "image": "https://static.kivo.wiki/images/timeline/apYZTbh8SFSYZ0SvEtRyNKwXOmrmphtT.jpg",
+      "body_summary": "月色沉寂，寒风轻轻，所幸，黎明就在你的身旁 演唱：空崎日奈（CV:王雅欣） 编曲：ミツキヨ 作曲：ミツキヨ 中文填词：沽辞 监制:绯川蛋 录音:jinx 音频编辑：王飞 混音：杨皓添",
+      "type": "OutsideGames",
+      "url": "www.bilibili.com/video/BV1C7aJ65E6X/",
+      "start_time": 1791000000,
+      "end_time": 1791000000
+    },
+    {
+      "id": 6089,
+      "line_type": "CN",
+      "title": "夏（乐队）",
+      "image": "https://static.kivo.wiki/images/timeline/AegiZlipsb4TfjyQHPWPsQtP4ZwyEq9J.jpg",
+      "body_summary": "//////////档案启封////////// ■ 夏（乐队） 崔尼蒂甜点部的一员，在火速结成的乐队【Sugar Rush】中担任鼓手，并负责乐队的日程管理。 她平日里总是一副对“摇滚”颇有心得的模",
+      "type": "Other",
+      "url": "weibo.com/6011443154/RkVQ9jZ9T",
+      "start_time": 1790996400,
+      "end_time": 1790996400
+    },
+    {
+      "id": 6090,
+      "line_type": "CN",
+      "title": "《蔚蓝档案》比起烤肉我更喜欢......",
+      "image": "https://static.kivo.wiki/images/timeline/SKYVUMkQdArDPPbx9ImdgfyySNFzHump.jpg",
+      "body_summary": "潮声作序，海风入席。 等待美味慢慢烤好的时间，也请老师好好惦记着我哦。",
+      "type": "OutsideGames",
+      "url": "www.bilibili.com/video/BV11wht6eEKF/",
+      "start_time": 1790935200,
+      "end_time": 1790935200
     },
     {
       "id": 6088,
@@ -69353,15 +69386,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=593",
       "path": "timeline/pages/593.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/593.json",
-      "item_count": 6
+      "item_count": 9
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5916,
-    "normalized_alias_count": 5909,
-    "total_items": 5926
+    "alias_count": 5919,
+    "normalized_alias_count": 5912,
+    "total_items": 5929
   }
 }
