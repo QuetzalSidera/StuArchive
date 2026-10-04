@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-03T20:36:49Z",
+  "generated_at": "2026-10-04T20:53:24Z",
   "id": 103,
   "display_name": "赤司 纯子",
   "names": {
@@ -142,7 +142,7 @@
     "is_groupc_control": false,
     "adaptability": {
       "outdoor": "A",
-      "indoor": "A",
+      "indoor": "B",
       "street": "B"
     },
     "basic": [
@@ -361,9 +361,9 @@
     },
     "weapon": {
       "icon": "https://static.kivo.wiki/images/students/%E8%B5%A4%E5%8F%B8%20%E7%BA%AF%E5%AD%90/weapons_icon.png",
-      "name": "餐桌上的法外之徒",
+      "name": "法外食徒",
       "name_cn": "餐桌上的法外狂徒",
-      "description": "纯子所使用的二挺机关枪。<br>拥有强劲的连发能力，只要握有这把机关枪，无论身处什么状况都能成为餐桌上的支配者。",
+      "description": "纯子所使用的双持突击步枪。<br>拥有强劲的连射能力，且对纯子而言，该能力还会随空腹程度成比例提升，越饿压制越快。",
       "description_cn": "纯子使用的两把突击步枪。<br>只要有了这两把连射力超强的枪，不管在什么情况下，都能称霸饭桌。",
       "info": [
         {
@@ -387,7 +387,7 @@
         {
           "icon": "https://static.kivo.wiki/images/students/%E8%B5%A4%E5%8F%B8%20%E7%BA%AF%E5%AD%90/skill_icon/vR5gzMlNCpfQDY6XR0sJYS2p4Vk9w4i0.png",
           "title": "娇小的优势+",
-          "title_cn": "小矮子的优点",
+          "title_cn": "小矮子的优点+",
           "preview": "",
           "max_level": 1,
           "link_student_id": 0,
@@ -1335,14 +1335,14 @@
         "description": "Zunko_Growup_1",
         "category": "growup",
         "text": "才，才不小好不好，我还在发育呢，以后还会长的！",
-        "text_original": "ち、小さくないから！また成長期で！これから大きくなるの！",
+        "text_original": "ち、小さくないから！まだ成長期で、これから大きくなるの！",
         "file": "https://static.kivo.wiki/voices/students/%E8%B5%A4%E5%8F%B8%20%E7%BA%AF%E5%AD%90/cEGGGldOF6SXWWjfHxXOitNXV6A31rPS.ogg"
       },
       {
         "description": "Zunko_Growup_2",
         "category": "growup",
         "text": "不知道怎么回事，好像变强了一点！",
-        "text_original": "よくわがらないけど、ちょっと強くなっだ予感する！",
+        "text_original": "よく分からないけど……ちょっと、強くなった気がする！",
         "file": "https://static.kivo.wiki/voices/students/%E8%B5%A4%E5%8F%B8%20%E7%BA%AF%E5%AD%90/LMQEh9MYEQbU9HBN9zBk0iOCo7LLtg2y.ogg"
       },
       {
@@ -1496,7 +1496,7 @@
         "description": "Zunko_Season_Birthday",
         "category": "lobby",
         "text": "今天是我的生日诶！你知道的吧？ 过生日，肯定得去吃肉嘛！ 或者自助也行啊！哎呀，其实吃什么都成，快走啦，老师！",
-        "text_original": "えっと…、必要な時は私を呼んでね！せ、先生のことならいつでも手伝うから！今日は私の誕生日なの！ 分かってるよね？ やっぱり誕生日にはお  肉がいいかな！ それかビュッフェでもいいよ！  なんでもいいから 食べに行こ、先生！",
+        "text_original": "今日は私の誕生日なの！分かってるよね？やっぱり誕生日にはお肉がいいかな！それかビュッフェでもいいよ！なんでもいいから食べに行こ、先生！",
         "file": "https://static.kivo.wiki/voices/students/%E8%B5%A4%E5%8F%B8%20%E7%BA%AF%E5%AD%90/s97YKHcvTOllIMjuAdAefyvBCU8VZTEU.ogg"
       },
       {
@@ -2684,8 +2684,8 @@
   "source": {
     "detail_path": "students/103.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/103.json",
-    "upstream_time": 1791059661,
-    "updated_at": 1790570243,
+    "upstream_time": 1791147296,
+    "updated_at": 1791132048,
     "created_at": 1685275887
   }
 }

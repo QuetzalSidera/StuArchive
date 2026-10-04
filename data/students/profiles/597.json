@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-03T20:36:49Z",
+  "generated_at": "2026-10-04T20:53:24Z",
   "id": 597,
   "display_name": "钢桶蟹",
   "names": {
@@ -96,7 +96,12 @@
     "voice_play_icon": "",
     "voice_pause_icon": "",
     "spine_ids": [],
-    "model_ids": []
+    "model_ids": [
+      535,
+      536,
+      537,
+      538
+    ]
   },
   "combat": {
     "character_id": 0,
@@ -168,8 +173,8 @@
   "source": {
     "detail_path": "students/597.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/597.json",
-    "upstream_time": 1791060471,
-    "updated_at": 1781081211,
+    "upstream_time": 1791147688,
+    "updated_at": 1791109888,
     "created_at": 1780935318
   }
 }

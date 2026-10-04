@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-10-03T20:36:49Z",
+  "generated_at": "2026-10-04T20:53:24Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 533,
-  "alias_count": 533,
-  "normalized_alias_count": 533,
+  "total_items": 541,
+  "alias_count": 541,
+  "normalized_alias_count": 541,
   "by_id": {
     "1": {
       "id": 1,
@@ -6408,6 +6408,102 @@
       },
       "detail_path": "models/550.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/550.json"
+    },
+    "551": {
+      "id": 551,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 551,
+        "name": "CH0320_Body",
+        "type": "body"
+      },
+      "detail_path": "models/551.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/551.json"
+    },
+    "552": {
+      "id": 552,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 552,
+        "name": "CH0321_Body",
+        "type": "body"
+      },
+      "detail_path": "models/552.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/552.json"
+    },
+    "553": {
+      "id": 553,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 553,
+        "name": "CH0328_Body",
+        "type": "body"
+      },
+      "detail_path": "models/553.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/553.json"
+    },
+    "554": {
+      "id": 554,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 554,
+        "name": "CH0368_Body",
+        "type": "body"
+      },
+      "detail_path": "models/554.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/554.json"
+    },
+    "555": {
+      "id": 555,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 555,
+        "name": "CH0369_Body",
+        "type": "body"
+      },
+      "detail_path": "models/555.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/555.json"
+    },
+    "556": {
+      "id": 556,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 556,
+        "name": "Trident_Odysseia_AR_Body",
+        "type": "body"
+      },
+      "detail_path": "models/556.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/556.json"
+    },
+    "557": {
+      "id": 557,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 557,
+        "name": "Trident_Odysseia_SMG_Body",
+        "type": "body"
+      },
+      "detail_path": "models/557.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/557.json"
+    },
+    "558": {
+      "id": 558,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 558,
+        "name": "Trident_Odysseia_SR_Body",
+        "type": "body"
+      },
+      "detail_path": "models/558.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/558.json"
     }
   },
   "by_alias": {
@@ -8009,6 +8105,30 @@
     ],
     "CH0321_Halo": [
       "550"
+    ],
+    "CH0320_Body": [
+      "551"
+    ],
+    "CH0321_Body": [
+      "552"
+    ],
+    "CH0328_Body": [
+      "553"
+    ],
+    "CH0368_Body": [
+      "554"
+    ],
+    "CH0369_Body": [
+      "555"
+    ],
+    "Trident_Odysseia_AR_Body": [
+      "556"
+    ],
+    "Trident_Odysseia_SMG_Body": [
+      "557"
+    ],
+    "Trident_Odysseia_SR_Body": [
+      "558"
     ]
   },
   "by_normalized_alias": {
@@ -9610,6 +9730,30 @@
     ],
     "ch0321_halo": [
       "550"
+    ],
+    "ch0320_body": [
+      "551"
+    ],
+    "ch0321_body": [
+      "552"
+    ],
+    "ch0328_body": [
+      "553"
+    ],
+    "ch0368_body": [
+      "554"
+    ],
+    "ch0369_body": [
+      "555"
+    ],
+    "trident_odysseia_ar_body": [
+      "556"
+    ],
+    "trident_odysseia_smg_body": [
+      "557"
+    ],
+    "trident_odysseia_sr_body": [
+      "558"
     ]
   }
 }

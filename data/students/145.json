@@ -35,7 +35,7 @@
     "given_name_kr": "하루나",
     "family_name_en": "Kurodate",
     "given_name_en": "Haruna",
-    "family_name_zh_tw": "黒舘",
+    "family_name_zh_tw": "黑舘",
     "given_name_zh_tw": "羽留奈",
     "family_name_cn": "黑馆",
     "given_name_cn": "晴奈",
@@ -309,21 +309,21 @@
       },
       {
         "description": "CH0191_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "情况有点复杂……但我对美食的热情， 不会因此而削减。",
         "text_original": "少しばかり複雑な状況ではありますが…。 私の美食への思いは、この程度で挫けたりなどいたしません。",
         "file": "https://static.kivo.wiki/voices/students/%E9%BB%91%E9%A6%86%20%E6%99%B4%E5%A5%88/%E6%AD%A3%E6%9C%88/bBGgDQ5nabVkgnzPnH8Y7prQQHwrtxcC.ogg"
       },
       {
         "description": "CH0191_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "我希望每个人 都尽力而为，我会怀着热情和真诚 去品尝美食。",
         "text_original": "各々が最善を尽くすことを願って。 熱意と誠意を込めて、味わわせていただきましょう。",
         "file": "https://static.kivo.wiki/voices/students/%E9%BB%91%E9%A6%86%20%E6%99%B4%E5%A5%88/%E6%AD%A3%E6%9C%88/X9ehcD1nMYl9M4HhmyffXcRad2mym6XG.ogg"
       },
       {
         "description": "CH0191_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "时光易逝， 往事终将被遗忘。但只要我和老师记得……就好，我相信。",
         "text_original": "時の流れに従って、事件は忘れられることでしょう。 ですが、私と先生が覚えている限り…大丈夫ですわ。 ええ、きっと。",
         "file": "https://static.kivo.wiki/voices/students/%E9%BB%91%E9%A6%86%20%E6%99%B4%E5%A5%88/%E6%AD%A3%E6%9C%88/V3RZnxXbtGY3KO6R9fu8Vs5FBrIopBJq.ogg"
@@ -2050,9 +2050,9 @@
         "indoor_adaptability": "B",
         "street_adaptability": "D",
         "equipment": [
-          3,
           8,
-          6
+          6,
+          3
         ],
         "cultivate_material": [
           77,
@@ -2145,7 +2145,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "每40秒，攻击力增加22.3%(持续30秒)"
+                  "describe": "每40秒，攻击力增加25.5%(持续30秒)"
                 },
                 {
                   "cost": 1,
@@ -2241,7 +2241,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击时，20%概率令目标防御力降低10.1% (持续17秒)(冷却5秒)"
+                  "describe": "攻击时，20%概率令目标防御力降低10.5% (持续17秒)(冷却5秒)"
                 },
                 {
                   "cost": 1,
@@ -2375,10 +2375,10 @@
     "supplementary_uuid": "d65a9dd9-3a07-4c6f-b058-fd45b5c86b39",
     "supplementary_declare_uuid": "532a0944-23ec-4e1b-b4ac-c9976ae67b1b",
     "created_at": 1685544934,
-    "updated_at": 1789400507
+    "updated_at": 1791128301
   },
   "message": "OK",
   "success": true,
-  "time": 1791059660,
+  "time": 1791147361,
   "version": "1.0.0-beta.43"
 }
