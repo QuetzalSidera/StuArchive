@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-04T20:53:24Z",
+  "generated_at": "2026-10-05T23:45:56Z",
   "id": 140,
   "display_name": "火宫 千夏（温泉）",
   "names": {
@@ -155,10 +155,10 @@
     },
     "basic": [
       {
-        "max_hp": 2358,
-        "attack": 150,
+        "max_hp": 2296,
+        "attack": 136,
         "defense": 18,
-        "healing": 1524,
+        "healing": 1791,
         "accuracy": 108,
         "evasion": 1002,
         "crit": 217,
@@ -448,6 +448,66 @@
     },
     "equipment": [
       {
+        "id": 9,
+        "name": "鞋子",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
+          },
+          {
+            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
+          },
+          {
+            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
+          },
+          {
+            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
+          },
+          {
+            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
+          },
+          {
+            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
+          },
+          {
+            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
+          },
+          {
+            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
+          },
+          {
+            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
+          },
+          {
+            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
+          }
+        ],
+        "detail_path": "equipments/9.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
+      },
+      {
         "id": 5,
         "name": "徽章",
         "name_cn": "",
@@ -566,66 +626,6 @@
         ],
         "detail_path": "equipments/2.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/2.json"
-      },
-      {
-        "id": 9,
-        "name": "鞋子",
-        "name_cn": "",
-        "is_favorite": false,
-        "info": [
-          {
-            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
-          },
-          {
-            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
-          },
-          {
-            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
-          },
-          {
-            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
-          },
-          {
-            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
-          },
-          {
-            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
-          },
-          {
-            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
-          },
-          {
-            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
-          },
-          {
-            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
-          },
-          {
-            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
-          }
-        ],
-        "detail_path": "equipments/9.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
       }
     ],
     "favorite_equipment": {
@@ -1387,14 +1387,14 @@
       },
       {
         "description": "CH0163_EventLocation_Act_1",
-        "category": "other",
+        "category": "event",
         "text": "（啊……为什么这么豪华的温泉，饭菜却这么便宜呢？）",
         "text_original": "ここの温泉、どうしてこんなに素敵なのに、料理だけは、ああ……",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/TMYtmUHkWwLUyQncpiarAvp8e3mQMxQK.ogg"
       },
       {
         "description": "CH0163_EventLocation_Act_2",
-        "category": "other",
+        "category": "event",
         "text": "欣赏着这么美丽的庭院，感觉心情都舒畅了。",
         "text_original": "こうして美しい庭園を目にすると、それだけで心が落ち着きますね。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/psQQDUwW8kzmDTsRlmQ2bj6UUyfcFC0Y.ogg"
@@ -1415,21 +1415,21 @@
       },
       {
         "description": "CH0163_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "老师，是时候加快速度了。",
         "text_original": "そろそろ追い込みをかけても良いタイミングかもしれませんね、先生。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/2CslV2bixeLyfDivpoMLvnbtTcXgh7O2.ogg"
       },
       {
         "description": "CH0163_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "是最后冲刺了，我来帮您。",
         "text_original": "ラストスパートですね、お手伝いしますよ。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/xYh9fcLZA6b4pKGrQFfzPjdGfxG5OdT5.ogg"
       },
       {
         "description": "CH0163_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "善后和准备同样重要。",
         "text_original": "後片付けは、準備と同じくらい大切ですからね。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/XzRxXKsdQ1LtZ3iM0EpOpQ0dpV94zcRU.ogg"
@@ -2857,8 +2857,8 @@
   "source": {
     "detail_path": "students/140.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/140.json",
-    "upstream_time": 1791147347,
-    "updated_at": 1789311604,
+    "upstream_time": 1791243687,
+    "updated_at": 1791190237,
     "created_at": 1685519481
   }
 }

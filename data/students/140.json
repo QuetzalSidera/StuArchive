@@ -290,14 +290,14 @@
       },
       {
         "description": "CH0163_EventLocation_Act_1",
-        "category": "other",
+        "category": "event",
         "text": "（啊……为什么这么豪华的温泉，饭菜却这么便宜呢？）",
         "text_original": "ここの温泉、どうしてこんなに素敵なのに、料理だけは、ああ……",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/TMYtmUHkWwLUyQncpiarAvp8e3mQMxQK.ogg"
       },
       {
         "description": "CH0163_EventLocation_Act_2",
-        "category": "other",
+        "category": "event",
         "text": "欣赏着这么美丽的庭院，感觉心情都舒畅了。",
         "text_original": "こうして美しい庭園を目にすると、それだけで心が落ち着きますね。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/psQQDUwW8kzmDTsRlmQ2bj6UUyfcFC0Y.ogg"
@@ -318,21 +318,21 @@
       },
       {
         "description": "CH0163_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "老师，是时候加快速度了。",
         "text_original": "そろそろ追い込みをかけても良いタイミングかもしれませんね、先生。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/2CslV2bixeLyfDivpoMLvnbtTcXgh7O2.ogg"
       },
       {
         "description": "CH0163_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "是最后冲刺了，我来帮您。",
         "text_original": "ラストスパートですね、お手伝いしますよ。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/xYh9fcLZA6b4pKGrQFfzPjdGfxG5OdT5.ogg"
       },
       {
         "description": "CH0163_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "善后和准备同样重要。",
         "text_original": "後片付けは、準備と同じくらい大切ですからね。",
         "file": "https://static.kivo.wiki/voices/students/%E7%81%AB%E5%AE%AB%20%E5%8D%83%E5%A4%8F/%E6%B8%A9%E6%B3%89/XzRxXKsdQ1LtZ3iM0EpOpQ0dpV94zcRU.ogg"
@@ -1876,9 +1876,9 @@
         "indoor_adaptability": "S",
         "street_adaptability": "D",
         "equipment": [
+          9,
           5,
-          2,
-          9
+          2
         ],
         "cultivate_material": [
           77,
@@ -2095,10 +2095,10 @@
         },
         "basic": [
           {
-            "max_hp": 2358,
-            "attack": 150,
+            "max_hp": 2296,
+            "attack": 136,
             "defense": 18,
-            "healing": 1524,
+            "healing": 1791,
             "accuracy": 108,
             "evasion": 1002,
             "crit": 217,
@@ -2201,10 +2201,10 @@
     "supplementary_uuid": "3617fa33-f57e-46ff-98c6-5d6639619e86",
     "supplementary_declare_uuid": "2f3235bf-b111-48b8-822a-88df3033db5f",
     "created_at": 1685519481,
-    "updated_at": 1789311604
+    "updated_at": 1791190237
   },
   "message": "OK",
   "success": true,
-  "time": 1791147347,
+  "time": 1791243687,
   "version": "1.0.0-beta.43"
 }

@@ -2,17 +2,397 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-10-04T20:53:24Z",
+  "generated_at": "2026-10-05T23:45:56Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 101,
-  "alias_count": 101,
-  "normalized_alias_count": 101,
+  "total_items": 104,
+  "alias_count": 103,
+  "normalized_alias_count": 103,
   "by_id": {
+    "140": {
+      "id": 140,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 140,
+        "user": {
+          "id": 28922,
+          "user_name": "VICTOR91",
+          "introduction": "……",
+          "avatar": "https://static.kivo.wiki/images/avatar/28922/sqMk4b9Es2K1fJXvFVtahOWRcy4jbV3a.png"
+        },
+        "title": "随心配",
+        "server": "China",
+        "game_mode": "Universal",
+        "enemy_defensive_attributes": "Light",
+        "level_terrain": "Outdoor",
+        "introduce_summary": "",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 351,
+                "level": 0,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 76,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 176,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 71,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 1,
+        "created_at": 1791216648,
+        "updated_at": 1791216648
+      },
+      "detail_path": "walkthroughs/140.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/140.json"
+    },
+    "139": {
+      "id": 139,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 139,
+        "user": {
+          "id": 28864,
+          "user_name": "HANT520",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/28864/4tvhvtQUapGa0AcG3rG7ifcFVO7trEoz.jpg"
+        },
+        "title": "个人方案",
+        "server": "China",
+        "game_mode": "Other",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "5201314",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 42,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 545,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 346,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 543,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              42,
+              543,
+              346
+            ],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 1,
+        "created_at": 1791201725,
+        "updated_at": 1791201725
+      },
+      "detail_path": "walkthroughs/139.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/139.json"
+    },
+    "138": {
+      "id": 138,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 138,
+        "user": {
+          "id": 28864,
+          "user_name": "HANT520",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/28864/4tvhvtQUapGa0AcG3rG7ifcFVO7trEoz.jpg"
+        },
+        "title": "个人方案",
+        "server": "China",
+        "game_mode": "Other",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "5201314",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 42,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 545,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 346,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 543,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              42,
+              543,
+              346
+            ],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 1,
+        "created_at": 1791201688,
+        "updated_at": 1791201688
+      },
+      "detail_path": "walkthroughs/138.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/138.json"
+    },
     "137": {
       "id": 137,
       "source_path": "walkthroughs/index.json",
@@ -27265,6 +27645,13 @@
     }
   },
   "by_alias": {
+    "随心配": [
+      "140"
+    ],
+    "个人方案": [
+      "139",
+      "138"
+    ],
     "比较粗暴": [
       "137"
     ],
@@ -27570,6 +27957,13 @@
     ]
   },
   "by_normalized_alias": {
+    "随心配": [
+      "140"
+    ],
+    "个人方案": [
+      "139",
+      "138"
+    ],
     "比较粗暴": [
       "137"
     ],

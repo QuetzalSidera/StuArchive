@@ -29,7 +29,7 @@
     "given_name_kr": "레이사",
     "family_name_en": "Uzawa",
     "given_name_en": "Reisa",
-    "family_name_zh_tw": "宇澤",
+    "family_name_zh_tw": "宇沢",
     "given_name_zh_tw": "澪紗",
     "family_name_cn": "宇泽",
     "given_name_cn": "玲纱",
@@ -1020,49 +1020,49 @@
       },
       {
         "description": "ch0167_eventmission_1",
-        "category": "other",
+        "category": "event",
         "text": "嗯……？ 老师？您怎么了？",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_1.ogg"
       },
       {
         "description": "ch0167_eventmission_2",
-        "category": "other",
+        "category": "event",
         "text": "集中精神！ 请专心工作！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_2.ogg"
       },
       {
         "description": "ch0167_eventmission_day_end",
-        "category": "other",
+        "category": "event",
         "text": "今天的工作，就到此结束！哈！这份成就感，真不错啊！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_day_end.ogg"
       },
       {
         "description": "ch0167_eventmission_get_1",
-        "category": "other",
+        "category": "event",
         "text": "哦——！ 不愧是老师！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_get_1.ogg"
       },
       {
         "description": "ch0167_eventmission_get_2",
-        "category": "other",
+        "category": "event",
         "text": "不错嘛！很顺利！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_get_2.ogg"
       },
       {
         "description": "ch0167_eventmission_login_1",
-        "category": "lobby",
+        "category": "event",
         "text": "啊！老师，您好呀！有一大堆事情正等着您呢！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_login_1.ogg"
       },
       {
         "description": "ch0167_eventmission_login_2",
-        "category": "lobby",
+        "category": "event",
         "text": "清单已经列好了！ 一起来确认一下吧！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_eventmission_login_2.ogg"
@@ -1490,7 +1490,7 @@
       {
         "description": "ch0167_tactic_victory_2",
         "category": "battle",
-        "text": "呼——胜利必胜！",
+        "text": "呼——！正义必胜！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%87%E6%B3%BD%20%E7%8E%B2%E7%BA%B1/original/cn/ch0167_tactic_victory_2.ogg"
       },
@@ -2313,9 +2313,9 @@
         "indoor_adaptability": "S",
         "street_adaptability": "D",
         "equipment": [
-          2,
           9,
-          10
+          10,
+          2
         ],
         "cultivate_material": [
           40,
@@ -2638,10 +2638,10 @@
     "supplementary_uuid": "9c4a6d5c-8ebb-474a-a272-74b502fc22fa",
     "supplementary_declare_uuid": "11aaf7b9-27ba-45a4-a7d2-25b551a7d39b",
     "created_at": 1685541446,
-    "updated_at": 1790233181
+    "updated_at": 1791188342
   },
   "message": "OK",
   "success": true,
-  "time": 1791147314,
+  "time": 1791243685,
   "version": "1.0.0-beta.43"
 }

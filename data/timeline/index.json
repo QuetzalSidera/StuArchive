@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-10-04T20:53:24Z",
+  "generated_at": "2026-10-05T23:45:56Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 595,
   "synced_pages": 595,
-  "total_items": 5942,
+  "total_items": 5943,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -70,6 +70,17 @@
       "url": "www.weibo.com/6011443154/RjhjL4WO0",
       "start_time": 1792008000,
       "end_time": 1792699140
+    },
+    {
+      "id": 6105,
+      "line_type": "CN",
+      "title": "夏（乐队）家具互动更新",
+      "image": "https://static.kivo.wiki/images/timeline/4Byc2mM3msKLTobcr3PiiGRHWc1ge1rz.gif",
+      "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 10月08日 14:00后 ■ 互动更新 • 夏（乐队） & 节拍的引导者 鼓",
+      "type": "ContentImprovements",
+      "url": "weibo.com/6011443154/RleH95mZU",
+      "start_time": 1791439200,
+      "end_time": 1791439200
     },
     {
       "id": 6092,
@@ -69543,15 +69554,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=595",
       "path": "timeline/pages/595.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/595.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5932,
-    "normalized_alias_count": 5925,
-    "total_items": 5942
+    "alias_count": 5933,
+    "normalized_alias_count": 5926,
+    "total_items": 5943
   }
 }

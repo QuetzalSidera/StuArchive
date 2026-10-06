@@ -172,7 +172,7 @@
       },
       {
         "description": "CH0164_EventLocation_1",
-        "category": "other",
+        "category": "event",
         "text": "哦，这就是大浴场吗？浴池的大小配得上本人的权威，不错。",
         "text_original": "おう、これは大浴場！おいらの権威にふさわしい、立派な大きさで悪くないぞ！",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E5%88%A9%E8%AF%BA/%E6%B8%A9%E6%B3%89/Q8s2SxseSlEIUkoDO8GuYeeXVVDTVRlw.ogg"
@@ -193,7 +193,7 @@
       },
       {
         "description": "CH0164_EventLocation_Act_3",
-        "category": "other",
+        "category": "event",
         "text": "有点无聊啊。",
         "text_original": "ちょっと退屈だな……",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E5%88%A9%E8%AF%BA/%E6%B8%A9%E6%B3%89/EqAoKhB0sCiWY29vUOEBQaNxEQAsUaZW.ogg"
@@ -1239,7 +1239,7 @@
       {
         "description": "ch0164_exskill_2",
         "category": "battle",
-        "text": "斩除时间到！",
+        "text": "铲除时间到！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E9%87%8C%E8%AF%BA/%E6%B8%A9%E6%B3%89/8HUDmLj04jMXYr2yWkHkBrf16lKSW8fZ.ogg"
       },
@@ -1597,28 +1597,28 @@
       },
       {
         "description": "ch0164_eventlocation_1",
-        "category": "other",
+        "category": "event",
         "text": "",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E9%87%8C%E8%AF%BA/%E6%B8%A9%E6%B3%89/ch0164_eventlocation_1.ogg"
       },
       {
         "description": "ch0164_eventlocation_act_1",
-        "category": "other",
+        "category": "event",
         "text": "",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E9%87%8C%E8%AF%BA/%E6%B8%A9%E6%B3%89/ch0164_eventlocation_act_1.ogg"
       },
       {
         "description": "ch0164_eventlocation_act_2",
-        "category": "other",
+        "category": "event",
         "text": "",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E9%87%8C%E8%AF%BA/%E6%B8%A9%E6%B3%89/ch0164_eventlocation_act_2.ogg"
       },
       {
         "description": "ch0164_eventlocation_act_3",
-        "category": "other",
+        "category": "event",
         "text": "",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%9E%E6%B2%B3%20%E5%88%87%E9%87%8C%E8%AF%BA/%E6%B8%A9%E6%B3%89/ch0164_eventlocation_act_3.ogg"
@@ -2241,7 +2241,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "每15秒，对圆形范围内的敌人造成218等同%攻击力的伤害"
+                  "describe": "每15秒，对圆形范围内的敌人造成等同218%攻击力的伤害"
                 },
                 {
                   "cost": 1,
@@ -2365,10 +2365,10 @@
         },
         "basic": [
           {
-            "max_hp": 2226,
-            "attack": 289,
+            "max_hp": 2494,
+            "attack": 243,
             "defense": 19,
-            "healing": 1626,
+            "healing": 1911,
             "accuracy": 101,
             "evasion": 1088,
             "crit": 252,
@@ -2420,43 +2420,43 @@
               "info": [
                 {
                   "cost": 1,
-                  "describe": "攻击力增加239/攻击力增加9.1%"
+                  "describe": "攻击力增加239/攻击力增加14%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加251/攻击力增加9.5%"
+                  "describe": "攻击力增加251/攻击力增加14.7%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加263/攻击力增加10%"
+                  "describe": "攻击力增加263/攻击力增加15.4%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加311/攻击力增加11.8%"
+                  "describe": "攻击力增加311/攻击力增加18.2%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加323/攻击力增加12.3%"
+                  "describe": "攻击力增加323/攻击力增加18.9%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加335/攻击力增加12.7%"
+                  "describe": "攻击力增加335/攻击力增加19.6%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加383/攻击力增加14.5%"
+                  "describe": "攻击力增加383/攻击力增加22.4%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加395/攻击力增加15%"
+                  "describe": "攻击力增加395/攻击力增加23.1%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加406/攻击力增加15.5%"
+                  "describe": "攻击力增加406/攻击力增加23.8%"
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加454/攻击力增加17.3%"
+                  "describe": "攻击力增加454/攻击力增加26.6%"
                 }
               ]
             }
@@ -2471,10 +2471,10 @@
     "supplementary_uuid": "20873a15-86a4-40d4-b41e-b60602b70b1b",
     "supplementary_declare_uuid": "7844f2c7-ca5e-40b2-a0cc-8971d3e45ec2",
     "created_at": 1685521597,
-    "updated_at": 1789311593
+    "updated_at": 1791189917
   },
   "message": "OK",
   "success": true,
-  "time": 1791147469,
+  "time": 1791243726,
   "version": "1.0.0-beta.43"
 }

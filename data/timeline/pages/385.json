@@ -6,7 +6,7 @@
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 96,
-      "ContentImprovements": 433,
+      "ContentImprovements": 434,
       "Double": 990,
       "Event": 533,
       "Gacha": 850,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2116,
+        "line_type": "Globle",
+        "title": "国际服「Go, Go, Sensei! Arona's Special Bonus!」登录奖励",
+        "image": "https://static.kivo.wiki/images/timeline/0dE4UF8MRs8Aowny2iG5FfejXYal5OZS.jpg",
+        "body_summary": "[Arona's Special Bonus Notice] There's a special gift waiting just for you, Sensei! Log in everyday ",
+        "type": "Event",
+        "url": "twitter.com/EN_BlueArchive/status/1752244719093207494",
+        "start_time": 1706608830,
+        "end_time": 1708973970
+      },
       {
         "id": 2100,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1752245101701767257",
         "start_time": 1706601622,
         "end_time": 1706601622
-      },
-      {
-        "id": 2037,
-        "line_type": "Globle",
-        "title": "国际服例行维护54",
-        "image": "",
-        "body_summary": "[1/30 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 1/30 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1750805784211128428",
-        "start_time": 1706580021,
-        "end_time": 1706605221
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791152471,
+  "time": 1791250980,
   "version": "1.0.0-beta.43"
 }

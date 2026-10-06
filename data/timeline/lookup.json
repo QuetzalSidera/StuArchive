@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-10-04T20:53:24Z",
+  "generated_at": "2026-10-05T23:45:56Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5942,
-  "alias_count": 5932,
-  "normalized_alias_count": 5925,
+  "total_items": 5943,
+  "alias_count": 5933,
+  "normalized_alias_count": 5926,
   "by_id": {
     "6099": {
       "id": 6099,
@@ -102,6 +102,24 @@
       },
       "detail_path": "timeline/6061.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6061.json"
+    },
+    "6105": {
+      "id": 6105,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6105,
+        "line_type": "CN",
+        "title": "夏（乐队）家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/4Byc2mM3msKLTobcr3PiiGRHWc1ge1rz.gif",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 10月08日 14:00后 ■ 互动更新 • 夏（乐队） & 节拍的引导者 鼓",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/RleH95mZU",
+        "start_time": 1791439200,
+        "end_time": 1791439200
+      },
+      "detail_path": "timeline/6105.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6105.json"
     },
     "6092": {
       "id": 6092,
@@ -106986,6 +107004,9 @@
     "任务(普通难度)3倍 #22": [
       "6061"
     ],
+    "夏(乐队)家具互动更新": [
+      "6105"
+    ],
     "限时限定复刻招募【Who says you can't be sweet】&【Ain't too proud to rely on!】": [
       "6092"
     ],
@@ -124793,6 +124814,9 @@
     ],
     "任务(普通难度)3倍#22": [
       "6061"
+    ],
+    "夏(乐队)家具互动更新": [
+      "6105"
     ],
     "限时限定复刻招募【whosaysyoucan'tbesweet】&【ain'ttooproudtorelyon!】": [
       "6092"

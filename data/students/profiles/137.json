@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-04T20:53:24Z",
+  "generated_at": "2026-10-05T23:45:56Z",
   "id": 137,
   "display_name": "角楯 花凛（邦妮）",
   "names": {
@@ -162,10 +162,10 @@
     },
     "basic": [
       {
-        "max_hp": 2252,
-        "attack": 499,
+        "max_hp": 2523,
+        "attack": 420,
         "defense": 20,
-        "healing": 1398,
+        "healing": 1643,
         "accuracy": 898,
         "evasion": 200,
         "crit": 199,
@@ -228,43 +228,43 @@
           "info": [
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同111%攻击力的伤害（此攻击将无视敌人20%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同111%攻击力的伤害（此攻击将无视敌人20%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同117%攻击力的伤害（此攻击将无视敌人20%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同117%攻击力的伤害（此攻击将无视敌人20%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同120%攻击力的伤害（此攻击将无视敌人20%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同120%攻击力的伤害（此攻击将无视敌人20%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同142%攻击力的伤害（此攻击将无视敌人24%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同142%攻击力的伤害（此攻击将无视敌人24%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同145%攻击力的伤害（此攻击将无视敌人24%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同145%攻击力的伤害（此攻击将无视敌人24%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同150%攻击力的伤害（此攻击将无视敌人24%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同150%攻击力的伤害（此攻击将无视敌人24%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同161%攻击力的伤害（此攻击将无视敌人28%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同161%攻击力的伤害（此攻击将无视敌人28%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同167%攻击力的伤害（此攻击将无视敌人28%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同167%攻击力的伤害（此攻击将无视敌人28%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同170%攻击力的伤害（此攻击将无视敌人28%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同170%攻击力的伤害（此攻击将无视敌人28%防御力）"
             },
             {
               "cost": 1,
-              "describe": "每25秒对扇形范围内的敌人造成等同192%攻击力的伤害（此攻击将无视敌人32%防御力）"
+              "describe": "每25秒对圆形范围内的敌人造成等同192%攻击力的伤害（此攻击将无视敌人32%防御力）"
             }
           ]
         },
@@ -1036,7 +1036,7 @@
         "description": "CH0100_Battle_In_1",
         "category": "battle",
         "text": "并非在后方提供火力支援，而是站上前线，还真有点不习惯啊。不过没关系，交给我吧。",
-        "text_original": "火力支援じゃなくて、 前線に立つのはまだ少し不慣れだけと、 大丈夫、任せて。",
+        "text_original": "火力支援じゃなくて、前線に立つのはまだ少し不慣れだけど……大丈夫、任せて。",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E5%85%94%E5%A5%B3%E9%83%8E/vc5yHbX1lVu108NkezRyUOUDByzpB60K.ogg"
       },
       {
@@ -1057,7 +1057,7 @@
         "description": "CH0100_Battle_Move_2",
         "category": "battle",
         "text": "移动到下一个区域。",
-        "text_original": "次の空域へ移動する。",
+        "text_original": "次の区域に移動する。",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E5%85%94%E5%A5%B3%E9%83%8E/eTgOMxw9xMTtR6Vjn8yet3vcGJrSnxVa.ogg"
       },
       {
@@ -1195,21 +1195,21 @@
       },
       {
         "description": "CH0100_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "切忌大意，老师。时间是不等人的。",
         "text_original": "油断は禁物。なにせ、進み始めた時間は待ってくれない。",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E5%85%94%E5%A5%B3%E9%83%8E/hKfThJZNDl9GhUQVgaEs762J7uKOX0AD.ogg"
       },
       {
         "description": "CH0100_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "快要结束了吧。 不要紧，我都准备好了。",
         "text_original": "そろそろ終わりが見えてきたな……。 私の方はいつでも準備できてるから、任せて。",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E5%85%94%E5%A5%B3%E9%83%8E/mJfNy9Iiy8oHTRcGzl8jHwUvN4N5J9pE.ogg"
       },
       {
         "description": "CH0100_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "收尾要彻底。 我会帮忙的，老师。",
         "text_original": "仕上げは最後まで、確実に。 先生、何か手伝えることはある？",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E5%85%94%E5%A5%B3%E9%83%8E/yWqxMsOam1hUL7laMOpTbXVek3A0FYKr.ogg"
@@ -1646,7 +1646,7 @@
       {
         "description": "ch0100_battle_victory_2",
         "category": "battle",
-        "text": "任务完成，多亏老师指挥的好。",
+        "text": "任务完成，多亏老师指挥得好。",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E8%A7%92%E6%A5%AF%20%E8%8A%B1%E5%87%9B/%E5%85%94%E5%A5%B3%E9%83%8E/lkfuEdTPHlxpTwCUMPChAbygOGAlj3lX.ogg"
       },
@@ -2924,8 +2924,8 @@
   "source": {
     "detail_path": "students/137.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/137.json",
-    "upstream_time": 1791147455,
-    "updated_at": 1789962287,
+    "upstream_time": 1791244155,
+    "updated_at": 1791187184,
     "created_at": 1685501311
   }
 }
