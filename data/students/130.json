@@ -49,7 +49,7 @@
       37
     ],
     "age": 17,
-    "grade": "二年生",
+    "grade": "三年生",
     "height": 167,
     "birthday": "03-24",
     "hobby": "袭击",
@@ -179,7 +179,7 @@
       {
         "description": "CH0098_Battle_Retire",
         "category": "battle",
-        "text": "",
+        "text": "啊……",
         "text_original": "あっ…",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/GcVmT8i3riy5EXPo8GpQxLuNWPiZzRhs.ogg"
       },
@@ -374,21 +374,21 @@
       },
       {
         "description": "CH0098_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "早点结束就能早点玩了吧？",
         "text_original": "早く終わったら、その分遊んでも良いよね？",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/6h6gLtZjo5wJUiKOpatanISsPWyQ7xgH.ogg"
       },
       {
         "description": "CH0098_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "开心地玩到最后一刻吧！",
         "text_original": "最後まで楽しく遊ぼう！",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/rfjSsMgOgyzhlk124v7Waabt13m27ToR.ogg"
       },
       {
         "description": "CH0098_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "啊！主人，这边这边！",
         "text_original": "あっ、ご主人様！こっちこっち！",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/lsZ7Fp3gaPNn0HXlix0Vbg5kxWZZpb13.ogg"
@@ -2096,10 +2096,10 @@
           420,
           421,
           422,
-          404,
-          405,
-          403,
-          19
+          19,
+          399,
+          400,
+          401
         ],
         "favorite_equipment": 16,
         "skill": {
@@ -2298,13 +2298,13 @@
         },
         "basic": [
           {
-            "max_hp": 2131,
-            "attack": 284,
+            "max_hp": 2387,
+            "attack": 248,
             "defense": 18,
-            "healing": 1473,
+            "healing": 1731,
             "accuracy": 736,
             "evasion": 757,
-            "crit": 580,
+            "crit": 210,
             "crit_res": 100,
             "crit_dmg": 2,
             "crit_dmg_res": 0.5,
@@ -2361,7 +2361,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "最大生命值增加3751 /最大生命值 增加18.2%"
+                  "describe": "最大生命值 增加3751 /最大生命值 增加15.4%"
                 },
                 {
                   "cost": 1,
@@ -2404,10 +2404,10 @@
     "supplementary_uuid": "e7200c37-0b22-4b02-ab10-7f9f407232f8",
     "supplementary_declare_uuid": "ede651ce-28e2-4598-a76a-f0c0354cd037",
     "created_at": 1685458140,
-    "updated_at": 1789962265
+    "updated_at": 1791314661
   },
   "message": "OK",
   "success": true,
-  "time": 1791243723,
+  "time": 1791325021,
   "version": "1.0.0-beta.43"
 }

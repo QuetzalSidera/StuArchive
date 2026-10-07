@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-05T23:45:56Z",
+  "generated_at": "2026-10-06T22:21:17Z",
   "id": 120,
   "display_name": "天见 和香（温泉）",
   "names": {
@@ -148,10 +148,10 @@
     },
     "basic": [
       {
-        "max_hp": 2289,
-        "attack": 160,
+        "max_hp": 2564,
+        "attack": 196,
         "defense": 22,
-        "healing": 2617,
+        "healing": 3075,
         "accuracy": 108,
         "evasion": 1099,
         "crit": 216,
@@ -180,7 +180,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/skill_icon/eDbC9oNNOGFKFIgRlfF9GqfchRmBc944.png",
               "title": "给您上菜！",
-              "title_cn": "",
+              "title_cn": "特制料理来了！",
               "preview": "",
               "max_level": 5,
               "link_student_id": 0,
@@ -454,7 +454,7 @@
             },
             {
               "cost": 1,
-              "describe": "治疗力增加1676/治疗力增加22.4%"
+              "describe": "治疗力增加1675/治疗力增加22.4%"
             },
             {
               "cost": 1,
@@ -473,6 +473,66 @@
       ]
     },
     "equipment": [
+      {
+        "id": 9,
+        "name": "鞋子",
+        "name_cn": "",
+        "is_favorite": false,
+        "info": [
+          {
+            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
+          },
+          {
+            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
+          },
+          {
+            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
+          },
+          {
+            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
+          },
+          {
+            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
+          },
+          {
+            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
+          },
+          {
+            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
+          },
+          {
+            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
+          },
+          {
+            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
+          },
+          {
+            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
+            "description_cn": "",
+            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
+          }
+        ],
+        "detail_path": "equipments/9.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
+      },
       {
         "id": 6,
         "name": "发夹",
@@ -592,66 +652,6 @@
         ],
         "detail_path": "equipments/4.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/4.json"
-      },
-      {
-        "id": 9,
-        "name": "鞋子",
-        "name_cn": "",
-        "is_favorite": false,
-        "info": [
-          {
-            "description": "粉色休闲鞋\n运动品牌“薮猫”推出的粉色休闲鞋。鞋底采用了柔软的材质，非常适合跑步。\n攻击力 +2.5%~4%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/uKl13bIZOHClWF56G3gvTuAMb3E91Hsu.png"
-          },
-          {
-            "description": "雪地靴\n户外品牌“玛纳斯卢”推出的防寒雪地靴。因其可爱的设计和优秀的保温性，很受寒冷地区女生的喜爱。\n攻击力 +5%~6.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/MXm8F2t3CtPEq21ZR85PqI3jW1CXBvsI.png"
-          },
-          {
-            "description": "粉嫩羊驼拖鞋\n以MomoFriends的粉嫩羊驼为原型做成的拖鞋。柔软舒适，并且具有优秀的隔热性。\n攻击力 +7.5%~9%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/EiT9CpF0xoqOciB89VJDrkpReWIkzFT2.png"
-          },
-          {
-            "description": "复古漆皮豆豆鞋\n圣三一的女生们喜欢穿的高级平底鞋。因涂上了瓷漆，在光线的照射下鞋尖会闪闪发光。\n攻击力 +10%~12.5% \n最大生命值 +3%~6%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/8hTpnsGbDxaj0DgR1H1yfdgxFMalaTIy.png"
-          },
-          {
-            "description": "战术靴\n为了保护脚部不受伤害而做得厚重结实的战术靴。因鞋跟高，穿上之后会显得个子高些，所以矮个子的人很喜欢这款鞋。\n攻击力 +15%~20% \n最大生命值 +6.5%~9%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/Gz0bHoDmRg6bJbyKTdmWS8Us3UMUiHK4.png"
-          },
-          {
-            "description": "高跟鞋\n有可爱的绳带装饰的高跟鞋。穿上后无论何时何地都能走出更加优雅的步伐。\n攻击力 +21%~25% \n最大生命值 +9.5%~12%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/RrGhvgk3y6veT7lbj4aT9dRstjKagOxH.png"
-          },
-          {
-            "description": "休闲运动鞋\n设计简洁的运动鞋。重量轻巧，是活动量多的学员的最爱。\n攻击力 +26%~30% \n最大生命值 +12%~13.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/kykyB9xAqgqSvpQy6TfIKMWm0G1UR9UU.png"
-          },
-          {
-            "description": "防水登山靴\n天然橡胶加上防水涂层，透气性和耐久性卓越的登山靴。就算掉进水中，表面也不会湿。\n攻击力 +31%~35% \n生命值 +13.5%~15%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/5C5F99Dx647T8XLQl3clbairC3p3YOGn.png"
-          },
-          {
-            "description": "运动凉鞋\n用排水性良好的防水材质制成的一体式凉鞋。底部附有鞋垫，在有水的地方也不会轻易滑倒。\n攻击力 +36%~42% \n生命值 +15%~17.5%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/7VrtDc3fY901CWWMLfDPVMURqwjTNqjD.png"
-          },
-          {
-            "description": "游戏拖鞋\n能发出红、绿、蓝三色光的拖鞋。即使在黑暗中也能轻松找到，但对提高游戏得分毫无帮助。\n攻击力 +43%~46% \n生命值 +17.5%~20%",
-            "description_cn": "",
-            "icon": "https://static.kivo.wiki/images/equipment/icon/NJ91AxyZCeWNUFBrgcWkFUPhGo5kKaeG.png"
-          }
-        ],
-        "detail_path": "equipments/9.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/equipments/9.json"
       }
     ],
     "favorite_equipment": {
@@ -1235,103 +1235,103 @@
         "description": "CH0165_EventLobby_4",
         "category": "event",
         "text": "嘿嘿，我现在已经游刃有余了…… 饭后我打算吃两个布丁！",
-        "text_original": "えへん、今の私は余裕があるので、何とー？食後にプティン二つも食べちゃいます",
+        "text_original": "ふふっ、今の私は余裕があるので何と……食後にプリンを、二つも食べちゃいます！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/Feh7nSNzPd6p3VH0ii5jVhikTlIDQFOl.ogg"
       },
       {
         "description": "CH0165_EventLocation_1",
-        "category": "other",
+        "category": "event",
         "text": "欢迎来到227号温泉乡，我们现在开始营业啦！",
         "text_original": "227号温泉郷へ、ようこそ！これで、営業が開始します！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/btb0M9ibSfp5VXApvzfa1tVo68Hd5SOj.ogg"
       },
       {
         "description": "CH0165_EventLocation_2",
-        "category": "other",
+        "category": "event",
         "text": "房间已经收拾好了，请好好享受休息吧。",
         "text_original": "お部屋のご準備が出来ましたので、どうぞごゆるりとお住ましてくださいまして",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/8gih8ddKwcXga4aLrzcSRyO5LukpYcAw.ogg"
       },
       {
         "description": "CH0165_EventLocation_3",
-        "category": "other",
+        "category": "event",
         "text": "料理都准备好啦，肚子饿的客人请到宴会厅来。",
         "text_original": "お料理の準備ができました。お腹が空かれた方は宴会場までお越しくださいま",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/xPCXDZ7nnyEU6JEJVLqcZcLqH65UCoAS.ogg"
       },
       {
         "description": "CH0165_EventLocation_4",
-        "category": "other",
+        "category": "event",
         "text": "露天温泉已经整修完毕，如果您想享受沐浴，那务必请您光临。",
         "text_original": "露天風呂の準備ができました。どうぞお楽しみください！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/IHtcX60EnXUaBWjqidQz9fGXnOdQan1M.ogg"
       },
       {
         "description": "CH0165_EventLocation_5",
-        "category": "other",
+        "category": "event",
         "text": "我们227号温泉乡还有漂亮的庭院呢，洗完澡以后，要不要在庭院里悠闲地散散步呢？",
         "text_original": "この227号温泉郷には、素敵な庭園もあるんです。お風呂なりに庭園でお散歩などいかがですか",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/m0JwBKfdRyU2GPXsJ6IelFnA9rmLeygO.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_1",
-        "category": "other",
+        "category": "event",
         "text": "有什么不方便的地方吗？",
         "text_original": "何かお困りの点などはございませんか",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/mHkUgO7Ftkbw5evxDjQg7KIMac6QnWDd.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_2",
-        "category": "other",
+        "category": "event",
         "text": "你需要什么，请随时告诉老板娘我哦。",
         "text_original": "何がありましたら、女将であるこの私にいつでもお申し付けください！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/lY3jalp5Bio6pMv4JWhTILGvzFODtytI.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_3",
-        "category": "other",
+        "category": "event",
         "text": "小雨，请不要随意向客人推荐饮料！",
         "text_original": "時雨ちゃん…勝手にお客様に飲み物を勧めないように",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/Nw7HgsRACCh6gkZVNiuxepPeIcdeP1CR.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_4",
-        "category": "other",
+        "category": "event",
         "text": "客人，水温还满意吗？",
         "text_original": "床芸はいかがですか、お客様",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/FWobpdrtH9rt2DT7KHDQ2x10Up8x1ijQ.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_5",
-        "category": "other",
+        "category": "event",
         "text": "我马上就收拾好，请稍等一会儿！",
         "text_original": "すまにお片付き致しますので、少々お待ちください！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/tZX9xJsbauG7uADShjjiwFB9NtnMxQPy.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_6",
-        "category": "other",
+        "category": "event",
         "text": "每个角落都要彻底打扫干净，不留一点灰尘。",
         "text_original": "埃一つ残さないよう、隅々まできれいに…",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/JoGdvt4gSxoyuedMmTfzL410CCECRBh3.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_7",
-        "category": "other",
+        "category": "event",
         "text": "我们温泉浴场有顶级的床上用品，和旧楼完全不一样哦！",
         "text_original": "この227号温泉郷では、最高級の信号が揃えております。旧校舎とは、全—然違うんですよ！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/10PJrooEErdlxLz3RNYynSwgLPAr0vUx.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_8",
-        "category": "other",
+        "category": "event",
         "text": "我们准备了顶级的会席料理，请尽情地享用吧！",
         "text_original": "最高級の懐石料理をご用意致しましたので、思う存分ご堪能下さい！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/hhUiRyIhaoqgcviXatfzpt5pdWr8qETK.ogg"
       },
       {
         "description": "CH0165_EventLocation_Act_9",
-        "category": "other",
+        "category": "event",
         "text": "请不要随意触碰花花草草哦。",
         "text_original": "危ないですので、草花にお手は触れぬよう。 ご注意いただきつつ、ごゆっくりとお楽しみください。",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/AShbeNSBuI7j7iZztw4SusRJ0FJXBJXY.ogg"
@@ -1347,26 +1347,26 @@
         "description": "CH0165_EventLogin_2",
         "category": "event",
         "text": "哇！老老，老师？！什么，您今天已经预约过了……？！",
-        "text_original": "",
+        "text_original": "あわわっ！せ、先生！？あれ、今日ご予約されてましたっけ……！？",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/FALJ4dczlW7hLaQQlj6q2qGvaPrHlhaK.ogg"
       },
       {
         "description": "CH0165_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "温泉浴场已经运营快一周了。 这么看来，我也算是一位优秀的老板娘了吧？",
-        "text_original": "この温泉郷を運営にし始めてから、はや一週間。 そろそろ私も、女将としての風格が出てきたのではないでしょうか",
+        "text_original": "この温泉郷を運営し始めてから、はや1週間。そろそろ私も、女将としての風格が出てきたのではないでしょうか……！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/rtQ4fGbDKIcsZ0FTOgTocXINzPwAGF2a.ogg"
       },
       {
         "description": "CH0165_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "原来经营温泉浴场这么困难…… 我以前都不知道。",
-        "text_original": "温泉の運営がこんなに難しいことだったなんで…想像していませんでした......",
+        "text_original": "温泉の運営がこんなにも難しいことだったなんて……想像していませんでした",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/XTUeJO5LQRDphVzI7VeMxBRJPckdRf7c.ogg"
       },
       {
         "description": "CH0165_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "虽然温泉浴场已经消失了……但我不会因为这种事情就垂头丧气！",
         "text_original": "温泉郷は無くなってしまいましたが… これしきのことでめげる私ではありません！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/a1Wa2C4RH1zxUjN4zmUW2kTTUJ9rgRAi.ogg"
@@ -1389,7 +1389,7 @@
         "description": "CH0165_EventShop_Buy_1",
         "category": "event",
         "text": "谢谢惠顾。",
-        "text_original": "おかんようげ、ありがとうございます。",
+        "text_original": "お買い上げありがとうございます！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/aplCQBEC2qzQ9WvOpW6XVW4nOP4HkU9g.ogg"
       },
       {
@@ -1410,7 +1410,7 @@
         "description": "CH0165_EventShop_Buy_4",
         "category": "event",
         "text": "这，这么好的东西，我真的可以收下吗？",
-        "text_original": "こ、こんなにいいものをいただいてしまって、用意のでしょうか…",
+        "text_original": "こ、こんなに良い物を頂いてしまって、良いのでしょうか……！？",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/GqFc3RhRmRMQzewa4YNjQOoxdBvo1z3T.ogg"
       },
       {
@@ -1424,7 +1424,7 @@
         "description": "CH0165_EventShop_Login_1",
         "category": "event",
         "text": "老师？有什么事吗？",
-        "text_original": "温泉グッズなともたくさん準備していますよ",
+        "text_original": "温泉グッズなどもたくさん準備していますよ！",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/tIPvNfT94JwrvweG6SdBSMgRauxMWSJC.ogg"
       },
       {
@@ -1739,7 +1739,7 @@
         "description": "ch0165_formation_select",
         "category": "formation",
         "text": "",
-        "text_original": "",
+        "text_original": "お風呂上がりの先生……すごく……ぐふふ……。",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/jp/ch0165_formation_select.ogg"
       }
     ],
@@ -2027,14 +2027,14 @@
       {
         "description": "ch0165_eventshop_1",
         "category": "event",
-        "text": "老师？有什么事吗？",
+        "text": "我们温泉浴场准备了很多商品！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/bLVAHJ3X2Zfbj8hdL4hmVTgYckxCCjID.ogg"
       },
       {
         "description": "ch0165_eventshop_2",
         "category": "event",
-        "text": "就，就算是老师也不能免费拿啦！",
+        "text": "如果您有用不上的东西，我们可以帮您兑换成其他商品！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/c4glJhHZFhG6Y2LT9mqQdbOOhc6DZd5W.ogg"
       },
@@ -2181,7 +2181,7 @@
       {
         "description": "ch0165_growup_4",
         "category": "growup",
-        "text": "谢谢您，一直支持我们227号特别办……我，我是说，227号温泉乡。",
+        "text": "谢谢您一直支持我们227号特别班……不，我是说，227号温泉乡！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E5%A4%A9%E8%A7%81%20%E5%92%8C%E9%A6%99/%E6%B8%A9%E6%B3%89/2HLZgik3u2tfhD1kz6KtR5zdR8skatT8.ogg"
       },
@@ -2934,8 +2934,8 @@
   "source": {
     "detail_path": "students/120.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/120.json",
-    "upstream_time": 1791243726,
-    "updated_at": 1789974735,
+    "upstream_time": 1791325631,
+    "updated_at": 1791308225,
     "created_at": 1685380670
   }
 }

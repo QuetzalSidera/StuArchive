@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-05T23:45:56Z",
+  "generated_at": "2026-10-06T22:21:17Z",
   "id": 130,
   "display_name": "一之濑 明日奈（邦妮）",
   "names": {
@@ -58,7 +58,7 @@
   },
   "profile": {
     "age": 17,
-    "grade": "二年生",
+    "grade": "三年生",
     "height": 167,
     "birthday": "03-24",
     "hobby": "袭击",
@@ -162,13 +162,13 @@
     },
     "basic": [
       {
-        "max_hp": 2131,
-        "attack": 284,
+        "max_hp": 2387,
+        "attack": 248,
         "defense": 18,
-        "healing": 1473,
+        "healing": 1731,
         "accuracy": 736,
         "evasion": 757,
-        "crit": 580,
+        "crit": 210,
         "crit_res": 100,
         "crit_dmg": 2,
         "crit_dmg_res": 0.5,
@@ -419,7 +419,7 @@
             },
             {
               "cost": 1,
-              "describe": "最大生命值增加3751 /最大生命值 增加18.2%"
+              "describe": "最大生命值 增加3751 /最大生命值 增加15.4%"
             },
             {
               "cost": 1,
@@ -832,51 +832,6 @@
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/422.json"
       },
       {
-        "id": 404,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/EMtvGlQ0XNIVEELt9QO6OBui1b2Ch4Xv.png",
-        "rarity": 2,
-        "name": "破损的斐斯托斯圆盘",
-        "description": "破损得难以看出外形的斐斯托斯圆盘。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/404.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/404.json"
-      },
-      {
-        "id": 405,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/msyqeC9aqmzRwSlAopg98Mf4F6D3LJnD.png",
-        "rarity": 3,
-        "name": "磨损的斐斯托斯圆盘",
-        "description": "过于老旧，磨损得体无完肤的斐斯托斯圆盘。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/405.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/405.json"
-      },
-      {
-        "id": 403,
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/diuCSFFbrTJU6PMIOOu8biFdBok1RaZV.png",
-        "rarity": 1,
-        "name": "斐斯托斯圆盘碎片",
-        "description": "斐斯托斯圆盘的碎块。可用来进行各种制造及强化。",
-        "article_id": 0,
-        "gift": {},
-        "furniture": {
-          "comfort": 0
-        },
-        "detail_path": "items/403.json",
-        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/403.json"
-      },
-      {
         "id": 19,
         "type": "default",
         "icon": "https://static.kivo.wiki/images/item/icon/6Sa72kGMxngzO2LJIeREbvtG1vVkNTrg.png",
@@ -890,6 +845,51 @@
         },
         "detail_path": "items/19.json",
         "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/19.json"
+      },
+      {
+        "id": 399,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/iybI1D7hhjIGK5Xv8dg2tSEr9tDnosfT.png",
+        "rarity": 1,
+        "name": "内布拉盘碎片",
+        "description": "内布拉盘的碎块。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/399.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/399.json"
+      },
+      {
+        "id": 400,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/NL6TstA9TNTP4VSkVIuwHHgp6LWzOHOb.png",
+        "rarity": 2,
+        "name": "破损的内布拉盘",
+        "description": "破损得难以看出外形的内布拉盘。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/400.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/400.json"
+      },
+      {
+        "id": 401,
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/amCLaPTyEdQZCJ8jhPGtDuta2094Iwbz.png",
+        "rarity": 3,
+        "name": "磨损的内布拉盘",
+        "description": "过于老旧，磨损得体无完肤的内布拉盘。可用来进行各种制造及强化。",
+        "article_id": 0,
+        "gift": {},
+        "furniture": {
+          "comfort": 0
+        },
+        "detail_path": "items/401.json",
+        "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/401.json"
       }
     ]
   },
@@ -1142,7 +1142,7 @@
       {
         "description": "CH0098_Battle_Retire",
         "category": "battle",
-        "text": "",
+        "text": "啊……",
         "text_original": "あっ…",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/GcVmT8i3riy5EXPo8GpQxLuNWPiZzRhs.ogg"
       },
@@ -1337,21 +1337,21 @@
       },
       {
         "description": "CH0098_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "早点结束就能早点玩了吧？",
         "text_original": "早く終わったら、その分遊んでも良いよね？",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/6h6gLtZjo5wJUiKOpatanISsPWyQ7xgH.ogg"
       },
       {
         "description": "CH0098_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "开心地玩到最后一刻吧！",
         "text_original": "最後まで楽しく遊ぼう！",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/rfjSsMgOgyzhlk124v7Waabt13m27ToR.ogg"
       },
       {
         "description": "CH0098_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "啊！主人，这边这边！",
         "text_original": "あっ、ご主人様！こっちこっち！",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/%E5%85%94%E5%A5%B3%E9%83%8E/lsZ7Fp3gaPNn0HXlix0Vbg5kxWZZpb13.ogg"
@@ -2982,8 +2982,8 @@
   "source": {
     "detail_path": "students/130.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/130.json",
-    "upstream_time": 1791243723,
-    "updated_at": 1789962265,
+    "upstream_time": 1791325021,
+    "updated_at": 1791314661,
     "created_at": 1685458140
   }
 }
