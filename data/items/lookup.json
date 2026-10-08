@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 2004,
-  "alias_count": 1972,
-  "normalized_alias_count": 1972,
+  "total_items": 2005,
+  "alias_count": 1973,
+  "normalized_alias_count": 1973,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -25018,6 +25018,21 @@
       "detail_path": "items/936.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/936.json"
     },
+    "2081": {
+      "id": 2081,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2081,
+        "name": "死亡金属舞台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/oGB1D5tLZg4ntaDASFhw3pdoIXGeyntq.png",
+        "rarity": 4,
+        "description": "为了死亡金属乐表演，纺制作的特别舞台。令人感觉相当摇滚。"
+      },
+      "detail_path": "items/2081.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2081.json"
+    },
     "1542": {
       "id": 1542,
       "source_path": "items/index.json",
@@ -35012,6 +35027,9 @@
     "水色单人沙发": [
       "936"
     ],
+    "死亡金属舞台": [
+      "2081"
+    ],
     "四边形休息室隔断": [
       "1542"
     ],
@@ -40961,6 +40979,9 @@
     ],
     "水色单人沙发": [
       "936"
+    ],
+    "死亡金属舞台": [
+      "2081"
     ],
     "四边形休息室隔断": [
       "1542"

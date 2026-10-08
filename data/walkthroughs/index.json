@@ -7,13 +7,13 @@
     "api_path": "/walkthroughs/",
     "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/"
   },
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "list_key": "walkthrough",
   "id_key": "id",
   "max_page": 11,
   "synced_pages": 11,
-  "total_items": 104,
-  "details_synced": 104,
+  "total_items": 103,
+  "details_synced": 103,
   "details_enabled": true,
   "items": [
     {
@@ -128,10 +128,10 @@
       ],
       "reference_score": 0,
       "is_favorite": false,
-      "state": 1,
+      "state": 0,
       "favorite_num": 1,
       "created_at": 1791216648,
-      "updated_at": 1791216648
+      "updated_at": 1791377290
     },
     {
       "id": 139,
@@ -249,131 +249,10 @@
       ],
       "reference_score": 0,
       "is_favorite": false,
-      "state": 1,
+      "state": 0,
       "favorite_num": 1,
       "created_at": 1791201725,
-      "updated_at": 1791201725
-    },
-    {
-      "id": 138,
-      "user": {
-        "id": 28864,
-        "user_name": "HANT520",
-        "introduction": "",
-        "avatar": "https://static.kivo.wiki/images/avatar/28864/4tvhvtQUapGa0AcG3rG7ifcFVO7trEoz.jpg"
-      },
-      "title": "个人方案",
-      "server": "China",
-      "game_mode": "Other",
-      "enemy_defensive_attributes": "Rainbow",
-      "level_terrain": "Other",
-      "introduce_summary": "5201314",
-      "team": [
-        {
-          "student": [
-            {
-              "student_id": 42,
-              "level": 90,
-              "star_level": 5,
-              "weapon_level": 0,
-              "favorability": 10,
-              "skill_level": [
-                5,
-                10,
-                10,
-                10
-              ],
-              "equipment_level": [
-                10,
-                10,
-                10
-              ],
-              "character_data_index": 0,
-              "max_hp_talent_level": 0,
-              "attack_talent_level": 0,
-              "healing_talent_level": 0
-            },
-            {
-              "student_id": 545,
-              "level": 90,
-              "star_level": 5,
-              "weapon_level": 0,
-              "favorability": 10,
-              "skill_level": [
-                5,
-                10,
-                10,
-                10
-              ],
-              "equipment_level": [
-                10,
-                10,
-                10
-              ],
-              "character_data_index": 0,
-              "max_hp_talent_level": 0,
-              "attack_talent_level": 0,
-              "healing_talent_level": 0
-            },
-            {
-              "student_id": 346,
-              "level": 90,
-              "star_level": 5,
-              "weapon_level": 0,
-              "favorability": 10,
-              "skill_level": [
-                5,
-                10,
-                10,
-                10
-              ],
-              "equipment_level": [
-                10,
-                10,
-                10
-              ],
-              "character_data_index": 0,
-              "max_hp_talent_level": 0,
-              "attack_talent_level": 0,
-              "healing_talent_level": 0
-            },
-            {
-              "student_id": 543,
-              "level": 90,
-              "star_level": 5,
-              "weapon_level": 0,
-              "favorability": 10,
-              "skill_level": [
-                5,
-                10,
-                10,
-                10
-              ],
-              "equipment_level": [
-                10,
-                10,
-                10
-              ],
-              "character_data_index": 0,
-              "max_hp_talent_level": 0,
-              "attack_talent_level": 0,
-              "healing_talent_level": 0
-            }
-          ],
-          "initial_skills": [
-            42,
-            543,
-            346
-          ],
-          "timeline": []
-        }
-      ],
-      "reference_score": 0,
-      "is_favorite": false,
-      "state": 1,
-      "favorite_num": 1,
-      "created_at": 1791201688,
-      "updated_at": 1791201688
+      "updated_at": 1791377281
     },
     {
       "id": 137,
@@ -26995,7 +26874,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/?page=11",
       "path": "walkthroughs/pages/11.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/pages/11.json",
-      "item_count": 4
+      "item_count": 3
     }
   ],
   "details": [
@@ -27010,12 +26889,6 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/139",
       "path": "walkthroughs/139.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/139.json"
-    },
-    {
-      "id": 138,
-      "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/138",
-      "path": "walkthroughs/138.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/138.json"
     },
     {
       "id": 137,
@@ -27629,6 +27502,6 @@
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/lookup.json",
     "alias_count": 103,
     "normalized_alias_count": 103,
-    "total_items": 104
+    "total_items": 103
   }
 }

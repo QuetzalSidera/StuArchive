@@ -2,14 +2,14 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 104,
+  "total_items": 103,
   "alias_count": 103,
   "normalized_alias_count": 103,
   "by_id": {
@@ -129,10 +129,10 @@
         ],
         "reference_score": 0,
         "is_favorite": false,
-        "state": 1,
+        "state": 0,
         "favorite_num": 1,
         "created_at": 1791216648,
-        "updated_at": 1791216648
+        "updated_at": 1791377290
       },
       "detail_path": "walkthroughs/140.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/140.json"
@@ -257,141 +257,13 @@
         ],
         "reference_score": 0,
         "is_favorite": false,
-        "state": 1,
+        "state": 0,
         "favorite_num": 1,
         "created_at": 1791201725,
-        "updated_at": 1791201725
+        "updated_at": 1791377281
       },
       "detail_path": "walkthroughs/139.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/139.json"
-    },
-    "138": {
-      "id": 138,
-      "source_path": "walkthroughs/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
-      "item": {
-        "id": 138,
-        "user": {
-          "id": 28864,
-          "user_name": "HANT520",
-          "introduction": "",
-          "avatar": "https://static.kivo.wiki/images/avatar/28864/4tvhvtQUapGa0AcG3rG7ifcFVO7trEoz.jpg"
-        },
-        "title": "个人方案",
-        "server": "China",
-        "game_mode": "Other",
-        "enemy_defensive_attributes": "Rainbow",
-        "level_terrain": "Other",
-        "introduce_summary": "5201314",
-        "team": [
-          {
-            "student": [
-              {
-                "student_id": 42,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 545,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 346,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              },
-              {
-                "student_id": 543,
-                "level": 90,
-                "star_level": 5,
-                "weapon_level": 0,
-                "favorability": 10,
-                "skill_level": [
-                  5,
-                  10,
-                  10,
-                  10
-                ],
-                "equipment_level": [
-                  10,
-                  10,
-                  10
-                ],
-                "character_data_index": 0,
-                "max_hp_talent_level": 0,
-                "attack_talent_level": 0,
-                "healing_talent_level": 0
-              }
-            ],
-            "initial_skills": [
-              42,
-              543,
-              346
-            ],
-            "timeline": []
-          }
-        ],
-        "reference_score": 0,
-        "is_favorite": false,
-        "state": 1,
-        "favorite_num": 1,
-        "created_at": 1791201688,
-        "updated_at": 1791201688
-      },
-      "detail_path": "walkthroughs/138.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/138.json"
     },
     "137": {
       "id": 137,
@@ -27649,8 +27521,7 @@
       "140"
     ],
     "个人方案": [
-      "139",
-      "138"
+      "139"
     ],
     "比较粗暴": [
       "137"
@@ -27961,8 +27832,7 @@
       "140"
     ],
     "个人方案": [
-      "139",
-      "138"
+      "139"
     ],
     "比较粗暴": [
       "137"

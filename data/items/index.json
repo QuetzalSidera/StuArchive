@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "list_key": "item",
   "id_key": "id",
   "max_page": 201,
   "synced_pages": 201,
-  "total_items": 2004,
-  "details_synced": 2004,
+  "total_items": 2005,
+  "details_synced": 2005,
   "details_enabled": true,
   "items": [
     {
@@ -13353,6 +13353,14 @@
       "description": "这是一款水蓝色的单人沙发，非常适合一个人坐。它柔软的质感非常迷人"
     },
     {
+      "id": 2081,
+      "name": "死亡金属舞台",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/oGB1D5tLZg4ntaDASFhw3pdoIXGeyntq.png",
+      "rarity": 4,
+      "description": "为了死亡金属乐表演，纺制作的特别舞台。令人感觉相当摇滚。"
+    },
+    {
       "id": 1542,
       "name": "四边形休息室隔断",
       "type": "furniture",
@@ -17455,7 +17463,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=201",
       "path": "items/pages/201.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/201.json",
-      "item_count": 4
+      "item_count": 5
     }
   ],
   "details": [
@@ -27462,6 +27470,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/936.json"
     },
     {
+      "id": 2081,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2081",
+      "path": "items/2081.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2081.json"
+    },
+    {
       "id": 1542,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1542",
       "path": "items/1542.json",
@@ -29487,8 +29501,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1972,
-    "normalized_alias_count": 1972,
-    "total_items": 2004
+    "alias_count": 1973,
+    "normalized_alias_count": 1973,
+    "total_items": 2005
   }
 }

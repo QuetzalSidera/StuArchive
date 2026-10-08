@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1792,
-  "alias_count": 1789,
-  "normalized_alias_count": 1789,
+  "total_items": 1794,
+  "alias_count": 1791,
+  "normalized_alias_count": 1791,
   "by_id": {
     "1": {
       "id": 1,
@@ -14853,7 +14853,7 @@
       "item": {
         "id": 1261,
         "name": "CH0252_spr_HD",
-        "remark": "初始立绘",
+        "remark": "初始立绘-26.10.07之前",
         "type": "spr"
       },
       "detail_path": "spines/1261.json",
@@ -23308,6 +23308,32 @@
       },
       "detail_path": "spines/1912.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1912.json"
+    },
+    "1913": {
+      "id": 1913,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1913,
+        "name": "CH0252_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1913.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1913.json"
+    },
+    "1914": {
+      "id": 1914,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1914,
+        "name": "CH0252_spr_new",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1914.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1914.json"
     }
   },
   "by_alias": {
@@ -28680,6 +28706,12 @@
     ],
     "toki_2026_midautumn": [
       "1912"
+    ],
+    "CH0252_home": [
+      "1913"
+    ],
+    "CH0252_spr_new": [
+      "1914"
     ]
   },
   "by_normalized_alias": {
@@ -34052,6 +34084,12 @@
     ],
     "toki_2026_midautumn": [
       "1912"
+    ],
+    "ch0252_home": [
+      "1913"
+    ],
+    "ch0252_spr_new": [
+      "1914"
     ]
   }
 }

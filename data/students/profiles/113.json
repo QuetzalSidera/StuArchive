@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "id": 113,
   "display_name": "一之濑 明日奈",
   "names": {
@@ -164,10 +164,10 @@
     },
     "basic": [
       {
-        "max_hp": 2425,
-        "attack": 293,
+        "max_hp": 2309,
+        "attack": 266,
         "defense": 20,
-        "healing": 1465,
+        "healing": 1362,
         "accuracy": 681,
         "evasion": 778,
         "crit": 243,
@@ -208,7 +208,7 @@
             },
             {
               "cost": 2,
-              "describe": "使用技能时闪避值增加43.4%/ 攻击速度增加43.7%(持续30秒)"
+              "describe": "使用技能时闪避值增加43.4%/ 攻击速度增加48.3%(持续30秒)"
             },
             {
               "cost": 2,
@@ -923,7 +923,7 @@
       },
       {
         "id": 85,
-        "favorability": 240,
+        "favorability": 180,
         "item": {
           "id": 85,
           "type": "gift",
@@ -1577,7 +1577,7 @@
       {
         "description": "asuna_battle_in_1.ogg",
         "category": "battle",
-        "text": "前提，做好战斗准备，我们战个痛快吧！",
+        "text": "全体做好战斗准备！我们战个痛快吧！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/huBhr36tou2VTZNHBgdJKfbEv5zfrXaI.ogg"
       },
@@ -1710,7 +1710,7 @@
       {
         "description": "asuna_exskill_level_1.ogg",
         "category": "battle",
-        "text": "没人能挡的住我！",
+        "text": "没人能挡得住我！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/OcjQ0V4kOzwPEpxuVn02YmYsLJGhzVQu.ogg"
       },
@@ -1808,7 +1808,7 @@
       {
         "description": "asuna_lobby_3.ogg",
         "category": "lobby",
-        "text": "打扫卫生和洗衣服的活儿，就交给我吧！我会收拾的干干净净，不留一点痕迹！",
+        "text": "打扫卫生和洗衣服的活儿就交给我吧！我会收拾得干干净净，不留一点痕迹！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/mrFVfAIMWPEQzDhBgDPnCbiTteUSBXyq.ogg"
       },
@@ -1955,7 +1955,7 @@
       {
         "description": "asuna_tactic_in_1.ogg",
         "category": "battle",
-        "text": "呼号01，明日奈，出动~！",
+        "text": "呼号Zero One，明日奈！出动——！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/oIMxf0RYgPthIbaq0z6ZZvDiKm3ww6qr.ogg"
       },
@@ -1976,7 +1976,7 @@
       {
         "description": "asuna_tactic_victory_2.ogg",
         "category": "battle",
-        "text": "大家辛苦啦，打的真漂亮！",
+        "text": "大家辛苦啦，打得真漂亮！",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E4%B8%80%E4%B9%8B%E6%BF%91%20%E6%98%8E%E6%97%A5%E5%A5%88/eNi5cXmnctSt3hx5OCFV7aL33xrHI7jn.ogg"
       },
@@ -2512,8 +2512,8 @@
   "source": {
     "detail_path": "students/113.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/113.json",
-    "upstream_time": 1791325020,
-    "updated_at": 1789960147,
+    "upstream_time": 1791413382,
+    "updated_at": 1791373211,
     "created_at": 1685372585
   }
 }

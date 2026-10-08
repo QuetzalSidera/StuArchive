@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 541,
-  "alias_count": 541,
-  "normalized_alias_count": 541,
+  "total_items": 542,
+  "alias_count": 542,
+  "normalized_alias_count": 542,
   "by_id": {
     "1": {
       "id": 1,
@@ -6504,6 +6504,18 @@
       },
       "detail_path": "models/558.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/558.json"
+    },
+    "559": {
+      "id": 559,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 559,
+        "name": "CH0252_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/559.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/559.json"
     }
   },
   "by_alias": {
@@ -8129,6 +8141,9 @@
     ],
     "Trident_Odysseia_SR_Body": [
       "558"
+    ],
+    "CH0252_Halo": [
+      "559"
     ]
   },
   "by_normalized_alias": {
@@ -9754,6 +9769,9 @@
     ],
     "trident_odysseia_sr_body": [
       "558"
+    ],
+    "ch0252_halo": [
+      "559"
     ]
   }
 }

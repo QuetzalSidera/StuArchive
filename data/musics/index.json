@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "list_key": "music",
   "id_key": "id",
-  "max_page": 100,
-  "synced_pages": 100,
-  "total_items": 997,
-  "details_synced": 997,
+  "max_page": 101,
+  "synced_pages": 101,
+  "total_items": 1001,
+  "details_synced": 1001,
   "details_enabled": true,
   "items": [
     {
@@ -8988,6 +8988,42 @@
       "album": "游戏内曲目",
       "use": "",
       "original_file_name": "Theme_375"
+    },
+    {
+      "id": 1017,
+      "title": "Theme_369",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_369"
+    },
+    {
+      "id": 1018,
+      "title": "Theme_369_Lobby",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_369_Lobby"
+    },
+    {
+      "id": 1019,
+      "title": "梦路的花",
+      "cover": "https://static.kivo.wiki/images/music/cover/EawgnjqiF4howZpwUe3RUKtGEdh5XjeB.jpg",
+      "author": "空崎日奈（CV:王雅欣）/ Mitsukiyo",
+      "album": "梦路的花",
+      "use": "专辑曲目",
+      "original_file_name": ""
+    },
+    {
+      "id": 1020,
+      "title": "全速向光（安雪璃 x Sakula小舞）",
+      "cover": "https://static.kivo.wiki/images/music/cover/jBlKFyOXEWyhtmp4aU5XTrPlkqeGNm0v.jpg",
+      "author": "安雪璃 / Sakula小舞 / LTC / 绯川蛋 / 金克斯",
+      "album": "",
+      "use": "其他 - 国服3周年用曲",
+      "original_file_name": ""
     }
   ],
   "pages": [
@@ -9689,7 +9725,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=100",
       "path": "musics/pages/100.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/100.json",
-      "item_count": 7
+      "item_count": 10
+    },
+    {
+      "page": 101,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=101",
+      "path": "musics/pages/101.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/101.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -15674,13 +15717,37 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1016",
       "path": "musics/1016.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1016.json"
+    },
+    {
+      "id": 1017,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1017",
+      "path": "musics/1017.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1017.json"
+    },
+    {
+      "id": 1018,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1018",
+      "path": "musics/1018.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1018.json"
+    },
+    {
+      "id": 1019,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1019",
+      "path": "musics/1019.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1019.json"
+    },
+    {
+      "id": 1020,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1020",
+      "path": "musics/1020.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1020.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1312,
-    "normalized_alias_count": 1312,
-    "total_items": 997
+    "alias_count": 1316,
+    "normalized_alias_count": 1316,
+    "total_items": 1001
   }
 }

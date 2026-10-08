@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-10-06T22:21:17Z",
+  "generated_at": "2026-10-07T22:44:35Z",
   "list_key": "model",
   "id_key": "id",
   "max_page": 55,
   "synced_pages": 55,
-  "total_items": 541,
-  "details_synced": 541,
+  "total_items": 542,
+  "details_synced": 542,
   "details_enabled": true,
   "items": [
     {
@@ -2720,6 +2720,11 @@
       "id": 558,
       "name": "Trident_Odysseia_SR_Body",
       "type": "body"
+    },
+    {
+      "id": 559,
+      "name": "CH0252_Halo",
+      "type": "halo"
     }
   ],
   "pages": [
@@ -3106,7 +3111,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=55",
       "path": "models/pages/55.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/55.json",
-      "item_count": 1
+      "item_count": 2
     }
   ],
   "details": [
@@ -6355,13 +6360,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/558",
       "path": "models/558.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/558.json"
+    },
+    {
+      "id": 559,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/559",
+      "path": "models/559.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/559.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 541,
-    "normalized_alias_count": 541,
-    "total_items": 541
+    "alias_count": 542,
+    "normalized_alias_count": 542,
+    "total_items": 542
   }
 }

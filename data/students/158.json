@@ -41,7 +41,7 @@
     "given_name_cn": "艾米",
     "nick_name": "",
     "introduction": "千禧科技学园所属，特异现象搜查部的成员。\n不苟言笑，难以捉摸的少女。常常毫无缘由的呆立在原处。\n唯有在执行研讨会的委托时，比谁都更有效率，迅速的达成任务目标。\n\n>有没有更有效率的战斗方法呢……？",
-    "introduction_cn": "千禧年科技超自然现象调查部的成员。\n\n她是一个仿佛生活在四次元空间的少女，很少有人能看透她的想法。不仅沉默寡言，而且经常毫无理由的站着发呆。\n但是，执行研讨会委托的任务时，能比任何人都更有效率地行动并达成目标。\n\n>怎样才可以更有效率地战斗呢……？",
+    "introduction_cn": "千禧年科技超自然现象调查部的要员。\n\n她是一个仿佛生活在四次元空间的少女，很少有人能看透她的想法。不仅沉默寡言，而且经常毫无理由地站着发呆。\n但是，执行研讨会委托的任务时，能比任何人都更有效率地行动并达成目标。\n\n>怎样才可以更有效率地战斗呢……？",
     "momo_talk_signature": "在此输入状态信息",
     "main_relation": 39,
     "relation": [
@@ -270,7 +270,7 @@
         "description": "Eimi_ExSkill_2.ogg",
         "category": "battle",
         "text": "重新分析代码，应用完成。",
-        "text_original": "コードを再解析。適応完了。",
+        "text_original": "コードを再解析……適用完了。",
         "file": "https://static.kivo.wiki/voices/students/%E5%92%8C%E6%B3%89%E5%85%83%20%E8%89%BE%E7%B1%B3/usmKlYdER1OcgKdYheSqgv0b8jGjvSV1.ogg"
       },
       {
@@ -298,7 +298,7 @@
         "description": "Eimi_ExSkill_Level_3.ogg",
         "category": "battle",
         "text": "应用完成，现在没事了。",
-        "text_original": "適応完了。もう大丈夫。",
+        "text_original": "適用完了。もう大丈夫。",
         "file": "https://static.kivo.wiki/voices/students/%E5%92%8C%E6%B3%89%E5%85%83%20%E8%89%BE%E7%B1%B3/7clzuFxXxEKmKDF73vRQchXD73PTEHLi.ogg"
       },
       {
@@ -2652,9 +2652,9 @@
         "indoor_adaptability": "D",
         "street_adaptability": "S",
         "equipment": [
-          2,
           9,
-          10
+          10,
+          2
         ],
         "cultivate_material": [
           2,
@@ -2787,7 +2787,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "回复强化率 提升15.4%"
+                  "describe": "回复强化率 提升18.2%"
                 },
                 {
                   "cost": 1,
@@ -2977,10 +2977,10 @@
     "supplementary_uuid": "79763655-268d-43a2-b78e-0b7ebe61a475",
     "supplementary_declare_uuid": "e1f01a15-fc11-4e58-a23f-363f198e89ce",
     "created_at": 1685629354,
-    "updated_at": 1790275997
+    "updated_at": 1791373990
   },
   "message": "OK",
   "success": true,
-  "time": 1791325022,
+  "time": 1791413382,
   "version": "1.0.0-beta.43"
 }
