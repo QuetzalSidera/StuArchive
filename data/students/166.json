@@ -28,7 +28,7 @@
     "family_name_cn": "安守",
     "given_name_cn": "实梨",
     "nick_name": "工头",
-    "introduction": "红冬工务部部长兼革命家。\n为了改善工务部的待遇，举行了罢工和游行示威。\n为了消除学生会长这一邪恶的压迫者，实现真正的平等，正在进行斗争。\n\n\n>基沃托斯中的所有布丁\n都应属于斗争的学生们！",
+    "introduction": "隶属于红冬联邦学园，劳务部的部长。\n\n无论是大规模的土木工程还是建筑施工，只要是需要人力的地方都会派遣人员前往，并指挥现场工作。工作能力毋庸置疑，但经常为了一些小事发动罢工或示威，因此似乎在雇主间的名声很差。\n\n\n>基沃托斯中的所有布丁\n都应属于斗争的学生们！",
     "introduction_cn": "引领红冬联邦学院工务部的工务部长。\n\n哪里有需要人力的大规模土木工程，实梨就会奔赴哪里。她工作能力很强，擅长组织人员、现场指挥。但她经常因为小事罢工示威，导致她在雇主圈子中名声很差。\n\n>基沃托斯的所有布丁\n都应该属于勇于斗争的学员们！",
     "momo_talk_signature": "联邦学生会应保障每周四天休假！",
     "main_relation": 57,
@@ -359,7 +359,7 @@
         "description": "CH0214_Relationship_Up_4.ogg",
         "category": "growup",
         "text": "虽然垄断是资本家的恶劣行为，但如果垄断的对象是老师的话，我也有些贪心呢。",
-        "text_original": "独占だなんてブルジョアがやるような悪質な行為だが… 先生が相手だと…少し…欲が出てしまうな。",
+        "text_original": "独占だなんて、ブルジョワがやるような悪質な行為だが…… 先生が相手だと……少し、欲が出てしまうな。",
         "file": "https://static.kivo.wiki/voices/students/%E5%AE%89%E5%AE%88%20%E5%AE%9E%E6%A2%A8/GGX7uVKcxgUY83XrWYVpg782Bvtvy0gb.ogg"
       },
       {
@@ -1290,9 +1290,9 @@
         "indoor_adaptability": "S",
         "street_adaptability": "D",
         "equipment": [
-          3,
           7,
-          10
+          10,
+          3
         ],
         "cultivate_material": [
           62,
@@ -1335,7 +1335,7 @@
                 },
                 {
                   "cost": 4,
-                  "describe": "对圆形范围内的敌方单位造成攻击力531%的伤害。每多消耗1COST，额外造成35%伤害。(至多额外消耗3COST，EX技能的COST增减效果基于原COST计算)"
+                  "describe": "对圆形范围内的敌方单位造成攻击力670%的伤害。每多消耗1COST，额外造成35%伤害。(至多额外消耗3COST，EX技能的COST增减效果基于原COST计算)"
                 },
                 {
                   "cost": 4,
@@ -1377,7 +1377,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "每25秒，对圆形范围内的敌方单位造成攻击力101%的伤害。"
+                  "describe": "每25秒，对圆形范围内的敌方单位造成攻击力105%的伤害。"
                 },
                 {
                   "cost": 1,
@@ -1555,7 +1555,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E5%AE%89%E5%AE%88%20%E5%AE%9E%E6%A2%A8/skill_icon/7uz3OqlguLYRnICHLWvDvcgne0WpV5Ri.png",
               "title": "联起手来+",
-              "title_cn": "劳动的果实",
+              "title_cn": "团结起来+",
               "preview": "",
               "max_level": 10,
               "link_student_id": 0,
@@ -1615,10 +1615,10 @@
     "supplementary_uuid": "72a6d8f4-db52-4860-88c3-bf94fe09a151",
     "supplementary_declare_uuid": "3010904d-aa2f-45e3-8469-1ce43251192b",
     "created_at": 1685632852,
-    "updated_at": 1789874705
+    "updated_at": 1791511198
   },
   "message": "OK",
   "success": true,
-  "time": 1791500508,
+  "time": 1791584483,
   "version": "1.0.0-beta.43"
 }
