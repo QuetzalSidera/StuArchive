@@ -35,7 +35,7 @@
     "given_name_cn": "铃美",
     "nick_name": "闪光弹",
     "introduction": "圣三一综合学园的保障安全的自警团成员。\n\n由于频繁发生圣三一学生被其它学校袭击的事件，所以时常在大街上巡逻。\n因为自身强烈的正义感而被人误解为十分冷酷且正经，可实际上也有非常喜欢可爱事物的年轻少女的地方。",
-    "introduction_cn": "负责崔尼蒂安全的自警团成员。\n\n因为崔尼蒂的学员频繁被其他人袭击，为阻止这种情况，她自愿进行街头巡逻。\n充满正义感，所以常被别人误会成是个不讲情面的人，其实她也有很温柔的一面。",
+    "introduction_cn": "保护崔尼蒂安全的自警团成员。\n\n因为崔尼蒂的学员频繁被其他人袭击，为阻止这种情况，她自愿进行街头巡逻。\n充满正义感，所以常被别人误会成是不讲情面的人，其实她也有很温柔的一面。",
     "momo_talk_signature": "愿今天也是平安的一天",
     "main_relation": 11,
     "relation": [
@@ -1670,9 +1670,9 @@
         "indoor_adaptability": "B",
         "street_adaptability": "B",
         "equipment": [
-          4,
+          9,
           6,
-          9
+          4
         ],
         "cultivate_material": [
           40,
@@ -1757,7 +1757,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "每25秒对1名敌人造成攻击力303%的伤害"
+                  "describe": "每25秒对1名敌人造成攻击力314%的伤害"
                 },
                 {
                   "cost": 1,
@@ -1890,7 +1890,7 @@
         "basic": [
           {
             "max_hp": 2281,
-            "attack": 292,
+            "attack": 192,
             "defense": 20,
             "healing": 1380,
             "accuracy": 690,
@@ -1995,10 +1995,10 @@
     "supplementary_uuid": "d7fc7198-ddbf-4c14-84c8-8e46a16c7cfa",
     "supplementary_declare_uuid": "c7c721a5-487a-4c46-bc5f-a45eeae49523",
     "created_at": 1685711655,
-    "updated_at": 1790236923
+    "updated_at": 1791641697
   },
   "message": "OK",
   "success": true,
-  "time": 1791583813,
+  "time": 1791666317,
   "version": "1.0.0-beta.43"
 }
