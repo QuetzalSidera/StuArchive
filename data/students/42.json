@@ -313,21 +313,21 @@
       },
       {
         "description": "HoshinoSwimsuit_EventLogin_Season_1",
-        "category": "lobby",
+        "category": "event",
         "text": "差不多该行动了……？呜嘿——好麻烦呐~",
         "text_original": "そろそろ行かなきゃダメ？ うへー、面倒くさいなぁ…。",
         "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E9%B8%9F%E6%B8%B8%20%E6%98%9F%E9%87%8E/%E6%B3%B3%E8%A3%85/zKlPgtNWPQHFheffUlbWbOzIGy7chcyb.ogg"
       },
       {
         "description": "HoshinoSwimsuit_EventLogin_Season_2",
-        "category": "lobby",
+        "category": "event",
         "text": "时间好像不多了。快抓紧时间吧~",
         "text_original": "もうあんまり時間が無さそうだし、そろそろ動くとしようか～",
         "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E9%B8%9F%E6%B8%B8%20%E6%98%9F%E9%87%8E/%E6%B3%B3%E8%A3%85/82qmKL792UXF6jwYfrJsfliERFPmU1lp.ogg"
       },
       {
         "description": "HoshinoSwimsuit_EventLogin_Season_End",
-        "category": "lobby",
+        "category": "event",
         "text": "老师，活儿还没干完吗？真没办法，那大叔就来帮你吧。",
         "text_original": "先生、まだやることが残ってるの？ 仕方ないなあ、おじさんが手伝ってあげよう",
         "file": "https://static.kivo.wiki/voices/students/%E5%B0%8F%E9%B8%9F%E6%B8%B8%20%E6%98%9F%E9%87%8E/%E6%B3%B3%E8%A3%85/HlRtwhcYJOLuORJEam3AvvpPHqnPE7nR.ogg"
@@ -1956,23 +1956,23 @@
               "info": [
                 {
                   "cost": 6,
-                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加26.5%，「爆发」类型克制伤害增加68.3%（持续50秒）"
+                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加26.5%，「爆发」类型克制伤害增加68.3%（持续50秒）（仅在位于范围内期间生效）"
                 },
                 {
                   "cost": 6,
-                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加28.5%，「爆发」类型克制伤害增加73.4%（持续50秒）"
+                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加28.5%，「爆发」类型克制伤害增加73.4%（持续50秒）（仅在位于范围内期间生效）"
                 },
                 {
                   "cost": 6,
-                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加32.5%，「爆发」类型克制伤害增加83.6%（持续50秒）"
+                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加32.5%，「爆发」类型克制伤害增加83.6%（持续50秒）（仅在位于范围内期间生效）"
                 },
                 {
                   "cost": 6,
-                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加34.5%，「爆发」类型克制伤害增加88.8%（持续50秒）"
+                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加34.5%，「爆发」类型克制伤害增加88.8%（持续50秒）（仅在位于范围内期间生效）"
                 },
                 {
                   "cost": 5,
-                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加38.5%，「爆发」类型克制伤害增加99%（持续50秒）"
+                  "describe": "以自身为中心，使圆形范围内的我方攻击力增加38.5%，「爆发」类型克制伤害增加99%（持续50秒）（仅在位于范围内期间生效）"
                 }
               ]
             }
@@ -2244,10 +2244,10 @@
     "supplementary_uuid": "0dfc7261-5d3b-48b2-a1af-b582a9253eef",
     "supplementary_declare_uuid": "d5b8a353-bf52-496c-a1a2-5ea50e543715",
     "created_at": 1684662540,
-    "updated_at": 1789309427
+    "updated_at": 1791687724
   },
   "message": "OK",
   "success": true,
-  "time": 1791666431,
+  "time": 1791754198,
   "version": "1.0.0-beta.43"
 }

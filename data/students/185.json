@@ -35,7 +35,7 @@
     "given_name_cn": "歌原",
     "nick_name": "炮台",
     "introduction": "千禧科技学园所属，工程部部长。\n与名衔相符，她不断的发明着各式各样的机器人。\n特别是常伴左右的机器人【雷酱】，据说其战斗能力能与PMC的数百台战斗型自律机器人媲美。",
-    "introduction_cn": "千禧年科技工程部的部长。\n\n她无愧于工程部部长的头衔，发明了各种各样的机器人，尤其是她的宠物机器人“小雷”，被评价为拥有与数百台PMC战斗用自动人偶相比拟的战斗能力。\n\n「用我的指尖实现的奇迹。\n设计和制作。\n老师。请期待我的未来吧。」",
+    "introduction_cn": "千禧年科技工程部的部长。\n\n她无愧于工程部部长的头衔，发明了各种各样的机器人，尤其是她的宠物机器人“小雷”，被评价为拥有与数百台PMC战斗用自动人偶相比拟的战斗能力。",
     "momo_talk_signature": "随时接受改造、修理的相关委托",
     "main_relation": 38,
     "relation": [
@@ -1492,15 +1492,15 @@
                 },
                 {
                   "cost": 1,
+                  "describe": "我方角色的生命值上限增加9.5%"
+                },
+                {
+                  "cost": 1,
                   "describe": "我方角色的生命值上限增加10%"
                 },
                 {
                   "cost": 1,
                   "describe": "我方角色的生命值上限增加11.8%"
-                },
-                {
-                  "cost": 1,
-                  "describe": "我方角色的生命值上限增加12.3%"
                 },
                 {
                   "cost": 1,
@@ -1638,10 +1638,10 @@
     "supplementary_uuid": "a596aad4-b64f-4e55-991f-0d94ee2c66b2",
     "supplementary_declare_uuid": "4295cba1-0f2f-4905-adcc-f6d620ed3ef6",
     "created_at": 1685712865,
-    "updated_at": 1789996407
+    "updated_at": 1791730353
   },
   "message": "OK",
   "success": true,
-  "time": 1791666974,
+  "time": 1791754602,
   "version": "1.0.0-beta.43"
 }

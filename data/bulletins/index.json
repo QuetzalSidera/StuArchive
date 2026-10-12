@@ -7,15 +7,21 @@
     "api_path": "/bulletins/",
     "upstream_url": "https://api.kivo.wiki/api/v1/bulletins/"
   },
-  "generated_at": "2026-10-10T21:11:26Z",
+  "generated_at": "2026-10-11T21:30:24Z",
   "list_key": "bulletin",
   "id_key": "id",
   "max_page": 4,
   "synced_pages": 4,
-  "total_items": 39,
-  "details_synced": 39,
+  "total_items": 40,
+  "details_synced": 40,
   "details_enabled": true,
   "items": [
+    {
+      "id": 40,
+      "title": "26年10月站内动态",
+      "created_at": 1791718732,
+      "updated_at": 1791718732
+    },
     {
       "id": 39,
       "title": "26年7月站内动态",
@@ -278,10 +284,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/bulletins/?page=4",
       "path": "bulletins/pages/4.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/bulletins/pages/4.json",
-      "item_count": 9
+      "item_count": 10
     }
   ],
   "details": [
+    {
+      "id": 40,
+      "upstream_url": "https://api.kivo.wiki/api/v1/bulletins/40",
+      "path": "bulletins/40.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/bulletins/40.json"
+    },
     {
       "id": 39,
       "upstream_url": "https://api.kivo.wiki/api/v1/bulletins/39",
@@ -520,8 +532,8 @@
   "lookup": {
     "path": "bulletins/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/bulletins/lookup.json",
-    "alias_count": 39,
-    "normalized_alias_count": 39,
-    "total_items": 39
+    "alias_count": 40,
+    "normalized_alias_count": 40,
+    "total_items": 40
   }
 }

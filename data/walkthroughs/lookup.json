@@ -2,17 +2,195 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-10-10T21:11:26Z",
+  "generated_at": "2026-10-11T21:30:24Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 103,
-  "alias_count": 103,
-  "normalized_alias_count": 103,
+  "total_items": 104,
+  "alias_count": 104,
+  "normalized_alias_count": 104,
   "by_id": {
+    "141": {
+      "id": 141,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 141,
+        "user": {
+          "id": 29489,
+          "user_name": "iyttcgj7",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/default_avatar.png"
+        },
+        "title": "养老",
+        "server": "China",
+        "game_mode": "Raid",
+        "enemy_defensive_attributes": "Light",
+        "level_terrain": "Indoor",
+        "introduce_summary": "",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 346,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 42,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 340,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 544,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 61,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 498,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              498,
+              42,
+              340
+            ],
+            "timeline": [
+              {
+                "timing": "",
+                "operate": "",
+                "remark": ""
+              }
+            ]
+          }
+        ],
+        "reference_score": 277,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1791731601,
+        "updated_at": 1791731601
+      },
+      "detail_path": "walkthroughs/141.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/141.json"
+    },
     "140": {
       "id": 140,
       "source_path": "walkthroughs/index.json",
@@ -27517,6 +27695,9 @@
     }
   },
   "by_alias": {
+    "养老": [
+      "141"
+    ],
     "随心配": [
       "140"
     ],
@@ -27828,6 +28009,9 @@
     ]
   },
   "by_normalized_alias": {
+    "养老": [
+      "141"
+    ],
     "随心配": [
       "140"
     ],
