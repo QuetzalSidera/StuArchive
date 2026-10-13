@@ -311,49 +311,49 @@
       },
       {
         "description": "CH0138_EventMission_1.ogg",
-        "category": "other",
+        "category": "event",
         "text": "如果觉得每日任务有些难的话， 就告诉我吧。我永远都站在老师这边哦。",
         "text_original": "日課が難しいと感じたら、すぐに言ってくれ。 いつでも先生の味方になるぞ。",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/vpGXrE5TmwYVzDlbp9DW2oEE5jjW2SQQ.ogg"
       },
       {
         "description": "CH0138_EventMission_2.ogg",
-        "category": "other",
+        "category": "event",
         "text": "这个……对玄龙门的人来说， 都算困难的了…… 老师竟然能完成这种任务， 说实话我很惊讶。",
         "text_original": "これは、玄龍門の者でも難しい内容のはずだが……正直驚いたぞ、先生。",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/Hu1SZgvVINvgsSOoesiSksOEqy8BryJ9.ogg"
       },
       {
         "description": "CH0138_EventMission_Day_End.ogg",
-        "category": "other",
+        "category": "event",
         "text": "今天的任务就到此结束。明天也拜托你了，老师。",
         "text_original": "今日の仕事は、これで全部みたいだな。明日もよろしく頼む、先生。  ",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/EF6KIpQM7EEiE6Upvi7dN8RnlMjGxCMI.ogg"
       },
       {
         "description": "CH0138_EventMission_Get_1.ogg",
-        "category": "other",
+        "category": "event",
         "text": "竟然能做到这一点， 不愧是老师。 我的眼光果然没错。",
         "text_original": "それをこなすとは、流石、先生だ。私の目に狂いは無かったな。",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/WQkbNV6owM1dNVcntDjgOAFmQmRs7JDa.ogg"
       },
       {
         "description": "CH0138_EventMission_Get_2.ogg",
-        "category": "other",
+        "category": "event",
         "text": "就算是棘手的任务， 老师也处理得不错。不，不过……！ 这种程度， 在玄龙门算是普通的！",
         "text_original": "難しい任務もよくやってくれている。 だ、だが……！この程度、玄龍門では普通のことだ！",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/UMHVtMInX9zekKZJvNpkNyf3hOYtkXVW.ogg"
       },
       {
         "description": "CH0138_EventMission_Login_1.ogg",
-        "category": "other",
+        "category": "event",
         "text": "目的、课题、任务—— 这些都是一个意思。不用担心，逐步解决就行。",
         "text_original": "目的、課題、任務、ミッション――すべて同じ意味の言葉だ。 心配するな、一つずつこなしていけばいい。",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/TKe5ZLpFgYU8rD4d1Qndx1Ruj7LRTEXm.ogg"
       },
       {
         "description": "CH0138_EventMission_Login_2.ogg",
-        "category": "other",
+        "category": "event",
         "text": "如果手头同时有多个任务， 那就先处理简单的。 这样的话，各方面都会更加顺利。",
         "text_original": "複数の任務がある時は、まず簡単なものから片付ける。その方が色々とスムーズだぞ。",
         "file": "https://static.kivo.wiki/voices/students/%E8%BF%91%E5%8D%AB%20%E5%8D%97/kdNNFufikKovhuJPR4RmDEkaoYVcHdXU.ogg"
@@ -1951,9 +1951,9 @@
         "indoor_adaptability": "S",
         "street_adaptability": "D",
         "equipment": [
-          2,
+          8,
           6,
-          8
+          2
         ],
         "cultivate_material": [
           13,
@@ -2276,10 +2276,10 @@
     "supplementary_uuid": "28891f27-a0e5-4b8a-99f9-fd2eafeaa1da",
     "supplementary_declare_uuid": "a03c8d7a-058f-4506-9d02-c049b2bf98d0",
     "created_at": 1685458143,
-    "updated_at": 1791640909
+    "updated_at": 1791807162
   },
   "message": "OK",
   "success": true,
-  "time": 1791754685,
+  "time": 1791850385,
   "version": "1.0.0-beta.43"
 }

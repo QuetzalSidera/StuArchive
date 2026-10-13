@@ -137,7 +137,7 @@
         "description": "CH0064_Battle_In_1.ogg",
         "category": "battle",
         "text": "夏季集训，现在开始。",
-        "text_original": "これより、夏合宿のトレニンーグが開始する。",
+        "text_original": "これより、夏合宿のトレーニングを開始する！",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/pXCZWH8M4UlzNTi1saoxMiheh9CMkVym.ogg"
       },
       {
@@ -214,7 +214,7 @@
         "description": "CH0064_Battle_Victory_2.ogg",
         "category": "battle",
         "text": "真是的，一到海边就得以忘形，一帮蠢货。",
-        "text_original": " まったく、海だからと言って、浮かれすぎだ。馬鹿ともめ",
+        "text_original": "全く、海だからといって浮かれ過ぎだ……。バカ共め……。",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/ocXcuyZ86bHIQ0fvYmNOvT9UX8UY6ZPp.ogg"
       },
       {
@@ -261,21 +261,21 @@
       },
       {
         "description": "CH0064_Boxshop_Season_1.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "夏季集训已经过去一半了，需要什么东西的话，最好抓紧点儿。",
         "text_original": "合宿期間も残り半分。必要なものがあるなら急いだほうがいい。",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/t2nRFFPFcNdu9emvlRWbWDee6gq1D8t0.ogg"
       },
       {
         "description": "CH0064_Boxshop_Season_2.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "夏季集训没剩几天了，需要什么就早点说。",
         "text_original": "合宿期間もあと少しだ、何か必要なら早めに言って。",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/GPHlXajPgJXAZZgBVXEysW9H9UDFmXHI.ogg"
       },
       {
         "description": "CH0064_Boxshop_Season_3.ogg",
-        "category": "lobby",
+        "category": "event",
         "text": "今天就是最后一天了啊。真是个多灾多难的假…… 呃，夏季集训啊。",
         "text_original": "今日で最終日か、本当に目まぐるしバカンス…いや、合宿だった。",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/hZXvTCS8Khfk5oI4n9AoH61MaDxFBnSo.ogg"
@@ -331,14 +331,14 @@
       },
       {
         "description": "CH0064_Eventshop_Enter_1.ogg",
-        "category": "other",
+        "category": "event",
         "text": "老师，来啦？夏季集训需要的东西，这儿差不多都齐了。",
         "text_original": "ゲヘナの校章が入った箱を拾ったら、渡して。色んなものと交換できるよ。",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/DBrYH4IWEoDhhIWPoYVmG7EGx4HfTv5B.ogg"
       },
       {
         "description": "CH0064_Eventshop_SPBuy_1.ogg",
-        "category": "other",
+        "category": "event",
         "text": "这个可贵重了，省着点用啊。",
         "text_original": "良かったね、先生、それ結構貴重なものだから、取り扱いには注意したほうがいい。",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/beJRFLb4Dpn5Ku1HK96xX3lkcyWnfYxb.ogg"
@@ -838,7 +838,7 @@
       {
         "description": "ch0064_battle_victory_2",
         "category": "battle",
-        "text": "真是的，一到海边就得以忘形，一帮蠢货。",
+        "text": "真是的，一到海边就得意忘形……一帮蠢货……",
         "text_original": "",
         "file": "https://static.kivo.wiki/voices/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/VgWPsKQR5xYHlvJrFiybZnF1gCqi1HNo.ogg"
       },
@@ -2232,7 +2232,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加26.6.％"
+                  "describe": "攻击力增加26.6％"
                 }
               ]
             },
@@ -2292,10 +2292,10 @@
         },
         "basic": [
           {
-            "max_hp": 2312,
-            "attack": 474,
+            "max_hp": 2252,
+            "attack": 429,
             "defense": 17,
-            "healing": 1548,
+            "healing": 1819,
             "accuracy": 995,
             "evasion": 178,
             "crit": 221,
@@ -2338,7 +2338,7 @@
             {
               "icon": "https://static.kivo.wiki/images/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/skill_icon/C5DOPweyw7InAFs2MoGSiRuJbe5Q5hLN.png",
               "title": "精密射击+",
-              "title_cn": "",
+              "title_cn": "精确瞄准+",
               "preview": "",
               "max_level": 1,
               "link_student_id": 0,
@@ -2383,7 +2383,7 @@
                 },
                 {
                   "cost": 1,
-                  "describe": "攻击力增加801，攻击力增加26.6.％"
+                  "describe": "攻击力增加801，攻击力增加26.6％"
                 }
               ]
             }
@@ -2398,10 +2398,10 @@
     "supplementary_uuid": "1ba3a59a-711d-4053-ad71-2682e6b1a0e4",
     "supplementary_declare_uuid": "0ae04e5d-dd27-48b8-9448-076be595740a",
     "created_at": 1685434851,
-    "updated_at": 1790568682
+    "updated_at": 1791806565
   },
   "message": "OK",
   "success": true,
-  "time": 1791754443,
+  "time": 1791850365,
   "version": "1.0.0-beta.43"
 }
