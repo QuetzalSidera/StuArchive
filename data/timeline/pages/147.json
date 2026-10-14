@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 4566,
+        "line_type": "Globle",
+        "title": "国际服特殊调查「The Tree of Sephiroth」#3",
+        "image": "https://static.kivo.wiki/images/timeline/CqCo044rqHAMOZqC3npOhbmTyWpSLKCA.jpg",
+        "body_summary": "[Mini Event Notice] Special Investigation: The Tree of Sephiroth is back! Earn enhancement materials",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/1975459829125947462",
+        "start_time": 1759802449,
+        "end_time": 1760407249
+      },
       {
         "id": 4570,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1973991405933494742",
         "start_time": 1759500013,
         "end_time": 1759500013
-      },
-      {
-        "id": 4561,
-        "line_type": "Globle",
-        "title": "国际服签到礼物「The Operation Team's Appreciation Gift!」",
-        "image": "https://static.kivo.wiki/images/timeline/6oSY5zh5t4TRn0wf6O7K7QJHlUHngSGx.jpg",
-        "body_summary": "[Operation Team's Appreciation Gifts!] Sensei, we hope you enjoy a more bountiful Fall than ever bef",
-        "type": "Other",
-        "url": "x.com/EN_BlueArchive/status/1973674566510645268",
-        "start_time": 1759460408,
-        "end_time": 1760036408
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791857705,
+  "time": 1791936848,
   "version": "1.0.0-beta.43"
 }

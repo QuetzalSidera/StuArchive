@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2347,
+        "line_type": "JP",
+        "title": "违规账号封禁32",
+        "image": "https://static.kivo.wiki/images/timeline/AvnzlkYlXzX0lkNXrctxkQBuT0YD11nX.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1772941756205785512",
+        "start_time": 1711540800,
+        "end_time": 1711540800
+      },
       {
         "id": 2343,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1772186911089852634",
         "start_time": 1711483200,
         "end_time": 1712087999
-      },
-      {
-        "id": 2333,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁29",
-        "image": "",
-        "body_summary": "[3/26 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1772557827103678630",
-        "start_time": 1711445662,
-        "end_time": 1711445662
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791857944,
+  "time": 1791937067,
   "version": "1.0.0-beta.43"
 }

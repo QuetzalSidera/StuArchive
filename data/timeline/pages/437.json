@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1682,
+        "line_type": "CN",
+        "title": "【“革命之伊万库帕拉”活动奖励兑换所】bug修复",
+        "image": "https://static.kivo.wiki/images/timeline/SjkTNBSNDl9H58C4chA0u6qpxiePnZJ0.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈【“革命之伊万库帕拉”活动奖励兑换所】中，抽取到装备箱时会出现显示的内容与实际获取的内容不符合的问题。在得知该情况后我们已紧急开展修复计划。 ",
+        "type": "Other",
+        "url": "www.bilibili.com/opus/841256116179435523?spm_id_from=333.999.0.0",
+        "start_time": 1694706600,
+        "end_time": 1694706601
+      },
       {
         "id": 1681,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1701068368617607187",
         "start_time": 1694574000,
         "end_time": 1695153599
-      },
-      {
-        "id": 769,
-        "line_type": "JP",
-        "title": "任务Normal2倍#28",
-        "image": "https://static.kivo.wiki/images/timeline/3xp7DIPfjWzi8QFMZ2dxYIsUxAuzKcsB.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが、9/13(水)より開催します！ ▼開催期間 9/13(水)4:00 〜 9/17(日)3:59 生徒さんの成",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1701430721058107901",
-        "start_time": 1694548800,
-        "end_time": 1694894399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791858022,
+  "time": 1791937144,
   "version": "1.0.0-beta.43"
 }

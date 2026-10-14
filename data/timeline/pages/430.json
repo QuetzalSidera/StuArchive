@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 803,
+        "line_type": "JP",
+        "title": "活动常驻化「227号温泉郷の運営記録！」",
+        "image": "https://static.kivo.wiki/images/timeline/3pDisvmNn9hPkG2WSosh0BcaJGzm8ZrC.jpg",
+        "body_summary": "【常設化イベント追加】 10月11日(水)メンテナンス後、期間限定イベント「227号温泉郷の運営記録！」が常設化イベントに追加されます！ ストーリーを全て体験すると「トモエ」さんをお迎えできますので、",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1710852716220862667",
+        "start_time": 1697014800,
+        "end_time": 1697014800
+      },
       {
         "id": 801,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1711637695704019257",
         "start_time": 1696903206,
         "end_time": 1697482746
-      },
-      {
-        "id": 1545,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍19",
-        "image": "https://static.kivo.wiki/images/timeline/e64bC8dLoiel1kUaWYB8dcKpUfScE7MG.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1710553041127326031",
-        "start_time": 1696878018,
-        "end_time": 1696878018
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791858014,
+  "time": 1791937137,
   "version": "1.0.0-beta.43"
 }

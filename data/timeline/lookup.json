@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-10-13T00:10:07Z",
+  "generated_at": "2026-10-13T22:18:05Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5960,
-  "alias_count": 5950,
-  "normalized_alias_count": 5943,
+  "total_items": 5961,
+  "alias_count": 5951,
+  "normalized_alias_count": 5944,
   "by_id": {
     "6099": {
       "id": 6099,
@@ -110,7 +110,7 @@
       "item": {
         "id": 6122,
         "line_type": "JP",
-        "title": "大决战：屋外戦・ゲブラ #2",
+        "title": "大决战：屋外戦・ゲブラ #1",
         "image": "https://static.kivo.wiki/images/timeline/BMRcpUP5FaViaVLFBBcuhe7HNvDRmljr.jpg",
         "body_summary": "【大決戦予告】 2026年10月14日(水)11:00より、大決戦「屋外戦・ゲブラ」を開催します！ 今回難易度「Torment」に挑戦できる防御タイプは「特殊装甲」と「軽装備」になります。 「ゲブラ」",
         "type": "BigRaid",
@@ -391,6 +391,24 @@
       "detail_path": "timeline/6104.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6104.json"
     },
+    "6123": {
+      "id": 6123,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6123,
+        "line_type": "JP",
+        "title": " 社团剧情「神秘学研究会（第4宿舍404室）」篇追加",
+        "image": "https://static.kivo.wiki/images/timeline/qSIkQ68pLfYDbw0DvWFXbSrtGVLCudcv.jpg",
+        "body_summary": "【グループストーリー追加・予告】 2026年10月7日(水)メンテナンス後より、グループストーリー「オカルト研究会(第4寮404号室)」編が追加されます！ 生徒さん達の日常を、ぜひお楽しみください♪ ",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/2106942924785426514",
+        "start_time": 1791363600,
+        "end_time": 1791363600
+      },
+      "detail_path": "timeline/6123.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6123.json"
+    },
     "6119": {
       "id": 6119,
       "source_path": "timeline/index.json",
@@ -416,7 +434,7 @@
       "item": {
         "id": 6111,
         "line_type": "JP",
-        "title": "卡池「弦よ、軋め！ 紡がれるは冥界の旋律！」& 卡池「星よ、見て！夢に奔るは魔導の筆！」＆「影よ、聴け 幻纏うは数多の声」＆「微速前進 安らぎの浜辺へ」＆「急速潜航 活路は水底に」复刻",
+        "title": "卡池「弦よ、軋め！ 紡がれるは冥界の旋律！」、卡池「星よ、見て！夢に奔るは魔導の筆！」＆「影よ、聴け 幻纏うは数多の声」＆「微速前進 安らぎの浜辺へ」＆「急速潜航 活路は水底に」复刻",
         "image": "https://static.kivo.wiki/images/timeline/pCtPm3AQEvok0nJqsHPIpe1pSakvBjKa.jpg",
         "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「弦よ、軋め！ 紡がれるは冥界の旋律！」ならびに、復刻ピックアップ募集「星よ、見て！夢に奔るは魔導の筆！」＆「影よ、聴け 幻纏うは数多の声」＆「微",
         "type": "Gacha",
@@ -107310,7 +107328,7 @@
     "任务(普通难度)3倍 #22": [
       "6061"
     ],
-    "大决战:屋外戦・ゲブラ #2": [
+    "大决战:屋外戦・ゲブラ #1": [
       "6122"
     ],
     "国际服制约解除作战:Tiphareth #5": [
@@ -107358,10 +107376,13 @@
     "联合火力演习#55": [
       "6104"
     ],
+    "社团剧情「神秘学研究会(第4宿舍404室)」篇追加": [
+      "6123"
+    ],
     "活动「我らオカルト研究会! ~学院の不思議と古の呪文~」复刻": [
       "6119"
     ],
-    "卡池「弦よ、軋め! 紡がれるは冥界の旋律!」& 卡池「星よ、見て!夢に奔るは魔導の筆!」&「影よ、聴け 幻纏うは数多の声」&「微速前進 安らぎの浜辺へ」&「急速潜航 活路は水底に」复刻": [
+    "卡池「弦よ、軋め! 紡がれるは冥界の旋律!」、卡池「星よ、見て!夢に奔るは魔導の筆!」&「影よ、聴け 幻纏うは数多の声」&「微速前進 安らぎの浜辺へ」&「急速潜航 活路は水底に」复刻": [
       "6111"
     ],
     "例行维护#152": [
@@ -125172,7 +125193,7 @@
     "任务(普通难度)3倍#22": [
       "6061"
     ],
-    "大决战:屋外戦・ゲブラ#2": [
+    "大决战:屋外戦・ゲブラ#1": [
       "6122"
     ],
     "国际服制约解除作战:tiphareth#5": [
@@ -125220,10 +125241,13 @@
     "联合火力演习#55": [
       "6104"
     ],
+    "社团剧情「神秘学研究会(第4宿舍404室)」篇追加": [
+      "6123"
+    ],
     "活动「我らオカルト研究会!~学院の不思議と古の呪文~」复刻": [
       "6119"
     ],
-    "卡池「弦よ、軋め!紡がれるは冥界の旋律!」&卡池「星よ、見て!夢に奔るは魔導の筆!」&「影よ、聴け幻纏うは数多の声」&「微速前進安らぎの浜辺へ」&「急速潜航活路は水底に」复刻": [
+    "卡池「弦よ、軋め!紡がれるは冥界の旋律!」、卡池「星よ、見て!夢に奔るは魔導の筆!」&「影よ、聴け幻纏うは数多の声」&「微速前進安らぎの浜辺へ」&「急速潜航活路は水底に」复刻": [
       "6111"
     ],
     "例行维护#152": [

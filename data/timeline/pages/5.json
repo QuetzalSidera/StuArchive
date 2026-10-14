@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 6073,
+        "line_type": "JP",
+        "title": "市街地戦・ドラム缶ガニ #2",
+        "image": "https://static.kivo.wiki/images/timeline/IBknUs21Ptq2Prm4Tg8aBFrm8uZTc8QU.jpg",
+        "body_summary": "【総力戦・予告】 2026年9月30日(水)11:00より、総力戦「市街地戦・ドラム缶ガニ」が開幕されます！ 突如として鐘崎港に現れたカニの姿を模した巨大怪獣…！ 各部位毎に異なる防御タイプを持つBO",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/2103756544655741426",
+        "start_time": 1790737200,
+        "end_time": 1791316800
+      },
       {
         "id": 6102,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2103378974785118605",
         "start_time": 1790647200,
         "end_time": 1791251999
-      },
-      {
-        "id": 6046,
-        "line_type": "Globle",
-        "title": "国际服活动「A Flower Blooms Among the Hundred: Fair and Square Aquatic Showdown」复刻",
-        "image": "https://static.kivo.wiki/images/timeline/T04M0PohfcBmfuoW7k1XdXgSEJAiTz9b.jpg",
-        "body_summary": "[Event Preview] Sensei, the 'A Flower Blooms Among the Hundred: Fair and Square Aquatic Showdown' ev",
-        "type": "Event",
-        "url": "x.com/EN_BlueArchive/status/2103363880256774502",
-        "start_time": 1790647200,
-        "end_time": 1791251999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791857552,
+  "time": 1791936707,
   "version": "1.0.0-beta.43"
 }

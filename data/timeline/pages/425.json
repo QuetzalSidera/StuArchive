@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2665,
+        "line_type": "JP",
+        "title": "咖啡厅2号店追加 & 家具关联学生出现概率上升",
+        "image": "https://static.kivo.wiki/images/timeline/k7iUMOavBn6LAIYj6sNnCwCfV3jCxskt.jpg",
+        "body_summary": "【新情報④】 10/24(火)のメンテナンス後、「カフェ2号店」と家具「デパートシリーズ」が追加されます。 合計46種類の新家具は、「製造」にて獲得することができます！ カフェの仕様改善も行いましたの",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1715341279855628591",
+        "start_time": 1698141657,
+        "end_time": 1698141657
+      },
       {
         "id": 2666,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1715661703755530592",
         "start_time": 1698112803,
         "end_time": 1698717543
-      },
-      {
-        "id": 1561,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Tsk... How bothersome should we play hooky, sensei?」",
-        "image": "https://static.kivo.wiki/images/timeline/AZrwhyqoZh3gDufF8n9Qx1xdCENujkVQ.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715657928760537194",
-        "start_time": 1698112803,
-        "end_time": 1698717543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791858009,
+  "time": 1791937132,
   "version": "1.0.0-beta.43"
 }

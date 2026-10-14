@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 1577,
+        "line_type": "Globle",
+        "title": "国际服炸服16",
+        "image": "",
+        "body_summary": "[11/2 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 11/2 (Thu). Pl",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1719907161764221201",
+        "start_time": 1698901234,
+        "end_time": 1698904834
+      },
       {
         "id": 1578,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1719265980961247365",
         "start_time": 1698746431,
         "end_time": 1699325971
-      },
-      {
-        "id": 1569,
-        "line_type": "Globle",
-        "title": "国际服卡池「Aris the hero maid edition is here to be with you, Master!」",
-        "image": "https://static.kivo.wiki/images/timeline/a6Bk5tMSyOXYtSrHmZWnXuquRWhxajUg.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/31 (Tue)! Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1718190876197855405",
-        "start_time": 1698746419,
-        "end_time": 1699927219
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791858004,
+  "time": 1791937127,
   "version": "1.0.0-beta.43"
 }

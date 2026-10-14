@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 2029,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Endless Love under a summer Moon」",
+        "image": "https://static.kivo.wiki/images/timeline/Hrh9w5tGoksVhpvF21AYu6hDxqLOlz5U.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 1/23 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1748231313528889803",
+        "start_time": 1705975225,
+        "end_time": 1706579965
+      },
       {
         "id": 2027,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1747906905673183287",
         "start_time": 1705780800,
         "end_time": 1706039999
-      },
-      {
-        "id": 2041,
-        "line_type": "CN",
-        "title": "关于日程笔记第六期的说明",
-        "image": "",
-        "body_summary": "致各位老师： 自日程笔记第六期发布后，我们收到了各位老师的社区反馈，对此十分关注，也思考了该用何种回应才能够较为有效地解答老师的困惑。今晚在与研发方进行了一系列沟通和确认后，对于大家比较在意的半周年期",
-        "type": "Other",
-        "url": "www.bilibili.com/opus/888794858586636296",
-        "start_time": 1705777189,
-        "end_time": 1705777189
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791857972,
+  "time": 1791937094,
   "version": "1.0.0-beta.43"
 }

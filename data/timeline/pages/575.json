@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 953,
+        "line_type": "JP",
+        "title": "社团剧情「C&C」追加",
+        "image": "",
+        "body_summary": "【ストーリー】 ・C&Cグループのストーリー1話を新規追加 ・C&Cグループのストーリー紹介ビジュアルに新規イラスト追加",
+        "type": "OtherStory",
+        "url": "bluearchive.jp/news/newsJump/153",
+        "start_time": 1632916800,
+        "end_time": 1632916800
+      },
       {
         "id": 182,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1439439377558503425",
         "start_time": 1632391200,
         "end_time": 1632671999
-      },
-      {
-        "id": 180,
-        "line_type": "JP",
-        "title": "例行维护24",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/23(木) 12:00 〜 18:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1440556545285058560",
-        "start_time": 1632369600,
-        "end_time": 1632391200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791858173,
+  "time": 1791937281,
   "version": "1.0.0-beta.43"
 }

@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-10-13T00:10:07Z",
+  "generated_at": "2026-10-13T22:18:05Z",
   "list_key": "timeline",
   "id_key": "id",
-  "max_page": 596,
-  "synced_pages": 596,
-  "total_items": 5960,
+  "max_page": 597,
+  "synced_pages": 597,
+  "total_items": 5961,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -74,7 +74,7 @@
     {
       "id": 6122,
       "line_type": "JP",
-      "title": "大决战：屋外戦・ゲブラ #2",
+      "title": "大决战：屋外戦・ゲブラ #1",
       "image": "https://static.kivo.wiki/images/timeline/BMRcpUP5FaViaVLFBBcuhe7HNvDRmljr.jpg",
       "body_summary": "【大決戦予告】 2026年10月14日(水)11:00より、大決戦「屋外戦・ゲブラ」を開催します！ 今回難易度「Torment」に挑戦できる防御タイプは「特殊装甲」と「軽装備」になります。 「ゲブラ」",
       "type": "BigRaid",
@@ -248,6 +248,17 @@
       "end_time": 1791946799
     },
     {
+      "id": 6123,
+      "line_type": "JP",
+      "title": " 社团剧情「神秘学研究会（第4宿舍404室）」篇追加",
+      "image": "https://static.kivo.wiki/images/timeline/qSIkQ68pLfYDbw0DvWFXbSrtGVLCudcv.jpg",
+      "body_summary": "【グループストーリー追加・予告】 2026年10月7日(水)メンテナンス後より、グループストーリー「オカルト研究会(第4寮404号室)」編が追加されます！ 生徒さん達の日常を、ぜひお楽しみください♪ ",
+      "type": "OtherStory",
+      "url": "x.com/Blue_ArchiveJP/status/2106942924785426514",
+      "start_time": 1791363600,
+      "end_time": 1791363600
+    },
+    {
       "id": 6119,
       "line_type": "JP",
       "title": "活动「我らオカルト研究会！ ～学院の不思議と古の呪文～」复刻",
@@ -261,7 +272,7 @@
     {
       "id": 6111,
       "line_type": "JP",
-      "title": "卡池「弦よ、軋め！ 紡がれるは冥界の旋律！」& 卡池「星よ、見て！夢に奔るは魔導の筆！」＆「影よ、聴け 幻纏うは数多の声」＆「微速前進 安らぎの浜辺へ」＆「急速潜航 活路は水底に」复刻",
+      "title": "卡池「弦よ、軋め！ 紡がれるは冥界の旋律！」、卡池「星よ、見て！夢に奔るは魔導の筆！」＆「影よ、聴け 幻纏うは数多の声」＆「微速前進 安らぎの浜辺へ」＆「急速潜航 活路は水底に」复刻",
       "image": "https://static.kivo.wiki/images/timeline/pCtPm3AQEvok0nJqsHPIpe1pSakvBjKa.jpg",
       "body_summary": "【ピックアップ募集・予告】 まもなく、ピックアップ募集「弦よ、軋め！ 紡がれるは冥界の旋律！」ならびに、復刻ピックアップ募集「星よ、見て！夢に奔るは魔導の筆！」＆「影よ、聴け 幻纏うは数多の声」＆「微",
       "type": "Gacha",
@@ -69749,14 +69760,21 @@
       "path": "timeline/pages/596.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/596.json",
       "item_count": 10
+    },
+    {
+      "page": 597,
+      "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=597",
+      "path": "timeline/pages/597.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/597.json",
+      "item_count": 1
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 5950,
-    "normalized_alias_count": 5943,
-    "total_items": 5960
+    "alias_count": 5951,
+    "normalized_alias_count": 5944,
+    "total_items": 5961
   }
 }

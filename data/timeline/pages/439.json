@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 596,
+    "max_page": 597,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 97,
@@ -15,13 +15,24 @@
       "Maintenance": 457,
       "MiniBattle": 217,
       "Other": 730,
-      "OtherStory": 72,
+      "OtherStory": 73,
       "OutsideGames": 913,
       "Raid": 258,
       "Trivia": 29,
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 763,
+        "line_type": "JP",
+        "title": "白子小剧场延期",
+        "image": "",
+        "body_summary": "【ショート動画の延期に関するご報告】 毎週月曜日に投稿しているショート動画「ん、先生、ちょっと時間もらうね」につきまして、制作状況の遅延の為、次回の投稿を延期とさせていただきます。 次回の投稿予定日は",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1700026454149624081",
+        "start_time": 1694156460,
+        "end_time": 1694156460
+      },
       {
         "id": 1666,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1699009297827660244",
         "start_time": 1693900839,
         "end_time": 1693900839
-      },
-      {
-        "id": 1519,
-        "line_type": "Globle",
-        "title": "国际服主线Final. 第四章更新",
-        "image": "https://static.kivo.wiki/images/timeline/Ld05dbNZGfj54u4jPlblYKodc8poDqZE.jpg",
-        "body_summary": "[Main Story and Event Notice] Main Story Final Episode Chapter 4 'The Phrenapates Showdown' begins t",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1698932710876799161",
-        "start_time": 1693900813,
-        "end_time": 1693900813
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1791858024,
+  "time": 1791937146,
   "version": "1.0.0-beta.43"
 }
