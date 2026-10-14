@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-10-13T22:18:05Z",
+  "generated_at": "2026-10-14T21:17:51Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 2005,
-  "alias_count": 1973,
-  "normalized_alias_count": 1973,
+  "total_items": 2011,
+  "alias_count": 1979,
+  "normalized_alias_count": 1979,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -12583,6 +12583,21 @@
       "detail_path": "items/270.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/270.json"
     },
+    "2085": {
+      "id": 2085,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2085,
+        "name": "AX26纪念卡",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/XYpWEAuzp8H5w4NDQjaFmQaGGCeZP2bP.png",
+        "rarity": 3,
+        "description": "可通过AX26获得的限定纪念卡周边。脑海中浮现出那段热闹又愉快的时光。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
+      },
+      "detail_path": "items/2085.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2085.json"
+    },
     "128": {
       "id": 128,
       "source_path": "items/index.json",
@@ -12642,6 +12657,21 @@
       },
       "detail_path": "items/74.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/74.json"
+    },
+    "2082": {
+      "id": 2082,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2082,
+        "name": "CuteBoy纪念卡",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/6KvPuWNhwflLTqARHXs0BBd2VpGK7XZF.png",
+        "rarity": 3,
+        "description": "CuteBoy限定赠送的纪念卡周边。若你正在寻找兼具舒适感与潮流设计的单品，绝对不能错过。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
+      },
+      "detail_path": "items/2082.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2082.json"
     },
     "1456": {
       "id": 1456,
@@ -12732,6 +12762,21 @@
       },
       "detail_path": "items/1461.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1461.json"
+    },
+    "2083": {
+      "id": 2083,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2083,
+        "name": "LOTTE CINEMA纪念套餐",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/aoYqF3kUrY7hTPyyElwSEjUpNgFh3wPW.png",
+        "rarity": 3,
+        "description": "在LOTTE CINEMA限定获得的套餐组合。感觉会是一段崭新又愉快的时光。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
+      },
+      "detail_path": "items/2083.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2083.json"
     },
     "1459": {
       "id": 1459,
@@ -12852,6 +12897,21 @@
       },
       "detail_path": "items/1462.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1462.json"
+    },
+    "2084": {
+      "id": 2084,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2084,
+        "name": "Picnic纪念甜美饮品",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/suDO9q0XLzBgbCybAyhfMWFi9tuA3YQg.png",
+        "rarity": 3,
+        "description": "适合在下课后与好友一同分享的甜美饮品。能将平凡的放学时光，转化为特别的瞬间。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
+      },
+      "detail_path": "items/2084.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2084.json"
     },
     "1662": {
       "id": 1662,
@@ -13002,6 +13062,21 @@
       },
       "detail_path": "items/52.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/52.json"
+    },
+    "2086": {
+      "id": 2086,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2086,
+        "name": "大韩红十字会Nanumi纪念卡",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/A7RzQQrOO7D2hg4oKC7yKm6h6pqXTevw.png",
+        "rarity": 3,
+        "description": "大韩红十字会限定赠送的纪念卡周边。即便只是微小的帮助，只要凝聚起来也足以改变世界。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
+      },
+      "detail_path": "items/2086.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2086.json"
     },
     "1675": {
       "id": 1675,
@@ -13512,6 +13587,21 @@
       },
       "detail_path": "items/150.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/150.json"
+    },
+    "2087": {
+      "id": 2087,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2087,
+        "name": "隐秘音轨 三周年演唱会纪念票",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/tgHTZ9XG2UGuZOk10hMWPqIwyQhjHoon.png",
+        "rarity": 3,
+        "description": "老师！谢谢你来看演唱会！<br>（赠予任意学生时 ＋60 好感经验。）<br>（国服限定礼物）"
+      },
+      "detail_path": "items/2087.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2087.json"
     },
     "17": {
       "id": 17,
@@ -32540,6 +32630,9 @@
     "APOD PRO": [
       "270"
     ],
+    "AX26纪念卡": [
+      "2085"
+    ],
     "A~BOOK RARE": [
       "128"
     ],
@@ -32551,6 +32644,9 @@
     ],
     "COSPLAY用的圈圈眼镜": [
       "74"
+    ],
+    "CuteBoy纪念卡": [
+      "2082"
     ],
     "Dal.Komm Coffee纪念卡": [
       "1456"
@@ -32569,6 +32665,9 @@
     ],
     "GS25纪念卡": [
       "1461"
+    ],
+    "LOTTE CINEMA纪念套餐": [
+      "2083"
     ],
     "MOM's TOUCH纪念卡": [
       "1459"
@@ -32593,6 +32692,9 @@
     ],
     "Papa Johns纪念卡": [
       "1462"
+    ],
+    "Picnic纪念甜美饮品": [
+      "2084"
     ],
     "Sound Archive纪念票": [
       "1662"
@@ -32623,6 +32725,9 @@
     ],
     "刺绣手帕": [
       "52"
+    ],
+    "大韩红十字会Nanumi纪念卡": [
+      "2086"
     ],
     "大韩红十字会纪念卡": [
       "1675"
@@ -32725,6 +32830,9 @@
     ],
     "音乐演奏会门票": [
       "150"
+    ],
+    "隐秘音轨 三周年演唱会纪念票": [
+      "2087"
     ],
     "樱桃玫瑰唇彩": [
       "17"
@@ -38493,6 +38601,9 @@
     "apodpro": [
       "270"
     ],
+    "ax26纪念卡": [
+      "2085"
+    ],
     "a~bookrare": [
       "128"
     ],
@@ -38504,6 +38615,9 @@
     ],
     "cosplay用的圈圈眼镜": [
       "74"
+    ],
+    "cuteboy纪念卡": [
+      "2082"
     ],
     "dal.kommcoffee纪念卡": [
       "1456"
@@ -38522,6 +38636,9 @@
     ],
     "gs25纪念卡": [
       "1461"
+    ],
+    "lottecinema纪念套餐": [
+      "2083"
     ],
     "mom'stouch纪念卡": [
       "1459"
@@ -38546,6 +38663,9 @@
     ],
     "papajohns纪念卡": [
       "1462"
+    ],
+    "picnic纪念甜美饮品": [
+      "2084"
     ],
     "soundarchive纪念票": [
       "1662"
@@ -38576,6 +38696,9 @@
     ],
     "刺绣手帕": [
       "52"
+    ],
+    "大韩红十字会nanumi纪念卡": [
+      "2086"
     ],
     "大韩红十字会纪念卡": [
       "1675"
@@ -38678,6 +38801,9 @@
     ],
     "音乐演奏会门票": [
       "150"
+    ],
+    "隐秘音轨三周年演唱会纪念票": [
+      "2087"
     ],
     "樱桃玫瑰唇彩": [
       "17"
