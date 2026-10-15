@@ -9,7 +9,7 @@
       "ContentImprovements": 434,
       "Double": 992,
       "Event": 538,
-      "Gacha": 853,
+      "Gacha": 854,
       "Live": 89,
       "MainStory": 133,
       "Maintenance": 457,
@@ -22,6 +22,17 @@
       "WebEvent": 134
     },
     "timeline": [
+      {
+        "id": 61,
+        "line_type": "JP",
+        "title": "违规账号封禁1",
+        "image": "",
+        "body_summary": "【不正行為に関して】 現在総力戦において、データの改竄等を使用し不正に順位を上げる行為を確認したため、調査を行っております。 上記に該当するユーザーに関しましては確認次第アカウント停止措置を行います。",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1361181014240935936",
+        "start_time": 1613383139,
+        "end_time": 1613383139
+      },
       {
         "id": 52,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1359034384578322432",
         "start_time": 1612897200,
         "end_time": 1612904400
-      },
-      {
-        "id": 28,
-        "line_type": "JP",
-        "title": "炸服4",
-        "image": "",
-        "body_summary": "【緊急メンテナンス】 現在ログインに関わる不具合が確認されたため、本日15:15〜17:00の間、緊急メンテナンスを行わせていただきます。 進展がございましたらあらためてご案内いたします。 ご不便をお",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1358295328047337473",
-        "start_time": 1612682100,
-        "end_time": 1612713599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1792019673,
+  "time": 1792104797,
   "version": "1.0.0-beta.43"
 }
