@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-10-15T20:57:11Z",
+  "generated_at": "2026-10-16T20:31:45Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 84,
-  "alias_count": 84,
-  "normalized_alias_count": 84,
+  "total_items": 85,
+  "alias_count": 85,
+  "normalized_alias_count": 85,
   "by_id": {
+    "152": {
+      "id": 152,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 152,
+        "title": "[广告] 江赴蔚蓝·武汉蔚蓝档案only - 12月26日",
+        "image": "https://static.kivo.wiki/images/news/nOB72r8AmVpf3N5kFCbuiLqTTYFUltMR.jpg",
+        "url": ""
+      },
+      "detail_path": "news/152.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/152.json"
+    },
     "151": {
       "id": 151,
       "source_path": "news/index.json",
@@ -1107,6 +1120,9 @@
     }
   },
   "by_alias": {
+    "[广告] 江赴蔚蓝·武汉蔚蓝档案only - 12月26日": [
+      "152"
+    ],
     "[官方] BA也要有自己的咕咕嘎嘎": [
       "151"
     ],
@@ -1361,6 +1377,9 @@
     ]
   },
   "by_normalized_alias": {
+    "[广告]江赴蔚蓝·武汉蔚蓝档案only-12月26日": [
+      "152"
+    ],
     "[官方]ba也要有自己的咕咕嘎嘎": [
       "151"
     ],

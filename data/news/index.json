@@ -7,15 +7,21 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-10-15T20:57:11Z",
+  "generated_at": "2026-10-16T20:31:45Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 84,
-  "details_synced": 84,
+  "total_items": 85,
+  "details_synced": 85,
   "details_enabled": true,
   "items": [
+    {
+      "id": 152,
+      "title": "[广告] 江赴蔚蓝·武汉蔚蓝档案only - 12月26日",
+      "image": "https://static.kivo.wiki/images/news/nOB72r8AmVpf3N5kFCbuiLqTTYFUltMR.jpg",
+      "url": ""
+    },
     {
       "id": 151,
       "title": "[官方] BA也要有自己的咕咕嘎嘎",
@@ -583,10 +589,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 4
+      "item_count": 5
     }
   ],
   "details": [
+    {
+      "id": 152,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/152",
+      "path": "news/152.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/152.json"
+    },
     {
       "id": 151,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/151",
@@ -1095,8 +1107,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 84,
-    "normalized_alias_count": 84,
-    "total_items": 84
+    "alias_count": 85,
+    "normalized_alias_count": 85,
+    "total_items": 85
   }
 }

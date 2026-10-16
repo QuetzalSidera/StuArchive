@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-10-15T20:57:11Z",
+  "generated_at": "2026-10-16T20:31:45Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 2011,
-  "alias_count": 1979,
-  "normalized_alias_count": 1979,
+  "total_items": 2013,
+  "alias_count": 1981,
+  "normalized_alias_count": 1981,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -12592,7 +12592,7 @@
         "name": "AX26纪念卡",
         "type": "gift",
         "icon": "https://static.kivo.wiki/images/item/icon/XYpWEAuzp8H5w4NDQjaFmQaGGCeZP2bP.png",
-        "rarity": 3,
+        "rarity": 4,
         "description": "可通过AX26获得的限定纪念卡周边。脑海中浮现出那段热闹又愉快的时光。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
       },
       "detail_path": "items/2085.json",
@@ -12667,7 +12667,7 @@
         "name": "CuteBoy纪念卡",
         "type": "gift",
         "icon": "https://static.kivo.wiki/images/item/icon/6KvPuWNhwflLTqARHXs0BBd2VpGK7XZF.png",
-        "rarity": 3,
+        "rarity": 4,
         "description": "CuteBoy限定赠送的纪念卡周边。若你正在寻找兼具舒适感与潮流设计的单品，绝对不能错过。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
       },
       "detail_path": "items/2082.json",
@@ -12772,7 +12772,7 @@
         "name": "LOTTE CINEMA纪念套餐",
         "type": "gift",
         "icon": "https://static.kivo.wiki/images/item/icon/aoYqF3kUrY7hTPyyElwSEjUpNgFh3wPW.png",
-        "rarity": 3,
+        "rarity": 4,
         "description": "在LOTTE CINEMA限定获得的套餐组合。感觉会是一段崭新又愉快的时光。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
       },
       "detail_path": "items/2083.json",
@@ -12907,7 +12907,7 @@
         "name": "Picnic纪念甜美饮品",
         "type": "gift",
         "icon": "https://static.kivo.wiki/images/item/icon/suDO9q0XLzBgbCybAyhfMWFi9tuA3YQg.png",
-        "rarity": 3,
+        "rarity": 4,
         "description": "适合在下课后与好友一同分享的甜美饮品。能将平凡的放学时光，转化为特别的瞬间。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
       },
       "detail_path": "items/2084.json",
@@ -13072,7 +13072,7 @@
         "name": "大韩红十字会Nanumi纪念卡",
         "type": "gift",
         "icon": "https://static.kivo.wiki/images/item/icon/A7RzQQrOO7D2hg4oKC7yKm6h6pqXTevw.png",
-        "rarity": 3,
+        "rarity": 4,
         "description": "大韩红十字会限定赠送的纪念卡周边。即便只是微小的帮助，只要凝聚起来也足以改变世界。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国际服限定礼物）"
       },
       "detail_path": "items/2086.json",
@@ -13302,6 +13302,21 @@
       },
       "detail_path": "items/88.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/88.json"
+    },
+    "2089": {
+      "id": 2089,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2089,
+        "name": "乐事马铃薯片经典原味",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/nJcvDp3EssO9chkWeqDl0jNjkZ17JnLq.png",
+        "rarity": 4,
+        "description": "打开一包乐事薯片，周围总会聚集很多人，堪称聚会必备。<br>（赠予任意学生时 ＋60 好感经验。）<br>（国服限定礼物）"
+      },
+      "detail_path": "items/2089.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2089.json"
     },
     "1271": {
       "id": 1271,
@@ -13558,6 +13573,21 @@
       "detail_path": "items/1457.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1457.json"
     },
+    "2088": {
+      "id": 2088,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2088,
+        "name": "徐福记联动月饼",
+        "type": "gift",
+        "icon": "https://static.kivo.wiki/images/item/icon/jvbCkUboHM9ajEc0TKnXzERwyepyc2iN.png",
+        "rarity": 4,
+        "description": "这么可爱的月饼，还是收藏起来吧！<br>（赠予任意学生时 ＋60 好感经验。）<br>（国服限定礼物）"
+      },
+      "detail_path": "items/2088.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2088.json"
+    },
     "156": {
       "id": 156,
       "source_path": "items/index.json",
@@ -13597,7 +13627,7 @@
         "name": "隐秘音轨 三周年演唱会纪念票",
         "type": "gift",
         "icon": "https://static.kivo.wiki/images/item/icon/tgHTZ9XG2UGuZOk10hMWPqIwyQhjHoon.png",
-        "rarity": 3,
+        "rarity": 4,
         "description": "老师！谢谢你来看演唱会！<br>（赠予任意学生时 ＋60 好感经验。）<br>（国服限定礼物）"
       },
       "detail_path": "items/2087.json",
@@ -32774,6 +32804,9 @@
     "可爱器皿组合": [
       "88"
     ],
+    "乐事马铃薯片经典原味": [
+      "2089"
+    ],
     "雷蛇北海巨妖萌猫V2耳机": [
       "1271"
     ],
@@ -32824,6 +32857,9 @@
     ],
     "现代百货PEER纪念卡": [
       "1457"
+    ],
+    "徐福记联动月饼": [
+      "2088"
     ],
     "一天三次哑铃组合": [
       "156"
@@ -38745,6 +38781,9 @@
     "可爱器皿组合": [
       "88"
     ],
+    "乐事马铃薯片经典原味": [
+      "2089"
+    ],
     "雷蛇北海巨妖萌猫v2耳机": [
       "1271"
     ],
@@ -38795,6 +38834,9 @@
     ],
     "现代百货peer纪念卡": [
       "1457"
+    ],
+    "徐福记联动月饼": [
+      "2088"
     ],
     "一天三次哑铃组合": [
       "156"
