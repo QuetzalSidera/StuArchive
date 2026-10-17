@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-10-16T20:31:45Z",
+  "generated_at": "2026-10-17T20:09:13Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 101,
   "synced_pages": 101,
-  "total_items": 1001,
-  "details_synced": 1001,
+  "total_items": 1002,
+  "details_synced": 1002,
   "details_enabled": true,
   "items": [
     {
@@ -9024,6 +9024,15 @@
       "album": "",
       "use": "其他 - 国服3周年用曲",
       "original_file_name": ""
+    },
+    {
+      "id": 1021,
+      "title": "彩色画布",
+      "cover": "https://static.kivo.wiki/images/music/cover/KwKejnrm1jd1wyLzzy5ctGuOzJ3J2tHr.webp",
+      "author": "SUGAR RUSH / Mitsukiyo",
+      "album": "彩色画布",
+      "use": "专辑曲目",
+      "original_file_name": ""
     }
   ],
   "pages": [
@@ -9732,7 +9741,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=101",
       "path": "musics/pages/101.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/101.json",
-      "item_count": 1
+      "item_count": 2
     }
   ],
   "details": [
@@ -15741,13 +15750,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1020",
       "path": "musics/1020.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1020.json"
+    },
+    {
+      "id": 1021,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1021",
+      "path": "musics/1021.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1021.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1316,
-    "normalized_alias_count": 1316,
-    "total_items": 1001
+    "alias_count": 1317,
+    "normalized_alias_count": 1317,
+    "total_items": 1002
   }
 }

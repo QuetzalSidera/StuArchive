@@ -7,7 +7,7 @@
     "api_path": "/walkthroughs/",
     "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/"
   },
-  "generated_at": "2026-10-16T20:31:45Z",
+  "generated_at": "2026-10-17T20:09:13Z",
   "list_key": "walkthrough",
   "id_key": "id",
   "max_page": 11,
@@ -197,7 +197,7 @@
       },
       "title": "随心配",
       "server": "China",
-      "game_mode": "Universal",
+      "game_mode": "Other",
       "enemy_defensive_attributes": "Light",
       "level_terrain": "Outdoor",
       "introduce_summary": "",
@@ -291,6 +291,50 @@
               "max_hp_talent_level": 0,
               "attack_talent_level": 0,
               "healing_talent_level": 0
+            },
+            {
+              "student_id": 98,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 97,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
             }
           ],
           "initial_skills": [],
@@ -302,7 +346,7 @@
       "state": 0,
       "favorite_num": 1,
       "created_at": 1791216648,
-      "updated_at": 1791377290
+      "updated_at": 1792214146
     },
     {
       "id": 139,
@@ -751,7 +795,7 @@
       "reference_score": 0,
       "is_favorite": false,
       "state": 0,
-      "favorite_num": 0,
+      "favorite_num": 1,
       "created_at": 1788534990,
       "updated_at": 1788536778
     },
@@ -934,7 +978,7 @@
       "reference_score": 0,
       "is_favorite": false,
       "state": 0,
-      "favorite_num": 2,
+      "favorite_num": 3,
       "created_at": 1786457322,
       "updated_at": 1786883095
     },

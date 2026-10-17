@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-10-16T20:31:45Z",
+  "generated_at": "2026-10-17T20:09:13Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1001,
-  "alias_count": 1316,
-  "normalized_alias_count": 1316,
+  "total_items": 1002,
+  "alias_count": 1317,
+  "normalized_alias_count": 1317,
   "by_id": {
     "1": {
       "id": 1,
@@ -16028,6 +16028,22 @@
       },
       "detail_path": "musics/1020.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1020.json"
+    },
+    "1021": {
+      "id": 1021,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1021,
+        "title": "彩色画布",
+        "cover": "https://static.kivo.wiki/images/music/cover/KwKejnrm1jd1wyLzzy5ctGuOzJ3J2tHr.webp",
+        "author": "SUGAR RUSH / Mitsukiyo",
+        "album": "彩色画布",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1021.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1021.json"
     }
   },
   "by_alias": {
@@ -19979,6 +19995,9 @@
     ],
     "全速向光(安雪璃 x Sakula小舞)": [
       "1020"
+    ],
+    "彩色画布": [
+      "1021"
     ]
   },
   "by_normalized_alias": {
@@ -23930,6 +23949,9 @@
     ],
     "全速向光(安雪璃xsakula小舞)": [
       "1020"
+    ],
+    "彩色画布": [
+      "1021"
     ]
   }
 }
