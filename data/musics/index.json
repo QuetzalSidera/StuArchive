@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-10-20T21:16:21Z",
+  "generated_at": "2026-10-21T21:16:24Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 101,
   "synced_pages": 101,
-  "total_items": 1002,
-  "details_synced": 1002,
+  "total_items": 1003,
+  "details_synced": 1003,
   "details_enabled": true,
   "items": [
     {
@@ -9033,6 +9033,15 @@
       "album": "彩色画布",
       "use": "专辑曲目",
       "original_file_name": ""
+    },
+    {
+      "id": 1022,
+      "title": "Theme_376",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_376"
     }
   ],
   "pages": [
@@ -9741,7 +9750,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=101",
       "path": "musics/pages/101.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/101.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [
@@ -15756,13 +15765,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1021",
       "path": "musics/1021.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1021.json"
+    },
+    {
+      "id": 1022,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1022",
+      "path": "musics/1022.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1022.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1317,
-    "normalized_alias_count": 1317,
-    "total_items": 1002
+    "alias_count": 1318,
+    "normalized_alias_count": 1318,
+    "total_items": 1003
   }
 }

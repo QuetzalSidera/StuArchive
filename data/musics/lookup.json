@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-10-20T21:16:21Z",
+  "generated_at": "2026-10-21T21:16:24Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1002,
-  "alias_count": 1317,
-  "normalized_alias_count": 1317,
+  "total_items": 1003,
+  "alias_count": 1318,
+  "normalized_alias_count": 1318,
   "by_id": {
     "1": {
       "id": 1,
@@ -16044,6 +16044,22 @@
       },
       "detail_path": "musics/1021.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1021.json"
+    },
+    "1022": {
+      "id": 1022,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1022,
+        "title": "Theme_376",
+        "cover": "",
+        "author": "",
+        "album": "游戏内曲目",
+        "use": "",
+        "original_file_name": "Theme_376"
+      },
+      "detail_path": "musics/1022.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1022.json"
     }
   },
   "by_alias": {
@@ -19998,6 +20014,9 @@
     ],
     "彩色画布": [
       "1021"
+    ],
+    "Theme_376": [
+      "1022"
     ]
   },
   "by_normalized_alias": {
@@ -23952,6 +23971,9 @@
     ],
     "彩色画布": [
       "1021"
+    ],
+    "theme_376": [
+      "1022"
     ]
   }
 }

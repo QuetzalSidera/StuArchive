@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-10-20T21:16:21Z",
+  "generated_at": "2026-10-21T21:16:24Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1794,
-  "alias_count": 1791,
-  "normalized_alias_count": 1791,
+  "total_items": 1796,
+  "alias_count": 1793,
+  "normalized_alias_count": 1793,
   "by_id": {
     "1": {
       "id": 1,
@@ -23334,6 +23334,32 @@
       },
       "detail_path": "spines/1914.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1914.json"
+    },
+    "1915": {
+      "id": 1915,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1915,
+        "name": "NP0306_spr",
+        "remark": "乘务员",
+        "type": "spr"
+      },
+      "detail_path": "spines/1915.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1915.json"
+    },
+    "1916": {
+      "id": 1916,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1916,
+        "name": "NP0307_spr",
+        "remark": "乘务员",
+        "type": "spr"
+      },
+      "detail_path": "spines/1916.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1916.json"
     }
   },
   "by_alias": {
@@ -28712,6 +28738,12 @@
     ],
     "CH0252_spr_new": [
       "1914"
+    ],
+    "NP0306_spr": [
+      "1915"
+    ],
+    "NP0307_spr": [
+      "1916"
     ]
   },
   "by_normalized_alias": {
@@ -34090,6 +34122,12 @@
     ],
     "ch0252_spr_new": [
       "1914"
+    ],
+    "np0306_spr": [
+      "1915"
+    ],
+    "np0307_spr": [
+      "1916"
     ]
   }
 }
