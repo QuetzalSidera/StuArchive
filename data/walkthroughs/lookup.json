@@ -2,17 +2,185 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-10-23T21:00:52Z",
+  "generated_at": "2026-10-24T20:15:23Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 104,
-  "alias_count": 104,
-  "normalized_alias_count": 104,
+  "total_items": 105,
+  "alias_count": 105,
+  "normalized_alias_count": 105,
   "by_id": {
+    "142": {
+      "id": 142,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 142,
+        "user": {
+          "id": 29796,
+          "user_name": "12251225",
+          "introduction": "",
+          "avatar": "https://static.kivo.wiki/images/avatar/default_avatar.png"
+        },
+        "title": "速刷",
+        "server": "Japan",
+        "game_mode": "Event",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "活动关卡速刷",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 90,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 177,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 42,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 300,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 58,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 25,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [],
+            "timeline": []
+          }
+        ],
+        "reference_score": 1,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1792837522,
+        "updated_at": 1792837522
+      },
+      "detail_path": "walkthroughs/142.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/142.json"
+    },
     "141": {
       "id": 141,
       "source_path": "walkthroughs/index.json",
@@ -184,7 +352,7 @@
         "reference_score": 277,
         "is_favorite": false,
         "state": 1,
-        "favorite_num": 0,
+        "favorite_num": 1,
         "created_at": 1791731601,
         "updated_at": 1791731601
       },
@@ -27739,6 +27907,9 @@
     }
   },
   "by_alias": {
+    "速刷": [
+      "142"
+    ],
     "养老": [
       "141"
     ],
@@ -28053,6 +28224,9 @@
     ]
   },
   "by_normalized_alias": {
+    "速刷": [
+      "142"
+    ],
     "养老": [
       "141"
     ],
