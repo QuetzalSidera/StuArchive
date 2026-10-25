@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-10-24T20:15:23Z",
+  "generated_at": "2026-10-25T20:23:51Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 1003,
-  "alias_count": 1318,
-  "normalized_alias_count": 1318,
+  "alias_count": 1324,
+  "normalized_alias_count": 1324,
   "by_id": {
     "1": {
       "id": 1,
@@ -11539,7 +11539,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 738,
-        "title": "Theme_299",
+        "title": "Driving 2 U",
         "cover": "https://static.kivo.wiki/images/music/cover/uYHm0a1M3DYjt1rDVGGVQi4qGftic5HK.jpg",
         "author": "KARUT",
         "album": "游戏内曲目",
@@ -11555,9 +11555,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 739,
-        "title": "Theme_300",
+        "title": "Floating Floatie",
         "cover": "https://static.kivo.wiki/images/music/cover/sOoOjVglN068uBLHmBzPEP4U7CZHwRTU.png",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_300"
@@ -12085,7 +12085,7 @@
         "id": 774,
         "title": "Theme_332",
         "cover": "https://static.kivo.wiki/images/music/cover/wIs3Yz5QJlLgshhr0rvGvLGurVn8cXz6.png",
-        "author": "",
+        "author": "Mitsukiyo",
         "album": "游戏内曲目",
         "use": "耶索德",
         "original_file_name": "Theme_332"
@@ -12101,7 +12101,7 @@
         "id": 775,
         "title": "Theme_333",
         "cover": "https://static.kivo.wiki/images/music/cover/qTYqUTIxeRXJhjeC5srQNyk9pJlSoUJk.jpg",
-        "author": "",
+        "author": "Mitsukiyo",
         "album": "游戏内曲目",
         "use": "耶索德",
         "original_file_name": "Theme_333"
@@ -13571,7 +13571,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 867,
-        "title": "Theme_341",
+        "title": "Distant Star",
         "cover": "https://static.kivo.wiki/images/music/cover/ubbBAiYsMwNbD0E32q3wdRCtYoHwyNug.png",
         "author": "EmoCosine",
         "album": "游戏内曲目",
@@ -13587,9 +13587,9 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 868,
-        "title": "Theme_342",
+        "title": "Toki no Nagare",
         "cover": "https://static.kivo.wiki/images/music/cover/ymp42DAa9vGFyK57eBrB9Lk9iWWlZEK7.png",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_342"
@@ -14259,7 +14259,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 910,
-        "title": "Theme_322",
+        "title": "Jimejime Sururu",
         "cover": "https://static.kivo.wiki/images/music/cover/3eEUjSvhesfr0vE1l4YpiZSC4ysm6KFA.png",
         "author": "",
         "album": "游戏内曲目",
@@ -15955,7 +15955,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 1016,
-        "title": "Theme_375",
+        "title": "PRST Marching (Ponkotsu Arrange)",
         "cover": "",
         "author": "KARUT",
         "album": "游戏内曲目",
@@ -15973,7 +15973,7 @@
         "id": 1017,
         "title": "Theme_369",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_369"
@@ -15989,7 +15989,7 @@
         "id": 1018,
         "title": "Theme_369_Lobby",
         "cover": "",
-        "author": "",
+        "author": "KARUT",
         "album": "游戏内曲目",
         "use": "",
         "original_file_name": "Theme_369_Lobby"
@@ -19067,8 +19067,14 @@
     "Theme_298": [
       "737"
     ],
+    "Driving 2 U": [
+      "738"
+    ],
     "Theme_299": [
       "738"
+    ],
+    "Floating Floatie": [
+      "739"
     ],
     "Theme_300": [
       "739"
@@ -19499,8 +19505,14 @@
     "Theme_340": [
       "866"
     ],
+    "Distant Star": [
+      "867"
+    ],
     "Theme_341": [
       "867"
+    ],
+    "Toki no Nagare": [
+      "868"
     ],
     "Theme_342": [
       "868"
@@ -19645,6 +19657,9 @@
     ],
     "Theme_321": [
       "909"
+    ],
+    "Jimejime Sururu": [
+      "910"
     ],
     "Theme_322": [
       "910"
@@ -19996,6 +20011,9 @@
     ],
     "Theme_377": [
       "1015"
+    ],
+    "PRST Marching (Ponkotsu Arrange)": [
+      "1016"
     ],
     "Theme_375": [
       "1016"
@@ -23024,8 +23042,14 @@
     "theme_298": [
       "737"
     ],
+    "driving2u": [
+      "738"
+    ],
     "theme_299": [
       "738"
+    ],
+    "floatingfloatie": [
+      "739"
     ],
     "theme_300": [
       "739"
@@ -23456,8 +23480,14 @@
     "theme_340": [
       "866"
     ],
+    "distantstar": [
+      "867"
+    ],
     "theme_341": [
       "867"
+    ],
+    "tokinonagare": [
+      "868"
     ],
     "theme_342": [
       "868"
@@ -23602,6 +23632,9 @@
     ],
     "theme_321": [
       "909"
+    ],
+    "jimejimesururu": [
+      "910"
     ],
     "theme_322": [
       "910"
@@ -23953,6 +23986,9 @@
     ],
     "theme_377": [
       "1015"
+    ],
+    "prstmarching(ponkotsuarrange)": [
+      "1016"
     ],
     "theme_375": [
       "1016"

@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 51,
+    "max_page": 52,
     "students": [
+      {
+        "id": 122,
+        "skin": "泳装",
+        "skin_jp": "水着",
+        "skin_cn": "泳装",
+        "skin_zh_tw": "泳裝",
+        "family_name": "银镜",
+        "given_name": "伊织",
+        "family_name_jp": "銀鏡",
+        "given_name_jp": "イオリ",
+        "family_name_cn": "银镜",
+        "given_name_cn": "伊织",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%93%B6%E9%95%9C%20%E4%BC%8A%E7%BB%87/%E6%B3%B3%E8%A3%85/avatar.png",
+        "school": 3,
+        "main_relation": 25
+      },
+      {
+        "id": 176,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "鬼方",
+        "given_name": "佳代子",
+        "family_name_jp": "鬼方",
+        "given_name_jp": "カヨコ",
+        "family_name_cn": "鬼方",
+        "given_name_cn": "佳代子",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%96%B9%20%E4%BD%B3%E4%BB%A3%E5%AD%90/avatar.png",
+        "school": 3,
+        "main_relation": 28
+      },
       {
         "id": 123,
         "skin": "正月",
@@ -131,43 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/avatar.png",
         "school": 3,
         "main_relation": 30
-      },
-      {
-        "id": 547,
-        "skin": "泳装",
-        "skin_jp": "水着",
-        "skin_cn": "泳装",
-        "skin_zh_tw": "泳裝",
-        "family_name": "下仓",
-        "given_name": "惠",
-        "family_name_jp": "下倉",
-        "given_name_jp": "メグ",
-        "family_name_cn": "下仓",
-        "given_name_cn": "惠",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%B8%8B%E4%BB%93%20%E6%83%A0/%E6%B3%B3%E8%A3%85/2.png",
-        "school": 3,
-        "main_relation": 30
-      },
-      {
-        "id": 618,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "五十岚",
-        "given_name": "憧子",
-        "family_name_jp": "五十嵐",
-        "given_name_jp": "ショウコ",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20CH0364/original/CH0364.png",
-        "school": 3,
-        "main_relation": 154
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1792873112,
+  "time": 1792959914,
   "version": "1.0.0-beta.43"
 }

@@ -2,17 +2,125 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-10-24T20:15:23Z",
+  "generated_at": "2026-10-25T20:23:51Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 5985,
-  "alias_count": 5974,
-  "normalized_alias_count": 5967,
+  "total_items": 6024,
+  "alias_count": 6013,
+  "normalized_alias_count": 6006,
   "by_id": {
+    "6180": {
+      "id": 6180,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6180,
+        "line_type": "JP",
+        "title": "迷你剧情「183 VS 227」追加",
+        "image": "https://static.kivo.wiki/images/timeline/teHAieZyQIl2mge4nNNoZa9SxyguEsC5.jpg",
+        "body_summary": "【新情報⑭】 11月18日(水) 11:00より、ミニストーリーに「183 VS 227」が追加されます！ 生徒さんたちの活躍をぜひお楽しみに♪ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/2114323207125860795",
+        "start_time": 1794970800,
+        "end_time": 1794970800
+      },
+      "detail_path": "timeline/6180.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6180.json"
+    },
+    "6172": {
+      "id": 6172,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6172,
+        "line_type": "JP",
+        "title": "特別依頼2倍#72",
+        "image": "https://static.kivo.wiki/images/timeline/12NU0ul6olxACceoeZ15Iif6JoepJeBG.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1794945600,
+        "end_time": 1795550399
+      },
+      "detail_path": "timeline/6172.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6172.json"
+    },
+    "6178": {
+      "id": 6178,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6178,
+        "line_type": "JP",
+        "title": "联合火力演习#56",
+        "image": "https://static.kivo.wiki/images/timeline/trmguuzmPK97jt2CYmXQMnUiU4JKngmv.jpg",
+        "body_summary": "【新情報⑫】 11月11日(水)メンテナンス後より、合同火力演習「防御演習」が開催されます！ 地形：屋内戦 防御タイプ：軽装備 ▼開催期間 2026年11月11日(水) メンテナンス後 ~ 11月18",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2114321858174816437",
+        "start_time": 1794366000,
+        "end_time": 1794945599
+      },
+      "detail_path": "timeline/6178.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6178.json"
+    },
+    "6177": {
+      "id": 6177,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6177,
+        "line_type": "JP",
+        "title": "战术对抗赛S12开幕",
+        "image": "https://static.kivo.wiki/images/timeline/ZYlmONIbrFwoaum9y5z6izwLb3tAuVB2.jpg",
+        "body_summary": "【新情報⑪】 11月11日(水)メンテナンス後より、戦術対抗戦の新シーズンが開幕します！ それに伴い、ランキングリセットとグループシャッフルが行われます。 先生、新シーズンに向けた準備をお忘れなく！ ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2114319464917557709",
+        "start_time": 1794366000,
+        "end_time": 1794366000
+      },
+      "detail_path": "timeline/6177.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6177.json"
+    },
+    "6171": {
+      "id": 6171,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6171,
+        "line_type": "JP",
+        "title": "课程表2倍#46 & 学院交流会2倍#46",
+        "image": "https://static.kivo.wiki/images/timeline/v0NWBU0ETy4LojEs0oB6ajefw7zbESgh.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1794340800,
+        "end_time": 1794945599
+      },
+      "detail_path": "timeline/6171.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6171.json"
+    },
+    "6170": {
+      "id": 6170,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6170,
+        "line_type": "JP",
+        "title": "任务hard2倍#59",
+        "image": "https://static.kivo.wiki/images/timeline/a1E1ayZO1hdAsrThW9bov0nmsOkFXFhr.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1794081600,
+        "end_time": 1794340799
+      },
+      "detail_path": "timeline/6170.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6170.json"
+    },
     "6099": {
       "id": 6099,
       "source_path": "timeline/index.json",
@@ -31,6 +139,78 @@
       "detail_path": "timeline/6099.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6099.json"
     },
+    "6181": {
+      "id": 6181,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6181,
+        "line_type": "JP",
+        "title": "市街地戦・悪夢急行-ナイトメアトレイン-#1",
+        "image": "https://static.kivo.wiki/images/timeline/dFClZEZz2AzsEaBqTgcHtaHPHg8DBNLJ.jpg",
+        "body_summary": "【新情報⑮】 新総力戦「悪夢急行-ナイトメアトレイン-」の開催が決定しました！ 地形は第1フェーズが屋内戦、第2フェーズが市街地戦！ 防御タイプは軽装備、Insane、Torment、Lunaticの",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/2114324777171312665",
+        "start_time": 1793761200,
+        "end_time": 1794340799
+      },
+      "detail_path": "timeline/6181.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6181.json"
+    },
+    "6169": {
+      "id": 6169,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6169,
+        "line_type": "JP",
+        "title": "任务Normal2倍#62",
+        "image": "https://static.kivo.wiki/images/timeline/0yus3K8gbYoic7Akk7QKQDAP10c9ZoEg.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1793736000,
+        "end_time": 1794081599
+      },
+      "detail_path": "timeline/6169.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6169.json"
+    },
+    "6161": {
+      "id": 6161,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6161,
+        "line_type": "CN",
+        "title": "限时活动【我等乃神秘学研究会！】",
+        "image": "https://static.kivo.wiki/images/timeline/DOXDWnGPtATtMAsJEUgRpmCnYiECes9c.png",
+        "body_summary": "艺术之乡——狂猎艺术学院。来到这里的老师，在神秘学研究会成员们的带领下，遭遇了种种离奇的现象…… ■ 活动时间 • 活动持续时间：10月29日 维护结束后 ~ 11月12日 13:59 • 商店和奖励",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1993",
+        "start_time": 1793246400,
+        "end_time": 1794463199
+      },
+      "detail_path": "timeline/6161.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6161.json"
+    },
+    "6179": {
+      "id": 6179,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6179,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒 #17",
+        "image": "https://static.kivo.wiki/images/timeline/1TZGVzzrOzcwI72yQiMwjHERH8hyHEch.jpg",
+        "body_summary": "【新情報⑬】 制約解除決戦「セトの憤怒」が開催されます！ 今回開催される「セトの憤怒」の防御タイプは「特殊装甲」となります！ ▼開催期間 2026年10月29日(木) 11:00 ~ 11月25日(水",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2114322422677843977",
+        "start_time": 1793217600,
+        "end_time": 1795550399
+      },
+      "detail_path": "timeline/6179.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6179.json"
+    },
     "6065": {
       "id": 6065,
       "source_path": "timeline/index.json",
@@ -48,6 +228,474 @@
       },
       "detail_path": "timeline/6065.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6065.json"
+    },
+    "6176": {
+      "id": 6176,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6176,
+        "line_type": "JP",
+        "title": "「仮想適性試験BETA版」实装",
+        "image": "https://static.kivo.wiki/images/timeline/NZ64npkpjC1aGaH2ILH8F00Xdn5Mh45d.jpg",
+        "body_summary": "【新情報⑩】 さらに、10月28日(水)メンテナンス後より「仮想適性試験」のBETA版が実装されます！ 複数の部隊を編成して、たくさんの敵に挑む戦闘コンテンツです！ ※BETA版となるため、今後の仕様",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2114318948896506010",
+        "start_time": 1793156400,
+        "end_time": 1793156400
+      },
+      "detail_path": "timeline/6176.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6176.json"
+    },
+    "6175": {
+      "id": 6175,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6175,
+        "line_type": "JP",
+        "title": "同行实习功能追加",
+        "image": "https://static.kivo.wiki/images/timeline/ShB64tO3YNB692aswKx5VQsv6cp8z41R.jpg",
+        "body_summary": "【新情報⑨】 10月28日(水)メンテナンス後より、新機能「同行実習」が実装されます。 特定の生徒さんを募集でお迎えしていなくても、各コンテンツで編成できるシステムです！ ミッションをクリアして生徒さ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2114318121054146998",
+        "start_time": 1793156400,
+        "end_time": 1793156400
+      },
+      "detail_path": "timeline/6175.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6175.json"
+    },
+    "6174": {
+      "id": 6174,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6174,
+        "line_type": "JP",
+        "title": "招募记录功能追加",
+        "image": "https://static.kivo.wiki/images/timeline/JLaOCJI58UYyPIvuUEgmWOXGucfiVFYy.jpg",
+        "body_summary": "【新情報⑧】 10月28日(水)メンテナンス後より、「ピックアップ募集」に募集履歴が見られる「募集記録」機能が追加されます！ 募集記録は最大1,000回まで閲覧可能となります。 ※詳細はこちらの画像を",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2114317039229882647",
+        "start_time": 1793156400,
+        "end_time": 1793156400
+      },
+      "detail_path": "timeline/6174.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6174.json"
+    },
+    "6173": {
+      "id": 6173,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6173,
+        "line_type": "JP",
+        "title": "Special学生拎起动画追加#6",
+        "image": "https://static.kivo.wiki/images/timeline/pOzqAUbhpdKhYVv0xug47hFDkTswxZvV.jpg",
+        "body_summary": "【新情報⑦】 編成画面で見られるSPECIAL生徒さんのつまみモーションが新たに14人分追加されます！！ 対象となる生徒さんはこちらの画像をご参照ください。 #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2114316582264696954",
+        "start_time": 1793156400,
+        "end_time": 1793156400
+      },
+      "detail_path": "timeline/6173.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6173.json"
+    },
+    "6167": {
+      "id": 6167,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6167,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知 26-10-31",
+        "image": "https://static.kivo.wiki/images/timeline/fY7IAPoF5q0p0vfQGqDW3cOQwAzSyL47.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1793156400,
+        "end_time": 1794193199
+      },
+      "detail_path": "timeline/6167.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6167.json"
+    },
+    "6166": {
+      "id": 6166,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6166,
+        "line_type": "JP",
+        "title": "家具系列追加：「オデュッセイアクルーズ」 & 日富美（赛车）、梓（赛车）、兰娜家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/Ub75Kzhn2T14mXQgoEqtqSujTnetbgoK.jpg",
+        "body_summary": "【新情報③】 家具に新シリーズ「オデュッセイアクルーズ」と、新規家具モーションが追加されます！ 今回の対象生徒さんと対象家具、実装時期などの詳細情報はこちらの画像にてご確認ください！ #ブルアカ #ブ",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/2114314368813039733",
+        "start_time": 1793156400,
+        "end_time": 1793156400
+      },
+      "detail_path": "timeline/6166.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6166.json"
+    },
+    "6165": {
+      "id": 6165,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6165,
+        "line_type": "JP",
+        "title": "活动「Start Your Engines! ～183号よ永遠に！～」",
+        "image": "https://static.kivo.wiki/images/timeline/bc0ntIlJwudcF4ty8IOy7JjJNi1E1u4R.jpg",
+        "body_summary": "【新情報②】 新イベント「Start Your Engines! ～183号よ永遠に！～」の開催が決定しました！ 本イベントをプレイすることで、生徒「ラナ」さんをお迎えすることができます！ 🔷開催期間",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2114313078879977697",
+        "start_time": 1793156400,
+        "end_time": 1794365999
+      },
+      "detail_path": "timeline/6165.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6165.json"
+    },
+    "6164": {
+      "id": 6164,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6164,
+        "line_type": "JP",
+        "title": "限定卡池「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀なりや？」",
+        "image": "https://static.kivo.wiki/images/timeline/wpsvd8Iql70aYlZOk0laDyfeN8jhTfVW.jpg",
+        "body_summary": "【新情報①】 限定ピックアップ募集「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀なりや？」の開催が決定です！ 🔷開催期間 2026年10月28日(水) メンテナンス後 ~ 11月11日(水) 10:",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2114311956689821715",
+        "start_time": 1793156400,
+        "end_time": 1794365999
+      },
+      "detail_path": "timeline/6164.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6164.json"
+    },
+    "6168": {
+      "id": 6168,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6168,
+        "line_type": "JP",
+        "title": "指名手配2倍#60",
+        "image": "https://static.kivo.wiki/images/timeline/EMgBy2D885Z7oLP8B745e5Dk1f20POhy.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1793131200,
+        "end_time": 1793735999
+      },
+      "detail_path": "timeline/6168.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6168.json"
+    },
+    "6157": {
+      "id": 6157,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6157,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍 #45",
+        "image": "https://static.kivo.wiki/images/timeline/r9F5ktAoq5IefGdFDv9dAVRa8eRaZ7wk.png",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/26 (Mon), Lesson reward will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2113888227417628858",
+        "start_time": 1793127600,
+        "end_time": 1793646000
+      },
+      "detail_path": "timeline/6157.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6157.json"
+    },
+    "6150": {
+      "id": 6150,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6150,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习#53",
+        "image": "https://static.kivo.wiki/images/timeline/ra9QSrevV1jrzaxHXScigGdsa6mVLNQb.png",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Breakthrough Drill) will start on 10/27 (Tue)! ",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2112801057365807344",
+        "start_time": 1793084400,
+        "end_time": 1793602800
+      },
+      "detail_path": "timeline/6150.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6150.json"
+    },
+    "6155": {
+      "id": 6155,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6155,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #122",
+        "image": "https://static.kivo.wiki/images/timeline/aKymv6AQxnUZh6K5rpp6BQT41OlEUmpd.png",
+        "body_summary": "[10/27 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/27 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2113556046346170776",
+        "start_time": 1793066400,
+        "end_time": 1793077200
+      },
+      "detail_path": "timeline/6155.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6155.json"
+    },
+    "6153": {
+      "id": 6153,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6153,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「So this is the ocean...」",
+        "image": "https://static.kivo.wiki/images/timeline/9ijbWtMRp6y2aHXvh0C3eLOTAAjdgeWR.png",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 10/27 (Tue)! 💌Pick-Up ",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2113529606036951332",
+        "start_time": 1793066400,
+        "end_time": 1793671200
+      },
+      "detail_path": "timeline/6153.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6153.json"
+    },
+    "6152": {
+      "id": 6152,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6152,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Highlander Railroad Academy Tachibana Hikari has arrived!」&「Pahyahyahya!! Let's go! Full speed Ahead」",
+        "image": "https://static.kivo.wiki/images/timeline/4ZzLNfpr2kdizviFMLApQJH5hGdHOgRL.png",
+        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 10/27 (T",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2113525835076612555",
+        "start_time": 1793066400,
+        "end_time": 1793671200
+      },
+      "detail_path": "timeline/6152.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6152.json"
+    },
+    "6151": {
+      "id": 6151,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6151,
+        "line_type": "Globle",
+        "title": "国际服活动复刻「Highlander Railroad Runaway Incident: And the Train Disappeared」",
+        "image": "https://static.kivo.wiki/images/timeline/TAx8Oy9ftyA4h0Km0OGHyFOGwPMhNPRn.png",
+        "body_summary": "[Event Preview] Sensei, 'Highlander Railroad Runaway Incident: And the Train Disappeared' event is c",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2113510737905946791",
+        "start_time": 1793041200,
+        "end_time": 1794250800
+      },
+      "detail_path": "timeline/6151.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6151.json"
+    },
+    "6188": {
+      "id": 6188,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6188,
+        "line_type": "JP",
+        "title": "「青春あんさんぶる vol.20」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/yRT07NWh01wL3fA6S3YUvZwnAYouhkon.png",
+        "body_summary": "【配信開始】 先生！ 「青春あんさんぶるシリーズ」第20弾、 百鬼夜行連合学院・百花繚乱紛争調停委員会の「咲き継ぐ百花」が配信開始！ 百花繚乱紛争調停委員会の皆さんらしく、かっこいい一曲です！ ▼各種",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2114373647611605493",
+        "start_time": 1792940400,
+        "end_time": 1792940400
+      },
+      "detail_path": "timeline/6188.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6188.json"
+    },
+    "6187": {
+      "id": 6187,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6187,
+        "line_type": "JP",
+        "title": "「Remember Again」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/bBlTwlusYv4DlDjOhIDIjIkC5XXvxJV8.png",
+        "body_summary": "【配信開始】 先生！ イベント「出航！万魔船 マコト議長の華麗なる避暑」のエンディング曲、 万魔殿のイロハさんが歌う「Remember Again」が配信開始しました！ 賑やかだった夏の余韻と、イロハ",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2114376373326504272",
+        "start_time": 1792940400,
+        "end_time": 1792940400
+      },
+      "detail_path": "timeline/6187.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6187.json"
+    },
+    "6186": {
+      "id": 6186,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6186,
+        "line_type": "JP",
+        "title": "「KAGEROU」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/aydIinEBS7qOX7czk9iHqsI5aQIYrZvv.png",
+        "body_summary": "【配信開始】 先生！ 第2部 メインストーリーEx.「ロア追跡」編 第1章のエンディング曲、 FOX小隊のニコさんが歌う「KAGEROU」が配信開始しました！ 任務に向き合う覚悟と、内に秘めた感情が揺",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2114376292862919108",
+        "start_time": 1792940400,
+        "end_time": 1792940400
+      },
+      "detail_path": "timeline/6186.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6186.json"
+    },
+    "6185": {
+      "id": 6185,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6185,
+        "line_type": "JP",
+        "title": "「絆ダイアローグ vol.29」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/N5jI9Fq0GYvzt4JKuUe7JRrtHTe3FkUF.png",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」第29弾、配信開始！ 玄龍門の門主・キサキさん！ 曲名は「宵にほどけて」です。 心地よいリズムに乗せて、普段の凛とした姿と、先生の前で見せる柔らかな一面",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2114374927394431456",
+        "start_time": 1792940400,
+        "end_time": 1792940400
+      },
+      "detail_path": "timeline/6185.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6185.json"
+    },
+    "6184": {
+      "id": 6184,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6184,
+        "line_type": "JP",
+        "title": "「絆ダイアローグ vol.28」流媒体发行",
+        "image": "https://static.kivo.wiki/images/timeline/mvT7ubQg3Fal0dVRufz2VJgMxkR0D6C6.png",
+        "body_summary": "【配信開始】 先生！ 「絆ダイアローグシリーズ」第28弾、配信開始！ 万魔殿のサツキさん！ 曲名は「段々と夢中になぁ～る」です。 新たなサツキさんの一面が感じられる楽しい一曲です！ ぜひお聴きください",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2114374422668935544",
+        "start_time": 1792940400,
+        "end_time": 1792940400
+      },
+      "detail_path": "timeline/6184.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6184.json"
+    },
+    "6162": {
+      "id": 6162,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6162,
+        "line_type": "CN",
+        "title": "关于《蔚蓝档案》国服运营安排的说明",
+        "image": "https://static.kivo.wiki/images/timeline/OQeh43ARndGGSVgFZvaHxYIjDNBTYEd6.jpg",
+        "body_summary": "\"欢迎连接什亭之箱，老师。\" 由于《蔚蓝档案》海外服务器运营安排发生变更，为避免各位老师对简中服的运营安排产生顾虑与不安，特此向各位老师说明如下： 《蔚蓝档案》简中服将继续由上海星啸网络科技有限公司负",
+        "type": "Other",
+        "url": "www.bilibili.com/opus/1263124318123982870",
+        "start_time": 1792932420,
+        "end_time": 1792932420
+      },
+      "detail_path": "timeline/6162.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6162.json"
+    },
+    "6163": {
+      "id": 6163,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6163,
+        "line_type": "JP",
+        "title": "直播「秋の夜長、いかがおすごしですか？SP」",
+        "image": "https://static.kivo.wiki/images/timeline/ehTiKXCK1pfMTJiKdmuLUnjpcGZsIoyV.jpg",
+        "body_summary": "【#ブルアカらいぶ】https://x.com/BlueArchiveJP/status/2114311956689821715 限定ピックアップ募集「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀な",
+        "type": "Live",
+        "url": "x.com/Blue_ArchiveJP/status/2113933529889243614",
+        "start_time": 1792922400,
+        "end_time": 1792933566
+      },
+      "detail_path": "timeline/6163.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6163.json"
+    },
+    "6158": {
+      "id": 6158,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6158,
+        "line_type": "CN",
+        "title": "今日几分甜 × QQ音乐联动周边现已上架！",
+        "image": "https://static.kivo.wiki/images/timeline/uDQNqUwCVz3YvrHMwrdZfscJXwnaoUCW.jpg",
+        "body_summary": "#蔚蓝档案#​ 今日的基沃托斯几分甜？有老师在的每一天都很甜！ 《蔚蓝档案》今日几分甜 × QQ音乐联动周边现已上架！ 🌹上架时间🌹 2026年10月24日 11:00 🌹周边详情🌹 总计7位在【今日",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/opus/1262601846120251544",
+        "start_time": 1792810800,
+        "end_time": 1792810800
+      },
+      "detail_path": "timeline/6158.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6158.json"
+    },
+    "6156": {
+      "id": 6156,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6156,
+        "line_type": "Globle",
+        "title": "国际服活动特别MV「Following Petals」公布",
+        "image": "https://static.kivo.wiki/images/timeline/faohCGPwVHxmqYeXfDjOyHMUoxUR1WCG.png",
+        "body_summary": "[Kisaki – Following Petals MV Release] Sensei! The music video for Kisaki’s song, ‘Following Petals’",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2113571137242194358",
+        "start_time": 1792749600,
+        "end_time": 1792749600
+      },
+      "detail_path": "timeline/6156.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6156.json"
+    },
+    "6154": {
+      "id": 6154,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6154,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍#58",
+        "image": "https://static.kivo.wiki/images/timeline/4e0m4qjC4uWLScmKkZKc8bDq8g2AiFfl.png",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 10/23 (Fri)! Don't ",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2113533382256701646",
+        "start_time": 1792728000,
+        "end_time": 1792900800
+      },
+      "detail_path": "timeline/6154.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6154.json"
+    },
+    "6160": {
+      "id": 6160,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6160,
+        "line_type": "CN",
+        "title": "限时活动【我等乃神秘学研究会！~学院之谜与古老咒文~】介绍PV",
+        "image": "https://static.kivo.wiki/images/timeline/03ZsUt0ctsBzKaBf820W9Di06JbmSOPG.png",
+        "body_summary": "《蔚蓝档案》限时活动【我等乃神秘学研究会！~学院之谜与古老咒文~】介绍PV 艺术之乡——狂猎艺术学院。来到这里的老师，在神秘学研究会成员们的带领下，遭遇了种种离奇的现象…… 限时活动【我等乃神秘学研究",
+        "type": "OutsideGames",
+        "url": "weibo.com/6011443154/RnYo66lzP",
+        "start_time": 1792724400,
+        "end_time": 1792724400
+      },
+      "detail_path": "timeline/6160.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6160.json"
     },
     "6062": {
       "id": 6062,
@@ -121,6 +769,60 @@
       "detail_path": "timeline/6125.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6125.json"
     },
+    "6159": {
+      "id": 6159,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6159,
+        "line_type": "CN",
+        "title": "阿洛娜的日程笔记（第32期）",
+        "image": "https://static.kivo.wiki/images/timeline/gcHdqLrv9gngOIUY8b3KPweXYqgf9Jxo.png",
+        "body_summary": "“欢迎连接什亭之箱，老师。” 老师！今天阿洛娜的职业是女巫哦！无论是占卜还是观星，都请交给我！阿洛娜将会用最直白、最直接、最不绕弯子的方式为老师预测未来可能会发生的事情~现在立刻开始占卜吧！ ……看到",
+        "type": "Other",
+        "url": "weibo.com/ttarticle/p/show?id=2309405356880112517460",
+        "start_time": 1792663200,
+        "end_time": 1792663200
+      },
+      "detail_path": "timeline/6159.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6159.json"
+    },
+    "6126": {
+      "id": 6126,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6126,
+        "line_type": "CN",
+        "title": "【综合战术测试 • 护卫测试】#5",
+        "image": "https://static.kivo.wiki/images/timeline/pomF3GJE5Ddp81O7aHZlEdG810qtRMes.png",
+        "body_summary": "\"欢迎连接【什亭之箱】，老师。\" 在【基沃托斯综合战术测试】中可以评估学员们的战斗能力，根据成绩还能获得特别奖励。 每个考场都有各自的【特殊规则】，按照规则越快完成测试，获得的分数也越高！ ■ 活动简",
+        "type": "MiniBattle",
+        "url": "bluearchive-cn.com/news/1977",
+        "start_time": 1792648800,
+        "end_time": 1793235599
+      },
+      "detail_path": "timeline/6126.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6126.json"
+    },
+    "6183": {
+      "id": 6183,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6183,
+        "line_type": "JP",
+        "title": "卡池「雪の下に咲く二十一日」&「雪の上に立つ三日天下」 &「正義は珈琲のように甘く」&「曇り硝子に描く刹那」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/LgkymxSw2L5D8BBULy714GFS7buT6Cgb.png",
+        "body_summary": "【ピックアップ募集・予告】 2026年10月21日(水) 11:00より、復刻ピックアップ募集「雪の下に咲く二十一日」&「雪の上に立つ三日天下」 &「正義は珈琲のように甘く」&「曇り硝子に描く刹那」を",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2112408558231081329",
+        "start_time": 1792551600,
+        "end_time": 1793156399
+      },
+      "detail_path": "timeline/6183.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6183.json"
+    },
     "6143": {
       "id": 6143,
       "source_path": "timeline/index.json",
@@ -175,6 +877,24 @@
       "detail_path": "timeline/6141.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6141.json"
     },
+    "6182": {
+      "id": 6182,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6182,
+        "line_type": "JP",
+        "title": "任务Hard2倍#58",
+        "image": "https://static.kivo.wiki/images/timeline/NG2kGGfDFXQ0DRE975xzaekjk5yWJux9.png",
+        "body_summary": "【キャンペーン予告】 2026年10月21日(水) 4:00より、「任務(Hard)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年10月21日(水) 4:00 ～",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2112016296326189108",
+        "start_time": 1792526400,
+        "end_time": 1793131199
+      },
+      "detail_path": "timeline/6182.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6182.json"
+    },
     "6135": {
       "id": 6135,
       "source_path": "timeline/index.json",
@@ -228,24 +948,6 @@
       },
       "detail_path": "timeline/6138.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6138.json"
-    },
-    "6126": {
-      "id": 6126,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6126,
-        "line_type": "CN",
-        "title": "【综合战术测试 • 护卫测试】#5",
-        "image": "https://static.kivo.wiki/images/timeline/pomF3GJE5Ddp81O7aHZlEdG810qtRMes.png",
-        "body_summary": "\"欢迎连接【什亭之箱】，老师。\" 在【基沃托斯综合战术测试】中可以评估学员们的战斗能力，根据成绩还能获得特别奖励。 每个考场都有各自的【特殊规则】，按照规则越快完成测试，获得的分数也越高！ ■ 活动简",
-        "type": "MiniBattle",
-        "url": "bluearchive-cn.com/news/1977",
-        "start_time": 1792278617,
-        "end_time": 1793235599
-      },
-      "detail_path": "timeline/6126.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6126.json"
     },
     "6137": {
       "id": 6137,
@@ -434,7 +1136,7 @@
       "item": {
         "id": 6140,
         "line_type": "JP",
-        "title": "任务Normal2倍 #61",
+        "title": "任务Normal2倍#61",
         "image": "https://static.kivo.wiki/images/timeline/A3gWZJQE7z6AWpjuqDpr3AjcCDV8HP8J.jpg",
         "body_summary": "【キャンペーン予告】 2026年10月14日(水)4:00より、「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが開催されます。 ▼開催期間 2026年10月14日(水)4:00 ～",
         "type": "Double",
@@ -4592,7 +5294,7 @@
       "item": {
         "id": 5816,
         "line_type": "JP",
-        "title": "指名手配3倍#21 & 日程表3倍#16",
+        "title": "指名手配3倍#21 & 课程表3倍#16",
         "image": "https://static.kivo.wiki/images/timeline/yly8uYSan65N4AOMekUdBRdMR1UTnSxy.jpg",
         "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
         "type": "Double",
@@ -107745,11 +108447,119 @@
     }
   },
   "by_alias": {
+    "迷你剧情「183 VS 227」追加": [
+      "6180"
+    ],
+    "特別依頼2倍#72": [
+      "6172"
+    ],
+    "联合火力演习#56": [
+      "6178"
+    ],
+    "战术对抗赛S12开幕": [
+      "6177"
+    ],
+    "课程表2倍#46 & 学院交流会2倍#46": [
+      "6171"
+    ],
+    "任务hard2倍#59": [
+      "6170"
+    ],
     "国际服5周年韩国线下庆典活动": [
       "6099"
     ],
+    "市街地戦・悪夢急行-ナイトメアトレイン-#1": [
+      "6181"
+    ],
+    "任务Normal2倍#62": [
+      "6169"
+    ],
+    "限时活动【我等乃神秘学研究会!】": [
+      "6161"
+    ],
+    "制约解除决战:赛特之怒 #17": [
+      "6179"
+    ],
     "特别委托3倍 #22": [
       "6065"
+    ],
+    "「仮想適性試験BETA版」实装": [
+      "6176"
+    ],
+    "同行实习功能追加": [
+      "6175"
+    ],
+    "招募记录功能追加": [
+      "6174"
+    ],
+    "Special学生拎起动画追加#6": [
+      "6173"
+    ],
+    "老师经验2倍集中通知 26-10-31": [
+      "6167"
+    ],
+    "家具系列追加:「オデュッセイアクルーズ」 & 日富美(赛车)、梓(赛车)、兰娜家具互动更新": [
+      "6166"
+    ],
+    "活动「Start Your Engines! ~183号よ永遠に!~」": [
+      "6165"
+    ],
+    "限定卡池「無限の軌道は希望なりや!」&「夢幻の機動は奇謀なりや?」": [
+      "6164"
+    ],
+    "指名手配2倍#60": [
+      "6168"
+    ],
+    "国际服课程表2倍 #45": [
+      "6157"
+    ],
+    "国际服联合火力演习#53": [
+      "6150"
+    ],
+    "国际服例行维护 #122": [
+      "6155"
+    ],
+    "国际服卡池复刻「So this is the ocean...」": [
+      "6153"
+    ],
+    "国际服卡池复刻「Highlander Railroad Academy Tachibana Hikari has arrived!」&「Pahyahyahya!! Let's go! Full speed Ahead」": [
+      "6152"
+    ],
+    "国际服活动复刻「Highlander Railroad Runaway Incident: And the Train Disappeared」": [
+      "6151"
+    ],
+    "「青春あんさんぶる vol.20」流媒体发行": [
+      "6188"
+    ],
+    "「Remember Again」流媒体发行": [
+      "6187"
+    ],
+    "「KAGEROU」流媒体发行": [
+      "6186"
+    ],
+    "「絆ダイアローグ vol.29」流媒体发行": [
+      "6185"
+    ],
+    "「絆ダイアローグ vol.28」流媒体发行": [
+      "6184"
+    ],
+    "关于《蔚蓝档案》国服运营安排的说明": [
+      "6162"
+    ],
+    "直播「秋の夜長、いかがおすごしですか?SP」": [
+      "6163"
+    ],
+    "今日几分甜 × QQ音乐联动周边现已上架!": [
+      "6158"
+    ],
+    "国际服活动特别MV「Following Petals」公布": [
+      "6156"
+    ],
+    "国际服老师经验2倍#58": [
+      "6154"
+    ],
+    "限时活动【我等乃神秘学研究会!~学院之谜与古老咒文~】介绍PV": [
+      "6160"
     ],
     "任务(困难难度)3倍 #22": [
       "6062"
@@ -107763,6 +108573,15 @@
     "迷你故事剧情更新:【杀气腾腾!魑魅之夜!】": [
       "6125"
     ],
+    "阿洛娜的日程笔记(第32期)": [
+      "6159"
+    ],
+    "【综合战术测试 • 护卫测试】#5": [
+      "6126"
+    ],
+    "卡池「雪の下に咲く二十一日」&「雪の上に立つ三日天下」 &「正義は珈琲のように甘く」&「曇り硝子に描く刹那」复刻": [
+      "6183"
+    ],
     "活动「特殊作戦『ロア追跡』編」": [
       "6143"
     ],
@@ -107772,6 +108591,9 @@
     "活动「月華夢騒」常驻化": [
       "6141"
     ],
+    "任务Hard2倍#58": [
+      "6182"
+    ],
     "国际服总力战 Gregorius (Indoor) #4": [
       "6135"
     ],
@@ -107780,9 +108602,6 @@
     ],
     "国际服学院交流会2倍 #44": [
       "6138"
-    ],
-    "【综合战术测试 • 护卫测试】#5": [
-      "6126"
     ],
     "国际服特殊定时礼物 泳装妃咲实装纪念": [
       "6137"
@@ -107814,7 +108633,7 @@
     "国际服制约解除作战:Tiphareth #5": [
       "6112"
     ],
-    "任务Normal2倍 #61": [
+    "任务Normal2倍#61": [
       "6140"
     ],
     "国际服例行维护 #122 临时维护": [
@@ -108506,7 +109325,7 @@
     "联合火力演习#54": [
       "5891"
     ],
-    "指名手配3倍#21 & 日程表3倍#16": [
+    "指名手配3倍#21 & 课程表3倍#16": [
       "5816"
     ],
     "国际服迷你剧情更新「The Melancholy of Kanbara Misuzu」": [
@@ -125680,11 +126499,119 @@
     ]
   },
   "by_normalized_alias": {
+    "迷你剧情「183vs227」追加": [
+      "6180"
+    ],
+    "特別依頼2倍#72": [
+      "6172"
+    ],
+    "联合火力演习#56": [
+      "6178"
+    ],
+    "战术对抗赛s12开幕": [
+      "6177"
+    ],
+    "课程表2倍#46&学院交流会2倍#46": [
+      "6171"
+    ],
+    "任务hard2倍#59": [
+      "6170"
+    ],
     "国际服5周年韩国线下庆典活动": [
       "6099"
     ],
+    "市街地戦・悪夢急行-ナイトメアトレイン-#1": [
+      "6181"
+    ],
+    "任务normal2倍#62": [
+      "6169"
+    ],
+    "限时活动【我等乃神秘学研究会!】": [
+      "6161"
+    ],
+    "制约解除决战:赛特之怒#17": [
+      "6179"
+    ],
     "特别委托3倍#22": [
       "6065"
+    ],
+    "「仮想適性試験beta版」实装": [
+      "6176"
+    ],
+    "同行实习功能追加": [
+      "6175"
+    ],
+    "招募记录功能追加": [
+      "6174"
+    ],
+    "special学生拎起动画追加#6": [
+      "6173"
+    ],
+    "老师经验2倍集中通知26-10-31": [
+      "6167"
+    ],
+    "家具系列追加:「オデュッセイアクルーズ」&日富美(赛车)、梓(赛车)、兰娜家具互动更新": [
+      "6166"
+    ],
+    "活动「startyourengines!~183号よ永遠に!~」": [
+      "6165"
+    ],
+    "限定卡池「無限の軌道は希望なりや!」&「夢幻の機動は奇謀なりや?」": [
+      "6164"
+    ],
+    "指名手配2倍#60": [
+      "6168"
+    ],
+    "国际服课程表2倍#45": [
+      "6157"
+    ],
+    "国际服联合火力演习#53": [
+      "6150"
+    ],
+    "国际服例行维护#122": [
+      "6155"
+    ],
+    "国际服卡池复刻「sothisistheocean...」": [
+      "6153"
+    ],
+    "国际服卡池复刻「highlanderrailroadacademytachibanahikarihasarrived!」&「pahyahyahya!!let'sgo!fullspeedahead」": [
+      "6152"
+    ],
+    "国际服活动复刻「highlanderrailroadrunawayincident:andthetraindisappeared」": [
+      "6151"
+    ],
+    "「青春あんさんぶるvol.20」流媒体发行": [
+      "6188"
+    ],
+    "「rememberagain」流媒体发行": [
+      "6187"
+    ],
+    "「kagerou」流媒体发行": [
+      "6186"
+    ],
+    "「絆ダイアローグvol.29」流媒体发行": [
+      "6185"
+    ],
+    "「絆ダイアローグvol.28」流媒体发行": [
+      "6184"
+    ],
+    "关于《蔚蓝档案》国服运营安排的说明": [
+      "6162"
+    ],
+    "直播「秋の夜長、いかがおすごしですか?sp」": [
+      "6163"
+    ],
+    "今日几分甜×qq音乐联动周边现已上架!": [
+      "6158"
+    ],
+    "国际服活动特别mv「followingpetals」公布": [
+      "6156"
+    ],
+    "国际服老师经验2倍#58": [
+      "6154"
+    ],
+    "限时活动【我等乃神秘学研究会!~学院之谜与古老咒文~】介绍pv": [
+      "6160"
     ],
     "任务(困难难度)3倍#22": [
       "6062"
@@ -125698,6 +126625,15 @@
     "迷你故事剧情更新:【杀气腾腾!魑魅之夜!】": [
       "6125"
     ],
+    "阿洛娜的日程笔记(第32期)": [
+      "6159"
+    ],
+    "【综合战术测试•护卫测试】#5": [
+      "6126"
+    ],
+    "卡池「雪の下に咲く二十一日」&「雪の上に立つ三日天下」&「正義は珈琲のように甘く」&「曇り硝子に描く刹那」复刻": [
+      "6183"
+    ],
     "活动「特殊作戦『ロア追跡』編」": [
       "6143"
     ],
@@ -125707,6 +126643,9 @@
     "活动「月華夢騒」常驻化": [
       "6141"
     ],
+    "任务hard2倍#58": [
+      "6182"
+    ],
     "国际服总力战gregorius(indoor)#4": [
       "6135"
     ],
@@ -125715,9 +126654,6 @@
     ],
     "国际服学院交流会2倍#44": [
       "6138"
-    ],
-    "【综合战术测试•护卫测试】#5": [
-      "6126"
     ],
     "国际服特殊定时礼物泳装妃咲实装纪念": [
       "6137"
@@ -126441,7 +127377,7 @@
     "联合火力演习#54": [
       "5891"
     ],
-    "指名手配3倍#21&日程表3倍#16": [
+    "指名手配3倍#21&课程表3倍#16": [
       "5816"
     ],
     "国际服迷你剧情更新「themelancholyofkanbaramisuzu」": [

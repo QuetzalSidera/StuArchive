@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 51,
+    "max_page": 52,
     "students": [
+      {
+        "id": 350,
+        "skin": "礼服",
+        "skin_jp": "ドレス",
+        "skin_cn": "礼服",
+        "skin_zh_tw": "禮服",
+        "family_name": "陆八魔",
+        "given_name": "阿露",
+        "family_name_jp": "陸八魔",
+        "given_name_jp": "アル",
+        "family_name_cn": "陆八魔",
+        "given_name_cn": "爱露",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2/%E7%A4%BC%E6%9C%8D/avatar.png",
+        "school": 3,
+        "main_relation": 28
+      },
+      {
+        "id": 116,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "鬼怒川",
+        "given_name": "霞",
+        "family_name_jp": "鬼怒川",
+        "given_name_jp": "カスミ",
+        "family_name_cn": "鬼怒川",
+        "given_name_cn": "霞",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/original/avatar.png",
+        "school": 3,
+        "main_relation": 30
+      },
       {
         "id": 546,
         "skin": "泳装",
@@ -131,43 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E5%90%84%E5%8A%A1%20%E5%8D%83%E5%AF%BB/%E9%9C%B2%E8%90%A5/avatar.png",
         "school": 4,
         "main_relation": 36
-      },
-      {
-        "id": 69,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "猫冢",
-        "given_name": "响",
-        "family_name_jp": "猫塚",
-        "given_name_jp": "ヒビキ",
-        "family_name_cn": "猫冢",
-        "given_name_cn": "响",
-        "avatar": "https://static.kivo.wiki/images/students/%E7%8C%AB%E5%86%A2%20%E5%93%8D/avatar.png",
-        "school": 4,
-        "main_relation": 38
-      },
-      {
-        "id": 51,
-        "skin": "应援团",
-        "skin_jp": "応援団",
-        "skin_cn": "应援团",
-        "skin_zh_tw": "應援團",
-        "family_name": "猫冢",
-        "given_name": "响",
-        "family_name_jp": "猫塚",
-        "given_name_jp": "ヒビキ",
-        "family_name_cn": "猫冢",
-        "given_name_cn": "响",
-        "avatar": "https://static.kivo.wiki/images/students/%E7%8C%AB%E5%A1%9A%20%E5%93%8D/avatar.png",
-        "school": 4,
-        "main_relation": 38
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1792873118,
+  "time": 1792959920,
   "version": "1.0.0-beta.43"
 }

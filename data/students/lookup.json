@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-10-24T20:15:23Z",
+  "generated_at": "2026-10-25T20:23:51Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 510,
-  "alias_count": 5768,
-  "normalized_alias_count": 3960,
+  "total_items": 512,
+  "alias_count": 5804,
+  "normalized_alias_count": 3984,
   "by_id": {
     "76": {
       "id": 76,
@@ -963,6 +963,31 @@
       "profile_path": "students/profiles/70.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/70.json"
     },
+    "646": {
+      "id": 646,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 646,
+        "skin": "赛车",
+        "skin_jp": "レーシング",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "阿慈谷",
+        "given_name": "日富美",
+        "family_name_jp": "阿慈谷",
+        "given_name_jp": "ヒフミ",
+        "family_name_cn": "阿慈谷",
+        "given_name_cn": "日富美",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%98%BF%E6%85%88%E8%B0%B7%20%E6%97%A5%E5%AF%8C%E7%BE%8E/%E8%B5%9B%E8%BD%A6/1.jpg",
+        "school": 2,
+        "main_relation": 14
+      },
+      "detail_path": "students/646.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/646.json",
+      "profile_path": "students/profiles/646.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/646.json"
+    },
     "1": {
       "id": 1,
       "source_path": "students/index.json",
@@ -1062,6 +1087,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/228.json",
       "profile_path": "students/profiles/228.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/228.json"
+    },
+    "645": {
+      "id": 645,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 645,
+        "skin": "赛车",
+        "skin_jp": "レーシング",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "白洲",
+        "given_name": "梓",
+        "family_name_jp": "白洲",
+        "given_name_jp": "アズサ",
+        "family_name_cn": "白洲",
+        "given_name_cn": "梓",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E6%B4%B2%20%E6%A2%93/original/8EAB83518515B360020F309E3659A183.png",
+        "school": 2,
+        "main_relation": 14
+      },
+      "detail_path": "students/645.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/645.json",
+      "profile_path": "students/profiles/645.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/645.json"
     },
     "203": {
       "id": 203,
@@ -5727,8 +5777,8 @@
         "given_name": "海",
         "family_name_jp": "申谷",
         "given_name_jp": "カイ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "申谷",
+        "given_name_cn": "海",
         "avatar": "https://static.kivo.wiki/images/students/%E7%94%B3%E8%B0%B7%20%E5%BB%BB/avatar.png",
         "school": 7,
         "main_relation": 66
@@ -5977,8 +6027,8 @@
         "given_name": "辉夜",
         "family_name_jp": "漆原",
         "given_name_jp": "カグヤ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "漆原",
+        "given_name_cn": "辉夜",
         "avatar": "https://static.kivo.wiki/images/students/%E6%BC%86%E5%8E%9F%20%E8%BE%89%E5%A4%9C/original/%E8%BE%89%E5%A4%9C.png",
         "school": 7,
         "main_relation": 106
@@ -6128,7 +6178,7 @@
         "family_name_jp": "志真",
         "given_name_jp": "コノカ",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "心华",
         "avatar": "https://static.kivo.wiki/images/students/%E5%BF%97%E7%9C%9F%20%E5%BF%83%E5%8D%8E/original/Student_Portrait_CH0264_Collection.png",
         "school": 8,
         "main_relation": 60
@@ -6403,7 +6453,7 @@
         "family_name_jp": "",
         "given_name_jp": "アラタ",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "新",
         "avatar": "https://static.kivo.wiki/images/students/%E6%96%B0/avatar.png",
         "school": 9,
         "main_relation": 139
@@ -6977,8 +7027,8 @@
         "given_name": "菖蒲",
         "family_name_jp": "七稜",
         "given_name_jp": "アヤメ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "七稜",
+        "given_name_cn": "菖蒲",
         "avatar": "https://static.kivo.wiki/images/students/%E4%B8%83%E7%A8%9C%20%E8%8F%96%E8%92%B2/original/CH0223_spr_00.png",
         "school": 9,
         "main_relation": 72
@@ -7052,8 +7102,8 @@
         "given_name": "蓟",
         "family_name_jp": "土生",
         "given_name_jp": "アザミ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "土生",
+        "given_name_cn": "蓟",
         "avatar": "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/original/CH0276_spr_00.png",
         "school": 9,
         "main_relation": 93
@@ -7077,8 +7127,8 @@
         "given_name": "蓟",
         "family_name_jp": "土生",
         "given_name_jp": "アザミ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "土生",
+        "given_name_cn": "蓟",
         "avatar": "https://static.kivo.wiki/images/students/%E5%9C%9F%E7%94%9F%20%E8%93%9F/%E5%92%8C%E6%9C%8D/CH0289_spr_00.png",
         "school": 9,
         "main_relation": 93
@@ -10028,7 +10078,7 @@
         "family_name_jp": "",
         "given_name_jp": "ハイネ",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "灰音",
         "avatar": "https://static.kivo.wiki/images/students/%E7%81%B0%E9%9F%B3/avatar.png",
         "school": 12,
         "main_relation": 65
@@ -12578,7 +12628,7 @@
         "family_name_jp": "",
         "given_name_jp": "色彩",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "色彩",
         "avatar": "https://static.kivo.wiki/images/students/%E8%89%B2%E5%BD%A9/avatar.png",
         "school": 25,
         "main_relation": 85
@@ -12703,7 +12753,7 @@
         "family_name_jp": "",
         "given_name_jp": "最強一角らいおん",
         "family_name_cn": "",
-        "given_name_cn": "",
+        "given_name_cn": "最强独角狮",
         "avatar": "https://static.kivo.wiki/images/students/%20%E6%9C%80%E5%BC%BA%E7%8B%AC%E8%A7%92%E7%8B%AE/original/NP0250.png",
         "school": 28,
         "main_relation": 0
@@ -14624,27 +14674,33 @@
     ],
     "阿慈谷日富美": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "阿慈谷 日富美": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "日富美": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "阿慈谷ヒフミ": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "阿慈谷 ヒフミ": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "ヒフミ": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "阿慈谷日富美(泳装)": [
       "70"
@@ -14726,6 +14782,60 @@
     ],
     "日富美-泳裝": [
       "70"
+    ],
+    "阿慈谷日富美(赛车)": [
+      "646"
+    ],
+    "阿慈谷日富美 赛车": [
+      "646"
+    ],
+    "阿慈谷日富美-赛车": [
+      "646"
+    ],
+    "阿慈谷 日富美(赛车)": [
+      "646"
+    ],
+    "阿慈谷 日富美 赛车": [
+      "646"
+    ],
+    "阿慈谷 日富美-赛车": [
+      "646"
+    ],
+    "日富美(赛车)": [
+      "646"
+    ],
+    "日富美 赛车": [
+      "646"
+    ],
+    "日富美-赛车": [
+      "646"
+    ],
+    "阿慈谷ヒフミ(レーシング)": [
+      "646"
+    ],
+    "阿慈谷ヒフミ レーシング": [
+      "646"
+    ],
+    "阿慈谷ヒフミ-レーシング": [
+      "646"
+    ],
+    "阿慈谷 ヒフミ(レーシング)": [
+      "646"
+    ],
+    "阿慈谷 ヒフミ レーシング": [
+      "646"
+    ],
+    "阿慈谷 ヒフミ-レーシング": [
+      "646"
+    ],
+    "ヒフミ(レーシング)": [
+      "646"
+    ],
+    "ヒフミ レーシング": [
+      "646"
+    ],
+    "ヒフミ-レーシング": [
+      "646"
     ],
     "圣园未花": [
       "1",
@@ -14834,27 +14944,33 @@
     ],
     "白洲梓": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "白洲 梓": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "梓": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "白洲アズサ": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "白洲 アズサ": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "アズサ": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "白洲梓(泳装)": [
       "228"
@@ -14936,6 +15052,60 @@
     ],
     "梓-泳裝": [
       "228"
+    ],
+    "白洲梓(赛车)": [
+      "645"
+    ],
+    "白洲梓 赛车": [
+      "645"
+    ],
+    "白洲梓-赛车": [
+      "645"
+    ],
+    "白洲 梓(赛车)": [
+      "645"
+    ],
+    "白洲 梓 赛车": [
+      "645"
+    ],
+    "白洲 梓-赛车": [
+      "645"
+    ],
+    "梓(赛车)": [
+      "645"
+    ],
+    "梓 赛车": [
+      "645"
+    ],
+    "梓-赛车": [
+      "645"
+    ],
+    "白洲アズサ(レーシング)": [
+      "645"
+    ],
+    "白洲アズサ レーシング": [
+      "645"
+    ],
+    "白洲アズサ-レーシング": [
+      "645"
+    ],
+    "白洲 アズサ(レーシング)": [
+      "645"
+    ],
+    "白洲 アズサ レーシング": [
+      "645"
+    ],
+    "白洲 アズサ-レーシング": [
+      "645"
+    ],
+    "アズサ(レーシング)": [
+      "645"
+    ],
+    "アズサ レーシング": [
+      "645"
+    ],
+    "アズサ-レーシング": [
+      "645"
     ],
     "歌住樱子": [
       "203",
@@ -32305,19 +32475,23 @@
     ],
     "阿慈谷日富美": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "日富美": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "阿慈谷ヒフミ": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "ヒフミ": [
       "74",
-      "70"
+      "70",
+      "646"
     ],
     "阿慈谷日富美(泳装)": [
       "70"
@@ -32372,6 +32546,42 @@
     ],
     "日富美-泳裝": [
       "70"
+    ],
+    "阿慈谷日富美(赛车)": [
+      "646"
+    ],
+    "阿慈谷日富美赛车": [
+      "646"
+    ],
+    "阿慈谷日富美-赛车": [
+      "646"
+    ],
+    "日富美(赛车)": [
+      "646"
+    ],
+    "日富美赛车": [
+      "646"
+    ],
+    "日富美-赛车": [
+      "646"
+    ],
+    "阿慈谷ヒフミ(レーシング)": [
+      "646"
+    ],
+    "阿慈谷ヒフミレーシング": [
+      "646"
+    ],
+    "阿慈谷ヒフミ-レーシング": [
+      "646"
+    ],
+    "ヒフミ(レーシング)": [
+      "646"
+    ],
+    "ヒフミレーシング": [
+      "646"
+    ],
+    "ヒフミ-レーシング": [
+      "646"
     ],
     "圣园未花": [
       "1",
@@ -32445,19 +32655,23 @@
     ],
     "白洲梓": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "梓": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "白洲アズサ": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "アズサ": [
       "3",
-      "228"
+      "228",
+      "645"
     ],
     "白洲梓(泳装)": [
       "228"
@@ -32512,6 +32726,42 @@
     ],
     "梓-泳裝": [
       "228"
+    ],
+    "白洲梓(赛车)": [
+      "645"
+    ],
+    "白洲梓赛车": [
+      "645"
+    ],
+    "白洲梓-赛车": [
+      "645"
+    ],
+    "梓(赛车)": [
+      "645"
+    ],
+    "梓赛车": [
+      "645"
+    ],
+    "梓-赛车": [
+      "645"
+    ],
+    "白洲アズサ(レーシング)": [
+      "645"
+    ],
+    "白洲アズサレーシング": [
+      "645"
+    ],
+    "白洲アズサ-レーシング": [
+      "645"
+    ],
+    "アズサ(レーシング)": [
+      "645"
+    ],
+    "アズサレーシング": [
+      "645"
+    ],
+    "アズサ-レーシング": [
+      "645"
     ],
     "歌住樱子": [
       "203",

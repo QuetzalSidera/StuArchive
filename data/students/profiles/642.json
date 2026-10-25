@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-10-24T20:15:23Z",
+  "generated_at": "2026-10-25T20:23:51Z",
   "id": 642,
   "display_name": "古畑 兰娜",
   "names": {
@@ -52,7 +52,7 @@
     "hobby": "",
     "designer": "",
     "illustrator": "",
-    "character_voice": "",
+    "character_voice": "飯田ヒカリ",
     "character_voice_cn": "",
     "nick_name": "时雨羽衣",
     "body_shape": "Small"
@@ -80,8 +80,8 @@
   },
   "implementation": {
     "jp": {
-      "installed": false,
-      "release_date": null
+      "installed": true,
+      "release_date": "2026-10-28"
     },
     "global": {
       "installed": false,
@@ -109,15 +109,15 @@
   "combat": {
     "character_id": 0,
     "dev_name": "CH0322",
-    "weapon_type": "",
-    "role": "",
+    "weapon_type": "SG",
+    "role": "T.S.",
     "combat_style": "default",
-    "battlefield_position": "",
-    "team_position": "",
-    "attack_attribute": "",
-    "defensive_attributes": "",
-    "rarity": 0,
-    "limited": false,
+    "battlefield_position": "SPECIAL",
+    "team_position": "BACK",
+    "attack_attribute": "Explosive",
+    "defensive_attributes": "Special",
+    "rarity": 1,
+    "limited": true,
     "is_groupc_control": false,
     "adaptability": {
       "outdoor": "",
@@ -145,8 +145,162 @@
       }
     ],
     "skills": {
-      "ex_skill": [],
-      "passive_skill": []
+      "ex_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E5%8F%A4%E7%95%91%20%E5%85%B0%E5%A8%9C/original/skill_icon/WhmQYn3ulFa9jruOxvORUoPuCXDNuuaK.png",
+          "title": "IPoAC 欺骗",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 5,
+              "describe": "对1名敌人造成攻击力X%的伤害。「小狗号」在战斗中登场时，此技能变为“1字节突发”。"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E5%8F%A4%E7%95%91%20%E5%85%B0%E5%A8%9C/original/skill_icon/iN1frqtKfV9c2OEOan9u8atrpsAh4DO8.png",
+          "title": "1 字节突发",
+          "title_cn": "",
+          "preview": "https://static.kivo.wiki/videos/students/%E5%8F%A4%E7%95%91%20%E5%85%B0%E5%A8%9C/original/skill_preview/lGcRQmNZh6JlS7PgJ8ZxttOotVrN8Zc0.mp4",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 5,
+              "describe": "对最多8名敌人依次造成攻击力X%的伤害。重复受到的伤害只按攻击力X%的伤害计算。（根据“小狗号”的能力值计算）"
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E5%8F%A4%E7%95%91%20%E5%85%B0%E5%A8%9C/original/skill_icon/4Vtles0g6ZwDFmpA6tiwrxm1MgLlh8NK.png",
+          "title": "看门狗定时器",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "战斗开始时以及之后每X秒，召唤「小狗号」。「小狗号」额外获得「兰娜号」X%的攻击力（持续一段时间）。（「小狗号」的普通攻击会对以1名敌人为中心的圆形范围内的敌人造成攻击力X%的伤害。目标附近有敌人时，对最多1人造成攻击力X%的伤害。）（战术辅助的载具不能重复登场）"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E5%8F%A4%E7%95%91%20%E5%85%B0%E5%A8%9C/original/skill_icon/Xoz6Ld476eibwXuxE2rzuFzJExz5qUDR.png",
+          "title": "超频",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "攻击力增加14%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加14.7%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加15.4%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加18.2%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加18.9%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加19.6%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加22.4%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加23.1%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加23.8%"
+            },
+            {
+              "cost": 1,
+              "describe": "攻击力增加26.6%"
+            }
+          ]
+        },
+        {
+          "icon": "https://static.kivo.wiki/images/students/%E5%8F%A4%E7%95%91%20%E5%85%B0%E5%A8%9C/original/skill_icon/t2e9s1HPnotw4THtxze7Obh7er0ZcdBG.png",
+          "title": "组播",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加9.1%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加9.5%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加10%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加11.8%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加12.3%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加12.7%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加14.5%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加15%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加15.5%"
+            },
+            {
+              "cost": 1,
+              "describe": "我方角色的攻击力增加17.3%"
+            }
+          ]
+        }
+      ]
     },
     "weapon": {
       "icon": "",
@@ -225,8 +379,8 @@
   "source": {
     "detail_path": "students/642.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/642.json",
-    "upstream_time": 1792873467,
-    "updated_at": 1790398767,
+    "upstream_time": 1792960312,
+    "updated_at": 1792930653,
     "created_at": 1790162768
   }
 }

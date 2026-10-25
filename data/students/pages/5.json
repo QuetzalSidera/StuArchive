@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 51,
+    "max_page": 52,
     "students": [
+      {
+        "id": 545,
+        "skin": "泳装",
+        "skin_jp": "水着",
+        "skin_cn": "泳装",
+        "skin_zh_tw": "泳裝",
+        "family_name": "圣园",
+        "given_name": "未花",
+        "family_name_jp": "聖園",
+        "given_name_jp": "ミカ",
+        "family_name_cn": "圣园",
+        "given_name_cn": "未花",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%9C%A3%E5%9B%AD%20%E6%9C%AA%E8%8A%B1/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0294_Collection.png",
+        "school": 2,
+        "main_relation": 6
+      },
       {
         "id": 3,
         "skin": "",
@@ -33,6 +49,22 @@
         "family_name_cn": "白洲",
         "given_name_cn": "梓",
         "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E6%B4%B2%20%E6%A2%93/%E6%B3%B3%E8%A3%85/avatar.png",
+        "school": 2,
+        "main_relation": 14
+      },
+      {
+        "id": 645,
+        "skin": "赛车",
+        "skin_jp": "レーシング",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "白洲",
+        "given_name": "梓",
+        "family_name_jp": "白洲",
+        "given_name_jp": "アズサ",
+        "family_name_cn": "白洲",
+        "given_name_cn": "梓",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%99%BD%E6%B4%B2%20%E6%A2%93/original/8EAB83518515B360020F309E3659A183.png",
         "school": 2,
         "main_relation": 14
       },
@@ -131,43 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E6%A0%97%E6%9D%91%20%E7%88%B1%E8%8E%89/%E4%B9%90%E9%98%9F/avatar.png",
         "school": 2,
         "main_relation": 13
-      },
-      {
-        "id": 99,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "伊落",
-        "given_name": "玛丽",
-        "family_name_jp": "伊落",
-        "given_name_jp": "マリー",
-        "family_name_cn": "伊落",
-        "given_name_cn": "玛丽",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%90%BD%20%E7%8E%9B%E4%B8%BD/avatar.png",
-        "school": 2,
-        "main_relation": 9
-      },
-      {
-        "id": 55,
-        "skin": "体操服",
-        "skin_jp": "体操服",
-        "skin_cn": "体操服",
-        "skin_zh_tw": "體育服",
-        "family_name": "伊落",
-        "given_name": "玛丽",
-        "family_name_jp": "伊落",
-        "given_name_jp": "マリー",
-        "family_name_cn": "伊落",
-        "given_name_cn": "玛丽",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%BC%8A%E8%90%BD%20%E7%8E%9B%E4%B8%BD/%E4%BD%93%E8%82%B2%E6%9C%8D/avatar.png",
-        "school": 2,
-        "main_relation": 9
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1792873108,
+  "time": 1792959909,
   "version": "1.0.0-beta.43"
 }

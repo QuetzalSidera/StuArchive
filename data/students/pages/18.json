@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 51,
+    "max_page": 52,
     "students": [
+      {
+        "id": 82,
+        "skin": "女仆",
+        "skin_jp": "メイド",
+        "skin_cn": "女仆",
+        "skin_zh_tw": "女僕",
+        "family_name": "花冈",
+        "given_name": "柚子",
+        "family_name_jp": "花岡",
+        "given_name_jp": "ユズ",
+        "family_name_cn": "花冈",
+        "given_name_cn": "柚子",
+        "avatar": "https://static.kivo.wiki/images/students/%E8%8A%B1%E5%86%88%20%E6%9F%9A%E5%AD%90/%E5%A5%B3%E4%BB%86/avatar.png",
+        "school": 4,
+        "main_relation": 37
+      },
+      {
+        "id": 2,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "才羽",
+        "given_name": "桃井",
+        "family_name_jp": "才羽",
+        "given_name_jp": "モモイ",
+        "family_name_cn": "才羽",
+        "given_name_cn": "桃",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%89%8D%E7%BE%BD%E6%A1%83%E4%BA%95/avatar.png",
+        "school": 4,
+        "main_relation": 37
+      },
       {
         "id": 579,
         "skin": "临战",
@@ -131,43 +163,11 @@
         "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/avatar.png",
         "school": 4,
         "main_relation": 36
-      },
-      {
-        "id": 509,
-        "skin": "睡衣",
-        "skin_jp": "パジャマ",
-        "skin_cn": "",
-        "skin_zh_tw": "睡衣",
-        "family_name": "小涂",
-        "given_name": "真纪",
-        "family_name_jp": "小塗",
-        "given_name_jp": "マキ",
-        "family_name_cn": "小涂",
-        "given_name_cn": "真纪",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E7%9D%A1%E8%A1%A3/maki.png",
-        "school": 4,
-        "main_relation": 36
-      },
-      {
-        "id": 343,
-        "skin": "露营",
-        "skin_jp": "キャンプ",
-        "skin_cn": "露营",
-        "skin_zh_tw": "露營",
-        "family_name": "小涂",
-        "given_name": "真纪",
-        "family_name_jp": "小塗",
-        "given_name_jp": "マキ",
-        "family_name_cn": "小涂",
-        "given_name_cn": "真纪",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%B6%82%20%E7%9C%9F%E7%BA%AA/%E9%9C%B2%E8%90%A5/Student_Portrait_CH0235_Collection.png",
-        "school": 4,
-        "main_relation": 36
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1792873122,
+  "time": 1792959925,
   "version": "1.0.0-beta.43"
 }
