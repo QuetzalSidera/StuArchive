@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-10-25T20:23:51Z",
+  "generated_at": "2026-10-26T22:18:56Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 85,
-  "alias_count": 85,
-  "normalized_alias_count": 85,
+  "total_items": 86,
+  "alias_count": 86,
+  "normalized_alias_count": 86,
   "by_id": {
+    "153": {
+      "id": 153,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 153,
+        "title": "古书馆4周年啦！以后也请多指教！",
+        "image": "https://static.kivo.wiki/images/news/GbQoluSEwgJJSIIftGt25OuJswBNM3Fa.jpg",
+        "url": ""
+      },
+      "detail_path": "news/153.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/153.json"
+    },
     "152": {
       "id": 152,
       "source_path": "news/index.json",
@@ -1120,6 +1133,9 @@
     }
   },
   "by_alias": {
+    "古书馆4周年啦!以后也请多指教!": [
+      "153"
+    ],
     "[广告] 江赴蔚蓝·武汉蔚蓝档案only - 12月26日": [
       "152"
     ],
@@ -1377,6 +1393,9 @@
     ]
   },
   "by_normalized_alias": {
+    "古书馆4周年啦!以后也请多指教!": [
+      "153"
+    ],
     "[广告]江赴蔚蓝·武汉蔚蓝档案only-12月26日": [
       "152"
     ],

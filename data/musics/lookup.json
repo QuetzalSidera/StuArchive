@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-10-25T20:23:51Z",
+  "generated_at": "2026-10-26T22:18:56Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1003,
-  "alias_count": 1324,
-  "normalized_alias_count": 1324,
+  "total_items": 1020,
+  "alias_count": 1341,
+  "normalized_alias_count": 1341,
   "by_id": {
     "1": {
       "id": 1,
@@ -14355,7 +14355,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 916,
-        "title": "KAGEROU",
+        "title": "KAGEROU (Game Ver.)",
         "cover": "https://static.kivo.wiki/images/music/cover/aE4F0RVJBpN1iV4HgGFeE0nd8ht5947f.png",
         "author": "吉野ニコ(CV: 浅見香月) / STUDIOALOH",
         "album": "游戏内曲目",
@@ -16060,6 +16060,278 @@
       },
       "detail_path": "musics/1022.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1022.json"
+    },
+    "1023": {
+      "id": 1023,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1023,
+        "title": "KAGEROU",
+        "cover": "https://static.kivo.wiki/images/music/cover/11twuEh5k4a83detc4i3TKotxRMfulk8.jpg",
+        "author": "吉野ニコ(CV: 浅見香月) / kotono / Mitsukiyo",
+        "album": "KAGEROU",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1023.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1023.json"
+    },
+    "1024": {
+      "id": 1024,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1024,
+        "title": "KAGEROU(Short Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/TqWz3QGqsUre5fzVEPWO3pu5wo1CUHPj.jpg",
+        "author": "吉野ニコ(CV: 浅見香月) / kotono / Mitsukiyo",
+        "album": "KAGEROU",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1024.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1024.json"
+    },
+    "1025": {
+      "id": 1025,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1025,
+        "title": "KAGEROU(Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/Pd1BjXdJrl2Zq71PGNsgmKOyJQCvXz9V.jpg",
+        "author": "吉野ニコ(CV: 浅見香月) / kotono / Mitsukiyo",
+        "album": "KAGEROU",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1025.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1025.json"
+    },
+    "1026": {
+      "id": 1026,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1026,
+        "title": "KAGEROU(Short Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/gh2NnLlN9lwoAswK10gZVE79GAjRVE7F.jpg",
+        "author": "吉野ニコ(CV: 浅見香月) / kotono / Mitsukiyo",
+        "album": "KAGEROU",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1026.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1026.json"
+    },
+    "1027": {
+      "id": 1027,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1027,
+        "title": "Remember Again",
+        "cover": "https://static.kivo.wiki/images/music/cover/TeZ7DRFFAyfoUhQwsxI3Ysr51UVLa466.jpg",
+        "author": "イロハ(CV：福圓美里) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "Remember Again",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1027.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1027.json"
+    },
+    "1028": {
+      "id": 1028,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1028,
+        "title": "Remember Again(Short Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/HmK3mEOVuJsRevkuvUfq0r4kvRgdkLAO.jpg",
+        "author": "イロハ(CV：福圓美里) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "Remember Again",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1028.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1028.json"
+    },
+    "1029": {
+      "id": 1029,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1029,
+        "title": "Remember Again(Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/OYQ6a1l6yizTHMW4YFxf5UcmCqEi2u8T.jpg",
+        "author": "イロハ(CV：福圓美里) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "Remember Again",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1029.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1029.json"
+    },
+    "1030": {
+      "id": 1030,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1030,
+        "title": "Remember Again(Short Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/9X3FvYdFDFLa2pRL0TT0VgMSlbNjbE2S.jpg",
+        "author": "イロハ(CV：福圓美里) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "Remember Again",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1030.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1030.json"
+    },
+    "1031": {
+      "id": 1031,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1031,
+        "title": "咲き継ぐ百花",
+        "cover": "https://static.kivo.wiki/images/music/cover/FCcKgaUecSM7xTizoAVHn8lbG7DAH2QU.jpg",
+        "author": "百花繚乱紛争調停委員会 / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "青春あんさんぶる Vol.20 「百花繚乱紛争調停委員会」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1031.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1031.json"
+    },
+    "1032": {
+      "id": 1032,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1032,
+        "title": "咲き継ぐ百花(Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/DwvQoANhTizh2RBVB2eGiWEFzVgZisC1.jpg",
+        "author": "百花繚乱紛争調停委員会 / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "青春あんさんぶる Vol.20 「百花繚乱紛争調停委員会」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1032.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1032.json"
+    },
+    "1033": {
+      "id": 1033,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1033,
+        "title": "ボイスドラマVol.20「幕間～いつか百の花咲くその日まで～」",
+        "cover": "https://static.kivo.wiki/images/music/cover/oKwemevsdOGyudVmdpeEHOKjONfWlTpV.jpg",
+        "author": "百花繚乱紛争調停委員会 / 夕野ヨシミ(IOSYS) / Mitsukiyo",
+        "album": "青春あんさんぶる Vol.20 「百花繚乱紛争調停委員会」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1033.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1033.json"
+    },
+    "1034": {
+      "id": 1034,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1034,
+        "title": "段々と夢中になぁ～る",
+        "cover": "https://static.kivo.wiki/images/music/cover/Qe9SSeoZq9xYmItOAccnAbVMzkfuVyxK.jpg",
+        "author": "サツキ(CV：櫻井浩美) / john=hive(IOSYS) / EmoCosine",
+        "album": "絆ダイアローグ Vol.28 「サツキ」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1034.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1034.json"
+    },
+    "1035": {
+      "id": 1035,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1035,
+        "title": "段々と夢中になぁ～る(Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/ZM7u37XdQ1YyhioF8A11wjoxUNkR4mEB.jpg",
+        "author": "サツキ(CV：櫻井浩美) / john=hive(IOSYS) / EmoCosine",
+        "album": "絆ダイアローグ Vol.28 「サツキ」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1035.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1035.json"
+    },
+    "1036": {
+      "id": 1036,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1036,
+        "title": "Dialogue Vol.28「魅惑の膝枕」",
+        "cover": "https://static.kivo.wiki/images/music/cover/yslcMCLyr9khnk35yrWSGsSMINDluccz.jpg",
+        "author": "サツキ(CV：櫻井浩美) / john=hive(IOSYS) / EmoCosine",
+        "album": "絆ダイアローグ Vol.28 「サツキ」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1036.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1036.json"
+    },
+    "1037": {
+      "id": 1037,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1037,
+        "title": "宵にほどけて",
+        "cover": "https://static.kivo.wiki/images/music/cover/QAq6hVu1XCysUCKV7EfRVTZBPnZkcNiW.jpg",
+        "author": "キサキ(CV：相坂優歌) / 夕野ヨシミ(IOSYS) / KARUT",
+        "album": "絆ダイアローグ Vol.29 「キサキ」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1037.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1037.json"
+    },
+    "1038": {
+      "id": 1038,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1038,
+        "title": "宵にほどけて(Instrumental Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/ZOmjZ1ZuAnEQVaRqKnaVqBMewGyLO1Lk.jpg",
+        "author": "キサキ(CV：相坂優歌) / 夕野ヨシミ(IOSYS) / KARUT",
+        "album": "絆ダイアローグ Vol.29 「キサキ」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1038.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1038.json"
+    },
+    "1039": {
+      "id": 1039,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1039,
+        "title": "Dialogue Vol.29「ただ一人の、生徒として」",
+        "cover": "https://static.kivo.wiki/images/music/cover/5Yg6l6psNzgrbCxEWJuWD5Hw6ubI1ec2.jpg",
+        "author": "キサキ(CV：相坂優歌) / 夕野ヨシミ(IOSYS) / KARUT",
+        "album": "絆ダイアローグ Vol.29 「キサキ」",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1039.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1039.json"
     }
   },
   "by_alias": {
@@ -19688,7 +19960,7 @@
     "Theme_352": [
       "915"
     ],
-    "KAGEROU": [
+    "KAGEROU (Game Ver.)": [
       "916"
     ],
     "90100000_ED_Sound": [
@@ -20035,6 +20307,57 @@
     ],
     "Theme_376": [
       "1022"
+    ],
+    "KAGEROU": [
+      "1023"
+    ],
+    "KAGEROU(Short Ver.)": [
+      "1024"
+    ],
+    "KAGEROU(Instrumental Ver.)": [
+      "1025"
+    ],
+    "KAGEROU(Short Instrumental Ver.)": [
+      "1026"
+    ],
+    "Remember Again": [
+      "1027"
+    ],
+    "Remember Again(Short Ver.)": [
+      "1028"
+    ],
+    "Remember Again(Instrumental Ver.)": [
+      "1029"
+    ],
+    "Remember Again(Short Instrumental Ver.)": [
+      "1030"
+    ],
+    "咲き継ぐ百花": [
+      "1031"
+    ],
+    "咲き継ぐ百花(Instrumental Ver.)": [
+      "1032"
+    ],
+    "ボイスドラマVol.20「幕間~いつか百の花咲くその日まで~」": [
+      "1033"
+    ],
+    "段々と夢中になぁ~る": [
+      "1034"
+    ],
+    "段々と夢中になぁ~る(Instrumental Ver.)": [
+      "1035"
+    ],
+    "Dialogue Vol.28「魅惑の膝枕」": [
+      "1036"
+    ],
+    "宵にほどけて": [
+      "1037"
+    ],
+    "宵にほどけて(Instrumental Ver.)": [
+      "1038"
+    ],
+    "Dialogue Vol.29「ただ一人の、生徒として」": [
+      "1039"
     ]
   },
   "by_normalized_alias": {
@@ -23663,7 +23986,7 @@
     "theme_352": [
       "915"
     ],
-    "kagerou": [
+    "kagerou(gamever.)": [
       "916"
     ],
     "90100000_ed_sound": [
@@ -24010,6 +24333,57 @@
     ],
     "theme_376": [
       "1022"
+    ],
+    "kagerou": [
+      "1023"
+    ],
+    "kagerou(shortver.)": [
+      "1024"
+    ],
+    "kagerou(instrumentalver.)": [
+      "1025"
+    ],
+    "kagerou(shortinstrumentalver.)": [
+      "1026"
+    ],
+    "rememberagain": [
+      "1027"
+    ],
+    "rememberagain(shortver.)": [
+      "1028"
+    ],
+    "rememberagain(instrumentalver.)": [
+      "1029"
+    ],
+    "rememberagain(shortinstrumentalver.)": [
+      "1030"
+    ],
+    "咲き継ぐ百花": [
+      "1031"
+    ],
+    "咲き継ぐ百花(instrumentalver.)": [
+      "1032"
+    ],
+    "ボイスドラマvol.20「幕間~いつか百の花咲くその日まで~」": [
+      "1033"
+    ],
+    "段々と夢中になぁ~る": [
+      "1034"
+    ],
+    "段々と夢中になぁ~る(instrumentalver.)": [
+      "1035"
+    ],
+    "dialoguevol.28「魅惑の膝枕」": [
+      "1036"
+    ],
+    "宵にほどけて": [
+      "1037"
+    ],
+    "宵にほどけて(instrumentalver.)": [
+      "1038"
+    ],
+    "dialoguevol.29「ただ一人の、生徒として」": [
+      "1039"
     ]
   }
 }

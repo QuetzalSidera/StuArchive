@@ -7,15 +7,21 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-10-25T20:23:51Z",
+  "generated_at": "2026-10-26T22:18:56Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 85,
-  "details_synced": 85,
+  "total_items": 86,
+  "details_synced": 86,
   "details_enabled": true,
   "items": [
+    {
+      "id": 153,
+      "title": "古书馆4周年啦！以后也请多指教！",
+      "image": "https://static.kivo.wiki/images/news/GbQoluSEwgJJSIIftGt25OuJswBNM3Fa.jpg",
+      "url": ""
+    },
     {
       "id": 152,
       "title": "[广告] 江赴蔚蓝·武汉蔚蓝档案only - 12月26日",
@@ -589,10 +595,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 5
+      "item_count": 6
     }
   ],
   "details": [
+    {
+      "id": 153,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/153",
+      "path": "news/153.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/153.json"
+    },
     {
       "id": 152,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/152",
@@ -1107,8 +1119,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 85,
-    "normalized_alias_count": 85,
-    "total_items": 85
+    "alias_count": 86,
+    "normalized_alias_count": 86,
+    "total_items": 86
   }
 }
