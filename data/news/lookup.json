@@ -2,17 +2,56 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-10-26T22:18:56Z",
+  "generated_at": "2026-10-27T21:49:57Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 86,
-  "alias_count": 86,
-  "normalized_alias_count": 86,
+  "total_items": 89,
+  "alias_count": 89,
+  "normalized_alias_count": 89,
   "by_id": {
+    "156": {
+      "id": 156,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 156,
+        "title": "日服新活动「Start Your Engines! ～183号よ永遠に！～」",
+        "image": "https://static.kivo.wiki/images/news/T5bYkPnuN7moVB3pzj80p83zk7hbrO6W.jpg",
+        "url": "x.com/Blue_ArchiveJP/status/2114313078879977697"
+      },
+      "detail_path": "news/156.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/156.json"
+    },
+    "155": {
+      "id": 155,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 155,
+        "title": "[已结束]日服新活动「It’s our Engine! ～183号を脱出せよ！～」",
+        "image": "https://static.kivo.wiki/images/news/W64wQSZMxercYITDhGJsUyuiqATdBmwI.jpg",
+        "url": "x.com/Blue_ArchiveJP/status/2101219999906205899"
+      },
+      "detail_path": "news/155.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/155.json"
+    },
+    "154": {
+      "id": 154,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 154,
+        "title": "主线剧情第2部Ex. 「ロア追跡」篇第3章公开 - 10月21日",
+        "image": "https://static.kivo.wiki/images/news/vKBQbnIVClzlY2qE5Pui6ZZGWXBjquVS.jpg",
+        "url": "x.com/Blue_ArchiveJP/status/2111653920972104039"
+      },
+      "detail_path": "news/154.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/154.json"
+    },
     "153": {
       "id": 153,
       "source_path": "news/index.json",
@@ -1133,6 +1172,15 @@
     }
   },
   "by_alias": {
+    "日服新活动「Start Your Engines! ~183号よ永遠に!~」": [
+      "156"
+    ],
+    "[已结束]日服新活动「It’s our Engine! ~183号を脱出せよ!~」": [
+      "155"
+    ],
+    "主线剧情第2部Ex. 「ロア追跡」篇第3章公开 - 10月21日": [
+      "154"
+    ],
     "古书馆4周年啦!以后也请多指教!": [
       "153"
     ],
@@ -1393,6 +1441,15 @@
     ]
   },
   "by_normalized_alias": {
+    "日服新活动「startyourengines!~183号よ永遠に!~」": [
+      "156"
+    ],
+    "[已结束]日服新活动「it’sourengine!~183号を脱出せよ!~」": [
+      "155"
+    ],
+    "主线剧情第2部ex.「ロア追跡」篇第3章公开-10月21日": [
+      "154"
+    ],
     "古书馆4周年啦!以后也请多指教!": [
       "153"
     ],

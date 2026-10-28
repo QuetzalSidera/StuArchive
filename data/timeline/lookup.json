@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-10-26T22:18:56Z",
+  "generated_at": "2026-10-27T21:49:57Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6024,
-  "alias_count": 6013,
-  "normalized_alias_count": 6006,
+  "total_items": 6031,
+  "alias_count": 6020,
+  "normalized_alias_count": 6013,
   "by_id": {
     "6180": {
       "id": 6180,
@@ -113,7 +113,7 @@
         "title": "任务hard2倍#59",
         "image": "https://static.kivo.wiki/images/timeline/a1E1ayZO1hdAsrThW9bov0nmsOkFXFhr.jpg",
         "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
-        "type": "Event",
+        "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
         "start_time": 1794081600,
         "end_time": 1794340799
@@ -175,6 +175,24 @@
       "detail_path": "timeline/6169.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6169.json"
     },
+    "6167": {
+      "id": 6167,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6167,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#32",
+        "image": "https://static.kivo.wiki/images/timeline/fY7IAPoF5q0p0vfQGqDW3cOQwAzSyL47.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1793390400,
+        "end_time": 1794167999
+      },
+      "detail_path": "timeline/6167.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6167.json"
+    },
     "6161": {
       "id": 6161,
       "source_path": "timeline/index.json",
@@ -229,6 +247,42 @@
       "detail_path": "timeline/6065.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6065.json"
     },
+    "6195": {
+      "id": 6195,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6195,
+        "line_type": "CN",
+        "title": "限时招募【暗影啊，倾听吧 缠绕着幻象的万千声息】",
+        "image": "https://static.kivo.wiki/images/timeline/DPtAWEyXf39LgGSgpVk9aBlL9L2jshP6.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【暗影啊，倾听吧 缠绕着幻象的万千声息】即将开启！在本次招募中，全新3★成员\"庚\"登场，且招募概率得到提升！ ■ 招募时间 10月29日 维护结束后 ~ 11月1",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1991",
+        "start_time": 1793203200,
+        "end_time": 1794463199
+      },
+      "detail_path": "timeline/6195.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6195.json"
+    },
+    "6194": {
+      "id": 6194,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6194,
+        "line_type": "CN",
+        "title": "限时招募【星星啊，凝视吧！驰骋于梦境的魔导之笔！】",
+        "image": "https://static.kivo.wiki/images/timeline/US7LZs3LgUb8oc3hy7d4MWaqiMAkR8qS.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【星星啊，凝视吧！驰骋于梦境的魔导之笔！】即将开启！在本次招募中，全新3★成员\"艾利\"登场，且招募概率得到提升！ ■ 招募时间 10月29日 维护结束后 ~ 11",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1992",
+        "start_time": 1793203200,
+        "end_time": 1794463199
+      },
+      "detail_path": "timeline/6194.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6194.json"
+    },
     "6176": {
       "id": 6176,
       "source_path": "timeline/index.json",
@@ -257,7 +311,7 @@
         "title": "同行实习功能追加",
         "image": "https://static.kivo.wiki/images/timeline/ShB64tO3YNB692aswKx5VQsv6cp8z41R.jpg",
         "body_summary": "【新情報⑨】 10月28日(水)メンテナンス後より、新機能「同行実習」が実装されます。 特定の生徒さんを募集でお迎えしていなくても、各コンテンツで編成できるシステムです！ ミッションをクリアして生徒さ",
-        "type": "Event",
+        "type": "ContentImprovements",
         "url": "x.com/Blue_ArchiveJP/status/2114318121054146998",
         "start_time": 1793156400,
         "end_time": 1793156400
@@ -300,24 +354,6 @@
       },
       "detail_path": "timeline/6173.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6173.json"
-    },
-    "6167": {
-      "id": 6167,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6167,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-10-31",
-        "image": "https://static.kivo.wiki/images/timeline/fY7IAPoF5q0p0vfQGqDW3cOQwAzSyL47.jpg",
-        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
-        "start_time": 1793156400,
-        "end_time": 1794193199
-      },
-      "detail_path": "timeline/6167.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6167.json"
     },
     "6166": {
       "id": 6166,
@@ -589,6 +625,42 @@
       "detail_path": "timeline/6184.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6184.json"
     },
+    "6189": {
+      "id": 6189,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6189,
+        "line_type": "JP",
+        "title": "6周年特设网站开放",
+        "image": "https://static.kivo.wiki/images/timeline/Mq1ZZXmzlParhsog4KDmsF97AZhqoYca.jpg",
+        "body_summary": "【6thアニバーサリー】 6周年の特設サイトがオープンしました！ そして、今年も「ブルアカふぇす！」が開催決定です！ 開催日：2027/1/23(土)～1/24(日) 会場：幕張メッセ 国際展示場 展",
+        "type": "WebEvent",
+        "url": "x.com/Blue_ArchiveJP/status/2114348757538029601",
+        "start_time": 1792935000,
+        "end_time": 1792935000
+      },
+      "detail_path": "timeline/6189.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6189.json"
+    },
+    "6190": {
+      "id": 6190,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6190,
+        "line_type": "JP",
+        "title": "日服运营权变更",
+        "image": "https://static.kivo.wiki/images/timeline/W1T6qjztLHRRX8mOXT2FebYTIozgRBEv.png",
+        "body_summary": "Yostar方通知 x.com/BlueArchiveJP/status/2114344275798524374 【株式会社ネクソンより 今後のサービス運営について】 いつも『ブルーアーカイブ』を応援",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2114344275798524374",
+        "start_time": 1792933920,
+        "end_time": 1792933920
+      },
+      "detail_path": "timeline/6190.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6190.json"
+    },
     "6162": {
       "id": 6162,
       "source_path": "timeline/index.json",
@@ -643,6 +715,24 @@
       "detail_path": "timeline/6158.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6158.json"
     },
+    "6193": {
+      "id": 6193,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6193,
+        "line_type": "CN",
+        "title": "艾利 & 庚家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/1xLtXRFtAU5bmwdOsxHGXNxAsiveh81R.gif",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 10月29日 维护结束后 ■ 互动更新 • 艾利 & 魔法飞毯循环扇 华丽的魔",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/Ro18yAUc9",
+        "start_time": 1792749600,
+        "end_time": 1792749600
+      },
+      "detail_path": "timeline/6193.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6193.json"
+    },
     "6156": {
       "id": 6156,
       "source_path": "timeline/index.json",
@@ -660,6 +750,42 @@
       },
       "detail_path": "timeline/6156.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6156.json"
+    },
+    "6192": {
+      "id": 6192,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6192,
+        "line_type": "CN",
+        "title": "庚",
+        "image": "https://static.kivo.wiki/images/timeline/KVQy57yqcs2yYco8yTNoZ1K9Rc0nMTv1.jpg",
+        "body_summary": "//////////档案启封////////// ■ 庚 致力于探究蕴藏在艺术中的神秘学的神秘学研究会成员。 虽然是神秘学研究会中唯一的3年学员，但她并不是会长，而是作为助力者在背后支持着成员们。因其",
+        "type": "Other",
+        "url": "weibo.com/6011443154/Ro0lQE3Oc",
+        "start_time": 1792742400,
+        "end_time": 1792742400
+      },
+      "detail_path": "timeline/6192.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6192.json"
+    },
+    "6191": {
+      "id": 6191,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6191,
+        "line_type": "CN",
+        "title": "艾利",
+        "image": "https://static.kivo.wiki/images/timeline/rVaRaWxnfrfDz8mFZIEpyg2N7PxVsBPS.jpg",
+        "body_summary": "//////////档案启封////////// ■ 艾利 致力于探究蕴藏在艺术中的神秘学的神秘学研究会会长。 总是戴着巨大的女巫帽，言谈间捋一切比喻成魔法。坚信可以利用神秘学提升自己不够理想的成绩。",
+        "type": "Other",
+        "url": "weibo.com/6011443154/RnZz9neh6",
+        "start_time": 1792735200,
+        "end_time": 1792735200
+      },
+      "detail_path": "timeline/6191.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6191.json"
     },
     "6154": {
       "id": 6154,
@@ -769,6 +895,24 @@
       "detail_path": "timeline/6125.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6125.json"
     },
+    "6196": {
+      "id": 6196,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6196,
+        "line_type": "CN",
+        "title": "【现在是——基沃托斯时间！】#7",
+        "image": "https://static.kivo.wiki/images/timeline/RyLSUmhxA2DdIj2uuAPIOnzgxiCu4fCg.png",
+        "body_summary": "《蔚蓝档案》特别前瞻【现在是——基沃托斯时间！】第七期！ 聚焦沙勒最硬核的攻略秘籍！直击基沃托斯最前沿的神秘八卦？！ 无论你所在何地无论你身处何时，欢迎锁定【现在是——基沃托斯时间！】 本期内容老师将",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/opus/1261975423009423365",
+        "start_time": 1792664940,
+        "end_time": 1792664940
+      },
+      "detail_path": "timeline/6196.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6196.json"
+    },
     "6159": {
       "id": 6159,
       "source_path": "timeline/index.json",
@@ -830,7 +974,7 @@
       "item": {
         "id": 6143,
         "line_type": "JP",
-        "title": "活动「特殊作戦『ロア追跡』編」",
+        "title": "特殊作战「ロア追跡」篇#3",
         "image": "https://static.kivo.wiki/images/timeline/yXwwx7N8GTBJmmHwG4slAXqUuR6yLJMi.jpg",
         "body_summary": "【イベント予告】 2026年10月21日(水) 11:00より、第2部 メインストーリーEx. 「ロア追跡」編 第3章「夢の中の列車」の公開に合わせて、イベント「特殊作戦『ロア追跡』編」が 開催されま",
         "type": "Event",
@@ -2198,13 +2342,13 @@
       "item": {
         "id": 6072,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-09-25",
+        "title": "老师经验2倍集中通知#31",
         "image": "https://static.kivo.wiki/images/timeline/ZQvkH8wDloGuRijqUQb77usozzqGWBzb.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2103363940034170897",
-        "start_time": 1790366441,
-        "end_time": 1790971241
+        "start_time": 1790366400,
+        "end_time": 1791143999
       },
       "detail_path": "timeline/6072.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6072.json"
@@ -2641,6 +2785,24 @@
       "detail_path": "timeline/6014.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6014.json"
     },
+    "6197": {
+      "id": 6197,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6197,
+        "line_type": "CN",
+        "title": "【现在是——基沃托斯时间！】#6",
+        "image": "",
+        "body_summary": "《蔚蓝档案》特别前瞻【现在是——基沃托斯时间！】第六期！ 聚焦沙勒最硬核的攻略秘籍！直击基沃托斯最前沿的神秘八卦？！ 无论你所在何地无论你身处何时，欢迎锁定【现在是——基沃托斯时间！】 本期内容老师将",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/opus/1251109903019278338",
+        "start_time": 1790137740,
+        "end_time": 1790137740
+      },
+      "detail_path": "timeline/6197.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6197.json"
+    },
     "6071": {
       "id": 6071,
       "source_path": "timeline/index.json",
@@ -2677,24 +2839,6 @@
       "detail_path": "timeline/6069.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6069.json"
     },
-    "6054": {
-      "id": 6054,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6054,
-        "line_type": "JP",
-        "title": "例行维护 #151",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年9月23日(水・祝) 11:00 〜 19:00前後 ▼詳細 ",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2102276786562400266",
-        "start_time": 1790132407,
-        "end_time": 1790161207
-      },
-      "detail_path": "timeline/6054.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6054.json"
-    },
     "6070": {
       "id": 6070,
       "source_path": "timeline/index.json",
@@ -2712,6 +2856,24 @@
       },
       "detail_path": "timeline/6070.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6070.json"
+    },
+    "6054": {
+      "id": 6054,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6054,
+        "line_type": "JP",
+        "title": "例行维护#151",
+        "image": "https://static.kivo.wiki/images/timeline/9d2Ifrzll3ot8Q0ivng4KQ1zhAHd0x9P.png",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年9月23日(水・祝) 11:00 〜 19:00前後 ▼詳細 ",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2102276786562400266",
+        "start_time": 1790132400,
+        "end_time": 1790161200
+      },
+      "detail_path": "timeline/6054.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6054.json"
     },
     "6044": {
       "id": 6044,
@@ -4070,7 +4232,7 @@
       "item": {
         "id": 5947,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-08-29",
+        "title": "老师经验2倍集中通知#30",
         "image": "https://static.kivo.wiki/images/timeline/JAJzCnEhwuNF0fLJNkSz6zZYZVv159aS.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
@@ -5834,7 +5996,7 @@
       "item": {
         "id": 5820,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-08-01",
+        "title": "老师经验2倍集中通知#29",
         "image": "https://static.kivo.wiki/images/timeline/TN9u20sLXPiNe26Yo7HQhoukEstAanwF.jpg",
         "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
         "type": "Double",
@@ -8786,13 +8948,13 @@
       "item": {
         "id": 5592,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-06-27",
+        "title": "老师经验2倍集中通知#28",
         "image": "https://static.kivo.wiki/images/timeline/4abqwcgtDNCWVhFLW8m8j62xIFOLFoEn.jpg",
         "body_summary": "【新情報 ③】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブル",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2068292347008610584",
         "start_time": 1782504000,
-        "end_time": 1782676799
+        "end_time": 1783281599
       },
       "detail_path": "timeline/5592.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5592.json"
@@ -10676,13 +10838,13 @@
       "item": {
         "id": 5507,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-05-30",
+        "title": "老师经验2倍集中通知#27",
         "image": "https://static.kivo.wiki/images/timeline/adqDr2yhZE4AfFeu7LNPUSi8cqOpqTjV.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2060285435453264202",
-        "start_time": 1780081276,
-        "end_time": 1780253956
+        "start_time": 1780084800,
+        "end_time": 1780862399
       },
       "detail_path": "timeline/5507.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5507.json"
@@ -13016,13 +13178,13 @@
       "item": {
         "id": 5331,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-04-25",
+        "title": "老师经验2倍集中通知#26",
         "image": "https://static.kivo.wiki/images/timeline/ZuI7JKPsl3XpuuOIxAVS9jxDhCsatnvW.png",
         "body_summary": "【新情報⑦】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません #ブルアカ #ブルア",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2045829808932970826",
-        "start_time": 1777057200,
-        "end_time": 1777229999
+        "start_time": 1777060800,
+        "end_time": 1778097599
       },
       "detail_path": "timeline/5331.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5331.json"
@@ -15734,13 +15896,13 @@
       "item": {
         "id": 5226,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-03-20",
+        "title": "老师经验2倍集中通知#25",
         "image": "https://static.kivo.wiki/images/timeline/nCvI5qJ9bWkoDCLBGqbI5HEL6I59nDal.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2034872823710458233",
-        "start_time": 1774012556,
-        "end_time": 1774271756
+        "start_time": 1773950400,
+        "end_time": 1774814399
       },
       "detail_path": "timeline/5226.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5226.json"
@@ -17930,13 +18092,13 @@
       "item": {
         "id": 5127,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-02-13",
+        "title": "老师经验2倍集中通知#24",
         "image": "https://static.kivo.wiki/images/timeline/Cel9yYk5v82Tt4DJUSfIQWjTpWApexaS.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2022220163819745664",
-        "start_time": 1771042962,
-        "end_time": 1771215762
+        "start_time": 1771012800,
+        "end_time": 1772308799
       },
       "detail_path": "timeline/5127.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5127.json"
@@ -20072,13 +20234,13 @@
       "item": {
         "id": 4953,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-01-24",
+        "title": "老师经验2倍集中通知#23",
         "image": "https://static.kivo.wiki/images/timeline/dppQWpK2n8k4tXhcMOKHfRCKAq3CHbZw.jpg",
         "body_summary": "【新情報⑪】 ブルアカの5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲得量",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2012796314959102311",
         "start_time": 1769198400,
-        "end_time": 1769371199
+        "end_time": 1770580799
       },
       "detail_path": "timeline/4953.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4953.json"
@@ -22250,13 +22412,13 @@
       "item": {
         "id": 4830,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-12-27",
+        "title": "老师经验2倍集中通知#22",
         "image": "https://static.kivo.wiki/images/timeline/E3RdQI5Ix1bJe3fuoBAb1iwEmmwUBtg0.jpg",
         "body_summary": "【新情報④】 期間限定で「2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶくりぱSP",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/2002336289618866453",
         "start_time": 1766779200,
-        "end_time": 1766951999
+        "end_time": 1767556799
       },
       "detail_path": "timeline/4830.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4830.json"
@@ -24536,13 +24698,13 @@
       "item": {
         "id": 4719,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-11-22",
+        "title": "老师经验2倍集中通知#21",
         "image": "https://static.kivo.wiki/images/timeline/DGyjso75nsHhrMOXwaqplkxr0hNcW1ef.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1991779320893960615",
         "start_time": 1763755200,
-        "end_time": 1763755200
+        "end_time": 1764532799
       },
       "detail_path": "timeline/4719.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4719.json"
@@ -26174,13 +26336,13 @@
       "item": {
         "id": 4628,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-10-25",
+        "title": "老师经验2倍集中通知#20",
         "image": "https://static.kivo.wiki/images/timeline/CTbdxxm0T5vQMYk8dSKBIMQcL44pgHC5.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1981632245250330842?s=19",
-        "start_time": 1761321650,
-        "end_time": 1761321650
+        "start_time": 1761336000,
+        "end_time": 1762199999
       },
       "detail_path": "timeline/4628.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4628.json"
@@ -28075,6 +28237,24 @@
       "detail_path": "timeline/4551.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4551.json"
     },
+    "4532": {
+      "id": 4532,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 4532,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#19",
+        "image": "https://static.kivo.wiki/images/timeline/QgP7u9CSLLhLB6mrYteutBfm0qgedoii.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1971485756616212495",
+        "start_time": 1758916800,
+        "end_time": 1760385599
+      },
+      "detail_path": "timeline/4532.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4532.json"
+    },
     "4439": {
       "id": 4439,
       "source_path": "timeline/index.json",
@@ -28092,24 +28272,6 @@
       },
       "detail_path": "timeline/4439.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4439.json"
-    },
-    "4532": {
-      "id": 4532,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 4532,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-09-26",
-        "image": "https://static.kivo.wiki/images/timeline/QgP7u9CSLLhLB6mrYteutBfm0qgedoii.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1971485756616212495",
-        "start_time": 1758899074,
-        "end_time": 1758899074
-      },
-      "detail_path": "timeline/4532.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4532.json"
     },
     "4554": {
       "id": 4554,
@@ -29936,13 +30098,13 @@
       "item": {
         "id": 4402,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-08-22",
-        "image": "https://static.kivo.wiki/images/timeline/EdhWZZUkL9VaxvtJrM1ZqGgFpbg1oPCC.jpg",
+        "title": "老师经验2倍集中通知#18",
+        "image": "https://static.kivo.wiki/images/timeline/zxuaud2XBLNg6mnnNsxMsnKh6ixe2LnS.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1958801579810988432",
-        "start_time": 1755861511,
-        "end_time": 1755861511
+        "start_time": 1755892800,
+        "end_time": 1756670399
       },
       "detail_path": "timeline/4402.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4402.json"
@@ -32197,6 +32359,24 @@
       "detail_path": "timeline/4290.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4290.json"
     },
+    "4284": {
+      "id": 4284,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 4284,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#17",
+        "image": "https://static.kivo.wiki/images/timeline/sKZIhfhnIetEjISlC1xVJVjAlFac97SF.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1948707350489301072",
+        "start_time": 1753473600,
+        "end_time": 1755460799
+      },
+      "detail_path": "timeline/4284.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4284.json"
+    },
     "4289": {
       "id": 4289,
       "source_path": "timeline/index.json",
@@ -32232,24 +32412,6 @@
       },
       "detail_path": "timeline/4297.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4297.json"
-    },
-    "4284": {
-      "id": 4284,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 4284,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-07-25",
-        "image": "https://static.kivo.wiki/images/timeline/sKZIhfhnIetEjISlC1xVJVjAlFac97SF.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1948707350489301072",
-        "start_time": 1753416000,
-        "end_time": 1753416000
-      },
-      "detail_path": "timeline/4284.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4284.json"
     },
     "4282": {
       "id": 4282,
@@ -34778,13 +34940,13 @@
       "item": {
         "id": 4165,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-06-27",
+        "title": "老师经验2倍集中通知#16",
         "image": "https://static.kivo.wiki/images/timeline/E7kMfR4MVwOoaKQ9vGGWAige3G5BvYpv.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1938507698771005492",
-        "start_time": 1751018400,
-        "end_time": 1751018400
+        "start_time": 1751054400,
+        "end_time": 1751831999
       },
       "detail_path": "timeline/4165.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/4165.json"
@@ -38515,6 +38677,24 @@
       "detail_path": "timeline/3937.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3937.json"
     },
+    "3923": {
+      "id": 3923,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 3923,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#15",
+        "image": "https://static.kivo.wiki/images/timeline/WsjzMddLzmog9ZbyprmRP7l9FFuaDDaZ.jpg",
+        "body_summary": "【新情報 ④】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません。 #ブルアカ #ブ",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1913918036261933459",
+        "start_time": 1745611200,
+        "end_time": 1746561599
+      },
+      "detail_path": "timeline/3923.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3923.json"
+    },
     "3942": {
       "id": 3942,
       "source_path": "timeline/index.json",
@@ -39216,24 +39396,6 @@
       },
       "detail_path": "timeline/3924.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3924.json"
-    },
-    "3923": {
-      "id": 3923,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 3923,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-04-20",
-        "image": "https://static.kivo.wiki/images/timeline/WsjzMddLzmog9ZbyprmRP7l9FFuaDDaZ.jpg",
-        "body_summary": "【新情報 ④】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量は変わりません。 #ブルアカ #ブ",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1913918036261933459",
-        "start_time": 1745157897,
-        "end_time": 1745157897
-      },
-      "detail_path": "timeline/3923.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3923.json"
     },
     "3881": {
       "id": 3881,
@@ -40736,13 +40898,13 @@
       "item": {
         "id": 3810,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-03-28",
+        "title": "老师经验2倍集中通知#14",
         "image": "https://static.kivo.wiki/images/timeline/PAFmUPS1vi79eHuI3MBQr9rTLm03ky3A.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1905530823962755350",
-        "start_time": 1743152520,
-        "end_time": 1743152520
+        "start_time": 1743192000,
+        "end_time": 1743969599
       },
       "detail_path": "timeline/3810.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3810.json"
@@ -42421,6 +42583,24 @@
       "detail_path": "timeline/3729.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3729.json"
     },
+    "3667": {
+      "id": 3667,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 3667,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#13",
+        "image": "https://static.kivo.wiki/images/timeline/jlbRejRyqpmF9B2c2iaNJBrzmXIBH53X.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1895368413092176302",
+        "start_time": 1740772800,
+        "end_time": 1741550399
+      },
+      "detail_path": "timeline/3667.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3667.json"
+    },
     "3759": {
       "id": 3759,
       "source_path": "timeline/index.json",
@@ -42456,24 +42636,6 @@
       },
       "detail_path": "timeline/3668.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3668.json"
-    },
-    "3667": {
-      "id": 3667,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 3667,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-02-28",
-        "image": "https://static.kivo.wiki/images/timeline/jlbRejRyqpmF9B2c2iaNJBrzmXIBH53X.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1895368413092176302",
-        "start_time": 1740729600,
-        "end_time": 1740729600
-      },
-      "detail_path": "timeline/3667.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3667.json"
     },
     "3756": {
       "id": 3756,
@@ -44473,6 +44635,24 @@
       "detail_path": "timeline/3601.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3601.json"
     },
+    "3577": {
+      "id": 3577,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 3577,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#12",
+        "image": "https://static.kivo.wiki/images/timeline/oDF8B5VPedINBbjy8LA0qLaOaR4d0WBn.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1882699993225847190",
+        "start_time": 1737748800,
+        "end_time": 1740427199
+      },
+      "detail_path": "timeline/3577.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3577.json"
+    },
     "3599": {
       "id": 3599,
       "source_path": "timeline/index.json",
@@ -44526,24 +44706,6 @@
       },
       "detail_path": "timeline/3600.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3600.json"
-    },
-    "3577": {
-      "id": 3577,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 3577,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 25-01-24",
-        "image": "https://static.kivo.wiki/images/timeline/oDF8B5VPedINBbjy8LA0qLaOaR4d0WBn.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1882699993225847190",
-        "start_time": 1737709200,
-        "end_time": 1737709200
-      },
-      "detail_path": "timeline/3577.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3577.json"
     },
     "3634": {
       "id": 3634,
@@ -50809,6 +50971,24 @@
       "detail_path": "timeline/3250.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3250.json"
     },
+    "3259": {
+      "id": 3259,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 3259,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#11",
+        "image": "https://static.kivo.wiki/images/timeline/W3b78X8QKceYllqddXr8HNW89vfMyTuz.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1849738340008067184",
+        "start_time": 1729886400,
+        "end_time": 1730750399
+      },
+      "detail_path": "timeline/3259.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3259.json"
+    },
     "3247": {
       "id": 3247,
       "source_path": "timeline/index.json",
@@ -50826,24 +51006,6 @@
       },
       "detail_path": "timeline/3247.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3247.json"
-    },
-    "3259": {
-      "id": 3259,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 3259,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-10-25",
-        "image": "https://static.kivo.wiki/images/timeline/W3b78X8QKceYllqddXr8HNW89vfMyTuz.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1849738340008067184",
-        "start_time": 1729850520,
-        "end_time": 1729850520
-      },
-      "detail_path": "timeline/3259.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3259.json"
     },
     "3288": {
       "id": 3288,
@@ -52868,13 +53030,13 @@
       "item": {
         "id": 3127,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-09-27",
+        "title": "老师经验2倍集中通知#10",
         "image": "https://static.kivo.wiki/images/timeline/8l3BLEYHPl7TzNX3C6ngnyQnVFUqtq9X.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1839591447353585716",
-        "start_time": 1727427720,
-        "end_time": 1727427720
+        "start_time": 1727467200,
+        "end_time": 1728244799
       },
       "detail_path": "timeline/3127.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3127.json"
@@ -54787,6 +54949,24 @@
       "detail_path": "timeline/3028.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3028.json"
     },
+    "3018": {
+      "id": 3018,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 3018,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#9",
+        "image": "https://static.kivo.wiki/images/timeline/rA6NyjzuORrXqheGXCAaAw2aIxQ1JHg2.png",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1826907774393180329",
+        "start_time": 1724443200,
+        "end_time": 1725220799
+      },
+      "detail_path": "timeline/3018.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3018.json"
+    },
     "3033": {
       "id": 3033,
       "source_path": "timeline/index.json",
@@ -54804,24 +54984,6 @@
       },
       "detail_path": "timeline/3033.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3033.json"
-    },
-    "3018": {
-      "id": 3018,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 3018,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-08-23",
-        "image": "https://static.kivo.wiki/images/timeline/rA6NyjzuORrXqheGXCAaAw2aIxQ1JHg2.png",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1826907774393180329",
-        "start_time": 1724403720,
-        "end_time": 1724403720
-      },
-      "detail_path": "timeline/3018.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/3018.json"
     },
     "3035": {
       "id": 3035,
@@ -57217,6 +57379,24 @@
       "detail_path": "timeline/2913.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2913.json"
     },
+    "2875": {
+      "id": 2875,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 2875,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#8",
+        "image": "https://static.kivo.wiki/images/timeline/uXRwRjps3H7zf6SsQsKAGfSyOy43EvIg.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1816760978106880407",
+        "start_time": 1722024000,
+        "end_time": 1724011199
+      },
+      "detail_path": "timeline/2875.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2875.json"
+    },
     "2894": {
       "id": 2894,
       "source_path": "timeline/index.json",
@@ -57270,24 +57450,6 @@
       },
       "detail_path": "timeline/2919.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2919.json"
-    },
-    "2875": {
-      "id": 2875,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 2875,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-07-26",
-        "image": "https://static.kivo.wiki/images/timeline/uXRwRjps3H7zf6SsQsKAGfSyOy43EvIg.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1816760978106880407",
-        "start_time": 1721984520,
-        "end_time": 1721984520
-      },
-      "detail_path": "timeline/2875.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2875.json"
     },
     "2918": {
       "id": 2918,
@@ -59233,24 +59395,6 @@
       "detail_path": "timeline/2793.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2793.json"
     },
-    "2778": {
-      "id": 2778,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 2778,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-07-06",
-        "image": "",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1806614094658892242",
-        "start_time": 1720209600,
-        "end_time": 1720385999
-      },
-      "detail_path": "timeline/2778.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2778.json"
-    },
     "2810": {
       "id": 2810,
       "source_path": "timeline/index.json",
@@ -59582,13 +59726,13 @@
       "item": {
         "id": 2777,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-06-29",
+        "title": "老师经验2倍集中通知#7",
         "image": "https://static.kivo.wiki/images/timeline/fDbNoi6L6XB7rBcT4ZKNCoEivEAsTQBq.jpg",
         "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
         "type": "Double",
         "url": "x.com/Blue_ArchiveJP/status/1806614094658892242",
         "start_time": 1719604800,
-        "end_time": 1719777599
+        "end_time": 1720382399
       },
       "detail_path": "timeline/2777.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2777.json"
@@ -63499,24 +63643,6 @@
       "detail_path": "timeline/2841.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2841.json"
     },
-    "2468": {
-      "id": 2468,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 2468,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-05-03",
-        "image": "https://static.kivo.wiki/images/timeline/lKdk8UezeBGpD0pUe6lMsMHSTSLgrpFt.jpg",
-        "body_summary": "【新情報 ⑦】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定しました！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量の変更はございません。 #ブル",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1781627039080128814",
-        "start_time": 1714680030,
-        "end_time": 1715025570
-      },
-      "detail_path": "timeline/2468.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2468.json"
-    },
     "2607": {
       "id": 2607,
       "source_path": "timeline/index.json",
@@ -63974,13 +64100,13 @@
       "item": {
         "id": 2467,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-04-27",
+        "title": "老师经验2倍集中通知#6",
         "image": "https://static.kivo.wiki/images/timeline/Fnw2yvFNO0l0t8tskqMPdZCDcCZmPSId.jpg",
         "body_summary": "【新情報 ⑦】 期間限定で「ドロップ量2倍」と「先生レベル経験値2倍キャンペーン」の開催が決定しました！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証書の獲得量の変更はございません。 #ブル",
         "type": "Double",
         "url": "twitter.com/Blue_ArchiveJP/status/1781627039080128814",
-        "start_time": 1714161602,
-        "end_time": 1714420742
+        "start_time": 1714161600,
+        "end_time": 1715025599
       },
       "detail_path": "timeline/2467.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2467.json"
@@ -65587,24 +65713,6 @@
       "detail_path": "timeline/2408.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2408.json"
     },
-    "2350": {
-      "id": 2350,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 2350,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-04-06",
-        "image": "https://static.kivo.wiki/images/timeline/0hcRD54JfftdC1hERkFnHXngmTEp1Euz.jpg",
-        "body_summary": "【キャンペーン予告】 3月30日(土)から4月1日(月)までの間、「先生レベル経験値2倍キャンペーン」が開催されます！ 効率良く先生のレベルを上げれるこの機会をぜひご活用ください！ ※開催期間中、「熟",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1773576002234720423",
-        "start_time": 1712347200,
-        "end_time": 1712519999
-      },
-      "detail_path": "timeline/2350.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2350.json"
-    },
     "2401": {
       "id": 2401,
       "source_path": "timeline/index.json",
@@ -66145,6 +66253,24 @@
       "detail_path": "timeline/2375.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2375.json"
     },
+    "6198": {
+      "id": 6198,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6198,
+        "line_type": "JP",
+        "title": "电台节目「ブルアカらじお！」#1",
+        "image": "https://static.kivo.wiki/images/timeline/bfYdn72603pIOWzjUl2SChcbDyJz5Sam.png",
+        "body_summary": "📻「ブルアカらじお！」放送決定📻 文化放送 超!A&G＋にて放送が決定しました✨ 初回放送は4月1日(月)の21:00～22:00です！ #十六夜ノノミ 役の #三浦千幸 さんと #伊草ハルカ 役の ",
+        "type": "OutsideGames",
+        "url": "x.com/bluearchive_tv/status/1771786775926870032",
+        "start_time": 1711976400,
+        "end_time": 1711980000
+      },
+      "detail_path": "timeline/6198.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6198.json"
+    },
     "2318": {
       "id": 2318,
       "source_path": "timeline/index.json",
@@ -66530,13 +66656,13 @@
       "item": {
         "id": 2349,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-03-30",
+        "title": "老师经验2倍集中通知#5",
         "image": "https://static.kivo.wiki/images/timeline/R5AwJHjtfFjEUIhhCM814uzbo6KuIKWq.jpg",
         "body_summary": "【キャンペーン予告】 3月30日(土)から4月1日(月)までの間、「先生レベル経験値2倍キャンペーン」が開催されます！ 効率良く先生のレベルを上げれるこの機会をぜひご活用ください！ ※開催期間中、「熟",
         "type": "Double",
         "url": "twitter.com/Blue_ArchiveJP/status/1773576002234720423",
         "start_time": 1711742400,
-        "end_time": 1711915199
+        "end_time": 1712519999
       },
       "detail_path": "timeline/2349.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/2349.json"
@@ -70904,13 +71030,13 @@
       "item": {
         "id": 5010,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 24-01-27",
-        "image": "",
+        "title": "老师经验2倍集中通知#4",
+        "image": "https://static.kivo.wiki/images/timeline/pQmOzUcIJIIALP0EoaPCVOzzPJS3s1RG.jpg",
         "body_summary": "【新情報⑧】 ブルアカの3周年を記念して、期間限定で各種育成コンテンツの「ドロップ量3倍」と「先生レベル経験値2倍キャンペーン」が開催されます！ それぞれのキャンペーンスケジュールはこちら！ ※熟達証",
         "type": "Double",
         "url": "twitter.com/Blue_ArchiveJP/status/1748981047700996295",
-        "start_time": 1706342584,
-        "end_time": 1706515384
+        "start_time": 1706299200,
+        "end_time": 1708286399
       },
       "detail_path": "timeline/5010.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/5010.json"
@@ -77114,7 +77240,7 @@
       "item": {
         "id": 825,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 23-10-28",
+        "title": "老师经验2倍集中通知#3",
         "image": "https://static.kivo.wiki/images/timeline/hHL1H2yO2LXGsbUAbzjrvLLCAS6IiEH4.jpg",
         "body_summary": "【キャンペーン予告】 本日10/28(土)から11/20(月)までの間、「先生レベル経験値2倍キャンペーン」が全4回の日程で開催されます！ スケジュールをご確認の上、効率良く先生のレベルを上げれるこの",
         "type": "Double",
@@ -82460,7 +82586,7 @@
       "item": {
         "id": 744,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 23-07-28",
+        "title": "老师经验2倍集中通知#2",
         "image": "https://static.kivo.wiki/images/timeline/rqffeOxEtOVdX3zkmSi0QHAaN63lxJxV.jpg",
         "body_summary": "【キャンペーン予告】 明日7/29(土)から8/21(月)までの間、「先生レベル経験値2倍キャンペーン」が全4回の日程で開催されます！ 効率良く先生のレベルを上げることができますので、スケジュールをご",
         "type": "Double",
@@ -89750,13 +89876,13 @@
       "item": {
         "id": 1808,
         "line_type": "JP",
-        "title": "老师经验2倍集中通知 23-01-28",
+        "title": "老师经验2倍集中通知#1",
         "image": "https://static.kivo.wiki/images/timeline/J1XuKQrSzNXH6vcZgV0aIzNbTUuxxV0P.jpg",
         "body_summary": "【新情報㉑】 ブルアカの2nd Anniversary記念に、各種育成キャンペーンが期間限定で「ドロップ量3倍」と「先生レベル経験値2倍キャンペーン」も開催されます！ それぞれのキャンペーンスケジュー",
         "type": "Double",
         "url": "twitter.com/Blue_ArchiveJP/status/1617074097242140672",
-        "start_time": 1674849608,
-        "end_time": 1675022348
+        "start_time": 1674849600,
+        "end_time": 1676836799
       },
       "detail_path": "timeline/1808.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/1808.json"
@@ -108474,6 +108600,9 @@
     "任务Normal2倍#62": [
       "6169"
     ],
+    "老师经验2倍集中通知#32": [
+      "6167"
+    ],
     "限时活动【我等乃神秘学研究会!】": [
       "6161"
     ],
@@ -108482,6 +108611,12 @@
     ],
     "特别委托3倍 #22": [
       "6065"
+    ],
+    "限时招募【暗影啊,倾听吧 缠绕着幻象的万千声息】": [
+      "6195"
+    ],
+    "限时招募【星星啊,凝视吧!驰骋于梦境的魔导之笔!】": [
+      "6194"
     ],
     "「仮想適性試験BETA版」实装": [
       "6176"
@@ -108494,9 +108629,6 @@
     ],
     "Special学生拎起动画追加#6": [
       "6173"
-    ],
-    "老师经验2倍集中通知 26-10-31": [
-      "6167"
     ],
     "家具系列追加:「オデュッセイアクルーズ」 & 日富美(赛车)、梓(赛车)、兰娜家具互动更新": [
       "6166"
@@ -108543,6 +108675,12 @@
     "「絆ダイアローグ vol.28」流媒体发行": [
       "6184"
     ],
+    "6周年特设网站开放": [
+      "6189"
+    ],
+    "日服运营权变更": [
+      "6190"
+    ],
     "关于《蔚蓝档案》国服运营安排的说明": [
       "6162"
     ],
@@ -108552,8 +108690,17 @@
     "今日几分甜 × QQ音乐联动周边现已上架!": [
       "6158"
     ],
+    "艾利 & 庚家具互动更新": [
+      "6193"
+    ],
     "国际服活动特别MV「Following Petals」公布": [
       "6156"
+    ],
+    "庚": [
+      "6192"
+    ],
+    "艾利": [
+      "6191"
     ],
     "国际服老师经验2倍#58": [
       "6154"
@@ -108573,6 +108720,9 @@
     "迷你故事剧情更新:【杀气腾腾!魑魅之夜!】": [
       "6125"
     ],
+    "【现在是——基沃托斯时间!】#7": [
+      "6196"
+    ],
     "阿洛娜的日程笔记(第32期)": [
       "6159"
     ],
@@ -108582,7 +108732,7 @@
     "卡池「雪の下に咲く二十一日」&「雪の上に立つ三日天下」 &「正義は珈琲のように甘く」&「曇り硝子に描く刹那」复刻": [
       "6183"
     ],
-    "活动「特殊作戦『ロア追跡』編」": [
+    "特殊作战「ロア追跡」篇#3": [
       "6143"
     ],
     "主线剧情第2部 Ex.「ロア追跡」篇 第3章「夢の中の列車」更新": [
@@ -108808,7 +108958,7 @@
     "《蔚蓝档案》特别PV幕后制作故事【月下有时】": [
       "6083"
     ],
-    "老师经验2倍集中通知 26-09-25": [
+    "老师经验2倍集中通知#31": [
       "6072"
     ],
     "国际服老师经验2倍#56": [
@@ -108884,17 +109034,20 @@
     "Youtube订阅突破100万人": [
       "6014"
     ],
+    "【现在是——基沃托斯时间!】#6": [
+      "6197"
+    ],
     "《蔚蓝档案》 x 乐事 联动PV:花语盛情,诸多乐事": [
       "6071"
     ],
     "《蔚蓝档案》 x 徐福记 联动PV:蔚蓝星空,糖甜月圆": [
       "6069"
     ],
-    "例行维护 #151": [
-      "6054"
-    ],
     "《蔚蓝档案》 x 徐福记联动零食礼盒即将开售!": [
       "6070"
+    ],
+    "例行维护#151": [
+      "6054"
     ],
     "国际服开发者来信与特别礼品通知": [
       "6044"
@@ -109121,7 +109274,7 @@
     "纱织(礼服)": [
       "5939"
     ],
-    "老师经验2倍集中通知 26-08-29": [
+    "老师经验2倍集中通知#30": [
       "5947"
     ],
     "国际服老师经验2倍#54": [
@@ -109415,7 +109568,7 @@
     "炸服 #22(【账号经验值】2倍活动未按时正常开启)": [
       "5869"
     ],
-    "老师经验2倍集中通知 26-08-01": [
+    "老师经验2倍集中通知#29": [
       "5820"
     ],
     "学生生日日历-2026年8月": [
@@ -109907,7 +110060,7 @@
     "国际服最终章OST「Echoes of Longing 憧れの残響」MV公布": [
       "5624"
     ],
-    "老师经验2倍集中通知 26-06-27": [
+    "老师经验2倍集中通知#28": [
       "5592"
     ],
     "国际服老师经验2倍 #50": [
@@ -110222,7 +110375,7 @@
     "学生生日日历-2026年6月": [
       "5527"
     ],
-    "老师经验2倍集中通知 26-05-30": [
+    "老师经验2倍集中通知#27": [
       "5507"
     ],
     "国际服老师经验2倍 #48": [
@@ -110613,7 +110766,7 @@
     "任务(困难难度)2倍 #25": [
       "5374"
     ],
-    "老师经验2倍集中通知 26-04-25": [
+    "老师经验2倍集中通知#26": [
       "5331"
     ],
     "大决战:比纳 • 街区战 #2": [
@@ -111066,7 +111219,7 @@
     "国际服老师经验2倍 #43": [
       "5231"
     ],
-    "老师经验2倍集中通知 26-03-20": [
+    "老师经验2倍集中通知#25": [
       "5226"
     ],
     "总力战 比纳 • 街区战 #3": [
@@ -111432,7 +111585,7 @@
     "限定限时招募【黑君有所远虑】": [
       "5519"
     ],
-    "老师经验2倍集中通知 26-02-13": [
+    "老师经验2倍集中通知#24": [
       "5127"
     ],
     "5周年纪念「Walking Night」MV公开": [
@@ -111790,7 +111943,7 @@
     "星野(武装)": [
       "5043"
     ],
-    "老师经验2倍集中通知 26-01-24": [
+    "老师经验2倍集中通知#23": [
       "4953"
     ],
     "国际服老师经验2倍#38": [
@@ -112150,7 +112303,7 @@
     "绮罗罗": [
       "4880"
     ],
-    "老师经验2倍集中通知 25-12-27": [
+    "老师经验2倍集中通知#22": [
       "4830"
     ],
     "国际服任务Hard 3倍 #14": [
@@ -112532,7 +112685,7 @@
     "蔚蓝档案 × 上海同济大学深海探索馆 联动活动将于11月29日正式开启!": [
       "4750"
     ],
-    "老师经验2倍集中通知 25-11-22": [
+    "老师经验2倍集中通知#21": [
       "4719"
     ],
     "【无限制决战:赛特之怒 • 轻装甲】#2": [
@@ -112805,7 +112958,7 @@
     "【综合战术测试 • 突破测试】#7": [
       "4613"
     ],
-    "老师经验2倍集中通知 25-10-25": [
+    "老师经验2倍集中通知#20": [
       "4628"
     ],
     "限时活动【笑笑闹闹 走走绕绕】": [
@@ -113123,11 +113276,11 @@
     "国际服歌曲「Sparkle Express」MV公布": [
       "4551"
     ],
+    "老师经验2倍集中通知#19": [
+      "4532"
+    ],
     "账号经验值2倍 #6": [
       "4439"
-    ],
-    "老师经验2倍集中通知 25-09-26": [
-      "4532"
     ],
     "星野中秋特别PV【秋星曜野,桂月垂光】": [
       "4554"
@@ -113432,7 +113585,7 @@
     "国际服指名手配2倍 #38": [
       "4413"
     ],
-    "老师经验2倍集中通知 25-08-22": [
+    "老师经验2倍集中通知#18": [
       "4402"
     ],
     "爱露(礼服)": [
@@ -113808,14 +113961,14 @@
     "天雨 亚子(礼服)": [
       "4290"
     ],
+    "老师经验2倍集中通知#17": [
+      "4284"
+    ],
     "丹花 伊吹": [
       "4289"
     ],
     "学生介绍:诗乃": [
       "4297"
-    ],
-    "老师经验2倍集中通知 25-07-25": [
-      "4284"
     ],
     "《蔚蓝档案》5th PV": [
       "4282"
@@ -114234,7 +114387,7 @@
     "茶会小剧场 #26": [
       "4171"
     ],
-    "老师经验2倍集中通知 25-06-27": [
+    "老师经验2倍集中通知#16": [
       "4165"
     ],
     "大决战 白&黑 • 室内战": [
@@ -114858,6 +115011,9 @@
     "账号经验值2倍 #4": [
       "3937"
     ],
+    "老师经验2倍集中通知#15": [
+      "3923"
+    ],
     "国际服3.5周年纪念OST专辑包装和官方商品预购": [
       "3942"
     ],
@@ -114974,9 +115130,6 @@
     ],
     "活动「ハイランダー鉄道爆走事件〜そして列車はなくなった〜」动画PV公开": [
       "3924"
-    ],
-    "老师经验2倍集中通知 25-04-20": [
-      "3923"
     ],
     "直播「すぷりんぐはずかむ!SP」": [
       "3881"
@@ -115227,7 +115380,7 @@
     "2025愚人节预告": [
       "3815"
     ],
-    "老师经验2倍集中通知 25-03-28": [
+    "老师经验2倍集中通知#14": [
       "3810"
     ],
     "水羽三森(泳装)": [
@@ -115509,14 +115662,14 @@
     "国际服TUKUYOMI合作周边": [
       "3729"
     ],
+    "老师经验2倍集中通知#13": [
+      "3667"
+    ],
     "阿洛娜的日程笔记(第17期)": [
       "3759"
     ],
     "学生生日日历 - 2025年3月": [
       "3668"
-    ],
-    "老师经验2倍集中通知 25-02-28": [
-      "3667"
     ],
     "总力战 佩洛洛斯拉 • 野外战 #2": [
       "3756"
@@ -115851,6 +116004,9 @@
     "国际服「The Promise At Sunset」MV公开特别礼物": [
       "3601"
     ],
+    "老师经验2倍集中通知#12": [
+      "3577"
+    ],
     "国际服老师经验2倍 #17": [
       "3599"
     ],
@@ -115859,9 +116015,6 @@
     ],
     "国际服「Sheside Outside」PV转推活动": [
       "3600"
-    ],
-    "老师经验2倍集中通知 25-01-24": [
-      "3577"
     ],
     "阿洛娜的日程笔记(第16期)": [
       "3634"
@@ -116901,11 +117054,11 @@
     "鹤山文化社 x Blue Archive 真理部官方周边发售": [
       "3250"
     ],
+    "老师经验2倍集中通知#11": [
+      "3259"
+    ],
     "国际服老师经验2倍 #16": [
       "3247"
-    ],
-    "老师经验2倍集中通知 24-10-25": [
-      "3259"
     ],
     "Nexon Games新作《Project RX》预告图首次公开:采用虚幻5引擎制作": [
       "3288"
@@ -117243,7 +117396,7 @@
     "爱清风香(新年)": [
       "3139"
     ],
-    "老师经验2倍集中通知 24-09-27": [
+    "老师经验2倍集中通知#10": [
       "3127"
     ],
     "国际服歌单「Hyakkiyako Fall Playlist」": [
@@ -117564,11 +117717,11 @@
     "日鞠主题PV:心动委托": [
       "3028"
     ],
+    "老师经验2倍集中通知#9": [
+      "3018"
+    ],
     "国际服老师经验2倍14": [
       "3033"
-    ],
-    "老师经验2倍集中通知 24-08-23": [
-      "3018"
     ],
     "国际服彩奈小编礼服换装回 & 0068歌剧礼服活动直播": [
       "3035"
@@ -117969,6 +118122,9 @@
     "IPSTAR潮玩星球 蔚蓝档案主题店": [
       "2913"
     ],
+    "老师经验2倍集中通知#8": [
+      "2875"
+    ],
     "国际服老师经验2倍10": [
       "2894"
     ],
@@ -117977,9 +118133,6 @@
     ],
     "羽川莲见(体操服)": [
       "2919"
-    ],
-    "老师经验2倍集中通知 24-07-26": [
-      "2875"
     ],
     "《蔚蓝档案》国服线下见面会内容摘要": [
       "2918"
@@ -118306,9 +118459,6 @@
     "国际服ANIME EXPO 2024参展特别奖励": [
       "2793"
     ],
-    "老师经验2倍集中通知 24-07-06": [
-      "2778"
-    ],
     "《蔚蓝档案》官方频道【课后甜点故事 ~甜秘枪战~】社区活动奖励": [
       "2810"
     ],
@@ -118363,7 +118513,7 @@
     "杏山和纱": [
       "2767"
     ],
-    "老师经验2倍集中通知 24-06-29": [
+    "老师经验2倍集中通知#7": [
       "2777"
     ],
     "国际服AX24 CM Arcie特别PV": [
@@ -119019,9 +119169,6 @@
     "韩国 GS25联动": [
       "2841"
     ],
-    "老师经验2倍集中通知 24-05-03": [
-      "2468"
-    ],
     "网页小游戏:Millennium Logic": [
       "2607"
     ],
@@ -119097,7 +119244,7 @@
     "炸服36(提前结束)": [
       "2486"
     ],
-    "老师经验2倍集中通知 24-04-27": [
+    "老师经验2倍集中通知#6": [
       "2467"
     ],
     "国际服2.5周年直播礼物": [
@@ -119367,9 +119514,6 @@
     "TV动画:倒计时1天贺图": [
       "2408"
     ],
-    "老师经验2倍集中通知 24-04-06": [
-      "2350"
-    ],
     "文本热更新&活动剧情文本事件的道歉信": [
       "2401"
     ],
@@ -119460,6 +119604,9 @@
     "国际服课程表2倍17 学院交流会2倍16": [
       "2375"
     ],
+    "电台节目「ブルアカらじお!」#1": [
+      "6198"
+    ],
     "广播节目「ブルアカらじお!」开始播送": [
       "2318"
     ],
@@ -119523,7 +119670,7 @@
     "TV动画:1分钟了解蔚蓝档案": [
       "2359"
     ],
-    "老师经验2倍集中通知 24-03-30": [
+    "老师经验2倍集中通知#5": [
       "2349"
     ],
     "月雪宫子": [
@@ -120252,7 +120399,7 @@
     "违规账号封禁30": [
       "2070"
     ],
-    "老师经验2倍集中通知 24-01-27": [
+    "老师经验2倍集中通知#4": [
       "5010"
     ],
     "黑见芹香(新年)": [
@@ -121287,7 +121434,7 @@
     "国际服两周年直播「2nd Anniversary Kivotos Live」": [
       "1564"
     ],
-    "老师经验2倍集中通知 23-10-28": [
+    "老师经验2倍集中通知#3": [
       "825"
     ],
     "限定限时招募【正义永无止境!】": [
@@ -122176,7 +122323,7 @@
     "蔚蓝档案公测倒计时5天": [
       "1791"
     ],
-    "老师经验2倍集中通知 23-07-28": [
+    "老师经验2倍集中通知#2": [
       "744"
     ],
     "Play Store人气第一3": [
@@ -123391,7 +123538,7 @@
     "Play Store人气第一2": [
       "570"
     ],
-    "老师经验2倍集中通知 23-01-28": [
+    "老师经验2倍集中通知#1": [
       "1808"
     ],
     "官方四格100话纪念": [
@@ -126526,6 +126673,9 @@
     "任务normal2倍#62": [
       "6169"
     ],
+    "老师经验2倍集中通知#32": [
+      "6167"
+    ],
     "限时活动【我等乃神秘学研究会!】": [
       "6161"
     ],
@@ -126534,6 +126684,12 @@
     ],
     "特别委托3倍#22": [
       "6065"
+    ],
+    "限时招募【暗影啊,倾听吧缠绕着幻象的万千声息】": [
+      "6195"
+    ],
+    "限时招募【星星啊,凝视吧!驰骋于梦境的魔导之笔!】": [
+      "6194"
     ],
     "「仮想適性試験beta版」实装": [
       "6176"
@@ -126546,9 +126702,6 @@
     ],
     "special学生拎起动画追加#6": [
       "6173"
-    ],
-    "老师经验2倍集中通知26-10-31": [
-      "6167"
     ],
     "家具系列追加:「オデュッセイアクルーズ」&日富美(赛车)、梓(赛车)、兰娜家具互动更新": [
       "6166"
@@ -126595,6 +126748,12 @@
     "「絆ダイアローグvol.28」流媒体发行": [
       "6184"
     ],
+    "6周年特设网站开放": [
+      "6189"
+    ],
+    "日服运营权变更": [
+      "6190"
+    ],
     "关于《蔚蓝档案》国服运营安排的说明": [
       "6162"
     ],
@@ -126604,8 +126763,17 @@
     "今日几分甜×qq音乐联动周边现已上架!": [
       "6158"
     ],
+    "艾利&庚家具互动更新": [
+      "6193"
+    ],
     "国际服活动特别mv「followingpetals」公布": [
       "6156"
+    ],
+    "庚": [
+      "6192"
+    ],
+    "艾利": [
+      "6191"
     ],
     "国际服老师经验2倍#58": [
       "6154"
@@ -126625,6 +126793,9 @@
     "迷你故事剧情更新:【杀气腾腾!魑魅之夜!】": [
       "6125"
     ],
+    "【现在是——基沃托斯时间!】#7": [
+      "6196"
+    ],
     "阿洛娜的日程笔记(第32期)": [
       "6159"
     ],
@@ -126634,7 +126805,7 @@
     "卡池「雪の下に咲く二十一日」&「雪の上に立つ三日天下」&「正義は珈琲のように甘く」&「曇り硝子に描く刹那」复刻": [
       "6183"
     ],
-    "活动「特殊作戦『ロア追跡』編」": [
+    "特殊作战「ロア追跡」篇#3": [
       "6143"
     ],
     "主线剧情第2部ex.「ロア追跡」篇第3章「夢の中の列車」更新": [
@@ -126860,7 +127031,7 @@
     "《蔚蓝档案》特别pv幕后制作故事【月下有时】": [
       "6083"
     ],
-    "老师经验2倍集中通知26-09-25": [
+    "老师经验2倍集中通知#31": [
       "6072"
     ],
     "国际服老师经验2倍#56": [
@@ -126936,17 +127107,20 @@
     "youtube订阅突破100万人": [
       "6014"
     ],
+    "【现在是——基沃托斯时间!】#6": [
+      "6197"
+    ],
     "《蔚蓝档案》x乐事联动pv:花语盛情,诸多乐事": [
       "6071"
     ],
     "《蔚蓝档案》x徐福记联动pv:蔚蓝星空,糖甜月圆": [
       "6069"
     ],
-    "例行维护#151": [
-      "6054"
-    ],
     "《蔚蓝档案》x徐福记联动零食礼盒即将开售!": [
       "6070"
+    ],
+    "例行维护#151": [
+      "6054"
     ],
     "国际服开发者来信与特别礼品通知": [
       "6044"
@@ -127173,7 +127347,7 @@
     "纱织(礼服)": [
       "5939"
     ],
-    "老师经验2倍集中通知26-08-29": [
+    "老师经验2倍集中通知#30": [
       "5947"
     ],
     "国际服老师经验2倍#54": [
@@ -127467,7 +127641,7 @@
     "炸服#22(【账号经验值】2倍活动未按时正常开启)": [
       "5869"
     ],
-    "老师经验2倍集中通知26-08-01": [
+    "老师经验2倍集中通知#29": [
       "5820"
     ],
     "学生生日日历-2026年8月": [
@@ -127959,7 +128133,7 @@
     "国际服最终章ost「echoesoflonging憧れの残響」mv公布": [
       "5624"
     ],
-    "老师经验2倍集中通知26-06-27": [
+    "老师经验2倍集中通知#28": [
       "5592"
     ],
     "国际服老师经验2倍#50": [
@@ -128274,7 +128448,7 @@
     "学生生日日历-2026年6月": [
       "5527"
     ],
-    "老师经验2倍集中通知26-05-30": [
+    "老师经验2倍集中通知#27": [
       "5507"
     ],
     "国际服老师经验2倍#48": [
@@ -128665,7 +128839,7 @@
     "任务(困难难度)2倍#25": [
       "5374"
     ],
-    "老师经验2倍集中通知26-04-25": [
+    "老师经验2倍集中通知#26": [
       "5331"
     ],
     "大决战:比纳•街区战#2": [
@@ -129118,7 +129292,7 @@
     "国际服老师经验2倍#43": [
       "5231"
     ],
-    "老师经验2倍集中通知26-03-20": [
+    "老师经验2倍集中通知#25": [
       "5226"
     ],
     "总力战比纳•街区战#3": [
@@ -129484,7 +129658,7 @@
     "限定限时招募【黑君有所远虑】": [
       "5519"
     ],
-    "老师经验2倍集中通知26-02-13": [
+    "老师经验2倍集中通知#24": [
       "5127"
     ],
     "5周年纪念「walkingnight」mv公开": [
@@ -129843,7 +130017,7 @@
     "星野(武装)": [
       "5043"
     ],
-    "老师经验2倍集中通知26-01-24": [
+    "老师经验2倍集中通知#23": [
       "4953"
     ],
     "国际服老师经验2倍#38": [
@@ -130203,7 +130377,7 @@
     "绮罗罗": [
       "4880"
     ],
-    "老师经验2倍集中通知25-12-27": [
+    "老师经验2倍集中通知#22": [
       "4830"
     ],
     "国际服任务hard3倍#14": [
@@ -130585,7 +130759,7 @@
     "蔚蓝档案×上海同济大学深海探索馆联动活动将于11月29日正式开启!": [
       "4750"
     ],
-    "老师经验2倍集中通知25-11-22": [
+    "老师经验2倍集中通知#21": [
       "4719"
     ],
     "【无限制决战:赛特之怒•轻装甲】#2": [
@@ -130858,7 +131032,7 @@
     "【综合战术测试•突破测试】#7": [
       "4613"
     ],
-    "老师经验2倍集中通知25-10-25": [
+    "老师经验2倍集中通知#20": [
       "4628"
     ],
     "限时活动【笑笑闹闹走走绕绕】": [
@@ -131174,11 +131348,11 @@
     "国际服歌曲「sparkleexpress」mv公布": [
       "4551"
     ],
+    "老师经验2倍集中通知#19": [
+      "4532"
+    ],
     "账号经验值2倍#6": [
       "4439"
-    ],
-    "老师经验2倍集中通知25-09-26": [
-      "4532"
     ],
     "星野中秋特别pv【秋星曜野,桂月垂光】": [
       "4554"
@@ -131483,7 +131657,7 @@
     "国际服指名手配2倍#38": [
       "4413"
     ],
-    "老师经验2倍集中通知25-08-22": [
+    "老师经验2倍集中通知#18": [
       "4402"
     ],
     "爱露(礼服)": [
@@ -131860,14 +132034,14 @@
     "天雨亚子(礼服)": [
       "4290"
     ],
+    "老师经验2倍集中通知#17": [
+      "4284"
+    ],
     "丹花伊吹": [
       "4289"
     ],
     "学生介绍:诗乃": [
       "4297"
-    ],
-    "老师经验2倍集中通知25-07-25": [
-      "4284"
     ],
     "《蔚蓝档案》5thpv": [
       "4282"
@@ -132286,7 +132460,7 @@
     "茶会小剧场#26": [
       "4171"
     ],
-    "老师经验2倍集中通知25-06-27": [
+    "老师经验2倍集中通知#16": [
       "4165"
     ],
     "大决战白&黑•室内战": [
@@ -132910,6 +133084,9 @@
     "账号经验值2倍#4": [
       "3937"
     ],
+    "老师经验2倍集中通知#15": [
+      "3923"
+    ],
     "国际服3.5周年纪念ost专辑包装和官方商品预购": [
       "3942"
     ],
@@ -133027,9 +133204,6 @@
     ],
     "活动「ハイランダー鉄道爆走事件〜そして列車はなくなった〜」动画pv公开": [
       "3924"
-    ],
-    "老师经验2倍集中通知25-04-20": [
-      "3923"
     ],
     "直播「すぷりんぐはずかむ!sp」": [
       "3881"
@@ -133280,7 +133454,7 @@
     "2025愚人节预告": [
       "3815"
     ],
-    "老师经验2倍集中通知25-03-28": [
+    "老师经验2倍集中通知#14": [
       "3810"
     ],
     "水羽三森(泳装)": [
@@ -133562,14 +133736,14 @@
     "国际服tukuyomi合作周边": [
       "3729"
     ],
+    "老师经验2倍集中通知#13": [
+      "3667"
+    ],
     "阿洛娜的日程笔记(第17期)": [
       "3759"
     ],
     "学生生日日历-2025年3月": [
       "3668"
-    ],
-    "老师经验2倍集中通知25-02-28": [
-      "3667"
     ],
     "总力战佩洛洛斯拉•野外战#2": [
       "3756"
@@ -133904,6 +134078,9 @@
     "国际服「thepromiseatsunset」mv公开特别礼物": [
       "3601"
     ],
+    "老师经验2倍集中通知#12": [
+      "3577"
+    ],
     "国际服老师经验2倍#17": [
       "3599"
     ],
@@ -133912,9 +134089,6 @@
     ],
     "国际服「shesideoutside」pv转推活动": [
       "3600"
-    ],
-    "老师经验2倍集中通知25-01-24": [
-      "3577"
     ],
     "阿洛娜的日程笔记(第16期)": [
       "3634"
@@ -134955,11 +135129,11 @@
     "鹤山文化社xbluearchive真理部官方周边发售": [
       "3250"
     ],
+    "老师经验2倍集中通知#11": [
+      "3259"
+    ],
     "国际服老师经验2倍#16": [
       "3247"
-    ],
-    "老师经验2倍集中通知24-10-25": [
-      "3259"
     ],
     "nexongames新作《projectrx》预告图首次公开:采用虚幻5引擎制作": [
       "3288"
@@ -135297,7 +135471,7 @@
     "爱清风香(新年)": [
       "3139"
     ],
-    "老师经验2倍集中通知24-09-27": [
+    "老师经验2倍集中通知#10": [
       "3127"
     ],
     "国际服歌单「hyakkiyakofallplaylist」": [
@@ -135618,11 +135792,11 @@
     "日鞠主题pv:心动委托": [
       "3028"
     ],
+    "老师经验2倍集中通知#9": [
+      "3018"
+    ],
     "国际服老师经验2倍14": [
       "3033"
-    ],
-    "老师经验2倍集中通知24-08-23": [
-      "3018"
     ],
     "国际服彩奈小编礼服换装回&0068歌剧礼服活动直播": [
       "3035"
@@ -136020,6 +136194,9 @@
     "ipstar潮玩星球蔚蓝档案主题店": [
       "2913"
     ],
+    "老师经验2倍集中通知#8": [
+      "2875"
+    ],
     "国际服老师经验2倍10": [
       "2894"
     ],
@@ -136028,9 +136205,6 @@
     ],
     "羽川莲见(体操服)": [
       "2919"
-    ],
-    "老师经验2倍集中通知24-07-26": [
-      "2875"
     ],
     "《蔚蓝档案》国服线下见面会内容摘要": [
       "2918"
@@ -136357,9 +136531,6 @@
     "国际服animeexpo2024参展特别奖励": [
       "2793"
     ],
-    "老师经验2倍集中通知24-07-06": [
-      "2778"
-    ],
     "《蔚蓝档案》官方频道【课后甜点故事~甜秘枪战~】社区活动奖励": [
       "2810"
     ],
@@ -136414,7 +136585,7 @@
     "杏山和纱": [
       "2767"
     ],
-    "老师经验2倍集中通知24-06-29": [
+    "老师经验2倍集中通知#7": [
       "2777"
     ],
     "国际服ax24cmarcie特别pv": [
@@ -137068,9 +137239,6 @@
     "韩国gs25联动": [
       "2841"
     ],
-    "老师经验2倍集中通知24-05-03": [
-      "2468"
-    ],
     "网页小游戏:millenniumlogic": [
       "2607"
     ],
@@ -137146,7 +137314,7 @@
     "炸服36(提前结束)": [
       "2486"
     ],
-    "老师经验2倍集中通知24-04-27": [
+    "老师经验2倍集中通知#6": [
       "2467"
     ],
     "国际服2.5周年直播礼物": [
@@ -137416,9 +137584,6 @@
     "tv动画:倒计时1天贺图": [
       "2408"
     ],
-    "老师经验2倍集中通知24-04-06": [
-      "2350"
-    ],
     "文本热更新&活动剧情文本事件的道歉信": [
       "2401"
     ],
@@ -137509,6 +137674,9 @@
     "国际服课程表2倍17学院交流会2倍16": [
       "2375"
     ],
+    "电台节目「ブルアカらじお!」#1": [
+      "6198"
+    ],
     "广播节目「ブルアカらじお!」开始播送": [
       "2318"
     ],
@@ -137572,7 +137740,7 @@
     "tv动画:1分钟了解蔚蓝档案": [
       "2359"
     ],
-    "老师经验2倍集中通知24-03-30": [
+    "老师经验2倍集中通知#5": [
       "2349"
     ],
     "月雪宫子": [
@@ -138302,7 +138470,7 @@
     "违规账号封禁30": [
       "2070"
     ],
-    "老师经验2倍集中通知24-01-27": [
+    "老师经验2倍集中通知#4": [
       "5010"
     ],
     "黑见芹香(新年)": [
@@ -139334,7 +139502,7 @@
     "国际服两周年直播「2ndanniversarykivotoslive」": [
       "1564"
     ],
-    "老师经验2倍集中通知23-10-28": [
+    "老师经验2倍集中通知#3": [
       "825"
     ],
     "限定限时招募【正义永无止境!】": [
@@ -140223,7 +140391,7 @@
     "蔚蓝档案公测倒计时5天": [
       "1791"
     ],
-    "老师经验2倍集中通知23-07-28": [
+    "老师经验2倍集中通知#2": [
       "744"
     ],
     "playstore人气第一3": [
@@ -141432,7 +141600,7 @@
     "playstore人气第一2": [
       "570"
     ],
-    "老师经验2倍集中通知23-01-28": [
+    "老师经验2倍集中通知#1": [
       "1808"
     ],
     "官方四格100话纪念": [

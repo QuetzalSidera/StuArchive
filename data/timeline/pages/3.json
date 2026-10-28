@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 603,
+    "max_page": 604,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 98,
-      "ContentImprovements": 441,
-      "Double": 1004,
-      "Event": 546,
-      "Gacha": 859,
+      "ContentImprovements": 443,
+      "Double": 1002,
+      "Event": 544,
+      "Gacha": 861,
       "Live": 90,
       "MainStory": 134,
       "Maintenance": 462,
       "MiniBattle": 221,
-      "Other": 734,
+      "Other": 737,
       "OtherStory": 75,
-      "OutsideGames": 923,
+      "OutsideGames": 926,
       "Raid": 260,
       "Trivia": 29,
-      "WebEvent": 134
+      "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6165,
+        "line_type": "JP",
+        "title": "活动「Start Your Engines! ～183号よ永遠に！～」",
+        "image": "https://static.kivo.wiki/images/timeline/bc0ntIlJwudcF4ty8IOy7JjJNi1E1u4R.jpg",
+        "body_summary": "【新情報②】 新イベント「Start Your Engines! ～183号よ永遠に！～」の開催が決定しました！ 本イベントをプレイすることで、生徒「ラナ」さんをお迎えすることができます！ 🔷開催期間",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2114313078879977697",
+        "start_time": 1793156400,
+        "end_time": 1794365999
+      },
+      {
+        "id": 6164,
+        "line_type": "JP",
+        "title": "限定卡池「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀なりや？」",
+        "image": "https://static.kivo.wiki/images/timeline/wpsvd8Iql70aYlZOk0laDyfeN8jhTfVW.jpg",
+        "body_summary": "【新情報①】 限定ピックアップ募集「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀なりや？」の開催が決定です！ 🔷開催期間 2026年10月28日(水) メンテナンス後 ~ 11月11日(水) 10:",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2114311956689821715",
+        "start_time": 1793156400,
+        "end_time": 1794365999
+      },
       {
         "id": 6168,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2114373647611605493",
         "start_time": 1792940400,
         "end_time": 1792940400
-      },
-      {
-        "id": 6187,
-        "line_type": "JP",
-        "title": "「Remember Again」流媒体发行",
-        "image": "https://static.kivo.wiki/images/timeline/bBlTwlusYv4DlDjOhIDIjIkC5XXvxJV8.png",
-        "body_summary": "【配信開始】 先生！ イベント「出航！万魔船 マコト議長の華麗なる避暑」のエンディング曲、 万魔殿のイロハさんが歌う「Remember Again」が配信開始しました！ 賑やかだった夏の余韻と、イロハ",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2114376373326504272",
-        "start_time": 1792940400,
-        "end_time": 1792940400
-      },
-      {
-        "id": 6186,
-        "line_type": "JP",
-        "title": "「KAGEROU」流媒体发行",
-        "image": "https://static.kivo.wiki/images/timeline/aydIinEBS7qOX7czk9iHqsI5aQIYrZvv.png",
-        "body_summary": "【配信開始】 先生！ 第2部 メインストーリーEx.「ロア追跡」編 第1章のエンディング曲、 FOX小隊のニコさんが歌う「KAGEROU」が配信開始しました！ 任務に向き合う覚悟と、内に秘めた感情が揺",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/2114376292862919108",
-        "start_time": 1792940400,
-        "end_time": 1792940400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793060154,
-  "version": "1.0.0-beta.43"
+  "time": 1793145127,
+  "version": "v1.0.0-beta.43"
 }

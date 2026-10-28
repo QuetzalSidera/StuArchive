@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 603,
+    "max_page": 604,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 98,
-      "ContentImprovements": 441,
-      "Double": 1004,
-      "Event": 546,
-      "Gacha": 859,
+      "ContentImprovements": 443,
+      "Double": 1002,
+      "Event": 544,
+      "Gacha": 861,
       "Live": 90,
       "MainStory": 134,
       "Maintenance": 462,
       "MiniBattle": 221,
-      "Other": 734,
+      "Other": 737,
       "OtherStory": 75,
-      "OutsideGames": 923,
+      "OutsideGames": 926,
       "Raid": 260,
       "Trivia": 29,
-      "WebEvent": 134
+      "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6161,
+        "line_type": "CN",
+        "title": "限时活动【我等乃神秘学研究会！】",
+        "image": "https://static.kivo.wiki/images/timeline/DOXDWnGPtATtMAsJEUgRpmCnYiECes9c.png",
+        "body_summary": "艺术之乡——狂猎艺术学院。来到这里的老师，在神秘学研究会成员们的带领下，遭遇了种种离奇的现象…… ■ 活动时间 • 活动持续时间：10月29日 维护结束后 ~ 11月12日 13:59 • 商店和奖励",
+        "type": "Event",
+        "url": "bluearchive-cn.com/news/1993",
+        "start_time": 1793246400,
+        "end_time": 1794463199
+      },
       {
         "id": 6179,
         "line_type": "JP",
@@ -45,6 +56,28 @@
         "end_time": 1793822340
       },
       {
+        "id": 6195,
+        "line_type": "CN",
+        "title": "限时招募【暗影啊，倾听吧 缠绕着幻象的万千声息】",
+        "image": "https://static.kivo.wiki/images/timeline/DPtAWEyXf39LgGSgpVk9aBlL9L2jshP6.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【暗影啊，倾听吧 缠绕着幻象的万千声息】即将开启！在本次招募中，全新3★成员\"庚\"登场，且招募概率得到提升！ ■ 招募时间 10月29日 维护结束后 ~ 11月1",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1991",
+        "start_time": 1793203200,
+        "end_time": 1794463199
+      },
+      {
+        "id": 6194,
+        "line_type": "CN",
+        "title": "限时招募【星星啊，凝视吧！驰骋于梦境的魔导之笔！】",
+        "image": "https://static.kivo.wiki/images/timeline/US7LZs3LgUb8oc3hy7d4MWaqiMAkR8qS.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【星星啊，凝视吧！驰骋于梦境的魔导之笔！】即将开启！在本次招募中，全新3★成员\"艾利\"登场，且招募概率得到提升！ ■ 招募时间 10月29日 维护结束后 ~ 11",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/1992",
+        "start_time": 1793203200,
+        "end_time": 1794463199
+      },
+      {
         "id": 6176,
         "line_type": "JP",
         "title": "「仮想適性試験BETA版」实装",
@@ -61,7 +94,7 @@
         "title": "同行实习功能追加",
         "image": "https://static.kivo.wiki/images/timeline/ShB64tO3YNB692aswKx5VQsv6cp8z41R.jpg",
         "body_summary": "【新情報⑨】 10月28日(水)メンテナンス後より、新機能「同行実習」が実装されます。 特定の生徒さんを募集でお迎えしていなくても、各コンテンツで編成できるシステムです！ ミッションをクリアして生徒さ",
-        "type": "Event",
+        "type": "ContentImprovements",
         "url": "x.com/Blue_ArchiveJP/status/2114318121054146998",
         "start_time": 1793156400,
         "end_time": 1793156400
@@ -89,17 +122,6 @@
         "end_time": 1793156400
       },
       {
-        "id": 6167,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知 26-10-31",
-        "image": "https://static.kivo.wiki/images/timeline/fY7IAPoF5q0p0vfQGqDW3cOQwAzSyL47.jpg",
-        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
-        "start_time": 1793156400,
-        "end_time": 1794193199
-      },
-      {
         "id": 6166,
         "line_type": "JP",
         "title": "家具系列追加：「オデュッセイアクルーズ」 & 日富美（赛车）、梓（赛车）、兰娜家具互动更新",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2114314368813039733",
         "start_time": 1793156400,
         "end_time": 1793156400
-      },
-      {
-        "id": 6165,
-        "line_type": "JP",
-        "title": "活动「Start Your Engines! ～183号よ永遠に！～」",
-        "image": "https://static.kivo.wiki/images/timeline/bc0ntIlJwudcF4ty8IOy7JjJNi1E1u4R.jpg",
-        "body_summary": "【新情報②】 新イベント「Start Your Engines! ～183号よ永遠に！～」の開催が決定しました！ 本イベントをプレイすることで、生徒「ラナ」さんをお迎えすることができます！ 🔷開催期間",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/2114313078879977697",
-        "start_time": 1793156400,
-        "end_time": 1794365999
-      },
-      {
-        "id": 6164,
-        "line_type": "JP",
-        "title": "限定卡池「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀なりや？」",
-        "image": "https://static.kivo.wiki/images/timeline/wpsvd8Iql70aYlZOk0laDyfeN8jhTfVW.jpg",
-        "body_summary": "【新情報①】 限定ピックアップ募集「無限の軌道は希望なりや！」＆「夢幻の機動は奇謀なりや？」の開催が決定です！ 🔷開催期間 2026年10月28日(水) メンテナンス後 ~ 11月11日(水) 10:",
-        "type": "Gacha",
-        "url": "x.com/Blue_ArchiveJP/status/2114311956689821715",
-        "start_time": 1793156400,
-        "end_time": 1794365999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793060153,
-  "version": "1.0.0-beta.43"
+  "time": 1793145126,
+  "version": "v1.0.0-beta.43"
 }

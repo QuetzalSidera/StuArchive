@@ -7,15 +7,33 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-10-26T22:18:56Z",
+  "generated_at": "2026-10-27T21:49:57Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 86,
-  "details_synced": 86,
+  "total_items": 89,
+  "details_synced": 89,
   "details_enabled": true,
   "items": [
+    {
+      "id": 156,
+      "title": "日服新活动「Start Your Engines! ～183号よ永遠に！～」",
+      "image": "https://static.kivo.wiki/images/news/T5bYkPnuN7moVB3pzj80p83zk7hbrO6W.jpg",
+      "url": "x.com/Blue_ArchiveJP/status/2114313078879977697"
+    },
+    {
+      "id": 155,
+      "title": "[已结束]日服新活动「It’s our Engine! ～183号を脱出せよ！～」",
+      "image": "https://static.kivo.wiki/images/news/W64wQSZMxercYITDhGJsUyuiqATdBmwI.jpg",
+      "url": "x.com/Blue_ArchiveJP/status/2101219999906205899"
+    },
+    {
+      "id": 154,
+      "title": "主线剧情第2部Ex. 「ロア追跡」篇第3章公开 - 10月21日",
+      "image": "https://static.kivo.wiki/images/news/vKBQbnIVClzlY2qE5Pui6ZZGWXBjquVS.jpg",
+      "url": "x.com/Blue_ArchiveJP/status/2111653920972104039"
+    },
     {
       "id": 153,
       "title": "古书馆4周年啦！以后也请多指教！",
@@ -595,10 +613,28 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 6
+      "item_count": 9
     }
   ],
   "details": [
+    {
+      "id": 156,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/156",
+      "path": "news/156.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/156.json"
+    },
+    {
+      "id": 155,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/155",
+      "path": "news/155.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/155.json"
+    },
+    {
+      "id": 154,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/154",
+      "path": "news/154.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/154.json"
+    },
     {
       "id": 153,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/153",
@@ -1119,8 +1155,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 86,
-    "normalized_alias_count": 86,
-    "total_items": 86
+    "alias_count": 89,
+    "normalized_alias_count": 89,
+    "total_items": 89
   }
 }
