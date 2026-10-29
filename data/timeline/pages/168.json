@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 4412,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #92",
+        "image": "https://static.kivo.wiki/images/timeline/eJvcwrlQFGBzUK7x7aIyL35MgvXsA5gO.jpg",
+        "body_summary": "[8/26 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 8/26 (Tue). 🗓️Mainte",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1958816419124322740",
+        "start_time": 1756173600,
+        "end_time": 1756184400
+      },
       {
         "id": 4413,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1103529750132948992?spm_id_from=333.1365.0.0",
         "start_time": 1755707547,
         "end_time": 1755707547
-      },
-      {
-        "id": 4417,
-        "line_type": "CN",
-        "title": "大决战 霍德·街区战",
-        "image": "https://static.kivo.wiki/images/timeline/tVS2ZyWQFwTI0bAT9fSEsrLRKd4ENFj7.jpg",
-        "body_summary": "#蔚蓝档案 霍德原本是千禧年自管区通讯网的AI处理器，收到不明AI攻击后，开始宣称自己是神名十文字的第8个先知。 如果这个集结千禧年技术精华的运算系统持续失控，千禧年自管区的安全将失去保障。 ■ 活动",
-        "type": "BigRaid",
-        "url": "www.bilibili.com/opus/1103035221141356585?spm_id_from=333.1387.0.0",
-        "start_time": 1755707126,
-        "end_time": 1756311926
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145304,
+  "time": 1793233983,
   "version": "v1.0.0-beta.43"
 }

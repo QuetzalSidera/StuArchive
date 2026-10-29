@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3213,
+        "line_type": "Globle",
+        "title": "国际服任务hard2倍 #28",
+        "image": "https://static.kivo.wiki/images/timeline/FlabAfB1SKaxRcYTYzSFbmmUvD990aU4.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1844996425622450579",
+        "start_time": 1728932416,
+        "end_time": 1729537216
+      },
       {
         "id": 3188,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1844245223318159697",
         "start_time": 1728537346,
         "end_time": 1728537346
-      },
-      {
-        "id": 3172,
-        "line_type": "JP",
-        "title": "例行维护 #104",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 10月10日(木) 11:00 〜 17:00前後 ▼詳細 https:",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1843894349899411863",
-        "start_time": 1728529200,
-        "end_time": 1728550800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145437,
+  "time": 1793234126,
   "version": "v1.0.0-beta.43"
 }

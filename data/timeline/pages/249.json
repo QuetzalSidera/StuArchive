@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3577,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#12",
+        "image": "https://static.kivo.wiki/images/timeline/oDF8B5VPedINBbjy8LA0qLaOaR4d0WBn.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1882699993225847190",
+        "start_time": 1737748800,
+        "end_time": 1740427199
+      },
       {
         "id": 3599,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "weibo.com/6011443154/PazMW5b6O",
         "start_time": 1737626400,
         "end_time": 1738821600
-      },
-      {
-        "id": 3625,
-        "line_type": "CN",
-        "title": "登录签到活动「春风喜乐迎新岁」",
-        "image": "https://static.kivo.wiki/images/timeline/qZdD0q4RgxTthU4SeiWjdZ5RHq3t3clK.jpg",
-        "body_summary": "春风喜乐迎新岁签到活动即将开始，活动期间累计登录游戏，即可获得青辉石、信用积分、技术笔记&战术教育光盘、神秘古物及互动家具等丰富奖励！可千万不要错过啦！ ■ 活动时间 01月23日 维护结束后 ~ 0",
-        "type": "Event",
-        "url": "weibo.com/6011443154/Paqmr5lhD",
-        "start_time": 1737626400,
-        "end_time": 1741255200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145392,
+  "time": 1793234077,
   "version": "v1.0.0-beta.43"
 }

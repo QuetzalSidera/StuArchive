@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1365,
+        "line_type": "Globle",
+        "title": "国际服例行维护35",
+        "image": "",
+        "body_summary": "[3/28 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 3/28 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1639250714294915074",
+        "start_time": 1679968824,
+        "end_time": 1679990424
+      },
       {
         "id": 1904,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1638390112131350528?s=20",
         "start_time": 1679490023,
         "end_time": 1679490023
-      },
-      {
-        "id": 613,
-        "line_type": "JP",
-        "title": "向导活动常驻化",
-        "image": "https://static.kivo.wiki/images/timeline/7ITBj1PcmrT6aWz52RdCjpANAVu16nlq.jpg",
-        "body_summary": "【ガイドミッション常設化】 メンテナンス終了後、過去開催されたガイドミッション全てが復刻し、常設化されます。 過去の進行状況から再スタート可能ですので、まだ未達成の先生は様々な育成素材や「青輝石」の獲",
-        "type": "ContentImprovements",
-        "url": "x.com/Blue_ArchiveJP/status/1638375478456385536?s=20",
-        "start_time": 1679486691,
-        "end_time": 1679486691
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145650,
+  "time": 1793234359,
   "version": "v1.0.0-beta.43"
 }

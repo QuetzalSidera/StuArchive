@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 4307,
+        "line_type": "JP",
+        "title": "联合火力演习 #42",
+        "image": "https://static.kivo.wiki/images/timeline/6wZSnGOUmXuUyLNBaIu9PngCvZ3IxZzx.jpg",
+        "body_summary": "【合同火力演習・予告】 8月6日(水)メンテナンス後、合同火力演習「突破演習」が開幕します！ 今回の演習では、かかしを回復させた際に回復量に比例して敵にダメージを与える他、敵に弱体状態を与えると敵シー",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1951840992556167413?s=19",
+        "start_time": 1754412012,
+        "end_time": 1755016812
+      },
       {
         "id": 4333,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1951538459610587239",
         "start_time": 1754334000,
         "end_time": 1754938799
-      },
-      {
-        "id": 4338,
-        "line_type": "JP",
-        "title": "4.5周年当日",
-        "image": "https://static.kivo.wiki/images/timeline/OROpZSrLwbNzr4DSKS4w7SaiQQa9ib5y.png",
-        "body_summary": "【4.5th ANNIVERSARY】 先生！おかげ様で、本日で『ブルーアーカイブ』は4.5周年を迎えることができました🎉 今後とも #ブルアカ をよろしくお願いします♪",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1952202845027221972",
-        "start_time": 1754288078,
-        "end_time": 1754288078
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145312,
+  "time": 1793233992,
   "version": "v1.0.0-beta.43"
 }

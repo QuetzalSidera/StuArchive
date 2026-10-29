@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 5293,
+        "line_type": "Globle",
+        "title": "国际服临时维护 #30",
+        "image": "https://static.kivo.wiki/images/timeline/4GZoq8WKGCAaH8L6NV7KcfQlP8dY3OoY.jpg",
+        "body_summary": "[4/9 Temporary Maintenance Notice] There is temporary maintenance scheduled today on 4/9 (Thu). Plea",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2042121273778827604",
+        "start_time": 1775718000,
+        "end_time": 1775721600
+      },
       {
         "id": 5299,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "www.bilibili.com/opus/1188013726062608449?spm_id_from=333.1387.0.0",
         "start_time": 1775706740,
         "end_time": 1776916340
-      },
-      {
-        "id": 5729,
-        "line_type": "CN",
-        "title": "特别委托2倍 #21",
-        "image": "https://static.kivo.wiki/images/timeline/2ElkSmuxnfBxqq1oPX8XyVIV91pxRhix.jpg",
-        "body_summary": "【道具掉落量2倍活动】更新预告 【任务（普通难度）】道具掉落量2倍 开启时间：03月05日 04:00 ~ 03月09日 03:59 【任务（困难难度）】道具掉落量2倍 开启时间：03月09日 04:",
-        "type": "Double",
-        "url": "www.bilibili.com/opus/1173649699721183316",
-        "start_time": 1775678400,
-        "end_time": 1776283199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145211,
+  "time": 1793233878,
   "version": "v1.0.0-beta.43"
 }

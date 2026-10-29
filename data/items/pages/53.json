@@ -5,6 +5,22 @@
     "max_page": 202,
     "item": [
       {
+        "id": 253,
+        "name": "哨子",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/gSzzTrf5oikFvjvXKxsV4chkurZwHjin.png",
+        "rarity": 1,
+        "description": "用工程师部的尖端技术制成的特制哨子。吹气时震动膜会产生电子信号，启动会发出鸟鸣声的扬声器，是由复杂的结构组成。"
+      },
+      {
+        "id": 1349,
+        "name": "设备零件",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/3vIFxcCkPPBguIlQ76PGi4taX8GoGsyl.png",
+        "rarity": 1,
+        "description": "修理千禧废墟的设备用的零件。可在废墟各处找到，收集后可使设备重新运转。"
+      },
+      {
         "id": 1986,
         "name": "设施入场券",
         "type": "default",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/OOZkPfmhwpxFOlYmpUj6pRsz7G1xocFP.png",
         "rarity": 1,
         "description": "优香为老师购入的送礼用巧克力组合。虽然是超过一万日元的高级巧克力，但不知为何附上了五千日元的发票。"
-      },
-      {
-        "id": 580,
-        "name": "生锈的弹簧",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Zg52UJY0CwNnU5lMq8XZRh51EJW6fHDU.png",
-        "rarity": 1,
-        "description": "推进枪械的枪栓时使用的弹簧，由于管理不善处处生锈。用于强化固有武器。用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 584,
-        "name": "生锈的击锤",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/gI7xhlLQiqs7hfEH58bcuSVONDyTC8kQ.png",
-        "rarity": 1,
-        "description": "扣动板机时向撞针传递力量的零件，由于管理不善处处生锈。用于强化固有武器。  用于强化 AR、GL、RL 类型武器时提供 1.5 倍经验"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793138622,
+  "time": 1793226589,
   "version": "v1.0.0-beta.43"
 }

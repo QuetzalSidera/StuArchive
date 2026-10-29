@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-10-27T21:49:57Z",
+  "generated_at": "2026-10-28T22:12:01Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 542,
-  "alias_count": 542,
-  "normalized_alias_count": 542,
+  "total_items": 543,
+  "alias_count": 543,
+  "normalized_alias_count": 543,
   "by_id": {
     "1": {
       "id": 1,
@@ -6516,6 +6516,18 @@
       },
       "detail_path": "models/559.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/559.json"
+    },
+    "560": {
+      "id": 560,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 560,
+        "name": "CH0322_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/560.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/560.json"
     }
   },
   "by_alias": {
@@ -8144,6 +8156,9 @@
     ],
     "CH0252_Halo": [
       "559"
+    ],
+    "CH0322_Halo": [
+      "560"
     ]
   },
   "by_normalized_alias": {
@@ -9772,6 +9787,9 @@
     ],
     "ch0252_halo": [
       "559"
+    ],
+    "ch0322_halo": [
+      "560"
     ]
   }
 }

@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 5950,
+        "line_type": "JP",
+        "title": "制约解除决战：Chokmah #9",
+        "image": "https://static.kivo.wiki/images/timeline/AqU0Rx5nvkmG0lWVwoS1THACnRY4jrgt.png",
+        "body_summary": "【制約解除決戦・開催】 先生！キヴォトス極地の火山に「コクマー」が姿を現しました！ 「コクマー」のEXスキル「夜明けを待つ」が発動すると、戦闘が終了するまで火炎放射を浴びることになってしまいます…。 ",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/2092794628865220736",
+        "start_time": 1787799600,
+        "end_time": 1790107199
+      },
       {
         "id": 5945,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2081349057646305521",
         "start_time": 1787428800,
         "end_time": 1787687999
-      },
-      {
-        "id": 5922,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍#53",
-        "image": "https://static.kivo.wiki/images/timeline/Y4WRnpL6ChrgF9sGKkpnXw2CCzWEdzuD.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 8/21 (Fri)! Don't m",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2090695396775329920",
-        "start_time": 1787338800,
-        "end_time": 1787425199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145151,
+  "time": 1793233813,
   "version": "v1.0.0-beta.43"
 }

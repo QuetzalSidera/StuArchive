@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1036,
+        "line_type": "JP",
+        "title": "引导任务「百鬼夜行燈籠祭めぐり」",
+        "image": "https://static.kivo.wiki/images/timeline/4rz2h6PWNpYpqECNLHr2zERwgDynpuWx.jpg",
+        "body_summary": "【ガイドミッション】 メンテナンス後、ガイドミッション「百鬼夜行燈籠祭めぐり」を開始します。 ミッションクリアで、家具モーション付限定家具「古風な調理台」、「リラックスチェア」を入手できる他、アイテム",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1727251330467782793",
+        "start_time": 1700650800,
+        "end_time": 1703645999
+      },
       {
         "id": 1030,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1726511021651906869",
         "start_time": 1700596825,
         "end_time": 1701201565
-      },
-      {
-        "id": 1593,
-        "line_type": "Globle",
-        "title": "国际服活动常驻化「Summer Sky's Wishlist」",
-        "image": "https://static.kivo.wiki/images/timeline/xm7DxEv6a3asQxT7BVc8cDzu4hGoM1Jl.jpg",
-        "body_summary": "[Immortalized Event Notice] The Event Story, Summer Sky's Wishlist, will be immortalized starting 11",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1725408432948449290",
-        "start_time": 1700546427,
-        "end_time": 1700546427
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145576,
+  "time": 1793234281,
   "version": "v1.0.0-beta.43"
 }

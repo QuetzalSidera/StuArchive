@@ -5,6 +5,22 @@
     "max_page": 202,
     "item": [
       {
+        "id": 1337,
+        "name": "骰子5点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/NOd1t2jkeuG4kVgZzYQpaig5jywAzFMt.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择5点后会消耗此券。"
+      },
+      {
+        "id": 1338,
+        "name": "骰子6点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/IcxUXmDPysHONKZMvygr3JIdhkOKbg1N.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择6点后会消耗此券。"
+      },
+      {
         "id": 1332,
         "name": "骰子固定券",
         "type": "default",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/UsFkoV3jQs3jO6ct402Dzk3EJWGP8Sfv.png",
         "rarity": 2,
         "description": "枪支上用于输送弹丸的铁管零件，保存状态完好，就像新的一样。用于强化固有武器。  用于强化 MG、SR、MT、RG 类型武器时提供 1.5 倍经验"
-      },
-      {
-        "id": 430,
-        "name": "完整的安迪基西拉装置",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/T3Vvsmxg06YYDxaEpxPlmAcSUWlZ0qph.png",
-        "rarity": 4,
-        "description": "状态完整的安迪基西拉装置。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 367,
-        "name": "完整的长发娃娃",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/kPSmm9gIXTa3GZjIEi6zWB8nO4XKYque.png",
-        "rarity": 4,
-        "description": "状态完好的长发娃娃。可用来进行各种制造及强化。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793138629,
+  "time": 1793226597,
   "version": "v1.0.0-beta.43"
 }

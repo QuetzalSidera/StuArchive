@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-10-27T21:49:57Z",
+  "generated_at": "2026-10-28T22:12:01Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 2013,
-  "alias_count": 1981,
-  "normalized_alias_count": 1981,
+  "total_items": 2020,
+  "alias_count": 1988,
+  "normalized_alias_count": 1988,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -2398,6 +2398,21 @@
       "detail_path": "items/137.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/137.json"
     },
+    "2094": {
+      "id": 2094,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2094,
+        "name": "改装零件",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tTNuc1qJjEOJZzLIjSeWdGVVLQ9q44RV.png",
+        "rarity": 1,
+        "description": "格黑娜杯官方认证的改造用零件。虽然完全搞不清楚哪些是被禁止的，但是姑且还是要经过审批。"
+      },
+      "detail_path": "items/2094.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2094.json"
+    },
     "1331": {
       "id": 1331,
       "source_path": "items/index.json",
@@ -3252,6 +3267,21 @@
       },
       "detail_path": "items/2053.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2053.json"
+    },
+    "2091": {
+      "id": 2091,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2091,
+        "name": "格黑娜杯门票",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ZgiU4sDT32gRRSo4HLrqGDOrLAM6G0uI.png",
+        "rarity": 1,
+        "description": "战车竞速比赛「格黑娜杯」的入场门票。由于被撒得到处都是，所以很容易拿到手。"
+      },
+      "detail_path": "items/2091.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2091.json"
     },
     "582": {
       "id": 582,
@@ -10078,6 +10108,21 @@
       "detail_path": "items/395.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/395.json"
     },
+    "2090": {
+      "id": 2090,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2090,
+        "name": "选手通行证",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/oFzfc6hv1qcn9bnFDuaLqnncU20G0e9S.png",
+        "rarity": 1,
+        "description": "赛车手佩戴的选手用通行证，禁止转借他人。"
+      },
+      "detail_path": "items/2090.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2090.json"
+    },
     "232": {
       "id": 232,
       "source_path": "items/index.json",
@@ -11128,6 +11173,21 @@
       "detail_path": "items/1415.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1415.json"
     },
+    "2092": {
+      "id": 2092,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2092,
+        "name": "应援旗帜",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/yxQY87S2jxwi2gasH0Ib4265HUW1uwts.png",
+        "rarity": 1,
+        "description": "为支持的队伍而挥舞的小旗帜。如果在太靠前的位置挥舞，选手可能会误以为是开跑信号从而抢跑。"
+      },
+      "detail_path": "items/2092.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2092.json"
+    },
     "259": {
       "id": 259,
       "source_path": "items/index.json",
@@ -11442,6 +11502,21 @@
       },
       "detail_path": "items/1322.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1322.json"
+    },
+    "2093": {
+      "id": 2093,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2093,
+        "name": "战车碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/qXDhrR2AGLTRoscDPJG0GsrFZKlc80vy.png",
+        "rarity": 1,
+        "description": "战车损坏后飞入观众席的碎片。作为纪念品颇受欢迎。"
+      },
+      "detail_path": "items/2093.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2093.json"
     },
     "1093": {
       "id": 1093,
@@ -17067,6 +17142,21 @@
       },
       "detail_path": "items/949.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/949.json"
+    },
+    "2095": {
+      "id": 2095,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2095,
+        "name": "电脑工作台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/tCVZw7mout2mdHVjHu3fpf2p7u0LgfbC.png",
+        "rarity": 4,
+        "description": "我行我素 的工程师的工作台。<br> 看来似乎很喜欢电脑。"
+      },
+      "detail_path": "items/2095.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2095.json"
     },
     "1657": {
       "id": 1657,
@@ -23953,6 +24043,21 @@
       "detail_path": "items/1871.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1871.json"
     },
+    "2096": {
+      "id": 2096,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2096,
+        "name": "赛车电玩机",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/STq2AL3WvBaRXEVfdeVTWFuQKtEGS1fv.png",
+        "rarity": 4,
+        "description": "即使在室内也能享受竞速乐趣的街机游戏。<br>完美还原了真实坦克竞速时的驾驶体验与震动反馈。人气与伤员都源源不断。"
+      },
+      "detail_path": "items/2096.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2096.json"
+    },
     "1574": {
       "id": 1574,
       "source_path": "items/index.json",
@@ -30687,6 +30792,9 @@
     "改良型切流恩卡": [
       "137"
     ],
+    "改装零件": [
+      "2094"
+    ],
     "干海星": [
       "1331"
     ],
@@ -30841,6 +30949,9 @@
     ],
     "格赫娜宴会系列家具选择箱": [
       "2053"
+    ],
+    "格黑娜杯门票": [
+      "2091"
     ],
     "铬弹簧": [
       "582"
@@ -32191,6 +32302,9 @@
     "悬赏通缉硬币": [
       "395"
     ],
+    "选手通行证": [
+      "2090"
+    ],
     "学院交流会传单": [
       "232"
     ],
@@ -32385,6 +32499,9 @@
     "应用卫生练习册": [
       "1415"
     ],
+    "应援旗帜": [
+      "2092"
+    ],
     "樱花糯米糕": [
       "259"
     ],
@@ -32447,6 +32564,9 @@
     ],
     "宅邸邀请函": [
       "1322"
+    ],
+    "战车碎片": [
+      "2093"
     ],
     "战略领袖亲手制作的巧克力": [
       "1093"
@@ -33556,6 +33676,9 @@
     ],
     "点缀照明柱": [
       "949"
+    ],
+    "电脑工作台": [
+      "2095"
     ],
     "电视录像一体机": [
       "1657"
@@ -34933,6 +35056,9 @@
     ],
     "日鞠的衣柜": [
       "1871"
+    ],
+    "赛车电玩机": [
+      "2096"
     ],
     "三合一长椅": [
       "1574"
@@ -36664,6 +36790,9 @@
     "改良型切流恩卡": [
       "137"
     ],
+    "改装零件": [
+      "2094"
+    ],
     "干海星": [
       "1331"
     ],
@@ -36818,6 +36947,9 @@
     ],
     "格赫娜宴会系列家具选择箱": [
       "2053"
+    ],
+    "格黑娜杯门票": [
+      "2091"
     ],
     "铬弹簧": [
       "582"
@@ -38168,6 +38300,9 @@
     "悬赏通缉硬币": [
       "395"
     ],
+    "选手通行证": [
+      "2090"
+    ],
     "学院交流会传单": [
       "232"
     ],
@@ -38362,6 +38497,9 @@
     "应用卫生练习册": [
       "1415"
     ],
+    "应援旗帜": [
+      "2092"
+    ],
     "樱花糯米糕": [
       "259"
     ],
@@ -38424,6 +38562,9 @@
     ],
     "宅邸邀请函": [
       "1322"
+    ],
+    "战车碎片": [
+      "2093"
     ],
     "战略领袖亲手制作的巧克力": [
       "1093"
@@ -39533,6 +39674,9 @@
     ],
     "点缀照明柱": [
       "949"
+    ],
+    "电脑工作台": [
+      "2095"
     ],
     "电视录像一体机": [
       "1657"
@@ -40910,6 +41054,9 @@
     ],
     "日鞠的衣柜": [
       "1871"
+    ],
+    "赛车电玩机": [
+      "2096"
     ],
     "三合一长椅": [
       "1574"

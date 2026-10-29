@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 5908,
+        "line_type": "JP",
+        "title": "例行维护#148",
+        "image": "https://static.kivo.wiki/images/timeline/uurbJ2qniYQiCt4Xth7ASup0QKtZRBrs.png",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年8月12日(水) 11:00 〜 17:00前後 ▼詳細 ht",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2087056535184920717",
+        "start_time": 1786503600,
+        "end_time": 1786525200
+      },
       {
         "id": 5907,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2085984358347763789",
         "start_time": 1786388400,
         "end_time": 1786993199
-      },
-      {
-        "id": 5815,
-        "line_type": "JP",
-        "title": "任务Hard3倍#18",
-        "image": "https://static.kivo.wiki/images/timeline/IHVSZUEbq6bcnXF4N3jLm8sTWpIO53QN.jpg",
-        "body_summary": "【新情報⑧】 ブルアカの5.5周年を記念して、期間限定で「報酬ドロップ量3倍キャンペーン」が開催されます！ また、「先生レベル経験値2倍キャンペーン」も開催されますのでご活用ください♪ ※熟達証書の獲",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/2081349057646305521",
-        "start_time": 1786219200,
-        "end_time": 1786478399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145157,
+  "time": 1793233820,
   "version": "v1.0.0-beta.43"
 }

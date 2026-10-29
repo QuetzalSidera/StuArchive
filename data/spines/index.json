@@ -7,13 +7,13 @@
     "api_path": "/data/spines/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/"
   },
-  "generated_at": "2026-10-27T21:49:57Z",
+  "generated_at": "2026-10-28T22:12:01Z",
   "list_key": "spine",
   "id_key": "id",
-  "max_page": 180,
-  "synced_pages": 180,
-  "total_items": 1796,
-  "details_synced": 1796,
+  "max_page": 181,
+  "synced_pages": 181,
+  "total_items": 1801,
+  "details_synced": 1801,
   "details_enabled": true,
   "items": [
     {
@@ -10791,6 +10791,36 @@
       "name": "NP0307_spr",
       "remark": "乘务员",
       "type": "spr"
+    },
+    {
+      "id": 1918,
+      "name": "CH0379_home",
+      "remark": "",
+      "type": "home"
+    },
+    {
+      "id": 1919,
+      "name": "CH0322_home",
+      "remark": "",
+      "type": "home"
+    },
+    {
+      "id": 1920,
+      "name": "CH0380_home",
+      "remark": "",
+      "type": "home"
+    },
+    {
+      "id": 1921,
+      "name": "CH0379_spr",
+      "remark": "初始立绘",
+      "type": "spr"
+    },
+    {
+      "id": 1922,
+      "name": "CH0380_spr",
+      "remark": "初始立绘",
+      "type": "spr"
     }
   ],
   "pages": [
@@ -12052,7 +12082,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/?page=180",
       "path": "spines/pages/180.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/180.json",
-      "item_count": 6
+      "item_count": 10
+    },
+    {
+      "page": 181,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/?page=181",
+      "path": "spines/pages/181.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/pages/181.json",
+      "item_count": 1
     }
   ],
   "details": [
@@ -22831,13 +22868,43 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1916",
       "path": "spines/1916.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1916.json"
+    },
+    {
+      "id": 1918,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1918",
+      "path": "spines/1918.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1918.json"
+    },
+    {
+      "id": 1919,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1919",
+      "path": "spines/1919.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1919.json"
+    },
+    {
+      "id": 1920,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1920",
+      "path": "spines/1920.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1920.json"
+    },
+    {
+      "id": 1921,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1921",
+      "path": "spines/1921.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1921.json"
+    },
+    {
+      "id": 1922,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/spines/1922",
+      "path": "spines/1922.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1922.json"
     }
   ],
   "lookup": {
     "path": "spines/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/lookup.json",
-    "alias_count": 1793,
-    "normalized_alias_count": 1793,
-    "total_items": 1796
+    "alias_count": 1798,
+    "normalized_alias_count": 1798,
+    "total_items": 1801
   }
 }

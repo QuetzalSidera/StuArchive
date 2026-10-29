@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-10-27T21:49:57Z",
+  "generated_at": "2026-10-28T22:12:01Z",
   "list_key": "model",
   "id_key": "id",
   "max_page": 55,
   "synced_pages": 55,
-  "total_items": 542,
-  "details_synced": 542,
+  "total_items": 543,
+  "details_synced": 543,
   "details_enabled": true,
   "items": [
     {
@@ -2725,6 +2725,11 @@
       "id": 559,
       "name": "CH0252_Halo",
       "type": "halo"
+    },
+    {
+      "id": 560,
+      "name": "CH0322_Halo",
+      "type": "halo"
     }
   ],
   "pages": [
@@ -3111,7 +3116,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=55",
       "path": "models/pages/55.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/55.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [
@@ -6366,13 +6371,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/559",
       "path": "models/559.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/559.json"
+    },
+    {
+      "id": 560,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/560",
+      "path": "models/560.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/560.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 542,
-    "normalized_alias_count": 542,
-    "total_items": 542
+    "alias_count": 543,
+    "normalized_alias_count": 543,
+    "total_items": 543
   }
 }

@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 902,
+        "line_type": "Globle",
+        "title": "国际服卡池「UNFORGIVABLE! YOU WILL BE PURGED!」",
+        "image": "https://static.kivo.wiki/images/timeline/oFzNJs4VufMnn0Sqrzt0NiN1ZAn28iGp.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 1/11 (Tue)! Target Pick-Up Stu",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1479739905358114819",
+        "start_time": 1641891600,
+        "end_time": 1643079600
+      },
       {
         "id": 901,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "x.com/blue_archivejp/status/1478303996217802760?s=46&t=JCAusYy30IlDEGpeUVCB0g",
         "start_time": 1641263531,
         "end_time": 1641263531
-      },
-      {
-        "id": 896,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍2 hard2倍2",
-        "image": "https://static.kivo.wiki/images/timeline/R201T6qBIcMbcV62tZWYN1oDYEgw8lh1.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1477565332311068674",
-        "start_time": 1641236400,
-        "end_time": 1641841199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145735,
+  "time": 1793234455,
   "version": "v1.0.0-beta.43"
 }

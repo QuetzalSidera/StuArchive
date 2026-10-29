@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-10-27T21:49:57Z",
+  "generated_at": "2026-10-28T22:12:01Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6031,
-  "alias_count": 6020,
-  "normalized_alias_count": 6013,
+  "total_items": 6032,
+  "alias_count": 6022,
+  "normalized_alias_count": 6015,
   "by_id": {
     "6180": {
       "id": 6180,
@@ -427,24 +427,6 @@
       "detail_path": "timeline/6168.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6168.json"
     },
-    "6157": {
-      "id": 6157,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6157,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍 #45",
-        "image": "https://static.kivo.wiki/images/timeline/r9F5ktAoq5IefGdFDv9dAVRa8eRaZ7wk.png",
-        "body_summary": "[Double Drop Campaign Preview] Starting 10/26 (Mon), Lesson reward will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2113888227417628858",
-        "start_time": 1793127600,
-        "end_time": 1793646000
-      },
-      "detail_path": "timeline/6157.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6157.json"
-    },
     "6150": {
       "id": 6150,
       "source_path": "timeline/index.json",
@@ -463,6 +445,24 @@
       "detail_path": "timeline/6150.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6150.json"
     },
+    "6199": {
+      "id": 6199,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6199,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Ah, Sensei There You are I'l always give eVerything I have to the job.」&「I hate to be a bother. I'm sorry!」",
+        "image": "https://static.kivo.wiki/images/timeline/Nf0ARegxAzUtZdXJaRTMW5PNPKIy9nNj.jpg",
+        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 10/27 (T",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2113525835076612555",
+        "start_time": 1793077200,
+        "end_time": 1793671200
+      },
+      "detail_path": "timeline/6199.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6199.json"
+    },
     "6155": {
       "id": 6155,
       "source_path": "timeline/index.json",
@@ -470,7 +470,7 @@
       "item": {
         "id": 6155,
         "line_type": "Globle",
-        "title": "国际服例行维护 #122",
+        "title": "国际服例行维护 #123",
         "image": "https://static.kivo.wiki/images/timeline/aKymv6AQxnUZh6K5rpp6BQT41OlEUmpd.png",
         "body_summary": "[10/27 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/27 (Tue). 🗓️Main",
         "type": "Maintenance",
@@ -516,6 +516,24 @@
       },
       "detail_path": "timeline/6152.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6152.json"
+    },
+    "6157": {
+      "id": 6157,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6157,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍 #45",
+        "image": "https://static.kivo.wiki/images/timeline/r9F5ktAoq5IefGdFDv9dAVRa8eRaZ7wk.png",
+        "body_summary": "[Double Drop Campaign Preview] Starting 10/26 (Mon), Lesson reward will be doubled! Don't miss out o",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2113888227417628858",
+        "start_time": 1793041200,
+        "end_time": 1793646000
+      },
+      "detail_path": "timeline/6157.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6157.json"
     },
     "6151": {
       "id": 6151,
@@ -715,6 +733,42 @@
       "detail_path": "timeline/6158.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6158.json"
     },
+    "6154": {
+      "id": 6154,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6154,
+        "line_type": "Globle",
+        "title": "国际服老师经验2倍#58",
+        "image": "https://static.kivo.wiki/images/timeline/4e0m4qjC4uWLScmKkZKc8bDq8g2AiFfl.png",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 10/23 (Fri)! Don't ",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2113533382256701646",
+        "start_time": 1792782000,
+        "end_time": 1792954800
+      },
+      "detail_path": "timeline/6154.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6154.json"
+    },
+    "6200": {
+      "id": 6200,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6200,
+        "line_type": "Globle",
+        "title": "国际服新专辑「Following Petals」MV公开特别礼物",
+        "image": "https://static.kivo.wiki/images/timeline/MjCHYHtg0XfdXfh9euEAkQ0tAXBrksE3.png",
+        "body_summary": "Sensei, please accept this gift to celebrate the 'Following Petals' music video release! We hope it'",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2113601345311908265",
+        "start_time": 1792756800,
+        "end_time": 1794236400
+      },
+      "detail_path": "timeline/6200.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6200.json"
+    },
     "6193": {
       "id": 6193,
       "source_path": "timeline/index.json",
@@ -786,24 +840,6 @@
       },
       "detail_path": "timeline/6191.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6191.json"
-    },
-    "6154": {
-      "id": 6154,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6154,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍#58",
-        "image": "https://static.kivo.wiki/images/timeline/4e0m4qjC4uWLScmKkZKc8bDq8g2AiFfl.png",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 10/23 (Fri)! Don't ",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2113533382256701646",
-        "start_time": 1792728000,
-        "end_time": 1792900800
-      },
-      "detail_path": "timeline/6154.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6154.json"
     },
     "6160": {
       "id": 6160,
@@ -1298,7 +1334,7 @@
       "item": {
         "id": 6131,
         "line_type": "Globle",
-        "title": "国际服例行维护 #122 临时维护",
+        "title": "国际服临时维护 #31",
         "image": "https://static.kivo.wiki/images/timeline/Jy8D8YYWy2wnR0UaUfCmbMf6TJNtSkdI.jpg",
         "body_summary": "[10/13(Tue) Temporary Maintenace Notice] To improve game stability and performance, a temporary main",
         "type": "Maintenance",
@@ -1308,24 +1344,6 @@
       },
       "detail_path": "timeline/6131.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6131.json"
-    },
-    "6118": {
-      "id": 6118,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6118,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #121",
-        "image": "https://static.kivo.wiki/images/timeline/Aol4VsvZPcnFUnEaAMYr4YB0qmBBFqOW.jpg",
-        "body_summary": "[10/13 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/13 (Tue). 🗓️Main",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2108482619910623479",
-        "start_time": 1791856800,
-        "end_time": 1791871200
-      },
-      "detail_path": "timeline/6118.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6118.json"
     },
     "6117": {
       "id": 6117,
@@ -108642,13 +108660,13 @@
     "指名手配2倍#60": [
       "6168"
     ],
-    "国际服课程表2倍 #45": [
-      "6157"
-    ],
     "国际服联合火力演习#53": [
       "6150"
     ],
-    "国际服例行维护 #122": [
+    "国际服卡池复刻「Ah, Sensei There You are I'l always give eVerything I have to the job.」&「I hate to be a bother. I'm sorry!」": [
+      "6199"
+    ],
+    "国际服例行维护 #123": [
       "6155"
     ],
     "国际服卡池复刻「So this is the ocean...」": [
@@ -108656,6 +108674,9 @@
     ],
     "国际服卡池复刻「Highlander Railroad Academy Tachibana Hikari has arrived!」&「Pahyahyahya!! Let's go! Full speed Ahead」": [
       "6152"
+    ],
+    "国际服课程表2倍 #45": [
+      "6157"
     ],
     "国际服活动复刻「Highlander Railroad Runaway Incident: And the Train Disappeared」": [
       "6151"
@@ -108690,6 +108711,12 @@
     "今日几分甜 × QQ音乐联动周边现已上架!": [
       "6158"
     ],
+    "国际服老师经验2倍#58": [
+      "6154"
+    ],
+    "国际服新专辑「Following Petals」MV公开特别礼物": [
+      "6200"
+    ],
     "艾利 & 庚家具互动更新": [
       "6193"
     ],
@@ -108701,9 +108728,6 @@
     ],
     "艾利": [
       "6191"
-    ],
-    "国际服老师经验2倍#58": [
-      "6154"
     ],
     "限时活动【我等乃神秘学研究会!~学院之谜与古老咒文~】介绍PV": [
       "6160"
@@ -108786,12 +108810,8 @@
     "任务Normal2倍#61": [
       "6140"
     ],
-    "国际服例行维护 #122 临时维护": [
+    "国际服临时维护 #31": [
       "6131"
-    ],
-    "国际服例行维护 #121": [
-      "6118",
-      "6130"
     ],
     "国际服卡池「Were you looking for me,sensei?Have you stretched yet?」": [
       "6117"
@@ -108804,6 +108824,9 @@
     ],
     "国际服「Premium Dash 招募」功能追加;新爱用品(兔女郎花凛、伊吕波、绫音)": [
       "6144"
+    ],
+    "国际服例行维护 #121": [
+      "6130"
     ],
     "国际服违规帐号封禁 #73": [
       "6133"
@@ -126715,13 +126738,13 @@
     "指名手配2倍#60": [
       "6168"
     ],
-    "国际服课程表2倍#45": [
-      "6157"
-    ],
     "国际服联合火力演习#53": [
       "6150"
     ],
-    "国际服例行维护#122": [
+    "国际服卡池复刻「ah,senseithereyouarei'lalwaysgiveeverythingihavetothejob.」&「ihatetobeabother.i'msorry!」": [
+      "6199"
+    ],
+    "国际服例行维护#123": [
       "6155"
     ],
     "国际服卡池复刻「sothisistheocean...」": [
@@ -126729,6 +126752,9 @@
     ],
     "国际服卡池复刻「highlanderrailroadacademytachibanahikarihasarrived!」&「pahyahyahya!!let'sgo!fullspeedahead」": [
       "6152"
+    ],
+    "国际服课程表2倍#45": [
+      "6157"
     ],
     "国际服活动复刻「highlanderrailroadrunawayincident:andthetraindisappeared」": [
       "6151"
@@ -126763,6 +126789,12 @@
     "今日几分甜×qq音乐联动周边现已上架!": [
       "6158"
     ],
+    "国际服老师经验2倍#58": [
+      "6154"
+    ],
+    "国际服新专辑「followingpetals」mv公开特别礼物": [
+      "6200"
+    ],
     "艾利&庚家具互动更新": [
       "6193"
     ],
@@ -126774,9 +126806,6 @@
     ],
     "艾利": [
       "6191"
-    ],
-    "国际服老师经验2倍#58": [
-      "6154"
     ],
     "限时活动【我等乃神秘学研究会!~学院之谜与古老咒文~】介绍pv": [
       "6160"
@@ -126859,12 +126888,8 @@
     "任务normal2倍#61": [
       "6140"
     ],
-    "国际服例行维护#122临时维护": [
+    "国际服临时维护#31": [
       "6131"
-    ],
-    "国际服例行维护#121": [
-      "6118",
-      "6130"
     ],
     "国际服卡池「wereyoulookingforme,sensei?haveyoustretchedyet?」": [
       "6117"
@@ -126877,6 +126902,9 @@
     ],
     "国际服「premiumdash招募」功能追加;新爱用品(兔女郎花凛、伊吕波、绫音)": [
       "6144"
+    ],
+    "国际服例行维护#121": [
+      "6130"
     ],
     "国际服违规帐号封禁#73": [
       "6133"

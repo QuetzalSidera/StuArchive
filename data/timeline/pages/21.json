@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6013,
+        "line_type": "JP",
+        "title": "例行维护#150",
+        "image": "https://static.kivo.wiki/images/timeline/6nlnrujBtROnGGIEe49yQ9JpZ4bkh81Z.png",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年9月9日(水) 11:00 〜 17:00前後 ▼詳細 htt",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2097203422160376062",
+        "start_time": 1788922800,
+        "end_time": 1788944400
+      },
       {
         "id": 6011,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2095799028231332321",
         "start_time": 1788832800,
         "end_time": 1788847200
-      },
-      {
-        "id": 5991,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Lip balm, Check! Hair rollers, Check!」&「If there's somewhere you want to go, let me know anytime... If it's in Hyakkiyako, I can guide you there.」#2",
-        "image": "https://static.kivo.wiki/images/timeline/om0aMIJhge4Ep137yj0DM7QGQENW3gc7.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 9/8 (Tue)! 💌Pick-Up St",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2095772600563798245",
-        "start_time": 1788832800,
-        "end_time": 1789437599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145147,
+  "time": 1793233808,
   "version": "v1.0.0-beta.43"
 }

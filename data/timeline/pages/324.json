@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2865,
+        "line_type": "JP",
+        "title": "例行维护99",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.8GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 7/22(月) 11",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1815008838938218549",
+        "start_time": 1721617200,
+        "end_time": 1721646000
+      },
       {
         "id": 5006,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "weibo.com/ttarticle/p/show?id=2309405054681327206909",
         "start_time": 1721419200,
         "end_time": 1724011200
-      },
-      {
-        "id": 2910,
-        "line_type": "CN",
-        "title": "快快快！千禧年快讯",
-        "image": "https://static.kivo.wiki/images/timeline/q9IGcpwre1UeOXNEj6GER5nWEdiEKSwI.jpg",
-        "body_summary": "////////// 快快快！千禧年快讯 ////////// ■ Millennium News Alert!丨Vol.01 晄轮大会开幕在即，身为本届晄轮大会主办者的千禧年科技学院正如火如荼地准备",
-        "type": "OutsideGames",
-        "url": "weibo.com/6011443154/Ooivnqi3p",
-        "start_time": 1721383200,
-        "end_time": 1721901600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145472,
+  "time": 1793234166,
   "version": "v1.0.0-beta.43"
 }

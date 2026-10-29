@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3282,
+        "line_type": "JP",
+        "title": "制约解除决战：赛特之怒 #8",
+        "image": "https://static.kivo.wiki/images/timeline/taOHbsX1r78qiTZTNFQkVipSQpibir1a.png",
+        "body_summary": "【制約解除決戦・開催】 先生、制約解除決戦「セトの憤怒」が開催中です。 今回の防御タイプは「軽装備」となります。 敵である「セトの憤怒」は、自身のパッシブスキル「黎明を食らう暴風」で生徒さんのEXスキ",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1859416847051071920",
+        "start_time": 1732158000,
+        "end_time": 1734983999
+      },
       {
         "id": 3395,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1858347387770769816",
         "start_time": 1732046400,
         "end_time": 1732651199
-      },
-      {
-        "id": 3317,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「We have a huge problem, Sensei. I am bored.」",
-        "image": "https://static.kivo.wiki/images/timeline/esxn8e956WEsyMH4maS69Djl1mp3dXQH.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 11/19 (Tue)! 💌Pick-Up ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1857328935358316664",
-        "start_time": 1732010400,
-        "end_time": 1733191200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145419,
+  "time": 1793234106,
   "version": "v1.0.0-beta.43"
 }

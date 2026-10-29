@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,28 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6122,
+        "line_type": "JP",
+        "title": "大决战：屋外戦・ゲブラ #1",
+        "image": "https://static.kivo.wiki/images/timeline/BMRcpUP5FaViaVLFBBcuhe7HNvDRmljr.jpg",
+        "body_summary": "【大決戦予告】 2026年10月14日(水)11:00より、大決戦「屋外戦・ゲブラ」を開催します！ 今回難易度「Torment」に挑戦できる防御タイプは「特殊装甲」と「軽装備」になります。 「ゲブラ」",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2109117216599998468",
+        "start_time": 1791946800,
+        "end_time": 1792526399
+      },
+      {
+        "id": 6112,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战：Tiphareth #5",
+        "image": "https://static.kivo.wiki/images/timeline/bnQ6yOfv58lpqxQnQjGWKQQPqbFAJ7kD.jpg",
+        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - TIPHARETH (Defense Type: Elastic Arm",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2108090014383108335",
+        "start_time": 1791943200,
+        "end_time": 1794275999
+      },
       {
         "id": 6140,
         "line_type": "JP",
@@ -36,24 +58,13 @@
       {
         "id": 6131,
         "line_type": "Globle",
-        "title": "国际服例行维护 #122 临时维护",
+        "title": "国际服临时维护 #31",
         "image": "https://static.kivo.wiki/images/timeline/Jy8D8YYWy2wnR0UaUfCmbMf6TJNtSkdI.jpg",
         "body_summary": "[10/13(Tue) Temporary Maintenace Notice] To improve game stability and performance, a temporary main",
         "type": "Maintenance",
         "url": "x.com/EN_BlueArchive/status/2109892054981693546",
         "start_time": 1791868200,
         "end_time": 1791875400
-      },
-      {
-        "id": 6118,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #121",
-        "image": "https://static.kivo.wiki/images/timeline/Aol4VsvZPcnFUnEaAMYr4YB0qmBBFqOW.jpg",
-        "body_summary": "[10/13 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/13 (Tue). 🗓️Main",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2108482619910623479",
-        "start_time": 1791856800,
-        "end_time": 1791871200
       },
       {
         "id": 6117,
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2109955816464019582",
         "start_time": 1791838800,
         "end_time": 1791838800
-      },
-      {
-        "id": 6132,
-        "line_type": "Globle",
-        "title": "国际服 My Office 更新",
-        "image": "https://static.kivo.wiki/images/timeline/FZhPUDw5Kdk0y3JDvKusMM3RP31432xQ.jpg",
-        "body_summary": "Sensei, After the maintenance on Tuesday, October 13, a new menu, ‘Angel 24,’ will be added to My Of",
-        "type": "OutsideGames",
-        "url": "x.com/EN_BlueArchive/status/2109937914318934284",
-        "start_time": 1791838800,
-        "end_time": 1791838800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145132,
+  "time": 1793233793,
   "version": "v1.0.0-beta.43"
 }

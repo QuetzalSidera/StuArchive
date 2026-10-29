@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 4163,
+        "line_type": "JP",
+        "title": "例行维护 #122",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 6/25(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1937692272042422597",
+        "start_time": 1750820400,
+        "end_time": 1750849200
+      },
       {
         "id": 4161,
         "line_type": "JP",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1937012744412106856",
         "start_time": 1750654800,
         "end_time": 1750654800
-      },
-      {
-        "id": 4167,
-        "line_type": "JP",
-        "title": "活动「百ヨリ出ズル一輪ノ　〜いざ尋常に、水上勝負〜」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 先生、新イベントのPVを公開します！ 百鬼夜行の夏の風物詩「百夜水上祭」に参加すべく、海岸を訪れた百花繚乱一同。 水上で行われるサバイバルバトルに皆が沸き立つ中、キキョウさんは何やら",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1936982960257081482",
-        "start_time": 1750647660,
-        "end_time": 1750647660
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145333,
+  "time": 1793234015,
   "version": "v1.0.0-beta.43"
 }

@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 224,
+        "line_type": "JP",
+        "title": "1周年二创征集",
+        "image": "",
+        "body_summary": "🎉【1周年ファンアート大募集】🎉 先生！マキさんとペロロさんからのお願いが届きました！ #ブルアカ1周年アート のハッシュタグを付けて作品を投稿すると、豪華な賞品がもらえるかもしれません…！ 🔹開催期",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1470589584413458432",
+        "start_time": 1639454400,
+        "end_time": 1642003199
+      },
       {
         "id": 875,
         "line_type": "Globle",
@@ -120,22 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1468165674107547649",
         "start_time": 1638872940,
         "end_time": 1638872940
-      },
-      {
-        "id": 240,
-        "line_type": "JP",
-        "title": "圣诞转推活动",
-        "image": "",
-        "body_summary": "【#クリスマスボックス 第1弾】 先生！ チェリノさんとトモエさんがクリスマスプレゼントを用意してくれたみたいです！🎄 @BlueArchiveJP をフォロー&RTすると、リプライで抽選結果がすぐ届",
-        "type": "WebEvent",
-        "url": "twitter.com/i/status/1467871457661227008",
-        "start_time": 1638376200,
-        "end_time": 1640361599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145741,
+  "time": 1793234461,
   "version": "v1.0.0-beta.43"
 }

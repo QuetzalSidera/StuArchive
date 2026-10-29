@@ -9,12 +9,12 @@
       "ContentImprovements": 443,
       "Double": 1002,
       "Event": 544,
-      "Gacha": 861,
+      "Gacha": 862,
       "Live": 90,
       "MainStory": 134,
-      "Maintenance": 462,
+      "Maintenance": 461,
       "MiniBattle": 221,
-      "Other": 737,
+      "Other": 738,
       "OtherStory": 75,
       "OutsideGames": 926,
       "Raid": 260,
@@ -22,6 +22,17 @@
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3650,
+        "line_type": "JP",
+        "title": "迷你剧情「とある2月の記録」追加",
+        "image": "https://static.kivo.wiki/images/timeline/ZVcRL8rnM0gIewChWduzNa3Ci6dR0AE6.jpg",
+        "body_summary": "【ミニストーリー追加・予告】 2月12日(水)11:00より、ミニストーリー「とある2月の記録」が追加されます！ ぜひ楽しみにしていてくださいね、先生♪ #ブルアカ",
+        "type": "OtherStory",
+        "url": "x.com/Blue_ArchiveJP/status/1887788818134352128",
+        "start_time": 1738922400,
+        "end_time": 1738922400
+      },
       {
         "id": 3734,
         "line_type": "CN",
@@ -120,22 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1886316191322411181",
         "start_time": 1738782000,
         "end_time": 1739386800
-      },
-      {
-        "id": 3687,
-        "line_type": "Globle",
-        "title": "国际服炸服 #22",
-        "image": "",
-        "body_summary": "[2/5 Temporary Maintenance Notice] Sensei, the game is currently unavailable due to scheduled mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1886957922896294367",
-        "start_time": 1738735200,
-        "end_time": 1738746000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793145387,
+  "time": 1793234072,
   "version": "v1.0.0-beta.43"
 }
