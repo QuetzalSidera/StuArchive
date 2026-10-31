@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1103,
+        "name": "黄金飞行器的碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SLNcGKJGs6fE3OQAPyrBAb7nY260gdEM.png",
+        "rarity": 1,
+        "description": "坏掉的黄金飞行器的碎片。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 1031,
+        "name": "黄金色的布",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tew4bxjm2TdgfrKCAWyJIeUQQCcARyoD.png",
+        "rarity": 4,
+        "description": "黄金羊毛制成的高贵布料，它由从黄金羊毛中提取的线制成。用于制造和强化。"
+      },
       {
         "id": 1029,
         "name": "黄金色的卷线",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/FagyxAUdBi6B4RHCUKucMS0v4t5Iwr3c.png",
         "rarity": 1,
         "description": "标有货运列车路线的图纸。“通常情况下”，列车会按照此路线图运行。"
-      },
-      {
-        "id": 99,
-        "name": "基础技术笔记（阿比多斯） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/KW6ahebD6xuxo6OR2EjTCcm2as6DFLQi.png",
-        "rarity": 1,
-        "description": "归纳阿比多斯高中战术核心的秘法笔记。 "
-      },
-      {
-        "id": 106,
-        "name": "基础技术笔记（阿里乌斯） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/xltt5QgdOT6uXn9Xhi6WUwEWQUD6tDvV.png",
-        "rarity": 1,
-        "description": "归纳阿里乌斯分校战术核心的秘法笔记。 "
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313698,
+  "time": 1793398265,
   "version": "v1.0.0-beta.43"
 }

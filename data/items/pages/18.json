@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1327,
+        "name": "高级钢笔",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/TwXmGwhantYwz1hc7ni2HbbaqUzIXZut.png",
+        "rarity": 1,
+        "description": "联邦学生会审批用的高级钢笔。墨水从笔尖顺滑流出，用起来不易疲劳。"
+      },
+      {
+        "id": 381,
+        "name": "高级合成用启动石",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/yqBh6BAtcCjhBKAQSyOk7LYVeQb4zB3S.png",
+        "rarity": 3,
+        "description": "启动工艺室的合成物质功能时所需的楔石。"
+      },
       {
         "id": 1069,
         "name": "高级鸡尾酒杯",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/anbKM6yla3G8tfE8R1e8xbJar4ZYY4JU.png",
         "rarity": 3,
         "description": "归纳红冬学园战术核心的秘法笔记。"
-      },
-      {
-        "id": 1735,
-        "name": "高级技术笔记（狂猎）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/6ICSyKyTJOegLlFdXTdPFDrNlUdHwtB3.png",
-        "rarity": 3,
-        "description": "归纳狂猎艺术学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 8,
-        "name": "高级技术笔记（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/XwtSeBdNnSh6TjTZRfK3mcsUKTAQtq2U.png",
-        "rarity": 3,
-        "description": "归纳千禧科学学院战术核心的秘法笔记。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313687,
+  "time": 1793398254,
   "version": "v1.0.0-beta.43"
 }

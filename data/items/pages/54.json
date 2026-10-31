@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 390,
+        "name": "神名文字碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/mcAPp8GriB2X1moJUtzQELQPYOvBXh1b.png",
+        "rarity": 1,
+        "description": "构成神名文字的神名精髓。"
+      },
+      {
+        "id": 122,
+        "name": "生巧克力组合（附发票）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/OOZkPfmhwpxFOlYmpUj6pRsz7G1xocFP.png",
+        "rarity": 1,
+        "description": "优香为老师购入的送礼用巧克力组合。虽然是超过一万日元的高级巧克力，但不知为何附上了五千日元的发票。"
+      },
       {
         "id": 580,
         "name": "生锈的弹簧",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/OskOSeBbnLCKZTPJcpgUUSNT1DTDkNWK.png",
         "rarity": 1,
         "description": "高级的甜点。美好的下午茶时间里，美味的点心是不可或缺的。"
-      },
-      {
-        "id": 217,
-        "name": "圣堂烛台",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/U1Eq0WAoD7DtfBYOGZNQW71l7lj2Vvtb.png",
-        "rarity": 1,
-        "description": "三一大圣堂中使用的烛台。本身相当的沉重又结实，因此不小心掉到地板还会破洞。"
-      },
-      {
-        "id": 1588,
-        "name": "圣娅的惊悚巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/l7owBG1w4WDnUmPcnoDEeQyUKdltaYyR.png",
-        "rarity": 1,
-        "description": "圣娅的巧克力。随巧克力还附上了金光闪闪的收据。如果不小心在上面签了名的话，可能会发生不得了的大事。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313728,
+  "time": 1793398294,
   "version": "v1.0.0-beta.43"
 }

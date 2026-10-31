@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 445,
+        "name": "破损的图腾柱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/DBw7Q8lg0h5xq7BwRC6t4XuLqIdND5za.png",
+        "rarity": 2,
+        "description": "严重破损、外观难辨的图腾柱。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 377,
+        "name": "破损的温尼珀索基石头",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/c72cvTOeUkRzTttB7uSsZHkqIrHbRM5y.png",
+        "rarity": 2,
+        "description": "已破损到无法看出形体的温尼珀索基石头。可用来进行各种制造及强化。"
+      },
       {
         "id": 373,
         "name": "破损的亚特兰蒂斯徽章",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/EjpNEf7vZcoWFon52Ae2sXtbhkJdgOcF.png",
         "rarity": 4,
         "description": "使用时以相同的概率获得1个其他系列家具的抽选箱。"
-      },
-      {
-        "id": 1412,
-        "name": "其他系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/5zRU7l2m1KRCmavbeMdyiU3oCImDDwjk.png",
-        "rarity": 4,
-        "description": "从其他系列家具中任意选择一个家具兑换的选择箱。"
-      },
-      {
-        "id": 269,
-        "name": "奇怪的鞭炮",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/oiMLjXANIVqHzpciGF6C9V0Tn675N2qf.png",
-        "rarity": 1,
-        "description": "呈现可爱的导弹型态。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313718,
+  "time": 1793398284,
   "version": "v1.0.0-beta.43"
 }

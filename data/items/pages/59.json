@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 155,
+        "name": "特制巧克力炸甜甜圈",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/C3u4NFn5bA9x6I0UnOvqSzNUkdRKFVUx.png",
+        "rarity": 1,
+        "description": "只在情人节推出的匠师甜甜圈特制巧克力炸甜甜圈。撒上特制糖针，增添香甜口味。"
+      },
+      {
+        "id": 325,
+        "name": "特制新年福袋",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SzyuB557fdZnwH5YrJMxD7LbziTgpX13.png",
+        "rarity": 1,
+        "description": "正月期间黑龟组所准备的正月用福袋。开封前完全猜不到里面有什么的惊喜道具。内容物出乎意料地充实。"
+      },
       {
         "id": 90,
         "name": "天使巧克力",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/jUHwd2DTjGJwdenKLIC4aYCCrHGmH58k.png",
         "rarity": 1,
         "description": "可以固定骰子的点数的票券。选择2点后会消耗此券。"
-      },
-      {
-        "id": 1335,
-        "name": "骰子3点固定券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/HvM8fHyspbP7lNBTJZPZw8sjkIzALGZy.png",
-        "rarity": 1,
-        "description": "可以固定骰子的点数的票券。选择3点后会消耗此券。"
-      },
-      {
-        "id": 1336,
-        "name": "骰子4点固定券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/FzvrnI3mbst28jcpGge3YO1jcOQBgVj5.png",
-        "rarity": 1,
-        "description": "可以固定骰子的点数的票券。选择4点后会消耗此券。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313733,
+  "time": 1793398300,
   "version": "v1.0.0-beta.43"
 }

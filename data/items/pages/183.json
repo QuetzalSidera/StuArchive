@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 2005,
+        "name": "训练场地板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/fyH7qRNwx8fOgYv6OmXppGbG02HIp5Zn.png",
+        "rarity": 2,
+        "description": "铺了一层柔软的沙子的训练场地板。就算摔倒也没问题。"
+      },
+      {
+        "id": 2028,
+        "name": "训练场回廊地板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/blEaMAKR3WQj2EPBkUz2TiJE4MCDYYc9.png",
+        "rarity": 3,
+        "description": "回廊的石板路面。请勿奔跑。"
+      },
       {
         "id": 2016,
         "name": "训练用靶纸",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/GkiIKBeCrJU9KN1sk8gjiWUgLq4rXXDq.png",
         "rarity": 4,
         "description": "无需多言。来训练吧！"
-      },
-      {
-        "id": 2023,
-        "name": "演武场大门",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/mx9qXiR0jzhkCYsg7I7SKmlscFo8XMcm.png",
-        "rarity": 3,
-        "description": "演武场的出入口。"
-      },
-      {
-        "id": 2036,
-        "name": "演武场牌楼",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/WVw8QMocbk1Mcpu2urWd8SNgr31DMaaf.png",
-        "rarity": 4,
-        "description": "牌楼指的是入口处的大门。在各种意义上都具有象征性。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313875,
+  "time": 1793398442,
   "version": "v1.0.0-beta.43"
 }

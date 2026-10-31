@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 2059,
+        "name": "基础战术教育BD（奥德赛）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/LBNpFGzRCLTRsYW3oG8F9CilJ7x61meS.png",
+        "rarity": 1,
+        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 196,
+        "name": "基础战术教育BD（百鬼夜行）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/LwfNjlY4FmEHhpYElKM7UK7K5qblAKIt.png",
+        "rarity": 1,
+        "description": "把百鬼夜行学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 158,
         "name": "基础战术教育BD（格赫娜）",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/aACouogHRwCKaAJTKhuIlpHQFLQFSXkb.png",
         "rarity": 1,
         "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用"
-      },
-      {
-        "id": 452,
-        "name": "基础战术教育BD箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/6EEpcScjWennlNOCecVkgUSaCOsSFniO.png",
-        "rarity": 1,
-        "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个已实装学院的基础战术教育BD）"
-      },
-      {
-        "id": 474,
-        "name": "基础战术教育BD箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/t8ttsDN5qBRPJhOmBxVfTUPxGrA1DEmm.png",
-        "rarity": 1,
-        "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个格黑娜、山海经或瓦尔基里的基础战术教育BD）"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313702,
+  "time": 1793398268,
   "version": "v1.0.0-beta.43"
 }

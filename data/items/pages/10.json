@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 2044,
+        "name": "茶会系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pvLDglqy4zteiQRDaeJRExtGftQsSHMS.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个茶会系列家具的抽选箱。"
+      },
+      {
+        "id": 2052,
+        "name": "茶会系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8xfV6I2IeG98ZPN5ofMiukR9eurQygCB.png",
+        "rarity": 4,
+        "description": "从茶会系列家具中任意选择一个家具兑换的选择箱。"
+      },
       {
         "id": 1387,
         "name": "柴关特大拉面",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/wNH79Q2D2rYdP1ixa74D1bHCbKdpctdX.png",
         "rarity": 1,
         "description": "用尽泉所能想像到的最棒的巧克力食材制作而成，据泉表示超级美味。稍咸的香醇口味是重点。"
-      },
-      {
-        "id": 34,
-        "name": "超天才清楚系病弱美少女黑客的巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/44AZBxHcnMg2CvapCbb54fZSKKIX88aC.png",
-        "rarity": 1,
-        "description": "日鞠以自身为原型制作的手工巧克力。经过唐突但合理的判断，最终还是决定回到Schale后细细品味。"
-      },
-      {
-        "id": 1889,
-        "name": "超新作巧克力球！！",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/FORG5lvCokfC8alyWaLIzCl1LA7LPJGI.png",
-        "rarity": 1,
-        "description": "光送的热腾腾的新品零食。强忍着想吃的冲动，作为礼物送给了你。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313678,
+  "time": 1793398245,
   "version": "v1.0.0-beta.43"
 }

@@ -2,7 +2,7 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
       {
         "id": 1369,
@@ -11,6 +11,22 @@
         "icon": "https://static.kivo.wiki/images/item/icon/KBLQENMvjQjQ1VWsCbUhT83msJLIZq7G.png",
         "rarity": 1,
         "description": "紧急情况下使用的口哨。用力吹响会发出尖锐的声音。"
+      },
+      {
+        "id": 2097,
+        "name": "奥德赛海洋学校系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/HVxjU7MPtQW7RiZXUDJwMDaTOFe5xXqM.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个奥德赛海洋学校系列家具的抽选箱。"
+      },
+      {
+        "id": 2098,
+        "name": "奥德赛海洋学校系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/BAvz8QJxMGh9iX4wZ6CuY8YVJiuiDe9X.png",
+        "rarity": 4,
+        "description": "从奥德赛海洋学校系列家具中任意选择一个家具兑换的选择箱。"
       },
       {
         "id": 19,
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/fl0jQ95NweEtvRvtrL3IujS2wDdThHrh.png",
         "rarity": 4,
         "description": "使用时以相同的概率获得1个百鬼夜行百花缭乱系列家具的抽选箱。"
-      },
-      {
-        "id": 2049,
-        "name": "百鬼夜行系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/1NEPtGluEQtWDR89nNwVnAZMTwvVaQVf.png",
-        "rarity": 4,
-        "description": "从百鬼夜行百花缭乱系列家具中任意选择一个家具兑换的选择箱。"
-      },
-      {
-        "id": 241,
-        "name": "百夜堂闪亮亮硬币",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ZMRqHCMZQBIg04Ua2wagiNL79x1N95mN.png",
-        "rarity": 1,
-        "description": "可于百夜堂大海之家兑换纪念品的硬币。不过大部分的客人都把硬币当作是纪念品。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313674,
+  "time": 1793398240,
   "version": "v1.0.0-beta.43"
 }

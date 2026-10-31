@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1083,
+        "name": "温泉蛋巧克力",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/LKmXtsB34uafOcYEtvN6zmIgSovgXris.png",
+        "rarity": 1,
+        "description": "惠的特制手工巧克力。乍一看，因为和温泉蛋很像，所以很容易弄错。因为是大量制作的，如果需要的话多少都能拿到。"
+      },
+      {
+        "id": 321,
+        "name": "温泉毛巾",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0q03L8VVdmVSFS9H8GXmnxwW0cAcGayi.png",
+        "rarity": 1,
+        "description": "温泉浴场227号所提供的基本毛巾。材质多少有点粗糙，用力擦身体的话皮肤可能会受伤。"
+      },
       {
         "id": 1817,
         "name": "文化书籍的样刊",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/VOeltLWhFFwucgPDLjCIyIVjOJibW8R3.png",
         "rarity": 1,
         "description": "步梦平时就经常在吃的，据说对身体好的零食。干制后的西柚蘸上巧克力，就算不提缓解疲劳的效果也已经足够美味了。"
-      },
-      {
-        "id": 1351,
-        "name": "稀有电缆",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/8YcX8zH302AeZK0daMZFmOz4R3ZHznKq.png",
-        "rarity": 1,
-        "description": "只能在千禧废墟找到的稀有电缆。状态良好。"
-      },
-      {
-        "id": 383,
-        "name": "下级合成用启动石",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/NphGBU4Q7nL1h4fcs6dKB20y2S9PILTC.png",
-        "rarity": 1,
-        "description": "启动工艺室的合成物质功能时所需的楔石。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313739,
+  "time": 1793398305,
   "version": "v1.0.0-beta.43"
 }

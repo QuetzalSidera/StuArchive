@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1020,
+        "name": "圣三一管风琴",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/v6FDFkbuTpbHusHNNr9Wgn46XupjwA0V.png",
+        "rarity": 4,
+        "description": "装饰精细、庄严的圣三一管风琴。仅仅看着它就让人感到神圣。"
+      },
+      {
+        "id": 1715,
+        "name": "圣三一式拱门",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/7dmc2IAEHXftCXnp8diJ8476oJsQKVYs.png",
+        "rarity": 3,
+        "description": "受古代建筑风格影响的精致拱门。每次经过时都会有一种庄严的感觉。"
+      },
       {
         "id": 1700,
         "name": "圣三一式木制围栏",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/Sm9YRNUmRqhbqzDRrxTUx3mNmKNdpTn9.png",
         "rarity": 3,
         "description": "用石头雕刻出的咖啡馆用灯笼。是庭园里必不可少的东西。"
-      },
-      {
-        "id": 2031,
-        "name": "石制池塘",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/xBgRtQNKIDXCpHOrjFLSAuqpq7TUpPHS.png",
-        "rarity": 3,
-        "description": "石制的池塘。不知道里面都养了什么样的鱼？"
-      },
-      {
-        "id": 1870,
-        "name": "时的衣柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/3yRZSLPrL70tCm9szObSNwwxIPStrIuu.png",
-        "rarity": 3,
-        "description": "存放着时的制服的衣柜。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313857,
+  "time": 1793398424,
   "version": "v1.0.0-beta.43"
 }

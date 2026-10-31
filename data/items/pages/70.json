@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 382,
+        "name": "一般合成用启动石",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/wysQaNMeZl44ZHvnShb3U7XUm9F8AD3U.png",
+        "rarity": 2,
+        "description": "启动工艺室的合成物质功能时所需的楔石。"
+      },
+      {
+        "id": 101,
+        "name": "一般技术笔记（阿比多斯）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/2wblxpvdWjhdqBsjhn4P7cILlWHP2iMt.png",
+        "rarity": 2,
+        "description": "归纳阿比多斯高中战术核心的秘法笔记。 "
+      },
       {
         "id": 108,
         "name": "一般技术笔记（阿里乌斯）",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/1uT2FL6ogQPu3FmhEwO0LZIVUFPi3ovL.png",
         "rarity": 2,
         "description": "归纳千禧科学学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 14,
-        "name": "一般技术笔记（山海经）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/EMEZT13lwU8aRs3SayTGTXhAz4RBslpF.png",
-        "rarity": 2,
-        "description": "归纳山海经高级中学战术核心的秘法笔记。"
-      },
-      {
-        "id": 46,
-        "name": "一般技术笔记（圣三一） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/SBuOyOwtdWjuxGK5mr1eKuVOvnjrLwQA.png",
-        "rarity": 2,
-        "description": "归纳圣三一学园战术核心的秘法笔记。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313746,
+  "time": 1793398312,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 935,
+        "name": "大教堂的长椅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Poyy3GQtg2Q17B1YEcHqqeqfhIg0wouS.png",
+        "rarity": 4,
+        "description": "这把椅子能帮助你坐下后发挥虔诚的心灵。适合用于早晚的祈祷"
+      },
+      {
+        "id": 1532,
+        "name": "大理石花纹地毯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/ww27LpIzEklGE00z3pAihWbchEKvhy6M.png",
+        "rarity": 2,
+        "description": "印着高级大理石图案的地毯。看上去很冷，实际上暖和又柔软。"
+      },
       {
         "id": 1768,
         "name": "大型绿灯写字台",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/hSYXcz637B3IE0b6qrL0FFpJPALFVPrS.png",
         "rarity": 4,
         "description": "写着大运动会结构与日程的大运动会导览看板。可得知大运动会的结构与资讯。"
-      },
-      {
-        "id": 598,
-        "name": "大运动会的壁挂时钟",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/joQVxVyEOC5y1Oytc50iWmHDQjdnNyD1.png",
-        "rarity": 2,
-        "description": "宣告比赛开始的大运动会壁挂时钟。到了整点就会铃声大响。"
-      },
-      {
-        "id": 616,
-        "name": "大运动会的窗户",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/h6BWMf22OIuVeYXDUndgb355jqlMSUCo.png",
-        "rarity": 2,
-        "description": "能将大运动会尽收眼底的窗户。学生们正在进行比赛。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313792,
+  "time": 1793398357,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1412,
+        "name": "其他系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/5zRU7l2m1KRCmavbeMdyiU3oCImDDwjk.png",
+        "rarity": 4,
+        "description": "从其他系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      {
+        "id": 269,
+        "name": "奇怪的鞭炮",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/oiMLjXANIVqHzpciGF6C9V0Tn675N2qf.png",
+        "rarity": 1,
+        "description": "呈现可爱的导弹型态。"
+      },
       {
         "id": 114,
         "name": "骑士的零食",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/pOkvJ6NKU1e5KkQYD6JQz6VF5VIS6vsj.png",
         "rarity": 1,
         "description": "画着千禧校徽的小旗帜。标示折返点或告知集合地点时使用。"
-      },
-      {
-        "id": 2045,
-        "name": "千禧塔休息室系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/nmicIsLP2sIvvqjOEDedb9qMe6WWE2bC.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个千禧塔休息室系列家具的抽选箱。"
-      },
-      {
-        "id": 2050,
-        "name": "千禧塔休息室系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/pVrMU7YV9WKaihS0gecw7Oyxw5X9g8fR.png",
-        "rarity": 4,
-        "description": "从千禧塔休息室系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313719,
+  "time": 1793398285,
   "version": "v1.0.0-beta.43"
 }

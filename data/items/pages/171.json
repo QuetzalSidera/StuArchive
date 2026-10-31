@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1807,
+        "name": "头盔清洁套装",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/ghT3Iv5bWJL9JEiGiqOVErWhQwIxnZT1.png",
+        "rarity": 4,
+        "description": "清洁的头盔是淑女的修养。里面装有保养头盔所需的用品。"
+      },
+      {
+        "id": 1040,
+        "name": "图书馆的古典座椅",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/qjE67hfNwzUi1k3szBjSk5UOyoV6nW7j.png",
+        "rarity": 4,
+        "description": "平衡了座椅舒适度和怀旧感的绝妙图书馆座椅。所有读书人都梦寐以求的椅子。"
+      },
       {
         "id": 1936,
         "name": "瓦尔基里白板",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ZOxACq1bz55EiCagxBlAZhNDrzzcBRI2.png",
         "rarity": 3,
         "description": "瓦尔基里的事务用办公桌。其中寄托了对新生活的希望。"
-      },
-      {
-        "id": 1941,
-        "name": "瓦尔基里备品·储物柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/mM4VwMrbx0Pe6BFhim7GRhjAsYjWFqTC.png",
-        "rarity": 3,
-        "description": "存放瓦尔基里警员私人物品的储物柜。里面塞着各种东西。"
-      },
-      {
-        "id": 1937,
-        "name": "瓦尔基里备品·文件柜1型",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/L23pH8cX7U8OEgnpml7um8IygNSEZRwD.png",
-        "rarity": 3,
-        "description": "保管瓦尔基里常用文件的柜子。整理得井井有条。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313862,
+  "time": 1793398428,
   "version": "v1.0.0-beta.43"
 }

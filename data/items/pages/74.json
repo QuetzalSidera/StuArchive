@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 397,
+        "name": "一般制造用原料",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lwqt2RaHEku3o44bSM6VrdGbP3it8elF.png",
+        "rarity": 2,
+        "description": "用于制造的主原料"
+      },
+      {
+        "id": 1915,
+        "name": "一次性冰袋",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/TWBFEYVRvdMOcH5sk6mZHTJIOKsjgLz7.png",
+        "rarity": 1,
+        "description": "受到冲击时能瞬间发挥冷却效果的冰袋。是炎炎夏日的必备品。"
+      },
       {
         "id": 1594,
         "name": "一次性洗涤剂",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/VLvO1SnsxPLSwIqBaUS1SeRHtYj71A9u.png",
         "rarity": 2,
         "description": "压缩乙太粉末制成的固态乙太碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 526,
-        "name": "艺术字发卡设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/5Ty0USV4lTmybHTWqaMTllUffDCEIwhz.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1100,
-        "name": "议长准备的最高级巧克力喷泉",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/4gBVapCpsCnESyy0QzE81jrkDCz1AhyR.png",
-        "rarity": 1,
-        "description": "真琴特别为老师准备了和派对一起准备的最高级的巧克力喷泉。即使这也是个很棒的东西，但是因为是根据想要制作的更完美的东西而改造的，所以偶尔马达会失控，向四面八方喷射巧克力，所以使用时需要注意。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313750,
+  "time": 1793398316,
   "version": "v1.0.0-beta.43"
 }

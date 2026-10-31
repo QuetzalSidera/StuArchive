@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1375,
+        "name": "大会用水枪",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ZWEcDwx4a9uqMY0YS2Durckl1xGFcMnr.png",
+        "rarity": 1,
+        "description": "为钢盔团水枪大会准备的水枪。虽然射出去的其实是子弹不是水，但名字还是叫水枪。"
+      },
+      {
+        "id": 1416,
+        "name": "大决战硬币",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ZNu8mp8NDXCDOOy5fLaT6Z3sJFSwvBhA.png",
+        "rarity": 1,
+        "description": "可在大决战商店中使用的硬币。"
+      },
       {
         "id": 1752,
         "name": "大理石方块",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/jSvNtRBvtdjwCxoUR0vfWBwUSyJzCLXQ.png",
         "rarity": 1,
         "description": "口渴可就没法给人加油了。激动过头时喝这个补充营养，给身体和头脑都降降温。"
-      },
-      {
-        "id": 879,
-        "name": "蛋奶酒",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/yQ8gs722FxM3K334A8Oa3SYgcdkhg0yY.png",
-        "rarity": 1,
-        "description": "用牛奶、鸡蛋和砂糖制作的热饮。在寒冷的天气喝，身体就会暖起来。"
-      },
-      {
-        "id": 1363,
-        "name": "导游旗",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/gVOpv1xerqu7yTsIzcJH044UizHJe5Ym.png",
-        "rarity": 1,
-        "description": "引导游客用的导游旗。给方向感差的学生们指路大有用处。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313682,
+  "time": 1793398248,
   "version": "v1.0.0-beta.43"
 }

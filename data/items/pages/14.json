@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 879,
+        "name": "蛋奶酒",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/yQ8gs722FxM3K334A8Oa3SYgcdkhg0yY.png",
+        "rarity": 1,
+        "description": "用牛奶、鸡蛋和砂糖制作的热饮。在寒冷的天气喝，身体就会暖起来。"
+      },
+      {
+        "id": 1363,
+        "name": "导游旗",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/gVOpv1xerqu7yTsIzcJH044UizHJe5Ym.png",
+        "rarity": 1,
+        "description": "引导游客用的导游旗。给方向感差的学生们指路大有用处。"
+      },
       {
         "id": 1365,
         "name": "倒计时日历",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/AGVZ0MN4kg9yUNk5Oi0F6y6836Fm92fz.png",
         "rarity": 1,
         "description": "与演唱会主角一同闪耀的可变色应援棒。即便是在宽广的会场，有了它，偶像和粉丝也能融为一体。"
-      },
-      {
-        "id": 1311,
-        "name": "多次元演算回路",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/iqxUtkVxE2Btmud7Gsz4nvb9DG4mdQY9.png",
-        "rarity": 1,
-        "description": "从阿特拉·哈西斯的方舟拆下来的演算装置碎片。由复杂的回路构成。"
-      },
-      {
-        "id": 524,
-        "name": "多功能发卡设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/8FuNzz4MQHy1TdyjKN4zgLOnrohwqKX4.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313683,
+  "time": 1793398249,
   "version": "v1.0.0-beta.43"
 }

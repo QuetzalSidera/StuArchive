@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 14,
+        "name": "一般技术笔记（山海经）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/EMEZT13lwU8aRs3SayTGTXhAz4RBslpF.png",
+        "rarity": 2,
+        "description": "归纳山海经高级中学战术核心的秘法笔记。"
+      },
+      {
+        "id": 46,
+        "name": "一般技术笔记（圣三一） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/SBuOyOwtdWjuxGK5mr1eKuVOvnjrLwQA.png",
+        "rarity": 2,
+        "description": "归纳圣三一学园战术核心的秘法笔记。"
+      },
       {
         "id": 121,
         "name": "一般技术笔记（瓦尔基里）",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/zQ24qDFBbbeMMjTQccnHCcEzsmJJcCBT.png",
         "rarity": 2,
         "description": "可以选择需要的技术笔记的选择券"
-      },
-      {
-        "id": 577,
-        "name": "一般强化石",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/jkoh1vOrVj2fzURniIWSghfcORsfh0HI.png",
-        "rarity": 2,
-        "description": "可强化装备的神秘强化石"
-      },
-      {
-        "id": 151,
-        "name": "一般战术教育BD（阿比多斯）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Z1lZCOnbDAfxo8gwVq1T4Io79lnqr3hv.png",
-        "rarity": 2,
-        "description": "把阿比多斯学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313747,
+  "time": 1793398313,
   "version": "v1.0.0-beta.43"
 }

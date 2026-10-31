@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 582,
+        "name": "铬弹簧",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/o1FGmD6xBLPp5Qx7mkK9wME92m1g0a62.png",
+        "rarity": 3,
+        "description": "推进枪械的枪栓时使用的弹簧，由铬合金制成，坚固不会生锈。用于强化固有武器。  用于强化 SMG、SG、HG、FT 类型武器时提供 1.5 倍经验"
+      },
+      {
+        "id": 586,
+        "name": "铬金属击锤",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lOA60tzuyArsaqoq6AFEPFGDSBkRcsJ6.png",
+        "rarity": 3,
+        "description": "扣动板机时将力量传至击针的零件，以铬合金制作而成，坚固耐久不会生锈。用于强化固有武器。  用于强化 AR、GL、RL 类型武器时提供 1.5 倍经验"
+      },
       {
         "id": 594,
         "name": "铬金属击针",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/3HRzYaSSIAmlnkTbtqcukgNT1H2A2YRT.png",
         "rarity": 4,
         "description": "从购物中心系列家具中任意选择一个家具兑换的选择箱。"
-      },
-      {
-        "id": 448,
-        "name": "古代电池碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/OdANY3APTFjC69PB45S0xNRLgs21lP3i.png",
-        "rarity": 1,
-        "description": "古代电池的破碎零件。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1107,
-        "name": "古代火箭的碎片",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/AaZTwr3mcd4fITQsTFzD7fqlIdCPTOT9.png",
-        "rarity": 1,
-        "description": "坏掉的古代火箭的碎片，用于制造和强化"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313693,
+  "time": 1793398259,
   "version": "v1.0.0-beta.43"
 }

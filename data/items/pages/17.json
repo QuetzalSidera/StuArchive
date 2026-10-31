@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 137,
+        "name": "改良型切流恩卡",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/YDwkb0gzEyJeBT0ZueEkLWO9vklqDWcg.png",
+        "rarity": 1,
+        "description": "改良型切流恩卡，附有巴所绘的可爱插画。味道跟原本的切流恩卡几乎一模一样。"
+      },
+      {
+        "id": 2094,
+        "name": "改装零件",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/tTNuc1qJjEOJZzLIjSeWdGVVLQ9q44RV.png",
+        "rarity": 1,
+        "description": "格黑娜杯官方认证的改造用零件。虽然完全搞不清楚哪些是被禁止的，但是姑且还是要经过审批。"
+      },
       {
         "id": 1331,
         "name": "干海星",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/rnyIBBsagVv7JwI4CsBkTSs9fajyWiBY.png",
         "rarity": 1,
         "description": "可在大决战商店中使用的高级硬币。"
-      },
-      {
-        "id": 1327,
-        "name": "高级钢笔",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/TwXmGwhantYwz1hc7ni2HbbaqUzIXZut.png",
-        "rarity": 1,
-        "description": "联邦学生会审批用的高级钢笔。墨水从笔尖顺滑流出，用起来不易疲劳。"
-      },
-      {
-        "id": 381,
-        "name": "高级合成用启动石",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/yqBh6BAtcCjhBKAQSyOk7LYVeQb4zB3S.png",
-        "rarity": 3,
-        "description": "启动工艺室的合成物质功能时所需的楔石。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313686,
+  "time": 1793398253,
   "version": "v1.0.0-beta.43"
 }

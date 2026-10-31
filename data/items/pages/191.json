@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 996,
+        "name": "游戏开发部的LED灯板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/rHtnQDUoDp9yonrwzBVPDM5Cq65Mvk5Y.png",
+        "rarity": 2,
+        "description": "显示着游戏开发部标志的灯板。给人怀旧的感觉。"
+      },
+      {
+        "id": 1015,
+        "name": "游戏开发部的白板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/em25ONYQaG41i0DxcVP42ZXShpbD2aN1.png",
+        "rarity": 4,
+        "description": "记录了重要内容的白板。可以看到所有部员的涂鸦。"
+      },
       {
         "id": 982,
         "name": "游戏开发部的白色凳子",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/lRelt3R2YnyM8O8XSTa2uoewoRyJauXA.png",
         "rarity": 3,
         "description": "可以营造可爱气氛的粉色玩偶熊。给人一种可爱的气氛。"
-      },
-      {
-        "id": 1011,
-        "name": "游戏开发部的个人收纳柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/w0Cha3eF1yloOl8P8MfMQlJHaI2YPkCU.png",
-        "rarity": 4,
-        "description": "收纳了游戏开发部的部员们的东西的收纳柜。展现了部员的个性。"
-      },
-      {
-        "id": 984,
-        "name": "游戏开发部的红色坐垫",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/zLUgKtD6DEod34HU0UZDTQejJoRk8zxU.png",
-        "rarity": 2,
-        "description": "带有方形图案的红色棉絮坐垫。适合任何空间。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313884,
+  "time": 1793398451,
   "version": "v1.0.0-beta.43"
 }

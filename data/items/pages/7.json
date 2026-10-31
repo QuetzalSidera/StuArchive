@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 2049,
+        "name": "百鬼夜行系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/1NEPtGluEQtWDR89nNwVnAZMTwvVaQVf.png",
+        "rarity": 4,
+        "description": "从百鬼夜行百花缭乱系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      {
+        "id": 241,
+        "name": "百夜堂闪亮亮硬币",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ZMRqHCMZQBIg04Ua2wagiNL79x1N95mN.png",
+        "rarity": 1,
+        "description": "可于百夜堂大海之家兑换纪念品的硬币。不过大部分的客人都把硬币当作是纪念品。"
+      },
       {
         "id": 188,
         "name": "百夜堂限定甜点",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/58NEfGxF9hlAJrbvzrmCmEFRuGGkvC1S.png",
         "rarity": 1,
         "description": "被冲上岸的垃圾。据说，海洋中所有废弃的塑料被全部分解掉要花上500年。"
-      },
-      {
-        "id": 11,
-        "name": "笨拙的手工巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/VvuLmZ7OHROJeZPCsVzdYE9yspjBByvf.png",
-        "rarity": 1,
-        "description": "心奈精心包装中却包含着一丝笨拙的手工巧克力。她坚持主张这是市面上购买来的，并强烈要求「请务必自己一个人吃掉！」。"
-      },
-      {
-        "id": 220,
-        "name": "绷带巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/h7hJnZFtg8deaf2LZVqgl9uMObUGfDcD.png",
-        "rarity": 1,
-        "description": "濑名在紧急待命时间抽空制作出来的手工巧克力。因为买不到包装纸，只好用干净的绷带包装。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313675,
+  "time": 1793398241,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 535,
+        "name": "波浪猫手表设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/sQzCq3CbBcXUl5k6cKSTLDbb5rOptRhV.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
+      {
+        "id": 2080,
+        "name": "玻璃碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/zOueS093DKXHteb0m6DtxO0jl1tBc8ms.png",
+        "rarity": 1,
+        "description": "二氧化硅81%，三氧化二硼13%，氧化钠4%，氧化铝2%。热膨胀系数较低。"
+      },
       {
         "id": 248,
         "name": "薄荷巧克力百汇圣代",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/fKBNfwzuz2qkDkKIrwgXe1gdxkQrpalG.png",
         "rarity": 4,
         "description": "获得时可兑换为茶话会相册收纳架的兑换券。若已获得该家具，则改为获得一个奥秘之书。"
-      },
-      {
-        "id": 2044,
-        "name": "茶会系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/pvLDglqy4zteiQRDaeJRExtGftQsSHMS.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个茶会系列家具的抽选箱。"
-      },
-      {
-        "id": 2052,
-        "name": "茶会系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/8xfV6I2IeG98ZPN5ofMiukR9eurQygCB.png",
-        "rarity": 4,
-        "description": "从茶会系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313677,
+  "time": 1793398243,
   "version": "v1.0.0-beta.43"
 }

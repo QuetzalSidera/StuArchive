@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 2008,
+        "name": "回廊绿植",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/ulLc78ahOPOI2jAAQzihRa2gIDkZpElv.png",
+        "rarity": 2,
+        "description": "回廊，即环绕在建筑或庭院周边的走廊。草正受到悉心照料，以防枯萎。"
+      },
+      {
+        "id": 1776,
+        "name": "绘画工作位",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/dIT7EjVqstPX7srfNA9VvSXE9xBONkz4.png",
+        "rarity": 3,
+        "description": "一块画布，一个画架，一组颜料，一把椅子而已。足够绘画了。"
+      },
       {
         "id": 1785,
         "name": "混乱的大型绿灯写字台",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/aRIQIOYYnF3TRBk2VBO8kVWKnsqJCMzX.png",
         "rarity": 2,
         "description": "霍德（街道战）的荣誉银奖杯"
-      },
-      {
-        "id": 1431,
-        "name": "霍德（室内战）白金奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/eifTv4N8pJGvRtY7doNC5LOmsWsvnDxH.png",
-        "rarity": 4,
-        "description": "霍德（室内战）的荣誉白金奖杯"
-      },
-      {
-        "id": 1432,
-        "name": "霍德（室内战）黄金奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/wGlSl6w35kFcBKMhukztZDoRkRB6c5W3.png",
-        "rarity": 3,
-        "description": "霍德（室内战）的荣誉黄金奖杯"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313826,
+  "time": 1793398392,
   "version": "v1.0.0-beta.43"
 }

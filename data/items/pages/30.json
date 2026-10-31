@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 120,
+        "name": "基础技术笔记（瓦尔基里） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/TraCJ7HslkpPwYgjQAN2JPpj400G3HE3.png",
+        "rarity": 1,
+        "description": "归纳瓦尔基里警察学园战术核心的秘法笔记。 "
+      },
+      {
+        "id": 212,
+        "name": "基础技术笔记抽选盒",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/GnjWdH1WNjiUL82KvKTp1CtS6yc8RFYx.png",
+        "rarity": 1,
+        "description": "使用时，以相同的概率获得1个基础技术笔记的抽选盒"
+      },
       {
         "id": 341,
         "name": "基础技术笔记箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/paDPG3M2aHDZwiQ8hnBIRBvxO3oCVNsg.png",
         "rarity": 1,
         "description": "把阿里乌斯学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 2059,
-        "name": "基础战术教育BD（奥德赛）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/LBNpFGzRCLTRsYW3oG8F9CilJ7x61meS.png",
-        "rarity": 1,
-        "description": "把奥德赛学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 196,
-        "name": "基础战术教育BD（百鬼夜行）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/LwfNjlY4FmEHhpYElKM7UK7K5qblAKIt.png",
-        "rarity": 1,
-        "description": "把百鬼夜行学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313701,
+  "time": 1793398267,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 706,
+        "name": "冰&酷冰淇淋冰箱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/wYyG6WwLuissHfpz6bbjutkbSheMoLIh.png",
+        "rarity": 4,
+        "description": "充满清新香甜冰淇淋的冰淇淋冰箱。一次吃太多可能会拉肚子…？"
+      },
+      {
+        "id": 693,
+        "name": "冰品冰箱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/FuW87bMq7Hn6a5dMsYbgsRi7iSvAJI2P.png",
+        "rarity": 2,
+        "description": "充满冰凉饮料的冰品自动贩卖机。可以暂时降低夏日的炎热。"
+      },
       {
         "id": 1309,
         "name": "冰淇淋车",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/xdXBRrVrysYewmkT5XcOPzgRZKsRXoXp.png",
         "rarity": 4,
         "description": "万圣节南瓜咖啡厅的吉祥物—鬼魂玩偶。是只会到处送气球和糖果的善良吉祥物！"
-      },
-      {
-        "id": 1773,
-        "name": "不眠之塔",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/BDDDyzJMdx69YnZyRQxCms4IaCEgPLVB.png",
-        "rarity": 3,
-        "description": "空的能量饮料罐被随意堆放。这是不眠之夜的标志。"
-      },
-      {
-        "id": 1846,
-        "name": "布线地砖 样式1",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/dgc0i2fDNFoyNUGa65ISqwxXG6j1vM4n.png",
-        "rarity": 2,
-        "description": "连接着通讯机器和各类线缆的设备。为了不被绊倒请注意脚下。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313786,
+  "time": 1793398351,
   "version": "v1.0.0-beta.43"
 }

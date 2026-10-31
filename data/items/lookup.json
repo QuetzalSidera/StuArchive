@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-10-29T22:27:06Z",
+  "generated_at": "2026-10-30T21:56:40Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 2020,
-  "alias_count": 1988,
-  "normalized_alias_count": 1988,
+  "total_items": 2022,
+  "alias_count": 1990,
+  "normalized_alias_count": 1990,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -777,6 +777,36 @@
       },
       "detail_path": "items/1369.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1369.json"
+    },
+    "2097": {
+      "id": 2097,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2097,
+        "name": "奥德赛海洋学校系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/HVxjU7MPtQW7RiZXUDJwMDaTOFe5xXqM.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个奥德赛海洋学校系列家具的抽选箱。"
+      },
+      "detail_path": "items/2097.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2097.json"
+    },
+    "2098": {
+      "id": 2098,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2098,
+        "name": "奥德赛海洋学校系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/BAvz8QJxMGh9iX4wZ6CuY8YVJiuiDe9X.png",
+        "rarity": 4,
+        "description": "从奥德赛海洋学校系列家具中任意选择一个家具兑换的选择箱。"
+      },
+      "detail_path": "items/2098.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2098.json"
     },
     "19": {
       "id": 19,
@@ -30468,6 +30498,12 @@
     "安全哨": [
       "1369"
     ],
+    "奥德赛海洋学校系列家具抽选箱": [
+      "2097"
+    ],
+    "奥德赛海洋学校系列家具选择箱": [
+      "2098"
+    ],
     "奥秘之书": [
       "19"
     ],
@@ -36465,6 +36501,12 @@
     ],
     "安全哨": [
       "1369"
+    ],
+    "奥德赛海洋学校系列家具抽选箱": [
+      "2097"
+    ],
+    "奥德赛海洋学校系列家具选择箱": [
+      "2098"
     ],
     "奥秘之书": [
       "19"

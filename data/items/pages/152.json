@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 931,
+        "name": "木制工作台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/e2ERTNCdNUkC23BjcamOR4fPhkQfKYq7.png",
+        "rarity": 4,
+        "description": "什么都能马上制作出来的木制工作台。开始制作后，总感觉时间过得飞快。"
+      },
+      {
+        "id": 569,
+        "name": "木制饮料自助吧",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/tLMFHaabCHLw0zo7BCUDqe8NInOfwrVz.png",
+        "rarity": 3,
+        "description": "为了配合各种各样的喜好而准备的饮料自助。以最佳比例的自助饮料为目标，试着制作自己的食谱吧。"
+      },
       {
         "id": 2038,
         "name": "内殿窗户",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/JjzfiBoW9fiuASP3sYYRqN9sx86FyVj7.png",
         "rarity": 3,
         "description": "设在内殿的柱子。红色是繁荣与喜事的象征。"
-      },
-      {
-        "id": 728,
-        "name": "南瓜汤凳子",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/nxGmhKeyMxsNFu7qq90Mjh1enR6m3tbV.png",
-        "rarity": 2,
-        "description": "仿佛泼洒上南瓜汤的凳子。简约但不失特色的设计能够融入任何空间。"
-      },
-      {
-        "id": 1853,
-        "name": "能量弹药箱（大）",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/pfcsuyPJye4Re3FwIHcD2CDijNJOxn5Z.png",
-        "rarity": 2,
-        "description": "装着备用能量弹的箱子。使用后请按规定程序废弃。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313840,
+  "time": 1793398407,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1118,
+        "name": "三一教室的柱子",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/8WhZXRe5sV8wCqgWhe00muXJQzkTQsgl.png",
+        "rarity": 2,
+        "description": "用有高级感的纵向花纹给人以高雅形象的柱子。"
+      },
+      {
+        "id": 1117,
+        "name": "三一教室的桌子",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/exQ32iHSmKSGXe687dRivgqzLzB5YMCx.png",
+        "rarity": 3,
+        "description": "三一教室的古典桌椅。虽然是三一常见的事物，但从素材到做工都充满高级感。"
+      },
       {
         "id": 1136,
         "name": "三一教室地板",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/POYnLBLudLeedebXD7quYhIWbRr4RT0R.png",
         "rarity": 2,
         "description": "能冷却酷暑的白色椅子。暂时坐下来欣赏海滩的景致吧。"
-      },
-      {
-        "id": 1684,
-        "name": "沙滩的秋千",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/LgVHkZi446LE2Y3fP43LNXTadYlVC5Go.png",
-        "rarity": 4,
-        "description": "沙滩上设置的秋千。想要整理心情的时候，坐在上面摇摆也十分不错。"
-      },
-      {
-        "id": 1996,
-        "name": "沙滩派对套装",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/A75OiTWfkztsAJY4M1sOBshKJd2Lx9Nc.png",
-        "rarity": 4,
-        "description": "沙滩派对套装。看起来能让派对充满乐趣。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313853,
+  "time": 1793398419,
   "version": "v1.0.0-beta.43"
 }

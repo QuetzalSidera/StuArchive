@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 587,
+        "name": "钛金属击锤",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/euK272DPIPDabHU4uo38iSu5T1A8S7NT.png",
+        "rarity": 4,
+        "description": "扣动板机时将力量传至击针的零件，以钛合金制作而成，更加轻盈坚固。用于强化固有武器。  用于强化 AR、GL、RL 类型武器时提供 1.5 倍经验"
+      },
+      {
+        "id": 595,
+        "name": "钛金属击针",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/YjsEvn9iRd2EaTtHfiPjomniGeffs7Fo.png",
+        "rarity": 4,
+        "description": "用来撞击并引燃弹丸雷管的金属棒，以钛合金制作而成，更加轻盈坚固。用于强化固有武器。  用于强化任何类型武器时提供 1.5 倍经验"
+      },
       {
         "id": 591,
         "name": "钛金属枪管",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/xwuG6FStevOgDDJTzCvKKXq9BxkBYC6P.png",
         "rarity": 1,
         "description": "用来中和红茶苦味的方糖。喜欢的话，放多少都没问题 。"
-      },
-      {
-        "id": 155,
-        "name": "特制巧克力炸甜甜圈",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/C3u4NFn5bA9x6I0UnOvqSzNUkdRKFVUx.png",
-        "rarity": 1,
-        "description": "只在情人节推出的匠师甜甜圈特制巧克力炸甜甜圈。撒上特制糖针，增添香甜口味。"
-      },
-      {
-        "id": 325,
-        "name": "特制新年福袋",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/SzyuB557fdZnwH5YrJMxD7LbziTgpX13.png",
-        "rarity": 1,
-        "description": "正月期间黑龟组所准备的正月用福袋。开封前完全猜不到里面有什么的惊喜道具。内容物出乎意料地充实。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313732,
+  "time": 1793398299,
   "version": "v1.0.0-beta.43"
 }

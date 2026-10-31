@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1711,
+        "name": "傍晚的茶几",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/ak5qTk0OsJNFWLBFlpaa2vbaC9XtXvIN.png",
+        "rarity": 3,
+        "description": "摆满甜点的茶几。没有什么比糖分和红茶更能结束疲惫的一天了。"
+      },
+      {
+        "id": 1838,
+        "name": "报春人偶",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/juFTFDLkLze2ebFiYTfgVXopABltzkIj.png",
+        "rarity": 4,
+        "description": "据说在红冬的“庆祝春天到来的祭典”上会用到的巨大人偶。此刻正是冬去春来之时。迎接新的季节吧。"
+      },
       {
         "id": 1849,
         "name": "备用工具箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/Cxf5IKhsjdYk5GZHu2OyKrsykGN58xBi.png",
         "rarity": 4,
         "description": "比纳（室外战）的荣誉白金奖杯"
-      },
-      {
-        "id": 645,
-        "name": "比纳（室外战）黄金奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/qpDnnanF7Hh2S3srsDGqbVuDauCkgUTZ.png",
-        "rarity": 3,
-        "description": "比纳（室外战）的荣誉黄金奖杯"
-      },
-      {
-        "id": 642,
-        "name": "比纳（室外战）铜奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/Oyourl6tSTAVkExA8DpXdrJgqI70JZGN.png",
-        "rarity": 1,
-        "description": "比纳（室外战）的荣誉铜奖杯"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313784,
+  "time": 1793398349,
   "version": "v1.0.0-beta.43"
 }

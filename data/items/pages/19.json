@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1735,
+        "name": "高级技术笔记（狂猎）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6ICSyKyTJOegLlFdXTdPFDrNlUdHwtB3.png",
+        "rarity": 3,
+        "description": "归纳狂猎艺术学院战术核心的秘法笔记。"
+      },
+      {
+        "id": 8,
+        "name": "高级技术笔记（千禧）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XwtSeBdNnSh6TjTZRfK3mcsUKTAQtq2U.png",
+        "rarity": 3,
+        "description": "归纳千禧科学学院战术核心的秘法笔记。"
+      },
       {
         "id": 16,
         "name": "高级技术笔记（山海经）",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/Ybt7dBiLAWudRYWfWLaZeiBpCAwq6GdR.png",
         "rarity": 3,
         "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个百鬼夜行、圣三一或阿里乌斯的高级技术笔记）"
-      },
-      {
-        "id": 632,
-        "name": "高级技术笔记箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/fXvjGEPBUunjmUFpWI8BtktxnpE1POg0.png",
-        "rarity": 3,
-        "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个阿比多斯、千禧或红冬的高级技术笔记）"
-      },
-      {
-        "id": 353,
-        "name": "高级技术笔记选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/zxrL4hGtxiZ3OrNoeoYLVlb1xSCA7Hij.png",
-        "rarity": 3,
-        "description": "可以选择需要的技术笔记的选择券"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313688,
+  "time": 1793398255,
   "version": "v1.0.0-beta.43"
 }

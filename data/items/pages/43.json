@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 433,
+        "name": "欧帕兹(3)抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/7G2nS0RpntT1JiAPUOATq2KR9lYTyf7f.png",
+        "rarity": 3,
+        "description": "使用时以相同的概率获得1个欧帕兹的抽选箱。"
+      },
+      {
+        "id": 1990,
+        "name": "欧帕兹(3)选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/xD2Fm8t53QVTIi4QWCXlKz7DfY6XDTpW.png",
+        "rarity": 3,
+        "description": "可以选择任意欧帕兹的选择箱。"
+      },
       {
         "id": 434,
         "name": "欧帕兹(4)抽选箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/J2ZBRMpGXaR8gHIiFftOlQmals4rOhSN.png",
         "rarity": 1,
         "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1890,
-        "name": "疲劳恢复营养果冻",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/esJHL4glmfJGbJqiJ1c39rJHfKH7g78f.png",
-        "rarity": 1,
-        "description": "营养十足的果冻。或许对每天疲于处理业务的老师来说是正好的礼物。"
-      },
-      {
-        "id": 242,
-        "name": "平滑光亮海螺",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/yrr4l6DWBQeD0ReymPubAKVH18fEh4SS.png",
-        "rarity": 1,
-        "description": "外壳感觉平滑光亮的海螺。按照知世所述，只要拿到耳边聆听海螺传来的声音，就能自然地获得灵感。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313715,
+  "time": 1793398282,
   "version": "v1.0.0-beta.43"
 }

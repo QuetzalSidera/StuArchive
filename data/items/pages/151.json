@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1236,
+        "name": "名著书架",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/YwyLHR3ak7huIrL7ihdaalKyg5l8iam9.png",
+        "rarity": 3,
+        "description": "给这优雅宴会会场再增一份点缀的书架。塞满了格赫娜学生推荐的名著。"
+      },
+      {
+        "id": 1982,
+        "name": "模型泳池",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Y0WYMXAulr8SUB1hI5Mizp7QeH550dKt.png",
+        "rarity": 4,
+        "description": "将见过一次就再也难以忘记的美景复现出来的泳池。随时可以享受休假。"
+      },
       {
         "id": 1746,
         "name": "魔法绒毯和风扇",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/LRX5y5bTilOmClIKQtrIDGvbgqZwKbih.png",
         "rarity": 2,
         "description": "由耐用的木材制成的架子。"
-      },
-      {
-        "id": 931,
-        "name": "木制工作台",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/e2ERTNCdNUkC23BjcamOR4fPhkQfKYq7.png",
-        "rarity": 4,
-        "description": "什么都能马上制作出来的木制工作台。开始制作后，总感觉时间过得飞快。"
-      },
-      {
-        "id": 569,
-        "name": "木制饮料自助吧",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/tLMFHaabCHLw0zo7BCUDqe8NInOfwrVz.png",
-        "rarity": 3,
-        "description": "为了配合各种各样的喜好而准备的饮料自助。以最佳比例的自助饮料为目标，试着制作自己的食谱吧。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313839,
+  "time": 1793398406,
   "version": "v1.0.0-beta.43"
 }

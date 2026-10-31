@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 23,
+        "name": "一般战术教育BD（山海经）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/MRLSftZpieng5FiAAKgz3RNGyKhhHslq.png",
+        "rarity": 2,
+        "description": "把山海经学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 182,
+        "name": "一般战术教育BD（圣三一）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/U8g4WjpNQ0UflhTrqPtBTiykULDP2mNT.png",
+        "rarity": 2,
+        "description": "把圣三一学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 135,
         "name": "一般战术教育BD（瓦尔基里）",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/BXqZHXVVh6A3sLfp3AoPXHbAahAcd09T.png",
         "rarity": 2,
         "description": "可选择需要的战术教育BD的选择券"
-      },
-      {
-        "id": 397,
-        "name": "一般制造用原料",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lwqt2RaHEku3o44bSM6VrdGbP3it8elF.png",
-        "rarity": 2,
-        "description": "用于制造的主原料"
-      },
-      {
-        "id": 1915,
-        "name": "一次性冰袋",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/TWBFEYVRvdMOcH5sk6mZHTJIOKsjgLz7.png",
-        "rarity": 1,
-        "description": "受到冲击时能瞬间发挥冷却效果的冰袋。是炎炎夏日的必备品。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313749,
+  "time": 1793398315,
   "version": "v1.0.0-beta.43"
 }

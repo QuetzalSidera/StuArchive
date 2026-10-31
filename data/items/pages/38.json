@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 416,
+        "name": "曼陀罗草新芽",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/6Y5dRo5vofV5FUYuLfq19G17GyJ9fRqd.png",
+        "rarity": 2,
+        "description": "长出嫩芽的曼陀罗草新芽。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 417,
+        "name": "曼陀罗草汁",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/TJkFjogA9tEC2xCrGpZRw62JLZ63jTxI.png",
+        "rarity": 3,
+        "description": "从熟透的曼陀罗草榨出的曼陀罗草汁。可用来进行各种制造及强化。"
+      },
       {
         "id": 415,
         "name": "曼陀罗草种子",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/g1LCDrwUzpxxfKWc5N4GKBLFHYy3OkbE.png",
         "rarity": 1,
         "description": "存储着解锁中央区大门的门禁代码的芯片。"
-      },
-      {
-        "id": 1999,
-        "name": "梦之沙",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/CDI3NGxjbE8oXjVO7gJJL4V2LXYCOjan.png",
-        "rarity": 1,
-        "description": "会在人睡觉的地方堆积起来的神奇沙子。从梦中醒来的瞬间，沙子就会消失，仿佛从未存在过一般。"
-      },
-      {
-        "id": 211,
-        "name": "弥撒巾",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/V25Fk8dCy4j5siGf7LWSUSq736wiSxaL.png",
-        "rarity": 1,
-        "description": "包着礼拜时会戴上的薄纱有时也可拿来遮住祈祷时睡着的脸。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313710,
+  "time": 1793398276,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 834,
+        "name": "银蓝小板凳",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/AEvEjryZvd6JrXEJuhnuBXFkgEus5TJX.png",
+        "rarity": 2,
+        "description": "饰以淡淡的银色的银蓝小板凳。如果希望享受轻松的气氛，非常推荐。"
+      },
+      {
+        "id": 987,
+        "name": "银色抛光地板",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/U9r6FWgbyuoDV7QmRi1DVMvTTU61FToz.png",
+        "rarity": 2,
+        "description": "银色抛光材料的地板。与任何颜色都很搭配，非常适合走廊的布局。"
+      },
       {
         "id": 764,
         "name": "饮料保温柜",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/u31dwMSNKnpWLVRwKULZ45sjiMoZI6C8.png",
         "rarity": 3,
         "description": "描绘了游戏开发部重点的背景。可以营造游戏开发部独特的气氛。"
-      },
-      {
-        "id": 996,
-        "name": "游戏开发部的LED灯板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/rHtnQDUoDp9yonrwzBVPDM5Cq65Mvk5Y.png",
-        "rarity": 2,
-        "description": "显示着游戏开发部标志的灯板。给人怀旧的感觉。"
-      },
-      {
-        "id": 1015,
-        "name": "游戏开发部的白板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/em25ONYQaG41i0DxcVP42ZXShpbD2aN1.png",
-        "rarity": 4,
-        "description": "记录了重要内容的白板。可以看到所有部员的涂鸦。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313883,
+  "time": 1793398450,
   "version": "v1.0.0-beta.43"
 }

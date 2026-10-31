@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1569,
+        "name": "千禧塔休息室的自动贩卖机",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/m2oQfH9oIpihl7nGDdTaAqJonr2nesGv.png",
+        "rarity": 3,
+        "description": "休息室内设有的大型自动售卖机。毫无疑问，冷藏和保温系统也一应俱全。"
+      },
+      {
+        "id": 1522,
+        "name": "千禧塔休息室的自动扶梯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/yToUmUd7kQjxlx9K46pB0YVCRApmr77t.png",
+        "rarity": 4,
+        "description": "通往其他楼层的自动扶梯。安全起见，切勿在上面行走或奔跑。"
+      },
       {
         "id": 1572,
         "name": "千禧塔休息室地面",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/SjhNIFeudVGE6G61kPfecfuNNHUedYHt.png",
         "rarity": 4,
         "description": "迎接访客的大门……然而，一旦运转不正常，可能就需要采取\"特别手段\"了。"
-      },
-      {
-        "id": 1600,
-        "name": "千禧制发球机",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/hqk4LSvY5saoAx8rfFFlKy7lZWXAhPuY.png",
-        "rarity": 4,
-        "description": "包括直球在内，可以完美投出8种以上类型的变化球的最新型机器。只是机器的性能和千禧棒球部的实力，好像不大成比例的样子......"
-      },
-      {
-        "id": 1550,
-        "name": "千禧柱子·A",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/M3mRHFTgM2jVaFhVVEw8HQGQArFBbqWZ.png",
-        "rarity": 2,
-        "description": "千禧的柱子。顶部的照明设计是其亮点。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313846,
+  "time": 1793398413,
   "version": "v1.0.0-beta.43"
 }

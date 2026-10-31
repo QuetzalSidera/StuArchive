@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1558,
+        "name": "休息室长椅·A型",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/jQyAqR512NSCu6zFnMX8Os1eLMtlKFnC.png",
+        "rarity": 3,
+        "description": "呈A字形状的长椅。配有柔软的坐垫，坐上去很舒服。"
+      },
+      {
+        "id": 1537,
+        "name": "休息室的显示屏",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/CJzWVMopgQ0yXHmpx6uaVr7UuPpF2FNJ.png",
+        "rarity": 2,
+        "description": "为造访休息室的学生提供信息的显示器。可以进行触屏操作。"
+      },
       {
         "id": 1562,
         "name": "休息室地图显示屏",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/o9UfUe5B3UxnWq52eemTYDpRWXkqb9kk.png",
         "rarity": 4,
         "description": "呼应着冬日氛围的雪花花纹渐层背景。看似冰冷却带给人一股温暖的感受。"
-      },
-      {
-        "id": 2005,
-        "name": "训练场地板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/fyH7qRNwx8fOgYv6OmXppGbG02HIp5Zn.png",
-        "rarity": 2,
-        "description": "铺了一层柔软的沙子的训练场地板。就算摔倒也没问题。"
-      },
-      {
-        "id": 2028,
-        "name": "训练场回廊地板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/blEaMAKR3WQj2EPBkUz2TiJE4MCDYYc9.png",
-        "rarity": 3,
-        "description": "回廊的石板路面。请勿奔跑。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313874,
+  "time": 1793398441,
   "version": "v1.0.0-beta.43"
 }

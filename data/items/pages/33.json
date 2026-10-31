@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 470,
+        "name": "家具抽选箱(紫)",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/MPQXsxFJX7IEl2PEQt0PTSUUsQZgkE53.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个紫色稀有度家具的抽选箱。"
+      },
+      {
+        "id": 886,
+        "name": "家具箱 (☆3)",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/vbkXohDsiZuLGXSAdjSWFjUqM19SPsMt.png",
+        "rarity": 4,
+        "description": "装有☆3咖啡厅家具的箱子。"
+      },
       {
         "id": 2047,
         "name": "家具选择箱(橙)",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/WHbJrrV21xyBocXlo10GwepEOOslsQHr.png",
         "rarity": 1,
         "description": "可用于制作装备的设计图。  被以下学生使用"
-      },
-      {
-        "id": 539,
-        "name": "街头时尚表设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/TuVi8HVRkAtGk5cQnGflFmRs2W94O8Dr.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 180,
-        "name": "进击！六角恐龙！",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/BQeKTRYmkVUdEl3KKTvROMDmDhu57zIN.png",
-        "rarity": 1,
-        "description": "桃井在夹娃娃机夹到的食玩巧克力。装有人气格斗游戏<仙后神拳~六角恐龙大热战~>的吉祥物角色玩具。共7种！"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313704,
+  "time": 1793398271,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1999,
+        "name": "梦之沙",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/CDI3NGxjbE8oXjVO7gJJL4V2LXYCOjan.png",
+        "rarity": 1,
+        "description": "会在人睡觉的地方堆积起来的神奇沙子。从梦中醒来的瞬间，沙子就会消失，仿佛从未存在过一般。"
+      },
+      {
+        "id": 211,
+        "name": "弥撒巾",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/V25Fk8dCy4j5siGf7LWSUSq736wiSxaL.png",
+        "rarity": 1,
+        "description": "包着礼拜时会戴上的薄纱有时也可拿来遮住祈祷时睡着的脸。"
+      },
       {
         "id": 531,
         "name": "迷彩达摩设计图",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/SfD6YsakZffcPJMzIiA2y9JZwIZaUCUO.png",
         "rarity": 1,
         "description": "小雪送给老师的手工巧克力。虽然看上去是普通的礼品巧克力，但似乎隐藏了其他的信息。"
-      },
-      {
-        "id": 522,
-        "name": "蜜桃发卡设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/RnNOIq71acc5UzpWx18v51NMwd5sfIh4.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1380,
-        "name": "棉花糖串",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/2INuyaLW3K4Xnwkq28uQ49SdGmrij5cC.png",
-        "rarity": 1,
-        "description": "树枝串起的棉花糖。篝火烤过后能变得更加香甜。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313711,
+  "time": 1793398277,
   "version": "v1.0.0-beta.43"
 }

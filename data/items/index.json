@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-10-29T22:27:06Z",
+  "generated_at": "2026-10-30T21:56:40Z",
   "list_key": "item",
   "id_key": "id",
-  "max_page": 202,
-  "synced_pages": 202,
-  "total_items": 2020,
-  "details_synced": 2020,
+  "max_page": 203,
+  "synced_pages": 203,
+  "total_items": 2022,
+  "details_synced": 2022,
   "details_enabled": true,
   "items": [
     {
@@ -423,6 +423,22 @@
       "icon": "https://static.kivo.wiki/images/item/icon/KBLQENMvjQjQ1VWsCbUhT83msJLIZq7G.png",
       "rarity": 1,
       "description": "紧急情况下使用的口哨。用力吹响会发出尖锐的声音。"
+    },
+    {
+      "id": 2097,
+      "name": "奥德赛海洋学校系列家具抽选箱",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/HVxjU7MPtQW7RiZXUDJwMDaTOFe5xXqM.png",
+      "rarity": 4,
+      "description": "使用时以相同的概率获得1个奥德赛海洋学校系列家具的抽选箱。"
+    },
+    {
+      "id": 2098,
+      "name": "奥德赛海洋学校系列家具选择箱",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/BAvz8QJxMGh9iX4wZ6CuY8YVJiuiDe9X.png",
+      "rarity": 4,
+      "description": "从奥德赛海洋学校系列家具中任意选择一个家具兑换的选择箱。"
     },
     {
       "id": 19,
@@ -17591,6 +17607,13 @@
       "path": "items/pages/202.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/202.json",
       "item_count": 10
+    },
+    {
+      "page": 203,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=203",
+      "path": "items/pages/203.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/203.json",
+      "item_count": 2
     }
   ],
   "details": [
@@ -17899,6 +17922,18 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1369",
       "path": "items/1369.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1369.json"
+    },
+    {
+      "id": 2097,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2097",
+      "path": "items/2097.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2097.json"
+    },
+    {
+      "id": 2098,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2098",
+      "path": "items/2098.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2098.json"
     },
     {
       "id": 19,
@@ -29718,8 +29753,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1988,
-    "normalized_alias_count": 1988,
-    "total_items": 2020
+    "alias_count": 1990,
+    "normalized_alias_count": 1990,
+    "total_items": 2022
   }
 }

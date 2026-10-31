@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1351,
+        "name": "稀有电缆",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8YcX8zH302AeZK0daMZFmOz4R3ZHznKq.png",
+        "rarity": 1,
+        "description": "只能在千禧废墟找到的稀有电缆。状态良好。"
+      },
+      {
+        "id": 383,
+        "name": "下级合成用启动石",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/NphGBU4Q7nL1h4fcs6dKB20y2S9PILTC.png",
+        "rarity": 1,
+        "description": "启动工艺室的合成物质功能时所需的楔石。"
+      },
       {
         "id": 576,
         "name": "下级强化石",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/uYZFVDWCYDLTcMwIVHxO96WScm1jkuye.png",
         "rarity": 1,
         "description": "可以制作装备的设计图。"
-      },
-      {
-        "id": 50,
-        "name": "小鸡形巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/u7CT7OKwaaVbavSc63V7vdX4ewGPNigy.png",
-        "rarity": 1,
-        "description": "美弥在情人节时赠送的可爱巧克力。虽说是医疗用品，但包装却不失精致与美观。"
-      },
-      {
-        "id": 1329,
-        "name": "小石子",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/MzHaAcVgEUQu0gH1CbPV527VsuPQsTmx.png",
-        "rarity": 1,
-        "description": "海岸边很常见的小石子。看似平凡，但其因海浪冲刷、石子摩擦而形成的光滑表面与湿润光泽极具吸引力。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313740,
+  "time": 1793398306,
   "version": "v1.0.0-beta.43"
 }

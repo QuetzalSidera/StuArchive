@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 401,
+        "name": "磨损的内布拉盘",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/amCLaPTyEdQZCJ8jhPGtDuta2094Iwbz.png",
+        "rarity": 3,
+        "description": "过于老旧，磨损得体无完肤的内布拉盘。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 413,
+        "name": "磨损的尼姆鲁德透镜",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/YPoqqslWIkHcwLv6ZwsEOWwa42NjHYuD.png",
+        "rarity": 3,
+        "description": "拼凑碎片修复的尼姆鲁德透镜。可用来进行各种制造及强化。"
+      },
       {
         "id": 1343,
         "name": "墨盒",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/iybI1D7hhjIGK5Xv8dg2tSEr9tDnosfT.png",
         "rarity": 1,
         "description": "内布拉盘的碎块。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1366,
-        "name": "能量饼干",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/XokhVGViIhQiw3hEIbwf5DDomN0fa0rB.png",
-        "rarity": 1,
-        "description": "恢复消耗的体力用的饼干。实际上并不足以饱腹。"
-      },
-      {
-        "id": 541,
-        "name": "尼科莱盒式链坠设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/hbpPUoQtJ7dmNuIk0ll1DLMGRp30Ce1u.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313713,
+  "time": 1793398280,
   "version": "v1.0.0-beta.43"
 }

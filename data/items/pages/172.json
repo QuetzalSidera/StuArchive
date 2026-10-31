@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 1941,
+        "name": "瓦尔基里备品·储物柜",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/mM4VwMrbx0Pe6BFhim7GRhjAsYjWFqTC.png",
+        "rarity": 3,
+        "description": "存放瓦尔基里警员私人物品的储物柜。里面塞着各种东西。"
+      },
+      {
+        "id": 1937,
+        "name": "瓦尔基里备品·文件柜1型",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/L23pH8cX7U8OEgnpml7um8IygNSEZRwD.png",
+        "rarity": 3,
+        "description": "保管瓦尔基里常用文件的柜子。整理得井井有条。"
+      },
       {
         "id": 1938,
         "name": "瓦尔基里备品·文件柜2型",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/o9QR7U0ExwaLau7apdtf94zOp8dH5X3K.png",
         "rarity": 4,
         "description": "放置公用打印机的桌子。打印时会有些许晃动。"
-      },
-      {
-        "id": 1945,
-        "name": "瓦尔基里大型抽屉（高级）",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/7ghmGJXozYm3J26jlzS7OvwA9Lj2wkaD.png",
-        "rarity": 2,
-        "description": "瓦尔基里使用的大型收纳抽屉。总让人不由自主地想要小心使用。"
-      },
-      {
-        "id": 1974,
-        "name": "瓦尔基里防盗窗",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/4x4vtujDIx464zmCoMGcVTbwouM6WzUa.png",
-        "rarity": 2,
-        "description": "瓦尔基里设施中常用的防盗窗。贴有“请勿脏污”的告示。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313863,
+  "time": 1793398429,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 2023,
+        "name": "演武场大门",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/mx9qXiR0jzhkCYsg7I7SKmlscFo8XMcm.png",
+        "rarity": 3,
+        "description": "演武场的出入口。"
+      },
+      {
+        "id": 2036,
+        "name": "演武场牌楼",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/WVw8QMocbk1Mcpu2urWd8SNgr31DMaaf.png",
+        "rarity": 4,
+        "description": "牌楼指的是入口处的大门。在各种意义上都具有象征性。"
+      },
       {
         "id": 2034,
         "name": "演武场石碑",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/SI81Hfs7qzdFgChUhNEL2ACWpgA75VKj.png",
         "rarity": 3,
         "description": "白色花朵盛开的盆栽。无论放在哪里都能给周围增添活力。"
-      },
-      {
-        "id": 1172,
-        "name": "阳光白色日光浴床",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/7BMQgzvZAe7xyzXm4AHQezguyibYWv5I.png",
-        "rarity": 3,
-        "description": "可以享受温暖阳光的日光浴床。有着引人注目的清爽白色。"
-      },
-      {
-        "id": 1174,
-        "name": "阳光陈列柜",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/vSbUEJn4X2W6ZMyqD0zLqWp84Za2dO41.png",
-        "rarity": 3,
-        "description": "使用高档木材制成的陈列柜。配上白色花朵，显得非常优雅。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313876,
+  "time": 1793398443,
   "version": "v1.0.0-beta.43"
 }

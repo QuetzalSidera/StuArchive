@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 202,
+    "max_page": 203,
     "item": [
+      {
+        "id": 276,
+        "name": "玩沙工具組",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0d4zSmn9o1RutljvRLkiDwYuvruFKql6.png",
+        "rarity": 1,
+        "description": "玩沙工具组，包含可以堆出简单沙堡的工具。不包含水泥和钢筋。"
+      },
+      {
+        "id": 1920,
+        "name": "万能设计图抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/XP1n9nbqp1383nuEsbiPyjHCEVJ8Tekt.png",
+        "rarity": 1,
+        "description": "万能设计图抽选箱"
+      },
       {
         "id": 460,
         "name": "万圣节咖啡厅系列家具抽选箱",
@@ -67,27 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/4DEhXtCGIKo27S9mOFCN4QxrBg2gIfoF.png",
         "rarity": 1,
         "description": "温尼珀索基石头的破裂碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1083,
-        "name": "温泉蛋巧克力",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/LKmXtsB34uafOcYEtvN6zmIgSovgXris.png",
-        "rarity": 1,
-        "description": "惠的特制手工巧克力。乍一看，因为和温泉蛋很像，所以很容易弄错。因为是大量制作的，如果需要的话多少都能拿到。"
-      },
-      {
-        "id": 321,
-        "name": "温泉毛巾",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/0q03L8VVdmVSFS9H8GXmnxwW0cAcGayi.png",
-        "rarity": 1,
-        "description": "温泉浴场227号所提供的基本毛巾。材质多少有点粗糙，用力擦身体的话皮肤可能会受伤。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793313738,
+  "time": 1793398304,
   "version": "v1.0.0-beta.43"
 }
