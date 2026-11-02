@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-10-31T20:59:47Z",
+  "generated_at": "2026-11-01T21:42:47Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6032,
-  "alias_count": 6022,
-  "normalized_alias_count": 6015,
+  "total_items": 6045,
+  "alias_count": 6035,
+  "normalized_alias_count": 6027,
   "by_id": {
     "6180": {
       "id": 6180,
@@ -175,6 +175,96 @@
       "detail_path": "timeline/6169.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6169.json"
     },
+    "6211": {
+      "id": 6211,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6211,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Oho...Sensei's going to want to play hooky...」&「Breaking News!」&「I'd like to try and improve... as a life guard.」",
+        "image": "https://static.kivo.wiki/images/timeline/UfL9CZ78EteRnbo7TyQnwrWE7mHktVnz.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 11/3 (Tue)! 💌Pick-Up S",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2116066321075245307",
+        "start_time": 1793713689,
+        "end_time": 1794318489
+      },
+      "detail_path": "timeline/6211.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6211.json"
+    },
+    "6210": {
+      "id": 6210,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6210,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻 「Conquer the Sky Capriccioso」&「Honor the Sky Affettuoso」",
+        "image": "https://static.kivo.wiki/images/timeline/4S9v6w4Wc5RB2IvusoBOxOmyGD7oxJx1.jpg",
+        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 11/3 (Tu",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2116062554594082873",
+        "start_time": 1793713488,
+        "end_time": 1794318288
+      },
+      "detail_path": "timeline/6210.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6210.json"
+    },
+    "6207": {
+      "id": 6207,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6207,
+        "line_type": "Globle",
+        "title": "国际服大决战 Hod (Indoor) #1",
+        "image": "https://static.kivo.wiki/images/timeline/N1wPZUHdVL4AM4euUGDcql8tk0FkYIGQ.jpg",
+        "body_summary": "[Grand Assault Preview] The Grand Assault - Hod (Indoor Warfare) will start on 11/3 (Tue)! ➡️Officia",
+        "type": "BigRaid",
+        "url": "x.com/EN_BlueArchive/status/2115337773930480005",
+        "start_time": 1793712971,
+        "end_time": 1794317771
+      },
+      "detail_path": "timeline/6207.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6207.json"
+    },
+    "6213": {
+      "id": 6213,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6213,
+        "line_type": "Globle",
+        "title": " 国际服任务Hard2倍 #51",
+        "image": "https://static.kivo.wiki/images/timeline/nwafeFqnXEY9cPhiwq8ZPpYGTrzJWbTI.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Hard) will be doubled. Don",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2116428708844372057",
+        "start_time": 1793627593,
+        "end_time": 1794232393
+      },
+      "detail_path": "timeline/6213.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6213.json"
+    },
+    "6212": {
+      "id": 6212,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6212,
+        "line_type": "Globle",
+        "title": "国际服任务Normal2倍 #53",
+        "image": "https://static.kivo.wiki/images/timeline/GWztfRJzfqHj6zA0EEEapNgo3CEU0sZe.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2116424933974638912",
+        "start_time": 1793627489,
+        "end_time": 1794232289
+      },
+      "detail_path": "timeline/6212.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6212.json"
+    },
     "6167": {
       "id": 6167,
       "source_path": "timeline/index.json",
@@ -192,6 +282,114 @@
       },
       "detail_path": "timeline/6167.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6167.json"
+    },
+    "6209": {
+      "id": 6209,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6209,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编阿罗娜旗袍换装回 #40",
+        "image": "https://static.kivo.wiki/images/timeline/08uw0iNN0z1PVheAHoD61SsnnZ9nTzFr.jpg",
+        "body_summary": "Cuteness Over...sized😱 ➡️ Watch Full VOD (Stream #40): https://youtube.com/live/wyLullkg1_o #BlueArc",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2116002165336560026",
+        "start_time": 1793367718,
+        "end_time": 1793367718
+      },
+      "detail_path": "timeline/6209.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6209.json"
+    },
+    "6208": {
+      "id": 6208,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6208,
+        "line_type": "Globle",
+        "title": "国际服万圣节礼物",
+        "image": "https://static.kivo.wiki/images/timeline/Ez9UNzuvUurMcvJrT2WGNj5AXRJNNroh.jpg",
+        "body_summary": "Sensei, what kind of tricks could Eri have possibly prepared for Halloween? 🎃 Come find 💎600 Pyroxen",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2115971961478128098",
+        "start_time": 1793367538,
+        "end_time": 1793367538
+      },
+      "detail_path": "timeline/6208.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6208.json"
+    },
+    "6203": {
+      "id": 6203,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6203,
+        "line_type": "CN",
+        "title": "【无限制决战：获刻玛 • 特殊装甲】#2",
+        "image": "https://static.kivo.wiki/images/timeline/BpzgiIhBONymTYCeFcYmf60H6VUxrWwo.jpg",
+        "body_summary": "无限制决战\"获刻玛\"即将开启，参与活动即可获得礼物选择盒、合成石、辅导手册及其他各类养成素材 ■ 活动时间 • 赛季持续时间：10月30日 14:00 ~ 11月26日 03:59 ■ 首领\"获刻玛\"",
+        "type": "MiniBattle",
+        "url": "weibo.com/6011443154/RoSX3DYYJ",
+        "start_time": 1793340000,
+        "end_time": 1795636799
+      },
+      "detail_path": "timeline/6203.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6203.json"
+    },
+    "6204": {
+      "id": 6204,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6204,
+        "line_type": "CN",
+        "title": "炸服 #26（竞技场商店购买次数上限异常重置、狂猎艺术学院有关素材无法在合成台填充进度）",
+        "image": "https://static.kivo.wiki/images/timeline/awAp1SZYBJval0MJhjwG4JtzXaqPzTMC.gif",
+        "body_summary": "10.29 19:59 官方发现异常 weibo.com/6011443154/RoWub8kCz “欢迎连接【什亭之箱】，老师。” 在10月29日维护更新结束后 ，我们收到部分老师发来的异常反馈，内",
+        "type": "Maintenance",
+        "url": "weibo.com/6011443154/Rp4g89LPb",
+        "start_time": 1793275140,
+        "end_time": 1793347020
+      },
+      "detail_path": "timeline/6204.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6204.json"
+    },
+    "6201": {
+      "id": 6201,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6201,
+        "line_type": "CN",
+        "title": "总力战 佩洛洛斯拉 • 野外战 #4",
+        "image": "https://static.kivo.wiki/images/timeline/tWlIi8Ydq8DKQ8pFn5snH5KyLVG0NDYf.jpg",
+        "body_summary": "在D.U.的附近海域发现了来历不明的巨大怪兽。 这只怪兽的外形看起来很像很久以前沉入海底的桃桃朋友玩偶。 虽然不知道为什么会发生这种事，但无论如何，必须阻止这只巨大怪兽的进击！ ■ 活动时间 • 赛季",
+        "type": "Raid",
+        "url": "weibo.com/6011443154/RoJwz85au",
+        "start_time": 1793268000,
+        "end_time": 1793822399
+      },
+      "detail_path": "timeline/6201.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6201.json"
+    },
+    "6202": {
+      "id": 6202,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6202,
+        "line_type": "CN",
+        "title": "例行维护 #68",
+        "image": "https://static.kivo.wiki/images/timeline/rsu27zDpNDbXRPgF4QB0bjY5XPjeKgKP.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 10月29日 14:00 开始进行维护更新，预计持续5小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 为确保账",
+        "type": "Maintenance",
+        "url": "bluearchive-cn.com/news/1995",
+        "start_time": 1793253600,
+        "end_time": 1793271600
+      },
+      "detail_path": "timeline/6202.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6202.json"
     },
     "6161": {
       "id": 6161,
@@ -426,6 +624,42 @@
       },
       "detail_path": "timeline/6168.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6168.json"
+    },
+    "6206": {
+      "id": 6206,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6206,
+        "line_type": "Globle",
+        "title": "国际服违规帐号封禁 #74",
+        "image": "https://static.kivo.wiki/images/timeline/rlgiHDXzLcMVgQ8VAYb4A3JDsYTO79w6.jpg",
+        "body_summary": "[10/27 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2115022459611267290",
+        "start_time": 1793108077,
+        "end_time": 1793108077
+      },
+      "detail_path": "timeline/6206.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6206.json"
+    },
+    "6205": {
+      "id": 6205,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6205,
+        "line_type": "Globle",
+        "title": "国际服活动常驻化「Sheside Outside」",
+        "image": "https://static.kivo.wiki/images/timeline/ScA8UyeAPquRXinT4uzrCCpojZCknSw4.jpg",
+        "body_summary": "[Immortalized Event Notice] The Event Story, Sheside outside, has been immortalized today, so you ca",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2114952733958521296",
+        "start_time": 1793106636,
+        "end_time": 1793070671
+      },
+      "detail_path": "timeline/6205.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6205.json"
     },
     "6150": {
       "id": 6150,
@@ -108618,8 +108852,41 @@
     "任务Normal2倍#62": [
       "6169"
     ],
+    "国际服卡池复刻「Oho...Sensei's going to want to play hooky...」&「Breaking News!」&「I'd like to try and improve... as a life guard.」": [
+      "6211"
+    ],
+    "国际服卡池复刻 「Conquer the Sky Capriccioso」&「Honor the Sky Affettuoso」": [
+      "6210"
+    ],
+    "国际服大决战 Hod (Indoor) #1": [
+      "6207"
+    ],
+    "国际服任务Hard2倍 #51": [
+      "6213"
+    ],
+    "国际服任务Normal2倍 #53": [
+      "6212"
+    ],
     "老师经验2倍集中通知#32": [
       "6167"
+    ],
+    "国际服Arcie小编阿罗娜旗袍换装回 #40": [
+      "6209"
+    ],
+    "国际服万圣节礼物": [
+      "6208"
+    ],
+    "【无限制决战:获刻玛 • 特殊装甲】#2": [
+      "6203"
+    ],
+    "炸服 #26(竞技场商店购买次数上限异常重置、狂猎艺术学院有关素材无法在合成台填充进度)": [
+      "6204"
+    ],
+    "总力战 佩洛洛斯拉 • 野外战 #4": [
+      "6201"
+    ],
+    "例行维护 #68": [
+      "6202"
     ],
     "限时活动【我等乃神秘学研究会!】": [
       "6161"
@@ -108659,6 +108926,12 @@
     ],
     "指名手配2倍#60": [
       "6168"
+    ],
+    "国际服违规帐号封禁 #74": [
+      "6206"
+    ],
+    "国际服活动常驻化「Sheside Outside」": [
+      "6205"
     ],
     "国际服联合火力演习#53": [
       "6150"
@@ -126696,8 +126969,42 @@
     "任务normal2倍#62": [
       "6169"
     ],
+    "国际服卡池复刻「oho...sensei'sgoingtowanttoplayhooky...」&「breakingnews!」&「i'dliketotryandimprove...asalifeguard.」": [
+      "6211"
+    ],
+    "国际服卡池复刻「conquertheskycapriccioso」&「honortheskyaffettuoso」": [
+      "6210",
+      "3976"
+    ],
+    "国际服大决战hod(indoor)#1": [
+      "6207"
+    ],
+    "国际服任务hard2倍#51": [
+      "6213"
+    ],
+    "国际服任务normal2倍#53": [
+      "6212"
+    ],
     "老师经验2倍集中通知#32": [
       "6167"
+    ],
+    "国际服arcie小编阿罗娜旗袍换装回#40": [
+      "6209"
+    ],
+    "国际服万圣节礼物": [
+      "6208"
+    ],
+    "【无限制决战:获刻玛•特殊装甲】#2": [
+      "6203"
+    ],
+    "炸服#26(竞技场商店购买次数上限异常重置、狂猎艺术学院有关素材无法在合成台填充进度)": [
+      "6204"
+    ],
+    "总力战佩洛洛斯拉•野外战#4": [
+      "6201"
+    ],
+    "例行维护#68": [
+      "6202"
     ],
     "限时活动【我等乃神秘学研究会!】": [
       "6161"
@@ -126737,6 +127044,12 @@
     ],
     "指名手配2倍#60": [
       "6168"
+    ],
+    "国际服违规帐号封禁#74": [
+      "6206"
+    ],
+    "国际服活动常驻化「shesideoutside」": [
+      "6205"
     ],
     "国际服联合火力演习#53": [
       "6150"
@@ -132955,9 +133268,6 @@
     ],
     "国际服例行维护#84": [
       "3977"
-    ],
-    "国际服卡池复刻「conquertheskycapriccioso」&「honortheskyaffettuoso」": [
-      "3976"
     ],
     "国际服卡池「breakingnews!」": [
       "3975"
