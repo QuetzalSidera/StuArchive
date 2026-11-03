@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2319,
+        "line_type": "JP",
+        "title": "TV动画播送前PV公开",
+        "image": "",
+        "body_summary": "◤放送直前PV解禁◢ 『ブルーアーカイブ The Animation』の放送直前PVが解禁です！ 対策委員会のメンバーに加え、アロナや便利屋68の姿も……!!👀 https://youtu.be/pG",
+        "type": "OutsideGames",
+        "url": "twitter.com/BlueArchive_TV/status/1771432945183785166",
+        "start_time": 1711181100,
+        "end_time": 1711181100
+      },
+      {
+        "id": 2289,
+        "line_type": "JP",
+        "title": "参展AnimeJapan 2024的DJ舞台直播",
+        "image": "https://static.kivo.wiki/images/timeline/UI0gkzriPiWmU4biw2cNURYIZcNm11Ij.jpg",
+        "body_summary": "Day 1 【AnimeJapan 2024】 3/23(土)と3/24(日)の2日間 「ブルーアーカイブ The Animation」に関するブースを出展します！ 両日ともに各ステージの生中継も実施",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1767113271159767115",
+        "start_time": 1711177200,
+        "end_time": 1711260000
+      },
       {
         "id": 2336,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "bluearchive-cn.com/news/638",
         "start_time": 1711000824,
         "end_time": 1712210424
-      },
-      {
-        "id": 2304,
-        "line_type": "CN",
-        "title": "活动【邮轮幸运签到册】",
-        "image": "https://static.kivo.wiki/images/timeline/p4Cg4mIkd67bXcbQy0utIumX7c4fhVlI.jpg",
-        "body_summary": "听闻豪华邮轮上正在举办幸运签到活动！活动期间累计登录游戏，即可获得大量信用积分和养成素材！老师可千万不要错过啦！ ■ 活动时间 03月21日 14:00 ~ 04月11日 03:59 ■ 奖励内容 累",
-        "type": "Event",
-        "url": "weibo.com/6011443154/O5HClg5Qk",
-        "start_time": 1711000804,
-        "end_time": 1712815204
-      },
-      {
-        "id": 2331,
-        "line_type": "Globle",
-        "title": "国际服特别补给「Get Set, GO! Special On-Time Gift」",
-        "image": "https://static.kivo.wiki/images/timeline/ioDoORYrFr01hUbvOYd3WXmeOlsshab9.jpg",
-        "body_summary": "[Get Set, GO! Special On-Time Gift] You look thirsty, Sensei! Why not partake of these Special Suppl",
-        "type": "WebEvent",
-        "url": "twitter.com/EN_BlueArchive/status/1770646518581825676",
-        "start_time": 1710990006,
-        "end_time": 1712023146
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793577936,
+  "time": 1793673224,
   "version": "v1.0.0-beta.43"
 }

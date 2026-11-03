@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1501,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习12",
+        "image": "https://static.kivo.wiki/images/timeline/SKFWrf8IimqJFyPPVeqNbGPlfRoMgwfW.jpg",
+        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Breakthrough Drill) has opened 8/15 (Tue) 2",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1691343971333935104",
+        "start_time": 1692064857,
+        "end_time": 1692644757
+      },
+      {
+        "id": 1500,
+        "line_type": "Globle",
+        "title": "国际服任务normal3倍6 hard3倍6",
+        "image": "https://static.kivo.wiki/images/timeline/njMP3CIgLdIY1AhfDgzHXHRkpUXi3LVH.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] The amount of rewards dropped in Missions will be tripled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1690259320607260674",
+        "start_time": 1692039614,
+        "end_time": 1692644414
+      },
       {
         "id": 1499,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1689896932800684032",
         "start_time": 1691719222,
         "end_time": 1692669562
-      },
-      {
-        "id": 1495,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Is a prayer that I could stay by tour side forever too selfish?」",
-        "image": "https://static.kivo.wiki/images/timeline/4MfwBdTkCK370gsrl4qsinSVU7quHBgm.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 8/11 (Fri)! Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1688845001252614146",
-        "start_time": 1691719209,
-        "end_time": 1692669609
-      },
-      {
-        "id": 1494,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「If I can pass on the stories that these precious children wanted to tell」",
-        "image": "https://static.kivo.wiki/images/timeline/l8AaaQ1U2916ba0CcqKrHN9rvsECIoAr.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 8/11 (Fri)! Pick-Up St",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1688841226496389120",
-        "start_time": 1691719209,
-        "end_time": 1692669609
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578032,
+  "time": 1793673308,
   "version": "v1.0.0-beta.43"
 }

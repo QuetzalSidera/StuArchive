@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 22,
+        "line_type": "JP",
+        "title": "开始服务",
+        "image": "https://static.kivo.wiki/images/timeline/dyvsAoKExQdRkLc789wRmkJsD3vdGGHE.jpg",
+        "body_summary": "┏━━━━━━━━━━━━━━━━━━━┓ ✨『ブルーアーカイブ』✨ ✨サービス開始です！✨ ┗━━━━━━━━━━━━━━━━━━━┛ 『ブルーアーカイブ』の正式サービスを開始いたしました！ たくさ",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1357177196419321856",
+        "start_time": 1612414934,
+        "end_time": 1612414934
+      },
+      {
+        "id": 23,
+        "line_type": "JP",
+        "title": "开服纪念卡池",
+        "image": "https://static.kivo.wiki/images/timeline/qzZ7bIcxdf5Q0aDx9eVS9YsNnbPrebYa.jpg",
+        "body_summary": "【ピックアップ募集】 リリース記念ピックアップ募集「拝啓、はじまりの季節へ」が開催中です！ 🔷開催期間 2021年2月4日(木) サービス開始 ~ 2021年2月11日(木)14:00 🔷ピックアップ",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1357187138551377922",
+        "start_time": 1612414800,
+        "end_time": 1613023200
+      },
       {
         "id": 690,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1342032334523002880",
         "start_time": 1608773207,
         "end_time": 1608773207
-      },
-      {
-        "id": 15,
-        "line_type": "JP",
-        "title": "阿罗娜通信Vol.2（CBT测试报告）",
-        "image": "https://static.kivo.wiki/images/timeline/oTX3aNAfLcVU4fcy5hhaf5alWRpJBgS6.jpg",
-        "body_summary": "【アロナ通信vol.2】 アロナ通信第2回の公開です！ CBTから今まで、どの様な改善を行ってきたのか！ 開発陣からの特別ゲストを迎えてご紹介します！ 記事の最後にはちょっとしたサプライズもあるので、",
-        "type": "WebEvent",
-        "url": "bluearchive.jp/arona_report2/",
-        "start_time": 1607303579,
-        "end_time": 1607303579
-      },
-      {
-        "id": 14,
-        "line_type": "JP",
-        "title": "日服开服延期",
-        "image": "",
-        "body_summary": "【リリース時期変更のお知らせ】 2020年内に予定していた『ブルーアーカイブ -Blue Archive-』のリリースを、2021年初頭に変更させていただきます。 楽しみにお待ちいただいていた皆さまに",
-        "type": "Trivia",
-        "url": "twitter.com/Blue_ArchiveJP/status/1335856811342065664",
-        "start_time": 1607303270,
-        "end_time": 1607303270
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578209,
+  "time": 1793673461,
   "version": "v1.0.0-beta.43"
 }

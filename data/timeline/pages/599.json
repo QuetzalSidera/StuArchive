@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 46,
+        "line_type": "JP",
+        "title": "卡池「悪は一日にして成らず」",
+        "image": "https://static.kivo.wiki/images/timeline/1IVqIVAs099KT7kiU7ufsPoMSILKPNI8.jpg",
+        "body_summary": "【ピックアップ募集・予告】 期間限定のピックアップ募集「悪は一日にして成らず」がまもなく開催されます！ 🔷開催期間 2021年3月18日(木) メンテナンス後 ~ 2021年3月25日(木)メンテナン",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1371733045762433024?s=20",
+        "start_time": 1616059262,
+        "end_time": 1679736062
+      },
+      {
+        "id": 45,
+        "line_type": "JP",
+        "title": "主线剧情Vol.1「対策委員会」篇第2章「失ったもの、手放さなかったもの」后篇更新",
+        "image": "https://static.kivo.wiki/images/timeline/2cfm9UScNuhoE18WPzDeYgpyJMY5TA7m.jpg",
+        "body_summary": "【メインストーリー更新・予告】 これは…昔のホシノさんでしょうか… 現在とは雰囲気も違いますが、一体何が…？ ※メインストーリー「対策委員会編 CHAPTER2」の11話 - 20話は3月18日以降の",
+        "type": "MainStory",
+        "url": "x.com/Blue_ArchiveJP/status/1371712940525592583?s=20",
+        "start_time": 1616059197,
+        "end_time": 1616059197
+      },
       {
         "id": 43,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1367423731199475714?s=20",
         "start_time": 1614847983,
         "end_time": 1614847983
-      },
-      {
-        "id": 33,
-        "line_type": "JP",
-        "title": "特别依赖2倍#1",
-        "image": "https://static.kivo.wiki/images/timeline/xB8ezgmBYkszRxP38hSy01E0Au5dEcyi.jpeg",
-        "body_summary": "【キャンペーン予告】 3月4日(木)04:00から、「特別依頼」でレポートとクレジットのドロップ量が2倍になるキャンペーンが開催されます！ また、初開催を記念して期間中毎日「AP×80」を特別手当とし",
-        "type": "Double",
-        "url": "x.com/blue_archivejp/status/1367022106471370753?s=46&t=JCAusYy30IlDEGpeUVCB0g",
-        "start_time": 1614836139,
-        "end_time": 1615440939
-      },
-      {
-        "id": 29,
-        "line_type": "JP",
-        "title": "例行维护 #5",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/4(木) 14:00 〜 18:00 ▼詳細 bluearchiv",
-        "type": "Maintenance",
-        "url": "x.com/blue_archivejp/status/1367019655819313155?s=46&t=JCAusYy30IlDEGpeUVCB0g",
-        "start_time": 1614835717,
-        "end_time": 1614835717
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578204,
+  "time": 1793673457,
   "version": "v1.0.0-beta.43"
 }

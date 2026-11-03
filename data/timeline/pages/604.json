@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 15,
+        "line_type": "JP",
+        "title": "阿罗娜通信Vol.2（CBT测试报告）",
+        "image": "https://static.kivo.wiki/images/timeline/oTX3aNAfLcVU4fcy5hhaf5alWRpJBgS6.jpg",
+        "body_summary": "【アロナ通信vol.2】 アロナ通信第2回の公開です！ CBTから今まで、どの様な改善を行ってきたのか！ 開発陣からの特別ゲストを迎えてご紹介します！ 記事の最後にはちょっとしたサプライズもあるので、",
+        "type": "WebEvent",
+        "url": "bluearchive.jp/arona_report2/",
+        "start_time": 1607303579,
+        "end_time": 1607303579
+      },
+      {
+        "id": 14,
+        "line_type": "JP",
+        "title": "日服开服延期",
+        "image": "",
+        "body_summary": "【リリース時期変更のお知らせ】 2020年内に予定していた『ブルーアーカイブ -Blue Archive-』のリリースを、2021年初頭に変更させていただきます。 楽しみにお待ちいただいていた皆さまに",
+        "type": "Trivia",
+        "url": "twitter.com/Blue_ArchiveJP/status/1335856811342065664",
+        "start_time": 1607303270,
+        "end_time": 1607303270
+      },
       {
         "id": 13,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "",
         "start_time": 1595863586,
         "end_time": 1595863586
-      },
-      {
-        "id": 2,
-        "line_type": "JP",
-        "title": "日服推特首次宣发（推文）",
-        "image": "https://static.kivo.wiki/images/timeline/GeruCGg9cJUtogfSGVyeknpyEErhkIq3.png",
-        "body_summary": "日服推特的第一条推文，蔚蓝档案的开始",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1283959657816449024",
-        "start_time": 1594994968,
-        "end_time": 1594994968
-      },
-      {
-        "id": 989,
-        "line_type": "JP",
-        "title": "游戏名正式确定为《Blue Archive（蔚蓝档案）》",
-        "image": "https://static.kivo.wiki/images/timeline/QqgtygHC5W8tOH2ySEO28ZkXgKtg1tEG.png",
-        "body_summary": "据悉，由手游《HIT：我守护的一切》的开发商韩国NATGames开发中的RPG手游《Project MX》（暂译：MX计划）的正式名称很可能就是《Blue Archive》（暂译：蓝色档案）。 近日，",
-        "type": "Trivia",
-        "url": "www.thisisgame.com/webzine/news/nboard/4/?n=103699",
-        "start_time": 1587355506,
-        "end_time": 1587355506
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578210,
+  "time": 1793673462,
   "version": "v1.0.0-beta.43"
 }

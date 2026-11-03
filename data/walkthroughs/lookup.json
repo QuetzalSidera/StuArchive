@@ -2,17 +2,190 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-11-01T21:42:47Z",
+  "generated_at": "2026-11-03T00:32:08Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 106,
-  "alias_count": 106,
-  "normalized_alias_count": 106,
+  "total_items": 107,
+  "alias_count": 107,
+  "normalized_alias_count": 107,
   "by_id": {
+    "144": {
+      "id": 144,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 144,
+        "user": {
+          "id": 16508,
+          "user_name": "UshioNoai",
+          "introduction": ".",
+          "avatar": "https://static.kivo.wiki/images/avatar/16508/gCHAdqcZauNOsbRKRbXU606nER8hKFT2.png"
+        },
+        "title": "二档红甲总力战（轮椅流）",
+        "server": "Japan",
+        "game_mode": "Raid",
+        "enemy_defensive_attributes": "Light",
+        "level_terrain": "Other",
+        "introduce_summary": "纯轮椅，没有操作，没有168，可以换礼奈，如果想进一步提升输出，偶像玛丽，可以换礼服亚子，随便想的一个阵容，不喜勿喷",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 42,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 612,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 646,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 498,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 645,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10,
+                  0
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 609,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              42,
+              645,
+              609
+            ],
+            "timeline": []
+          }
+        ],
+        "reference_score": 1500000,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 0,
+        "created_at": 1793658539,
+        "updated_at": 1793658539
+      },
+      "detail_path": "walkthroughs/144.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/144.json"
+    },
     "143": {
       "id": 143,
       "source_path": "walkthroughs/index.json",
@@ -28084,6 +28257,9 @@
     }
   },
   "by_alias": {
+    "二档红甲总力战(轮椅流)": [
+      "144"
+    ],
     "新手": [
       "143"
     ],
@@ -28404,6 +28580,9 @@
     ]
   },
   "by_normalized_alias": {
+    "二档红甲总力战(轮椅流)": [
+      "144"
+    ],
     "新手": [
       "143"
     ],

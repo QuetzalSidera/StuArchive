@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 33,
+        "line_type": "JP",
+        "title": "特别依赖2倍#1",
+        "image": "https://static.kivo.wiki/images/timeline/xB8ezgmBYkszRxP38hSy01E0Au5dEcyi.jpeg",
+        "body_summary": "【キャンペーン予告】 3月4日(木)04:00から、「特別依頼」でレポートとクレジットのドロップ量が2倍になるキャンペーンが開催されます！ また、初開催を記念して期間中毎日「AP×80」を特別手当とし",
+        "type": "Double",
+        "url": "x.com/blue_archivejp/status/1367022106471370753?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1614836139,
+        "end_time": 1615440939
+      },
+      {
+        "id": 29,
+        "line_type": "JP",
+        "title": "例行维护 #5",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 3/4(木) 14:00 〜 18:00 ▼詳細 bluearchiv",
+        "type": "Maintenance",
+        "url": "x.com/blue_archivejp/status/1367019655819313155?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1614835717,
+        "end_time": 1614835717
+      },
       {
         "id": 35,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1364514800219287553",
         "start_time": 1614157020,
         "end_time": 1614157020
-      },
-      {
-        "id": 71,
-        "line_type": "JP",
-        "title": "炸服8",
-        "image": "",
-        "body_summary": "【臨時メンテナンスのお知らせ】 総力戦順位報酬を受け取れない不具合の修正及び次回総力戦の開催期間調整のため、下記の時間に臨時メンテナンスを行います。 ご理解ご協力の程よろしくお願いいたします。 ▼実施",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1364047406396960771",
-        "start_time": 1614099600,
-        "end_time": 1614110400
-      },
-      {
-        "id": 65,
-        "line_type": "JP",
-        "title": "炸服7",
-        "image": "",
-        "body_summary": "【通信障害】 先ほど、クラウドサーバー運営側から東京リージョンに障害が起きている連絡を受けました。 しばらくの間、接続が不安定になる可能性がございます。 回復次第、再度報告いたします。 ご迷惑をおかけ",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1362833498373988352",
-        "start_time": 1613756160,
-        "end_time": 1613763600
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578205,
+  "time": 1793673458,
   "version": "v1.0.0-beta.43"
 }

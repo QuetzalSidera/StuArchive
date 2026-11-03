@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 591,
+        "line_type": "JP",
+        "title": "例行维护63",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約5GB(上書きアップデートの場合約4.5GB)のデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1627913299244490753",
+        "start_time": 1677034800,
+        "end_time": 1677063600
+      },
+      {
+        "id": 1814,
+        "line_type": "JP",
+        "title": "特别依赖2倍##27",
+        "image": "https://static.kivo.wiki/images/timeline/LgdG8DvJq5mHscmBJmRUvyF5KCtQCW18.jpg",
+        "body_summary": "【新情報⑧】 先生、2/22(水)メンテナンス後からしばらくの間の報酬2倍キャンペーンをまとめました！ ゲーム内の「キャンペーン確認」ボタンにてもそれぞれの開催時期を確認することができますので、ぜひ欲",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1626897793930653696",
+        "start_time": 1677009630,
+        "end_time": 1677614370
+      },
       {
         "id": 1334,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1624966736532623362",
         "start_time": 1676430000,
         "end_time": 1677009599
-      },
-      {
-        "id": 586,
-        "line_type": "JP",
-        "title": "课程表3倍 #6 学院交流会3倍 #6",
-        "image": "https://static.kivo.wiki/images/timeline/jvgpkQag1XMhCLpZVOUpcp9lJKhQx11O.jpg",
-        "body_summary": "【キャンペーン予告】 2月15日(水)4:00より、2nd Anniversaryを記念して「スケジュール」と「学園交流会」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ぜひこの機会に、",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1625057260903997441",
-        "start_time": 1676404800,
-        "end_time": 1677009599
-      },
-      {
-        "id": 585,
-        "line_type": "JP",
-        "title": "任务Normal3倍#6",
-        "image": "https://static.kivo.wiki/images/timeline/DTY6p8Y6EWoXTIgD8Lveu1iVtnlrEA6X.jpg",
-        "body_summary": "【キャンペーン予告】 2月15日(水)4:00より、「任務(Normal)」での報酬ドロップ量が3倍になるキャンペーンが開催されます！ ▼開催期間 2月15日(水)4:00〜2月19日(日)3:59 ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1625042271044517889",
-        "start_time": 1676404800,
-        "end_time": 1676750399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578079,
+  "time": 1793673349,
   "version": "v1.0.0-beta.43"
 }

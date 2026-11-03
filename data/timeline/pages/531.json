@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 427,
+        "line_type": "JP",
+        "title": "例行维护51",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 9/7(水)11:00 〜 17:00前後 ▼詳細 https://bl",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1567029849491124226",
+        "start_time": 1662519600,
+        "end_time": 1662541200
+      },
+      {
+        "id": 424,
+        "line_type": "JP",
+        "title": "指名手配2倍#19 & 课程表2倍#6",
+        "image": "https://static.kivo.wiki/images/timeline/ndZTA4ZQG9R5svrYZGbjDvmkQKVoflLI.jpg",
+        "body_summary": "【キャンペーン予告】 「指名手配」ならびに「スケジュール」でのドロップ量が2倍になるキャンペーンが9月7日(水)4:00より開催されます！ 生徒さん達の育成に必要な素材が多く獲得できるこのチャンスを、",
+        "type": "Double",
+        "url": "twitter.com/Blue_ArchiveJP/status/1565535593081106432",
+        "start_time": 1662494400,
+        "end_time": 1663099199
+      },
       {
         "id": 1170,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1565987848917884929",
         "start_time": 1662192057,
         "end_time": 1662807657
-      },
-      {
-        "id": 421,
-        "line_type": "JP",
-        "title": "市街地戦・ヒエロニムス3",
-        "image": "https://static.kivo.wiki/images/timeline/bTtoJpCXH12GUfTuZwnjInwoz5Im8pi9.jpg",
-        "body_summary": "【総力戦・予告】 8月31日(水)11:00より、「市街地戦・ヒエロニムス」が開催します！ 先日のアップデートにて、テイラーメイドに新たに「ヒエロニムスのトロフィー」を素材に製造できる「トロフィースタ",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1563360859082326018",
-        "start_time": 1661914800,
-        "end_time": 1662494399
-      },
-      {
-        "id": 422,
-        "line_type": "JP",
-        "title": "特别依赖2倍#21",
-        "image": "https://static.kivo.wiki/images/timeline/EnLDHUPS0UA70MVRdiwehiGT1KbtO7jG.jpg",
-        "body_summary": "【キャンペーン予告】 まもなく「特別依頼」において各種「レポート」や「クレジット」のドロップ量が2倍になるキャンペーンが開催されます！ ▼開催期間 2022/8/31(水)4:00 ~ 2022/9/",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1563723150629945345",
-        "start_time": 1661889600,
-        "end_time": 1662494399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578120,
+  "time": 1793673385,
   "version": "v1.0.0-beta.43"
 }

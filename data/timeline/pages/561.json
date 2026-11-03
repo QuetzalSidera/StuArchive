@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 264,
+        "line_type": "JP",
+        "title": "活动「どたばたシスターと古書館の魔術師」",
+        "image": "https://static.kivo.wiki/images/timeline/GUD2kTJWsvjxXbARMcDAvhRfiPcw0w9Q.png",
+        "body_summary": "【新イベント予告】 先生！トリニティにて歴史的価値がある「経典」が発見されたみたいですよ！ぜひお披露目会に参加しましょう！ 新イベント「どたばたシスターと古書館の魔術師」まもなく開催です！ ???「私",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1494145101102084096",
+        "start_time": 1645614000,
+        "end_time": 1646798400
+      },
+      {
+        "id": 269,
+        "line_type": "JP",
+        "title": "例行维护37",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/23(水) 11:00 〜 19:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1496001825601830913",
+        "start_time": 1645585200,
+        "end_time": 1645614000
+      },
       {
         "id": 266,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1494204968991178760",
         "start_time": 1645470000,
         "end_time": 1646060340
-      },
-      {
-        "id": 267,
-        "line_type": "JP",
-        "title": "活动「どたばたシスターと古書館の魔術師」PV公开",
-        "image": "",
-        "body_summary": "【イベントPV】 新イベントのPVを公開します！ トリニティの発掘区域にて発見された1冊の「経典」が巻き起こすドタバタ劇をどうぞお楽しみにしていてください！ 先生、図書館を利用する際はお静かにですよ？",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1495594397215629314",
-        "start_time": 1645416060,
-        "end_time": 1645416060
-      },
-      {
-        "id": 265,
-        "line_type": "JP",
-        "title": "任务Hard3倍#3",
-        "image": "https://static.kivo.wiki/images/timeline/7cgv1J1J9hXnBW3eLpUj7chke7AMDKon.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Hard)」のドロップ量が3倍になるキャンペーンがまもなく開催されます！ 🔹開催期間 2月20日(日)04:00～2月23日(水)03:59 1stアニバーサリー最後のキ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1494507293362167810",
-        "start_time": 1645300800,
-        "end_time": 1645559999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578157,
+  "time": 1793673417,
   "version": "v1.0.0-beta.43"
 }

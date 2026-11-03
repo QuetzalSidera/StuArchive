@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3,
+        "line_type": "Globle",
+        "title": "国际服推特账号开通",
+        "image": "",
+        "body_summary": "",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive",
+        "start_time": 1625148905,
+        "end_time": 1625148905
+      },
+      {
+        "id": 2559,
+        "line_type": "JP",
+        "title": "屋内戦・シロ＆クロ",
+        "image": "https://static.kivo.wiki/images/timeline/vDORUnV6e07vuctG370ZUdGwxzRTPECe.jpg",
+        "body_summary": "【総力戦・予告】 6月30日(水)メンテナンス終了後、「屋内戦・シロ＆クロ」が開催されます！ 順位に応じて「シロ＆クロ(屋内戦)のトロフィー」が獲得できるチャンスです！ 先生のご活躍を期待してますので",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1409708784394543112",
+        "start_time": 1625054424,
+        "end_time": 1625673564
+      },
       {
         "id": 946,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1405374906146037764",
         "start_time": 1624219200,
         "end_time": 1624478399
-      },
-      {
-        "id": 108,
-        "line_type": "JP",
-        "title": "任务Normal2倍#4",
-        "image": "https://static.kivo.wiki/images/timeline/hMVWc3eoBGylgbcKnBtgcH8R7nBABfch.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」のドロップ量が2倍になるキャンペーンがまもなく開催されます！ ▼開催期間 6月17日(木)04:00〜6月21日(月)03:59 この機会に生徒さんの装備",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1404287756939849737",
-        "start_time": 1623873600,
-        "end_time": 1624219199
-      },
-      {
-        "id": 107,
-        "line_type": "JP",
-        "title": "炸服12",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 ただいま、臨時メンテナンスを実施しております。 メンテナンス中はゲームをご利用いただくことができませんため、ご注意ください。 終了時間は17:30前後を予定しております。 ▼詳細",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1403238302640066560",
-        "start_time": 1623389400,
-        "end_time": 1623403800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578194,
+  "time": 1793673448,
   "version": "v1.0.0-beta.43"
 }

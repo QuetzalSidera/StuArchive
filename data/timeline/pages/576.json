@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 855,
+        "line_type": "Globle",
+        "title": "国际服违规账号封禁1",
+        "image": "",
+        "body_summary": "[Notice] We have restricted game play and removed rankings of those who were attempting abnormal pla",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1464057353909587968",
+        "start_time": 1637893440,
+        "end_time": 1637893440
+      },
+      {
+        "id": 210,
+        "line_type": "JP",
+        "title": "屋内戦・ペロロジラ2",
+        "image": "https://static.kivo.wiki/images/timeline/WEmnDgFDl2UKxnL68RNU0zi8T5bLtO3L.jpg",
+        "body_summary": "【総力戦予告】 11月24日(水)12:30より「屋内戦・ペロロジラ」が開催されます！ 今回は短期決戦のため、挑戦期間ならびに報酬の受け取り期間がいつもより短くなっております。 集計後の報酬取り忘れに",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1461545277375270913",
+        "start_time": 1637728200,
+        "end_time": 1638028799
+      },
       {
         "id": 211,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1460472743154286592",
         "start_time": 1637143200,
         "end_time": 1638244800
-      },
-      {
-        "id": 852,
-        "line_type": "Globle",
-        "title": "国际服阿露动画PV公开",
-        "image": "",
-        "body_summary": "[Blue Archive - Character PVAru ⬇️Official Youtube⬇️ https://youtu.be/DGSAJNDTa08",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1460895489109417984",
-        "start_time": 1637139600,
-        "end_time": 1637139600
-      },
-      {
-        "id": 208,
-        "line_type": "JP",
-        "title": "例行维护29",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 11/17(水) 12:00 〜 18:00前後 ▼詳細 https:/",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1460487817201844226",
-        "start_time": 1637121600,
-        "end_time": 1637143200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578176,
+  "time": 1793673433,
   "version": "v1.0.0-beta.43"
 }

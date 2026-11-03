@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-11-01T21:42:47Z",
+  "generated_at": "2026-11-03T00:32:08Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6045,
-  "alias_count": 6035,
-  "normalized_alias_count": 6027,
+  "total_items": 6047,
+  "alias_count": 6037,
+  "normalized_alias_count": 6029,
   "by_id": {
     "6180": {
       "id": 6180,
@@ -265,6 +265,24 @@
       "detail_path": "timeline/6212.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6212.json"
     },
+    "6216": {
+      "id": 6216,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6216,
+        "line_type": "JP",
+        "title": "学生生日日历-2026年11月",
+        "image": "https://static.kivo.wiki/images/timeline/89uNwCB3diRuIuOpEXxzFnK9Bi6btP3x.jpg",
+        "body_summary": "【カレンダー】 先生、2026年11月の誕生日カレンダーをご用意しました！ ぜひお役立てください。 最近、段々と寒さを感じられるような季節になって来ましたね。 ここからはあっという間に気温も低くくなり",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2116802551849029984",
+        "start_time": 1793520000,
+        "end_time": 1793520000
+      },
+      "detail_path": "timeline/6216.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6216.json"
+    },
     "6167": {
       "id": 6167,
       "source_path": "timeline/index.json",
@@ -282,24 +300,6 @@
       },
       "detail_path": "timeline/6167.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6167.json"
-    },
-    "6209": {
-      "id": 6209,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6209,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编阿罗娜旗袍换装回 #40",
-        "image": "https://static.kivo.wiki/images/timeline/08uw0iNN0z1PVheAHoD61SsnnZ9nTzFr.jpg",
-        "body_summary": "Cuteness Over...sized😱 ➡️ Watch Full VOD (Stream #40): https://youtube.com/live/wyLullkg1_o #BlueArc",
-        "type": "Live",
-        "url": "x.com/EN_BlueArchive/status/2116002165336560026",
-        "start_time": 1793367718,
-        "end_time": 1793367718
-      },
-      "detail_path": "timeline/6209.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6209.json"
     },
     "6208": {
       "id": 6208,
@@ -480,6 +480,42 @@
       },
       "detail_path": "timeline/6194.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6194.json"
+    },
+    "6215": {
+      "id": 6215,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6215,
+        "line_type": "JP",
+        "title": "违规账号封禁 #61",
+        "image": "https://static.kivo.wiki/images/timeline/eCMQTHWzrepUkyfSx3MFBb06D4RMLWC1.jpg",
+        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+        "type": "Other",
+        "url": "x.com/Blue_ArchiveJP/status/2115398426368397733",
+        "start_time": 1793185200,
+        "end_time": 1793185200
+      },
+      "detail_path": "timeline/6215.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6215.json"
+    },
+    "6214": {
+      "id": 6214,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6214,
+        "line_type": "JP",
+        "title": "例行维护#153",
+        "image": "https://static.kivo.wiki/images/timeline/dH5iDismsnAKUQrOjaXKKoZ18B8v8khk.png",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年10月28日(水) 11:00 〜 19:00前後 ▼詳細 h",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/2114960451859849431",
+        "start_time": 1793156400,
+        "end_time": 1793185200
+      },
+      "detail_path": "timeline/6214.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6214.json"
     },
     "6176": {
       "id": 6176,
@@ -704,7 +740,7 @@
       "item": {
         "id": 6155,
         "line_type": "Globle",
-        "title": "国际服例行维护 #123",
+        "title": "国际服例行维护 #122",
         "image": "https://static.kivo.wiki/images/timeline/aKymv6AQxnUZh6K5rpp6BQT41OlEUmpd.png",
         "body_summary": "[10/27 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/27 (Tue). 🗓️Main",
         "type": "Maintenance",
@@ -108867,11 +108903,11 @@
     "国际服任务Normal2倍 #53": [
       "6212"
     ],
+    "学生生日日历-2026年11月": [
+      "6216"
+    ],
     "老师经验2倍集中通知#32": [
       "6167"
-    ],
-    "国际服Arcie小编阿罗娜旗袍换装回 #40": [
-      "6209"
     ],
     "国际服万圣节礼物": [
       "6208"
@@ -108902,6 +108938,12 @@
     ],
     "限时招募【星星啊,凝视吧!驰骋于梦境的魔导之笔!】": [
       "6194"
+    ],
+    "违规账号封禁 #61": [
+      "6215"
+    ],
+    "例行维护#153": [
+      "6214"
     ],
     "「仮想適性試験BETA版」实装": [
       "6176"
@@ -108939,7 +108981,7 @@
     "国际服卡池复刻「Ah, Sensei There You are I'l always give eVerything I have to the job.」&「I hate to be a bother. I'm sorry!」": [
       "6199"
     ],
-    "国际服例行维护 #123": [
+    "国际服例行维护 #122": [
       "6155"
     ],
     "国际服卡池复刻「So this is the ocean...」": [
@@ -126985,11 +127027,11 @@
     "国际服任务normal2倍#53": [
       "6212"
     ],
+    "学生生日日历-2026年11月": [
+      "6216"
+    ],
     "老师经验2倍集中通知#32": [
       "6167"
-    ],
-    "国际服arcie小编阿罗娜旗袍换装回#40": [
-      "6209"
     ],
     "国际服万圣节礼物": [
       "6208"
@@ -127020,6 +127062,12 @@
     ],
     "限时招募【星星啊,凝视吧!驰骋于梦境的魔导之笔!】": [
       "6194"
+    ],
+    "违规账号封禁#61": [
+      "6215"
+    ],
+    "例行维护#153": [
+      "6214"
     ],
     "「仮想適性試験beta版」实装": [
       "6176"
@@ -127057,7 +127105,7 @@
     "国际服卡池复刻「ah,senseithereyouarei'lalwaysgiveeverythingihavetothejob.」&「ihatetobeabother.i'msorry!」": [
       "6199"
     ],
-    "国际服例行维护#123": [
+    "国际服例行维护#122": [
       "6155"
     ],
     "国际服卡池复刻「sothisistheocean...」": [

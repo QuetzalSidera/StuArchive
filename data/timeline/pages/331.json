@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2800,
+        "line_type": "JP",
+        "title": "例行维护98",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 7/10(水) 11:00 〜 17:00前後 ▼詳細 https://",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1810554579731562942",
+        "start_time": 1720580400,
+        "end_time": 1720602000
+      },
+      {
+        "id": 2798,
+        "line_type": "JP",
+        "title": "任务Hard2倍#36 & 指名手配2倍#38",
+        "image": "https://static.kivo.wiki/images/timeline/gzAKqLDPmGuFM71tsNmKodqu1SBZKZgb.jpg",
+        "body_summary": "【キャンペーン予告】 7月10日(水)4:00より、「任務(Hard)」及び「指名手配」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 7月10日(水)4:00 ～7月17日(水",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1810237716493431193",
+        "start_time": 1720555200,
+        "end_time": 1721159999
+      },
       {
         "id": 2795,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1809104929274872265",
         "start_time": 1720519221,
         "end_time": 1721095221
-      },
-      {
-        "id": 2794,
-        "line_type": "Globle",
-        "title": "国际服活动「Balancing Schale's Books with the General Student Council」6",
-        "image": "https://static.kivo.wiki/images/timeline/MXxtWEDZfTqaty6MCZFcXpE6a4OWtctQ.jpg",
-        "body_summary": "[Mini Event Notice] Balancing Schale's Books with the General Student Council is back! Earn enhancem",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1810549442929729847",
-        "start_time": 1720504832,
-        "end_time": 1721700032
-      },
-      {
-        "id": 2791,
-        "line_type": "Globle",
-        "title": "国际服例行维护64",
-        "image": "",
-        "body_summary": "[7/9 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 7/9 (Tue). 🗓️Maintena",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1809150224788582566",
-        "start_time": 1720490455,
-        "end_time": 1720504855
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793577882,
+  "time": 1793673178,
   "version": "v1.0.0-beta.43"
 }

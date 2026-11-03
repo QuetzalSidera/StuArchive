@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1291,
+        "line_type": "Globle",
+        "title": "国际服联合火力演习4",
+        "image": "https://static.kivo.wiki/images/timeline/9dLH2MjM63lQZy9Q0mWIldGXO37bEhM0.jpg",
+        "body_summary": "[Joint Firing Drill Preview] The Joint Firing Drill (Shooting Drill) will start on 1/10 (Tue)! https",
+        "type": "MiniBattle",
+        "url": "twitter.com/EN_BlueArchive/status/1610531482283425794",
+        "start_time": 1673316022,
+        "end_time": 1673895562
+      },
+      {
+        "id": 1292,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍12 hard2倍12",
+        "image": "https://static.kivo.wiki/images/timeline/R0EYNsmpTfKiBnpccsLIcftStno1obdE.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1611981026141560835",
+        "start_time": 1673290804,
+        "end_time": 1673895544
+      },
       {
         "id": 536,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1608719661469732864",
         "start_time": 1672729201,
         "end_time": 1672729201
-      },
-      {
-        "id": 1289,
-        "line_type": "Globle",
-        "title": "国际服例行维护29",
-        "image": "",
-        "body_summary": "[Maintenance Notice] We're currently under our 1/3 (Tue) scheduled maintenance, Sensei. The game is ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1610108692770299904",
-        "start_time": 1672711682,
-        "end_time": 1672729682
-      },
-      {
-        "id": 1282,
-        "line_type": "Globle",
-        "title": "国际服总力战 Hieronymus (Indoor) 3",
-        "image": "https://static.kivo.wiki/images/timeline/OoC5uo6IXKNDxHRKxSi7DjzMSzJCePQr.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - Hieronymus(Indoor Warfare) will start on 1/3 (Tue)! http",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1607994886350950403",
-        "start_time": 1672711250,
-        "end_time": 1673290790
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578092,
+  "time": 1793673360,
   "version": "v1.0.0-beta.43"
 }

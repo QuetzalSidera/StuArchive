@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2841,
+        "line_type": "Globle",
+        "title": "韩国 GS25联动",
+        "image": "https://static.kivo.wiki/images/timeline/ZwlCjQRnfoxaVFDgNDB5igEqNMVouUzE.jpg",
+        "body_summary": "[GS25 제휴 이벤트 안내] 7/1(월) 오전 10시부터 '우리동네 GS 스탬프 이벤트(7월)'가 시작됩니다! 자세한 내용은 아래 공지를 꼭 확인해 주세요~! ➡️상세 내용: h",
+        "type": "OutsideGames",
+        "url": "x.com/KR_BlueArchive/status/1806568224919556152",
+        "start_time": 1714708826,
+        "end_time": 1719806426
+      },
+      {
+        "id": 2607,
+        "line_type": "JP",
+        "title": "网页小游戏：Millennium Logic",
+        "image": "https://static.kivo.wiki/images/timeline/kSZzZzXCymjtmN1MeBKju8mAop46W6We.jpg",
+        "body_summary": "【 #ミレニアムロジック】 先生！モモイさんから連絡が来ています！ どうやら新作ゲームのテストプレイをして欲しいそうです。 クリアするとゲーム内アイテムと交換できるシリアルコードがもらえるようですよ！",
+        "type": "WebEvent",
+        "url": "x.com/Blue_ArchiveJP/status/1795712228978827771",
+        "start_time": 1714656317,
+        "end_time": 1725015600
+      },
       {
         "id": 2515,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1781632631299616798",
         "start_time": 1714532449,
         "end_time": 1715111989
-      },
-      {
-        "id": 2474,
-        "line_type": "JP",
-        "title": "总力战、大决战部分功能改进",
-        "image": "https://static.kivo.wiki/images/timeline/BZn7QL1kyYHrihAwuwRAl5S8DoSpK40T.jpg",
-        "body_summary": "【新情報 ⑱】 今回のアップデート以降、「総力戦」及び「大決戦」にて一部改善が予定されています！ 詳細情報、及び改善適用日時についてはこちらの画像にてご確認ください！ #ブルアカ #ブルアカらいぶいと",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1781636705323487454",
-        "start_time": 1714532425,
-        "end_time": 1714532425
-      },
-      {
-        "id": 2447,
-        "line_type": "CN",
-        "title": "签到活动【悠游假日礼赠】",
-        "image": "https://static.kivo.wiki/images/timeline/ytnExdNbhCpdVxj6eVCgdi4RY1DWdBQd.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 悠游假日礼赠即将开启！活动期间累计登录游戏，即可获得大量信用积分和青辉石！ 可千万不要错过啦！ ■ 活动时间 05月01日 04:00 ~ 05月16日 03:59 ",
-        "type": "Event",
-        "url": "bluearchive-cn.com/news/694",
-        "start_time": 1714507248,
-        "end_time": 1715803248
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793577911,
+  "time": 1793673203,
   "version": "v1.0.0-beta.43"
 }

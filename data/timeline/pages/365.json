@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2313,
+        "line_type": "JP",
+        "title": "联合火力演习26",
+        "image": "https://static.kivo.wiki/images/timeline/yH1AMFuzYtLRNii9srGYWqFIPv8j5cDt.jpg",
+        "body_summary": "【新情報 ⑦】 4月11日(木)メンテナンス後より、合同火力演習「突破演習」が開始します！ 今回開催される「突破演習」では、弾力装甲を持つ敵が登場するのでご注意ください！ ▼開催期間 2024/4/1",
+        "type": "MiniBattle",
+        "url": "twitter.com/Blue_ArchiveJP/status/1771873370583556518",
+        "start_time": 1712829600,
+        "end_time": 1713297599
+      },
+      {
+        "id": 2312,
+        "line_type": "JP",
+        "title": "活动「放課後スイーツ物語 甘い秘密と銃撃戦」常驻化",
+        "image": "https://static.kivo.wiki/images/timeline/OR2D0ZYAUvUgF4XxHOK6zskbDr7AyZp5.jpg",
+        "body_summary": "【新情報 ④】 4月11日(木)メンテナンス後より、期間限定イベント「放課後スイーツ物語 甘い秘密と銃撃戦」が常設化イベントに追加されます！ 隠されし「キャスパリーグ」の異名、その過去とは一体……？？",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1771871033907376596",
+        "start_time": 1712829600,
+        "end_time": 1712829600
+      },
       {
         "id": 2431,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/O8TAK6595",
         "start_time": 1712779232,
         "end_time": 1713384032
-      },
-      {
-        "id": 2429,
-        "line_type": "JP",
-        "title": "任务Normal2倍#35",
-        "image": "https://static.kivo.wiki/images/timeline/CygvLF2J0jcSYpCc9kFEESqI9xU8lwv3.jpg",
-        "body_summary": "【キャンペーン予告】 4月11日(木)4:00より、「任務(Normal)」の報酬ドロップ量が2倍になるキャンペーンが開催されます！ 🔷開催期間 4月11日(木)4:00 ～4月17日(水)3:59 ",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1777260399915901234/",
-        "start_time": 1712779200,
-        "end_time": 1713297599
-      },
-      {
-        "id": 2438,
-        "line_type": "CN",
-        "title": "封禁公示说明17",
-        "image": "https://static.kivo.wiki/images/timeline/FrUSJzNZ1gfMa55UDsutd3hgMt40KE2P.png",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证各位老师的游戏体验与账号安全，联邦理事会将会一直严厉打击任何以不正当手段破坏游戏公平性的行为，绝不容忍任何外挂、非法第三方工具在基沃托斯出现。致力于为老师提供绿",
-        "type": "Other",
-        "url": "bluearchive-cn.com/news/689",
-        "start_time": 1712635207,
-        "end_time": 1712635207
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793577923,
+  "time": 1793673213,
   "version": "v1.0.0-beta.43"
 }

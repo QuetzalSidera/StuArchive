@@ -7,12 +7,12 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-11-01T21:42:47Z",
+  "generated_at": "2026-11-03T00:32:08Z",
   "list_key": "timeline",
   "id_key": "id",
   "max_page": 605,
   "synced_pages": 605,
-  "total_items": 6045,
+  "total_items": 6047,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
@@ -171,6 +171,17 @@
       "end_time": 1794232289
     },
     {
+      "id": 6216,
+      "line_type": "JP",
+      "title": "学生生日日历-2026年11月",
+      "image": "https://static.kivo.wiki/images/timeline/89uNwCB3diRuIuOpEXxzFnK9Bi6btP3x.jpg",
+      "body_summary": "【カレンダー】 先生、2026年11月の誕生日カレンダーをご用意しました！ ぜひお役立てください。 最近、段々と寒さを感じられるような季節になって来ましたね。 ここからはあっという間に気温も低くくなり",
+      "type": "OutsideGames",
+      "url": "x.com/Blue_ArchiveJP/status/2116802551849029984",
+      "start_time": 1793520000,
+      "end_time": 1793520000
+    },
+    {
       "id": 6167,
       "line_type": "JP",
       "title": "老师经验2倍集中通知#32",
@@ -180,17 +191,6 @@
       "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
       "start_time": 1793390400,
       "end_time": 1794167999
-    },
-    {
-      "id": 6209,
-      "line_type": "Globle",
-      "title": "国际服Arcie小编阿罗娜旗袍换装回 #40",
-      "image": "https://static.kivo.wiki/images/timeline/08uw0iNN0z1PVheAHoD61SsnnZ9nTzFr.jpg",
-      "body_summary": "Cuteness Over...sized😱 ➡️ Watch Full VOD (Stream #40): https://youtube.com/live/wyLullkg1_o #BlueArc",
-      "type": "Live",
-      "url": "x.com/EN_BlueArchive/status/2116002165336560026",
-      "start_time": 1793367718,
-      "end_time": 1793367718
     },
     {
       "id": 6208,
@@ -301,6 +301,28 @@
       "url": "bluearchive-cn.com/news/1992",
       "start_time": 1793203200,
       "end_time": 1794463199
+    },
+    {
+      "id": 6215,
+      "line_type": "JP",
+      "title": "违规账号封禁 #61",
+      "image": "https://static.kivo.wiki/images/timeline/eCMQTHWzrepUkyfSx3MFBb06D4RMLWC1.jpg",
+      "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
+      "type": "Other",
+      "url": "x.com/Blue_ArchiveJP/status/2115398426368397733",
+      "start_time": 1793185200,
+      "end_time": 1793185200
+    },
+    {
+      "id": 6214,
+      "line_type": "JP",
+      "title": "例行维护#153",
+      "image": "https://static.kivo.wiki/images/timeline/dH5iDismsnAKUQrOjaXKKoZ18B8v8khk.png",
+      "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年10月28日(水) 11:00 〜 19:00前後 ▼詳細 h",
+      "type": "Maintenance",
+      "url": "x.com/Blue_ArchiveJP/status/2114960451859849431",
+      "start_time": 1793156400,
+      "end_time": 1793185200
     },
     {
       "id": 6176,
@@ -437,7 +459,7 @@
     {
       "id": 6155,
       "line_type": "Globle",
-      "title": "国际服例行维护 #123",
+      "title": "国际服例行维护 #122",
       "image": "https://static.kivo.wiki/images/timeline/aKymv6AQxnUZh6K5rpp6BQT41OlEUmpd.png",
       "body_summary": "[10/27 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/27 (Tue). 🗓️Main",
       "type": "Maintenance",
@@ -70746,15 +70768,15 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=605",
       "path": "timeline/pages/605.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/605.json",
-      "item_count": 5
+      "item_count": 7
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 6035,
-    "normalized_alias_count": 6027,
-    "total_items": 6045
+    "alias_count": 6037,
+    "normalized_alias_count": 6029,
+    "total_items": 6047
   }
 }

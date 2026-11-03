@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1459,
+        "line_type": "Globle",
+        "title": "国际服炸服14",
+        "image": "",
+        "body_summary": "[7/3 (Mon) Temporary Maintenance Notice] We'll be undergoing temporary maintenance on 7/3 (Mon). Mai",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1675766977305133056",
+        "start_time": 1688365819,
+        "end_time": 1688376619
+      },
+      {
+        "id": 715,
+        "line_type": "JP",
+        "title": "白子小剧场第1期",
+        "image": "https://static.kivo.wiki/images/timeline/nyvtA92Xk31EqAz7aUhvGcdk5BZGZZM5.png",
+        "body_summary": "【#ちょっと時間もらうね】 先生、おはようございます♪ さあ、一週間の始まり！月曜日ですね！ あれ？ 先生！お客さんみたいですよ！ ▼動画はこちら https://youtube.com/shorts",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1675641752131362816",
+        "start_time": 1688342700,
+        "end_time": 1688342700
+      },
       {
         "id": 1777,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1671412636972642305",
         "start_time": 1687867234,
         "end_time": 1688410834
-      },
-      {
-        "id": 1456,
-        "line_type": "Globle",
-        "title": "国际服主线关卡开放：Area21",
-        "image": "https://static.kivo.wiki/images/timeline/H0brJYFPxC9N7Usi4vYxy1GeMB6YkfFc.jpg",
-        "body_summary": "[New Mission Available Notice] Check out Mission Area 21 in the 6/27 (Tue) update, Sensei! You can o",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1673956901980196866",
-        "start_time": 1687863622,
-        "end_time": 1687863622
-      },
-      {
-        "id": 2091,
-        "line_type": "Globle",
-        "title": "国际服咖啡厅8级开放",
-        "image": "https://static.kivo.wiki/images/timeline/H0a5HwOf0WUeiHGiLOva3XugSk344NYm.jpg",
-        "body_summary": "",
-        "type": "ContentImprovements",
-        "url": "twitter.com/EN_BlueArchive/status/1673663991007117312",
-        "start_time": 1687860038,
-        "end_time": 1687860038
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578047,
+  "time": 1793673321,
   "version": "v1.0.0-beta.43"
 }

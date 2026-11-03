@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 524,
+        "line_type": "JP",
+        "title": "屋内戦・ペロロジラ4",
+        "image": "https://static.kivo.wiki/images/timeline/lsg0AY4EJZ2N7kW3gPCg8R3Yumg9B3C3.jpg",
+        "body_summary": "【総力戦予告】 先生！12月21日(水)11:00より、総力戦「屋内戦・ペロロジラ」が開催されます！ 「ペロロジラ(屋内戦)トロフィー」の獲得を目指して、巨大怪獣(？)「ペロロジラ」を撃退しましょう！",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1604673109465788417",
+        "start_time": 1671591600,
+        "end_time": 1672171199
+      },
+      {
+        "id": 1271,
+        "line_type": "Globle",
+        "title": "国际服主线Vol.3 第四章前篇更新",
+        "image": "https://static.kivo.wiki/images/timeline/Cv1DCzpmuavPWiaZysQe9p9ybYJUUgiq.jpg",
+        "body_summary": "[Update Preview] 12/20 (Tue), the Main Story Volume 3, Eden Treaty Chapter 4's 'Kyrie of the Forgott",
+        "type": "MainStory",
+        "url": "twitter.com/EN_BlueArchive/status/1603646109934669824",
+        "start_time": 1671523247,
+        "end_time": 1671523247
+      },
       {
         "id": 1273,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1605093139118559233",
         "start_time": 1671505223,
         "end_time": 1672023623
-      },
-      {
-        "id": 1275,
-        "line_type": "Globle",
-        "title": "国际服例行维护28",
-        "image": "",
-        "body_summary": "[12/20 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 12/20 ",
-        "type": "Maintenance",
-        "url": "twitter.com/EN_BlueArchive/status/1604672877571084288",
-        "start_time": 1671501613,
-        "end_time": 1671523213
-      },
-      {
-        "id": 1274,
-        "line_type": "Globle",
-        "title": "国际服课程表2倍3 学院交流会2倍3",
-        "image": "https://static.kivo.wiki/images/timeline/WkMDXIGaFEqDQQWL4MSm0MdOBSjl7ULS.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 12/19 (Mon), Schedule & Scrimmages rewards will be doubled! ",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1604370881395847168",
-        "start_time": 1671476438,
-        "end_time": 1672081178
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578095,
+  "time": 1793673363,
   "version": "v1.0.0-beta.43"
 }

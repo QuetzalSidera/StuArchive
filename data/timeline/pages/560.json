@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1043,
+        "line_type": "Globle",
+        "title": "国际服卡池「We made it to the beach aboard Crusadie!」",
+        "image": "https://static.kivo.wiki/images/timeline/RerqNzxRk0FDtUrsKFjKLlUpuzNNq80K.jpg",
+        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 3/8 (Tue). Target Pick Up Stud",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1500033373288296450",
+        "start_time": 1646730000,
+        "end_time": 1679454003
+      },
+      {
+        "id": 1039,
+        "line_type": "Globle",
+        "title": "国际服例行维护9",
+        "image": "",
+        "body_summary": "[Maintenance Notice] We're currently under our 3/8 (Tue) scheduled maintenance, Sensei. The game is ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1501029945266425856",
+        "start_time": 1646708403,
+        "end_time": 1646730003
+      },
       {
         "id": 1040,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1495986741827620869",
         "start_time": 1645614000,
         "end_time": 1646798400
-      },
-      {
-        "id": 264,
-        "line_type": "JP",
-        "title": "活动「どたばたシスターと古書館の魔術師」",
-        "image": "https://static.kivo.wiki/images/timeline/GUD2kTJWsvjxXbARMcDAvhRfiPcw0w9Q.png",
-        "body_summary": "【新イベント予告】 先生！トリニティにて歴史的価値がある「経典」が発見されたみたいですよ！ぜひお披露目会に参加しましょう！ 新イベント「どたばたシスターと古書館の魔術師」まもなく開催です！ ???「私",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1494145101102084096",
-        "start_time": 1645614000,
-        "end_time": 1646798400
-      },
-      {
-        "id": 269,
-        "line_type": "JP",
-        "title": "例行维护37",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/23(水) 11:00 〜 19:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1496001825601830913",
-        "start_time": 1645585200,
-        "end_time": 1645614000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578155,
+  "time": 1793673416,
   "version": "v1.0.0-beta.43"
 }

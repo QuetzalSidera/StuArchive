@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1289,
+        "line_type": "Globle",
+        "title": "国际服例行维护29",
+        "image": "",
+        "body_summary": "[Maintenance Notice] We're currently under our 1/3 (Tue) scheduled maintenance, Sensei. The game is ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1610108692770299904",
+        "start_time": 1672711682,
+        "end_time": 1672729682
+      },
+      {
+        "id": 1282,
+        "line_type": "Globle",
+        "title": "国际服总力战 Hieronymus (Indoor) 3",
+        "image": "https://static.kivo.wiki/images/timeline/OoC5uo6IXKNDxHRKxSi7DjzMSzJCePQr.jpg",
+        "body_summary": "[Total Assault Preview] The Total Assault - Hieronymus(Indoor Warfare) will start on 1/3 (Tue)! http",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1607994886350950403",
+        "start_time": 1672711250,
+        "end_time": 1673290790
+      },
       {
         "id": 1288,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1605892207633764352",
         "start_time": 1672218028,
         "end_time": 1673402428
-      },
-      {
-        "id": 533,
-        "line_type": "JP",
-        "title": "例行维护59",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 ▼実施日時 12/28(水) 11:00 〜 19:00前後 ▼詳細 https://bluearchive.jp/news/ne",
-        "type": "Maintenance",
-        "url": "twitter.com/Blue_ArchiveJP/status/1607617364308422656",
-        "start_time": 1672196400,
-        "end_time": 1672225200
-      },
-      {
-        "id": 530,
-        "line_type": "JP",
-        "title": "指名手配2倍#23",
-        "image": "https://static.kivo.wiki/images/timeline/fSeRDdLxFtNkKh01Wyvs9inAkH2DXqZ2.jpg",
-        "body_summary": "【キャンペーン予告】 12月28日(水)4:00より、「指名手配」でのドロップ量が2倍になるキャンペーンが開催されます！ 今年最後の2倍キャンペーンを活用して、生徒さん達の育成に必要なアイテムを集めて",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1607254913712816130",
-        "start_time": 1672171200,
-        "end_time": 1672775999
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578093,
+  "time": 1793673361,
   "version": "v1.0.0-beta.43"
 }

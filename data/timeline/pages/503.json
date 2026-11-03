@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 562,
+        "line_type": "JP",
+        "title": "例行维护61",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約5GB(上書きアップデートの場合約4GB)のデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1617401755108802560",
+        "start_time": 1674529200,
+        "end_time": 1674558000
+      },
+      {
+        "id": 1306,
+        "line_type": "Globle",
+        "title": "国际服课程表2倍4 学院交流会2倍4",
+        "image": "https://static.kivo.wiki/images/timeline/ZT97po3u7GHYIjk2iZXbFcMSFtLbG0IC.jpg",
+        "body_summary": "[Double Drop Campaign Preview] Starting 1/23 (Mon), Lesson & Scrimmages rewards will be doubled! Don",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1617054458076168192",
+        "start_time": 1674500445,
+        "end_time": 1675105185
+      },
       {
         "id": 1304,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1605911039337431045",
         "start_time": 1674390877,
         "end_time": 1674390877
-      },
-      {
-        "id": 553,
-        "line_type": "JP",
-        "title": "动画官网开放",
-        "image": "https://static.kivo.wiki/images/timeline/SriymmTE20jaVjRPK1N8ZT5e0dcnlawl.jpg",
-        "body_summary": "【アニメ公式サイト公開！】 先生！ #ブルアカらいぶ2周年SP でご紹介しました、TVアニメ『ブルーアーカイブ The Animation』の公式サイトが公開されました！ ▼サイトはこちら！ http",
-        "type": "OutsideGames",
-        "url": "twitter.com/Blue_ArchiveJP/status/1617119499152416768",
-        "start_time": 1674389880,
-        "end_time": 1674389880
-      },
-      {
-        "id": 554,
-        "line_type": "JP",
-        "title": "主线剧情Final. 「あまねく奇跡の始発点」篇第1章更新",
-        "image": "https://static.kivo.wiki/images/timeline/jQk54UZFNg1iPysSVlamYmGX2CSJzikP.jpg",
-        "body_summary": "【新情報⑫】 先生、ゲーム内情報コーナーがやってきました！ 本日の1/22(日)20時より、メインストーリー最終編 「あまねく奇跡の始発点」 第1章が公開されます！ ※第1章の解放は、今までの全てのメ",
-        "type": "MainStory",
-        "url": "twitter.com/Blue_ArchiveJP/status/1617066542944092161",
-        "start_time": 1674388800,
-        "end_time": 1674388800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578087,
+  "time": 1793673356,
   "version": "v1.0.0-beta.43"
 }

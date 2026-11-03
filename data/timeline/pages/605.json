@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2,
+        "line_type": "JP",
+        "title": "日服推特首次宣发（推文）",
+        "image": "https://static.kivo.wiki/images/timeline/GeruCGg9cJUtogfSGVyeknpyEErhkIq3.png",
+        "body_summary": "日服推特的第一条推文，蔚蓝档案的开始",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1283959657816449024",
+        "start_time": 1594994968,
+        "end_time": 1594994968
+      },
+      {
+        "id": 989,
+        "line_type": "JP",
+        "title": "游戏名正式确定为《Blue Archive（蔚蓝档案）》",
+        "image": "https://static.kivo.wiki/images/timeline/QqgtygHC5W8tOH2ySEO28ZkXgKtg1tEG.png",
+        "body_summary": "据悉，由手游《HIT：我守护的一切》的开发商韩国NATGames开发中的RPG手游《Project MX》（暂译：MX计划）的正式名称很可能就是《Blue Archive》（暂译：蓝色档案）。 近日，",
+        "type": "Trivia",
+        "url": "www.thisisgame.com/webzine/news/nboard/4/?n=103699",
+        "start_time": 1587355506,
+        "end_time": 1587355506
+      },
       {
         "id": 1,
         "line_type": "JP",
@@ -81,6 +103,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1793578211,
+  "time": 1793673463,
   "version": "v1.0.0-beta.43"
 }

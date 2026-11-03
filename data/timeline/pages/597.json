@@ -10,18 +10,40 @@
       "Double": 1004,
       "Event": 545,
       "Gacha": 864,
-      "Live": 91,
+      "Live": 90,
       "MainStory": 134,
-      "Maintenance": 463,
+      "Maintenance": 464,
       "MiniBattle": 222,
-      "Other": 740,
+      "Other": 741,
       "OtherStory": 75,
-      "OutsideGames": 926,
+      "OutsideGames": 927,
       "Raid": 261,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 80,
+        "line_type": "JP",
+        "title": "指名手配2倍#2",
+        "image": "https://static.kivo.wiki/images/timeline/TYd325unkj7KcAdb8WFOaaMgQB7Pck5b.jpg",
+        "body_summary": "【キャンペーン予告】 4月8日(木)04:00から、「指名手配」における素材のドロップ量が二倍になるキャンペーンが開催されます！ この機会に、生徒さんたちのスキルを成長させてあげましょう！ 🔷開催期間",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1378920339623739392?s=20",
+        "start_time": 1617878823,
+        "end_time": 1618483623
+      },
+      {
+        "id": 91,
+        "line_type": "JP",
+        "title": "阿罗娜频道第一期",
+        "image": "",
+        "body_summary": "【#アロナちゃんねる】 先生方にいつもと違う？アロナの姿をお届けする連載番組企画です！ 4月と言えば入学式！ 春の陽気に誘われて、舞い上がってるアロナの様子を覗いてみましょう♪ #ブルアカ",
+        "type": "OutsideGames",
+        "url": "x.com/blue_archivejp/status/1379630007199404034?s=46&t=JCAusYy30IlDEGpeUVCB0g",
+        "start_time": 1617799491,
+        "end_time": 1617799491
+      },
       {
         "id": 77,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1374984982435753987?s=20",
         "start_time": 1616666685,
         "end_time": 1619690685
-      },
-      {
-        "id": 965,
-        "line_type": "JP",
-        "title": "主线关卡开放：Area13 & T5装备追加",
-        "image": "https://static.kivo.wiki/images/timeline/Jjsp8qTRpgFRgkAhTcuMIZwc4p2xqxbq.jpg",
-        "body_summary": "【生放送新情報⑨】 次回メンテナンス後より、「第13任務」が追加されます！ テーマパークを舞台に戦闘が行われ、新しい敵も登場するとのことです！ ロボットに加えて、あれは、着ぐるみ……？ さらに、戦略マ",
-        "type": "ContentImprovements",
-        "url": "twitter.com/Blue_ArchiveJP/status/1372883407252770817",
-        "start_time": 1616666400,
-        "end_time": 1616666400
-      },
-      {
-        "id": 940,
-        "line_type": "JP",
-        "title": "社团剧情「ゲーム開発部」追加",
-        "image": "https://static.kivo.wiki/images/timeline/AmjIcwBcknszyeYAxXNF4DX6bItLXJnD.jpg",
-        "body_summary": "【生放送新情報⑩】 次回メンテナンス後より、サブストーリーに「ゲーム開発部」が追加されます！ ※解放のためには「ゲーム開発部」の生徒一名以上の受け入れが必要となります #ブルアカ",
-        "type": "OtherStory",
-        "url": "bluearchive.jp/news/newsJump/117",
-        "start_time": 1616666400,
-        "end_time": 1616666400
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1793578201,
+  "time": 1793673455,
   "version": "v1.0.0-beta.43"
 }

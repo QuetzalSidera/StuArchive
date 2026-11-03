@@ -7,15 +7,181 @@
     "api_path": "/walkthroughs/",
     "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/"
   },
-  "generated_at": "2026-11-01T21:42:47Z",
+  "generated_at": "2026-11-03T00:32:08Z",
   "list_key": "walkthrough",
   "id_key": "id",
   "max_page": 11,
   "synced_pages": 11,
-  "total_items": 106,
-  "details_synced": 106,
+  "total_items": 107,
+  "details_synced": 107,
   "details_enabled": true,
   "items": [
+    {
+      "id": 144,
+      "user": {
+        "id": 16508,
+        "user_name": "UshioNoai",
+        "introduction": ".",
+        "avatar": "https://static.kivo.wiki/images/avatar/16508/gCHAdqcZauNOsbRKRbXU606nER8hKFT2.png"
+      },
+      "title": "二档红甲总力战（轮椅流）",
+      "server": "Japan",
+      "game_mode": "Raid",
+      "enemy_defensive_attributes": "Light",
+      "level_terrain": "Other",
+      "introduce_summary": "纯轮椅，没有操作，没有168，可以换礼奈，如果想进一步提升输出，偶像玛丽，可以换礼服亚子，随便想的一个阵容，不喜勿喷",
+      "team": [
+        {
+          "student": [
+            {
+              "student_id": 42,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 612,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 646,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 498,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 645,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10,
+                0
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            },
+            {
+              "student_id": 609,
+              "level": 90,
+              "star_level": 5,
+              "weapon_level": 0,
+              "favorability": 10,
+              "skill_level": [
+                5,
+                10,
+                10,
+                10
+              ],
+              "equipment_level": [
+                10,
+                10,
+                10
+              ],
+              "character_data_index": 0,
+              "max_hp_talent_level": 0,
+              "attack_talent_level": 0,
+              "healing_talent_level": 0
+            }
+          ],
+          "initial_skills": [
+            42,
+            645,
+            609
+          ],
+          "timeline": []
+        }
+      ],
+      "reference_score": 1500000,
+      "is_favorite": false,
+      "state": 1,
+      "favorite_num": 0,
+      "created_at": 1793658539,
+      "updated_at": 1793658539
+    },
     {
       "id": 143,
       "user": {
@@ -27420,10 +27586,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/?page=11",
       "path": "walkthroughs/pages/11.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/pages/11.json",
-      "item_count": 6
+      "item_count": 7
     }
   ],
   "details": [
+    {
+      "id": 144,
+      "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/144",
+      "path": "walkthroughs/144.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/144.json"
+    },
     {
       "id": 143,
       "upstream_url": "https://api.kivo.wiki/api/v1/walkthroughs/143",
@@ -28064,8 +28236,8 @@
   "lookup": {
     "path": "walkthroughs/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/lookup.json",
-    "alias_count": 106,
-    "normalized_alias_count": 106,
-    "total_items": 106
+    "alias_count": 107,
+    "normalized_alias_count": 107,
+    "total_items": 107
   }
 }
