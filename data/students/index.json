@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-11-04T23:13:56Z",
+  "generated_at": "2026-11-05T23:16:34Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 52,
   "synced_pages": 52,
-  "total_items": 512,
-  "details_synced": 512,
+  "total_items": 513,
+  "details_synced": 513,
   "details_enabled": true,
   "items": [
     {
@@ -7921,6 +7921,22 @@
       "main_relation": 0
     },
     {
+      "id": 647,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "噩梦急行",
+      "family_name_jp": "",
+      "given_name_jp": "ナイトメアトレイン",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%20%E5%99%A9%E6%A2%A6%E6%80%A5%E8%A1%8C/original/EnemyInfo_EN0023_Core.png",
+      "school": 23,
+      "main_relation": 0
+    },
+    {
       "id": 597,
       "skin": "",
       "skin_jp": "",
@@ -8572,7 +8588,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=52",
       "path": "students/pages/52.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/52.json",
-      "item_count": 2
+      "item_count": 3
     }
   ],
   "details": [
@@ -11541,6 +11557,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/307.json"
     },
     {
+      "id": 647,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/647",
+      "path": "students/647.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/647.json"
+    },
+    {
       "id": 597,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/597",
       "path": "students/597.json",
@@ -11652,9 +11674,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5803,
-    "normalized_alias_count": 3983,
-    "total_items": 512
+    "alias_count": 5805,
+    "normalized_alias_count": 3985,
+    "total_items": 513
   },
   "profiles": [
     {
@@ -14068,6 +14090,11 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/646.json"
     },
     {
+      "id": 647,
+      "path": "students/profiles/647.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/647.json"
+    },
+    {
       "id": 65,
       "path": "students/profiles/65.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/65.json"
@@ -14261,6 +14288,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 520
+    "total_items": 521
   }
 }
