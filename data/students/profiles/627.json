@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-11-05T23:16:34Z",
+  "generated_at": "2026-11-06T22:43:52Z",
   "id": 627,
   "display_name": "护守 七海",
   "names": {
@@ -68,7 +68,13 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/15.json"
     },
     "main_relation": {
-      "id": 0
+      "id": 66,
+      "name": "七囚人",
+      "name_cn": "七囚人",
+      "image": "https://static.kivo.wiki/images/relation/CfO4SgU44k3BDbP9ROCLUNPmiaL95R2d.png",
+      "description": "",
+      "detail_path": "relations/66.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/66.json"
     },
     "relations": []
   },
@@ -204,8 +210,8 @@
   "source": {
     "detail_path": "students/627.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/627.json",
-    "upstream_time": 1793920975,
-    "updated_at": 1788168579,
+    "upstream_time": 1794004997,
+    "updated_at": 1793968034,
     "created_at": 1787745384
   }
 }
