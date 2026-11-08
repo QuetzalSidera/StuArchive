@@ -2,17 +2,107 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-11-07T21:27:59Z",
+  "generated_at": "2026-11-08T21:41:37Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6047,
-  "alias_count": 6037,
-  "normalized_alias_count": 6029,
+  "total_items": 6058,
+  "alias_count": 6048,
+  "normalized_alias_count": 6040,
   "by_id": {
+    "6227": {
+      "id": 6227,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6227,
+        "line_type": "CN",
+        "title": "任务（困难难度）2倍 #30",
+        "image": "https://static.kivo.wiki/images/timeline/cAKcjMsNJAWSmwmPJxr5RMZQEAzerAbf.jpg",
+        "body_summary": "一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月12日 04:00 ~ 11月19日 03:5",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1797256641,
+        "end_time": 1797515841
+      },
+      "detail_path": "timeline/6227.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6227.json"
+    },
+    "6226": {
+      "id": 6226,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6226,
+        "line_type": "CN",
+        "title": "任务（普通难度）2倍 #30",
+        "image": "https://static.kivo.wiki/images/timeline/Qd6qJqwyC5D6jxEEr5U6PO2Zkfq4JkvG.jpg",
+        "body_summary": "一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月12日 04:00 ~ 11月19日 03:5",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1796910997,
+        "end_time": 1797256597
+      },
+      "detail_path": "timeline/6226.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6226.json"
+    },
+    "6225": {
+      "id": 6225,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6225,
+        "line_type": "CN",
+        "title": "特别委托2倍 #25 & 学院交流会2倍 #34",
+        "image": "https://static.kivo.wiki/images/timeline/wpDbnrMzx7PoDRxruPvg6fw61Nj1xYKQ.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月1",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1796306124,
+        "end_time": 1796910924
+      },
+      "detail_path": "timeline/6225.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6225.json"
+    },
+    "6224": {
+      "id": 6224,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6224,
+        "line_type": "CN",
+        "title": "悬赏通缉2倍 #44 & 日程2倍 #44 ",
+        "image": "https://static.kivo.wiki/images/timeline/ojtccFa6xQMPOFouaEkEkzJjDBbmzKN8.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月1",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1795701230,
+        "end_time": 1796306030
+      },
+      "detail_path": "timeline/6224.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6224.json"
+    },
+    "6223": {
+      "id": 6223,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6223,
+        "line_type": "CN",
+        "title": "任务（困难难度）2倍 #29",
+        "image": "https://static.kivo.wiki/images/timeline/pfibDuA9JNisEHFaCRW7wuHH26C8HGwC.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月1",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1795441968,
+        "end_time": 1795701168
+      },
+      "detail_path": "timeline/6223.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6223.json"
+    },
     "6180": {
       "id": 6180,
       "source_path": "timeline/index.json",
@@ -48,6 +138,42 @@
       },
       "detail_path": "timeline/6172.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6172.json"
+    },
+    "6221": {
+      "id": 6221,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6221,
+        "line_type": "CN",
+        "title": "学院交流会2倍 #33",
+        "image": "https://static.kivo.wiki/images/timeline/IbwPv82HhSpI3xMDCje6k08Lpr8W2b8o.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月1",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1794491395,
+        "end_time": 1795096195
+      },
+      "detail_path": "timeline/6221.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6221.json"
+    },
+    "6218": {
+      "id": 6218,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6218,
+        "line_type": "JP",
+        "title": "活动「誰が為の芸術～偽飾の絵画と美学の行方～」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/uLo6Lof57OjcwmpqOOt32HONEATxLmGO.jpg",
+        "body_summary": "【イベント復刻開催予告】 先生！期間限定イベント「誰が為の芸術～偽飾の絵画と美学の行方～」が2026年11月11日(水)メンテナンス後より復刻開催します！ お金さえ出せばなんでも仕入れてくれる「特殊交",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/2119339271752728835",
+        "start_time": 1794391200,
+        "end_time": 1795082400
+      },
+      "detail_path": "timeline/6218.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6218.json"
     },
     "6178": {
       "id": 6178,
@@ -103,6 +229,24 @@
       "detail_path": "timeline/6171.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6171.json"
     },
+    "6222": {
+      "id": 6222,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6222,
+        "line_type": "CN",
+        "title": "任务（普通难度）2倍 #29",
+        "image": "https://static.kivo.wiki/images/timeline/PElGHlbfzY4z4mVIVwobYYnnWThQ5mnA.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月1",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1794145883,
+        "end_time": 1794145883
+      },
+      "detail_path": "timeline/6222.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6222.json"
+    },
     "6170": {
       "id": 6170,
       "source_path": "timeline/index.json",
@@ -121,6 +265,24 @@
       "detail_path": "timeline/6170.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6170.json"
     },
+    "6219": {
+      "id": 6219,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6219,
+        "line_type": "CN",
+        "title": "大决战：切赛德 • 野外战",
+        "image": "https://static.kivo.wiki/images/timeline/dPsSZaMbaHvoJoYna1aUDVHxJh4od4DZ.jpg",
+        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前在基沃托斯各地出没。 切赛德是神名十文字的第4个先知，它已经掌控了千禧年外围的废弃兵工厂的生产系统。 如果切赛德成功生产出无限的兵",
+        "type": "BigRaid",
+        "url": "weibo.com/6011443154/RpNw2tjBl",
+        "start_time": 1794031259,
+        "end_time": 1794412799
+      },
+      "detail_path": "timeline/6219.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6219.json"
+    },
     "6099": {
       "id": 6099,
       "source_path": "timeline/index.json",
@@ -138,6 +300,24 @@
       },
       "detail_path": "timeline/6099.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6099.json"
+    },
+    "6220": {
+      "id": 6220,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6220,
+        "line_type": "CN",
+        "title": "悬赏通缉2倍 #43 & 日程2倍 #43",
+        "image": "https://static.kivo.wiki/images/timeline/yxVqwEhPfs3NgiXaVOLQufzgwcSBkwl5.jpg",
+        "body_summary": "【掉落量2倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量2倍 开启时间：11月05日 04:00 ~ 11月12日 03:59 二、【学院交流会】道具掉落量2倍 开启时间：11月1",
+        "type": "Double",
+        "url": "weibo.com/6011443154/RpOH6ExSX",
+        "start_time": 1793884532,
+        "end_time": 1794489332
+      },
+      "detail_path": "timeline/6220.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6220.json"
     },
     "6181": {
       "id": 6181,
@@ -228,6 +408,24 @@
       },
       "detail_path": "timeline/6207.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6207.json"
+    },
+    "6217": {
+      "id": 6217,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6217,
+        "line_type": "JP",
+        "title": "「Start Your Engines！ ～183号よ永遠に！～」活动贺图",
+        "image": "https://static.kivo.wiki/images/timeline/4H4zw6x5oZWYljDDyCiQi9a4CoEG2IEc.jpg",
+        "body_summary": "【お祝いイラスト】 ノン( @nonko900 )先生から、イベント「Start Your Engines！ ～183号よ永遠に！～」のお祝いイラストを頂きました。 ありがとうございます！ スタート開",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2117527343443149230",
+        "start_time": 1793692800,
+        "end_time": 1793692800
+      },
+      "detail_path": "timeline/6217.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6217.json"
     },
     "6213": {
       "id": 6213,
@@ -6536,7 +6734,7 @@
       "item": {
         "id": 5849,
         "line_type": "CN",
-        "title": "限时活动【海兰德铁道失控事件~】",
+        "title": "限时活动【海兰德铁道失控事件 ~无车生还~】",
         "image": "https://static.kivo.wiki/images/timeline/y5vM9ZjrylShWJ4fYc96CaXMYSHZcRPl.png",
         "body_summary": "围绕着丢失的货运列车，一场波澜壮阔的追逐戏就此展开。老师与海兰德的学员们究竟能否成功完成任务？ ■ 活动时间 • 活动持续时间：07月30日 维护结束后 ~ 08月13日 13:59 • 商店和奖励兑",
         "type": "Event",
@@ -8822,7 +9020,7 @@
       "item": {
         "id": 5699,
         "line_type": "CN",
-        "title": "限时活动【异饼危机】",
+        "title": "限时活动【异饼危机 ~甜美的奇迹~】",
         "image": "https://static.kivo.wiki/images/timeline/tUHyiZqs7oO1Z4URliWBFhpnswFVhn7U.png",
         "body_summary": "朱莉在打工时，接到了制作松饼的任务！ 令人惊讶的是，她真的做出了看似美味的松饼！ 然而就在这些松饼中，有某种东西开始觉醒…… ■ 活动时间 • 活动持续时间：07月02日 14:00 ~ 07月16日",
         "type": "Event",
@@ -8984,7 +9182,7 @@
       "item": {
         "id": 5630,
         "line_type": "CN",
-        "title": "限时活动【异饼危机~甜美的奇迹】介绍PV",
+        "title": "限时活动【异饼危机 ~甜美的奇迹~】介绍PV",
         "image": "https://static.kivo.wiki/images/timeline/95qcWodjABaVsg4rxlFN7Rxdt2cXOxUs.png",
         "body_summary": "#蔚蓝档案 朱莉在打工时，接到了制作松饼的任务！令人惊讶的是，她真的做出了看似美味的松饼！ 然而就在这些松饼中，有某种东西开始觉醒…… 限时活动【异饼危机~甜美的奇迹】将于07月02日开启！",
         "type": "OutsideGames",
@@ -11270,7 +11468,7 @@
       "item": {
         "id": 5500,
         "line_type": "CN",
-        "title": "限时活动【Code BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
+        "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】",
         "image": "https://static.kivo.wiki/images/timeline/Fj6wEq6YGM2NjyQ67sMMSThQVbmSjb6B.jpg",
         "body_summary": "圣娅作为交流学员代表，被派遣前来参加千禧年博览会。 然而，博览会的背后，却潜藏着一场巨大的阴谋…… 限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】将于05月28日开启！",
         "type": "Event",
@@ -11360,7 +11558,7 @@
       "item": {
         "id": 5490,
         "line_type": "CN",
-        "title": "限时活动【Code BOX 逼近千禧年的阴影 ～一个问题与两个答案～】介绍PV",
+        "title": "限时活动【Code: BOX 逼近千禧年的阴影 ～一个问题与两个答案～】介绍PV",
         "image": "https://static.kivo.wiki/images/timeline/hlhErmiGXvKIvmtuaefCKmcQvACQIMRJ.jpg",
         "body_summary": "《蔚蓝档案》限时活动【Code BOX 逼近千禧年的阴影 ～一个问题与两个答案～】介绍PV 圣娅作为交流学员代表，被派遣前来参加千禧年博览会。 然而，博览会的背后，却潜藏着一场巨大的阴谋…… 限时活动",
         "type": "OutsideGames",
@@ -28262,7 +28460,7 @@
       "item": {
         "id": 4523,
         "line_type": "CN",
-        "title": "限时活动：-ive aLIVE!",
+        "title": "限时活动【-ive aLIVE！】",
         "image": "https://static.kivo.wiki/images/timeline/r3jYcDs2ikPhCPTYNHvaj7ccDchZUGbd.jpg",
         "body_summary": "“来组乐队吧！” 为了传说中美味到去世的甜点女王——芙蕾德丽卡泡芙，甜点部结成了乐队！她们到底能否成功赢得甜点呢？ ■ 活动时间 • 活动持续时间：10月02日 维护后 ~ 10月16日 13:59 ",
         "type": "Event",
@@ -30062,7 +30260,7 @@
       "item": {
         "id": 4450,
         "line_type": "CN",
-        "title": "限时活动：0068 来自歌剧的爱",
+        "title": "限时活动【0068 来自歌剧的爱情！】",
         "image": "https://static.kivo.wiki/images/timeline/s2VyNmxDLMtYi3qoFWWsfA284Qrm19HT.jpg",
         "body_summary": "便利屋68正在暗中展开行动！ 她们的目标是黑帮联盟的首领【唐·阿兰西诺】。 她们究竟能否成功完成委托呢？ ■ 活动时间 • 活动持续时间：08月28日 维护后 ~ 09月11日 13:59 • 商店兑",
         "type": "Event",
@@ -54308,7 +54506,7 @@
       "item": {
         "id": 3078,
         "line_type": "CN",
-        "title": "活动【圣堂的圣夜祝福 ~救护骑士团的礼物~】",
+        "title": "限时活动【圣堂的圣夜祝福 ~救护骑士团的礼物~】",
         "image": "https://static.kivo.wiki/images/timeline/wnKqbdqxC0EIufIZnhZjzxqajWht23sg.jpg",
         "body_summary": "老师！限时活动《圣堂的圣夜祝福 ~救护骑士团的礼物~》现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了各类养成素材奖励作为活动纪念礼物，现在登录游戏即可通过邮箱领取！ ■ 圣堂的圣夜祝福特别",
         "type": "Event",
@@ -55514,7 +55712,7 @@
       "item": {
         "id": 2997,
         "line_type": "CN",
-        "title": "活动【特殊作战：神名十文字篇】4",
+        "title": "限时活动【特殊作战：神名十文字篇】4",
         "image": "https://static.kivo.wiki/images/timeline/UNFyu6YfRlF464inwlHocu7d4hjYiAho.jpg",
         "body_summary": "何为绝对自主自律分析系统“神名十文字”？ 和【超自然现象调查部】一起探索神名十文字的秘密吧！ 限时活动【特殊作战：神名十文字篇】即将开启！ ■ 活动时间 08月22日 04:00 ~ 09月05日 1",
         "type": "Event",
@@ -57134,7 +57332,7 @@
       "item": {
         "id": 2934,
         "line_type": "CN",
-        "title": "活动【Get Set, Go! ~基沃托斯晄轮大会~】",
+        "title": "限时活动【Get Set, Go! ~基沃托斯晄轮大会~】",
         "image": "https://static.kivo.wiki/images/timeline/4LKM2SAMsp2BYqyUCHzFRsPzo6CgeUOU.jpg",
         "body_summary": "老师，维护更新已经结束，限时活动【Get Set, Go! ~基沃托斯晄轮大会~】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【10次招募券×2】和各类养成素材奖励作为运动会消暑补给，限",
         "type": "Event",
@@ -58646,7 +58844,7 @@
       "item": {
         "id": 2908,
         "line_type": "CN",
-        "title": "活动【ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~】",
+        "title": "限时活动【ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~】",
         "image": "https://static.kivo.wiki/images/timeline/ieSufGhcU3L9PaIPDjzdNFwUTNJeeTCP.jpg",
         "body_summary": "蔚蓝档案超话#蔚蓝档案老师！维护更新已经结束，限时活动《ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~》现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了行动点特别助",
         "type": "Event",
@@ -59744,7 +59942,7 @@
       "item": {
         "id": 2809,
         "line_type": "CN",
-        "title": "活动【课后甜点故事 ~甜秘枪战~】",
+        "title": "限时活动【课后甜点故事 ~甜秘枪战~】",
         "image": "https://static.kivo.wiki/images/timeline/KVP4xJFlGnK64mpLgq950WsZ4ZupMV6G.jpg",
         "body_summary": "老师！限时活动《课后甜点故事 ~甜秘枪战~》现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石×1200】和各类养成素材奖励作为活动纪念礼物，现在登录游戏即可通过邮箱领取！ ■ 活动启",
         "type": "Event",
@@ -59834,7 +60032,7 @@
       "item": {
         "id": 2806,
         "line_type": "CN",
-        "title": "活动【特殊作战：神名十文字篇】3",
+        "title": "限时活动【特殊作战：神名十文字篇】3",
         "image": "https://static.kivo.wiki/images/timeline/ET9rjhf5EqQrKQ5kAUQUwsiBbrjI5XyK.jpg",
         "body_summary": "何为绝对自主自律分析系统“神名十文字”？ 和【超自然现象调查部】一起探索神名十文字的秘密吧！ 限时活动【特殊作战：神名十文字篇】即将开启！ ■ 活动时间 07月04日 04:00 ~ 07月18日 维",
         "type": "Event",
@@ -61112,7 +61310,7 @@
       "item": {
         "id": 2748,
         "line_type": "CN",
-        "title": "活动【出差！百夜堂海之家加盟计划】",
+        "title": "限时活动【出差！百夜堂海之家加盟计划】",
         "image": "https://static.kivo.wiki/images/timeline/wenFkW2qvssKCaGbhM58NIiEcPHRdUiw.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【出差！百夜堂海之家加盟计划】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石×1200】作为活动纪念礼物，更有海之家特别助力等丰厚奖励！现在登录游戏",
         "type": "Event",
@@ -61922,7 +62120,7 @@
       "item": {
         "id": 2633,
         "line_type": "CN",
-        "title": "活动【阿拜多斯度假村重建对策委员会】",
+        "title": "限时活动【阿拜多斯度假村重建对策委员会】",
         "image": "https://static.kivo.wiki/images/timeline/N7oAEFe4JinTO75SrIQNMIDykDGJ95vy.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动《阿拜多斯度假村重建对策委员会》现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了各类养成素材奖励作为活动纪念礼物，现在登录游戏即可通过邮箱领取！ ■ 活动启动",
         "type": "Event",
@@ -62552,7 +62750,7 @@
       "item": {
         "id": 2616,
         "line_type": "CN",
-        "title": "活动【阿里乌斯自管区调查任务2】",
+        "title": "限时活动【阿里乌斯自管区调查任务2】",
         "image": "https://static.kivo.wiki/images/timeline/kckzbuDdnYLyE4zwa9cD2y8FVerXiWRK.jpg",
         "body_summary": "限时活动【阿里乌斯自管区调查任务2】即将开启！ 活动期间，完成活动任务并收集活动道具“手工花环”，最高可获得【青辉石×1200】和大量养成材料。 ■ 活动时间 05月23日 14:00 ~ 06月20",
         "type": "Event",
@@ -62858,7 +63056,7 @@
       "item": {
         "id": 2580,
         "line_type": "CN",
-        "title": "活动【阿里乌斯自管区调查任务】",
+        "title": "限时活动【阿里乌斯自管区调查任务】",
         "image": "https://static.kivo.wiki/images/timeline/T0DQqJFWCLybUeEy8FlXpRB1mZJm37GM.jpg",
         "body_summary": "限时活动【阿里乌斯自管区调查任务】即将开启！ 活动期间，完成活动任务并收集活动道具“老旧的阿里乌斯勋章”，最高可获得【青辉石×1200】、含有互动动作的特殊家具【皇家钻石软垫椅子】和大量养成材料。 ■",
         "type": "Event",
@@ -63578,7 +63776,7 @@
       "item": {
         "id": 2565,
         "line_type": "CN",
-        "title": "活动【特殊作战：神名十文字篇】2",
+        "title": "限时活动【特殊作战：神名十文字篇】2",
         "image": "https://static.kivo.wiki/images/timeline/8KKI5xJI7kKyR9obynTQgwg195RikK9n.jpg",
         "body_summary": "何为绝对自主自律分析系统“神名十文字”？ 和【超自然现象调查部】一起探索神名十文字的秘密吧！ 限时活动【特殊作战：神名十文字篇】即将开启！ ■ 活动时间 05月09日 14:00 ~ 05月23日 1",
         "type": "Event",
@@ -63992,7 +64190,7 @@
       "item": {
         "id": 2564,
         "line_type": "CN",
-        "title": "活动【初音未来的特别演出in基沃托斯~彩排篇~】",
+        "title": "限时活动【初音未来的特别演出in基沃托斯~彩排篇~】",
         "image": "https://static.kivo.wiki/images/timeline/7dyjElGzlVfJU8RwL9hOQoXb2JGQrq8P.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【初音未来的特别演出in基沃托斯~彩排篇~】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石×1200】和【初音未来的拍立得】作为活动纪念礼物，同时还",
         "type": "Event",
@@ -65000,7 +65198,7 @@
       "item": {
         "id": 2510,
         "line_type": "CN",
-        "title": "活动【不忍之心】",
+        "title": "限时活动【不忍之心】",
         "image": "https://static.kivo.wiki/images/timeline/rRIGnxPRJylWkBFKEkdC1vsNYqh4EWjH.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【不忍之心】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石×1200】作为活动纪念礼物，现在登录游戏即可通过邮箱领取！与忍术研究部一起努力完成委托吧",
         "type": "Event",
@@ -65612,7 +65810,7 @@
       "item": {
         "id": 2440,
         "line_type": "CN",
-        "title": "活动【与RABBIT小队一起的快乐露营（风餐露宿）生活！】",
+        "title": "限时活动【与RABBIT小队一起的快乐露营（风餐露宿）生活！】",
         "image": "https://static.kivo.wiki/images/timeline/XOXopvJLY2cLzRpEmizcsHovbQg4cMvi.jpg",
         "body_summary": "限时活动【与RABBIT小队一起的快乐露营（风餐露宿）生活！】即将开启！ 活动期间，完成活动任务并收集活动道具“棉花糖串”，最高可获得【青辉石×1200】、含有互动动作的特殊家具【绿色折叠式露营椅×1",
         "type": "Event",
@@ -66080,7 +66278,7 @@
       "item": {
         "id": 2385,
         "line_type": "CN",
-        "title": "活动【沙勒指引任务】",
+        "title": "限时活动【沙勒指引任务】",
         "image": "https://static.kivo.wiki/images/timeline/F7emWDszOeHMmIVUcu98FOprm35rHEvQ.jpg",
         "body_summary": "#蔚蓝档案 限时活动【沙勒指引任务】即将开启！ 活动期间，完成活动任务并收集活动道具“任务报告”，最高可获得【青辉石×1200】、含有互动动作的特殊家具【黄色折叠式露营椅×1】和大量养成材料。 ■ 活",
         "type": "Event",
@@ -67592,7 +67790,7 @@
       "item": {
         "id": 2334,
         "line_type": "CN",
-        "title": "活动【船上的兔子追击者】",
+        "title": "限时活动【船上的兔子追击者】",
         "image": "https://static.kivo.wiki/images/timeline/XvYQ7gA3k9cYsfM83ykoa0onTe0ePtJx.jpg",
         "body_summary": "老师！限时活动【船上的兔子追击者】现已开启！ 活动助力：青辉石\\1200 招募助力：10次招募券\\1 养成素材助力： 初级战术教育光盘（千禧年）\\10、中级战术教育光盘（千禧年）\\10、高级战术教育光",
         "type": "Event",
@@ -68798,7 +68996,7 @@
       "item": {
         "id": 2256,
         "line_type": "CN",
-        "title": "活动【冒失修女与古书馆的魔法师】",
+        "title": "限时活动【冒失修女与古书馆的魔法师】",
         "image": "https://static.kivo.wiki/images/timeline/D2XSY1ak6GieF80bLROA9xZGeHIqffcI.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【冒失修女与古书馆的魔法师】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石×1200】作为活动纪念礼物，现在登录游戏即可通过邮箱领取！崔尼蒂的古老故",
         "type": "Event",
@@ -70022,7 +70220,7 @@
       "item": {
         "id": 2224,
         "line_type": "CN",
-        "title": "活动【沙勒的快乐情人节巡逻】",
+        "title": "限时活动【沙勒的快乐情人节巡逻】",
         "image": "https://static.kivo.wiki/images/timeline/Uafzx3MIEOjU6FPcy9ZXTCNUh5IzIIqq.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【沙勒的快乐情人节巡逻】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【10次招募券×1】作为情人节礼物，同时还有大量助力养成材料，现在登录游戏即可通过邮箱",
         "type": "Event",
@@ -72704,7 +72902,7 @@
       "item": {
         "id": 2202,
         "line_type": "CN",
-        "title": "活动【新春狂想曲第68号】",
+        "title": "限时活动【新春狂想曲第68号】",
         "image": "https://static.kivo.wiki/images/timeline/HyYnp06G4DASf2HZRuG7FhMYiJQm7ObO.jpg",
         "body_summary": "老师！维护更新已经结束，主线故事VOL.3【伊甸园条约篇】第3章（上）现已更新！限时活动【新春狂想曲第68号】现已开始！ 为纪念本次主线故事章节更新，阿洛娜将赠送全服老师主线纪念和活动助力礼物！老师可",
         "type": "Event",
@@ -73172,7 +73370,7 @@
       "item": {
         "id": 2200,
         "line_type": "CN",
-        "title": "活动【227号温泉乡运营记录！】",
+        "title": "限时活动【227号温泉乡运营记录！】",
         "image": "https://static.kivo.wiki/images/timeline/nzIJLdeIu1gQ9Kg4h0qxgOS0CKcX8Lcz.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【227号温泉乡运营记录！】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石1200】作为温泉乡的旅游资金，同时还有大量助力养成材料，现在登录游戏即可",
         "type": "Event",
@@ -74090,7 +74288,7 @@
       "item": {
         "id": 1969,
         "line_type": "CN",
-        "title": "活动【特殊作战：神名十文字篇】",
+        "title": "限时活动【特殊作战：神名十文字篇】",
         "image": "https://static.kivo.wiki/images/timeline/apGSX7eXfqoBXqkjnEQruSQjehn4FYh1.png",
         "body_summary": "何为绝对自主自律分析系统“神名十文字”？ 和【超自然现象调查部】一起探索神名十文字的秘密吧！ ■ 活动简介 • “特殊作战：神名十文字篇”是一种限时活动，活动主要由“每日/成就任务”、“剧情故事”和“",
         "type": "Event",
@@ -75044,7 +75242,7 @@
       "item": {
         "id": 2190,
         "line_type": "CN",
-        "title": "活动【日奈会长的夏日休假！】",
+        "title": "限时活动【日奈会长的夏日休假！】",
         "image": "https://static.kivo.wiki/images/timeline/WbJYG4swHVvhyvlcuGABAADwJpkHjpwy.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【日奈会长的夏日休假！】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石1200】作为假期补给，现在登录游戏即可通过邮箱领取！请好好享受与风纪委员会一",
         "type": "Event",
@@ -76700,7 +76898,7 @@
       "item": {
         "id": 1620,
         "line_type": "CN",
-        "title": "活动【补习部的特别集训任务】",
+        "title": "限时活动【补习部的特别集训任务】",
         "image": "https://static.kivo.wiki/images/timeline/g9RUfrvYMrvYDDEZt3HG2c4r1yQScnkC.jpg",
         "body_summary": "#蔚蓝档案限时活动【补习部的特别集训任务】即将开启！ 活动期间收集活动道具“满分考卷”，最高可获得【青辉石×1200】和大量养成材料。 ■ 活动时间 11月09日 维护结束后 ~ 12月07日 13:",
         "type": "Event",
@@ -77618,7 +77816,7 @@
       "item": {
         "id": 1661,
         "line_type": "CN",
-        "title": "活动【夏日天空的愿望清单】",
+        "title": "限时活动【夏日天空的愿望清单】",
         "image": "https://static.kivo.wiki/images/timeline/rBac7AbPiTJbhWPc4J0a9cyKLGFEf5Z1.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【夏日天空的愿望清单】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石1200】作为夏日任务资金，现在登录游戏即可通过邮箱领取！请好好享受与成员们一起",
         "type": "Event",
@@ -80084,7 +80282,7 @@
       "item": {
         "id": 1680,
         "line_type": "CN",
-        "title": "活动【革命之伊万库帕拉】",
+        "title": "限时活动【革命之伊万库帕拉】",
         "image": "https://static.kivo.wiki/images/timeline/xW11RT4HT0NwCtCXmocqKqlDL1g1fXWD.jpg",
         "body_summary": "老师！维护更新已经结束，限时活动【革命之伊万库帕拉】现已开启！ 为纪念本次限时活动开启，阿洛娜为老师特地准备了【青辉石1200】作为“伊万库帕拉”节启动资金，同时还有大量养成材料，现在登录游戏即可通过",
         "type": "Event",
@@ -80822,7 +81020,7 @@
       "item": {
         "id": 1751,
         "line_type": "CN",
-        "title": "活动【游戏开发部发布的每日任务！】",
+        "title": "限时活动【游戏开发部发布的每日任务！】",
         "image": "https://static.kivo.wiki/images/timeline/Ef7wdnD13IWHk4CK2ueIEHcqytvKpVI8.jpg",
         "body_summary": "限时活动【游戏开发部发布的每日任务！】即将开启！ 活动期间收集活动道具“游戏杂志”，最高可获得【青辉石×1200】和大量养成材料。 ■ 活动时间 08月31日（周四）18:00 维护结束后 ~ 09月",
         "type": "Event",
@@ -81650,7 +81848,7 @@
       "item": {
         "id": 1724,
         "line_type": "CN",
-        "title": "活动【樱花烂漫庆典大骚动】",
+        "title": "限时活动【樱花烂漫庆典大骚动】",
         "image": "https://static.kivo.wiki/images/timeline/oxknfJf3oPLdMq0UiPmLKLypdULsHmJc.png",
         "body_summary": "老师接到传统茶店【百夜堂】看板娘的电话后，向着百鬼夜行的庆典【百夜樱花节】出发！ 没想到这里的街道竟然被一群神秘的问题儿童和忍者给占据了？！ 乱成一团的庆典大骚动，现在就要开始啦！ 《蔚蓝档案》限时活",
         "type": "Event",
@@ -81704,7 +81902,7 @@
       "item": {
         "id": 2168,
         "line_type": "CN",
-        "title": "活动【樱花烂漫庆典大骚动】庆典启动资金",
+        "title": "限时活动【樱花烂漫庆典大骚动】庆典启动资金",
         "image": "https://static.kivo.wiki/images/timeline/bgXZrSnnmCUaJOIfr9QetwR1rkriCYtj.jpg",
         "body_summary": "老师！维护更新现已结束，限时活动【樱花烂漫庆典大骚动】开启！ 为纪念本次限时活动开启，现已为全服老师准备了【青辉石*1200】作为庆典启动资金，老师可通过邮箱领取！ ■ 邮件发放时间 08月17日（周",
         "type": "Event",
@@ -108861,11 +109059,32 @@
     }
   },
   "by_alias": {
+    "任务(困难难度)2倍 #30": [
+      "6227"
+    ],
+    "任务(普通难度)2倍 #30": [
+      "6226"
+    ],
+    "特别委托2倍 #25 & 学院交流会2倍 #34": [
+      "6225"
+    ],
+    "悬赏通缉2倍 #44 & 日程2倍 #44": [
+      "6224"
+    ],
+    "任务(困难难度)2倍 #29": [
+      "6223"
+    ],
     "迷你剧情「183 VS 227」追加": [
       "6180"
     ],
     "特別依頼2倍#72": [
       "6172"
+    ],
+    "学院交流会2倍 #33": [
+      "6221"
+    ],
+    "活动「誰が為の芸術~偽飾の絵画と美学の行方~」复刻": [
+      "6218"
     ],
     "联合火力演习#56": [
       "6178"
@@ -108876,11 +109095,20 @@
     "课程表2倍#46 & 学院交流会2倍#46": [
       "6171"
     ],
+    "任务(普通难度)2倍 #29": [
+      "6222"
+    ],
     "任务hard2倍#59": [
       "6170"
     ],
+    "大决战:切赛德 • 野外战": [
+      "6219"
+    ],
     "国际服5周年韩国线下庆典活动": [
       "6099"
+    ],
+    "悬赏通缉2倍 #43 & 日程2倍 #43": [
+      "6220"
     ],
     "市街地戦・悪夢急行-ナイトメアトレイン-#1": [
       "6181"
@@ -108896,6 +109124,9 @@
     ],
     "国际服大决战 Hod (Indoor) #1": [
       "6207"
+    ],
+    "「Start Your Engines! ~183号よ永遠に!~」活动贺图": [
+      "6217"
     ],
     "国际服任务Hard2倍 #51": [
       "6213"
@@ -109948,7 +110179,7 @@
     "总力战 格里高利 • 室内战#3": [
       "5851"
     ],
-    "限时活动【海兰德铁道失控事件~】": [
+    "限时活动【海兰德铁道失控事件 ~无车生还~】": [
       "5849"
     ],
     "光 & 望 & 青叶家具互动更新": [
@@ -110329,7 +110560,7 @@
     "国际服参展Anime Expo 2026": [
       "5454"
     ],
-    "限时活动【异饼危机】": [
+    "限时活动【异饼危机 ~甜美的奇迹~】": [
       "5699"
     ],
     "总力战 猫鬼黑影 · 街区战#2": [
@@ -110356,7 +110587,7 @@
     "朱莉(打工)& 濑名(便服)家具互动更新": [
       "5633"
     ],
-    "限时活动【异饼危机~甜美的奇迹】介绍PV": [
+    "限时活动【异饼危机 ~甜美的奇迹~】介绍PV": [
       "5630"
     ],
     "《蔚蓝档案》BW2026宣传PV": [
@@ -110738,7 +110969,7 @@
       "5494",
       "5074"
     ],
-    "限时活动【Code BOX 逼近千禧年的阴影 ~一个问题与两个答案~】": [
+    "限时活动【Code: BOX 逼近千禧年的阴影 ~一个问题与两个答案~】": [
       "5500"
     ],
     "限时限定招募【自在阳光 照耀天际】": [
@@ -110753,7 +110984,7 @@
     "例行维护 #60": [
       "5499"
     ],
-    "限时活动【Code BOX 逼近千禧年的阴影 ~一个问题与两个答案~】介绍PV": [
+    "限时活动【Code: BOX 逼近千禧年的阴影 ~一个问题与两个答案~】介绍PV": [
       "5490"
     ],
     "《蔚蓝档案》【今日几分甜】别笑,笑你也过不了第二关": [
@@ -113569,7 +113800,7 @@
     "和纱(乐队)&好美(乐队)&爱理(乐队)家具互动更新": [
       "4514"
     ],
-    "限时活动:-ive aLIVE!": [
+    "限时活动【-ive aLIVE!】": [
       "4523"
     ],
     "限时招募:【Who says you can't be sweet】": [
@@ -113869,7 +114100,7 @@
     "限时招募【蓝色重金属 】": [
       "4472"
     ],
-    "限时活动:0068 来自歌剧的爱": [
+    "限时活动【0068 来自歌剧的爱情!】": [
       "4450"
     ],
     "例行维护 #44": [
@@ -117899,7 +118130,7 @@
     "限时招募【响彻圣夜的慈爱颂歌】": [
       "3080"
     ],
-    "活动【圣堂的圣夜祝福 ~救护骑士团的礼物~】": [
+    "限时活动【圣堂的圣夜祝福 ~救护骑士团的礼物~】": [
       "3078"
     ],
     "芹娜(圣诞)、花江(圣诞)家具互动更新": [
@@ -118100,7 +118331,7 @@
     "悬赏通缉3倍 #7 日程3倍 #7 学院交流会3倍 #5 任务(普通难度)3倍 #6": [
       "3022"
     ],
-    "活动【特殊作战:神名十文字篇】4": [
+    "限时活动【特殊作战:神名十文字篇】4": [
       "2997"
     ],
     "违规账号封禁 #37": [
@@ -118370,7 +118601,7 @@
     "限定限时招募【理性与热情的Equation】": [
       "2940"
     ],
-    "活动【Get Set, Go! ~基沃托斯晄轮大会~】": [
+    "限时活动【Get Set, Go! ~基沃托斯晄轮大会~】": [
       "2934"
     ],
     "例行维护 #23": [
@@ -118622,7 +118853,7 @@
     "07月18日【角色技能升级、装备升阶】异常问题说明": [
       "2909"
     ],
-    "活动【ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~】": [
+    "限时活动【ON YOUR MARK @ MILLENNIUM ~基沃托斯晄轮大会~】": [
       "2908"
     ],
     "限时招募【雾窗蒙蒙 勾勒刹那】": [
@@ -118806,7 +119037,7 @@
     "限时招募复刻【彩色玻璃的甜美邀请】": [
       "2768"
     ],
-    "活动【课后甜点故事 ~甜秘枪战~】": [
+    "限时活动【课后甜点故事 ~甜秘枪战~】": [
       "2809"
     ],
     "RABBIT小队社团剧情更新": [
@@ -118821,7 +119052,7 @@
     "学院交流会2倍6": [
       "2807"
     ],
-    "活动【特殊作战:神名十文字篇】3": [
+    "限时活动【特殊作战:神名十文字篇】3": [
       "2806"
     ],
     "屋外戦・ビナー #5": [
@@ -119035,7 +119266,7 @@
     "庆典招募【从黄昏到水面 从恍惚到睡眠】": [
       "2754"
     ],
-    "活动【出差!百夜堂海之家加盟计划】": [
+    "限时活动【出差!百夜堂海之家加盟计划】": [
       "2748"
     ],
     "《蔚蓝档案》官方频道七天签到活动": [
@@ -119170,7 +119401,7 @@
     "总力战 比纳 • 野外战 3": [
       "2623"
     ],
-    "活动【阿拜多斯度假村重建对策委员会】": [
+    "限时活动【阿拜多斯度假村重建对策委员会】": [
       "2633"
     ],
     "例行维护 #19": [
@@ -119275,7 +119506,7 @@
     "指名手配2倍#37": [
       "5096"
     ],
-    "活动【阿里乌斯自管区调查任务2】": [
+    "限时活动【阿里乌斯自管区调查任务2】": [
       "2616"
     ],
     "国际服卡池复刻「I hate to be a bother. I'm Sorry!」": [
@@ -119327,7 +119558,7 @@
     "紧急总力战 白&黑 • 室内战 2": [
       "2571"
     ],
-    "活动【阿里乌斯自管区调查任务】": [
+    "限时活动【阿里乌斯自管区调查任务】": [
       "2580"
     ],
     "【区域19】开放": [
@@ -119447,7 +119678,7 @@
     "TV动画 官网添加Special页面": [
       "2536"
     ],
-    "活动【特殊作战:神名十文字篇】2": [
+    "限时活动【特殊作战:神名十文字篇】2": [
       "2565"
     ],
     "伊甸园条约篇第4章介绍PV": [
@@ -119516,7 +119747,7 @@
     "总力战 比纳 • 街区战": [
       "2514"
     ],
-    "活动【初音未来的特别演出in基沃托斯~彩排篇~】": [
+    "限时活动【初音未来的特别演出in基沃托斯~彩排篇~】": [
       "2564"
     ],
     "国际服 超电磁炮T联动特别PV 食蜂操祈": [
@@ -119684,7 +119915,7 @@
     "限时招募【此身不长久 惜取豆蔻年!】&【芬芳藏不住 绽放必有时】&【抬头23.4° 可见星光一点】&【Snipe the target \"L-seven\"!】": [
       "2451"
     ],
-    "活动【不忍之心】": [
+    "限时活动【不忍之心】": [
       "2510"
     ],
     "忍术研究部社团剧情更新": [
@@ -119786,7 +120017,7 @@
     "夏莱的总决算with联邦学生会7": [
       "2430"
     ],
-    "活动【与RABBIT小队一起的快乐露营(风餐露宿)生活!】": [
+    "限时活动【与RABBIT小队一起的快乐露营(风餐露宿)生活!】": [
       "2440"
     ],
     "卡班诺的兔子篇第1章【RABBIT小队,作战开始!】12~20话更新": [
@@ -119864,7 +120095,7 @@
     "限时招募【这里是RABBIT 1,用眼眸坚守理想】&【这里是RABBIT 2,以脚步丈量规范】&【这里是RABBIT 3,在胸中执行计算】&【这里是RABBIT 4,凭指尖完成证明】": [
       "2386"
     ],
-    "活动【沙勒指引任务】": [
+    "限时活动【沙勒指引任务】": [
       "2385"
     ],
     "网页活动【胡萝卜行动 野外特别篇】": [
@@ -120116,7 +120347,7 @@
     "3月21日《船上的兔子追击者》卡牌异常问题说明": [
       "2335"
     ],
-    "活动【船上的兔子追击者】": [
+    "限时活动【船上的兔子追击者】": [
       "2334"
     ],
     "限定限时招募【不容分说的孤注一掷】": [
@@ -120317,7 +120548,7 @@
     "总力战 白&黑 • 街区战 3 & INSANE难度追加": [
       "2248"
     ],
-    "活动【冒失修女与古书馆的魔法师】": [
+    "限时活动【冒失修女与古书馆的魔法师】": [
       "2256"
     ],
     "例行维护13": [
@@ -120521,7 +120752,7 @@
     "在线更新10": [
       "2227"
     ],
-    "活动【沙勒的快乐情人节巡逻】": [
+    "限时活动【沙勒的快乐情人节巡逻】": [
       "2224"
     ],
     "真理社社团剧情更新": [
@@ -120968,7 +121199,7 @@
     "陆八魔爱露(新年)": [
       "2013"
     ],
-    "活动【新春狂想曲第68号】": [
+    "限时活动【新春狂想曲第68号】": [
       "2202"
     ],
     "任务(普通难度)2倍6": [
@@ -121046,7 +121277,7 @@
     "【传统温泉浴场】咖啡厅家具套装更新 & 巴、和香(温泉)、千夏(温泉)家具、切里诺(温泉)互动动作更新": [
       "2000"
     ],
-    "活动【227号温泉乡运营记录!】": [
+    "限时活动【227号温泉乡运营记录!】": [
       "2200"
     ],
     "资源调整补偿说明": [
@@ -121199,7 +121430,7 @@
     "【区域16】开放": [
       "1974"
     ],
-    "活动【特殊作战:神名十文字篇】": [
+    "限时活动【特殊作战:神名十文字篇】": [
       "1969"
     ],
     "限时招募【迎候黎明的咖啡 印予手背的誓言】": [
@@ -121358,7 +121589,7 @@
     "日程区域【千禧年学习区】更新": [
       "2192"
     ],
-    "活动【日奈会长的夏日休假!】": [
+    "限时活动【日奈会长的夏日休假!】": [
       "2190"
     ],
     "【夏日度假泳池派对】咖啡厅家具套装更新": [
@@ -121634,7 +121865,7 @@
     "限时招募【飒飒清风 觅迹寻踪】": [
       "1954"
     ],
-    "活动【补习部的特别集训任务】": [
+    "限时活动【补习部的特别集训任务】": [
       "1620"
     ],
     "总力战 切赛德 • 室内战": [
@@ -121787,7 +122018,7 @@
     "【万圣节南瓜】咖啡厅家具套装更新": [
       "2181"
     ],
-    "活动【夏日天空的愿望清单】": [
+    "限时活动【夏日天空的愿望清单】": [
       "1661"
     ],
     "【Happy Halloween!】纪念登录签到活动": [
@@ -122198,7 +122429,7 @@
     "在线更新3": [
       "1681"
     ],
-    "活动【革命之伊万库帕拉】": [
+    "限时活动【革命之伊万库帕拉】": [
       "1680"
     ],
     "总力战 切赛德 • 野外战": [
@@ -122321,7 +122552,7 @@
     "悬赏通缉3倍1 日程3倍1 特别委托3倍1": [
       "1753"
     ],
-    "活动【游戏开发部发布的每日任务!】": [
+    "限时活动【游戏开发部发布的每日任务!】": [
       "1751"
     ],
     "日程区域【千禧年学习区】更新 & 区域评级上限提升至12 & 日程券上限提升至6": [
@@ -122459,7 +122690,7 @@
     "国际服「The Ark of Atrahasis Conquest」活动PV公开": [
       "1503"
     ],
-    "活动【樱花烂漫庆典大骚动】": [
+    "限时活动【樱花烂漫庆典大骚动】": [
       "1724"
     ],
     "限时招募【庆典乐声响 难掩相思意】": [
@@ -122468,7 +122699,7 @@
     "首次活动开启纪念": [
       "2174"
     ],
-    "活动【樱花烂漫庆典大骚动】庆典启动资金": [
+    "限时活动【樱花烂漫庆典大骚动】庆典启动资金": [
       "2168"
     ],
     "限时招募【愿为这味道赌上性命】": [
@@ -126984,11 +127215,32 @@
     ]
   },
   "by_normalized_alias": {
+    "任务(困难难度)2倍#30": [
+      "6227"
+    ],
+    "任务(普通难度)2倍#30": [
+      "6226"
+    ],
+    "特别委托2倍#25&学院交流会2倍#34": [
+      "6225"
+    ],
+    "悬赏通缉2倍#44&日程2倍#44": [
+      "6224"
+    ],
+    "任务(困难难度)2倍#29": [
+      "6223"
+    ],
     "迷你剧情「183vs227」追加": [
       "6180"
     ],
     "特別依頼2倍#72": [
       "6172"
+    ],
+    "学院交流会2倍#33": [
+      "6221"
+    ],
+    "活动「誰が為の芸術~偽飾の絵画と美学の行方~」复刻": [
+      "6218"
     ],
     "联合火力演习#56": [
       "6178"
@@ -126999,11 +127251,20 @@
     "课程表2倍#46&学院交流会2倍#46": [
       "6171"
     ],
+    "任务(普通难度)2倍#29": [
+      "6222"
+    ],
     "任务hard2倍#59": [
       "6170"
     ],
+    "大决战:切赛德•野外战": [
+      "6219"
+    ],
     "国际服5周年韩国线下庆典活动": [
       "6099"
+    ],
+    "悬赏通缉2倍#43&日程2倍#43": [
+      "6220"
     ],
     "市街地戦・悪夢急行-ナイトメアトレイン-#1": [
       "6181"
@@ -127020,6 +127281,9 @@
     ],
     "国际服大决战hod(indoor)#1": [
       "6207"
+    ],
+    "「startyourengines!~183号よ永遠に!~」活动贺图": [
+      "6217"
     ],
     "国际服任务hard2倍#51": [
       "6213"
@@ -128072,7 +128336,7 @@
     "总力战格里高利•室内战#3": [
       "5851"
     ],
-    "限时活动【海兰德铁道失控事件~】": [
+    "限时活动【海兰德铁道失控事件~无车生还~】": [
       "5849"
     ],
     "光&望&青叶家具互动更新": [
@@ -128453,7 +128717,7 @@
     "国际服参展animeexpo2026": [
       "5454"
     ],
-    "限时活动【异饼危机】": [
+    "限时活动【异饼危机~甜美的奇迹~】": [
       "5699"
     ],
     "总力战猫鬼黑影·街区战#2": [
@@ -128480,7 +128744,7 @@
     "朱莉(打工)&濑名(便服)家具互动更新": [
       "5633"
     ],
-    "限时活动【异饼危机~甜美的奇迹】介绍pv": [
+    "限时活动【异饼危机~甜美的奇迹~】介绍pv": [
       "5630"
     ],
     "《蔚蓝档案》bw2026宣传pv": [
@@ -128862,7 +129126,7 @@
       "5494",
       "5074"
     ],
-    "限时活动【codebox逼近千禧年的阴影~一个问题与两个答案~】": [
+    "限时活动【code:box逼近千禧年的阴影~一个问题与两个答案~】": [
       "5500"
     ],
     "限时限定招募【自在阳光照耀天际】": [
@@ -128877,7 +129141,7 @@
     "例行维护#60": [
       "5499"
     ],
-    "限时活动【codebox逼近千禧年的阴影~一个问题与两个答案~】介绍pv": [
+    "限时活动【code:box逼近千禧年的阴影~一个问题与两个答案~】介绍pv": [
       "5490"
     ],
     "《蔚蓝档案》【今日几分甜】别笑,笑你也过不了第二关": [
@@ -131692,7 +131956,7 @@
     "和纱(乐队)&好美(乐队)&爱理(乐队)家具互动更新": [
       "4514"
     ],
-    "限时活动:-ivealive!": [
+    "限时活动【-ivealive!】": [
       "4523"
     ],
     "限时招募:【whosaysyoucan'tbesweet】": [
@@ -131992,7 +132256,7 @@
     "限时招募【蓝色重金属】": [
       "4472"
     ],
-    "限时活动:0068来自歌剧的爱": [
+    "限时活动【0068来自歌剧的爱情!】": [
       "4450"
     ],
     "例行维护#44": [
@@ -136022,7 +136286,7 @@
     "限时招募【响彻圣夜的慈爱颂歌】": [
       "3080"
     ],
-    "活动【圣堂的圣夜祝福~救护骑士团的礼物~】": [
+    "限时活动【圣堂的圣夜祝福~救护骑士团的礼物~】": [
       "3078"
     ],
     "芹娜(圣诞)、花江(圣诞)家具互动更新": [
@@ -136223,7 +136487,7 @@
     "悬赏通缉3倍#7日程3倍#7学院交流会3倍#5任务(普通难度)3倍#6": [
       "3022"
     ],
-    "活动【特殊作战:神名十文字篇】4": [
+    "限时活动【特殊作战:神名十文字篇】4": [
       "2997"
     ],
     "违规账号封禁#37": [
@@ -136493,7 +136757,7 @@
     "限定限时招募【理性与热情的equation】": [
       "2940"
     ],
-    "活动【getset,go!~基沃托斯晄轮大会~】": [
+    "限时活动【getset,go!~基沃托斯晄轮大会~】": [
       "2934"
     ],
     "例行维护#23": [
@@ -136742,7 +137006,7 @@
     "07月18日【角色技能升级、装备升阶】异常问题说明": [
       "2909"
     ],
-    "活动【onyourmark@millennium~基沃托斯晄轮大会~】": [
+    "限时活动【onyourmark@millennium~基沃托斯晄轮大会~】": [
       "2908"
     ],
     "限时招募【雾窗蒙蒙勾勒刹那】": [
@@ -136926,7 +137190,7 @@
     "限时招募复刻【彩色玻璃的甜美邀请】": [
       "2768"
     ],
-    "活动【课后甜点故事~甜秘枪战~】": [
+    "限时活动【课后甜点故事~甜秘枪战~】": [
       "2809"
     ],
     "rabbit小队社团剧情更新": [
@@ -136941,7 +137205,7 @@
     "学院交流会2倍6": [
       "2807"
     ],
-    "活动【特殊作战:神名十文字篇】3": [
+    "限时活动【特殊作战:神名十文字篇】3": [
       "2806"
     ],
     "屋外戦・ビナー#5": [
@@ -137153,7 +137417,7 @@
     "庆典招募【从黄昏到水面从恍惚到睡眠】": [
       "2754"
     ],
-    "活动【出差!百夜堂海之家加盟计划】": [
+    "限时活动【出差!百夜堂海之家加盟计划】": [
       "2748"
     ],
     "《蔚蓝档案》官方频道七天签到活动": [
@@ -137288,7 +137552,7 @@
     "总力战比纳•野外战3": [
       "2623"
     ],
-    "活动【阿拜多斯度假村重建对策委员会】": [
+    "限时活动【阿拜多斯度假村重建对策委员会】": [
       "2633"
     ],
     "例行维护#19": [
@@ -137393,7 +137657,7 @@
     "指名手配2倍#37": [
       "5096"
     ],
-    "活动【阿里乌斯自管区调查任务2】": [
+    "限时活动【阿里乌斯自管区调查任务2】": [
       "2616"
     ],
     "国际服卡池复刻「ihatetobeabother.i'msorry!」": [
@@ -137445,7 +137709,7 @@
     "紧急总力战白&黑•室内战2": [
       "2571"
     ],
-    "活动【阿里乌斯自管区调查任务】": [
+    "限时活动【阿里乌斯自管区调查任务】": [
       "2580"
     ],
     "【区域19】开放": [
@@ -137565,7 +137829,7 @@
     "tv动画官网添加special页面": [
       "2536"
     ],
-    "活动【特殊作战:神名十文字篇】2": [
+    "限时活动【特殊作战:神名十文字篇】2": [
       "2565"
     ],
     "伊甸园条约篇第4章介绍pv": [
@@ -137634,7 +137898,7 @@
     "总力战比纳•街区战": [
       "2514"
     ],
-    "活动【初音未来的特别演出in基沃托斯~彩排篇~】": [
+    "限时活动【初音未来的特别演出in基沃托斯~彩排篇~】": [
       "2564"
     ],
     "国际服超电磁炮t联动特别pv食蜂操祈": [
@@ -137802,7 +138066,7 @@
     "限时招募【此身不长久惜取豆蔻年!】&【芬芳藏不住绽放必有时】&【抬头23.4°可见星光一点】&【snipethetarget\"l-seven\"!】": [
       "2451"
     ],
-    "活动【不忍之心】": [
+    "限时活动【不忍之心】": [
       "2510"
     ],
     "忍术研究部社团剧情更新": [
@@ -137904,7 +138168,7 @@
     "夏莱的总决算with联邦学生会7": [
       "2430"
     ],
-    "活动【与rabbit小队一起的快乐露营(风餐露宿)生活!】": [
+    "限时活动【与rabbit小队一起的快乐露营(风餐露宿)生活!】": [
       "2440"
     ],
     "卡班诺的兔子篇第1章【rabbit小队,作战开始!】12~20话更新": [
@@ -137982,7 +138246,7 @@
     "限时招募【这里是rabbit1,用眼眸坚守理想】&【这里是rabbit2,以脚步丈量规范】&【这里是rabbit3,在胸中执行计算】&【这里是rabbit4,凭指尖完成证明】": [
       "2386"
     ],
-    "活动【沙勒指引任务】": [
+    "限时活动【沙勒指引任务】": [
       "2385"
     ],
     "网页活动【胡萝卜行动野外特别篇】": [
@@ -138234,7 +138498,7 @@
     "3月21日《船上的兔子追击者》卡牌异常问题说明": [
       "2335"
     ],
-    "活动【船上的兔子追击者】": [
+    "限时活动【船上的兔子追击者】": [
       "2334"
     ],
     "限定限时招募【不容分说的孤注一掷】": [
@@ -138435,7 +138699,7 @@
     "总力战白&黑•街区战3&insane难度追加": [
       "2248"
     ],
-    "活动【冒失修女与古书馆的魔法师】": [
+    "限时活动【冒失修女与古书馆的魔法师】": [
       "2256"
     ],
     "例行维护13": [
@@ -138640,7 +138904,7 @@
     "在线更新10": [
       "2227"
     ],
-    "活动【沙勒的快乐情人节巡逻】": [
+    "限时活动【沙勒的快乐情人节巡逻】": [
       "2224"
     ],
     "真理社社团剧情更新": [
@@ -139084,7 +139348,7 @@
     "陆八魔爱露(新年)": [
       "2013"
     ],
-    "活动【新春狂想曲第68号】": [
+    "限时活动【新春狂想曲第68号】": [
       "2202"
     ],
     "任务(普通难度)2倍6": [
@@ -139162,7 +139426,7 @@
     "【传统温泉浴场】咖啡厅家具套装更新&巴、和香(温泉)、千夏(温泉)家具、切里诺(温泉)互动动作更新": [
       "2000"
     ],
-    "活动【227号温泉乡运营记录!】": [
+    "限时活动【227号温泉乡运营记录!】": [
       "2200"
     ],
     "资源调整补偿说明": [
@@ -139315,7 +139579,7 @@
     "【区域16】开放": [
       "1974"
     ],
-    "活动【特殊作战:神名十文字篇】": [
+    "限时活动【特殊作战:神名十文字篇】": [
       "1969"
     ],
     "限时招募【迎候黎明的咖啡印予手背的誓言】": [
@@ -139474,7 +139738,7 @@
     "日程区域【千禧年学习区】更新": [
       "2192"
     ],
-    "活动【日奈会长的夏日休假!】": [
+    "限时活动【日奈会长的夏日休假!】": [
       "2190"
     ],
     "【夏日度假泳池派对】咖啡厅家具套装更新": [
@@ -139750,7 +140014,7 @@
     "限时招募【飒飒清风觅迹寻踪】": [
       "1954"
     ],
-    "活动【补习部的特别集训任务】": [
+    "限时活动【补习部的特别集训任务】": [
       "1620"
     ],
     "总力战切赛德•室内战": [
@@ -139903,7 +140167,7 @@
     "【万圣节南瓜】咖啡厅家具套装更新": [
       "2181"
     ],
-    "活动【夏日天空的愿望清单】": [
+    "限时活动【夏日天空的愿望清单】": [
       "1661"
     ],
     "【happyhalloween!】纪念登录签到活动": [
@@ -140314,7 +140578,7 @@
     "在线更新3": [
       "1681"
     ],
-    "活动【革命之伊万库帕拉】": [
+    "限时活动【革命之伊万库帕拉】": [
       "1680"
     ],
     "总力战切赛德•野外战": [
@@ -140437,7 +140701,7 @@
     "悬赏通缉3倍1日程3倍1特别委托3倍1": [
       "1753"
     ],
-    "活动【游戏开发部发布的每日任务!】": [
+    "限时活动【游戏开发部发布的每日任务!】": [
       "1751"
     ],
     "日程区域【千禧年学习区】更新&区域评级上限提升至12&日程券上限提升至6": [
@@ -140575,7 +140839,7 @@
     "国际服「thearkofatrahasisconquest」活动pv公开": [
       "1503"
     ],
-    "活动【樱花烂漫庆典大骚动】": [
+    "限时活动【樱花烂漫庆典大骚动】": [
       "1724"
     ],
     "限时招募【庆典乐声响难掩相思意】": [
@@ -140584,7 +140848,7 @@
     "首次活动开启纪念": [
       "2174"
     ],
-    "活动【樱花烂漫庆典大骚动】庆典启动资金": [
+    "限时活动【樱花烂漫庆典大骚动】庆典启动资金": [
       "2168"
     ],
     "限时招募【愿为这味道赌上性命】": [
