@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-11-08T21:41:37Z",
+  "generated_at": "2026-11-10T01:12:12Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1026,
-  "alias_count": 1348,
-  "normalized_alias_count": 1348,
+  "total_items": 1034,
+  "alias_count": 1359,
+  "normalized_alias_count": 1359,
   "by_id": {
     "1": {
       "id": 1,
@@ -14563,7 +14563,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 929,
-        "title": "Theme_269_Title",
+        "title": "My Archive",
         "cover": "",
         "author": "EmoCosine",
         "album": "游戏内曲目",
@@ -14838,7 +14838,7 @@
         "title": "Echoes of Longing / 동경의 잔향",
         "cover": "https://static.kivo.wiki/images/music/cover/eBbfmILSUjRLht4nxc2PCzmvVYojyBOO.jpg",
         "author": "DAZBEE / Mitsukiyo / 夕野ヨシミ(IOSYS)",
-        "album": "",
+        "album": "Echoes of Longing",
         "use": "专辑曲目",
         "original_file_name": ""
       },
@@ -15971,7 +15971,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 1017,
-        "title": "Theme_369",
+        "title": "Love Cliché",
         "cover": "",
         "author": "KARUT",
         "album": "游戏内曲目",
@@ -15987,7 +15987,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 1018,
-        "title": "Theme_369_Lobby",
+        "title": "Love Cliché (Lobby Ver.)",
         "cover": "",
         "author": "KARUT",
         "album": "游戏内曲目",
@@ -16428,6 +16428,134 @@
       },
       "detail_path": "musics/1045.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1045.json"
+    },
+    "1046": {
+      "id": 1046,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1046,
+        "title": "Unending Moderato (MV Ver.)",
+        "cover": "https://static.kivo.wiki/images/music/cover/tveHiC0QmLJkLtPLlvW1zBgJPX7vxjZs.jpg",
+        "author": "Saebit / Mitsukiyo",
+        "album": "国际服5周年",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1046.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1046.json"
+    },
+    "1047": {
+      "id": 1047,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1047,
+        "title": "Protocol SUPERNOVA",
+        "cover": "https://static.kivo.wiki/images/music/cover/0wpPDJX63SS7FQkyBImoyVHVM06IasNg.png",
+        "author": "天童爱丽丝 (CV:Kim Garyeong) / 天童凯伊 (CV:Kim Garyeong) / KARUT / EmoCosine",
+        "album": "Protocol SUPERNOVA – Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1047.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1047.json"
+    },
+    "1048": {
+      "id": 1048,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1048,
+        "title": "Protocol SUPERNOVA (Instrumental)",
+        "cover": "",
+        "author": "天童爱丽丝 (CV:Kim Garyeong) / 天童凯伊 (CV:Kim Garyeong) / KARUT / EmoCosine",
+        "album": "Protocol SUPERNOVA – Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1048.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1048.json"
+    },
+    "1049": {
+      "id": 1049,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1049,
+        "title": "Aris accepts an unexpected quest!",
+        "cover": "https://static.kivo.wiki/images/music/cover/s3Qrchym6cIuggxeKumRpG9p2StNfVkd.png",
+        "author": "天童爱丽丝 (CV:Kim Garyeong) / 天童凯伊 (CV:Kim Garyeong)",
+        "album": "Protocol SUPERNOVA – Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1049.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1049.json"
+    },
+    "1050": {
+      "id": 1050,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1050,
+        "title": "I won't help if you don't stop!",
+        "cover": "https://static.kivo.wiki/images/music/cover/Mnuyc1pOAAX3nSOJyuISNoFhBuN9ZFDP.png",
+        "author": "天童爱丽丝 (CV:Kim Garyeong) / 天童凯伊 (CV:Kim Garyeong)",
+        "album": "Protocol SUPERNOVA – Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1050.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1050.json"
+    },
+    "1051": {
+      "id": 1051,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1051,
+        "title": "Following Petals",
+        "cover": "https://static.kivo.wiki/images/music/cover/FieP60jyDSpWP2iERbzXTyzNAS2iV1P9.png",
+        "author": "龙华妃咲 (CV: Kang Sihyun) / Mitsukiyo / Negoto Bunnyla",
+        "album": "Following Petals - Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1051.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1051.json"
+    },
+    "1052": {
+      "id": 1052,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1052,
+        "title": "Following Petals (Instrumental)",
+        "cover": "https://static.kivo.wiki/images/music/cover/vBNF56qHOYJTsDPmYy9MP3rFwffowKTH.png",
+        "author": "龙华妃咲 (CV: Kang Sihyun) / Mitsukiyo / Negoto Bunnyla",
+        "album": "Following Petals - Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1052.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1052.json"
+    },
+    "1053": {
+      "id": 1053,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1053,
+        "title": "I will hold onto this parasol, forever",
+        "cover": "https://static.kivo.wiki/images/music/cover/P8oTj8xEn0SUzBneENqRJlffyJPT6xGV.png",
+        "author": "龙华妃咲 (CV: Kang Sihyun)",
+        "album": "Following Petals - Memories in Melody",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1053.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1053.json"
     }
   },
   "by_alias": {
@@ -20098,6 +20226,9 @@
     "Art is Now (Instrumental)": [
       "928"
     ],
+    "My Archive": [
+      "929"
+    ],
     "Theme_269_Title": [
       "929"
     ],
@@ -20386,8 +20517,14 @@
     "Theme_375": [
       "1016"
     ],
+    "Love Cliché": [
+      "1017"
+    ],
     "Theme_369": [
       "1017"
+    ],
+    "Love Cliché (Lobby Ver.)": [
+      "1018"
     ],
     "Theme_369_Lobby": [
       "1018"
@@ -20475,6 +20612,30 @@
     ],
     "11058_ED_Sound": [
       "1045"
+    ],
+    "Unending Moderato (MV Ver.)": [
+      "1046"
+    ],
+    "Protocol SUPERNOVA": [
+      "1047"
+    ],
+    "Protocol SUPERNOVA (Instrumental)": [
+      "1048"
+    ],
+    "Aris accepts an unexpected quest!": [
+      "1049"
+    ],
+    "I won't help if you don't stop!": [
+      "1050"
+    ],
+    "Following Petals": [
+      "1051"
+    ],
+    "Following Petals (Instrumental)": [
+      "1052"
+    ],
+    "I will hold onto this parasol, forever": [
+      "1053"
     ]
   },
   "by_normalized_alias": {
@@ -24145,6 +24306,9 @@
     "artisnow(instrumental)": [
       "928"
     ],
+    "myarchive": [
+      "929"
+    ],
     "theme_269_title": [
       "929"
     ],
@@ -24433,8 +24597,14 @@
     "theme_375": [
       "1016"
     ],
+    "lovecliché": [
+      "1017"
+    ],
     "theme_369": [
       "1017"
+    ],
+    "lovecliché(lobbyver.)": [
+      "1018"
     ],
     "theme_369_lobby": [
       "1018"
@@ -24522,6 +24692,30 @@
     ],
     "11058_ed_sound": [
       "1045"
+    ],
+    "unendingmoderato(mvver.)": [
+      "1046"
+    ],
+    "protocolsupernova": [
+      "1047"
+    ],
+    "protocolsupernova(instrumental)": [
+      "1048"
+    ],
+    "arisacceptsanunexpectedquest!": [
+      "1049"
+    ],
+    "iwon'thelpifyoudon'tstop!": [
+      "1050"
+    ],
+    "followingpetals": [
+      "1051"
+    ],
+    "followingpetals(instrumental)": [
+      "1052"
+    ],
+    "iwillholdontothisparasol,forever": [
+      "1053"
     ]
   }
 }

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-11-08T21:41:37Z",
+  "generated_at": "2026-11-10T01:12:12Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6058,
-  "alias_count": 6048,
-  "normalized_alias_count": 6040,
+  "total_items": 6071,
+  "alias_count": 6061,
+  "normalized_alias_count": 6053,
   "by_id": {
     "6227": {
       "id": 6227,
@@ -157,6 +157,42 @@
       "detail_path": "timeline/6221.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6221.json"
     },
+    "6229": {
+      "id": 6229,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6229,
+        "line_type": "CN",
+        "title": "美咲（泳装）家具互动更新",
+        "image": "https://static.kivo.wiki/images/timeline/0ffk7Nok1WgUB7R6ddNY08Tq46bdGR1E.gif",
+        "body_summary": "全新成员&家具互动动作即将更新！在咖啡厅配置“可互动的家具”后，当特定成员来访时，就会与家具产生交互动作！ ■ 更新时间 11月12日 维护结束后 ■ 互动更新 • 美咲（泳装） & 海滩躺椅和小桌子",
+        "type": "ContentImprovements",
+        "url": "weibo.com/6011443154/RqfNxl98L",
+        "start_time": 1794454423,
+        "end_time": 1794454423
+      },
+      "detail_path": "timeline/6229.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6229.json"
+    },
+    "6233": {
+      "id": 6233,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6233,
+        "line_type": "Globle",
+        "title": "国际服制约解除作战：赛特之怒 #16",
+        "image": "https://static.kivo.wiki/images/timeline/wySKs5OcSNNssBq6hHon5dsluPsqRRqy.jpg",
+        "body_summary": "[Final Restriction Release Preview] Final Restriction Release - The Fury of Set (Defense Type: Light",
+        "type": "MiniBattle",
+        "url": "x.com/EN_BlueArchive/status/2118236873344925706",
+        "start_time": 1794406316,
+        "end_time": 1794406316
+      },
+      "detail_path": "timeline/6233.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6233.json"
+    },
     "6218": {
       "id": 6218,
       "source_path": "timeline/index.json",
@@ -229,6 +265,96 @@
       "detail_path": "timeline/6171.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6171.json"
     },
+    "6238": {
+      "id": 6238,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6238,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #123",
+        "image": "https://static.kivo.wiki/images/timeline/L4gbBxgKhnJsAX3Ox2uj8kwqmcC9Szlq.jpg",
+        "body_summary": "[11/10 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 11/10 (Tue). 🗓️Main",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/2118630719694295152",
+        "start_time": 1794322819,
+        "end_time": 1794322819
+      },
+      "detail_path": "timeline/6238.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6238.json"
+    },
+    "6237": {
+      "id": 6237,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6237,
+        "line_type": "Globle",
+        "title": "国际服卡池「Sensei's hand truly is Warm.」",
+        "image": "https://static.kivo.wiki/images/timeline/B82goXVbKMurfY6PzTv5d7JSjFPbFS7g.jpg",
+        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 11/10 (Tue)! 💌Pi",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2118603036096344330",
+        "start_time": 1794322299,
+        "end_time": 1794927099
+      },
+      "detail_path": "timeline/6237.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6237.json"
+    },
+    "6236": {
+      "id": 6236,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6236,
+        "line_type": "Globle",
+        "title": "国际服卡池「Weigh anchor ! It's time to set Sail !」",
+        "image": "https://static.kivo.wiki/images/timeline/2c4ft3Nn2IQerPOdSILUTayMyGVGgeqe.jpg",
+        "body_summary": "[Unique Pick-Up Recruitment Preview] A New Unique Pick-Up Recruitment will begin on 11/10 (Tue)! 💌Pi",
+        "type": "Gacha",
+        "url": "x.com/EN_BlueArchive/status/2118599268097519744",
+        "start_time": 1794321962,
+        "end_time": 1794926762
+      },
+      "detail_path": "timeline/6236.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6236.json"
+    },
+    "6240": {
+      "id": 6240,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6240,
+        "line_type": "Globle",
+        "title": "国际服学院交流会2倍 #45",
+        "image": "https://static.kivo.wiki/images/timeline/25cteRIeoHqaaYOj0UMcEQhfpMkpua2e.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 11/9 (Mon), Scrimmage reward will be tripled! Don't miss out",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2118965424268472518",
+        "start_time": 1794237366,
+        "end_time": 1794842166
+      },
+      "detail_path": "timeline/6240.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6240.json"
+    },
+    "6239": {
+      "id": 6239,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6239,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍#52",
+        "image": "https://static.kivo.wiki/images/timeline/nVCu9ts2W9lH8lSG8M9OJfpyb1nZBsT6.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 11/9 (Mon), Bounty rewards will be tripled! Don't miss out o",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2118961653874389208",
+        "start_time": 1794179346,
+        "end_time": 1794784146
+      },
+      "detail_path": "timeline/6239.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6239.json"
+    },
     "6222": {
       "id": 6222,
       "source_path": "timeline/index.json",
@@ -300,6 +426,60 @@
       },
       "detail_path": "timeline/6099.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6099.json"
+    },
+    "6235": {
+      "id": 6235,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6235,
+        "line_type": "Globle",
+        "title": "国际服主线第2部Vol 1.  第一章&第二章 更新",
+        "image": "https://static.kivo.wiki/images/timeline/YcXJFATTnfdg3DtFWX5fLqjGmSv3o7VT.jpg",
+        "body_summary": "[Main Story Announcement] Sensei, Chapters 1 and 2 of Main Story Act 2, Vol 1. Flame and Shadow are ",
+        "type": "MainStory",
+        "url": "x.com/EN_BlueArchive/status/2118584168443679226",
+        "start_time": 1793974655,
+        "end_time": 1793974655
+      },
+      "detail_path": "timeline/6235.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6235.json"
+    },
+    "6228": {
+      "id": 6228,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6228,
+        "line_type": "CN",
+        "title": "美咲（泳装）",
+        "image": "https://static.kivo.wiki/images/timeline/TUsXXU7MWqT8lDcGteMOJqa1oSOhsbk9.jpg",
+        "body_summary": "//////////档案启封////////// ■ 美咲（泳装） 看上去沉着冷静的阿里乌斯战术小队成员。 虽然正极力装作镇定，但还是无法掩饰自己的兴奋。只要提到这一点，她就会非常生气，不过…… “这",
+        "type": "Other",
+        "url": "weibo.com/6011443154/Rq6n2cvpI",
+        "start_time": 1793935723,
+        "end_time": 1793935723
+      },
+      "detail_path": "timeline/6228.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6228.json"
+    },
+    "6234": {
+      "id": 6234,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6234,
+        "line_type": "Globle",
+        "title": "国际服5周年纪念特别OST MV发布",
+        "image": "https://static.kivo.wiki/images/timeline/2jL709OacGxU9EFa0LZQDhCsGOEdmDst.jpg",
+        "body_summary": "[5th Anniversary Special OST MV Release!] Thank you for everything you do, Sensei! We hope you enjoy",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2118282185127886901",
+        "start_time": 1793888102,
+        "end_time": 1793888102
+      },
+      "detail_path": "timeline/6234.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6234.json"
     },
     "6220": {
       "id": 6220,
@@ -391,6 +571,24 @@
       "detail_path": "timeline/6210.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6210.json"
     },
+    "6232": {
+      "id": 6232,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6232,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编阿罗娜海盗装换装回 #41",
+        "image": "https://static.kivo.wiki/images/timeline/7IuMw139TJukJg4E5JkFf0eSPmfxd6LB.jpg",
+        "body_summary": "It's almost Blue Archive's 5th Anniversary, Sensei! 🎉 To celebrate, Mint Fantôme returns as CM Arcie",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2119233447021478324",
+        "start_time": 1793713282,
+        "end_time": 1794318082
+      },
+      "detail_path": "timeline/6232.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6232.json"
+    },
     "6207": {
       "id": 6207,
       "source_path": "timeline/index.json",
@@ -426,6 +624,42 @@
       },
       "detail_path": "timeline/6217.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6217.json"
+    },
+    "6231": {
+      "id": 6231,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6231,
+        "line_type": "Globle",
+        "title": "国际服活动常驻化「Basking in the Brilliance of Their Serenade」",
+        "image": "https://static.kivo.wiki/images/timeline/YzhlfmbHGd9EuXsCdlAH8jpuk3FkkJOS.jpg",
+        "body_summary": "[Immortalized Event Notice] The Event Story, Basking in the Brilliance of Their Serenade, has been i",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2117519647952064993",
+        "start_time": 1793646000,
+        "end_time": 1793646000
+      },
+      "detail_path": "timeline/6231.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6231.json"
+    },
+    "6230": {
+      "id": 6230,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6230,
+        "line_type": "Globle",
+        "title": "国际服活动常驻化「Balancing Schale's Books with the General Student Council」#19",
+        "image": "https://static.kivo.wiki/images/timeline/Wzi6yVOBiFDQy64Mt1b2acn9DKrZvJL1.jpg",
+        "body_summary": "[Mini Event Notice] Balancing Schale's Books with the General Student Council is back! Earn enhancem",
+        "type": "Event",
+        "url": "x.com/EN_BlueArchive/status/2117515872587702664",
+        "start_time": 1793642400,
+        "end_time": 1794247199
+      },
+      "detail_path": "timeline/6230.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6230.json"
     },
     "6213": {
       "id": 6213,
@@ -3818,7 +4052,7 @@
       "item": {
         "id": 6019,
         "line_type": "Globle",
-        "title": "国际服主线第二部EX. 第2章更新",
+        "title": "国际服主线第2部EX. 第2章更新",
         "image": "https://static.kivo.wiki/images/timeline/LESrz3UqqkP8wUVIIkJ2lYrzO80SjIYM.png",
         "body_summary": "[Main Story Announcement] Ex. Lore Pursuit Chapter 2: What's Inside the Drum Barrel is coming soon, ",
         "type": "MainStory",
@@ -5474,7 +5708,7 @@
       "item": {
         "id": 5912,
         "line_type": "Globle",
-        "title": "国际服主线第二部EX. 第1章更新",
+        "title": "国际服主线第2部EX. 第1章更新",
         "image": "https://static.kivo.wiki/images/timeline/6F8d3O4rWvIxaBckI3zCPUEtUzH3vN6o.jpg",
         "body_summary": "Ex. Lore Pursuit Chapter 1: High Noon Haze is coming soon, Sensei! Please look forward to it! #BlueA",
         "type": "MainStory",
@@ -109083,6 +109317,12 @@
     "学院交流会2倍 #33": [
       "6221"
     ],
+    "美咲(泳装)家具互动更新": [
+      "6229"
+    ],
+    "国际服制约解除作战:赛特之怒 #16": [
+      "6233"
+    ],
     "活动「誰が為の芸術~偽飾の絵画と美学の行方~」复刻": [
       "6218"
     ],
@@ -109095,6 +109335,21 @@
     "课程表2倍#46 & 学院交流会2倍#46": [
       "6171"
     ],
+    "国际服例行维护 #123": [
+      "6238"
+    ],
+    "国际服卡池「Sensei's hand truly is Warm.」": [
+      "6237"
+    ],
+    "国际服卡池「Weigh anchor ! It's time to set Sail !」": [
+      "6236"
+    ],
+    "国际服学院交流会2倍 #45": [
+      "6240"
+    ],
+    "国际服指名手配2倍#52": [
+      "6239"
+    ],
     "任务(普通难度)2倍 #29": [
       "6222"
     ],
@@ -109106,6 +109361,15 @@
     ],
     "国际服5周年韩国线下庆典活动": [
       "6099"
+    ],
+    "国际服主线第2部Vol 1. 第一章&第二章 更新": [
+      "6235"
+    ],
+    "美咲(泳装)": [
+      "6228"
+    ],
+    "国际服5周年纪念特别OST MV发布": [
+      "6234"
     ],
     "悬赏通缉2倍 #43 & 日程2倍 #43": [
       "6220"
@@ -109122,11 +109386,20 @@
     "国际服卡池复刻 「Conquer the Sky Capriccioso」&「Honor the Sky Affettuoso」": [
       "6210"
     ],
+    "国际服Arcie小编阿罗娜海盗装换装回 #41": [
+      "6232"
+    ],
     "国际服大决战 Hod (Indoor) #1": [
       "6207"
     ],
     "「Start Your Engines! ~183号よ永遠に!~」活动贺图": [
       "6217"
+    ],
+    "国际服活动常驻化「Basking in the Brilliance of Their Serenade」": [
+      "6231"
+    ],
+    "国际服活动常驻化「Balancing Schale's Books with the General Student Council」#19": [
+      "6230"
     ],
     "国际服任务Hard2倍 #51": [
       "6213"
@@ -109693,7 +109966,7 @@
     "国际服绘里香实装礼物": [
       "6007"
     ],
-    "国际服主线第二部EX. 第2章更新": [
+    "国际服主线第2部EX. 第2章更新": [
       "6019"
     ],
     "【什亭之“响”】修行漫漫,“泉”程有你": [
@@ -109969,7 +110242,7 @@
     "国际服主线第2部 Vol.0 第一章更新": [
       "5913"
     ],
-    "国际服主线第二部EX. 第1章更新": [
+    "国际服主线第2部EX. 第1章更新": [
       "5912"
     ],
     "国际服例行维护 #117": [
@@ -127239,6 +127512,12 @@
     "学院交流会2倍#33": [
       "6221"
     ],
+    "美咲(泳装)家具互动更新": [
+      "6229"
+    ],
+    "国际服制约解除作战:赛特之怒#16": [
+      "6233"
+    ],
     "活动「誰が為の芸術~偽飾の絵画と美学の行方~」复刻": [
       "6218"
     ],
@@ -127251,6 +127530,21 @@
     "课程表2倍#46&学院交流会2倍#46": [
       "6171"
     ],
+    "国际服例行维护#123": [
+      "6238"
+    ],
+    "国际服卡池「sensei'shandtrulyiswarm.」": [
+      "6237"
+    ],
+    "国际服卡池「weighanchor!it'stimetosetsail!」": [
+      "6236"
+    ],
+    "国际服学院交流会2倍#45": [
+      "6240"
+    ],
+    "国际服指名手配2倍#52": [
+      "6239"
+    ],
     "任务(普通难度)2倍#29": [
       "6222"
     ],
@@ -127262,6 +127556,15 @@
     ],
     "国际服5周年韩国线下庆典活动": [
       "6099"
+    ],
+    "国际服主线第2部vol1.第一章&第二章更新": [
+      "6235"
+    ],
+    "美咲(泳装)": [
+      "6228"
+    ],
+    "国际服5周年纪念特别ostmv发布": [
+      "6234"
     ],
     "悬赏通缉2倍#43&日程2倍#43": [
       "6220"
@@ -127279,11 +127582,20 @@
       "6210",
       "3976"
     ],
+    "国际服arcie小编阿罗娜海盗装换装回#41": [
+      "6232"
+    ],
     "国际服大决战hod(indoor)#1": [
       "6207"
     ],
     "「startyourengines!~183号よ永遠に!~」活动贺图": [
       "6217"
+    ],
+    "国际服活动常驻化「baskinginthebrillianceoftheirserenade」": [
+      "6231"
+    ],
+    "国际服活动常驻化「balancingschale'sbookswiththegeneralstudentcouncil」#19": [
+      "6230"
     ],
     "国际服任务hard2倍#51": [
       "6213"
@@ -127850,7 +128162,7 @@
     "国际服绘里香实装礼物": [
       "6007"
     ],
-    "国际服主线第二部ex.第2章更新": [
+    "国际服主线第2部ex.第2章更新": [
       "6019"
     ],
     "【什亭之“响”】修行漫漫,“泉”程有你": [
@@ -128126,7 +128438,7 @@
     "国际服主线第2部vol.0第一章更新": [
       "5913"
     ],
-    "国际服主线第二部ex.第1章更新": [
+    "国际服主线第2部ex.第1章更新": [
       "5912"
     ],
     "国际服例行维护#117": [
