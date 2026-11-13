@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-11-12T00:04:08Z",
+  "generated_at": "2026-11-12T23:14:01Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 513,
-  "alias_count": 5805,
-  "normalized_alias_count": 3985,
+  "total_items": 514,
+  "alias_count": 5807,
+  "normalized_alias_count": 3987,
   "by_id": {
     "76": {
       "id": 76,
@@ -8887,6 +8887,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/273.json",
       "profile_path": "students/profiles/273.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/273.json"
+    },
+    "648": {
+      "id": 648,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 648,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "",
+        "given_name": "气垫船",
+        "family_name_jp": "",
+        "given_name_jp": "ホバ一クラフト",
+        "family_name_cn": "",
+        "given_name_cn": "气垫船",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E6%B0%94%E5%9E%AB%E8%88%B9/original/Wakamo_HoverCraft_Original.png",
+        "school": 0,
+        "main_relation": 74
+      },
+      "detail_path": "students/648.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/648.json",
+      "profile_path": "students/profiles/648.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/648.json"
     },
     "380": {
       "id": 380,
@@ -30061,6 +30086,12 @@
     "robot2_division_spr": [
       "273"
     ],
+    "气垫船": [
+      "648"
+    ],
+    "ホバ一クラフト": [
+      "648"
+    ],
     "小鸟游星野*恐怖": [
       "380"
     ],
@@ -42784,6 +42815,12 @@
     ],
     "robot2_division_spr": [
       "273"
+    ],
+    "气垫船": [
+      "648"
+    ],
+    "ホバ一クラフト": [
+      "648"
     ],
     "小鸟游星野*恐怖": [
       "380"

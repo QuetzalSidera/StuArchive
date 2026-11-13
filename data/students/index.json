@@ -7,13 +7,13 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-11-12T00:04:08Z",
+  "generated_at": "2026-11-12T23:14:01Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 52,
   "synced_pages": 52,
-  "total_items": 513,
-  "details_synced": 513,
+  "total_items": 514,
+  "details_synced": 514,
   "details_enabled": true,
   "items": [
     {
@@ -5697,6 +5697,22 @@
       "main_relation": 0
     },
     {
+      "id": 648,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "",
+      "given_name": "气垫船",
+      "family_name_jp": "",
+      "given_name_jp": "ホバ一クラフト",
+      "family_name_cn": "",
+      "given_name_cn": "气垫船",
+      "avatar": "https://static.kivo.wiki/images/students/%20%E6%B0%94%E5%9E%AB%E8%88%B9/original/Wakamo_HoverCraft_Original.png",
+      "school": 0,
+      "main_relation": 74
+    },
+    {
       "id": 380,
       "skin": "",
       "skin_jp": "",
@@ -8588,7 +8604,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/?page=52",
       "path": "students/pages/52.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/pages/52.json",
-      "item_count": 3
+      "item_count": 4
     }
   ],
   "details": [
@@ -10723,6 +10739,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/273.json"
     },
     {
+      "id": 648,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/648",
+      "path": "students/648.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/648.json"
+    },
+    {
       "id": 380,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/380",
       "path": "students/380.json",
@@ -11674,9 +11696,9 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5805,
-    "normalized_alias_count": 3985,
-    "total_items": 513
+    "alias_count": 5807,
+    "normalized_alias_count": 3987,
+    "total_items": 514
   },
   "profiles": [
     {
@@ -14095,6 +14117,11 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/647.json"
     },
     {
+      "id": 648,
+      "path": "students/profiles/648.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/648.json"
+    },
+    {
       "id": 65,
       "path": "students/profiles/65.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/65.json"
@@ -14288,6 +14315,6 @@
   "profile_index": {
     "path": "students/profiles/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/index.json",
-    "total_items": 521
+    "total_items": 522
   }
 }
