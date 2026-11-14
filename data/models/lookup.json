@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-11-12T23:14:01Z",
+  "generated_at": "2026-11-13T23:15:51Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 547,
-  "alias_count": 547,
-  "normalized_alias_count": 547,
+  "total_items": 549,
+  "alias_count": 549,
+  "normalized_alias_count": 549,
   "by_id": {
     "1": {
       "id": 1,
@@ -6576,6 +6576,30 @@
       },
       "detail_path": "models/564.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/564.json"
+    },
+    "565": {
+      "id": 565,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 565,
+        "name": "Behemoth_Pan-Pan_Body",
+        "type": "body"
+      },
+      "detail_path": "models/565.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/565.json"
+    },
+    "566": {
+      "id": 566,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 566,
+        "name": "Haunted_King_Body",
+        "type": "body"
+      },
+      "detail_path": "models/566.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/566.json"
     }
   },
   "by_alias": {
@@ -8219,6 +8243,12 @@
     ],
     "CH0380_Body": [
       "564"
+    ],
+    "Behemoth_Pan-Pan_Body": [
+      "565"
+    ],
+    "Haunted_King_Body": [
+      "566"
     ]
   },
   "by_normalized_alias": {
@@ -9862,6 +9892,12 @@
     ],
     "ch0380_body": [
       "564"
+    ],
+    "behemoth_pan-pan_body": [
+      "565"
+    ],
+    "haunted_king_body": [
+      "566"
     ]
   }
 }

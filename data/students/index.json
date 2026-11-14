@@ -7,7 +7,7 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-11-12T23:14:01Z",
+  "generated_at": "2026-11-13T23:15:51Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 52,
@@ -16,6 +16,54 @@
   "details_synced": 514,
   "details_enabled": true,
   "items": [
+    {
+      "id": 601,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "五百雀",
+      "given_name": "和",
+      "family_name_jp": "五百雀",
+      "given_name_jp": "ナゴミ",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%E4%BA%94%E7%99%BE%E9%9B%80%20%E5%92%8C%E7%BE%8E/original/%E3%83%8A%E3%82%B4%E3%83%9F.png",
+      "school": 0,
+      "main_relation": 152
+    },
+    {
+      "id": 600,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "鹰野主",
+      "given_name": "水子",
+      "family_name_jp": "鷹野主",
+      "given_name_jp": "スイコ",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%E9%B9%B0%E9%87%8E%E4%B8%BB%20%E7%BF%A0%E5%AD%90/original/%E3%82%B9%E3%82%A4%E3%82%B3.png",
+      "school": 0,
+      "main_relation": 152
+    },
+    {
+      "id": 602,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "乌头尾",
+      "given_name": "耀子",
+      "family_name_jp": "烏頭尾",
+      "given_name_jp": "ヨウコ",
+      "family_name_cn": "",
+      "given_name_cn": "",
+      "avatar": "https://static.kivo.wiki/images/students/%E4%B9%8C%E5%A4%B4%E5%B0%BE%20%E9%98%B3%E5%AD%90/original/%E3%83%A8%E3%82%A6%E3%82%B3.png",
+      "school": 0,
+      "main_relation": 152
+    },
     {
       "id": 76,
       "skin": "",
@@ -3601,22 +3649,6 @@
       "main_relation": 49
     },
     {
-      "id": 601,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "五百雀",
-      "given_name": "和",
-      "family_name_jp": "五百雀",
-      "given_name_jp": "ナゴミ",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%E4%BA%94%E7%99%BE%E9%9B%80%20%E5%92%8C%E7%BE%8E/original/%E3%83%8A%E3%82%B4%E3%83%9F.png",
-      "school": 7,
-      "main_relation": 152
-    },
-    {
       "id": 61,
       "skin": "",
       "skin_jp": "",
@@ -3679,22 +3711,6 @@
       "avatar": "https://static.kivo.wiki/images/students/%E6%98%A5%E5%8E%9F%20%E5%BF%83%E5%A5%88/%E6%B3%B3%E8%A3%85/kkn.png",
       "school": 7,
       "main_relation": 51
-    },
-    {
-      "id": 600,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "鹰野主",
-      "given_name": "水子",
-      "family_name_jp": "鷹野主",
-      "given_name_jp": "スイコ",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%E9%B9%B0%E9%87%8E%E4%B8%BB%20%E7%BF%A0%E5%AD%90/original/%E3%82%B9%E3%82%A4%E3%82%B3.png",
-      "school": 7,
-      "main_relation": 152
     },
     {
       "id": 270,
@@ -3823,22 +3839,6 @@
       "avatar": "https://static.kivo.wiki/images/students/%E8%8D%AF%E5%AD%90%20%E7%BA%B1%E7%BB%AB/%E7%A7%81%E6%9C%8D/avatar.png",
       "school": 7,
       "main_relation": 50
-    },
-    {
-      "id": 602,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "乌头尾",
-      "given_name": "耀子",
-      "family_name_jp": "烏頭尾",
-      "given_name_jp": "ヨウコ",
-      "family_name_cn": "",
-      "given_name_cn": "",
-      "avatar": "https://static.kivo.wiki/images/students/%E4%B9%8C%E5%A4%B4%E5%B0%BE%20%E9%98%B3%E5%AD%90/original/%E3%83%A8%E3%82%A6%E3%82%B3.png",
-      "school": 7,
-      "main_relation": 152
     },
     {
       "id": 292,
@@ -8609,6 +8609,24 @@
   ],
   "details": [
     {
+      "id": 601,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/601",
+      "path": "students/601.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/601.json"
+    },
+    {
+      "id": 600,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/600",
+      "path": "students/600.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/600.json"
+    },
+    {
+      "id": 602,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/602",
+      "path": "students/602.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/602.json"
+    },
+    {
       "id": 76,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/76",
       "path": "students/76.json",
@@ -9953,12 +9971,6 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/605.json"
     },
     {
-      "id": 601,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/601",
-      "path": "students/601.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/601.json"
-    },
-    {
       "id": 61,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/61",
       "path": "students/61.json",
@@ -9981,12 +9993,6 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/603",
       "path": "students/603.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/603.json"
-    },
-    {
-      "id": 600,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/600",
-      "path": "students/600.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/600.json"
     },
     {
       "id": 270,
@@ -10035,12 +10041,6 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/89",
       "path": "students/89.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/89.json"
-    },
-    {
-      "id": 602,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/602",
-      "path": "students/602.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/602.json"
     },
     {
       "id": 292,

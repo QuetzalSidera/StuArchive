@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-11-12T23:14:01Z",
+  "generated_at": "2026-11-13T23:15:51Z",
   "list_key": "model",
   "id_key": "id",
   "max_page": 55,
   "synced_pages": 55,
-  "total_items": 547,
-  "details_synced": 547,
+  "total_items": 549,
+  "details_synced": 549,
   "details_enabled": true,
   "items": [
     {
@@ -2750,6 +2750,16 @@
       "id": 564,
       "name": "CH0380_Body",
       "type": "body"
+    },
+    {
+      "id": 565,
+      "name": "Behemoth_Pan-Pan_Body",
+      "type": "body"
+    },
+    {
+      "id": 566,
+      "name": "Haunted_King_Body",
+      "type": "body"
     }
   ],
   "pages": [
@@ -3136,7 +3146,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=55",
       "path": "models/pages/55.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/55.json",
-      "item_count": 7
+      "item_count": 9
     }
   ],
   "details": [
@@ -6421,13 +6431,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/564",
       "path": "models/564.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/564.json"
+    },
+    {
+      "id": 565,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/565",
+      "path": "models/565.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/565.json"
+    },
+    {
+      "id": 566,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/566",
+      "path": "models/566.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/566.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 547,
-    "normalized_alias_count": 547,
-    "total_items": 547
+    "alias_count": 549,
+    "normalized_alias_count": 549,
+    "total_items": 549
   }
 }

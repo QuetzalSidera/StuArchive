@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-11-12T23:14:01Z",
+  "generated_at": "2026-11-13T23:15:51Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -13,6 +13,81 @@
   "alias_count": 5807,
   "normalized_alias_count": 3987,
   "by_id": {
+    "601": {
+      "id": 601,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 601,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "五百雀",
+        "given_name": "和",
+        "family_name_jp": "五百雀",
+        "given_name_jp": "ナゴミ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%94%E7%99%BE%E9%9B%80%20%E5%92%8C%E7%BE%8E/original/%E3%83%8A%E3%82%B4%E3%83%9F.png",
+        "school": 0,
+        "main_relation": 152
+      },
+      "detail_path": "students/601.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/601.json",
+      "profile_path": "students/profiles/601.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/601.json"
+    },
+    "600": {
+      "id": 600,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 600,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "鹰野主",
+        "given_name": "水子",
+        "family_name_jp": "鷹野主",
+        "given_name_jp": "スイコ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E9%B9%B0%E9%87%8E%E4%B8%BB%20%E7%BF%A0%E5%AD%90/original/%E3%82%B9%E3%82%A4%E3%82%B3.png",
+        "school": 0,
+        "main_relation": 152
+      },
+      "detail_path": "students/600.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/600.json",
+      "profile_path": "students/profiles/600.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/600.json"
+    },
+    "602": {
+      "id": 602,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 602,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "乌头尾",
+        "given_name": "耀子",
+        "family_name_jp": "烏頭尾",
+        "given_name_jp": "ヨウコ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%B9%8C%E5%A4%B4%E5%B0%BE%20%E9%98%B3%E5%AD%90/original/%E3%83%A8%E3%82%A6%E3%82%B3.png",
+        "school": 0,
+        "main_relation": 152
+      },
+      "detail_path": "students/602.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/602.json",
+      "profile_path": "students/profiles/602.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/602.json"
+    },
     "76": {
       "id": 76,
       "source_path": "students/index.json",
@@ -5613,31 +5688,6 @@
       "profile_path": "students/profiles/605.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/605.json"
     },
-    "601": {
-      "id": 601,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 601,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "五百雀",
-        "given_name": "和",
-        "family_name_jp": "五百雀",
-        "given_name_jp": "ナゴミ",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%94%E7%99%BE%E9%9B%80%20%E5%92%8C%E7%BE%8E/original/%E3%83%8A%E3%82%B4%E3%83%9F.png",
-        "school": 7,
-        "main_relation": 152
-      },
-      "detail_path": "students/601.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/601.json",
-      "profile_path": "students/profiles/601.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/601.json"
-    },
     "61": {
       "id": 61,
       "source_path": "students/index.json",
@@ -5737,31 +5787,6 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/603.json",
       "profile_path": "students/profiles/603.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/603.json"
-    },
-    "600": {
-      "id": 600,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 600,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "鹰野主",
-        "given_name": "水子",
-        "family_name_jp": "鷹野主",
-        "given_name_jp": "スイコ",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E9%B9%B0%E9%87%8E%E4%B8%BB%20%E7%BF%A0%E5%AD%90/original/%E3%82%B9%E3%82%A4%E3%82%B3.png",
-        "school": 7,
-        "main_relation": 152
-      },
-      "detail_path": "students/600.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/600.json",
-      "profile_path": "students/profiles/600.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/600.json"
     },
     "270": {
       "id": 270,
@@ -5962,31 +5987,6 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/89.json",
       "profile_path": "students/profiles/89.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/89.json"
-    },
-    "602": {
-      "id": 602,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 602,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "乌头尾",
-        "given_name": "耀子",
-        "family_name_jp": "烏頭尾",
-        "given_name_jp": "ヨウコ",
-        "family_name_cn": "",
-        "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%B9%8C%E5%A4%B4%E5%B0%BE%20%E9%98%B3%E5%AD%90/original/%E3%83%A8%E3%82%A6%E3%82%B3.png",
-        "school": 7,
-        "main_relation": 152
-      },
-      "detail_path": "students/602.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/602.json",
-      "profile_path": "students/profiles/602.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/602.json"
     },
     "292": {
       "id": 292,
@@ -12865,6 +12865,60 @@
     }
   },
   "by_alias": {
+    "五百雀和": [
+      "601"
+    ],
+    "五百雀 和": [
+      "601"
+    ],
+    "和": [
+      "601"
+    ],
+    "五百雀ナゴミ": [
+      "601"
+    ],
+    "五百雀 ナゴミ": [
+      "601"
+    ],
+    "ナゴミ": [
+      "601"
+    ],
+    "鹰野主水子": [
+      "600"
+    ],
+    "鹰野主 水子": [
+      "600"
+    ],
+    "水子": [
+      "600"
+    ],
+    "鷹野主スイコ": [
+      "600"
+    ],
+    "鷹野主 スイコ": [
+      "600"
+    ],
+    "スイコ": [
+      "600"
+    ],
+    "乌头尾耀子": [
+      "602"
+    ],
+    "乌头尾 耀子": [
+      "602"
+    ],
+    "耀子": [
+      "602"
+    ],
+    "烏頭尾ヨウコ": [
+      "602"
+    ],
+    "烏頭尾 ヨウコ": [
+      "602"
+    ],
+    "ヨウコ": [
+      "602"
+    ],
     "小鸟游星野": [
       "76",
       "287",
@@ -25322,24 +25376,6 @@
     "カナエ": [
       "605"
     ],
-    "五百雀和": [
-      "601"
-    ],
-    "五百雀 和": [
-      "601"
-    ],
-    "和": [
-      "601"
-    ],
-    "五百雀ナゴミ": [
-      "601"
-    ],
-    "五百雀 ナゴミ": [
-      "601"
-    ],
-    "ナゴミ": [
-      "601"
-    ],
     "龙华妃咲": [
       "61",
       "599"
@@ -25549,24 +25585,6 @@
     ],
     "心奈-泳裝": [
       "603"
-    ],
-    "鹰野主水子": [
-      "600"
-    ],
-    "鹰野主 水子": [
-      "600"
-    ],
-    "水子": [
-      "600"
-    ],
-    "鷹野主スイコ": [
-      "600"
-    ],
-    "鷹野主 スイコ": [
-      "600"
-    ],
-    "スイコ": [
-      "600"
     ],
     "申谷海": [
       "270"
@@ -26053,24 +26071,6 @@
     ],
     "サヤ-私服": [
       "89"
-    ],
-    "乌头尾耀子": [
-      "602"
-    ],
-    "乌头尾 耀子": [
-      "602"
-    ],
-    "耀子": [
-      "602"
-    ],
-    "烏頭尾ヨウコ": [
-      "602"
-    ],
-    "烏頭尾 ヨウコ": [
-      "602"
-    ],
-    "ヨウコ": [
-      "602"
     ],
     "裴(CBT)": [
       "292"
@@ -31292,6 +31292,42 @@
     ]
   },
   "by_normalized_alias": {
+    "五百雀和": [
+      "601"
+    ],
+    "和": [
+      "601"
+    ],
+    "五百雀ナゴミ": [
+      "601"
+    ],
+    "ナゴミ": [
+      "601"
+    ],
+    "鹰野主水子": [
+      "600"
+    ],
+    "水子": [
+      "600"
+    ],
+    "鷹野主スイコ": [
+      "600"
+    ],
+    "スイコ": [
+      "600"
+    ],
+    "乌头尾耀子": [
+      "602"
+    ],
+    "耀子": [
+      "602"
+    ],
+    "烏頭尾ヨウコ": [
+      "602"
+    ],
+    "ヨウコ": [
+      "602"
+    ],
     "小鸟游星野": [
       "76",
       "287",
@@ -39601,18 +39637,6 @@
     "カナエ": [
       "605"
     ],
-    "五百雀和": [
-      "601"
-    ],
-    "和": [
-      "601"
-    ],
-    "五百雀ナゴミ": [
-      "601"
-    ],
-    "ナゴミ": [
-      "601"
-    ],
     "龙华妃咲": [
       "61",
       "599"
@@ -39752,18 +39776,6 @@
     ],
     "心奈-泳裝": [
       "603"
-    ],
-    "鹰野主水子": [
-      "600"
-    ],
-    "水子": [
-      "600"
-    ],
-    "鷹野主スイコ": [
-      "600"
-    ],
-    "スイコ": [
-      "600"
     ],
     "申谷海": [
       "270"
@@ -40088,18 +40100,6 @@
     ],
     "サヤ-私服": [
       "89"
-    ],
-    "乌头尾耀子": [
-      "602"
-    ],
-    "耀子": [
-      "602"
-    ],
-    "烏頭尾ヨウコ": [
-      "602"
-    ],
-    "ヨウコ": [
-      "602"
     ],
     "裴(cbt)": [
       "292"
