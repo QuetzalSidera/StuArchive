@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-11-13T23:15:51Z",
+  "generated_at": "2026-11-14T21:58:54Z",
   "id": 600,
   "display_name": "鹰野主 水子",
   "names": {
@@ -59,13 +59,19 @@
   },
   "affiliation": {
     "school": {
-      "id": 0
+      "id": 17,
+      "name": "不良少女们",
+      "name_cn": "",
+      "logo": "https://static.kivo.wiki/images/school/logo/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_logo.png",
+      "preview_image": "https://static.kivo.wiki/images/school/preview/%E4%B8%8D%E8%89%AF%E9%9B%86%E5%9B%A2_preview.png",
+      "detail_path": "schools/17.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/schools/17.json"
     },
     "main_relation": {
       "id": 152,
       "name": "雏鸟组",
       "name_cn": "",
-      "image": "https://static.kivo.wiki/images/relation/sA7bXe71stQXUfbTrremwj8bC1QIPdVM.png",
+      "image": "https://static.kivo.wiki/images/relation/XlQE0BgQSzHW6Kz1GerSsybshFxIXcix.png",
       "description": "",
       "detail_path": "relations/152.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/relations/152.json"
@@ -198,8 +204,8 @@
   "source": {
     "detail_path": "students/600.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/600.json",
-    "upstream_time": 1794611556,
-    "updated_at": 1792920326,
+    "upstream_time": 1794694070,
+    "updated_at": 1794647381,
     "created_at": 1782304553
   }
 }
