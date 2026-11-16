@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-11-14T21:58:54Z",
+  "generated_at": "2026-11-15T22:29:42Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 1034,
-  "alias_count": 1359,
-  "normalized_alias_count": 1359,
+  "alias_count": 1360,
+  "normalized_alias_count": 1360,
   "by_id": {
     "1": {
       "id": 1,
@@ -16339,7 +16339,7 @@
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
       "item": {
         "id": 1040,
-        "title": "Theme_260",
+        "title": "Blazing Rush",
         "cover": "",
         "author": "Mitsukiyo",
         "album": "游戏内曲目",
@@ -20592,6 +20592,9 @@
     "Dialogue Vol.29「ただ一人の、生徒として」": [
       "1039"
     ],
+    "Blazing Rush": [
+      "1040"
+    ],
     "Theme_260": [
       "1040"
     ],
@@ -24671,6 +24674,9 @@
     ],
     "dialoguevol.29「ただ一人の、生徒として」": [
       "1039"
+    ],
+    "blazingrush": [
+      "1040"
     ],
     "theme_260": [
       "1040"
