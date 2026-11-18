@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-11-17T01:36:08Z",
+  "generated_at": "2026-11-18T00:33:18Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 6099,
-  "alias_count": 6088,
-  "normalized_alias_count": 6080,
+  "alias_count": 6087,
+  "normalized_alias_count": 6079,
   "by_id": {
     "6227": {
       "id": 6227,
@@ -346,11 +346,11 @@
         "line_type": "Globle",
         "title": "国际服老师经验2倍#59",
         "image": "https://static.kivo.wiki/images/timeline/Wu7wZC0nhZzODwVrEHeBUvtU8QTzxQGm.png",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 10/23 (Fri)! Don't ",
+        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 11/13 (Fri)! Don't ",
         "type": "Double",
         "url": "x.com/EN_BlueArchive/status/2121147301158584433?a=b2RUam6KV0f_o6C03pQ&s=19",
-        "start_time": 1794572293,
-        "end_time": 1794745093
+        "start_time": 1794658693,
+        "end_time": 1794831493
       },
       "detail_path": "timeline/6250.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6250.json"
@@ -715,6 +715,24 @@
       "detail_path": "timeline/6171.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6171.json"
     },
+    "6240": {
+      "id": 6240,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6240,
+        "line_type": "Globle",
+        "title": "国际服学院交流会3倍 #15",
+        "image": "https://static.kivo.wiki/images/timeline/25cteRIeoHqaaYOj0UMcEQhfpMkpua2e.jpg",
+        "body_summary": "[Triple Drop Campaign Preview] Starting 11/9 (Mon), Scrimmage reward will be tripled! Don't miss out",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2118965424268472518",
+        "start_time": 1794323766,
+        "end_time": 1794928566
+      },
+      "detail_path": "timeline/6240.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6240.json"
+    },
     "6238": {
       "id": 6238,
       "source_path": "timeline/index.json",
@@ -776,7 +794,7 @@
       "item": {
         "id": 6245,
         "line_type": "Globle",
-        "title": "国际服违规帐号封禁 #75",
+        "title": "国际服违规账号封禁 #75",
         "image": "https://static.kivo.wiki/images/timeline/fMFNLOrtlYGZXglOqakr2Y9gsmhXhLFT.jpg",
         "body_summary": "[11/10 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-",
         "type": "Other",
@@ -841,24 +859,6 @@
       "detail_path": "timeline/6241.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6241.json"
     },
-    "6240": {
-      "id": 6240,
-      "source_path": "timeline/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
-      "item": {
-        "id": 6240,
-        "line_type": "Globle",
-        "title": "国际服学院交流会2倍 #45",
-        "image": "https://static.kivo.wiki/images/timeline/25cteRIeoHqaaYOj0UMcEQhfpMkpua2e.jpg",
-        "body_summary": "[Triple Drop Campaign Preview] Starting 11/9 (Mon), Scrimmage reward will be tripled! Don't miss out",
-        "type": "Double",
-        "url": "x.com/EN_BlueArchive/status/2118965424268472518",
-        "start_time": 1794237366,
-        "end_time": 1794842166
-      },
-      "detail_path": "timeline/6240.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6240.json"
-    },
     "6239": {
       "id": 6239,
       "source_path": "timeline/index.json",
@@ -866,13 +866,13 @@
       "item": {
         "id": 6239,
         "line_type": "Globle",
-        "title": "国际服指名手配2倍#52",
+        "title": "国际服指名手配3倍#18",
         "image": "https://static.kivo.wiki/images/timeline/nVCu9ts2W9lH8lSG8M9OJfpyb1nZBsT6.jpg",
         "body_summary": "[Triple Drop Campaign Preview] Starting 11/9 (Mon), Bounty rewards will be tripled! Don't miss out o",
         "type": "Double",
         "url": "x.com/EN_BlueArchive/status/2118961653874389208",
-        "start_time": 1794179346,
-        "end_time": 1794784146
+        "start_time": 1794265746,
+        "end_time": 1794870546
       },
       "detail_path": "timeline/6239.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6239.json"
@@ -1604,7 +1604,7 @@
       "item": {
         "id": 6206,
         "line_type": "Globle",
-        "title": "国际服违规帐号封禁 #74",
+        "title": "国际服违规账号封禁 #74",
         "image": "https://static.kivo.wiki/images/timeline/rlgiHDXzLcMVgQ8VAYb4A3JDsYTO79w6.jpg",
         "body_summary": "[10/27 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-",
         "type": "Other",
@@ -2648,7 +2648,7 @@
       "item": {
         "id": 6133,
         "line_type": "Globle",
-        "title": "国际服违规帐号封禁 #73",
+        "title": "国际服违规账号封禁 #73",
         "image": "https://static.kivo.wiki/images/timeline/rzoU6ooKy5Vn7GG7LmU7q13IlO3AFlgG.jpg",
         "body_summary": "[10/13 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-",
         "type": "Other",
@@ -3278,7 +3278,7 @@
       "item": {
         "id": 6094,
         "line_type": "Globle",
-        "title": "国际服违规帐号封禁 #72",
+        "title": "国际服违规账号封禁 #72",
         "image": "https://static.kivo.wiki/images/timeline/ENtQrXwY0rniMRQ3XH6jQkKq36y8UmqT.png",
         "body_summary": "[9/29 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
         "type": "Other",
@@ -4520,7 +4520,7 @@
       "item": {
         "id": 6035,
         "line_type": "Globle",
-        "title": "国际服违规帐号封禁 #71",
+        "title": "国际服违规账号封禁 #71",
         "image": "https://static.kivo.wiki/images/timeline/iUgDphvs7IOHOQKjxyrcqbCnVjnDNK63.png",
         "body_summary": "[9/15 (Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing in-g",
         "type": "Other",
@@ -109915,6 +109915,9 @@
     "课程表2倍#46 & 学院交流会2倍#46": [
       "6171"
     ],
+    "国际服学院交流会3倍 #15": [
+      "6240"
+    ],
     "国际服例行维护 #123": [
       "6238"
     ],
@@ -109924,7 +109927,7 @@
     "国际服卡池「Weigh anchor ! It's time to set Sail !」": [
       "6236"
     ],
-    "国际服违规帐号封禁 #75": [
+    "国际服违规账号封禁 #75": [
       "6245"
     ],
     "国际服5周年庆典学生选择券礼物": [
@@ -109936,11 +109939,9 @@
     "国际服活动「Set Sail! Pandemonium Ship: Chair Makoto's Lux Summer Getaway!」": [
       "6241"
     ],
-    "国际服学院交流会2倍 #45": [
-      "6240"
-    ],
-    "国际服指名手配2倍#52": [
-      "6239"
+    "国际服指名手配3倍#18": [
+      "6239",
+      "5555"
     ],
     "任务hard2倍#59": [
       "6170"
@@ -110062,7 +110063,7 @@
     "指名手配2倍#60": [
       "6168"
     ],
-    "国际服违规帐号封禁 #74": [
+    "国际服违规账号封禁 #74": [
       "6206"
     ],
     "国际服活动常驻化「Sheside Outside」": [
@@ -110236,7 +110237,7 @@
     "国际服例行维护 #121": [
       "6130"
     ],
-    "国际服违规帐号封禁 #73": [
+    "国际服违规账号封禁 #73": [
       "6133"
     ],
     "国际服 My Office 更新": [
@@ -110341,7 +110342,7 @@
     "特別依頼2倍#71": [
       "6102"
     ],
-    "国际服违规帐号封禁 #72": [
+    "国际服违规账号封禁 #72": [
       "6094"
     ],
     "未花(泳装)& 渚(泳装)家具互动更新": [
@@ -110549,7 +110550,7 @@
     "国际服指名手配2倍 #50": [
       "6009"
     ],
-    "国际服违规帐号封禁 #71": [
+    "国际服违规账号封禁 #71": [
       "6035"
     ],
     "国际服绘里香实装礼物": [
@@ -111721,9 +111722,6 @@
     ],
     "国际服任务normal3倍 #17": [
       "5556"
-    ],
-    "国际服指名手配3倍#18": [
-      "5555"
     ],
     "国际服卡池复刻「She awoke from a dream and become a true hero」&「She pushes onward for that which stays constant」": [
       "5553"
@@ -128192,6 +128190,9 @@
     "课程表2倍#46&学院交流会2倍#46": [
       "6171"
     ],
+    "国际服学院交流会3倍#15": [
+      "6240"
+    ],
     "国际服例行维护#123": [
       "6238"
     ],
@@ -128201,7 +128202,7 @@
     "国际服卡池「weighanchor!it'stimetosetsail!」": [
       "6236"
     ],
-    "国际服违规帐号封禁#75": [
+    "国际服违规账号封禁#75": [
       "6245"
     ],
     "国际服5周年庆典学生选择券礼物": [
@@ -128213,11 +128214,9 @@
     "国际服活动「setsail!pandemoniumship:chairmakoto'sluxsummergetaway!」": [
       "6241"
     ],
-    "国际服学院交流会2倍#45": [
-      "6240"
-    ],
-    "国际服指名手配2倍#52": [
-      "6239"
+    "国际服指名手配3倍#18": [
+      "6239",
+      "5555"
     ],
     "任务hard2倍#59": [
       "6170"
@@ -128340,7 +128339,7 @@
     "指名手配2倍#60": [
       "6168"
     ],
-    "国际服违规帐号封禁#74": [
+    "国际服违规账号封禁#74": [
       "6206"
     ],
     "国际服活动常驻化「shesideoutside」": [
@@ -128514,7 +128513,7 @@
     "国际服例行维护#121": [
       "6130"
     ],
-    "国际服违规帐号封禁#73": [
+    "国际服违规账号封禁#73": [
       "6133"
     ],
     "国际服myoffice更新": [
@@ -128619,7 +128618,7 @@
     "特別依頼2倍#71": [
       "6102"
     ],
-    "国际服违规帐号封禁#72": [
+    "国际服违规账号封禁#72": [
       "6094"
     ],
     "未花(泳装)&渚(泳装)家具互动更新": [
@@ -128827,7 +128826,7 @@
     "国际服指名手配2倍#50": [
       "6009"
     ],
-    "国际服违规帐号封禁#71": [
+    "国际服违规账号封禁#71": [
       "6035"
     ],
     "国际服绘里香实装礼物": [
@@ -129999,9 +129998,6 @@
     ],
     "国际服任务normal3倍#17": [
       "5556"
-    ],
-    "国际服指名手配3倍#18": [
-      "5555"
     ],
     "国际服卡池复刻「sheawokefromadreamandbecomeatruehero」&「shepushesonwardforthatwhichstaysconstant」": [
       "5553"
