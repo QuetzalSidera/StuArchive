@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "items",
   "description": "Item and furniture records.",
-  "generated_at": "2026-11-18T00:33:18Z",
+  "generated_at": "2026-11-18T23:53:56Z",
   "id_key": "id",
   "source_index": {
     "path": "items/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 2022,
-  "alias_count": 1990,
-  "normalized_alias_count": 1990,
+  "total_items": 2030,
+  "alias_count": 1998,
+  "normalized_alias_count": 1998,
   "by_id": {
     "1742": {
       "id": 1742,
@@ -17308,6 +17308,66 @@
       "detail_path": "items/1863.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1863.json"
     },
+    "2103": {
+      "id": 2103,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2103,
+        "name": "噩梦急行（室内战/街道战）白金奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/JwnMnNQQlZ79GPvRPHWOIi7ZXawl4cOB.png",
+        "rarity": 4,
+        "description": "噩梦急行（室内战/街道战）的荣誉白金奖杯"
+      },
+      "detail_path": "items/2103.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2103.json"
+    },
+    "2104": {
+      "id": 2104,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2104,
+        "name": "噩梦急行（室内战/街道战）黄金奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/9QCuav38hqOho2czfr5loDsp7jP8HpZu.png",
+        "rarity": 3,
+        "description": "噩梦急行（室内战/街道战）的荣誉黄金奖杯"
+      },
+      "detail_path": "items/2104.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2104.json"
+    },
+    "2106": {
+      "id": 2106,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2106,
+        "name": "噩梦急行（室内战/街道战）铜奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/ZKhhMtPXA5XeDzLWscR7p6UpiIFmqnlP.png",
+        "rarity": 1,
+        "description": "噩梦急行（室内战/街道战）的荣誉铜奖杯"
+      },
+      "detail_path": "items/2106.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2106.json"
+    },
+    "2105": {
+      "id": 2105,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2105,
+        "name": "噩梦急行（室内战/街道战）银奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/Ms11eQPL5GcvbHWqkB41UM8pVr8gdJGZ.png",
+        "rarity": 2,
+        "description": "噩梦急行（室内战/街道战）的荣誉银奖杯"
+      },
+      "detail_path": "items/2105.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2105.json"
+    },
     "1721": {
       "id": 1721,
       "source_path": "items/index.json",
@@ -17892,6 +17952,66 @@
       },
       "detail_path": "items/1482.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1482.json"
+    },
+    "2099": {
+      "id": 2099,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2099,
+        "name": "钢桶蟹（街道战）白金奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/7Xkst2vMuW0fT8bjSW81sgKiwAfdG0zA.png",
+        "rarity": 4,
+        "description": "钢桶蟹（街道战）的荣誉白金奖杯"
+      },
+      "detail_path": "items/2099.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2099.json"
+    },
+    "2100": {
+      "id": 2100,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2100,
+        "name": "钢桶蟹（街道战）黄金奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/nwop6vquhugsRMwfSf289XTuzi9Ili1v.png",
+        "rarity": 3,
+        "description": "钢桶蟹（街道战）的荣誉黄金奖杯"
+      },
+      "detail_path": "items/2100.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2100.json"
+    },
+    "2102": {
+      "id": 2102,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2102,
+        "name": "钢桶蟹（街道战）铜奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/gmGeOHZIGpOaGTcGAShmlmEyEn3uLJH9.png",
+        "rarity": 1,
+        "description": "钢桶蟹（街道战）的荣誉铜奖杯"
+      },
+      "detail_path": "items/2102.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2102.json"
+    },
+    "2101": {
+      "id": 2101,
+      "source_path": "items/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/index.json",
+      "item": {
+        "id": 2101,
+        "name": "钢桶蟹（街道战）银奖杯",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/aSkz48eWF0YKLpcEqNyFYV0OlwBULRRZ.png",
+        "rarity": 2,
+        "description": "钢桶蟹（街道战）的荣誉银奖杯"
+      },
+      "detail_path": "items/2101.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2101.json"
     },
     "761": {
       "id": 761,
@@ -33740,6 +33860,18 @@
     "多功能箱 样式2": [
       "1863"
     ],
+    "噩梦急行(室内战/街道战)白金奖杯": [
+      "2103"
+    ],
+    "噩梦急行(室内战/街道战)黄金奖杯": [
+      "2104"
+    ],
+    "噩梦急行(室内战/街道战)铜奖杯": [
+      "2106"
+    ],
+    "噩梦急行(室内战/街道战)银奖杯": [
+      "2105"
+    ],
     "凡尔赛图案瓷砖": [
       "1721"
     ],
@@ -33856,6 +33988,18 @@
     ],
     "干净的桌子": [
       "1482"
+    ],
+    "钢桶蟹(街道战)白金奖杯": [
+      "2099"
+    ],
+    "钢桶蟹(街道战)黄金奖杯": [
+      "2100"
+    ],
+    "钢桶蟹(街道战)铜奖杯": [
+      "2102"
+    ],
+    "钢桶蟹(街道战)银奖杯": [
+      "2101"
     ],
     "高级疗愈按摩椅": [
       "761"
@@ -39744,6 +39888,18 @@
     "多功能箱样式2": [
       "1863"
     ],
+    "噩梦急行(室内战/街道战)白金奖杯": [
+      "2103"
+    ],
+    "噩梦急行(室内战/街道战)黄金奖杯": [
+      "2104"
+    ],
+    "噩梦急行(室内战/街道战)铜奖杯": [
+      "2106"
+    ],
+    "噩梦急行(室内战/街道战)银奖杯": [
+      "2105"
+    ],
     "凡尔赛图案瓷砖": [
       "1721"
     ],
@@ -39860,6 +40016,18 @@
     ],
     "干净的桌子": [
       "1482"
+    ],
+    "钢桶蟹(街道战)白金奖杯": [
+      "2099"
+    ],
+    "钢桶蟹(街道战)黄金奖杯": [
+      "2100"
+    ],
+    "钢桶蟹(街道战)铜奖杯": [
+      "2102"
+    ],
+    "钢桶蟹(街道战)银奖杯": [
+      "2101"
     ],
     "高级疗愈按摩椅": [
       "761"

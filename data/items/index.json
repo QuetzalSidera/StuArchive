@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-11-18T00:33:18Z",
+  "generated_at": "2026-11-18T23:53:56Z",
   "list_key": "item",
   "id_key": "id",
   "max_page": 203,
   "synced_pages": 203,
-  "total_items": 2022,
-  "details_synced": 2022,
+  "total_items": 2030,
+  "details_synced": 2030,
   "details_enabled": true,
   "items": [
     {
@@ -9241,6 +9241,38 @@
       "description": "可用于多种用途的箱子。注意不要丢失个人物品。"
     },
     {
+      "id": 2103,
+      "name": "噩梦急行（室内战/街道战）白金奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/JwnMnNQQlZ79GPvRPHWOIi7ZXawl4cOB.png",
+      "rarity": 4,
+      "description": "噩梦急行（室内战/街道战）的荣誉白金奖杯"
+    },
+    {
+      "id": 2104,
+      "name": "噩梦急行（室内战/街道战）黄金奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/9QCuav38hqOho2czfr5loDsp7jP8HpZu.png",
+      "rarity": 3,
+      "description": "噩梦急行（室内战/街道战）的荣誉黄金奖杯"
+    },
+    {
+      "id": 2106,
+      "name": "噩梦急行（室内战/街道战）铜奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/ZKhhMtPXA5XeDzLWscR7p6UpiIFmqnlP.png",
+      "rarity": 1,
+      "description": "噩梦急行（室内战/街道战）的荣誉铜奖杯"
+    },
+    {
+      "id": 2105,
+      "name": "噩梦急行（室内战/街道战）银奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/Ms11eQPL5GcvbHWqkB41UM8pVr8gdJGZ.png",
+      "rarity": 2,
+      "description": "噩梦急行（室内战/街道战）的荣誉银奖杯"
+    },
+    {
       "id": 1721,
       "name": "凡尔赛图案瓷砖",
       "type": "furniture",
@@ -9551,6 +9583,38 @@
       "icon": "https://static.kivo.wiki/images/item/icon/2IjBvLvVKSRHsWVUkuoWAzgadBp68fqt.png",
       "rarity": 2,
       "description": "一张空空如也的桌子。"
+    },
+    {
+      "id": 2099,
+      "name": "钢桶蟹（街道战）白金奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/7Xkst2vMuW0fT8bjSW81sgKiwAfdG0zA.png",
+      "rarity": 4,
+      "description": "钢桶蟹（街道战）的荣誉白金奖杯"
+    },
+    {
+      "id": 2100,
+      "name": "钢桶蟹（街道战）黄金奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/nwop6vquhugsRMwfSf289XTuzi9Ili1v.png",
+      "rarity": 3,
+      "description": "钢桶蟹（街道战）的荣誉黄金奖杯"
+    },
+    {
+      "id": 2102,
+      "name": "钢桶蟹（街道战）铜奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/gmGeOHZIGpOaGTcGAShmlmEyEn3uLJH9.png",
+      "rarity": 1,
+      "description": "钢桶蟹（街道战）的荣誉铜奖杯"
+    },
+    {
+      "id": 2101,
+      "name": "钢桶蟹（街道战）银奖杯",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/aSkz48eWF0YKLpcEqNyFYV0OlwBULRRZ.png",
+      "rarity": 2,
+      "description": "钢桶蟹（街道战）的荣誉银奖杯"
     },
     {
       "id": 761,
@@ -17613,7 +17677,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=203",
       "path": "items/pages/203.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/203.json",
-      "item_count": 2
+      "item_count": 10
     }
   ],
   "details": [
@@ -24536,6 +24600,30 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1863.json"
     },
     {
+      "id": 2103,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2103",
+      "path": "items/2103.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2103.json"
+    },
+    {
+      "id": 2104,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2104",
+      "path": "items/2104.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2104.json"
+    },
+    {
+      "id": 2106,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2106",
+      "path": "items/2106.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2106.json"
+    },
+    {
+      "id": 2105,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2105",
+      "path": "items/2105.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2105.json"
+    },
+    {
       "id": 1721,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1721",
       "path": "items/1721.json",
@@ -24768,6 +24856,30 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1482",
       "path": "items/1482.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1482.json"
+    },
+    {
+      "id": 2099,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2099",
+      "path": "items/2099.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2099.json"
+    },
+    {
+      "id": 2100,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2100",
+      "path": "items/2100.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2100.json"
+    },
+    {
+      "id": 2102,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2102",
+      "path": "items/2102.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2102.json"
+    },
+    {
+      "id": 2101,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2101",
+      "path": "items/2101.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2101.json"
     },
     {
       "id": 761,
@@ -29753,8 +29865,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1990,
-    "normalized_alias_count": 1990,
-    "total_items": 2022
+    "alias_count": 1998,
+    "normalized_alias_count": 1998,
+    "total_items": 2030
   }
 }
