@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-11-18T23:53:56Z",
+  "generated_at": "2026-11-20T00:18:46Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 104,
   "synced_pages": 104,
-  "total_items": 1034,
-  "details_synced": 1034,
+  "total_items": 1036,
+  "details_synced": 1036,
   "details_enabled": true,
   "items": [
     {
@@ -6970,7 +6970,7 @@
       "cover": "https://static.kivo.wiki/images/music/cover/8uLHBvh9IiUYlV39yDKlQmgQaeRQB0VA.jpg",
       "author": "アスナ(CV:長谷川育美)、キララ(CV:山下七海)、スバル(CV:天海由梨奈)、ミカ(CV:東山奈央)、ミヨ(CV:花岩香奈)、ユカリ(CV:村上まなつ) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
       "album": "Let's Go With...",
-      "use": "5周年专辑",
+      "use": "专辑曲目",
       "original_file_name": ""
     },
     {
@@ -6979,7 +6979,7 @@
       "cover": "https://static.kivo.wiki/images/music/cover/ciRdDXHLtBxYjsQkJsYPREKpw36J4KUm.jpg",
       "author": "アスナ(CV:長谷川育美)、キララ(CV:山下七海)、スバル(CV:天海由梨奈)、ミカ(CV:東山奈央)、ミヨ(CV:花岩香奈)、ユカリ(CV:村上まなつ) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
       "album": "Let's Go With...",
-      "use": "5周年专辑",
+      "use": "专辑曲目",
       "original_file_name": ""
     },
     {
@@ -9321,6 +9321,24 @@
       "album": "Following Petals - Memories in Melody",
       "use": "专辑曲目",
       "original_file_name": ""
+    },
+    {
+      "id": 1054,
+      "title": "Unending Moderato",
+      "cover": "https://static.kivo.wiki/images/music/cover/HXH12qTrMcr47EC380B5vM7G1tuYb5gq.jpg",
+      "author": "Saebit",
+      "album": "Unending Moderato",
+      "use": "专辑曲目",
+      "original_file_name": ""
+    },
+    {
+      "id": 1055,
+      "title": "Unending Moderato (Instrumental)",
+      "cover": "https://static.kivo.wiki/images/music/cover/ecVLoH3K8rkEYZlZSj5qfpJ3hIIeK7tR.jpg",
+      "author": "Saebit",
+      "album": "Unending Moderato",
+      "use": "专辑曲目",
+      "original_file_name": ""
     }
   ],
   "pages": [
@@ -10050,7 +10068,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=104",
       "path": "musics/pages/104.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/104.json",
-      "item_count": 4
+      "item_count": 6
     }
   ],
   "details": [
@@ -16257,13 +16275,25 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1053",
       "path": "musics/1053.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1053.json"
+    },
+    {
+      "id": 1054,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1054",
+      "path": "musics/1054.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1054.json"
+    },
+    {
+      "id": 1055,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1055",
+      "path": "musics/1055.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1055.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1360,
-    "normalized_alias_count": 1360,
-    "total_items": 1034
+    "alias_count": 1362,
+    "normalized_alias_count": 1362,
+    "total_items": 1036
   }
 }

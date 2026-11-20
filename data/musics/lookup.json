@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "musics",
   "description": "Music metadata.",
-  "generated_at": "2026-11-18T23:53:56Z",
+  "generated_at": "2026-11-20T00:18:46Z",
   "id_key": "id",
   "source_index": {
     "path": "musics/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1034,
-  "alias_count": 1360,
-  "normalized_alias_count": 1360,
+  "total_items": 1036,
+  "alias_count": 1362,
+  "normalized_alias_count": 1362,
   "by_id": {
     "1": {
       "id": 1,
@@ -12375,7 +12375,7 @@
         "cover": "https://static.kivo.wiki/images/music/cover/8uLHBvh9IiUYlV39yDKlQmgQaeRQB0VA.jpg",
         "author": "アスナ(CV:長谷川育美)、キララ(CV:山下七海)、スバル(CV:天海由梨奈)、ミカ(CV:東山奈央)、ミヨ(CV:花岩香奈)、ユカリ(CV:村上まなつ) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
         "album": "Let's Go With...",
-        "use": "5周年专辑",
+        "use": "专辑曲目",
         "original_file_name": ""
       },
       "detail_path": "musics/792.json",
@@ -12391,7 +12391,7 @@
         "cover": "https://static.kivo.wiki/images/music/cover/ciRdDXHLtBxYjsQkJsYPREKpw36J4KUm.jpg",
         "author": "アスナ(CV:長谷川育美)、キララ(CV:山下七海)、スバル(CV:天海由梨奈)、ミカ(CV:東山奈央)、ミヨ(CV:花岩香奈)、ユカリ(CV:村上まなつ) / 夕野ヨシミ(IOSYS) / Mitsukiyo",
         "album": "Let's Go With...",
-        "use": "5周年专辑",
+        "use": "专辑曲目",
         "original_file_name": ""
       },
       "detail_path": "musics/793.json",
@@ -16556,6 +16556,38 @@
       },
       "detail_path": "musics/1053.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1053.json"
+    },
+    "1054": {
+      "id": 1054,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1054,
+        "title": "Unending Moderato",
+        "cover": "https://static.kivo.wiki/images/music/cover/HXH12qTrMcr47EC380B5vM7G1tuYb5gq.jpg",
+        "author": "Saebit",
+        "album": "Unending Moderato",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1054.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1054.json"
+    },
+    "1055": {
+      "id": 1055,
+      "source_path": "musics/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/index.json",
+      "item": {
+        "id": 1055,
+        "title": "Unending Moderato (Instrumental)",
+        "cover": "https://static.kivo.wiki/images/music/cover/ecVLoH3K8rkEYZlZSj5qfpJ3hIIeK7tR.jpg",
+        "author": "Saebit",
+        "album": "Unending Moderato",
+        "use": "专辑曲目",
+        "original_file_name": ""
+      },
+      "detail_path": "musics/1055.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1055.json"
     }
   },
   "by_alias": {
@@ -20639,6 +20671,12 @@
     ],
     "I will hold onto this parasol, forever": [
       "1053"
+    ],
+    "Unending Moderato": [
+      "1054"
+    ],
+    "Unending Moderato (Instrumental)": [
+      "1055"
     ]
   },
   "by_normalized_alias": {
@@ -24722,6 +24760,12 @@
     ],
     "iwillholdontothisparasol,forever": [
       "1053"
+    ],
+    "unendingmoderato": [
+      "1054"
+    ],
+    "unendingmoderato(instrumental)": [
+      "1055"
     ]
   }
 }
