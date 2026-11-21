@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1205,
+        "line_type": "Globle",
+        "title": "国际服炸服8",
+        "image": "",
+        "body_summary": "[Emergency Maintenance Notice] Emergency maintenance is on the way to resolve an issue. Maintenance ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1577946834479108096",
+        "start_time": 1665046809,
+        "end_time": 1665052209
+      },
+      {
+        "id": 1204,
+        "line_type": "Globle",
+        "title": "国际服炸服7",
+        "image": "",
+        "body_summary": "[10/5(Wed) Temporary Maintenance Notice 2] We'll be undergoing temporary maintenance on 10/5 (Wed). ",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1577591930061561858",
+        "start_time": 1665003642,
+        "end_time": 1665043242
+      },
       {
         "id": 1202,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1576134872342544384",
         "start_time": 1664870427,
         "end_time": 1666080027
-      },
-      {
-        "id": 1196,
-        "line_type": "Globle",
-        "title": "国际服活动「The Clumsy Sister and the Magician of the Old Library」",
-        "image": "https://static.kivo.wiki/images/timeline/XNFDwV1hzzkdy06EYUS7CUs09PqYc1sH.jpg",
-        "body_summary": "[Update Preview] Trinity General School will be in the spotlight for the new event! Stay tuned for t",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1575742239883423744",
-        "start_time": 1664870427,
-        "end_time": 1666058427
-      },
-      {
-        "id": 1208,
-        "line_type": "Globle",
-        "title": "国际服「The Clumsy Sister and the Magician of the Old Library」活动PV公开",
-        "image": "",
-        "body_summary": "[Event Update Notice] There will be a ceremony to announce the discovery of precious scriptures at T",
-        "type": "OutsideGames",
-        "url": "twitter.com/EN_BlueArchive/status/1577207245930045440",
-        "start_time": 1664870413,
-        "end_time": 1664870413
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141213,
+  "time": 1795226435,
   "version": "v1.0.0-beta.43"
 }

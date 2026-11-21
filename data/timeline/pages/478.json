@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 699,
+        "line_type": "JP",
+        "title": "活动「夏の特殊作戦！RABBIT小隊と消えたエビの謎」动画PV公开",
+        "image": "",
+        "body_summary": "【イベントアニメPV公開】 先ほど #ブルアカらいぶ初夏SP にて、新イベントアニメPVが公開されました！ 先生！夏が始まります！ 製作：Yostar アニメーション制作：studio Stellat",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1670042483349405697",
+        "start_time": 1687007700,
+        "end_time": 1687007700
+      },
+      {
+        "id": 694,
+        "line_type": "JP",
+        "title": "直播「ブルアカらいぶ！初夏♪SP」",
+        "image": "https://static.kivo.wiki/images/timeline/fIXgtCAyKcA81KnVw6VSHgEgyiPtbfwn.png",
+        "body_summary": "【生放送】 6月17日(土) 19時～ 「ブルアカらいぶ！初夏♪SP」配信決定！ ▼出演者 #坂巻学 #白砂沙帆 #愛原ありさ #高塚智人 #市来光弘 ▼視聴ページ https://youtube.c",
+        "type": "Live",
+        "url": "twitter.com/Blue_ArchiveJP/status/1668090752499601408",
+        "start_time": 1686999600,
+        "end_time": 1687007628
+      },
       {
         "id": 1774,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1666339211635724288",
         "start_time": 1686639645,
         "end_time": 1687201185
-      },
-      {
-        "id": 1437,
-        "line_type": "Globle",
-        "title": "国际服活动「The Cathedral's Merry Christmas: Remedial Knights' Gift'」",
-        "image": "https://static.kivo.wiki/images/timeline/UgTz2BAZxwixTmisesYBipLNkzFaMlYm.jpg",
-        "body_summary": "[Event Preview] The Cathedral's Merry Christmas: Remedial Knights' Gift' Event Story is coming soon!",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1667063985856827394",
-        "start_time": 1686639624,
-        "end_time": 1687831224
-      },
-      {
-        "id": 1442,
-        "line_type": "Globle",
-        "title": "国际服卡池「Santa Claus Hanae has a Chant of Blessing for Sensei!」",
-        "image": "https://static.kivo.wiki/images/timeline/ssnRPdHip0rFBbYEt0XPPhhS7t7BZ0pT.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 6/13 (Tue)! Pick-Up Student: 3",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1667459084197527553",
-        "start_time": 1686639602,
-        "end_time": 1687831202
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141161,
+  "time": 1795226370,
   "version": "v1.0.0-beta.43"
 }

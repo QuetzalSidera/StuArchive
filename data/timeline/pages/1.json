@@ -2,26 +2,37 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6270,
+        "line_type": "JP",
+        "title": "C109悠星参展",
+        "image": "https://static.kivo.wiki/images/timeline/vAZ9KcMLZqhCpGWzOWsS7HpNMrIWbNad.jpg",
+        "body_summary": "【コミケ】 コミックマーケット109の『Yostar』ブースにて 新規描き下ろしイラストを使用したグッズ販売が決定です！ 先生、ぜひチェックしてくださいね！ ▼会場 東京ビッグサイト 西3ホール No",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2123621928674242854",
+        "start_time": 1798511400,
+        "end_time": 1798704000
+      },
       {
         "id": 6227,
         "line_type": "CN",
@@ -100,6 +111,17 @@
         "end_time": 1795377599
       },
       {
+        "id": 6269,
+        "line_type": "JP",
+        "title": "卡池「黒君は遠き慮り有りて」＆「行は是れ武のカンフー！」＆「願いよ響け、夏空に」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/mrMCwEXfvfQtvnLY4idMbjyJ3Zi6YwnK.jpg",
+        "body_summary": "【ピックアップ募集・予告】 2026年11月18日(水) 11:00より、復刻ピックアップ募集「黒君は遠き慮り有りて」＆「行は是れ武のカンフー！」＆「願いよ響け、夏空に」を開催します！ 詳細については",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2122525786779558248",
+        "start_time": 1794970800,
+        "end_time": 1795575599
+      },
+      {
         "id": 6268,
         "line_type": "JP",
         "title": "活动「五塵来降」常驻化",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2121800797054988333",
         "start_time": 1794970800,
         "end_time": 1794970800
-      },
-      {
-        "id": 6267,
-        "line_type": "JP",
-        "title": " 大决战：屋外戦・ゴズ #3",
-        "image": "https://static.kivo.wiki/images/timeline/pMAmqjgUuFtIAKfOOmSso2UwRKB65mSi.png",
-        "body_summary": "【大決戦・予告】 2026年11月18日(水)11:00より、大決戦「屋内戦・ゴズ」を開催します！ 「ゴズ」はEXスキル「スクリームライダー」など、各フェーズで範囲攻撃を行ってきます…。 編成に全体移",
-        "type": "BigRaid",
-        "url": "x.com/Blue_ArchiveJP/status/2121513632693645810",
-        "start_time": 1794970800,
-        "end_time": 1795550399
-      },
-      {
-        "id": 6180,
-        "line_type": "JP",
-        "title": "迷你剧情「183 VS 227」追加",
-        "image": "https://static.kivo.wiki/images/timeline/teHAieZyQIl2mge4nNNoZa9SxyguEsC5.jpg",
-        "body_summary": "【新情報⑭】 11月18日(水) 11:00より、ミニストーリーに「183 VS 227」が追加されます！ 生徒さんたちの活躍をぜひお楽しみに♪ #ブルアカ #ブルアカらいぶ秋の夜長SP",
-        "type": "OtherStory",
-        "url": "x.com/Blue_ArchiveJP/status/2114323207125860795",
-        "start_time": 1794970800,
-        "end_time": 1794970800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140684,
+  "time": 1795225786,
   "version": "v1.0.0-beta.43"
 }

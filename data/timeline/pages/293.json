@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3226,
+        "line_type": "JP",
+        "title": "活动「Serenade Promenade」",
+        "image": "https://static.kivo.wiki/images/timeline/tQeNwU8QmnxiL5J4ImaNbC1Wh5lYRKVm.jpg",
+        "body_summary": "【新情報 ①】 10月23日(水)メンテナンス後、新イベント「Serenade Promenade」が開催されます。 今回のイベントでは、生徒「ミネ(アイドル)」さんをイベント報酬としてお迎えできます",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1847958260386779574",
+        "start_time": 1729677600,
+        "end_time": 1730861999
+      },
+      {
+        "id": 3256,
+        "line_type": "JP",
+        "title": "例行维护 #105",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2.5GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 10/23(水) 1",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1848605337651482951",
+        "start_time": 1729652400,
+        "end_time": 1729681200
+      },
       {
         "id": 3216,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1847170750366748699",
         "start_time": 1729591200,
         "end_time": 1730772000
-      },
-      {
-        "id": 3243,
-        "line_type": "Globle",
-        "title": "国际服网页游戏「Livin‘On Sweets! Special Rhythm Training!」",
-        "image": "https://static.kivo.wiki/images/timeline/b1dKNpLUO0r7k4A739F3MIeFFiML0MRL.jpg",
-        "body_summary": "[LIVIN' ON SWEETS! - Mini Game Notice] Sensei, we've prepared a mini game in celebration of the \"-iv",
-        "type": "WebEvent",
-        "url": "x.com/EN_BlueArchive/status/1848594257692778691",
-        "start_time": 1729574193,
-        "end_time": 1729574193
-      },
-      {
-        "id": 3221,
-        "line_type": "Globle",
-        "title": "国际服例行维护 #71",
-        "image": "",
-        "body_summary": "[10/22 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 10/22 (Tue). 🗓️Main",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/1847200958528500012",
-        "start_time": 1729562430,
-        "end_time": 1729580430
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140976,
+  "time": 1795226140,
   "version": "v1.0.0-beta.43"
 }

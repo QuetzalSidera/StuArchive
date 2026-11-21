@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1085,
+        "line_type": "Globle",
+        "title": "国际服巴哈姆特获奖特别礼物",
+        "image": "https://static.kivo.wiki/images/timeline/XewBUctrWJRCh1Hce4vpujSJioXxiu13.jpg",
+        "body_summary": "[Bahamut Award Celebratory Special Gift] We won a bronze award in Taiwan’s biggest game website, Bah",
+        "type": "Other",
+        "url": "twitter.com/EN_BlueArchive/status/1518783171323596801",
+        "start_time": 1650941133,
+        "end_time": 1650941133
+      },
+      {
+        "id": 324,
+        "line_type": "JP",
+        "title": "「不忍ノ心」活动PV公开",
+        "image": "",
+        "body_summary": "【イベントPV】 新イベントのPVを公開します！ 「万魔殿」の皆さんを招待して行われる百鬼夜行とゲヘナの交流会。 もし何かトラブルが起きたら、学園間の抗争になるかもしれませんので気をつけてくださいね、",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/1518424807519391744?s=20",
+        "start_time": 1650896768,
+        "end_time": 1650896768
+      },
       {
         "id": 1084,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1516310880446734338",
         "start_time": 1650351691,
         "end_time": 1650351691
-      },
-      {
-        "id": 1078,
-        "line_type": "Globle",
-        "title": "国际服卡池「Welcome Sensei, to My secret lab!」",
-        "image": "https://static.kivo.wiki/images/timeline/K1U3RvqwM1lULGE3HKAOZRWkKN4XeYnc.jpg",
-        "body_summary": "[Pick Up Recruitment Preview] A new Pick Up Recruitment will begin on 4/19 (Tue)! Target Pick Up Stu",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1515253664394321924",
-        "start_time": 1650351655,
-        "end_time": 1651546855
-      },
-      {
-        "id": 1076,
-        "line_type": "Globle",
-        "title": "国际服总力战 Hieronymus (Urban) 1",
-        "image": "https://static.kivo.wiki/images/timeline/DXOmbzQwwCqGOoXEcoELs026u4XwVJJj.jpg",
-        "body_summary": "[Total Assault Preview] Hieronymus (Urban Warfare) will be held on 4/19 (Tue)! Do you have your stra",
-        "type": "Raid",
-        "url": "twitter.com/EN_BlueArchive/status/1514136307454291970",
-        "start_time": 1650351652,
-        "end_time": 1650898792
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141239,
+  "time": 1795226474,
   "version": "v1.0.0-beta.43"
 }

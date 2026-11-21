@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 5771,
+        "line_type": "CN",
+        "title": "例行维护 #62",
+        "image": "https://static.kivo.wiki/images/timeline/76QVNJEQf568He4VNBbZ1w6C5GDivg6w.gif",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月16日 10:00 开始进行维护更新，预计持续8小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
+        "type": "Maintenance",
+        "url": "weibo.com/6011443154/R8OoW7XqP",
+        "start_time": 1784167200,
+        "end_time": 1784196000
+      },
+      {
+        "id": 5763,
+        "line_type": "JP",
+        "title": "大决战：屋内戦・ホド #1",
+        "image": "https://static.kivo.wiki/images/timeline/Mm328fYkJixFWHe8lFMJw5LzYOzryRuP.jpg",
+        "body_summary": "【大決戦・予告】 2026年7月15日(水)11:00より、大決戦「屋内戦・ホド」が開幕します！ 今回難易度「Torment」に挑戦できる防御タイプは「重装甲」と「弾力装甲」になります。 「ホド(屋内",
+        "type": "BigRaid",
+        "url": "x.com/Blue_ArchiveJP/status/2075777627210854479?s=20",
+        "start_time": 1784104308,
+        "end_time": 1784709108
+      },
       {
         "id": 5590,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2075478880094413026",
         "start_time": 1784002477,
         "end_time": 1784607277
-      },
-      {
-        "id": 5738,
-        "line_type": "Globle",
-        "title": "国际服卡池「Oh, you came here to save me, Sensei! Wait, you got caught too?!」",
-        "image": "https://static.kivo.wiki/images/timeline/4B49tZz65iXnFNMOGSeuxkpYucz5wF4p.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 7/14 (Tue)! 💌Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2075475107246752086",
-        "start_time": 1784000995,
-        "end_time": 1784605795
-      },
-      {
-        "id": 5737,
-        "line_type": "Globle",
-        "title": "国际服大决战Hieronymus (Urban) #4",
-        "image": "https://static.kivo.wiki/images/timeline/wlkZEkM0Aorrcrh7C32Gqjde069aD1OK.jpg",
-        "body_summary": "[Grand Assault Preview] The Grand Assault - Hieronymus (Urban Warfare) will start on 7/14 (Tue)! ➡️O",
-        "type": "BigRaid",
-        "url": "x.com/EN_BlueArchive/status/2074804859103314297",
-        "start_time": 1784000641,
-        "end_time": 1784605441
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140733,
+  "time": 1795225844,
   "version": "v1.0.0-beta.43"
 }

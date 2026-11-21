@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2701,
+        "line_type": "JP",
+        "title": "活动「Say-Bing!」",
+        "image": "https://static.kivo.wiki/images/timeline/9TTZY55j7qvp3AMElfihvpIUtbROpq3t.jpg",
+        "body_summary": "【新情報 ①】 6月26日(水)メンテナンス後、新イベント「Say-Bing!」が開催されます。 今回のイベントでは、生徒「キリノ（水着）」さんをイベント報酬としてお迎えできます♪ 詳しい遊び方や報酬",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1804833214458130854",
+        "start_time": 1719399600,
+        "end_time": 1720580399
+      },
+      {
+        "id": 2775,
+        "line_type": "JP",
+        "title": "例行维护97",
+        "image": "https://static.kivo.wiki/images/timeline/3VkDXx7QNuN6jbBOMOe4kVrIGMXTu4qr.jpg",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 今回約2GBのデータダウンロードが必要となりますので、ご協力のほどよろしくお願いいたします。 ▼実施日時 6/26(水) 11:0",
+        "type": "Maintenance",
+        "url": "x.com/Blue_ArchiveJP/status/1805481161478881582",
+        "start_time": 1719370800,
+        "end_time": 1719399600
+      },
       {
         "id": 2774,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1804076806678405148",
         "start_time": 1719280800,
         "end_time": 1719295200
-      },
-      {
-        "id": 2722,
-        "line_type": "Globle",
-        "title": "国际服指名手配2倍28",
-        "image": "https://static.kivo.wiki/images/timeline/32mxzMCRWQYEdRa1RH8MLRfxrnFfsiyh.jpg",
-        "body_summary": "[Double Drop Campaign Preview] Starting 6/24 (Mon), Bounty rewards will be doubled! Don't miss out o",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1804408987930026390",
-        "start_time": 1719255630,
-        "end_time": 1719860430
-      },
-      {
-        "id": 2780,
-        "line_type": "JP",
-        "title": "阿比多斯小剧场 #25",
-        "image": "https://static.kivo.wiki/images/timeline/GYXYZM24RPC4JcNzluqjdQSoaRQWixOK.png",
-        "body_summary": "【#ちょっとお時間もらいますね】 先生、おはようございます♪ 今日はアビドスの皆さんがやってきましたよ、先生！ 大事なお知らせ…？何でしょうか…？ ▽動画はこちら https://youtube.co",
-        "type": "OutsideGames",
-        "url": "x.com/Blue_ArchiveJP/status/1805014219974406589",
-        "start_time": 1719187500,
-        "end_time": 1719187500
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141023,
+  "time": 1795226204,
   "version": "v1.0.0-beta.43"
 }

@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1604,
+        "line_type": "Globle",
+        "title": "国际服「The Dragon and Tortoise: Working Together for a Better Future」活动PV公开",
+        "image": "",
+        "body_summary": "[Event Story Notice] The Dragon and Tortoise: Working Together for a Better Future Event Story has b",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1729380060677963986",
+        "start_time": 1701151255,
+        "end_time": 1701151255
+      },
+      {
+        "id": 2194,
+        "line_type": "CN",
+        "title": "封禁公示说明8",
+        "image": "https://static.kivo.wiki/images/timeline/1s3ShNpccLEqPNroGwsTzUfsMaejCxQO.png",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证各位老师的游戏体验与账号安全，联邦理事会将会一直严厉打击任何以不正当手段破坏游戏公平性的行为，绝不容忍任何外挂、非法第三方工具在基沃托斯出现。致力于为老师提供绿",
+        "type": "Other",
+        "url": "bluearchive-cn.com/news/385",
+        "start_time": 1701144059,
+        "end_time": 1701144059
+      },
       {
         "id": 1601,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "bluearchive-cn.com/news/349",
         "start_time": 1700747055,
         "end_time": 1701956655
-      },
-      {
-        "id": 1635,
-        "line_type": "CN",
-        "title": "【区域15】开放",
-        "image": "https://static.kivo.wiki/images/timeline/ZTEWrsWG2oP6acLgJSRtWSK2yjyGxwvU.jpg",
-        "body_summary": "【区域15】即将开放！此新区域以街道为舞台进行战斗，以特殊装甲为主的敌人将登场。 ■ 开放时间 11月23日 维护结束后 ■ 开放条件 通关任务（普通难度）14-5 ■ 特殊说明 • 成功通关任务（普",
-        "type": "ContentImprovements",
-        "url": "b23.tv/xOa3mEy",
-        "start_time": 1700733600,
-        "end_time": 1700733600
-      },
-      {
-        "id": 1633,
-        "line_type": "CN",
-        "title": "梅花园、生活安全局社团剧情更新",
-        "image": "https://static.kivo.wiki/images/timeline/btdSBuaqanGm6ggZF0MXq7kEyvbyBWKe.jpg",
-        "body_summary": "全新社团及其对应的支线剧情将于 11月23日 维护结束后 更新！ 这些故事记录了女生们诙谐幽默但又不失爆发力和深度的青春故事。 ■ 梅花园 全都是乖孩子呢~ 在梅花园和天使们一起度过的幸福日常。 • ",
-        "type": "OtherStory",
-        "url": "b23.tv/PTCjB4Z",
-        "start_time": 1700733600,
-        "end_time": 1700755199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141109,
+  "time": 1795226310,
   "version": "v1.0.0-beta.43"
 }

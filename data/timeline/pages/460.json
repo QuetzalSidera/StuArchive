@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1944,
+        "line_type": "CN",
+        "title": "限时招募【庆典乐声响 难掩相思意】",
+        "image": "https://static.kivo.wiki/images/timeline/xp9TbI9kI36axBQ4QugtrpwLBtL0qEcx.png",
+        "body_summary": "限时招募【庆典乐声响，难掩相思意】即将开启！在本次招募中，全新成员“泉奈（3★）”、“静子（2★）”登场，且招募概率得到提升！ ■ 招募时间 08月17日（周四）14:00 维护后 ~ 08月31日（",
+        "type": "Gacha",
+        "url": "bluearchive-cn.com/news/185",
+        "start_time": 1692280001,
+        "end_time": 1725112001
+      },
+      {
+        "id": 2174,
+        "line_type": "CN",
+        "title": "首次活动开启纪念",
+        "image": "https://static.kivo.wiki/images/timeline/n1qZLIfPZHJtQ5zsa4M7RwaBYXF6poCR.png",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为纪念首次限时活动的开启，特意准备了连续15天的AP助力！请好好享受活动吧~~ ■ 活动时间 2023年08月17日（周四）活动开启后 ~ 08月31日（周四） ■ ",
+        "type": "Other",
+        "url": "bluearchive-cn.com/news/181",
+        "start_time": 1692266416,
+        "end_time": 1693450816
+      },
       {
         "id": 2168,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/1691653573925617826?s=20",
         "start_time": 1692189132,
         "end_time": 1692793932
-      },
-      {
-        "id": 764,
-        "line_type": "JP",
-        "title": "例行维护75",
-        "image": "",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 8/16(水) 11:00 〜 17:00前後 ▼詳細 https://",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1691328927380434944?s=20",
-        "start_time": 1692189076,
-        "end_time": 1692189076
-      },
-      {
-        "id": 762,
-        "line_type": "JP",
-        "title": "复刻活动「出張！百夜堂 海の家FC計画」",
-        "image": "https://static.kivo.wiki/images/timeline/farPfV0AGU3keQR0pTtDLq9GbDUFd9Ol.jpg",
-        "body_summary": "【イベント紹介】 8/16(水)メンテナンス終了後、復刻イベント「出張！百夜堂 海の家FC計画」が開催されます！ 今年最後の夏イベントは「占領戦」にてストーリーが進行します！ 報酬では「シズコ(水着)",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/1691329132683202560?s=20",
-        "start_time": 1692188993,
-        "end_time": 1692793793
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141142,
+  "time": 1795226349,
   "version": "v1.0.0-beta.43"
 }

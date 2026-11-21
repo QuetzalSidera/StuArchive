@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 4588,
+        "line_type": "JP",
+        "title": "战术对抗赛S10开幕",
+        "image": "https://static.kivo.wiki/images/timeline/fGZrTUlJjaASd5QKHgdLLWfRneOX4EIY.jpg",
+        "body_summary": "【新情報⑧】 そして少し先にはなりますが11月5日(水)メンテナンス後、戦術対抗戦の新シーズンが開幕します。 詳細については後日公開のお知らせにてご確認ください。",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1979512471644962826",
+        "start_time": 1762311600,
+        "end_time": 1762311600
+      },
+      {
+        "id": 4587,
+        "line_type": "JP",
+        "title": "联合火力演习 #45",
+        "image": "https://static.kivo.wiki/images/timeline/G9gqC7dBBBWE2YvPvR3i6HRPQ728LOBs.jpg",
+        "body_summary": "【新情報⑦】 11月5日(水)メンテナンス後より、合同火力演習「護衛演習」が開始します！ ▼開催期間 2025/11/5(水) メンテナンス後~11/12(水) 3:59",
+        "type": "MiniBattle",
+        "url": "x.com/Blue_ArchiveJP/status/1979511964163596418",
+        "start_time": 1762311600,
+        "end_time": 1762934399
+      },
       {
         "id": 4679,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1984157137916879088",
         "start_time": 1762221600,
         "end_time": 1763431199
-      },
-      {
-        "id": 4643,
-        "line_type": "Globle",
-        "title": "国际服卡池「Ah... Would you like to come with me on this journey of ROCK?」",
-        "image": "https://static.kivo.wiki/images/timeline/ObL3MzXrwIMEpkTNpTBgwmkcsV9xqKqR.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 11/4 (Tue)! 💌Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1984153363639103772",
-        "start_time": 1762221600,
-        "end_time": 1763431199
-      },
-      {
-        "id": 4622,
-        "line_type": "Globle",
-        "title": "国际服总力战 Geburah (Field Warfare) #2",
-        "image": "https://static.kivo.wiki/images/timeline/2c5uOhZJ3XvsijtfHGcDRB2pWqAWJz4B.jpg",
-        "body_summary": "[Total Assault Preview] The Total Assault - Geburah(Field Warfare) will start on 10/28 (Tue)! ➡️Offi",
-        "type": "Raid",
-        "url": "x.com/EN_BlueArchive/status/1980891874350002207",
-        "start_time": 1762221600,
-        "end_time": 1764295200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140833,
+  "time": 1795225973,
   "version": "v1.0.0-beta.43"
 }

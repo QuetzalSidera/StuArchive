@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3354,
+        "line_type": "CN",
+        "title": "《蔚蓝档案》国服 4th PV",
+        "image": "https://static.kivo.wiki/images/timeline/MRk0hBhQw0JQHCBGCKjj4bURyG0KLhci.jpg",
+        "body_summary": "老师，我相信您一定能找到，通往与这扭曲的终点所截然不同的……另一种结局的正确选项。 所以，老师，请您一定要—— https://www.bilibili.com/video/BV1JSSxYuExV/",
+        "type": "OutsideGames",
+        "url": "www.bilibili.com/video/BV1JSSxYuExV/",
+        "start_time": 1730343638,
+        "end_time": 1730343638
+      },
+      {
+        "id": 3351,
+        "line_type": "CN",
+        "title": "任务（普通难度）3倍 #8",
+        "image": "https://static.kivo.wiki/images/timeline/r5tMqqbZKNTFAo9ZoYyr9c3IgfkzCbMP.jpg",
+        "body_summary": "【任务（普通难度）】道具掉落量3倍活动即将开启！请老师不要错过哦！ 以下是阿洛娜为老师整理的活动开启日程表，老师可根据日程表进行工作安排！ 【任务（普通难度）】道具掉落量3倍 ■ 活动时间 10月31",
+        "type": "Double",
+        "url": "weibo.com/6011443154/ODLlxqzzA",
+        "start_time": 1730318400,
+        "end_time": 1730664000
+      },
       {
         "id": 3229,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/992467298871672833",
         "start_time": 1729915200,
         "end_time": 1729915200
-      },
-      {
-        "id": 3250,
-        "line_type": "Globle",
-        "title": "鹤山文化社 x Blue Archive 真理部官方周边发售",
-        "image": "https://static.kivo.wiki/images/timeline/J5LOKYiiHBkhs4jK47JKuSOMhp8pkMIu.jpg",
-        "body_summary": "[블루 아카이브 X 학산문화사 '밀레니엄 VERITAS' 스페셜 공식 굿즈 판매 개시] 선생님, 지난 8월에 이어 화이트 해커 동아리 베리타스가 새로운 모습으로 돌아왔어요! 베리타",
-        "type": "OutsideGames",
-        "url": "x.com/KR_BlueArchive/status/1849994355718631705",
-        "start_time": 1729906200,
-        "end_time": 1729906200
-      },
-      {
-        "id": 3259,
-        "line_type": "JP",
-        "title": "老师经验2倍集中通知#11",
-        "image": "https://static.kivo.wiki/images/timeline/W3b78X8QKceYllqddXr8HNW89vfMyTuz.jpg",
-        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
-        "type": "Double",
-        "url": "x.com/Blue_ArchiveJP/status/1849738340008067184",
-        "start_time": 1729886400,
-        "end_time": 1730750399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140973,
+  "time": 1795226136,
   "version": "v1.0.0-beta.43"
 }

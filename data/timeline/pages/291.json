@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3250,
+        "line_type": "Globle",
+        "title": "鹤山文化社 x Blue Archive 真理部官方周边发售",
+        "image": "https://static.kivo.wiki/images/timeline/J5LOKYiiHBkhs4jK47JKuSOMhp8pkMIu.jpg",
+        "body_summary": "[블루 아카이브 X 학산문화사 '밀레니엄 VERITAS' 스페셜 공식 굿즈 판매 개시] 선생님, 지난 8월에 이어 화이트 해커 동아리 베리타스가 새로운 모습으로 돌아왔어요! 베리타",
+        "type": "OutsideGames",
+        "url": "x.com/KR_BlueArchive/status/1849994355718631705",
+        "start_time": 1729906200,
+        "end_time": 1729906200
+      },
+      {
+        "id": 3259,
+        "line_type": "JP",
+        "title": "老师经验2倍集中通知#11",
+        "image": "https://static.kivo.wiki/images/timeline/W3b78X8QKceYllqddXr8HNW89vfMyTuz.jpg",
+        "body_summary": "【キャンペーン予告】 今後開催される「先生レベル経験値2倍キャンペーン」の情報をお知らせします。 詳しい日程は画像をご確認のうえ、ぜひご活用ください！ ※開催期間中、「熟達証書」の獲得量は2倍にはなり",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/1849738340008067184",
+        "start_time": 1729886400,
+        "end_time": 1730750399
+      },
       {
         "id": 3247,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "weibo.com/6011443154/OCxVzEGaf",
         "start_time": 1729749600,
         "end_time": 1730948400
-      },
-      {
-        "id": 3258,
-        "line_type": "JP",
-        "title": "App Store人气第一 #6",
-        "image": "https://static.kivo.wiki/images/timeline/H0R2jhkTEmYH3GYBkA1MvP25jQilc56a.jpg",
-        "body_summary": "【#シャーレ管理事務所】 この度『ブルーアーカイブ』がAppStoreセールスランキングにて、1位を達成しました！ すべては先生のおかげです！ありがとうございます！ 感謝の気持ちを込めて「10回募集チ",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/1849300142534656346",
-        "start_time": 1729746000,
-        "end_time": 1729746000
-      },
-      {
-        "id": 3235,
-        "line_type": "JP",
-        "title": "制约解除决战：Chokmah #1",
-        "image": "https://static.kivo.wiki/images/timeline/kPZzbbExfDtX1oh5eYxCTEXjlNbj3qjJ.jpg",
-        "body_summary": "【新情報 ⑫】 次の新情報はこちら！ 10月24日(木)11:00より、「制約解除決戦」にて新規ボス「コクマー」が実装されます！ 詳細については後日公開のお知らせにてご確認ください。 #ブルアカ #ブ",
-        "type": "MiniBattle",
-        "url": "x.com/Blue_ArchiveJP/status/1847973721887420927",
-        "start_time": 1729738800,
-        "end_time": 1732046399
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140974,
+  "time": 1795226137,
   "version": "v1.0.0-beta.43"
 }

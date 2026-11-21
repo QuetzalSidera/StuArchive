@@ -2,17 +2,35 @@
   "schema_version": "1.0.0",
   "name": "timeline",
   "description": "Three-server timeline records. Detail sync is disabled by default because this collection is large.",
-  "generated_at": "2026-11-20T00:18:46Z",
+  "generated_at": "2026-11-20T23:41:40Z",
   "id_key": "id",
   "source_index": {
     "path": "timeline/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 6099,
-  "alias_count": 6087,
-  "normalized_alias_count": 6079,
+  "total_items": 6101,
+  "alias_count": 6089,
+  "normalized_alias_count": 6081,
   "by_id": {
+    "6270": {
+      "id": 6270,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6270,
+        "line_type": "JP",
+        "title": "C109悠星参展",
+        "image": "https://static.kivo.wiki/images/timeline/vAZ9KcMLZqhCpGWzOWsS7HpNMrIWbNad.jpg",
+        "body_summary": "【コミケ】 コミックマーケット109の『Yostar』ブースにて 新規描き下ろしイラストを使用したグッズ販売が決定です！ 先生、ぜひチェックしてくださいね！ ▼会場 東京ビッグサイト 西3ホール No",
+        "type": "OutsideGames",
+        "url": "x.com/Blue_ArchiveJP/status/2123621928674242854",
+        "start_time": 1798511400,
+        "end_time": 1798704000
+      },
+      "detail_path": "timeline/6270.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6270.json"
+    },
     "6227": {
       "id": 6227,
       "source_path": "timeline/index.json",
@@ -138,6 +156,24 @@
       },
       "detail_path": "timeline/6222.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6222.json"
+    },
+    "6269": {
+      "id": 6269,
+      "source_path": "timeline/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
+      "item": {
+        "id": 6269,
+        "line_type": "JP",
+        "title": "卡池「黒君は遠き慮り有りて」＆「行は是れ武のカンフー！」＆「願いよ響け、夏空に」复刻",
+        "image": "https://static.kivo.wiki/images/timeline/mrMCwEXfvfQtvnLY4idMbjyJ3Zi6YwnK.jpg",
+        "body_summary": "【ピックアップ募集・予告】 2026年11月18日(水) 11:00より、復刻ピックアップ募集「黒君は遠き慮り有りて」＆「行は是れ武のカンフー！」＆「願いよ響け、夏空に」を開催します！ 詳細については",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/2122525786779558248",
+        "start_time": 1794970800,
+        "end_time": 1795575599
+      },
+      "detail_path": "timeline/6269.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/6269.json"
     },
     "6268": {
       "id": 6268,
@@ -109797,6 +109833,9 @@
     }
   },
   "by_alias": {
+    "C109悠星参展": [
+      "6270"
+    ],
     "任务(困难难度)2倍 #30": [
       "6227"
     ],
@@ -109818,6 +109857,9 @@
     ],
     "任务(普通难度)2倍 #29": [
       "6222"
+    ],
+    "卡池「黒君は遠き慮り有りて」&「行は是れ武のカンフー!」&「願いよ響け、夏空に」复刻": [
+      "6269"
     ],
     "活动「五塵来降」常驻化": [
       "6268"
@@ -128072,6 +128114,9 @@
     ]
   },
   "by_normalized_alias": {
+    "c109悠星参展": [
+      "6270"
+    ],
     "任务(困难难度)2倍#30": [
       "6227"
     ],
@@ -128093,6 +128138,9 @@
     ],
     "任务(普通难度)2倍#29": [
       "6222"
+    ],
+    "卡池「黒君は遠き慮り有りて」&「行は是れ武のカンフー!」&「願いよ響け、夏空に」复刻": [
+      "6269"
     ],
     "活动「五塵来降」常驻化": [
       "6268"

@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 3944,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #83",
+        "image": "https://static.kivo.wiki/images/timeline/BiC8EEo2Zgir61Inm6a4E5CQXoJai1qB.jpg",
+        "body_summary": "[4/29 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 4/29 (Tue). Maintena",
+        "type": "Maintenance",
+        "url": "x.com/EN_BlueArchive/status/1915692259275649479",
+        "start_time": 1745892000,
+        "end_time": 1745906400
+      },
+      {
+        "id": 3946,
+        "line_type": "Globle",
+        "title": "国际服任务normal2倍 #36",
+        "image": "https://static.kivo.wiki/images/timeline/T14gPMiCnLboRdWsr9yesPueHlf41OV5.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/1916024451067506826",
+        "start_time": 1745866800,
+        "end_time": 1746471540
+      },
       {
         "id": 3939,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1915639408776138802",
         "start_time": 1745557200,
         "end_time": 1745557200
-      },
-      {
-        "id": 3950,
-        "line_type": "Globle",
-        "title": "韩国红十字会 x Blue Archive 联动“Saving Lives, Together!”",
-        "image": "https://static.kivo.wiki/images/timeline/b3ZRCAdyTcHQR7JKiWc8ILAcfjYLAtHK.jpg",
-        "body_summary": "[대한적십자사 X 블루 아카이브 ‘Saving Lives, Together!’ 캠페인 예고] 선생님, ‘Saving Lives, Together!’ 캠페인의 다양한 이벤트 중, 첫",
-        "type": "OutsideGames",
-        "url": "x.com/KR_BlueArchive/status/1915601664087613926",
-        "start_time": 1745550046,
-        "end_time": 1745550046
-      },
-      {
-        "id": 3880,
-        "line_type": "Globle",
-        "title": "国际服柴大将拉面店联动",
-        "image": "https://static.kivo.wiki/images/timeline/VA2cDtmkpCaKs4FJYdg8V9vWIpvm4lAf.jpg",
-        "body_summary": "[‘마스터 시바의 특제라멘’ 용산 팝업 스토어 오픈 예정 안내] 마스터 시바의 특제라멘 조리 Ver.부터 다양한 현장 구매 굿즈까지 모두 만나볼 수 있는 ‘마스터 시바의 특제라멘’",
-        "type": "OutsideGames",
-        "url": "x.com/KR_BlueArchive/status/1911283207414104550",
-        "start_time": 1745546400,
-        "end_time": 1746792000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140905,
+  "time": 1795226056,
   "version": "v1.0.0-beta.43"
 }

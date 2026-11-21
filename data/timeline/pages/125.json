@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 4958,
+        "line_type": "Globle",
+        "title": "新Twitch频道开通",
+        "image": "https://static.kivo.wiki/images/timeline/5FH2zVbrEDuJKYg2zGzenKPnlZraRITr.jpg",
+        "body_summary": "Attention, Sensei! We've opened up a brand new Twitch channel for special Blue Archive streams! Join",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/2011740601264508963",
+        "start_time": 1768444600,
+        "end_time": 1768444600
+      },
+      {
+        "id": 5285,
+        "line_type": "Globle",
+        "title": "国际服Arcie小编阿罗娜新春回 #31",
+        "image": "https://static.kivo.wiki/images/timeline/yEBfwzgJbYa6luIqri8Sy3NcWIbz34nU.jpg",
+        "body_summary": "HAPPY NEW YEAR – CM Arcie’s 31st stream is coming tomorrow! Let’s kick off the year 2026 together, S",
+        "type": "Live",
+        "url": "x.com/EN_BlueArchive/status/2011241858152677431",
+        "start_time": 1768438800,
+        "end_time": 1768438800
+      },
       {
         "id": 5707,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2010909679589671163",
         "start_time": 1768273607,
         "end_time": 1768273607
-      },
-      {
-        "id": 4923,
-        "line_type": "Globle",
-        "title": "国际服例行维护#101",
-        "image": "https://static.kivo.wiki/images/timeline/DzODD7G9MpIQSc4izFQN35J2i9FSoTKX.jpg",
-        "body_summary": "[1/13 Scheduled Maintenance Notice] Sensei, there is a scheduled maintenance on 1/13 (Tue). 🗓️Mainte",
-        "type": "Maintenance",
-        "url": "x.com/EN_BlueArchive/status/2009550723214684517",
-        "start_time": 1768269600,
-        "end_time": 1768287600
-      },
-      {
-        "id": 4842,
-        "line_type": "JP",
-        "title": "5周年倒计时登录奖励「5周年カウントダウンログインボーナス」",
-        "image": "https://static.kivo.wiki/images/timeline/8ycmc2uahzPip9eOBcqwWRk0mTn5vnTi.jpg",
-        "body_summary": "【新情報⑥】 「5周年カウントダウンログインボーナス」が実施されます！ 毎日ログインして、全ての報酬を受け取りましょう！ 開催時期や、報酬などの詳細についてはこちらの画像にてご確認ください！",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/2002337422110331142",
-        "start_time": 1768248000,
-        "end_time": 1768852799
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140808,
+  "time": 1795225940,
   "version": "v1.0.0-beta.43"
 }

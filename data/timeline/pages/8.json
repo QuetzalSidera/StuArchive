@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6208,
+        "line_type": "Globle",
+        "title": "国际服万圣节礼物",
+        "image": "https://static.kivo.wiki/images/timeline/Ez9UNzuvUurMcvJrT2WGNj5AXRJNNroh.jpg",
+        "body_summary": "Sensei, what kind of tricks could Eri have possibly prepared for Halloween? 🎃 Come find 💎600 Pyroxen",
+        "type": "Other",
+        "url": "x.com/EN_BlueArchive/status/2115971961478128098",
+        "start_time": 1793367538,
+        "end_time": 1793367538
+      },
+      {
+        "id": 6203,
+        "line_type": "CN",
+        "title": "【无限制决战：获刻玛 • 特殊装甲】#2",
+        "image": "https://static.kivo.wiki/images/timeline/BpzgiIhBONymTYCeFcYmf60H6VUxrWwo.jpg",
+        "body_summary": "无限制决战\"获刻玛\"即将开启，参与活动即可获得礼物选择盒、合成石、辅导手册及其他各类养成素材 ■ 活动时间 • 赛季持续时间：10月30日 14:00 ~ 11月26日 03:59 ■ 首领\"获刻玛\"",
+        "type": "MiniBattle",
+        "url": "weibo.com/6011443154/RoSX3DYYJ",
+        "start_time": 1793340000,
+        "end_time": 1795636799
+      },
       {
         "id": 6204,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "bluearchive-cn.com/news/1992",
         "start_time": 1793203200,
         "end_time": 1794463199
-      },
-      {
-        "id": 6215,
-        "line_type": "JP",
-        "title": "违规账号封禁 #61",
-        "image": "https://static.kivo.wiki/images/timeline/eCMQTHWzrepUkyfSx3MFBb06D4RMLWC1.jpg",
-        "body_summary": "【不正行為に関するお知らせ】 『ブルーアーカイブ』ではユーザーの皆様が快適にゲームをお楽しみいただけるよう、利用規約への違反行為に対しまして、アカウント永久停止対応を実施しております。 詳細は画像をご",
-        "type": "Other",
-        "url": "x.com/Blue_ArchiveJP/status/2115398426368397733",
-        "start_time": 1793185200,
-        "end_time": 1793185200
-      },
-      {
-        "id": 6214,
-        "line_type": "JP",
-        "title": "例行维护#153",
-        "image": "https://static.kivo.wiki/images/timeline/dH5iDismsnAKUQrOjaXKKoZ18B8v8khk.png",
-        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生、ご協力のほどよろしくお願いいたします！ ▼実施日時 2026年10月28日(水) 11:00 〜 19:00前後 ▼詳細 h",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/2114960451859849431",
-        "start_time": 1793156400,
-        "end_time": 1793185200
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140692,
+  "time": 1795225793,
   "version": "v1.0.0-beta.43"
 }

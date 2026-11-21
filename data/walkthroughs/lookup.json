@@ -2,17 +2,189 @@
   "schema_version": "1.0.0",
   "name": "walkthroughs",
   "description": "Shared walkthrough/team composition records.",
-  "generated_at": "2026-11-20T00:18:46Z",
+  "generated_at": "2026-11-20T23:41:40Z",
   "id_key": "id",
   "source_index": {
     "path": "walkthroughs/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 108,
-  "alias_count": 108,
-  "normalized_alias_count": 108,
+  "total_items": 109,
+  "alias_count": 109,
+  "normalized_alias_count": 109,
   "by_id": {
+    "146": {
+      "id": 146,
+      "source_path": "walkthroughs/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/index.json",
+      "item": {
+        "id": 146,
+        "user": {
+          "id": 23648,
+          "user_name": "GeorgeZhang",
+          "introduction": "*野生小众圈杂厨",
+          "avatar": "https://static.kivo.wiki/images/avatar/23648/su7crWiufu3c3Te5MF8bwA6S1sgnckLb.png"
+        },
+        "title": "聚宝盆小队",
+        "server": "China",
+        "game_mode": "Other",
+        "enemy_defensive_attributes": "Rainbow",
+        "level_terrain": "Other",
+        "introduce_summary": "个人喜好的强力角色组成的编队",
+        "team": [
+          {
+            "student": [
+              {
+                "student_id": 76,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 87,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 71,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 11,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 97,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              },
+              {
+                "student_id": 227,
+                "level": 90,
+                "star_level": 5,
+                "weapon_level": 0,
+                "favorability": 10,
+                "skill_level": [
+                  5,
+                  10,
+                  10,
+                  10
+                ],
+                "equipment_level": [
+                  10,
+                  10,
+                  10
+                ],
+                "character_data_index": 0,
+                "max_hp_talent_level": 0,
+                "attack_talent_level": 0,
+                "healing_talent_level": 0
+              }
+            ],
+            "initial_skills": [
+              87,
+              11,
+              97
+            ],
+            "timeline": []
+          }
+        ],
+        "reference_score": 0,
+        "is_favorite": false,
+        "state": 1,
+        "favorite_num": 1,
+        "created_at": 1795177140,
+        "updated_at": 1795177140
+      },
+      "detail_path": "walkthroughs/146.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/walkthroughs/146.json"
+    },
     "145": {
       "id": 145,
       "source_path": "walkthroughs/index.json",
@@ -28713,6 +28885,9 @@
     }
   },
   "by_alias": {
+    "聚宝盆小队": [
+      "146"
+    ],
     "轻装甲通用": [
       "145"
     ],
@@ -29039,6 +29214,9 @@
     ]
   },
   "by_normalized_alias": {
+    "聚宝盆小队": [
+      "146"
+    ],
     "轻装甲通用": [
       "145"
     ],

@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1003,
+        "line_type": "Globle",
+        "title": "国际服卡池「... What do I worry about? Being too average I guess ...?」",
+        "image": "https://static.kivo.wiki/images/timeline/5JsBYvPYNnm6kljIpccXqIcqmLjugjUZ.jpg",
+        "body_summary": "[Pick-Up Recruitment Preview] A new Pick-Up Recruitment will begin on 2/8 (Tue)! Target Pick-Up Stud",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1489886523541508096",
+        "start_time": 1644303600,
+        "end_time": 1645498800
+      },
+      {
+        "id": 1002,
+        "line_type": "Globle",
+        "title": "国际服总力战 Binah (Field)",
+        "image": "https://static.kivo.wiki/images/timeline/8yIm8Ra6LsuKTTOjNYmVrw9y6644lUvG.jpg",
+        "body_summary": "[Total Assault Preview] Binah (Field Warfare) will be open starting 2/8 (Tue)! Do you have your stra",
+        "type": "Raid",
+        "url": "twitter.com/EN_BlueArchive/status/1489161746833149953",
+        "start_time": 1644303600,
+        "end_time": 1644850800
+      },
       {
         "id": 1006,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1488437090547208194",
         "start_time": 1643745600,
         "end_time": 1644091199
-      },
-      {
-        "id": 1001,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁6",
-        "image": "",
-        "body_summary": "[2/1(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the in",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1488395985101352961",
-        "start_time": 1643725020,
-        "end_time": 1643725020
-      },
-      {
-        "id": 918,
-        "line_type": "Globle",
-        "title": "国际服任务normal2倍3 hard2倍3",
-        "image": "https://static.kivo.wiki/images/timeline/WceoeXCsId3bYntb0nzAq7IMZOC5vUIj.jpg",
-        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions will be doubled. Don't miss",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1487681989146595332",
-        "start_time": 1643655600,
-        "end_time": 1644260340
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141251,
+  "time": 1795226494,
   "version": "v1.0.0-beta.43"
 }

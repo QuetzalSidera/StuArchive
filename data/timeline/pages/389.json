@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2156,
+        "line_type": "Globle",
+        "title": "国际服「The Academy Club Story: A Pair's Final Adventure」活动PV公开",
+        "image": "",
+        "body_summary": "[Event Update Notice] The Academy Club Story: A Pair's Final Adventure event story is here! Follow t",
+        "type": "OutsideGames",
+        "url": "twitter.com/EN_BlueArchive/status/1762372394218574023",
+        "start_time": 1709017231,
+        "end_time": 1709017231
+      },
+      {
+        "id": 2153,
+        "line_type": "Globle",
+        "title": "国际服卡池复刻「Keep your wits about you and protect the hygiene of the Red Winter Academy!」2",
+        "image": "https://static.kivo.wiki/images/timeline/kjtgzquOgYePasUgWmuc1CwnoRNY5aUq.jpg",
+        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 2/27 (Tue)! Pick-Up St",
+        "type": "Gacha",
+        "url": "twitter.com/EN_BlueArchive/status/1760914888069636594",
+        "start_time": 1708999249,
+        "end_time": 1709517589
+      },
       {
         "id": 2151,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/BlueArchive_TV/status/1761662314330112362",
         "start_time": 1708851600,
         "end_time": 1708851600
-      },
-      {
-        "id": 2247,
-        "line_type": "CN",
-        "title": "古关忧",
-        "image": "https://static.kivo.wiki/images/timeline/yp5gj5de9fRkkbtCEehR7WcAFX15SFZZ.jpg",
-        "body_summary": "//////////档案启封////////// ■古关忧 崔尼蒂图书管理部的部长。 极度热爱书，甚至会说出比起人还是更喜欢书这样的话，尤其偏爱充斥着岁月感的古书古籍。平时都呆在没人会来的古书馆，闭门",
-        "type": "Other",
-        "url": "weibo.com/6011443154/O267cpt6p",
-        "start_time": 1708768818,
-        "end_time": 1708768818
-      },
-      {
-        "id": 2154,
-        "line_type": "Globle",
-        "title": "国际服老师经验2倍5",
-        "image": "https://static.kivo.wiki/images/timeline/zz48FBAol4jUc5qKVACzEbm69W5BzlBw.jpg",
-        "body_summary": "[Double Account EXP Campaign Preview] The Double Account EXP event will start on 2/23 (Fri)! Don't m",
-        "type": "Double",
-        "url": "twitter.com/EN_BlueArchive/status/1760924954386903188",
-        "start_time": 1708714811,
-        "end_time": 1708887551
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141072,
+  "time": 1795226265,
   "version": "v1.0.0-beta.43"
 }

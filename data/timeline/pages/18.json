@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6096,
+        "line_type": "Globle",
+        "title": "国际服总力战 Hovercraft (Field) #6",
+        "image": "https://static.kivo.wiki/images/timeline/ycqfZ4zeltgd3xZrHPziIdKDEPSFsTfg.png",
+        "body_summary": "[Grand Assault Preview] The Grand Assault - Hovercraft (Field Warfare) will start on 10/6 (Tue)! ➡️O",
+        "type": "Raid",
+        "url": "x.com/EN_BlueArchive/status/2105190914020815216",
+        "start_time": 1791252000,
+        "end_time": 1791831600
+      },
+      {
+        "id": 5923,
+        "line_type": "Globle",
+        "title": "国际服任务Normal2倍 #52",
+        "image": "https://static.kivo.wiki/images/timeline/7wwJnyIe4m70pYezE2Wnm9EJGfjXsOiP.jpg",
+        "body_summary": "[Double Drop Campaign Preview] The amount of rewards dropped in Missions (Normal) will be doubled. D",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2106278079769514162",
+        "start_time": 1791226800,
+        "end_time": 1791572399
+      },
       {
         "id": 6091,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2105478003732128121",
         "start_time": 1790823600,
         "end_time": 1790823600
-      },
-      {
-        "id": 6058,
-        "line_type": "CN",
-        "title": "学院交流会3倍 #20 & 特别委托3倍 #21",
-        "image": "https://static.kivo.wiki/images/timeline/GPN4kQ5b4OOOWZMwuzEmqB0n9jmwPLOr.jpg",
-        "body_summary": "【掉落量3倍活动】即将开启！请不要错过哦！ 一、【悬赏通缉、日程】道具掉落量3倍 ■ 活动时间 09月24日 04:00 ~ 10月01日 03:59 二、【学院交流会、特别委托】道具掉落量3倍 ■ ",
-        "type": "Double",
-        "url": "www.weibo.com/6011443154/RjhjL4WO0",
-        "start_time": 1790798400,
-        "end_time": 1791403140
-      },
-      {
-        "id": 6073,
-        "line_type": "JP",
-        "title": "市街地戦・ドラム缶ガニ #2",
-        "image": "https://static.kivo.wiki/images/timeline/IBknUs21Ptq2Prm4Tg8aBFrm8uZTc8QU.jpg",
-        "body_summary": "【総力戦・予告】 2026年9月30日(水)11:00より、総力戦「市街地戦・ドラム缶ガニ」が開幕されます！ 突如として鐘崎港に現れたカニの姿を模した巨大怪獣…！ 各部位毎に異なる防御タイプを持つBO",
-        "type": "Raid",
-        "url": "x.com/Blue_ArchiveJP/status/2103756544655741426",
-        "start_time": 1790737200,
-        "end_time": 1791316800
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140702,
+  "time": 1795225805,
   "version": "v1.0.0-beta.43"
 }

@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 911,
+        "line_type": "Globle",
+        "title": "国际服例行维护 #6",
+        "image": "",
+        "body_summary": "[1/25 Scheduled Maintenance Notice] Sensei, we will be undergoing a scheduled maintenance on 1/25 (T",
+        "type": "Maintenance",
+        "url": "twitter.com/EN_BlueArchive/status/1485447264671723520",
+        "start_time": 1643079600,
+        "end_time": 1643097600
+      },
+      {
+        "id": 909,
+        "line_type": "Globle",
+        "title": "国际服指名手配2倍3 特别依赖2倍3",
+        "image": "https://static.kivo.wiki/images/timeline/V28d5DM55HACz2IkAj5dJAOt6utE8xLa.jpg",
+        "body_summary": "[Double Drop Campaign Preview] From 1/24 (Mon), the amount of rewards dropped in Bounty & Commission",
+        "type": "Double",
+        "url": "twitter.com/EN_BlueArchive/status/1485145273269559300",
+        "start_time": 1643050800,
+        "end_time": 1643655540
+      },
       {
         "id": 302,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1483272941777346560",
         "start_time": 1642503600,
         "end_time": 1642503600
-      },
-      {
-        "id": 906,
-        "line_type": "Globle",
-        "title": "国际服违规账号封禁5",
-        "image": "",
-        "body_summary": "[1/18(Tue) Ban Notice] We have taken disciplinary actions against the players who were abusing the i",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1483337824598642688",
-        "start_time": 1642490220,
-        "end_time": 1642490220
-      },
-      {
-        "id": 251,
-        "line_type": "JP",
-        "title": "一周年网站公开（已失效）",
-        "image": "https://static.kivo.wiki/images/timeline/xo8rHJbIjlWlnQCtLU7V02wcaF1uSImY.jpeg",
-        "body_summary": "【1stアニバーサリー】 先生、『ブルーアーカイブ』1周年特設サイトを公開しました！ 1周年記念に「スペシャルキャンペーン」や「1周年記念生放送」、「1周年特別アンケート」など様々な企画をご用意してま",
-        "type": "WebEvent",
-        "url": "x.com/blue_archivejp/status/1481120532892622848?s=46&t=JCAusYy30IlDEGpeUVCB0g",
-        "start_time": 1641956511,
-        "end_time": 1641956511
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141255,
+  "time": 1795226498,
   "version": "v1.0.0-beta.43"
 }

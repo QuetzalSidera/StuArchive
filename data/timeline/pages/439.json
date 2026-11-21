@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 2665,
+        "line_type": "JP",
+        "title": "咖啡厅2号店追加 & 家具关联学生出现概率上升",
+        "image": "https://static.kivo.wiki/images/timeline/k7iUMOavBn6LAIYj6sNnCwCfV3jCxskt.jpg",
+        "body_summary": "【新情報④】 10/24(火)のメンテナンス後、「カフェ2号店」と家具「デパートシリーズ」が追加されます。 合計46種類の新家具は、「製造」にて獲得することができます！ カフェの仕様改善も行いましたの",
+        "type": "ContentImprovements",
+        "url": "x.com/Blue_ArchiveJP/status/1715341279855628591",
+        "start_time": 1698141657,
+        "end_time": 1698141657
+      },
+      {
+        "id": 2666,
+        "line_type": "JP",
+        "title": "联动纪念登录奖励「コラボ開催記念ログインボーナス」",
+        "image": "https://static.kivo.wiki/images/timeline/Z0QJILvjiXilan77farf22GRtnyIs037.jpg",
+        "body_summary": "【新情報⑥】 10/24(火)メンテナンス後、「コラボ開催記念ログインボーナス」が実施されます！ 期間中に合計600個の青輝石と、家具モーション付限定家具「モモフレンズのグッズ台」を入手できます。 ぜ",
+        "type": "Event",
+        "url": "x.com/Blue_ArchiveJP/status/1715343360431702489",
+        "start_time": 1698141649,
+        "end_time": 1699412389
+      },
       {
         "id": 2667,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1715661703755530592",
         "start_time": 1698112803,
         "end_time": 1698717543
-      },
-      {
-        "id": 1561,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻「Tsk... How bothersome should we play hooky, sensei?」",
-        "image": "https://static.kivo.wiki/images/timeline/AZrwhyqoZh3gDufF8n9Qx1xdCENujkVQ.jpg",
-        "body_summary": "[Rerun Pick-Up Recruitment Preview] A Rerun Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up S",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715657928760537194",
-        "start_time": 1698112803,
-        "end_time": 1698717543
-      },
-      {
-        "id": 1560,
-        "line_type": "Globle",
-        "title": "国际服卡池「Allow me to show you Hyakkiyako's impeccable charm, Sensei.」",
-        "image": "https://static.kivo.wiki/images/timeline/naxF0p48pLAPntSGoWiOoZZ0rxpOKwLZ.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/24 (Tue)! Pick-Up Student: ",
-        "type": "Gacha",
-        "url": "twitter.com/EN_BlueArchive/status/1715654157011440009",
-        "start_time": 1698112803,
-        "end_time": 1698717543
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141122,
+  "time": 1795226324,
   "version": "v1.0.0-beta.43"
 }

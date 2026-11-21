@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 20,
+        "line_type": "JP",
+        "title": "动画PV公开",
+        "image": "",
+        "body_summary": "【アニメPV公開】 先ほど生放送にてご紹介した ブルーアーカイブのアニメPVを公開しました！ 何気ない日常で、ほんの少しの奇跡を見つける物語 アニメーション制作：Yostar Pictures #ブル",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1353690746134511616",
+        "start_time": 1611538863,
+        "end_time": 1635558063
+      },
+      {
+        "id": 18,
+        "line_type": "JP",
+        "title": "日服开始接受预约",
+        "image": "",
+        "body_summary": "【事前登録、受付開始！】 先生、お待たせしました！ ブルーアーカイブの事前登録が遂に開始しました！ そして、事前登録が開始したということは…… うふふ、楽しみですね！先生♪ 事前登録はこちらから！ h",
+        "type": "OutsideGames",
+        "url": "twitter.com/Blue_ArchiveJP/status/1345944420680519680",
+        "start_time": 1609724019,
+        "end_time": 1609724019
+      },
       {
         "id": 17,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/blue_archivejp/status/1291947336583622656?s=46&t=JCAusYy30IlDEGpeUVCB0g",
         "start_time": 1596847481,
         "end_time": 1597020281
-      },
-      {
-        "id": 993,
-        "line_type": "JP",
-        "title": "话题趣闻 - 花凛的回忆大厅CG在各群聊中扩散",
-        "image": "https://static.kivo.wiki/images/timeline/DcUnyYWoh9RBgnmeV9V4UGRmUXR7oB1p.png",
-        "body_summary": "随着日服CBT测试的开始，一部分游戏截图也在网络中流传。而其中传播最广的则是花凛的回忆大厅CG，一时间各QQ群聊都在互相询问“这是什么游戏？”",
-        "type": "Trivia",
-        "url": "",
-        "start_time": 1596715202,
-        "end_time": 1596715202
-      },
-      {
-        "id": 8,
-        "line_type": "JP",
-        "title": "炸服1",
-        "image": "",
-        "body_summary": "【臨時メンテナンス】 現在、ゲームプレイ中に“不明なエラー”と表示され、タイトル画面に戻される不具合を確認しております。 不具合修正のため、只今より臨時メンテナンスを行います。 ご理解、ご協力のほどよ",
-        "type": "Maintenance",
-        "url": "x.com/Blue_ArchiveJP/status/1291282035793772545?s=20",
-        "start_time": 1596700800,
-        "end_time": 1596713520
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141291,
+  "time": 1795226538,
   "version": "v1.0.0-beta.43"
 }

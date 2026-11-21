@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6036,
+        "line_type": "Globle",
+        "title": "国际服总力战 Drumbarka (Urban) #1",
+        "image": "https://static.kivo.wiki/images/timeline/FeSTyZB7ovUxPZQzrudpJ6sFP22re24l.png",
+        "body_summary": "[Total Assault Preview] The Total Assault - Drumbarka (Urban Warfare) will start on 9/22 (Tue)! ➡️Of",
+        "type": "Raid",
+        "url": "x.com/EN_BlueArchive/status/2100121255085257088",
+        "start_time": 1790042400,
+        "end_time": 1790621999
+      },
+      {
+        "id": 6038,
+        "line_type": "Globle",
+        "title": "国际服特别依赖2倍#54",
+        "image": "https://static.kivo.wiki/images/timeline/yA7VZ2kn642Rc5kbBz779uJw7Dn9EyH0.png",
+        "body_summary": "[Double Drop Campaign Preview] Starting 9/21 (Mon), Commissions rewards will be doubled! Don't miss ",
+        "type": "Double",
+        "url": "x.com/EN_BlueArchive/status/2101204649873428769",
+        "start_time": 1790017200,
+        "end_time": 1790621999
+      },
       {
         "id": 6074,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "x.com/Blue_ArchiveJP/status/2100042301200580919",
         "start_time": 1789527600,
         "end_time": 1789527600
-      },
-      {
-        "id": 6016,
-        "line_type": "JP",
-        "title": "活动「Say-Bing!」常驻化",
-        "image": "https://static.kivo.wiki/images/timeline/dXg8lyTWvwrcFxuz1quWKSQqcXk1lIxG.png",
-        "body_summary": "【イベント常設化・予告】 2026年9月16日(水) 11:00より、期間限定イベント「Say-Bing!」が常設化されます！ ウォーターパークに派遣されることになったカンナさん、キリノさん、フブキさ",
-        "type": "Event",
-        "url": "x.com/Blue_ArchiveJP/status/2098970323261829613",
-        "start_time": 1789527600,
-        "end_time": 1789527600
-      },
-      {
-        "id": 6015,
-        "line_type": "JP",
-        "title": "大决战：市街地戦・シロ＆クロ #3",
-        "image": "https://static.kivo.wiki/images/timeline/t80wQzGlC6yzXz83CNT35Co99YNSMCSJ.png",
-        "body_summary": "【大決戦・予告】 2026年9月16日(水)11:00より、大決戦「市街地戦・シロ＆クロ」を開幕します！ 今回難易度「Torment」に挑戦できる防御タイプは「軽装備」と「特殊装甲」になります。 生徒",
-        "type": "BigRaid",
-        "url": "x.com/Blue_ArchiveJP/status/2098608087074799938",
-        "start_time": 1789527600,
-        "end_time": 1790107199
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140708,
+  "time": 1795225812,
   "version": "v1.0.0-beta.43"
 }

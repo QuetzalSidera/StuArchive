@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 6170,
+        "line_type": "JP",
+        "title": "任务hard2倍#59",
+        "image": "https://static.kivo.wiki/images/timeline/a1E1ayZO1hdAsrThW9bov0nmsOkFXFhr.jpg",
+        "body_summary": "【新情報④】 期間限定で「ドロップ量2倍キャンペーン」と「先生レベル経験値2倍キャンペーン」の開催が決定です！ それぞれのキャンペーンスケジュールはこちら！ #ブルアカ #ブルアカらいぶ秋の夜長SP",
+        "type": "Double",
+        "url": "x.com/Blue_ArchiveJP/status/2114314794249736528",
+        "start_time": 1794081600,
+        "end_time": 1794340799
+      },
+      {
+        "id": 6219,
+        "line_type": "CN",
+        "title": "大决战：切赛德 • 野外战",
+        "image": "https://static.kivo.wiki/images/timeline/dPsSZaMbaHvoJoYna1aUDVHxJh4od4DZ.jpg",
+        "body_summary": "神名十文字是一个自称为神圣求道者的人工智能系统。追随它的10名先知目前在基沃托斯各地出没。 切赛德是神名十文字的第4个先知，它已经掌控了千禧年外围的废弃兵工厂的生产系统。 如果切赛德成功生产出无限的兵",
+        "type": "BigRaid",
+        "url": "weibo.com/6011443154/RpNw2tjBl",
+        "start_time": 1794031259,
+        "end_time": 1794412799
+      },
       {
         "id": 6099,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/2116066321075245307",
         "start_time": 1793713689,
         "end_time": 1794318489
-      },
-      {
-        "id": 6210,
-        "line_type": "Globle",
-        "title": "国际服卡池复刻 「Conquer the Sky Capriccioso」&「Honor the Sky Affettuoso」",
-        "image": "https://static.kivo.wiki/images/timeline/4S9v6w4Wc5RB2IvusoBOxOmyGD7oxJx1.jpg",
-        "body_summary": "[Unique Rerun Pick-Up Recruitment Preview] A Unique Rerun Pick-Up Recruitment will begin on 11/3 (Tu",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/2116062554594082873",
-        "start_time": 1793713488,
-        "end_time": 1794318288
-      },
-      {
-        "id": 6232,
-        "line_type": "Globle",
-        "title": "国际服Arcie小编阿罗娜海盗装换装回 #41",
-        "image": "https://static.kivo.wiki/images/timeline/7IuMw139TJukJg4E5JkFf0eSPmfxd6LB.jpg",
-        "body_summary": "It's almost Blue Archive's 5th Anniversary, Sensei! 🎉 To celebrate, Mint Fantôme returns as CM Arcie",
-        "type": "Live",
-        "url": "x.com/EN_BlueArchive/status/2119233447021478324",
-        "start_time": 1793713282,
-        "end_time": 1794318082
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140690,
+  "time": 1795225791,
   "version": "v1.0.0-beta.43"
 }

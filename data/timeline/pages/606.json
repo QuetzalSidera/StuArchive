@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 70,
+        "line_type": "JP",
+        "title": "卡池「祭り囃子はしのぶれど」",
+        "image": "https://static.kivo.wiki/images/timeline/pNVprdkZXpupHjoJN1QtsOs3RfDE33DH.jpg",
+        "body_summary": "【ピックアップ募集】 イベント「桜花爛漫お祭り騒ぎ！」のピックアップ募集、「祭り囃子はしのぶれど」がまもなく開催されます！ 🔷開催期間 2021年2月25日(木) メンテナンス後 ~ 2021年3月1",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1363700046022107143",
+        "start_time": 1614248039,
+        "end_time": 1615442400
+      },
+      {
+        "id": 76,
+        "line_type": "JP",
+        "title": "例行维护 #4",
+        "image": "",
+        "body_summary": "【定期メンテナンスのお知らせ】 下記の日時にメンテナンスを行います。 先生方、ご協力のほどよろしくお願いいたします！ ▼実施日時 2/25(木) 14:00 〜 20:00 ▼詳細 https://b",
+        "type": "Maintenance",
+        "url": "twitter.com/Blue_ArchiveJP/status/1364511266488815617",
+        "start_time": 1614232800,
+        "end_time": 1614268800
+      },
       {
         "id": 75,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1361181014240935936",
         "start_time": 1613383139,
         "end_time": 1613383139
-      },
-      {
-        "id": 52,
-        "line_type": "JP",
-        "title": "総力戦・BETA版：ビナー",
-        "image": "https://static.kivo.wiki/images/timeline/M1KMOKD3WYo6gnisd8uNNpWjlXOcM8Ue.jpg",
-        "body_summary": "【予告】 キヴォトスに出現する謎の脅威の一つ、「ビナー」がアビドスに出没しました！ 先生！被害が広がる前に、ご対応をお願いいたします！ 「総力戦・BETA版」 2月15日開催予定です！ ※「デカグラマ",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1360438557198807041",
-        "start_time": 1613332800,
-        "end_time": 1613332800
-      },
-      {
-        "id": 58,
-        "line_type": "JP",
-        "title": "情人节礼物",
-        "image": "https://static.kivo.wiki/images/timeline/H9aS3zICeFff7TFml1SHKAEDCnoq8gZL.jpg",
-        "body_summary": "【バレンタインプレゼント】 今日はバレンタインデーですね、先生！ そこで生徒さんたちとのデートはいかがでしょう？ 🍫デート手当🍫として 「青輝石×1200」(生徒募集10回分)を先生にプレゼントします",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1360881471372754944",
-        "start_time": 1613296282,
-        "end_time": 1613296282
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141288,
+  "time": 1795226535,
   "version": "v1.0.0-beta.43"
 }

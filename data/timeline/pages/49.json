@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 5846,
+        "line_type": "CN",
+        "title": "限时招募【肌肉第1 努力第2】",
+        "image": "https://static.kivo.wiki/images/timeline/sT7ZgWWMiahVWadFaov1dgENoKLVzCSt.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【肌肉第1 努力第2】即将开启！在本次招募中，全新3★成员\"堇（打工）\"登场，且招募概率得到提升！ ■ 招募时间 07月16日 维护结束后 ~ 07月30日 13",
+        "type": "Gacha",
+        "url": "www.bluearchive-cn.com/news/1851",
+        "start_time": 1784196000,
+        "end_time": 1785391199
+      },
+      {
+        "id": 5845,
+        "line_type": "CN",
+        "title": "限时招募【4棒之梦 一击冲天】",
+        "image": "https://static.kivo.wiki/images/timeline/iAd2gwSh8NZglKyitSEkZZ0yTgbgAVqp.png",
+        "body_summary": "欢迎连接【什亭之箱】，老师。 限时招募【4棒之梦 一击冲天】即将开启！在本次招募中，全新3★成员\"莱依\"登场，且招募概率得到提升！ ■ 招募时间 07月16日 维护结束后 ~ 07月30日 13:59",
+        "type": "Gacha",
+        "url": "www.bluearchive-cn.com/news/1852",
+        "start_time": 1784196000,
+        "end_time": 1785391199
+      },
       {
         "id": 5844,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "www.bilibili.com/opus/1223684288470319108?spm_id_from=333.1387.0.0",
         "start_time": 1784176900,
         "end_time": 1784176900
-      },
-      {
-        "id": 5771,
-        "line_type": "CN",
-        "title": "例行维护 #62",
-        "image": "https://static.kivo.wiki/images/timeline/76QVNJEQf568He4VNBbZ1w6C5GDivg6w.gif",
-        "body_summary": "“欢迎连接【什亭之箱】，老师。” 为保证更好的游戏体验，我们计划于 07月16日 10:00 开始进行维护更新，预计持续8小时，维护开始后将无法登录游戏，在游戏中的玩家会被系统强制要求下线。 本次更新",
-        "type": "Maintenance",
-        "url": "weibo.com/6011443154/R8OoW7XqP",
-        "start_time": 1784167200,
-        "end_time": 1784196000
-      },
-      {
-        "id": 5763,
-        "line_type": "JP",
-        "title": "大决战：屋内戦・ホド #1",
-        "image": "https://static.kivo.wiki/images/timeline/Mm328fYkJixFWHe8lFMJw5LzYOzryRuP.jpg",
-        "body_summary": "【大決戦・予告】 2026年7月15日(水)11:00より、大決戦「屋内戦・ホド」が開幕します！ 今回難易度「Torment」に挑戦できる防御タイプは「重装甲」と「弾力装甲」になります。 「ホド(屋内",
-        "type": "BigRaid",
-        "url": "x.com/Blue_ArchiveJP/status/2075777627210854479?s=20",
-        "start_time": 1784104308,
-        "end_time": 1784709108
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140732,
+  "time": 1795225842,
   "version": "v1.0.0-beta.43"
 }

@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1825,
+        "line_type": "JP",
+        "title": "卡池「無軌道なハットトリック」",
+        "image": "https://static.kivo.wiki/images/timeline/zNVxDQDAVkjw3DcXGM37x6VuVaEODoz8.jpg",
+        "body_summary": "【ピックアップ募集・予告】 ピックアップ募集「無軌道なハットトリック」がまもなく開催されます！ 🔷ピックアップ生徒 アスナ(バニーガール) (CV:#長谷川育美) 🔷詳細 https://bluear",
+        "type": "Gacha",
+        "url": "twitter.com/Blue_ArchiveJP/status/1447411898505261056",
+        "start_time": 1634032801,
+        "end_time": 1635303601
+      },
+      {
+        "id": 188,
+        "line_type": "JP",
+        "title": "屋内戦・シロ＆クロ2",
+        "image": "https://static.kivo.wiki/images/timeline/CvPYRcaSH5CElGfsMsTdoVjVJn72tVc8.jpg",
+        "body_summary": "【総力戦・予告】 10月12日(火)メンテナンス終了後、「屋内戦・シロ＆クロ」が開催されます！ 順位に応じて「シロ＆クロ(屋内戦)のトロフィー」が獲得できるチャンスです！ 先生のご活躍を期待してますの",
+        "type": "Raid",
+        "url": "twitter.com/Blue_ArchiveJP/status/1446672163067490307",
+        "start_time": 1634032800,
+        "end_time": 1634659199
+      },
       {
         "id": 186,
         "line_type": "JP",
@@ -109,33 +131,11 @@
         "url": "bluearchive.jp/news/newsJump/153",
         "start_time": 1632916800,
         "end_time": 1632916800
-      },
-      {
-        "id": 953,
-        "line_type": "JP",
-        "title": "社团剧情「C&C」追加",
-        "image": "",
-        "body_summary": "【ストーリー】 ・C&Cグループのストーリー1話を新規追加 ・C&Cグループのストーリー紹介ビジュアルに新規イラスト追加",
-        "type": "OtherStory",
-        "url": "bluearchive.jp/news/newsJump/153",
-        "start_time": 1632916800,
-        "end_time": 1632916800
-      },
-      {
-        "id": 182,
-        "line_type": "JP",
-        "title": "屋外戦・KAITEN FX Mk.0 2",
-        "image": "https://static.kivo.wiki/images/timeline/KK3AmjqzpK5AY225TBJjymGGlaC5AiFb.jpg",
-        "body_summary": "【総力戦予告】 まもなく総力戦「屋外戦・KAITEN FX Mk.0」が開催です！ カイテンジャーを退け、順位に応じたトロフィー獲得の為に頑張ってください...！ 「屋外戦・KAITEN FX Mk.",
-        "type": "Raid",
-        "url": "twitter.com/Blue_ArchiveJP/status/1442429018846892041",
-        "start_time": 1632916800,
-        "end_time": 1633449599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141270,
+  "time": 1795226515,
   "version": "v1.0.0-beta.43"
 }

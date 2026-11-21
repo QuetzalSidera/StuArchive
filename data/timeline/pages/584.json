@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 354,
+        "line_type": "JP",
+        "title": "市街地戦・KAITEN FX Mk.0 1",
+        "image": "",
+        "body_summary": "【総力戦開催中】 先生！本拠地までの行く手を遮るかのように、カイテンジャーたちの秘密兵器が登場しました！ 合体ロボは確かにロマンですが、これまでの行いを考えると、このまま楽しく見ているというわけには行",
+        "type": "Raid",
+        "url": "x.com/Blue_ArchiveJP/status/1458283609748819968?s=20",
+        "start_time": 1636473872,
+        "end_time": 1636992272
+      },
+      {
+        "id": 981,
+        "line_type": "JP",
+        "title": "特殊作战「デカグラマトン編」 1",
+        "image": "https://static.kivo.wiki/images/timeline/0ME5hZqSt3HI12dTKRpu2ZZ6Nw8TM02d.jpg",
+        "body_summary": "【新情報 ⑮】 不定期開催の新コンテンツ「特殊作戦」が実装決定です！ メインストーリーで語られなかった部分を紐解く「特殊作戦」ですが、今回の「デカグラマトン編」では、エイミさんの所属「特異現象捜査部」",
+        "type": "Event",
+        "url": "twitter.com/Blue_ArchiveJP/status/1450070929422184450",
+        "start_time": 1636444813,
+        "end_time": 1637726413
+      },
       {
         "id": 843,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "",
         "start_time": 1635843654,
         "end_time": 1636327854
-      },
-      {
-        "id": 840,
-        "line_type": "Globle",
-        "title": "国际服开服时间公布",
-        "image": "https://static.kivo.wiki/images/timeline/qWrwKau7gVbevdZYIRx1rd71CS4tGZY2.jpg",
-        "body_summary": "[Blue Archive 11/08/2021 (Mon) Grand Opening!] Announcing the long-awaited official release date of ",
-        "type": "Other",
-        "url": "twitter.com/EN_BlueArchive/status/1455359003265945603",
-        "start_time": 1635819600,
-        "end_time": 1635819600
-      },
-      {
-        "id": 201,
-        "line_type": "JP",
-        "title": "活动「初音ミクのスペシャルライブ in キヴォトス～リハーサル編～」",
-        "image": "https://static.kivo.wiki/images/timeline/WUwtP6dSEcw1y4SlPDSjnnDfoPp7pOos.jpg",
-        "body_summary": "【イベント】 コラボイベント「初音ミクのスペシャルライブ in キヴォトス～リハーサル編～」がいよいよ開催です。 初音ミクさんにピッタリなイベントステージを発表します！ ここでは初音ミクさんが可愛いパ",
-        "type": "Event",
-        "url": "twitter.com/Blue_ArchiveJP/status/1455082720036417541",
-        "start_time": 1635750120,
-        "end_time": 1635912000
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141266,
+  "time": 1795226511,
   "version": "v1.0.0-beta.43"
 }

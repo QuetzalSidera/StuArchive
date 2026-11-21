@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 4580,
+        "line_type": "JP",
+        "title": "限定卡池「あなたの元気が、決意をくれた。」＆「正義の味方の、あなたを追って。」",
+        "image": "https://static.kivo.wiki/images/timeline/IqgJkH0PO4z2pjwwhmitr3snlsdq4dJ6.jpg",
+        "body_summary": "【新情報①】 新イベントの開催に伴い限定ピックアップ募集「あなたの元気が、決意をくれた。」＆「正義の味方の、あなたを追って。」が開催されます！ 🔷開催期間 10/22(水) メンテナンス後 ~ 11/",
+        "type": "Gacha",
+        "url": "x.com/Blue_ArchiveJP/status/1979505642428829703",
+        "start_time": 1761102000,
+        "end_time": 1762311599
+      },
+      {
+        "id": 4851,
+        "line_type": "Globle",
+        "title": "国际服Twitch掉宝活动(BETA)",
+        "image": "https://static.kivo.wiki/images/timeline/RzaaIRLG4KaKsZwgjN9sFi8xnNX6iru4.jpg",
+        "body_summary": "[Blue Archive Twitch Live Streaming Drops Event (BETA)] A live streaming Drops Event (BETA) is now u",
+        "type": "OutsideGames",
+        "url": "x.com/EN_BlueArchive/status/1980862361016889726",
+        "start_time": 1761098400,
+        "end_time": 1762135200
+      },
       {
         "id": 4590,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "x.com/EN_BlueArchive/status/1980530239001489503",
         "start_time": 1761026400,
         "end_time": 1761026400
-      },
-      {
-        "id": 4608,
-        "line_type": "Globle",
-        "title": "国际服卡池「I‘ll continue fighting to protect everyone.」",
-        "image": "https://static.kivo.wiki/images/timeline/q09X0Qr8g5GZMlRpkrgZlrJguD8AbhZz.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/21 (Tue)! 💌Pick-Up Student:",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1979079937131974884?s=09",
-        "start_time": 1761026400,
-        "end_time": 1762221599
-      },
-      {
-        "id": 4607,
-        "line_type": "Globle",
-        "title": "国际服卡池「Now,now!Everyone,gather round and listen!」",
-        "image": "https://static.kivo.wiki/images/timeline/vH1V0iwjbYd8RKJsmvyxcbA5OcASZ9ef.jpg",
-        "body_summary": "[Pick-Up Recruitment Preview] A New Pick-Up Recruitment will begin on 10/21 (Tue)! 💌Pick-Up Student:",
-        "type": "Gacha",
-        "url": "x.com/EN_BlueArchive/status/1979083707916128681?s=09",
-        "start_time": 1761026400,
-        "end_time": 1762221599
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795140838,
+  "time": 1795225980,
   "version": "v1.0.0-beta.43"
 }

@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 592,
+        "line_type": "JP",
+        "title": "关注数突破60万",
+        "image": "https://static.kivo.wiki/images/timeline/6wj9g8VGBX03IKk0GLr3xeeEKYO4IJYm.jpg",
+        "body_summary": "【フォロワー60万人突破】 先生！ 先日の生放送でご案内したフォロワー60万人突破記念プレゼントは、今回のメンテナンス終了後に配布いたします。 ▼プレゼント内容 「10回募集チケット」1枚 ※到着まで",
+        "type": "Other",
+        "url": "twitter.com/Blue_ArchiveJP/status/1628318710510542848",
+        "start_time": 1676718000,
+        "end_time": 1676718000
+      },
+      {
+        "id": 587,
+        "line_type": "JP",
+        "title": "直播「ブルアカらいぶ！2か月連続で生放送やっちゃいます♪SP」",
+        "image": "https://static.kivo.wiki/images/timeline/tSZ94zNoP5VmnZq8rtKcSHOy1sY1Le6I.png",
+        "body_summary": "【生放送】 2月18日(土) 19時～ 「ブルアカらいぶ！2か月連続で生放送やっちゃいます♪SP」配信決定！ ▼出演者 #石上静香 #白砂沙帆 #後藤彩佐 #坂巻学 #市来光弘 ▼視聴ページ http",
+        "type": "Live",
+        "url": "twitter.com/Blue_ArchiveJP/status/1625374281445294084",
+        "start_time": 1676718000,
+        "end_time": 1676726020
+      },
       {
         "id": 1332,
         "line_type": "Globle",
@@ -109,33 +131,11 @@
         "url": "twitter.com/EN_BlueArchive/status/1624332411357245441",
         "start_time": 1676358015,
         "end_time": 1677549555
-      },
-      {
-        "id": 1324,
-        "line_type": "Globle",
-        "title": "国际服活动「Special Mission DECAGRAMMATON」3",
-        "image": "https://static.kivo.wiki/images/timeline/MXZJSToVUB7hBRj1Jw2ZmL9PE1Ljr2r2.jpg",
-        "body_summary": "[Event Update Notice] Under pressure from the Decagrammaton, Eimi and Himari set up a new Super Phen",
-        "type": "Event",
-        "url": "twitter.com/EN_BlueArchive/status/1625386859579817984",
-        "start_time": 1676355655,
-        "end_time": 1677549595
-      },
-      {
-        "id": 1323,
-        "line_type": "Globle",
-        "title": "国际服主线Vol.3 第四章后篇更新",
-        "image": "https://static.kivo.wiki/images/timeline/zJpi5BphagykBpIejWS77l7RwsGnxUxD.jpg",
-        "body_summary": "[Update Preview] On 2/14 (Tue), Main Story Volume 3, Eden Treaty Chapter 4: Kyrie of the Forgotten G",
-        "type": "MainStory",
-        "url": "twitter.com/EN_BlueArchive/status/1623939827560325122",
-        "start_time": 1676355645,
-        "end_time": 1676355645
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141185,
+  "time": 1795226401,
   "version": "v1.0.0-beta.43"
 }

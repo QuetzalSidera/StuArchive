@@ -2,26 +2,48 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 610,
+    "max_page": 611,
     "type_num": {
       "AlliedOperation": 14,
       "BigRaid": 101,
       "ContentImprovements": 444,
       "Double": 1017,
       "Event": 552,
-      "Gacha": 875,
+      "Gacha": 876,
       "Live": 92,
       "MainStory": 136,
       "Maintenance": 467,
       "MiniBattle": 224,
       "Other": 745,
       "OtherStory": 75,
-      "OutsideGames": 930,
+      "OutsideGames": 931,
       "Raid": 263,
       "Trivia": 29,
       "WebEvent": 135
     },
     "timeline": [
+      {
+        "id": 1682,
+        "line_type": "CN",
+        "title": "【“革命之伊万库帕拉”活动奖励兑换所】bug修复",
+        "image": "https://static.kivo.wiki/images/timeline/SjkTNBSNDl9H58C4chA0u6qpxiePnZJ0.jpg",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 此前我们收到部分玩家反馈【“革命之伊万库帕拉”活动奖励兑换所】中，抽取到装备箱时会出现显示的内容与实际获取的内容不符合的问题。在得知该情况后我们已紧急开展修复计划。 ",
+        "type": "Other",
+        "url": "www.bilibili.com/opus/841256116179435523?spm_id_from=333.999.0.0",
+        "start_time": 1694706600,
+        "end_time": 1694706601
+      },
+      {
+        "id": 1681,
+        "line_type": "CN",
+        "title": "在线更新3",
+        "image": "https://static.kivo.wiki/images/timeline/Fens0Jt3L0LwCK4ALokOHlzo8DXAI1t5.webp",
+        "body_summary": "“欢迎连接【什亭之箱】，老师。” 我们已于 09月14日 20:15 进行一次在线更新，重新登录游戏即可获取最新的更新资源。 以下是本次在线更新的详细内容： ■ 更新时间 09月14日 20:15 ■",
+        "type": "Maintenance",
+        "url": "www.bilibili.com/opus/841196592210903056",
+        "start_time": 1694693700,
+        "end_time": 1694693702
+      },
       {
         "id": 1680,
         "line_type": "CN",
@@ -109,33 +131,11 @@
         "url": "twitter.com/Blue_ArchiveJP/status/1701068368617607187",
         "start_time": 1694574000,
         "end_time": 1695153599
-      },
-      {
-        "id": 769,
-        "line_type": "JP",
-        "title": "任务Normal2倍#28",
-        "image": "https://static.kivo.wiki/images/timeline/3xp7DIPfjWzi8QFMZ2dxYIsUxAuzKcsB.jpg",
-        "body_summary": "【キャンペーン予告】 「任務(Normal)」での報酬ドロップ量が2倍になるキャンペーンが、9/13(水)より開催します！ ▼開催期間 9/13(水)4:00 〜 9/17(日)3:59 生徒さんの成",
-        "type": "Double",
-        "url": "twitter.com/Blue_ArchiveJP/status/1701430721058107901",
-        "start_time": 1694548800,
-        "end_time": 1694894399
-      },
-      {
-        "id": 1522,
-        "line_type": "Globle",
-        "title": "国际服联合火力演习13",
-        "image": "https://static.kivo.wiki/images/timeline/FKFk8nVGlbgTYkNLBmw0XrSKxhr2MkkX.jpg",
-        "body_summary": "[Joint Firing Drill Open Notice] The Joint Firing Drill (Shooting Drill) has opened 9/12 (Tue) 2:00 ",
-        "type": "MiniBattle",
-        "url": "twitter.com/EN_BlueArchive/status/1701490830392103166",
-        "start_time": 1694484021,
-        "end_time": 1695063621
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795141134,
+  "time": 1795226339,
   "version": "v1.0.0-beta.43"
 }

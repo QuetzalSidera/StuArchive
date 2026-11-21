@@ -7,15 +7,26 @@
     "api_path": "/timeline/",
     "upstream_url": "https://api.kivo.wiki/api/v1/timeline/"
   },
-  "generated_at": "2026-11-20T00:18:46Z",
+  "generated_at": "2026-11-20T23:41:40Z",
   "list_key": "timeline",
   "id_key": "id",
-  "max_page": 610,
-  "synced_pages": 610,
-  "total_items": 6099,
+  "max_page": 611,
+  "synced_pages": 611,
+  "total_items": 6101,
   "details_synced": 0,
   "details_enabled": false,
   "items": [
+    {
+      "id": 6270,
+      "line_type": "JP",
+      "title": "C109悠星参展",
+      "image": "https://static.kivo.wiki/images/timeline/vAZ9KcMLZqhCpGWzOWsS7HpNMrIWbNad.jpg",
+      "body_summary": "【コミケ】 コミックマーケット109の『Yostar』ブースにて 新規描き下ろしイラストを使用したグッズ販売が決定です！ 先生、ぜひチェックしてくださいね！ ▼会場 東京ビッグサイト 西3ホール No",
+      "type": "OutsideGames",
+      "url": "x.com/Blue_ArchiveJP/status/2123621928674242854",
+      "start_time": 1798511400,
+      "end_time": 1798704000
+    },
     {
       "id": 6227,
       "line_type": "CN",
@@ -92,6 +103,17 @@
       "url": "weibo.com/6011443154/RpOH6ExSX",
       "start_time": 1795032000,
       "end_time": 1795377599
+    },
+    {
+      "id": 6269,
+      "line_type": "JP",
+      "title": "卡池「黒君は遠き慮り有りて」＆「行は是れ武のカンフー！」＆「願いよ響け、夏空に」复刻",
+      "image": "https://static.kivo.wiki/images/timeline/mrMCwEXfvfQtvnLY4idMbjyJ3Zi6YwnK.jpg",
+      "body_summary": "【ピックアップ募集・予告】 2026年11月18日(水) 11:00より、復刻ピックアップ募集「黒君は遠き慮り有りて」＆「行は是れ武のカンフー！」＆「願いよ響け、夏空に」を開催します！ 詳細については",
+      "type": "Gacha",
+      "url": "x.com/Blue_ArchiveJP/status/2122525786779558248",
+      "start_time": 1794970800,
+      "end_time": 1795575599
     },
     {
       "id": 6268,
@@ -71375,15 +71397,22 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=610",
       "path": "timeline/pages/610.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/610.json",
-      "item_count": 9
+      "item_count": 10
+    },
+    {
+      "page": 611,
+      "upstream_url": "https://api.kivo.wiki/api/v1/timeline/?page=611",
+      "path": "timeline/pages/611.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/pages/611.json",
+      "item_count": 1
     }
   ],
   "details": [],
   "lookup": {
     "path": "timeline/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-    "alias_count": 6087,
-    "normalized_alias_count": 6079,
-    "total_items": 6099
+    "alias_count": 6089,
+    "normalized_alias_count": 6081,
+    "total_items": 6101
   }
 }
