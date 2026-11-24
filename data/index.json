@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "StuArchive",
   "description": "A static JSON mirror of public Blue Archive data exposed by Kivo Wiki.",
-  "generated_at": "2026-11-22T23:15:28Z",
+  "generated_at": "2026-11-24T03:49:31Z",
   "generator": "scripts/sync.py",
   "source": {
     "site": "https://kivo.wiki/",
@@ -26,7 +26,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/",
       "path": "meta/api-root.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/api-root.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "statistics",
@@ -35,7 +35,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/statistics/index",
       "path": "meta/statistics.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/meta/statistics.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-event",
@@ -44,7 +44,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/event.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/event.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-event-jp",
@@ -53,7 +53,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=jp",
       "path": "current/events/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/jp.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-event-cn",
@@ -62,7 +62,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/event/now?server=cn",
       "path": "current/events/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/events/cn.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-raid",
@@ -71,7 +71,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raid.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raid.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-raid-jp",
@@ -80,7 +80,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=jp",
       "path": "current/raids/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/jp.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-raid-cn",
@@ -89,7 +89,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/raid/now?server=cn",
       "path": "current/raids/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/raids/cn.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-pick-up",
@@ -98,7 +98,10 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-up.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-up.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-22T23:15:28Z",
+      "stale": true,
+      "sync_error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"获取卡池信息失败\",\"success\":false,\"time\":1795492188,\"version\":\"v1.0.0-beta.43\"}",
+      "sync_attempted_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-pick-up-jp",
@@ -107,7 +110,10 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=jp",
       "path": "current/pick-ups/jp.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/jp.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-22T23:15:28Z",
+      "stale": true,
+      "sync_error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"获取卡池信息失败\",\"success\":false,\"time\":1795492196,\"version\":\"v1.0.0-beta.43\"}",
+      "sync_attempted_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "current-pick-up-cn",
@@ -116,7 +122,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/pick_up/?server=cn",
       "path": "current/pick-ups/cn.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/pick-ups/cn.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "lucky-item",
@@ -125,7 +131,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/lucky_item/",
       "path": "current/lucky-item.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/lucky-item.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "students-birthday-week",
@@ -134,7 +140,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/birthday/week",
       "path": "current/students-birthday-week.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/current/students-birthday-week.json",
-      "fetched_at": "2026-11-22T23:15:28Z"
+      "fetched_at": "2026-11-24T03:49:31Z"
     },
     {
       "name": "students",
@@ -363,15 +369,15 @@
       "path": "timeline/index.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/index.json",
       "list_key": "timeline",
-      "max_page": 612,
-      "synced_pages": 612,
-      "total_items": 6118,
+      "max_page": 614,
+      "synced_pages": 614,
+      "total_items": 6133,
       "details_synced": 0,
       "details_available": true,
       "lookup_path": "timeline/lookup.json",
       "lookup_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/timeline/lookup.json",
-      "lookup_alias_count": 6105,
-      "lookup_normalized_alias_count": 6097
+      "lookup_alias_count": 6121,
+      "lookup_normalized_alias_count": 6112
     },
     {
       "name": "walkthroughs",
@@ -429,5 +435,18 @@
     }
   ],
   "request_count": 7812,
-  "sync_errors": []
+  "sync_errors": [
+    {
+      "name": "current-pick-up",
+      "path": "/data/pick_up/?server=jp",
+      "error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"获取卡池信息失败\",\"success\":false,\"time\":1795492188,\"version\":\"v1.0.0-beta.43\"}",
+      "kept_stale": true
+    },
+    {
+      "name": "current-pick-up-jp",
+      "path": "/data/pick_up/?server=jp",
+      "error": "HTTP 502 for https://api.kivo.wiki/api/v1/data/pick_up/?server=jp: {\"code\":5020,\"codename\":\"Koyuki\",\"message\":\"获取卡池信息失败\",\"success\":false,\"time\":1795492196,\"version\":\"v1.0.0-beta.43\"}",
+      "kept_stale": true
+    }
+  ]
 }
