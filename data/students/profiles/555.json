@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0.0",
   "profile_type": "student",
-  "generated_at": "2026-11-24T03:49:31Z",
+  "generated_at": "2026-11-25T01:55:21Z",
   "id": 555,
-  "display_name": "云类鹫 爱美",
+  "display_name": "云类鹫 学美",
   "names": {
     "default": "云类鹫 爱美",
-    "cn": null,
+    "cn": "云类鹫 学美",
     "jp": "雲類鷲 マナミ",
     "en": "Uruwashi Manami",
     "kr": "우루와시 마나미",
     "zh_tw": "雲類鷲 真奈美",
     "family_name": "云类鹫",
     "given_name": "爱美",
-    "family_name_cn": "",
-    "given_name_cn": "",
+    "family_name_cn": "云类鹫",
+    "given_name_cn": "学美",
     "family_name_jp": "雲類鷲",
     "given_name_jp": "マナミ",
     "family_name_en": "Uruwashi",
@@ -52,10 +52,10 @@
     "hobby": "",
     "designer": "",
     "illustrator": "",
-    "character_voice": "",
+    "character_voice": "内田真礼",
     "character_voice_cn": "",
     "nick_name": "",
-    "body_shape": ""
+    "body_shape": "Large"
   },
   "affiliation": {
     "school": {
@@ -99,8 +99,8 @@
   },
   "implementation": {
     "jp": {
-      "installed": false,
-      "release_date": null
+      "installed": true,
+      "release_date": "2026-11-25"
     },
     "global": {
       "installed": false,
@@ -112,7 +112,7 @@
     },
     "is_npc": false,
     "show_list": true,
-    "special_appearance": false
+    "special_appearance": true
   },
   "assets": {
     "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/avatar.png",
@@ -162,8 +162,74 @@
       }
     ],
     "skills": {
-      "ex_skill": [],
-      "passive_skill": []
+      "ex_skill": [
+        {
+          "icon": "",
+          "title": "感官的艺术",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": false,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": ""
+            }
+          ]
+        }
+      ],
+      "passive_skill": [
+        {
+          "icon": "",
+          "title": "黑天鹅的振翅",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": ""
+            }
+          ]
+        },
+        {
+          "icon": "",
+          "title": "评议会长的审美眼",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": ""
+            }
+          ]
+        },
+        {
+          "icon": "",
+          "title": "高贵的黑天鹅",
+          "title_cn": "",
+          "preview": "",
+          "max_level": 1,
+          "link_student_id": 0,
+          "is_passive_skill": true,
+          "derived_skills": [],
+          "info": [
+            {
+              "cost": 1,
+              "describe": ""
+            }
+          ]
+        }
+      ]
     },
     "weapon": {
       "icon": "",
@@ -193,8 +259,8 @@
   "source": {
     "detail_path": "students/555.json",
     "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/555.json",
-    "upstream_time": 1795492672,
-    "updated_at": 1783490516,
+    "upstream_time": 1795572286,
+    "updated_at": 1795515335,
     "created_at": 1755849201
   }
 }

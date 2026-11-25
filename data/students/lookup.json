@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-11-24T03:49:31Z",
+  "generated_at": "2026-11-25T01:55:21Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 514,
-  "alias_count": 5807,
-  "normalized_alias_count": 3987,
+  "alias_count": 5810,
+  "normalized_alias_count": 3989,
   "by_id": {
     "76": {
       "id": 76,
@@ -7902,8 +7902,8 @@
         "given_name": "爱美",
         "family_name_jp": "雲類鷲",
         "given_name_jp": "マナミ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "云类鹫",
+        "given_name_cn": "学美",
         "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/avatar.png",
         "school": 14,
         "main_relation": 142
@@ -29486,6 +29486,15 @@
     "爱美": [
       "555"
     ],
+    "云类鹫学美": [
+      "555"
+    ],
+    "云类鹫 学美": [
+      "555"
+    ],
+    "学美": [
+      "555"
+    ],
     "雲類鷲マナミ": [
       "555"
     ],
@@ -42388,6 +42397,12 @@
       "555"
     ],
     "爱美": [
+      "555"
+    ],
+    "云类鹫学美": [
+      "555"
+    ],
+    "学美": [
       "555"
     ],
     "雲類鷲マナミ": [

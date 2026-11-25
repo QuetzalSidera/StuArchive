@@ -25,8 +25,8 @@
     "given_name_en": "Manami",
     "family_name_zh_tw": "雲類鷲",
     "given_name_zh_tw": "真奈美",
-    "family_name_cn": "",
-    "given_name_cn": "",
+    "family_name_cn": "云类鹫",
+    "given_name_cn": "学美",
     "nick_name": "",
     "introduction": "狂猎艺术学院艺术评议会的会长，首次登场于活动「我らオカルト研究会！～学院の不思議と古の呪文～」。除姓名与职务外暂无更多已知信息。",
     "introduction_cn": "",
@@ -43,22 +43,22 @@
     "hobby": "",
     "designer": "",
     "illustrator": "",
-    "character_voice": "",
+    "character_voice": "内田真礼",
     "character_voice_cn": "",
-    "release_date": null,
+    "release_date": "2026-11-25",
     "release_date_cn": null,
     "release_date_global": null,
     "sd_model_image": "",
     "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/avatar.png",
     "school": 14,
     "weapon_type": "",
-    "is_install": false,
+    "is_install": true,
     "is_install_cn": false,
     "is_install_global": false,
     "is_npc": false,
     "show_list": true,
-    "body_shape": "",
-    "special_appearance": false,
+    "body_shape": "Large",
+    "special_appearance": true,
     "more": "# 延伸阅读\n## 角色称呼方式\n<details>\n<summary><b><font size=\"4\">学生对自己及他人的称呼</font></summary></b>\n\n| <font size=\"4\">称呼对象</font> | <font size=\"4\">日文称呼</font> |\n| :---: | :---: |\n|自己|私|\n|神秘学研究会|404号室のみなさん<br>みなさん<br>この方々|\n|[狂猎艺术学院](https://kivo.wiki/data/organize/14)|学院|\n\n\n\n!!! attention 引用声明\n<b>上表来自日站wiki[キャラ呼称表]([https://bluearchive.wikiru.jp](https://bluearchive.wikiru.jp/?キャラ呼称表))</b>\n!!!\n</details>\n<br>",
     "recollection_lobby_image": "",
     "spine": [],
@@ -91,8 +91,74 @@
         "cultivate_material": [],
         "favorite_equipment": 0,
         "skill": {
-          "ex_skill": [],
-          "passive_skill": []
+          "ex_skill": [
+            {
+              "icon": "",
+              "title": "感官的艺术",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 1,
+              "link_student_id": 0,
+              "is_passive_skill": false,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 1,
+                  "describe": ""
+                }
+              ]
+            }
+          ],
+          "passive_skill": [
+            {
+              "icon": "",
+              "title": "黑天鹅的振翅",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 1,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 1,
+                  "describe": ""
+                }
+              ]
+            },
+            {
+              "icon": "",
+              "title": "评议会长的审美眼",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 1,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 1,
+                  "describe": ""
+                }
+              ]
+            },
+            {
+              "icon": "",
+              "title": "高贵的黑天鹅",
+              "title_cn": "",
+              "preview": "",
+              "max_level": 1,
+              "link_student_id": 0,
+              "is_passive_skill": true,
+              "derived_skills": [],
+              "info": [
+                {
+                  "cost": 1,
+                  "describe": ""
+                }
+              ]
+            }
+          ]
         },
         "basic": [
           {
@@ -132,10 +198,10 @@
     "supplementary_uuid": "146c72a4-ff50-4776-a219-84423c1dcdab",
     "supplementary_declare_uuid": "63c8fd18-2f08-44f8-b7f7-7e57925c2621",
     "created_at": 1755849201,
-    "updated_at": 1783490516
+    "updated_at": 1795515335
   },
   "message": "OK",
   "success": true,
-  "time": 1795492672,
+  "time": 1795572286,
   "version": "v1.0.0-beta.43"
 }
