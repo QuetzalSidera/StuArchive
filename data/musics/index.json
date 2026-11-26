@@ -7,13 +7,13 @@
     "api_path": "/musics/",
     "upstream_url": "https://api.kivo.wiki/api/v1/musics/"
   },
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "list_key": "music",
   "id_key": "id",
   "max_page": 104,
   "synced_pages": 104,
-  "total_items": 1036,
-  "details_synced": 1036,
+  "total_items": 1037,
+  "details_synced": 1037,
   "details_enabled": true,
   "items": [
     {
@@ -9339,6 +9339,15 @@
       "album": "Unending Moderato",
       "use": "专辑曲目",
       "original_file_name": ""
+    },
+    {
+      "id": 1056,
+      "title": "Theme_380",
+      "cover": "",
+      "author": "",
+      "album": "游戏内曲目",
+      "use": "",
+      "original_file_name": "Theme_380"
     }
   ],
   "pages": [
@@ -10068,7 +10077,7 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/?page=104",
       "path": "musics/pages/104.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/pages/104.json",
-      "item_count": 6
+      "item_count": 7
     }
   ],
   "details": [
@@ -16287,13 +16296,19 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/musics/1055",
       "path": "musics/1055.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1055.json"
+    },
+    {
+      "id": 1056,
+      "upstream_url": "https://api.kivo.wiki/api/v1/musics/1056",
+      "path": "musics/1056.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/1056.json"
     }
   ],
   "lookup": {
     "path": "musics/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/musics/lookup.json",
-    "alias_count": 1362,
-    "normalized_alias_count": 1362,
-    "total_items": 1036
+    "alias_count": 1363,
+    "normalized_alias_count": 1363,
+    "total_items": 1037
   }
 }

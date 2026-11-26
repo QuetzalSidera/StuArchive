@@ -7,13 +7,13 @@
     "api_path": "/data/items/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/items/"
   },
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "list_key": "item",
   "id_key": "id",
-  "max_page": 203,
-  "synced_pages": 203,
-  "total_items": 2030,
-  "details_synced": 2030,
+  "max_page": 204,
+  "synced_pages": 204,
+  "total_items": 2038,
+  "details_synced": 2038,
   "details_enabled": true,
   "items": [
     {
@@ -31,6 +31,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/a6yvW0TVw0sD0zfqWAYnPRXzqFnpZShQ.png",
       "rarity": 3,
       "description": "由黄金羊毛制成的大量线的束。用于制造和强化"
+    },
+    {
+      "id": 2107,
+      "name": " 狂猎的印章",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/SUiEhXL0lLOJDmzi4smmuVK4gXNHNBIi.png",
+      "rarity": 1,
+      "description": "艺术评议会发行的印章。上面刻有狂猎的纹章。"
     },
     {
       "id": 22,
@@ -401,6 +409,14 @@
       "description": "艾利占卜未来用的塔罗牌，好评如潮。"
     },
     {
+      "id": 2108,
+      "name": "爱美的特别兑换券",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/mel0C9evJNzta78US4tHFdmoqtlPZXK8.png",
+      "rarity": 1,
+      "description": "爱美指定的特别兑换券。据她本人所说，这里面也充满了回忆。"
+    },
+    {
       "id": 427,
       "name": "安迪基西拉装置碎片",
       "type": "default",
@@ -423,6 +439,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/KBLQENMvjQjQ1VWsCbUhT83msJLIZq7G.png",
       "rarity": 1,
       "description": "紧急情况下使用的口哨。用力吹响会发出尖锐的声音。"
+    },
+    {
+      "id": 2109,
+      "name": "昂贵的玫瑰",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/akcAD6gervomE2bnmHfbH8uU8BRXMJ4c.png",
+      "rarity": 1,
+      "description": "丽喜欢的玫瑰花。上面有刺，要小心一些。"
     },
     {
       "id": 2097,
@@ -2743,6 +2767,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/oarkRWDw7hrktTJy1B5ZydTqgm99AKkg.png",
       "rarity": 3,
       "description": "咖啡厅升级所需的核心材料"
+    },
+    {
+      "id": 2110,
+      "name": "卡农的手账",
+      "type": "default",
+      "icon": "https://static.kivo.wiki/images/item/icon/tE8f9tF48zXwLfcsgh5yKVialA2pCInm.png",
+      "rarity": 1,
+      "description": "卡农写满了各种记录的手账。连鸡毛蒜皮的小事都记在上面。"
     },
     {
       "id": 1323,
@@ -7393,6 +7425,30 @@
       "description": "光是看着就能够让心情平静的最高级枫树盆栽。如同随着季节换衣服一样，不断变化的树叶才是那样幽静的韵味。"
     },
     {
+      "id": 2112,
+      "name": " 评议会长专用椅子",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/pbsaErpf1JoT3VZG5KMyLgVmbJSMgkkI.png",
+      "rarity": 4,
+      "description": "艺术评议会会长专用的高级椅子。不知为何上面还一起放着“老大哥”的玩偶。"
+    },
+    {
+      "id": 2114,
+      "name": " 图书委员会的被褥套装",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/zsfM7kGQMm1apq6rC7JDDjjhbI7sZk1i.png",
+      "rarity": 4,
+      "description": "为图书委员会值日生准备的松软寝具。为了健康着想，经常拿去晒晒太阳、拍拍灰尘是很重要的。"
+    },
+    {
+      "id": 2113,
+      "name": " 原木花架",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/vcS9HPaQYb05UBLB9Z5X65aG3SRtDF7E.png",
+      "rarity": 4,
+      "description": "非常适合打理花草的原木花架。插好花后摆出来装饰一番也不错。"
+    },
+    {
       "id": 1146,
       "name": "-ive aLIVE!纪念播放器",
       "type": "furniture",
@@ -9239,6 +9295,14 @@
       "icon": "https://static.kivo.wiki/images/item/icon/GApjM9uT6ny1yFF717LPNyRNYGRTv84E.png",
       "rarity": 3,
       "description": "可用于多种用途的箱子。注意不要丢失个人物品。"
+    },
+    {
+      "id": 2111,
+      "name": "多合一街机",
+      "type": "furniture",
+      "icon": "https://static.kivo.wiki/images/item/icon/xFBE9XNWa1ISzvIrNTc9Vnebb97Jgbnn.png",
+      "rarity": 4,
+      "description": "能畅玩各种游戏的街机。可以放在咖啡厅里以供游玩。"
     },
     {
       "id": 2103,
@@ -17678,6 +17742,13 @@
       "path": "items/pages/203.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/203.json",
       "item_count": 10
+    },
+    {
+      "page": 204,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/?page=204",
+      "path": "items/pages/204.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/pages/204.json",
+      "item_count": 8
     }
   ],
   "details": [
@@ -17692,6 +17763,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1030",
       "path": "items/1030.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1030.json"
+    },
+    {
+      "id": 2107,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2107",
+      "path": "items/2107.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2107.json"
     },
     {
       "id": 22,
@@ -17970,6 +18047,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1741.json"
     },
     {
+      "id": 2108,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2108",
+      "path": "items/2108.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2108.json"
+    },
+    {
       "id": 427,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/427",
       "path": "items/427.json",
@@ -17986,6 +18069,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1369",
       "path": "items/1369.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1369.json"
+    },
+    {
+      "id": 2109,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2109",
+      "path": "items/2109.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2109.json"
     },
     {
       "id": 2097,
@@ -19726,6 +19815,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/393",
       "path": "items/393.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/393.json"
+    },
+    {
+      "id": 2110,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2110",
+      "path": "items/2110.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2110.json"
     },
     {
       "id": 1323,
@@ -23214,6 +23309,24 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/142.json"
     },
     {
+      "id": 2112,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2112",
+      "path": "items/2112.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2112.json"
+    },
+    {
+      "id": 2114,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2114",
+      "path": "items/2114.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2114.json"
+    },
+    {
+      "id": 2113,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2113",
+      "path": "items/2113.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2113.json"
+    },
+    {
       "id": 1146,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1146",
       "path": "items/1146.json",
@@ -24598,6 +24711,12 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/items/1863",
       "path": "items/1863.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/1863.json"
+    },
+    {
+      "id": 2111,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/items/2111",
+      "path": "items/2111.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/2111.json"
     },
     {
       "id": 2103,
@@ -29865,8 +29984,8 @@
   "lookup": {
     "path": "items/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/items/lookup.json",
-    "alias_count": 1998,
-    "normalized_alias_count": 1998,
-    "total_items": 2030
+    "alias_count": 2006,
+    "normalized_alias_count": 2006,
+    "total_items": 2038
   }
 }

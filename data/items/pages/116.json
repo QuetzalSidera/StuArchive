@@ -2,8 +2,64 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 949,
+        "name": "点缀照明柱",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/CCL1Q8U9TsLOWOFhIhJLHyA7ZnjmpOz7.png",
+        "rarity": 2,
+        "description": "用照明做点缀的柱子。用橘色照明为空间增添亮点。"
+      },
+      {
+        "id": 2095,
+        "name": "电脑工作台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/tCVZw7mout2mdHVjHu3fpf2p7u0LgfbC.png",
+        "rarity": 4,
+        "description": "我行我素 的工程师的工作台。<br> 看来似乎很喜欢电脑。"
+      },
+      {
+        "id": 1657,
+        "name": "电视录像一体机",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/sZJsMytKYXmfDTsshv7K9ilhE8sGbo8g.png",
+        "rarity": 4,
+        "description": "适合拿来看经典老电影的复古电视。虽然不兼容现行标准，但放录像带可是正好。"
+      },
+      {
+        "id": 1799,
+        "name": "雕刻的作业台",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/61RU6fJZuPP3S22GekIaOeGrJpySqaMh.png",
+        "rarity": 4,
+        "description": "放着雕刻品的作业台。虽然外表看起来粗糙，但用来创作精致的艺术品没有问题。"
+      },
+      {
+        "id": 722,
+        "name": "度假胜地苍穹沙发",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/vl6lKFspM9elKKg7sirObq7rO00OLAa3.png",
+        "rarity": 4,
+        "description": "用白色天棚装饰的舒适沙发。望着随风摇曳的天棚享受着安逸的休息时间。"
+      },
+      {
+        "id": 969,
+        "name": "度假胜地热带花盆",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/yarI7V2zcWajnM4oZZOvssZIIVf62VCJ.png",
+        "rarity": 2,
+        "description": "种植着热带植物的花盆。能轻松的营造度假胜地的氛围。"
+      },
+      {
+        "id": 2037,
+        "name": "多宝格",
+        "type": "furniture",
+        "icon": "https://static.kivo.wiki/images/item/icon/MBQnSJL5kBNIhxtFsOpIkjmsV4Ajc86B.png",
+        "rarity": 4,
+        "description": "陈列各种贵重物品和收藏品的多用途柜。安全性稍微有些令人担心。"
+      },
       {
         "id": 1691,
         "name": "多边形盆栽",
@@ -27,67 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/GApjM9uT6ny1yFF717LPNyRNYGRTv84E.png",
         "rarity": 3,
         "description": "可用于多种用途的箱子。注意不要丢失个人物品。"
-      },
-      {
-        "id": 2103,
-        "name": "噩梦急行（室内战/街道战）白金奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/JwnMnNQQlZ79GPvRPHWOIi7ZXawl4cOB.png",
-        "rarity": 4,
-        "description": "噩梦急行（室内战/街道战）的荣誉白金奖杯"
-      },
-      {
-        "id": 2104,
-        "name": "噩梦急行（室内战/街道战）黄金奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/9QCuav38hqOho2czfr5loDsp7jP8HpZu.png",
-        "rarity": 3,
-        "description": "噩梦急行（室内战/街道战）的荣誉黄金奖杯"
-      },
-      {
-        "id": 2106,
-        "name": "噩梦急行（室内战/街道战）铜奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/ZKhhMtPXA5XeDzLWscR7p6UpiIFmqnlP.png",
-        "rarity": 1,
-        "description": "噩梦急行（室内战/街道战）的荣誉铜奖杯"
-      },
-      {
-        "id": 2105,
-        "name": "噩梦急行（室内战/街道战）银奖杯",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/Ms11eQPL5GcvbHWqkB41UM8pVr8gdJGZ.png",
-        "rarity": 2,
-        "description": "噩梦急行（室内战/街道战）的荣誉银奖杯"
-      },
-      {
-        "id": 1721,
-        "name": "凡尔赛图案瓷砖",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/MFozBxICRcfmcToiH8784DpYJGvIKgId.png",
-        "rarity": 3,
-        "description": "形状复杂的瓷砖。大小不一的部件拼凑在一起，呈现出美丽的几何图形。"
-      },
-      {
-        "id": 1816,
-        "name": "贩卖用的桌子",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/Qpaqu1s0ChVD32KQeP0SWrabXcrcSjJf.png",
-        "rarity": 4,
-        "description": "用于对各种各样的“书”进行贩卖和交换......一眼看上去平平无奇，实际上并非如此。如果看到cosplay装扮的摊主，还请保持礼仪友好交流。"
-      },
-      {
-        "id": 912,
-        "name": "方格磁砖地板",
-        "type": "furniture",
-        "icon": "https://static.kivo.wiki/images/item/icon/oNwQRBO3JJz2C2ONZb68jKesd46mvKro.png",
-        "rarity": 3,
-        "description": "配色方格磁砖地板。为整体空间增添时尚感。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572635,
+  "time": 1795657685,
   "version": "v1.0.0-beta.43"
 }

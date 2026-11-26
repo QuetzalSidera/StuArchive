@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 543,
+        "name": "狗牌设计图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8bdFBhJWNehsKUiAEnrfpjflOhUqLg8Y.png",
+        "rarity": 1,
+        "description": "可用于制作装备的设计图。"
+      },
+      {
+        "id": 1391,
+        "name": "购物中心系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/BPFtiY2SFF31HsYuSGEtme1NjUXom3mj.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个购物中心系列家具的抽选箱。"
+      },
+      {
+        "id": 1409,
+        "name": "购物中心系列家具选择箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/3HRzYaSSIAmlnkTbtqcukgNT1H2A2YRT.png",
+        "rarity": 4,
+        "description": "从购物中心系列家具中任意选择一个家具兑换的选择箱。"
+      },
       {
         "id": 448,
         "name": "古代电池碎片",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/0rkSlJjIiGDptBEqoI45CoY7ZQNyuEyW.png",
         "rarity": 1,
         "description": "修理用的管道扳手。据说大部分机械用这个敲一敲就能修好……大概……吧？"
-      },
-      {
-        "id": 119,
-        "name": "罐装热可可",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/KpDRqszH2OX5xixYLxXEoop0eu5LkCAY.png",
-        "rarity": 1,
-        "description": "主要于自动贩卖机贩售的罐装巧克力饮料。透过罐子传来的温热手感仿佛可以融化全身。"
-      },
-      {
-        "id": 457,
-        "name": "果冻娱乐室系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/FClGmWr13lImlm494LktMLkmTqX980NO.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个果冻娱乐室系列家具的抽选箱。"
-      },
-      {
-        "id": 1397,
-        "name": "果冻娱乐室系列家具选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/EQhXdzjMhDgBdtGtsSnt32RwAJmCY4wU.png",
-        "rarity": 4,
-        "description": "从果冻娱乐室系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572538,
+  "time": 1795657604,
   "version": "v1.0.0-beta.43"
 }

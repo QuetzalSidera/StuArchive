@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "models",
   "description": "3D model metadata.",
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "id_key": "id",
   "source_index": {
     "path": "models/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 549,
-  "alias_count": 549,
-  "normalized_alias_count": 549,
+  "total_items": 552,
+  "alias_count": 552,
+  "normalized_alias_count": 552,
   "by_id": {
     "1": {
       "id": 1,
@@ -6600,6 +6600,42 @@
       },
       "detail_path": "models/566.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/566.json"
+    },
+    "567": {
+      "id": 567,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 567,
+        "name": "CH0338_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/567.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/567.json"
+    },
+    "568": {
+      "id": 568,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 568,
+        "name": "CH0339_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/568.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/568.json"
+    },
+    "569": {
+      "id": 569,
+      "source_path": "models/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/index.json",
+      "item": {
+        "id": 569,
+        "name": "CH0340_Halo",
+        "type": "halo"
+      },
+      "detail_path": "models/569.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/569.json"
     }
   },
   "by_alias": {
@@ -8249,6 +8285,15 @@
     ],
     "Haunted_King_Body": [
       "566"
+    ],
+    "CH0338_Halo": [
+      "567"
+    ],
+    "CH0339_Halo": [
+      "568"
+    ],
+    "CH0340_Halo": [
+      "569"
     ]
   },
   "by_normalized_alias": {
@@ -9898,6 +9943,15 @@
     ],
     "haunted_king_body": [
       "566"
+    ],
+    "ch0338_halo": [
+      "567"
+    ],
+    "ch0339_halo": [
+      "568"
+    ],
+    "ch0340_halo": [
+      "569"
     ]
   }
 }

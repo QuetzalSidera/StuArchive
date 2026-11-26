@@ -2,8 +2,24 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 427,
+        "name": "安迪基西拉装置碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/lQiUXSbl3DvnhzuMmauGQWFBaMZW0Tbm.png",
+        "rarity": 1,
+        "description": "安迪基西拉装置的破碎零件。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 194,
+        "name": "安眠巧克力及安眠用品套装",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/MsIPtFM1KcYBz1knsEgg2imrs1EhWnde.png",
+        "rarity": 1,
+        "description": "椿为了因为老是加班而过劳的老师所特别准备的情人节用睡眠套装。合计3980日元。"
+      },
       {
         "id": 1369,
         "name": "安全哨",
@@ -11,6 +27,14 @@
         "icon": "https://static.kivo.wiki/images/item/icon/KBLQENMvjQjQ1VWsCbUhT83msJLIZq7G.png",
         "rarity": 1,
         "description": "紧急情况下使用的口哨。用力吹响会发出尖锐的声音。"
+      },
+      {
+        "id": 2109,
+        "name": "昂贵的玫瑰",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/akcAD6gervomE2bnmHfbH8uU8BRXMJ4c.png",
+        "rarity": 1,
+        "description": "丽喜欢的玫瑰花。上面有刺，要小心一些。"
       },
       {
         "id": 2097,
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/GCIbyR0drPl14GUWaeXU1G5YEpQISO5S.png",
         "rarity": 1,
         "description": "百鬼夜行自治区到处都有卖的惠比寿产的巧克力饼干。外面装饰着薄薄的一层白巧克力。唯一的问题是很容易把手弄脏。"
-      },
-      {
-        "id": 523,
-        "name": "白翼发卡设计图",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/lOf5adV8Ot2GLNRfuSkTrazgxFpXqmfI.png",
-        "rarity": 1,
-        "description": "可用于制作装备的设计图。"
-      },
-      {
-        "id": 1361,
-        "name": "百鬼夜行纪念卡",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/Ot3koiJv7YV99q7eW82SgnjiupcMR48W.png",
-        "rarity": 1,
-        "description": "景区常见的纪念卡。多多收集后能用来玩某种游戏。"
-      },
-      {
-        "id": 2042,
-        "name": "百鬼夜行系列家具抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/fl0jQ95NweEtvRvtrL3IujS2wDdThHrh.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个百鬼夜行百花缭乱系列家具的抽选箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572517,
+  "time": 1795657588,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 420,
+        "name": "毁损的罗洪特抄本",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/8ukHDLWvQWyiNwoUuHaL9vDbq8psFQK0.png",
+        "rarity": 2,
+        "description": "破烂不堪，被涂毁损的罗洪特抄本。可用来进行各种制造及强化。"
+      },
+      {
+        "id": 206,
+        "name": "活动点数",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ex9sqOYFLscA6r6GlA4yUO3qv9D4MusM.png",
+        "rarity": 1,
+        "description": "每当进行活动时可获得的点数。获得越多即可得到多样奖励。"
+      },
+      {
+        "id": 1615,
+        "name": "货运列车路线图",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/FagyxAUdBi6B4RHCUKucMS0v4t5Iwr3c.png",
+        "rarity": 1,
+        "description": "标有货运列车路线的图纸。“通常情况下”，列车会按照此路线图运行。"
+      },
       {
         "id": 99,
         "name": "基础技术笔记（阿比多斯） ",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/Wuc4qDWkUfU8ypJoWGtY9h4O0QniDBI8.png",
         "rarity": 1,
         "description": "归纳狂猎艺术学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 6,
-        "name": "基础技术笔记（千禧）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/0WcpzbVW6Okr5tJeqaUSuPl5smznwvmN.png",
-        "rarity": 1,
-        "description": "归纳千禧科学学院战术核心的秘法笔记。"
-      },
-      {
-        "id": 13,
-        "name": "基础技术笔记（山海经）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/VmY2C5eL5K5jJ8s0GogYTlRudFfgfIWK.png",
-        "rarity": 1,
-        "description": "归纳山海经高级中学战术核心的秘法笔记。"
-      },
-      {
-        "id": 40,
-        "name": "基础技术笔记（圣三一） ",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/WmaWrCSoVloXdVRij66VV4QVC9ck5ALE.png",
-        "rarity": 1,
-        "description": "归纳圣三一学园战术核心的秘法笔记。 "
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572543,
+  "time": 1795657608,
   "version": "v1.0.0-beta.43"
 }

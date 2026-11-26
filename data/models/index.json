@@ -7,13 +7,13 @@
     "api_path": "/data/models/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/models/"
   },
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "list_key": "model",
   "id_key": "id",
-  "max_page": 55,
-  "synced_pages": 55,
-  "total_items": 549,
-  "details_synced": 549,
+  "max_page": 56,
+  "synced_pages": 56,
+  "total_items": 552,
+  "details_synced": 552,
   "details_enabled": true,
   "items": [
     {
@@ -2760,6 +2760,21 @@
       "id": 566,
       "name": "Haunted_King_Body",
       "type": "body"
+    },
+    {
+      "id": 567,
+      "name": "CH0338_Halo",
+      "type": "halo"
+    },
+    {
+      "id": 568,
+      "name": "CH0339_Halo",
+      "type": "halo"
+    },
+    {
+      "id": 569,
+      "name": "CH0340_Halo",
+      "type": "halo"
     }
   ],
   "pages": [
@@ -3146,7 +3161,14 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=55",
       "path": "models/pages/55.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/55.json",
-      "item_count": 9
+      "item_count": 10
+    },
+    {
+      "page": 56,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/?page=56",
+      "path": "models/pages/56.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/pages/56.json",
+      "item_count": 2
     }
   ],
   "details": [
@@ -6443,13 +6465,31 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/models/566",
       "path": "models/566.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/566.json"
+    },
+    {
+      "id": 567,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/567",
+      "path": "models/567.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/567.json"
+    },
+    {
+      "id": 568,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/568",
+      "path": "models/568.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/568.json"
+    },
+    {
+      "id": 569,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/models/569",
+      "path": "models/569.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/569.json"
     }
   ],
   "lookup": {
     "path": "models/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/models/lookup.json",
-    "alias_count": 549,
-    "normalized_alias_count": 549,
-    "total_items": 549
+    "alias_count": 552,
+    "normalized_alias_count": 552,
+    "total_items": 552
   }
 }

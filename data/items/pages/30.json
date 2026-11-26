@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 6,
+        "name": "基础技术笔记（千禧）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/0WcpzbVW6Okr5tJeqaUSuPl5smznwvmN.png",
+        "rarity": 1,
+        "description": "归纳千禧科学学院战术核心的秘法笔记。"
+      },
+      {
+        "id": 13,
+        "name": "基础技术笔记（山海经）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/VmY2C5eL5K5jJ8s0GogYTlRudFfgfIWK.png",
+        "rarity": 1,
+        "description": "归纳山海经高级中学战术核心的秘法笔记。"
+      },
+      {
+        "id": 40,
+        "name": "基础技术笔记（圣三一） ",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/WmaWrCSoVloXdVRij66VV4QVC9ck5ALE.png",
+        "rarity": 1,
+        "description": "归纳圣三一学园战术核心的秘法笔记。 "
+      },
       {
         "id": 120,
         "name": "基础技术笔记（瓦尔基里） ",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/qfqbbLaDwIBg4WHFiVfIospw9aLTXLI5.png",
         "rarity": 1,
         "description": "装有强化技能的技术笔记的箱子。  ※ 此物品在获得后立刻被使用 （随机获得一个阿比多斯、千禧或红冬的基础技术笔记）"
-      },
-      {
-        "id": 350,
-        "name": "基础技术笔记选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/b7rxat37hs5qy0tlUHga9zWGKOUXpeVz.png",
-        "rarity": 1,
-        "description": "可以选择需要的技术笔记的选择券"
-      },
-      {
-        "id": 149,
-        "name": "基础战术教育BD（阿比多斯）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/ygeGhAdjSO2CsTKLFb6roSrjlbyDvVif.png",
-        "rarity": 1,
-        "description": "把阿比多斯学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 143,
-        "name": "基础战术教育BD（阿里乌斯）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/paDPG3M2aHDZwiQ8hnBIRBvxO3oCVNsg.png",
-        "rarity": 1,
-        "description": "把阿里乌斯学生的战术活动记录成视频的教育用BD。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572544,
+  "time": 1795657609,
   "version": "v1.0.0-beta.43"
 }

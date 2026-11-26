@@ -2,8 +2,16 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 456,
+        "name": "Momo好友咖啡厅系列家具抽选箱",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/pr8CkZ322z69K8Y0eAyLIUNtrjiou6rm.png",
+        "rarity": 4,
+        "description": "使用时以相同的概率获得1个Momo好友咖啡厅系列家具的抽选箱。"
+      },
       {
         "id": 1396,
         "name": "Momo好友咖啡厅系列家具选择箱",
@@ -75,19 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/k3DrEIPs2Sj0nUPudoCmvloxIKTXSQiv.png",
         "rarity": 1,
         "description": "使用时，以相同的概率获得1个T4装备设计图的抽选盒"
-      },
-      {
-        "id": 277,
-        "name": "T4装备设计图选择券",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/9g3Kfnxr40sZ7ZdwVEDZzU3cBwv30IGo.png",
-        "rarity": 1,
-        "description": "可选择想要的装备设计图的选择券"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572514,
+  "time": 1795657585,
   "version": "v1.0.0-beta.43"
 }

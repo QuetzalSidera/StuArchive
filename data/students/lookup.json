@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 514,
-  "alias_count": 5810,
-  "normalized_alias_count": 3989,
+  "total_items": 518,
+  "alias_count": 5834,
+  "normalized_alias_count": 4005,
   "by_id": {
     "76": {
       "id": 76,
@@ -7763,6 +7763,31 @@
       "profile_path": "students/profiles/193.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/193.json"
     },
+    "649": {
+      "id": 649,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 649,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "云林院",
+        "given_name": "丽",
+        "family_name_jp": "雲林院",
+        "given_name_jp": "ウララ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E6%9E%97%E9%99%A2%20%E4%B8%BD/original/Student_Portrait_CH0340_Collection.png",
+        "school": 14,
+        "main_relation": 142
+      },
+      "detail_path": "students/649.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/649.json",
+      "profile_path": "students/profiles/649.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/649.json"
+    },
     "560": {
       "id": 560,
       "source_path": "students/index.json",
@@ -7787,6 +7812,56 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/560.json",
       "profile_path": "students/profiles/560.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/560.json"
+    },
+    "650": {
+      "id": 650,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 650,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "久远寺",
+        "given_name": "卡农",
+        "family_name_jp": "久遠寺",
+        "given_name_jp": "カノン",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%B9%85%E8%BF%9C%E5%AF%BA%20%E5%8D%A1%E5%86%9C/original/CH0341_spr_Idle_01_1.9023999999999026.png",
+        "school": 14,
+        "main_relation": 142
+      },
+      "detail_path": "students/650.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/650.json",
+      "profile_path": "students/profiles/650.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/650.json"
+    },
+    "651": {
+      "id": 651,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 651,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "小城",
+        "given_name": "小夜",
+        "family_name_jp": "小城",
+        "given_name_jp": "サヨ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E5%9F%8E%20%E5%B0%8F%E5%A4%9C/original/CH0315_spr_Idle_01_1.8470665077209247.png",
+        "school": 14,
+        "main_relation": 141
+      },
+      "detail_path": "students/651.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/651.json",
+      "profile_path": "students/profiles/651.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/651.json"
     },
     "548": {
       "id": 548,
@@ -7904,7 +7979,7 @@
         "given_name_jp": "マナミ",
         "family_name_cn": "云类鹫",
         "given_name_cn": "学美",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/avatar.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/Student_Portrait_CH0339_Collection.png",
         "school": 14,
         "main_relation": 142
       },
@@ -8054,7 +8129,7 @@
         "given_name_jp": "ナナミ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E6%8A%A4%E5%AE%88%20%E4%B8%83%E6%B5%B7/original/Nanami.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%8A%A4%E5%AE%88%20%E4%B8%83%E6%B5%B7/original/CH0374_spr_Idle_01_1.2680000000000007.png",
         "school": 15,
         "main_relation": 66
       },
@@ -8079,7 +8154,7 @@
         "given_name_jp": "ミツキ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%8D%83%E7%9F%B3%20%E7%BE%8E%E6%9C%88/original/Mitsuki.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%8D%83%E7%9F%B3%20%E4%B8%89%E6%9C%88/original/CH0372_spr_Idle_01_1.134300000000002.png",
         "school": 15,
         "main_relation": 0
       },
@@ -8104,7 +8179,7 @@
         "given_name_jp": "ミナト",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E6%B5%B7%E8%B7%AF%20%E5%87%91/original/Minato.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E6%B5%B7%E8%B7%AF%20%E5%87%91/original/CH0342_spr_Idle_01_1.2013000000000025.png",
         "school": 15,
         "main_relation": 158
       },
@@ -8129,7 +8204,7 @@
         "given_name_jp": "スミカ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%201/original/%E3%82%B9%E3%83%9F%E3%82%AB.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%B0%8F%E6%A3%AE%20%E5%A2%A8%E5%8D%8E/original/CH0383_spr_00_0.png",
         "school": 15,
         "main_relation": 153
       },
@@ -8154,7 +8229,7 @@
         "given_name_jp": "サユリ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E5%B0%8F%E7%99%BE%E5%90%88/original/sayuri.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%B0%8F%E7%99%BE%E5%90%88/original/CH0371_spr_Idle_01_1.2845999999999984.png",
         "school": 15,
         "main_relation": 155
       },
@@ -8204,7 +8279,7 @@
         "given_name_jp": "サナエ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E8%88%B9%E5%AE%88%20%E6%97%A9%E8%8B%97/original/Sanae.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E8%88%B9%E5%AE%88%20%E6%97%A9%E8%8B%97/original/CH0350_spr_Idle_01_2.3857000000000035.png",
         "school": 15,
         "main_relation": 156
       },
@@ -8229,7 +8304,7 @@
         "given_name_jp": "アミ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E7%81%AF%E4%B8%8B%20%E4%BA%9A%E7%BE%8E/original/Ami.png",
+        "avatar": "https://static.kivo.wiki/images/students/%E7%81%AF%E4%B8%8B%20%E7%88%B1%E6%B5%B7/original/CH0343_spr_Idle_01_1.4682999999999866.png",
         "school": 15,
         "main_relation": 158
       },
@@ -8254,7 +8329,7 @@
         "given_name_jp": "マキナ",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E7%8E%9B%E7%90%AA%E5%A8%9C/original/makina.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E7%8E%9B%E7%90%AA%E5%A8%9C/original/CH0370_spr_Idle_01_1.5013999999999927.png",
         "school": 15,
         "main_relation": 155
       },
@@ -8587,6 +8662,31 @@
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/525.json",
       "profile_path": "students/profiles/525.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/525.json"
+    },
+    "652": {
+      "id": 652,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 652,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "初田",
+        "given_name": "飞鸟",
+        "family_name_jp": "初田",
+        "given_name_jp": "アスカ",
+        "family_name_cn": "",
+        "given_name_cn": "",
+        "avatar": "https://static.kivo.wiki/images/students/%E5%88%9D%E7%94%B0%20%E9%A3%9E%E9%B8%9F/original/asuka.png",
+        "school": 24,
+        "main_relation": 66
+      },
+      "detail_path": "students/652.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/652.json",
+      "profile_path": "students/profiles/652.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/652.json"
     },
     "291": {
       "id": 291,
@@ -10329,7 +10429,7 @@
         "given_name_jp": "トライデントの部員",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E4%B8%89%E5%8F%89%E6%88%9F%E9%83%A8%E5%91%98A/original/Trident.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E4%B8%89%E5%8F%89%E6%88%9F%E9%83%A8%E5%91%98A/original/NP0296_spr_Idle_01_1.8717665076255754.png",
         "school": 15,
         "main_relation": 153
       },
@@ -10354,7 +10454,7 @@
         "given_name_jp": "オデュッセイアの生徒",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%AD%A6%E7%94%9FA/original/OdesseyStuA.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%AD%A6%E7%94%9FA/original/NP0259_spr_Idle_01_0.8709665076732618.png",
         "school": 15,
         "main_relation": 0
       },
@@ -10379,7 +10479,7 @@
         "given_name_jp": "オデュッセイアの生徒B",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%AD%A6%E7%94%9FB/original/OdesseyStuB.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%AD%A6%E7%94%9FB/original/NP0260_spr_Idle_01_1.1345999999046328.png",
         "school": 15,
         "main_relation": 0
       },
@@ -10404,7 +10504,7 @@
         "given_name_jp": "オデュッセイアの生徒C",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%AD%A6%E7%94%9FC/original/OdesseyStuC.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E5%AD%A6%E7%94%9FC/original/NP0309_spr_Idle_01_1.2848000000715258.png",
         "school": 15,
         "main_relation": 0
       },
@@ -10429,7 +10529,7 @@
         "given_name_jp": "BunnyGirl_SR_spr",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%E5%85%94%E5%A5%B3%E9%83%8E%E5%AD%A6%E7%94%9F-%E7%8B%99%E5%87%BB%E6%9E%AA/avatar.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E5%A5%A5%E5%BE%B7%E8%B5%9B%E7%9A%84%E5%85%94%E5%A5%B3%E9%83%8EA/original/BunnyGirl_SR_spr_2.png",
         "school": 15,
         "main_relation": 0
       },
@@ -10454,7 +10554,7 @@
         "given_name_jp": "海賊",
         "family_name_cn": "",
         "given_name_cn": "",
-        "avatar": "https://static.kivo.wiki/images/students/%20%E6%B5%B7%E7%9B%97A/original/%E6%B5%B7%E7%9B%97A.png",
+        "avatar": "https://static.kivo.wiki/images/students/%20%E6%B5%B7%E7%9B%97A/original/NP0297_spr_Idle_01_1.4851999999284746.png",
         "school": 15,
         "main_relation": 0
       },
@@ -29372,6 +29472,24 @@
     "シノン": [
       "193"
     ],
+    "云林院丽": [
+      "649"
+    ],
+    "云林院 丽": [
+      "649"
+    ],
+    "丽": [
+      "649"
+    ],
+    "雲林院ウララ": [
+      "649"
+    ],
+    "雲林院 ウララ": [
+      "649"
+    ],
+    "ウララ": [
+      "649"
+    ],
     "若狭冬": [
       "560"
     ],
@@ -29389,6 +29507,42 @@
     ],
     "フユ": [
       "560"
+    ],
+    "久远寺卡农": [
+      "650"
+    ],
+    "久远寺 卡农": [
+      "650"
+    ],
+    "卡农": [
+      "650"
+    ],
+    "久遠寺カノン": [
+      "650"
+    ],
+    "久遠寺 カノン": [
+      "650"
+    ],
+    "カノン": [
+      "650"
+    ],
+    "小城小夜": [
+      "651"
+    ],
+    "小城 小夜": [
+      "651"
+    ],
+    "小夜": [
+      "651"
+    ],
+    "小城サヨ": [
+      "651"
+    ],
+    "小城 サヨ": [
+      "651"
+    ],
+    "サヨ": [
+      "651"
     ],
     "板垣庚": [
       "548"
@@ -29995,6 +30149,24 @@
     ],
     "アオバ": [
       "525"
+    ],
+    "初田飞鸟": [
+      "652"
+    ],
+    "初田 飞鸟": [
+      "652"
+    ],
+    "飞鸟": [
+      "652"
+    ],
+    "初田アスカ": [
+      "652"
+    ],
+    "初田 アスカ": [
+      "652"
+    ],
+    "アスカ": [
+      "652"
     ],
     "奈央(CBT)": [
       "291"
@@ -42323,6 +42495,18 @@
     "シノン": [
       "193"
     ],
+    "云林院丽": [
+      "649"
+    ],
+    "丽": [
+      "649"
+    ],
+    "雲林院ウララ": [
+      "649"
+    ],
+    "ウララ": [
+      "649"
+    ],
     "若狭冬": [
       "560"
     ],
@@ -42334,6 +42518,30 @@
     ],
     "フユ": [
       "560"
+    ],
+    "久远寺卡农": [
+      "650"
+    ],
+    "卡农": [
+      "650"
+    ],
+    "久遠寺カノン": [
+      "650"
+    ],
+    "カノン": [
+      "650"
+    ],
+    "小城小夜": [
+      "651"
+    ],
+    "小夜": [
+      "651"
+    ],
+    "小城サヨ": [
+      "651"
+    ],
+    "サヨ": [
+      "651"
     ],
     "板垣庚": [
       "548"
@@ -42749,6 +42957,18 @@
     ],
     "アオバ": [
       "525"
+    ],
+    "初田飞鸟": [
+      "652"
+    ],
+    "飞鸟": [
+      "652"
+    ],
+    "初田アスカ": [
+      "652"
+    ],
+    "アスカ": [
+      "652"
     ],
     "奈央(cbt)": [
       "291"

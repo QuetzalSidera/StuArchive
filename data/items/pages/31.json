@@ -2,8 +2,32 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 350,
+        "name": "基础技术笔记选择券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/b7rxat37hs5qy0tlUHga9zWGKOUXpeVz.png",
+        "rarity": 1,
+        "description": "可以选择需要的技术笔记的选择券"
+      },
+      {
+        "id": 149,
+        "name": "基础战术教育BD（阿比多斯）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ygeGhAdjSO2CsTKLFb6roSrjlbyDvVif.png",
+        "rarity": 1,
+        "description": "把阿比多斯学生的战术活动记录成视频的教育用BD。"
+      },
+      {
+        "id": 143,
+        "name": "基础战术教育BD（阿里乌斯）",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/paDPG3M2aHDZwiQ8hnBIRBvxO3oCVNsg.png",
+        "rarity": 1,
+        "description": "把阿里乌斯学生的战术活动记录成视频的教育用BD。"
+      },
       {
         "id": 2059,
         "name": "基础战术教育BD（奥德赛）",
@@ -59,35 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/ayFBhMXBDAZVB4PtpPsUBN1LOGM30vGP.png",
         "rarity": 1,
         "description": "把圣三一学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 133,
-        "name": "基础战术教育BD（瓦尔基里）",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/st99EFF6S2bLAWbtPIpmflIqSmjLE7CJ.png",
-        "rarity": 1,
-        "description": "把瓦尔基里学生的战术活动记录成视频的教育用BD。"
-      },
-      {
-        "id": 233,
-        "name": "基础战术教育BD抽选盒",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/iGo2RmEtXzxlI11wUinl004wvPFqM6Nh.png",
-        "rarity": 1,
-        "description": "使用时，以相同的概率获得1个基础战术教育BD的抽选盒"
-      },
-      {
-        "id": 333,
-        "name": "基础战术教育BD箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/aACouogHRwCKaAJTKhuIlpHQFLQFSXkb.png",
-        "rarity": 1,
-        "description": "装有提升EX技能所需的战术教育BD的箱子。  ※ 此物品在获得后立刻被使用"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572545,
+  "time": 1795657610,
   "version": "v1.0.0-beta.43"
 }

@@ -2,8 +2,40 @@
   "code": 2000,
   "codename": "Koyuki",
   "data": {
-    "max_page": 203,
+    "max_page": 204,
     "item": [
+      {
+        "id": 2078,
+        "name": "铜碎片",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/AvKjy1G9ojsRrslZPyS2PKVs6veML58w.png",
+        "rarity": 1,
+        "description": "铜85%，锡5%，锌5%，铅5%。表面浮现着由碱式碳酸铜形成的绿色铜锈，从断面则能窥见其氧化前鲜艳的黄褐色金属光泽。"
+      },
+      {
+        "id": 317,
+        "name": "骰子",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/WRskD2X6SjVFLeafToTD0FH2nsytySEc.png",
+        "rarity": 1,
+        "description": "老是在船上发现的骰子。虽然只是单纯的玩具，不过也会用于解决学生之间的纷争。"
+      },
+      {
+        "id": 1333,
+        "name": "骰子1点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/ozFqedxhpKbsMqTq3lriXk1LNUkKVHjB.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择1点后会消耗此券。"
+      },
+      {
+        "id": 1334,
+        "name": "骰子2点固定券",
+        "type": "default",
+        "icon": "https://static.kivo.wiki/images/item/icon/jUHwd2DTjGJwdenKLIC4aYCCrHGmH58k.png",
+        "rarity": 1,
+        "description": "可以固定骰子的点数的票券。选择2点后会消耗此券。"
+      },
       {
         "id": 1335,
         "name": "骰子3点固定券",
@@ -51,43 +83,11 @@
         "icon": "https://static.kivo.wiki/images/item/icon/m2CM7AGMNUzvW0OqLBwrkmy4SGJk4rWx.png",
         "rarity": 1,
         "description": "图腾柱的碎片。可用来进行各种制造及强化。"
-      },
-      {
-        "id": 1901,
-        "name": "土豆蛋糕",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/AKq98uXDIWcDzlFKPyDsS2BGvkQ94D08.png",
-        "rarity": 1,
-        "description": "将小麦粉和炼乳、砂糖、可可和肉桂等混合后制成的巧克力蛋糕。 不论是谁都有着无限的可能性。"
-      },
-      {
-        "id": 313,
-        "name": "兔子贴纸",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/LkjAdN9gep3CjxpsHiKW8TCLawDvdtcY.png",
-        "rarity": 1,
-        "description": "学生们到处乱贴的兔子贴纸。没什么特别的意义。因为容易制作，大部分的学生都自己做出来贴。"
-      },
-      {
-        "id": 1919,
-        "name": "瓦尔基里警察学校系列抽选箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/TD6x7LQyICyFcb3xmSLy8qMMtCUHQwna.png",
-        "rarity": 4,
-        "description": "使用时以相同的概率获得1个瓦尔基里警察学校系列家具的抽选箱。"
-      },
-      {
-        "id": 1918,
-        "name": "瓦尔基里警察学校系列选择箱",
-        "type": "default",
-        "icon": "https://static.kivo.wiki/images/item/icon/kSTLTcOLyGc8y4nU9pCUEtrDlDO5TKIY.png",
-        "rarity": 4,
-        "description": "从瓦尔基里警察学校系列家具中任意选择一个家具兑换的选择箱。"
       }
     ]
   },
   "message": "OK",
   "success": true,
-  "time": 1795572575,
+  "time": 1795657636,
   "version": "v1.0.0-beta.43"
 }

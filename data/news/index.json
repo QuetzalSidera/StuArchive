@@ -7,18 +7,24 @@
     "api_path": "/news/",
     "upstream_url": "https://api.kivo.wiki/api/v1/news/"
   },
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "list_key": "news",
   "id_key": "id",
   "max_page": 9,
   "synced_pages": 9,
-  "total_items": 88,
-  "details_synced": 88,
+  "total_items": 89,
+  "details_synced": 89,
   "details_enabled": true,
   "items": [
     {
+      "id": 157,
+      "title": "日服新活动「踊らされし芸術～象牙の塔と招かれざる客～」",
+      "image": "https://static.kivo.wiki/images/news/NLRudv1XnCSmg3sh4simR39dWgN77zPs.png",
+      "url": ""
+    },
+    {
       "id": 156,
-      "title": "日服新活动「Start Your Engines! ～183号よ永遠に！～」",
+      "title": "[已结束]日服新活动「Start Your Engines! ～183号よ永遠に！～」",
       "image": "https://static.kivo.wiki/images/news/T5bYkPnuN7moVB3pzj80p83zk7hbrO6W.jpg",
       "url": "x.com/Blue_ArchiveJP/status/2114313078879977697"
     },
@@ -607,10 +613,16 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/news/?page=9",
       "path": "news/pages/9.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/pages/9.json",
-      "item_count": 8
+      "item_count": 9
     }
   ],
   "details": [
+    {
+      "id": 157,
+      "upstream_url": "https://api.kivo.wiki/api/v1/news/157",
+      "path": "news/157.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/157.json"
+    },
     {
       "id": 156,
       "upstream_url": "https://api.kivo.wiki/api/v1/news/156",
@@ -1143,8 +1155,8 @@
   "lookup": {
     "path": "news/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/lookup.json",
-    "alias_count": 88,
-    "normalized_alias_count": 88,
-    "total_items": 88
+    "alias_count": 89,
+    "normalized_alias_count": 89,
+    "total_items": 89
   }
 }

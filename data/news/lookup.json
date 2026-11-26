@@ -2,24 +2,37 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 88,
-  "alias_count": 88,
-  "normalized_alias_count": 88,
+  "total_items": 89,
+  "alias_count": 89,
+  "normalized_alias_count": 89,
   "by_id": {
+    "157": {
+      "id": 157,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 157,
+        "title": "日服新活动「踊らされし芸術～象牙の塔と招かれざる客～」",
+        "image": "https://static.kivo.wiki/images/news/NLRudv1XnCSmg3sh4simR39dWgN77zPs.png",
+        "url": ""
+      },
+      "detail_path": "news/157.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/157.json"
+    },
     "156": {
       "id": 156,
       "source_path": "news/index.json",
       "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
       "item": {
         "id": 156,
-        "title": "日服新活动「Start Your Engines! ～183号よ永遠に！～」",
+        "title": "[已结束]日服新活动「Start Your Engines! ～183号よ永遠に！～」",
         "image": "https://static.kivo.wiki/images/news/T5bYkPnuN7moVB3pzj80p83zk7hbrO6W.jpg",
         "url": "x.com/Blue_ArchiveJP/status/2114313078879977697"
       },
@@ -1159,7 +1172,10 @@
     }
   },
   "by_alias": {
-    "日服新活动「Start Your Engines! ~183号よ永遠に!~」": [
+    "日服新活动「踊らされし芸術~象牙の塔と招かれざる客~」": [
+      "157"
+    ],
+    "[已结束]日服新活动「Start Your Engines! ~183号よ永遠に!~」": [
       "156"
     ],
     "[已结束]日服新活动「It’s our Engine! ~183号を脱出せよ!~」": [
@@ -1425,7 +1441,10 @@
     ]
   },
   "by_normalized_alias": {
-    "日服新活动「startyourengines!~183号よ永遠に!~」": [
+    "日服新活动「踊らされし芸術~象牙の塔と招かれざる客~」": [
+      "157"
+    ],
+    "[已结束]日服新活动「startyourengines!~183号よ永遠に!~」": [
       "156"
     ],
     "[已结束]日服新活动「it’sourengine!~183号を脱出せよ!~」": [

@@ -2,16 +2,16 @@
   "schema_version": "1.0.0",
   "name": "spines",
   "description": "Spine asset metadata.",
-  "generated_at": "2026-11-25T01:55:21Z",
+  "generated_at": "2026-11-26T01:35:18Z",
   "id_key": "id",
   "source_index": {
     "path": "spines/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 1801,
-  "alias_count": 1798,
-  "normalized_alias_count": 1798,
+  "total_items": 1808,
+  "alias_count": 1805,
+  "normalized_alias_count": 1805,
   "by_id": {
     "1": {
       "id": 1,
@@ -23425,6 +23425,97 @@
       },
       "detail_path": "spines/1922.json",
       "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1922.json"
+    },
+    "1923": {
+      "id": 1923,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1923,
+        "name": "CH0315_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1923.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1923.json"
+    },
+    "1924": {
+      "id": 1924,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1924,
+        "name": "CH0338_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1924.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1924.json"
+    },
+    "1925": {
+      "id": 1925,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1925,
+        "name": "CH0339_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1925.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1925.json"
+    },
+    "1926": {
+      "id": 1926,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1926,
+        "name": "CH0340_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1926.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1926.json"
+    },
+    "1927": {
+      "id": 1927,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1927,
+        "name": "CH0341_spr",
+        "remark": "初始立绘",
+        "type": "spr"
+      },
+      "detail_path": "spines/1927.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1927.json"
+    },
+    "1928": {
+      "id": 1928,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1928,
+        "name": "CH0340_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1928.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1928.json"
+    },
+    "1929": {
+      "id": 1929,
+      "source_path": "spines/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/index.json",
+      "item": {
+        "id": 1929,
+        "name": "CH0339_home",
+        "remark": "",
+        "type": "home"
+      },
+      "detail_path": "spines/1929.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/spines/1929.json"
     }
   },
   "by_alias": {
@@ -28824,6 +28915,27 @@
     ],
     "CH0380_spr": [
       "1922"
+    ],
+    "CH0315_spr": [
+      "1923"
+    ],
+    "CH0338_spr": [
+      "1924"
+    ],
+    "CH0339_spr": [
+      "1925"
+    ],
+    "CH0340_spr": [
+      "1926"
+    ],
+    "CH0341_spr": [
+      "1927"
+    ],
+    "CH0340_home": [
+      "1928"
+    ],
+    "CH0339_home": [
+      "1929"
     ]
   },
   "by_normalized_alias": {
@@ -34223,6 +34335,27 @@
     ],
     "ch0380_spr": [
       "1922"
+    ],
+    "ch0315_spr": [
+      "1923"
+    ],
+    "ch0338_spr": [
+      "1924"
+    ],
+    "ch0339_spr": [
+      "1925"
+    ],
+    "ch0340_spr": [
+      "1926"
+    ],
+    "ch0341_spr": [
+      "1927"
+    ],
+    "ch0340_home": [
+      "1928"
+    ],
+    "ch0339_home": [
+      "1929"
     ]
   }
 }

@@ -44,19 +44,19 @@
           "favorability": 60
         },
         {
-          "id": 62,
-          "skin": "",
-          "family_name": "明星",
-          "given_name": "日鞠",
-          "avatar": "https://static.kivo.wiki/images/students/%E6%98%8E%E6%98%9F%20%E6%97%A5%E9%9E%A0/avatar.png",
-          "favorability": 60
-        },
-        {
           "id": 350,
           "skin": "礼服",
           "family_name": "陆八魔",
           "given_name": "阿露",
           "avatar": "https://static.kivo.wiki/images/students/%E9%99%86%E5%85%AB%E9%AD%94%20%E9%98%BF%E9%9C%B2/%E7%A4%BC%E6%9C%8D/avatar.png",
+          "favorability": 60
+        },
+        {
+          "id": 62,
+          "skin": "",
+          "family_name": "明星",
+          "given_name": "日鞠",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%98%8E%E6%98%9F%20%E6%97%A5%E9%9E%A0/avatar.png",
           "favorability": 60
         },
         {
@@ -68,14 +68,6 @@
           "favorability": 60
         },
         {
-          "id": 101,
-          "skin": "",
-          "family_name": "黑崎",
-          "given_name": "小雪",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E5%B4%8E%20%E5%B0%8F%E9%9B%AA/avatar.png",
-          "favorability": 60
-        },
-        {
           "id": 346,
           "skin": "礼服",
           "family_name": "空崎",
@@ -84,11 +76,19 @@
           "favorability": 60
         },
         {
-          "id": 44,
-          "skin": "正月",
-          "family_name": "黑见",
-          "given_name": "芹香",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99/%E6%AD%A3%E6%9C%88/avatar.png",
+          "id": 101,
+          "skin": "",
+          "family_name": "黑崎",
+          "given_name": "小雪",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E5%B4%8E%20%E5%B0%8F%E9%9B%AA/avatar.png",
+          "favorability": 60
+        },
+        {
+          "id": 116,
+          "skin": "",
+          "family_name": "鬼怒川",
+          "given_name": "霞",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/original/avatar.png",
           "favorability": 40
         },
         {
@@ -97,14 +97,6 @@
           "family_name": "龙华",
           "given_name": "妃咲",
           "avatar": "https://static.kivo.wiki/images/students/%E9%BE%99%E5%8D%8E%20%E5%A6%83%E5%92%B2/%E6%B3%B3%E8%A3%85/Student_Portrait_CH0356_Collection.png",
-          "favorability": 40
-        },
-        {
-          "id": 116,
-          "skin": "",
-          "family_name": "鬼怒川",
-          "given_name": "霞",
-          "avatar": "https://static.kivo.wiki/images/students/%E9%AC%BC%E6%80%92%E5%B7%9D%20%E9%9C%9E/original/avatar.png",
           "favorability": 40
         },
         {
@@ -212,6 +204,14 @@
           "favorability": 40
         },
         {
+          "id": 555,
+          "skin": "",
+          "family_name": "云类鹫",
+          "given_name": "爱美",
+          "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/Student_Portrait_CH0339_Collection.png",
+          "favorability": 40
+        },
+        {
           "id": 59,
           "skin": "泳装",
           "family_name": "黑见",
@@ -300,11 +300,11 @@
           "favorability": 40
         },
         {
-          "id": 554,
-          "skin": "",
-          "family_name": "樱井",
-          "given_name": "美代",
-          "avatar": "https://static.kivo.wiki/images/students/%E6%A8%B1%E4%BA%95%20%E7%BE%8E%E4%BB%A3/original/Student_Portrait_CH0317_Collection.png",
+          "id": 44,
+          "skin": "正月",
+          "family_name": "黑见",
+          "given_name": "芹香",
+          "avatar": "https://static.kivo.wiki/images/students/%E9%BB%91%E8%A7%81%20%E8%8A%B9%E9%A6%99/%E6%AD%A3%E6%9C%88/avatar.png",
           "favorability": 40
         },
         {
@@ -378,6 +378,14 @@
           "given_name": "艾米",
           "avatar": "https://static.kivo.wiki/images/students/%E5%92%8C%E6%B3%89%E5%85%83%20%E8%89%BE%E7%B1%B3/%E6%B3%B3%E8%A3%85/avatar.png",
           "favorability": 40
+        },
+        {
+          "id": 554,
+          "skin": "",
+          "family_name": "樱井",
+          "given_name": "美代",
+          "avatar": "https://static.kivo.wiki/images/students/%E6%A8%B1%E4%BA%95%20%E7%BE%8E%E4%BB%A3/original/Student_Portrait_CH0317_Collection.png",
+          "favorability": 40
         }
       ]
     },
@@ -388,6 +396,6 @@
   },
   "message": "OK",
   "success": true,
-  "time": 1795573584,
+  "time": 1795658458,
   "version": "v1.0.0-beta.43"
 }
