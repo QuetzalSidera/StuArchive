@@ -2,17 +2,30 @@
   "schema_version": "1.0.0",
   "name": "news",
   "description": "News posts.",
-  "generated_at": "2026-11-27T01:29:44Z",
+  "generated_at": "2026-11-28T01:06:47Z",
   "id_key": "id",
   "source_index": {
     "path": "news/index.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json"
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
-  "total_items": 89,
-  "alias_count": 89,
-  "normalized_alias_count": 89,
+  "total_items": 90,
+  "alias_count": 90,
+  "normalized_alias_count": 90,
   "by_id": {
+    "158": {
+      "id": 158,
+      "source_path": "news/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/index.json",
+      "item": {
+        "id": 158,
+        "title": "[广告]上海蔚蓝档案only 新岁千年 - 2027.1.1",
+        "image": "https://static.kivo.wiki/images/news/zH7EqbjddQyDVVIB8irlYxF53VkR5lxc.jpg",
+        "url": ""
+      },
+      "detail_path": "news/158.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/news/158.json"
+    },
     "157": {
       "id": 157,
       "source_path": "news/index.json",
@@ -1172,6 +1185,9 @@
     }
   },
   "by_alias": {
+    "[广告]上海蔚蓝档案only 新岁千年 - 2027.1.1": [
+      "158"
+    ],
     "日服新活动「踊らされし芸術~象牙の塔と招かれざる客~」": [
       "157"
     ],
@@ -1441,6 +1457,9 @@
     ]
   },
   "by_normalized_alias": {
+    "[广告]上海蔚蓝档案only新岁千年-2027.1.1": [
+      "158"
+    ],
     "日服新活动「踊らされし芸術~象牙の塔と招かれざる客~」": [
       "157"
     ],

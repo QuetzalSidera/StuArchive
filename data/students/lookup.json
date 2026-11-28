@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "name": "students",
   "description": "Student list and per-student profiles.",
-  "generated_at": "2026-11-27T01:29:44Z",
+  "generated_at": "2026-11-28T01:06:47Z",
   "id_key": "id",
   "source_index": {
     "path": "students/index.json",
@@ -10,8 +10,8 @@
   },
   "normalization": "NFKC, trim, collapse whitespace, casefold, then remove whitespace.",
   "total_items": 518,
-  "alias_count": 5834,
-  "normalized_alias_count": 4005,
+  "alias_count": 5831,
+  "normalized_alias_count": 4003,
   "by_id": {
     "76": {
       "id": 76,
@@ -7838,6 +7838,31 @@
       "profile_path": "students/profiles/650.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/650.json"
     },
+    "555": {
+      "id": 555,
+      "source_path": "students/index.json",
+      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
+      "item": {
+        "id": 555,
+        "skin": "",
+        "skin_jp": "",
+        "skin_cn": "",
+        "skin_zh_tw": "",
+        "family_name": "云类鹫",
+        "given_name": "学美",
+        "family_name_jp": "雲類鷲",
+        "given_name_jp": "マナミ",
+        "family_name_cn": "云类鹫",
+        "given_name_cn": "学美",
+        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/Student_Portrait_CH0339_Collection.png",
+        "school": 14,
+        "main_relation": 142
+      },
+      "detail_path": "students/555.json",
+      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/555.json",
+      "profile_path": "students/profiles/555.json",
+      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/555.json"
+    },
     "651": {
       "id": 651,
       "source_path": "students/index.json",
@@ -7963,31 +7988,6 @@
       "profile_path": "students/profiles/551.json",
       "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/551.json"
     },
-    "555": {
-      "id": 555,
-      "source_path": "students/index.json",
-      "source_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/index.json",
-      "item": {
-        "id": 555,
-        "skin": "",
-        "skin_jp": "",
-        "skin_cn": "",
-        "skin_zh_tw": "",
-        "family_name": "云类鹫",
-        "given_name": "爱美",
-        "family_name_jp": "雲類鷲",
-        "given_name_jp": "マナミ",
-        "family_name_cn": "云类鹫",
-        "given_name_cn": "学美",
-        "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/Student_Portrait_CH0339_Collection.png",
-        "school": 14,
-        "main_relation": 142
-      },
-      "detail_path": "students/555.json",
-      "detail_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/555.json",
-      "profile_path": "students/profiles/555.json",
-      "profile_raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/profiles/555.json"
-    },
     "372": {
       "id": 372,
       "source_path": "students/index.json",
@@ -8027,8 +8027,8 @@
         "given_name": "美代",
         "family_name_jp": "桜井",
         "given_name_jp": "ミヨ",
-        "family_name_cn": "",
-        "given_name_cn": "",
+        "family_name_cn": "樱井",
+        "given_name_cn": "美代",
         "avatar": "https://static.kivo.wiki/images/students/%E6%A8%B1%E4%BA%95%20%E7%BE%8E%E4%BB%A3/original/Student_Portrait_CH0317_Collection.png",
         "school": 14,
         "main_relation": 143
@@ -29526,6 +29526,24 @@
     "カノン": [
       "650"
     ],
+    "云类鹫学美": [
+      "555"
+    ],
+    "云类鹫 学美": [
+      "555"
+    ],
+    "学美": [
+      "555"
+    ],
+    "雲類鷲マナミ": [
+      "555"
+    ],
+    "雲類鷲 マナミ": [
+      "555"
+    ],
+    "マナミ": [
+      "555"
+    ],
     "小城小夜": [
       "651"
     ],
@@ -29630,33 +29648,6 @@
     ],
     "晶-制服": [
       "551"
-    ],
-    "云类鹫爱美": [
-      "555"
-    ],
-    "云类鹫 爱美": [
-      "555"
-    ],
-    "爱美": [
-      "555"
-    ],
-    "云类鹫学美": [
-      "555"
-    ],
-    "云类鹫 学美": [
-      "555"
-    ],
-    "学美": [
-      "555"
-    ],
-    "雲類鷲マナミ": [
-      "555"
-    ],
-    "雲類鷲 マナミ": [
-      "555"
-    ],
-    "マナミ": [
-      "555"
     ],
     "椎名纺": [
       "372"
@@ -42531,6 +42522,18 @@
     "カノン": [
       "650"
     ],
+    "云类鹫学美": [
+      "555"
+    ],
+    "学美": [
+      "555"
+    ],
+    "雲類鷲マナミ": [
+      "555"
+    ],
+    "マナミ": [
+      "555"
+    ],
     "小城小夜": [
       "651"
     ],
@@ -42600,24 +42603,6 @@
     ],
     "晶-制服": [
       "551"
-    ],
-    "云类鹫爱美": [
-      "555"
-    ],
-    "爱美": [
-      "555"
-    ],
-    "云类鹫学美": [
-      "555"
-    ],
-    "学美": [
-      "555"
-    ],
-    "雲類鷲マナミ": [
-      "555"
-    ],
-    "マナミ": [
-      "555"
     ],
     "椎名纺": [
       "372"

@@ -7,7 +7,7 @@
     "api_path": "/data/students/",
     "upstream_url": "https://api.kivo.wiki/api/v1/data/students/"
   },
-  "generated_at": "2026-11-27T01:29:44Z",
+  "generated_at": "2026-11-28T01:06:47Z",
   "list_key": "students",
   "id_key": "id",
   "max_page": 52,
@@ -5025,6 +5025,22 @@
       "main_relation": 142
     },
     {
+      "id": 555,
+      "skin": "",
+      "skin_jp": "",
+      "skin_cn": "",
+      "skin_zh_tw": "",
+      "family_name": "云类鹫",
+      "given_name": "学美",
+      "family_name_jp": "雲類鷲",
+      "given_name_jp": "マナミ",
+      "family_name_cn": "云类鹫",
+      "given_name_cn": "学美",
+      "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/Student_Portrait_CH0339_Collection.png",
+      "school": 14,
+      "main_relation": 142
+    },
+    {
       "id": 651,
       "skin": "",
       "skin_jp": "",
@@ -5105,22 +5121,6 @@
       "main_relation": 141
     },
     {
-      "id": 555,
-      "skin": "",
-      "skin_jp": "",
-      "skin_cn": "",
-      "skin_zh_tw": "",
-      "family_name": "云类鹫",
-      "given_name": "爱美",
-      "family_name_jp": "雲類鷲",
-      "given_name_jp": "マナミ",
-      "family_name_cn": "云类鹫",
-      "given_name_cn": "学美",
-      "avatar": "https://static.kivo.wiki/images/students/%E4%BA%91%E7%B1%BB%E9%B9%AB%20%E7%88%B1%E7%BE%8E/original/Student_Portrait_CH0339_Collection.png",
-      "school": 14,
-      "main_relation": 142
-    },
-    {
       "id": 372,
       "skin": "",
       "skin_jp": "",
@@ -5146,8 +5146,8 @@
       "given_name": "美代",
       "family_name_jp": "桜井",
       "given_name_jp": "ミヨ",
-      "family_name_cn": "",
-      "given_name_cn": "",
+      "family_name_cn": "樱井",
+      "given_name_cn": "美代",
       "avatar": "https://static.kivo.wiki/images/students/%E6%A8%B1%E4%BA%95%20%E7%BE%8E%E4%BB%A3/original/Student_Portrait_CH0317_Collection.png",
       "school": 14,
       "main_relation": 143
@@ -10551,6 +10551,12 @@
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/650.json"
     },
     {
+      "id": 555,
+      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/555",
+      "path": "students/555.json",
+      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/555.json"
+    },
+    {
       "id": 651,
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/651",
       "path": "students/651.json",
@@ -10579,12 +10585,6 @@
       "upstream_url": "https://api.kivo.wiki/api/v1/data/students/551",
       "path": "students/551.json",
       "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/551.json"
-    },
-    {
-      "id": 555,
-      "upstream_url": "https://api.kivo.wiki/api/v1/data/students/555",
-      "path": "students/555.json",
-      "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/555.json"
     },
     {
       "id": 372,
@@ -11784,8 +11784,8 @@
   "lookup": {
     "path": "students/lookup.json",
     "raw_url": "https://raw.githubusercontent.com/QuetzalSidera/StuArchive/main/data/students/lookup.json",
-    "alias_count": 5834,
-    "normalized_alias_count": 4005,
+    "alias_count": 5831,
+    "normalized_alias_count": 4003,
     "total_items": 518
   },
   "profiles": [
